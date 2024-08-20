@@ -1,1 +1,1 @@
-# Fortigate
+# Bad DNS FQDN Block 
