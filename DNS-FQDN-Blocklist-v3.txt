@@ -391,4 +391,5 @@ kzjiaio.org
 gatcyg.org
 gcbt.me
 *.xcvmcv.com
+www.xcvmcv.com
 gua.cool
