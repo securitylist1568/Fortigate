@@ -390,5 +390,5 @@ fld163.com
 kzjiaio.org
 gatcyg.org
 gcbt.me
-xcvmcv.com
+*.xcvmcv.com
 gua.cool
