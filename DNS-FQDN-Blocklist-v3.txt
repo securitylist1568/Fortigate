@@ -593,3 +593,4 @@ pttweb.cc
 ntnu.edut.tw
 www.ntnu.edut.tw
 mail.ntnu.edut.tw
+*.ntnu.edut.tw
