@@ -590,7 +590,10 @@ www.awsg7b.mogu200.xyz
 PTTWEB.CC
 www.pttweb.cc
 pttweb.cc
+*.pttweb.cc
 ntnu.edut.tw
 www.ntnu.edut.tw
 mail.ntnu.edut.tw
 *.ntnu.edut.tw
+*.HLJ.FUN
+*.hlj.fun
