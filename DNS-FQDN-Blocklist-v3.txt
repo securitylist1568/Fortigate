@@ -597,3 +597,5 @@ mail.ntnu.edut.tw
 *.ntnu.edut.tw
 *.HLJ.FUN
 *.hlj.fun
+hlj.fun
+HLJ.FUN
