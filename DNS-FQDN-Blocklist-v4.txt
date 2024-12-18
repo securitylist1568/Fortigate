@@ -1087,3 +1087,11 @@ hlj.fun
 *.hlj.fun
 HLJ.FUN
 *.HLJ.FUN
+*.SOPORN.COM
+SOPORN.COM
+soporn.com
+*.soporn.com
+VK.COM
+*.VK.COM
+vk.com
+*.vk.com
