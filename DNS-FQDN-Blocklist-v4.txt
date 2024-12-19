@@ -1145,3 +1145,5 @@ pdcbsd.org
 kzjiaio.org
 ppclal.com
 ddowatd.com
+lsu.edu.gn
+*.lsu.edu.gn
