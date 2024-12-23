@@ -1078,9 +1078,6 @@ awsg7b.mogu200.xyz
 *.cl.3283z.xyz
 *.cakedecoco.com
 *.awsg7b.mogu200.xyz
-PTTWEB.CC
-pttweb.cc
-*.pttweb.cc
 ntnu.edut.tw
 *.ntnu.edut.tw
 hlj.fun
