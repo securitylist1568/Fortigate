@@ -1144,3 +1144,5 @@ ppclal.com
 ddowatd.com
 lsu.edu.gn
 *.lsu.edu.gn
+ntnuedutma.temp.swtest.ru
+*.ntnuedutma.temp.swtest.ru
