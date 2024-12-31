@@ -1,0 +1,4 @@
+sharechinese.tcsl.ntnu.edu.tw
+ioplab.ieo.ntnu.edu.tw
+140.122.72.13
+bse.spe.ntnu.edu.tw
