@@ -1,4 +1,9 @@
-sharechinese.tcsl.ntnu.edu.tw
-ioplab.ieo.ntnu.edu.tw
+#sharechinese.tcsl.ntnu.edu.tw
+140.122.111.3
+#ioplab.ieo.ntnu.edu.tw
+140.122.178.127
+#ioplab.ieo.ntnu.edu.tw
+#體育
 140.122.72.13
-bse.spe.ntnu.edu.tw
+#bse.spe.ntnu.edu.tw
+140.122.63.176
