@@ -34,3 +34,5 @@
 140.122.127.210
 #huayubest.ntnu.edu.tw
 140.122.63.49
+#中小學藝術才能班優質發展網站artistic.finearts.ntnu.edu.tw
+140.122.63.47
