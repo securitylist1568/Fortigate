@@ -5,7 +5,7 @@
 #體育系
 140.122.72.13
 #bse.spe.ntnu.edu.tw
-140.122.63.176
+#140.122.63.176
 #dacm.ntnu.edu.tw
 140.122.101.215
 #jories.ntnu.edu.tw
