@@ -20,8 +20,8 @@
 140.122.64.53
 #cms.ntnu.edu.tw
 140.122.64.8
-#bse.spe.ntnu.edu.tw
-#140.122.63.176
+#bse.spe.ntnu.edu.tw-特殊教育研究學刊
+140.122.63.176
 #獎勵學術卓越教師Web
 140.122.64.61
 #rec3.smartpinyin.net
