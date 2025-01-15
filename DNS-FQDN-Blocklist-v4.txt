@@ -189,8 +189,9 @@ ttsp.tv
 stroikms.ru
 officeupdate.gq
 cloud.diskfree.co
-##20250102黑名單FQDN_XX區網中心Begin
+##20250102黑名單FQDN_XX資安院Begin
 iot809952618.softether.net
+*iot809952618.softether.net
 officeupdate.gq
 cloud.diskfree.co
 www.team-microsoft.top
@@ -347,7 +348,11 @@ readme.myddns.com
 sport.wikaba.com
 soft.msdnupdate.com
 msdnupdate.com
-###20250102黑名單FQDN_XX區網中心End
+readme.myddns.com
+sport.wikaba.com
+soft.msdnupdate.com
+msdnupdate.com
+###20250102黑名單FQDN_XX資安院End
 THEAV.XYZ
 91rb.com
 lusir9.com
