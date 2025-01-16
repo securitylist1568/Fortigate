@@ -1173,3 +1173,7 @@ m.woxav.com
 *.m.woxav.com
 ipfs.eu.org
 *.ipfs.eu.org
+www.sharepornlink.com
+*.sharepornlink.com
+www.lusir4.com
+*.lusir4.com
