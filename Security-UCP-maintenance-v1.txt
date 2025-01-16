@@ -6,8 +6,8 @@
 140.122.72.13
 #dacm.ntnu.edu.tw
 140.122.101.215
-#jories.ntnu.edu.tw
-140.122.127.4
+#jories.ntnu.edu.tw 教育研究科學期刊
+#140.122.127.4
 #tjme.math.ntnu.edu.tw
 140.122.63.101
 #tjme.ime.ntnu.edu.tw
