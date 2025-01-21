@@ -33,4 +33,4 @@
 #huayubest.ntnu.edu.tw
 140.122.63.49
 #emr.pe.ntnu.edu.tw-體育與運動科學系
-140.122.63.1
+#140.122.63.1
