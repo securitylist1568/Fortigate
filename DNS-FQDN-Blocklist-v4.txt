@@ -1187,7 +1187,5 @@ so6ec.com
 *.1ob5.com
 download.98aicode.com
 *.download.98aicode.com
-news.98aicode.com
-*.news.98aicode.com
-profile.98aicode.com
-*.profile.98aicode.com
+98aicode.com
+*.98aicode.com
