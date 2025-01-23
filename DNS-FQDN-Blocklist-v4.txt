@@ -1187,3 +1187,7 @@ so6ec.com
 *.1ob5.com
 98aicode.com
 *.98aicode.com
+qbejgws.com
+*.qbejgws.com
+2048.cc
+*.2048.cc
