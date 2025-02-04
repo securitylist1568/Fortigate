@@ -1193,3 +1193,7 @@ qbejgws.com
 *.2048.cc
 ipfs.flk-ipfs.xyz
 *.ipfs.flk-ipfs.xyz
+cav103.com
+*.cav103.com
+theav101.com
+*.theav101.com
