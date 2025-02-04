@@ -1191,3 +1191,5 @@ qbejgws.com
 *.qbejgws.com
 2048.cc
 *.2048.cc
+ipfs.flk-ipfs.xyz
+*.ipfs.flk-ipfs.xyz
