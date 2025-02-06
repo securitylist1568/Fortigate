@@ -1208,6 +1208,7 @@ theav101.com
 *.CNSERVERS.COM
 *.fuli255.net
 *.445pin.com
+*.sis001.com
 65fffff.com
 777iiz.com
 91porna.com
@@ -1217,3 +1218,4 @@ zzzzz42.com
 CNSERVERS.COM
 fuli255.net
 445pin.com
+sis001.com
