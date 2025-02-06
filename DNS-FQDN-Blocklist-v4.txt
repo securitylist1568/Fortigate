@@ -1219,3 +1219,11 @@ CNSERVERS.COM
 fuli255.net
 445pin.com
 sis001.com
+doorxxx.com
+*.doorxxx.com
+1y.kanliao7.buzz
+*.1y.kanliao7.buzz
+kanliao7.buzz
+*.kanliao7.buzz
+ipfs.eu.org
+*.ipfs.eu.org
