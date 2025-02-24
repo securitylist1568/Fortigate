@@ -1285,3 +1285,7 @@ cgblw.com
 *.cgblw.com
 frlfuer9giqrlmwvkzp5i.com
 *.frlfuer9giqrlmwvkzp5i.com
+avcabi.com
+*.avcabi.com
+twimg.com
+*.twimg.com
