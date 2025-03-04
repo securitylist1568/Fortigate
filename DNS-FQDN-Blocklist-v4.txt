@@ -1311,3 +1311,5 @@ playvids.com
 *.playvids.com
 ibammtkv.net
 *.ibammtkv.net
+8zgrhdc46pb6yyjfirxpzgba.com
+*.8zgrhdc46pb6yyjfirxpzgba.com
