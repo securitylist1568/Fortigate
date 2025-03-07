@@ -1298,7 +1298,7 @@ selfieav.com
 ipornbase.com
 *.ipornbase.com
 javday.tv
-*.javday.tv
+*.javday.tv00
 madou.club
 *.madou.club
 tangxinv.com
@@ -1314,3 +1314,11 @@ ibammtkv.net
 8zgrhdc46pb6yyjfirxpzgba.com
 *.8zgrhdc46pb6yyjfirxpzgba.com
 8ab40c973222fe5adfdb867d475a6607a316fb8a13369d7ec668f4259.com
+laow020.com
+*.laow020.com
+4hu.one
+*.4hu.one
+98822.cc
+*.98822.cc
+motv.app
+*.motv.app
