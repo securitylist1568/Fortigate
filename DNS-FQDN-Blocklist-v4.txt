@@ -1322,3 +1322,5 @@ laow020.com
 *.98822.cc
 motv.app
 *.motv.app
+bgqzpzfgj4nuvrdrpihpbfvy3.com
+*.bgqzpzfgj4nuvrdrpihpbfvy3.com
