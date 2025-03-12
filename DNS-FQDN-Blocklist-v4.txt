@@ -1324,3 +1324,5 @@ motv.app
 *.motv.app
 bgqzpzfgj4nuvrdrpihpbfvy3.com
 *.bgqzpzfgj4nuvrdrpihpbfvy3.com
+gcbt.net
+*.gcbt.net
