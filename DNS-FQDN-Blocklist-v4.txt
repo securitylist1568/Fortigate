@@ -1095,10 +1095,6 @@ HLJ.FUN
 SOPORN.COM
 soporn.com
 *.soporn.com
-VK.COM
-*.VK.COM
-vk.com
-*.vk.com
 44yd.cc
 *.44yd.cc
 49qi.cc
