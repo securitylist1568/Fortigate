@@ -1356,7 +1356,6 @@ timO9.com
 *.poneytelecom.eu
 *.ifastnet.org
 *.linenet.com.br
-*.cns11643.gov.tw
 *.abc188.com
 *.neirong.funshion.com
 *.poletracker.org
@@ -1486,7 +1485,6 @@ genesis-sp.org
 poneytelecom.eu
 ifastnet.org
 linenet.com.br
-cns11643.gov.tw
 abc188.com
 neirong.funshion.com
 poletracker.org
