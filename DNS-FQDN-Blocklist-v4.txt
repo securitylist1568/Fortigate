@@ -1594,3 +1594,5 @@ aa.sk
 70885.info
 69zww.com
 xmobile.kr
+co.th
+*.co.th
