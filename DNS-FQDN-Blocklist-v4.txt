@@ -1596,3 +1596,5 @@ aa.sk
 xmobile.kr
 co.th
 *.co.th
+firstclasse.com.my
+*.firstclasse.com.my
