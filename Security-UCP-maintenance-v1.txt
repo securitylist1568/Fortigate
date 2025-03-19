@@ -36,3 +36,4 @@
 #140.122.63.1
 #fjmh.he.ntnu.edu.tw-健康促進與衛生教育學系(國科會補助設立數位期刊網站Open Access)
 140.122.63.8
+#apcsclass.csie.ntnu.edu.tw-師大APCS課程 網站( [HITCON ZeroDay] 資安通報)
