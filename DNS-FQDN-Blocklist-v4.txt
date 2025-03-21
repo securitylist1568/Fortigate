@@ -1596,3 +1596,7 @@ co.th
 *.co.th
 firstclasse.com.my
 *.firstclasse.com.my
+swzy.club
+*.swzy.club
+avgood.com
+*.avgood.com
