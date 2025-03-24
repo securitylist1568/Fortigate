@@ -1600,3 +1600,5 @@ swzy.club
 *.swzy.club
 avgood.com
 *.avgood.com
+glkgccc9ugtfngonmlwbiz.com
+*.glkgccc9ugtfngonmlwbiz.com
