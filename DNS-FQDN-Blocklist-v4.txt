@@ -1607,3 +1607,17 @@ iueu5853.weebly.com
 *.weebly.com
 usthb.dz
 *.usthb.dz
+*.kanliao8.cyou
+kanliao8.cyou
+hls985.com
+*.hls985.com
+xkhvtaof.net
+*.xkhvtaof.net
+richardlipsey.com
+*.richardlipsey.com
+4hu1a1.com
+*.4hu1a1.com
+bmmn.org
+*.bmmn.org
+flydispatch.com
+*.flydispatch.com
