@@ -1621,3 +1621,4 @@ bmmn.org
 *.bmmn.org
 flydispatch.com
 *.flydispatch.com
+/^[a-z0-9]{9,}\.info$/
