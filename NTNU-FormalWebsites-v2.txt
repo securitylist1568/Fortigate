@@ -384,5 +384,5 @@
 #http://www.giem.ntnu.edu.tw
 140.122.63.64
 
-#教育部國家華語測驗推動工作委員會https://tocfl.edu.tw/
+#https://tocfl.edu.tw/
 140.122.229.61
