@@ -1,5 +1,4 @@
 #https://vpn.ntnu.edu.tw
-140.122.7.21
 140.122.7.22
 
 #https://www.artmuse.ntnu.edu.tw
