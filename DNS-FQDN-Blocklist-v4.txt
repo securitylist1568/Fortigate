@@ -1621,4 +1621,3 @@ bmmn.org
 *.bmmn.org
 flydispatch.com
 *.flydispatch.com
-*.info
