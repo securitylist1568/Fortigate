@@ -1,3 +1,7 @@
+#https://vpn.ntnu.edu.tw
+140.122.7.21
+140.122.7.22
+
 #https://www.artmuse.ntnu.edu.tw
 #https://www.cag.ntnu.edu.tw/
 #https://www.ceri.ntnu.edu.tw
@@ -8,7 +12,7 @@
 #https://www.irdc.ntnu.edu.tw
 #https://www.itsc.ntnu.edu.tw
 #https://www.obe.ntnu.edu.tw/
-#https://www.sli.ntnu.edu.tw/ 
+#https://www.sli.ntnu.edu.tw/
 140.122.64.157
 
 #https://www.ntnu.edu.tw/
