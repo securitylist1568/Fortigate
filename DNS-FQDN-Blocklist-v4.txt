@@ -1621,3 +1621,5 @@ bmmn.org
 *.bmmn.org
 flydispatch.com
 *.flydispatch.com
+51-cg.com
+*.51-cg.com
