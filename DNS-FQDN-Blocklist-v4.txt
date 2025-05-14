@@ -1548,3 +1548,9 @@ billion.fpwufimx.xyz
 *.91quanji.com
 cav102.com
 *.cav102.com
+nwebofyf.cc
+*.nwebofyf.cc
+hlwcx5.com
+hlwxx.com
+*.hlwcx5.com
+*.hlwxx.com
