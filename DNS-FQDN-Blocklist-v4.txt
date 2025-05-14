@@ -1554,3 +1554,7 @@ hlwcx5.com
 hlwxx.com
 *.hlwcx5.com
 *.hlwxx.com
+myxxgirl.com
+*.myxxgirl.com
+hlw.homes
+*.hlw.homes
