@@ -1558,3 +1558,5 @@ myxxgirl.com
 *.myxxgirl.com
 hlw.homes
 *.hlw.homes
+fomr.io
+*.fomr.io
