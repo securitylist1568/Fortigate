@@ -1560,3 +1560,7 @@ hlw.homes
 *.hlw.homes
 fomr.io
 *.fomr.io
+cn.xszav2.com
+xszav2.com
+*.cn.xszav2.com
+*.xszav2.com
