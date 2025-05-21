@@ -37,6 +37,6 @@
 #fjmh.he.ntnu.edu.tw-健康促進與衛生教育學系(國科會補助設立數位期刊網站Open Access)
 140.122.63.8
 #epbulletin.epc.ntnu.edu.tw-教育心理學報 秒懂心理學網站
-140.122.63.104
+#140.122.63.104
 #停車場線上服務系統(測試機)-parking.ntnu.edu.tw
 140.122.64.107
