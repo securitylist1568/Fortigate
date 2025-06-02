@@ -1579,3 +1579,11 @@ xmorex.com
 *.xmorex.com
 gtt.me
 *.gtt.me
+fejii.xyz
+*.fejii.xyz
+cghl1.com
+*.cghl1.com
+torlock.com
+*.torlock.com
+newhk148forum.com
+*.newhk148forum.com
