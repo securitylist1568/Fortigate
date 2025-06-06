@@ -1587,3 +1587,11 @@ torlock.com
 *.torlock.com
 newhk148forum.com
 *.newhk148forum.com
+rendao.org
+*.rendao.org
+HAN115.COM
+*.HAN115.COM
+gcbt.net
+*.gcbt.net
+GCBT.NET
+*.GCBT.NET
