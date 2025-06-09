@@ -1595,3 +1595,5 @@ gcbt.net
 *.gcbt.net
 GCBT.NET
 *.GCBT.NET
+kkbqfqlc.xyz
+*.kkbqfqlc.xyz
