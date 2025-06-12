@@ -1612,3 +1612,7 @@ md91.cc
 36717.info
 36717.pw
 bt4.cc
+AXAVIEG.XYZ
+*.AXAVIEG.XYZ
+axavieg.xyz
+*.axavieg.xyz
