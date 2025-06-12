@@ -1599,3 +1599,16 @@ kkbqfqlc.xyz
 *.kkbqfqlc.xyz
 cnnic.cn
 *.cnnic.cn
+*.91md.me
+*.9191md.me
+*.md91.cc
+*.36717.info
+*.36717.pw
+*.bt4.cc
+*.7000.me
+91md.me
+9191md.me
+md91.cc
+36717.info
+36717.pw
+bt4.cc
