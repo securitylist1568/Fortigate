@@ -1616,3 +1616,11 @@ AXAVIEG.XYZ
 *.AXAVIEG.XYZ
 axavieg.xyz
 *.axavieg.xyz
+TJZMWVE.XYZ
+tjzmwve.xyz
+*.TJZMWVE.XYZ
+*.tjzmwve.xyz
+YTHOOYOU.COM
+ythooyou.com
+*.YTHOOYOU.COM
+*.ythooyou.com
