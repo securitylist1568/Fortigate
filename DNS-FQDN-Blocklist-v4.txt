@@ -1524,8 +1524,8 @@ flydispatch.com
 *.flydispatch.com
 51-cg.com
 *.51-cg.com
-kiss99.cc
-*.kiss99.cc
+#kiss99.cc
+#*.kiss99.cc
 heiliao806.pro
 *.heiliao806.pro
 cavporn.com
