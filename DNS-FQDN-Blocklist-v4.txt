@@ -1624,3 +1624,7 @@ YTHOOYOU.COM
 ythooyou.com
 *.YTHOOYOU.COM
 *.ythooyou.com
+DARKKAR.COM
+darkkar.com
+*.DARKKAR.COM
+*.darkkar.com
