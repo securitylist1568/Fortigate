@@ -1628,3 +1628,5 @@ DARKKAR.COM
 darkkar.com
 *.DARKKAR.COM
 *.darkkar.com
+okazu.cc
+*.okazu.cc
