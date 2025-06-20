@@ -1630,3 +1630,5 @@ darkkar.com
 *.darkkar.com
 okazu.cc
 *.okazu.cc
+360.cn
+*.360.cn
