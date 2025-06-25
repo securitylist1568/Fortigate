@@ -1632,3 +1632,5 @@ okazu.cc
 *.okazu.cc
 360.cn
 *.360.cn
+gtech.ma
+*.gtech.ma
