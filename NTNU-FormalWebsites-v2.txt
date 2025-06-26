@@ -173,7 +173,8 @@
 #https://www.itc.ntnu.edu.tw/index.php/vpn/
 #https://www.itc.ntnu.edu.tw/index.php/wirelessnetwork/
 #https://www.itc.ntnu.edu.tw/sw/index.html
-140.122.64.138
+#140.122.64.138
+140.122.42.2
 
 #https://alumni.ntnu.edu.tw/
 140.122.64.3
