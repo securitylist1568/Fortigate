@@ -179,6 +179,7 @@
 #ITC測試
 https://newitcts.itc.ntnu.edu.tw/
 140.122.63.200
+140.122.45.3
 
 #https://alumni.ntnu.edu.tw/
 140.122.64.3
