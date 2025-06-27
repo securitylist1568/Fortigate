@@ -1634,3 +1634,5 @@ okazu.cc
 *.360.cn
 gtech.ma
 *.gtech.ma
+baidu.cn
+*.baidu.cn
