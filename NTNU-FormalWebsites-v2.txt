@@ -166,7 +166,7 @@
 #https://www.ctld.ntnu.edu.tw
 140.122.64.12
 
-#https://www.itc.ntnu.edu.tw
+#https://www.itc.ntnu.edu.tw ITC正式
 #https://www.itc.ntnu.edu.tw/index.php/classroomborrowing/
 #https://www.itc.ntnu.edu.tw/index.php/gsuite/
 #https://www.itc.ntnu.edu.tw/index.php/iportal_app/
@@ -175,6 +175,10 @@
 #https://www.itc.ntnu.edu.tw/sw/index.html
 140.122.64.138
 140.122.45.2
+
+#ITC測試
+https://newitcts.itc.ntnu.edu.tw/
+140.122.63.200
 
 #https://alumni.ntnu.edu.tw/
 140.122.64.3
