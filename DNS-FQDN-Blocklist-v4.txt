@@ -1636,3 +1636,17 @@ gtech.ma
 *.gtech.ma
 baidu.cn
 *.baidu.cn
+WATCHFREEAV.COM
+*.WATCHFREEAV.COM
+watchfreeav.com
+*.watchfreeav.com
+watchfreejavonline.co
+*.watchfreejavonline.co
+KAVPORN.COM
+*.KAVPORN.COM
+kavporn.com
+*.kavporn.com
+KAVSEOUL.COM
+*.KAVSEOUL.COM
+kavseoul.com
+*.kavseoul.com
