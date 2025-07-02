@@ -1650,3 +1650,7 @@ KAVSEOUL.COM
 *.KAVSEOUL.COM
 kavseoul.com
 *.kavseoul.com
+GIGAFILE.CC
+*.GIGAFILE.CC
+gigafile.cc
+*.gigafile.cc
