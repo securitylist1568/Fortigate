@@ -1654,3 +1654,15 @@ GIGAFILE.CC
 *.GIGAFILE.CC
 gigafile.cc
 *.gigafile.cc
+HJD2048.COM
+*.HJD2048.COM
+hkd2028.com
+*.hkd2028.com
+kbj.so
+*.kbj.so
+kissjav.li
+*.kissjav.li
+TOKYOMOTION.COM
+*.TOKYOMOTION.COM
+tokyomotion.com
+*.tokyomotion.com
