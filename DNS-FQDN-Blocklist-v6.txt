@@ -1756,3 +1756,7 @@ keepshare.org
 *.keepshare.org
 missav.my
 *.missav.my
+www.dycg66.com
+*.www.dycg66.com
+dycg66.com
+*.dycg66.com
