@@ -1814,3 +1814,5 @@ frrmfic.xyz
 *.frrmfic.xyz
 cgw321.com
 *.cgw321.com
+arugula-koi-2bes.squarespace.com
+*.arugula-koi-2bes.squarespace.com
