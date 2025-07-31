@@ -1829,3 +1829,7 @@ HJDUAS.XYZ
 *.HJDUAS.XYZ
 hjduas.xyz
 *.hjduas.xyz
+51CG1.COM
+*.51CG1.COM
+51cg1.com
+*.51cg1.com
