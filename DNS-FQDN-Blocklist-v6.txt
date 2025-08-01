@@ -1833,3 +1833,5 @@ hjduas.xyz
 *.51CG1.COM
 51cg1.com
 *.51cg1.com
+webmail-upgrade.wasmer.app
+*.webmail-upgrade.wasmer.app
