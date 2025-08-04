@@ -1835,3 +1835,5 @@ hjduas.xyz
 *.51cg1.com
 webmail-upgrade.wasmer.app
 *.webmail-upgrade.wasmer.app
+opensportssciencesjournal.net
+*.opensportssciencesjournal.net
