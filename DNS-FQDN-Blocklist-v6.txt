@@ -1855,3 +1855,5 @@ opensportssciencesjournal.net
 82.221.107.34.bc.googleusercontent.com
 tally.so
 *.tally.so
+p2plive-ws.douyucdn.cn
+*.p2plive-ws.douyucdn.cn
