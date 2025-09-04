@@ -1857,3 +1857,5 @@ tally.so
 *.tally.so
 p2plive-ws.douyucdn.cn
 *.p2plive-ws.douyucdn.cn
+allibhat2.wixsite.com
+*.allibhat2.wixsite.com
