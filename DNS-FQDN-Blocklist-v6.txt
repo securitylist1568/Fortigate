@@ -1859,3 +1859,5 @@ p2plive-ws.douyucdn.cn
 *.p2plive-ws.douyucdn.cn
 allibhat2.wixsite.com
 *.allibhat2.wixsite.com
+ent.sina.com.cn
+*.ent.sina.com.cn
