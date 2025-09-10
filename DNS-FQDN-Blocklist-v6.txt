@@ -1861,3 +1861,7 @@ allibhat2.wixsite.com
 *.allibhat2.wixsite.com
 ent.sina.com.cn
 *.ent.sina.com.cn
+telenet.be
+*.telenet.be
+servefg.mega-informatson.shop
+*.mega-informatson.shop
