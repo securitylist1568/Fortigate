@@ -1865,6 +1865,7 @@ telenet.be
 *.telenet.be
 servefg.mega-informatson.shop
 *.mega-informatson.shop
+ylog0.wizaweb.com
 *.ylog0.wizaweb.com
 newspae12.hstn.me
 *.newspae12.hstn.me
