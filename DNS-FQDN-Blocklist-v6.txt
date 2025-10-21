@@ -1869,3 +1869,5 @@ ylog0.wizaweb.com
 *.ylog0.wizaweb.com
 newspae12.hstn.me
 *.newspae12.hstn.me
+tyshawlakin.info
+*.tyshawlakin.info
