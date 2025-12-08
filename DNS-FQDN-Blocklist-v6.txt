@@ -1878,3 +1878,7 @@ newspae12.hstn.me
 *.newspae12.hstn.me
 tyshawlakin.info
 *.tyshawlakin.info
+opensportssciencesjournal.net
+*.opensportssciencesjournal.net
+s.union.360.cn
+*.s.union.360.cn
