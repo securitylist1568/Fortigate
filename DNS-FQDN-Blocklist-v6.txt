@@ -1882,3 +1882,7 @@ opensportssciencesjournal.net
 *.opensportssciencesjournal.net
 s.union.360.cn
 *.s.union.360.cn
+139.com
+*.139.com
+zohomail.cn
+*.zohomail.cn
