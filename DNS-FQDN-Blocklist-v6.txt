@@ -1870,3 +1870,5 @@ zohomail.cn
 *.zohomail.cn
 klikwin888.org
 *.klikwin888.org
+www.5mp.eu
+*.5mp.eu
