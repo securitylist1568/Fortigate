@@ -54,6 +54,7 @@ scan-09n.shadowserver.org
 scan-11c.shadowserver.org
 scan-11f.shadowserver.org
 scan-17g.shadowserver.org
+scan-19n.shadowserver.org
 scan-36k.shadowserver.org
 scan-37k.shadowserver.org
 scan-37o.shadowserver.org
@@ -69,6 +70,7 @@ scan-46h.shadowserver.org
 scan-46k.shadowserver.org
 scan-50b.shadowserver.org
 scan-51g.shadowserver.org
+scan-51j.shadowserver.org
 scan-52j.shadowserver.org
 scan-56g.shadowserver.org
 scan-57e.shadowserver.org
@@ -81,6 +83,7 @@ scan-63-1.shadowserver.org
 scan-63-13.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-2.shadowserver.org
+scan-65-6.shadowserver.org
 scan-66-2.shadowserver.org
 scan-66-8.shadowserver.org
 scan-67-9.shadowserver.org
@@ -92,6 +95,7 @@ scan-70-04.shadowserver.org
 scan-71-01.shadowserver.org
 scan-72-08.shadowserver.org
 scan-76-02.shadowserver.org
+scan-76-06.shadowserver.org
 scan-77-06.shadowserver.org
 scan-78-01.shadowserver.org
 scan-79-07.shadowserver.org
@@ -106,6 +110,7 @@ scan-86-8.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-8.shadowserver.org
+scan-90-1.shadowserver.org
 server.comy
 shiireichiba.com
 simspice.com
