@@ -30,10 +30,8 @@ crawler190.deepfield.net
 crawler198.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-230.4vendeta.com
 ip29.sudolio.io
@@ -46,12 +44,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-10g.shadowserver.org
 scan-11f.shadowserver.org
 scan-13h.shadowserver.org
 scan-20a.shadowserver.org
 scan-39m.shadowserver.org
-scan-43d.shadowserver.org
 scan-43e.shadowserver.org
 scan-46e.shadowserver.org
 scan-50b.shadowserver.org
@@ -73,7 +69,6 @@ scan-80-4.shadowserver.org
 scan-83-2.shadowserver.org
 scan-85-6.shadowserver.org
 scan-87-9.shadowserver.org
-scan-89-6.shadowserver.org
 scan-89-7.shadowserver.org
 scan-90-9.shadowserver.org
 scan.visionheight.com
@@ -85,7 +80,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.95.48.130.94.clients.your-server.de
 to001.scanner.modat.io
-user-170-39-227-251.sea02.us.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vps3248193.trouble-free.net
