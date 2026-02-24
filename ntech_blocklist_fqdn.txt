@@ -22,10 +22,12 @@
 185-45-195-15.hostsailor.com
 198.13.38.50.vultrusercontent.com
 208.182.88.34.bc.googleusercontent.com
+22.19.80.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 60-250-78-9.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
+c-73-22-58-196.hsd1.in.comcast.net
 client.yota.ru
 customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
