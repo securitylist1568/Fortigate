@@ -40,6 +40,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
+ip18.ip-15-204-40.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 li1992-217.members.linode.com
