@@ -33,6 +33,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -40,7 +41,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-mx2.zeelandnet.nl
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -125,7 +125,6 @@ scan-88-4.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-3.shadowserver.org
 scan-90-1.shadowserver.org
-server.comy
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
