@@ -20,6 +20,7 @@
 118-165-95-38.dynamic-ip.hinet.net
 118-168-211-137.dynamic-ip.hinet.net
 118-170-35-209.dynamic-ip.hinet.net
+176.65.148.58.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 195-154-200-243.rev.poneytelecom.eu
 198.13.38.50.vultrusercontent.com
@@ -40,6 +41,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -53,6 +55,7 @@ scan-11c.shadowserver.org
 scan-17g.shadowserver.org
 scan-17o.shadowserver.org
 scan-19n.shadowserver.org
+scan-20a.shadowserver.org
 scan-36k.shadowserver.org
 scan-37k.shadowserver.org
 scan-37o.shadowserver.org
@@ -91,6 +94,7 @@ scan-70-04.shadowserver.org
 scan-71-01.shadowserver.org
 scan-72-07.shadowserver.org
 scan-72-08.shadowserver.org
+scan-74-05.shadowserver.org
 scan-76-02.shadowserver.org
 scan-76-06.shadowserver.org
 scan-77-06.shadowserver.org
@@ -104,6 +108,7 @@ scan-83-6.shadowserver.org
 scan-84-5.shadowserver.org
 scan-84-6.shadowserver.org
 scan-84-7.shadowserver.org
+scan-85-5.shadowserver.org
 scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-86-8.shadowserver.org
