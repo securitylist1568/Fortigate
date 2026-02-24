@@ -21,6 +21,7 @@
 176.65.148.58.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 198.13.38.50.vultrusercontent.com
+208.182.88.34.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 53.26.71.192.in-addr.arpa
 amz.unixwiz.net
