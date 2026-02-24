@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 172-232-121-108.ip.linodeusercontent.com
-176.65.148.58.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 208.182.88.34.bc.googleusercontent.com
 22.19.80.34.bc.googleusercontent.com
@@ -29,7 +28,6 @@ azpdsgo71cfi.stretchoid.com
 b2.org.afilias-nst.org
 c-73-22-58-196.hsd1.in.comcast.net
 client.yota.ru
-customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
@@ -51,16 +49,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-05f.shadowserver.org
-scan-20a.shadowserver.org
-scan-67-4.shadowserver.org
-scan-73-05.shadowserver.org
-scan-74-05.shadowserver.org
-scan-75-02.shadowserver.org
-scan-75-09.shadowserver.org
-scan-81-4.shadowserver.org
-scan-84-8.shadowserver.org
-scan-85-5.shadowserver.org
 scan.f6.security
 scan.visionheight.com
 security.criminalip.com
