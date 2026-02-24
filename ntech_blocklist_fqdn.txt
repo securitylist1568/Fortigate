@@ -50,6 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
+scan-05e.shadowserver.org
 scan-07d.shadowserver.org
 scan-11c.shadowserver.org
 scan-11f.shadowserver.org
@@ -70,6 +71,7 @@ scan-53m.shadowserver.org
 scan-56c.shadowserver.org
 scan-56g.shadowserver.org
 scan-60-12.shadowserver.org
+scan-61-4.shadowserver.org
 scan-62-11.shadowserver.org
 scan-63-1.shadowserver.org
 scan-64-8.shadowserver.org
@@ -91,6 +93,7 @@ scan-80-1.shadowserver.org
 scan-80-4.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-5.shadowserver.org
+scan-83-6.shadowserver.org
 scan-84-5.shadowserver.org
 scan-85-6.shadowserver.org
 scan-86-7.shadowserver.org
@@ -105,6 +108,7 @@ server.comy
 shiireichiba.com
 simspice.com
 smtp1.telemach.net
+srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.95.48.130.94.clients.your-server.de
 to001.scanner.modat.io
