@@ -1871,6 +1871,9 @@ www.5mp.eu
 opensportssciencesjournal.net
 *.opensportssciencesjournal.net
 zhhna01.boardx.cn
-dy.rt4sf.com
-pdxx.p9l12.com
+*.rt4sf.com
+*.p9l12.com
 version.bind
+*.version.bind
+tnebnet.org
+*.tnebnet.org
