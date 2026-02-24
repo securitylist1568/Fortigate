@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-106.105.206.245.adsl.dynamic.seed.net.tw
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -41,9 +40,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-230.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 mx2.zeelandnet.nl
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -56,12 +53,14 @@ scan-09n.shadowserver.org
 scan-11c.shadowserver.org
 scan-11f.shadowserver.org
 scan-17g.shadowserver.org
+scan-36k.shadowserver.org
 scan-37k.shadowserver.org
 scan-37o.shadowserver.org
 scan-39f.shadowserver.org
 scan-39m.shadowserver.org
 scan-41m.shadowserver.org
 scan-43d.shadowserver.org
+scan-43e.shadowserver.org
 scan-43k.shadowserver.org
 scan-45i.shadowserver.org
 scan-46k.shadowserver.org
@@ -102,7 +101,6 @@ scan-86-8.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-8.shadowserver.org
-scan.visionheight.com
 server.comy
 shiireichiba.com
 simspice.com
