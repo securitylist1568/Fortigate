@@ -27,6 +27,7 @@
 23-94-28-181-host.colocrossing.com
 300b2485d0.research-scanner.com
 39.18.210.139.adsl-pool.jlccptt.net.cn
+53.26.71.192.in-addr.arpa
 67-15-78-181.ufinet.com.co
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -72,10 +73,12 @@ scan-52j.shadowserver.org
 scan-56g.shadowserver.org
 scan-57e.shadowserver.org
 scan-60-12.shadowserver.org
+scan-60-2.shadowserver.org
 scan-60-6.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-1.shadowserver.org
+scan-63-13.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-2.shadowserver.org
 scan-66-2.shadowserver.org
