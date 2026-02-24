@@ -24,6 +24,7 @@
 208.182.88.34.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 53.26.71.192.in-addr.arpa
+60-250-78-9.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -37,6 +38,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
 ip29.sudolio.io
+ip50.ip-51-38-211.eu
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
