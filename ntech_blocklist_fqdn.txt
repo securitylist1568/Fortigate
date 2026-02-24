@@ -27,14 +27,11 @@
 212-83-150-184.rev.poneytelecom.eu
 300b2485d0.research-scanner.com
 39.18.210.139.adsl-pool.jlccptt.net.cn
+67-15-78-181.ufinet.com.co
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler114.deepfield.net
-crawler186.deepfield.net
-crawler190.deepfield.net
-crawler198.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -104,7 +101,6 @@ scan-87-9.shadowserver.org
 scan-89-7.shadowserver.org
 scan-90-9.shadowserver.org
 scan.visionheight.com
-security.criminalip.com
 server.comy
 shiireichiba.com
 simspice.com
@@ -113,6 +109,5 @@ srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.95.48.130.94.clients.your-server.de
 to001.scanner.modat.io
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
