@@ -69,6 +69,7 @@ scan-50b.shadowserver.org
 scan-51g.shadowserver.org
 scan-52j.shadowserver.org
 scan-56g.shadowserver.org
+scan-57e.shadowserver.org
 scan-60-12.shadowserver.org
 scan-60-6.shadowserver.org
 scan-61-0.shadowserver.org
@@ -110,4 +111,5 @@ srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 to001.scanner.modat.io
 users219.vip.heteml.jp
+v2202509302515385337.ultrasrv.de
 www.internet-albedo.net
