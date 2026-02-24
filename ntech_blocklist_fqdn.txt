@@ -58,11 +58,13 @@ scan-37k.shadowserver.org
 scan-37o.shadowserver.org
 scan-39f.shadowserver.org
 scan-39m.shadowserver.org
+scan-41f.shadowserver.org
 scan-41m.shadowserver.org
 scan-43d.shadowserver.org
 scan-43e.shadowserver.org
 scan-43k.shadowserver.org
 scan-45i.shadowserver.org
+scan-46h.shadowserver.org
 scan-46k.shadowserver.org
 scan-50b.shadowserver.org
 scan-51g.shadowserver.org
