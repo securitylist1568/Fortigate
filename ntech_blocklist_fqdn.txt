@@ -71,6 +71,7 @@ scan-52j.shadowserver.org
 scan-56g.shadowserver.org
 scan-60-12.shadowserver.org
 scan-60-6.shadowserver.org
+scan-61-0.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-1.shadowserver.org
 scan-64-8.shadowserver.org
@@ -78,6 +79,7 @@ scan-65-2.shadowserver.org
 scan-66-2.shadowserver.org
 scan-66-8.shadowserver.org
 scan-67-9.shadowserver.org
+scan-68-01.shadowserver.org
 scan-68-07.shadowserver.org
 scan-69-02.shadowserver.org
 scan-69-06.shadowserver.org
@@ -93,9 +95,11 @@ scan-83-2.shadowserver.org
 scan-83-5.shadowserver.org
 scan-83-6.shadowserver.org
 scan-84-5.shadowserver.org
+scan-84-7.shadowserver.org
 scan-86-7.shadowserver.org
 scan-86-8.shadowserver.org
 scan-87-8.shadowserver.org
+scan-88-4.shadowserver.org
 scan-88-8.shadowserver.org
 scan.visionheight.com
 server.comy
