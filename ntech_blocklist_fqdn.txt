@@ -22,6 +22,7 @@
 118-170-35-209.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 195-154-200-243.rev.poneytelecom.eu
+198.13.38.50.vultrusercontent.com
 208.182.88.34.bc.googleusercontent.com
 212-83-150-184.rev.poneytelecom.eu
 23-94-28-181-host.colocrossing.com
@@ -104,9 +105,12 @@ scan-83-2.shadowserver.org
 scan-83-5.shadowserver.org
 scan-83-6.shadowserver.org
 scan-84-5.shadowserver.org
+scan-84-6.shadowserver.org
 scan-84-7.shadowserver.org
+scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-86-8.shadowserver.org
+scan-87-3.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-8.shadowserver.org
