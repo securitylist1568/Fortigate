@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 23-94-28-181-host.colocrossing.com
+60-249-14-121.hinet-ip.hinet.net
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -26,6 +27,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-29-192-84.compute-1.amazonaws.com
+ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-16-16-176-99.eu-north-1.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
@@ -48,6 +50,7 @@ rping.ipip.net
 scan-02j.shadowserver.org
 scan-05g.shadowserver.org
 scan-08c.shadowserver.org
+scan-08g.shadowserver.org
 scan-11i.shadowserver.org
 scan-11n.shadowserver.org
 scan-14a.shadowserver.org
@@ -77,6 +80,7 @@ scan-60-5.shadowserver.org
 scan-62-10.shadowserver.org
 scan-64-13.shadowserver.org
 scan-65-0.shadowserver.org
+scan-65-10.shadowserver.org
 scan-65-9.shadowserver.org
 scan-66-6.shadowserver.org
 scan-67-3.shadowserver.org
@@ -111,6 +115,7 @@ scan-87-7.shadowserver.org
 scan-88-5.shadowserver.org
 scan-88-8.shadowserver.org
 scan-88-9.shadowserver.org
+scan-89-2.shadowserver.org
 scan.visionheight.com
 scanner-l609.scanner.modat.io
 security.criminalip.com
