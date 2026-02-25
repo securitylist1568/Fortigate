@@ -51,12 +51,14 @@ ip59.ip-15-204-158.us
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+mx4.mailerwhiz.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r2003.compute.pao1.edc.strln.net
 r4005.compute.pao1.edc.strln.net
+rates.speeder.site
 recyber.net
 rootevidence.com
 scan-01a.shadowserver.org
