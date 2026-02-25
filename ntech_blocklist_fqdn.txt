@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-137.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-23-94-28-181-host.colocrossing.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -34,13 +33,14 @@ ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
-ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hebei.22.121.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-138.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 pause-mail-wi0.metashort.net
 pc112.cses.ilc.edu.tw
@@ -53,9 +53,7 @@ rping.ipip.net
 scan-01a.shadowserver.org
 scan-02j.shadowserver.org
 scan-05b.shadowserver.org
-scan-08c.shadowserver.org
 scan-08g.shadowserver.org
-scan-11i.shadowserver.org
 scan-11n.shadowserver.org
 scan-14a.shadowserver.org
 scan-15c.shadowserver.org
@@ -67,7 +65,6 @@ scan-40l.shadowserver.org
 scan-43l.shadowserver.org
 scan-45c.shadowserver.org
 scan-48e.shadowserver.org
-scan-49l.shadowserver.org
 scan-49n.shadowserver.org
 scan-50g.shadowserver.org
 scan-51d.shadowserver.org
@@ -106,7 +103,6 @@ scan-77-06.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-6.shadowserver.org
 scan-80-9.shadowserver.org
-scan-81-2.shadowserver.org
 scan-82-3.shadowserver.org
 scan-82-9.shadowserver.org
 scan-83-1.shadowserver.org
