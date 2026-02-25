@@ -27,6 +27,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-29-192-84.compute-1.amazonaws.com
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-16-16-176-99.eu-north-1.compute.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
@@ -47,6 +48,7 @@ scan-02j.shadowserver.org
 scan-05g.shadowserver.org
 scan-08c.shadowserver.org
 scan-11i.shadowserver.org
+scan-11n.shadowserver.org
 scan-14a.shadowserver.org
 scan-15c.shadowserver.org
 scan-18e.shadowserver.org
@@ -76,6 +78,7 @@ scan-65-9.shadowserver.org
 scan-69-07.shadowserver.org
 scan-69-08.shadowserver.org
 scan-70-02.shadowserver.org
+scan-71-04.shadowserver.org
 scan-71-06.shadowserver.org
 scan-73-02.shadowserver.org
 scan-73-05.shadowserver.org
@@ -85,6 +88,7 @@ scan-76-09.shadowserver.org
 scan-79-09.shadowserver.org
 scan-81-2.shadowserver.org
 scan-83-5.shadowserver.org
+scan-85-1.shadowserver.org
 scan-85-9.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-5.shadowserver.org
