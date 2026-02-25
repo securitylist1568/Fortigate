@@ -90,12 +90,16 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02d.shadowserver.org
+scan-20j.shadowserver.org
+scan-38b.shadowserver.org
 scan-38c.shadowserver.org
 scan-39e.shadowserver.org
+scan-40l.shadowserver.org
 scan-45c.shadowserver.org
 scan-58h.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-11.shadowserver.org
+scan-60-4.shadowserver.org
 scan-60.security.ipip.net
 scan-62-5.shadowserver.org
 scan-63-13.shadowserver.org
@@ -103,7 +107,9 @@ scan-64-13.shadowserver.org
 scan-64-3.shadowserver.org
 scan-64-7.shadowserver.org
 scan-65-4.shadowserver.org
+scan-68-08.shadowserver.org
 scan-70-04.shadowserver.org
+scan-70-09.shadowserver.org
 scan-71-04.shadowserver.org
 scan-74-08.shadowserver.org
 scan-75-08.shadowserver.org
@@ -117,6 +123,7 @@ scan-86-8.shadowserver.org
 scan-87-7.shadowserver.org
 scan-90-5.shadowserver.org
 scan.visionheight.com
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
