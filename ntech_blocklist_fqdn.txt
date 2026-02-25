@@ -41,8 +41,10 @@ hebei.22.121.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
+ip106.20.52.176.kzn.tbt.ru
 ip29.sudolio.io
 ip59.ip-15-204-158.us
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
