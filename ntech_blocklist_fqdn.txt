@@ -20,6 +20,7 @@
 118-168-211-137.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
+208.182.88.34.bc.googleusercontent.com
 22.19.80.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcs323e13.stretchoid.com
@@ -31,6 +32,8 @@ cohogs.usienspire.com
 crawler036.deepfield.net
 crawler105.deepfield.net
 crawler115.deepfield.net
+crawler136.deepfield.net
+crawler171.deepfield.net
 dal215.hawkhost.com
 diversion.banhkemcantho.com
 dns12.online.tj.cn
