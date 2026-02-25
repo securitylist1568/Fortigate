@@ -83,6 +83,7 @@ scan-60-10.shadowserver.org
 scan-60-11.shadowserver.org
 scan-60-4.shadowserver.org
 scan-60.security.ipip.net
+scan-61-13.shadowserver.org
 scan-62-5.shadowserver.org
 scan-63-13.shadowserver.org
 scan-64-13.shadowserver.org
