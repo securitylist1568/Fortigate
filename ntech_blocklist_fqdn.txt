@@ -72,6 +72,7 @@ proxy-ca002-ext2.a.ahrefs.com
 rates.speeder.site
 recyber.net
 rootevidence.com
+scan-02.skipa.cyberok.ru
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
