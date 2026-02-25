@@ -31,11 +31,16 @@ client.yota.ru
 cohogs.usienspire.com
 crawler036.deepfield.net
 crawler060.deepfield.net
+crawler079.deepfield.net
 crawler105.deepfield.net
+crawler106.deepfield.net
+crawler109.deepfield.net
 crawler115.deepfield.net
 crawler136.deepfield.net
 crawler158.deepfield.net
 crawler171.deepfield.net
+crawler194.deepfield.net
+crawler215.deepfield.net
 dal215.hawkhost.com
 diversion.banhkemcantho.com
 dns12.online.tj.cn
@@ -76,6 +81,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02d.shadowserver.org
+scan-58h.shadowserver.org
 scan.f6.security
 scan.visionheight.com
 security.criminalip.com
