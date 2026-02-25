@@ -28,6 +28,7 @@ dns12.online.tj.cn
 ec2-100-29-192-84.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-16-16-176-99.eu-north-1.compute.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
@@ -73,6 +74,7 @@ scan-65-9.shadowserver.org
 scan-67-9.shadowserver.org
 scan-69-07.shadowserver.org
 scan-69-08.shadowserver.org
+scan-70-02.shadowserver.org
 scan-71-04.shadowserver.org
 scan-73-05.shadowserver.org
 scan-73-06.shadowserver.org
@@ -83,6 +85,7 @@ scan-81-2.shadowserver.org
 scan-83-5.shadowserver.org
 scan-85-1.shadowserver.org
 scan-87-3.shadowserver.org
+scan-87-6.shadowserver.org
 scan-87-7.shadowserver.org
 scan-88-5.shadowserver.org
 scan-88-8.shadowserver.org
@@ -96,6 +99,7 @@ simspice.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 tube-server.com
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
