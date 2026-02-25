@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-131-72-152-46.host.nbstelecom.psi.br
 185-45-195-15.hostsailor.com
-194-195-122-95.ip.linodeusercontent.com
 204.76.203.233.ptr.pfcloud.network
 23-94-28-181-host.colocrossing.com
 60-250-140-251.hinet-ip.hinet.net
@@ -29,12 +27,10 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-29-192-84.compute-1.amazonaws.com
-ec2-13-219-1-233.compute-1.amazonaws.com
-ec2-34-230-221-101.compute-1.amazonaws.com
+ec2-16-16-176-99.eu-north-1.compute.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
-federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -98,11 +94,9 @@ scan-88-9.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server1.retechpro.com
-sharp.atid.cloud
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-syn-045-049-048-187.res.spectrum.com
 tube-server.com
 users219.vip.heteml.jp
 v36674.1blu.de
