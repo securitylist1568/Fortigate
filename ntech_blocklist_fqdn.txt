@@ -53,6 +53,7 @@ diversion.banhkemcantho.com
 dns12.online.tj.cn
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-218-135-135.compute-1.amazonaws.com
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-184-72-172-155.compute-1.amazonaws.com
 ec2-204-236-215-24.compute-1.amazonaws.com
 ec2-23-22-235-145.compute-1.amazonaws.com
