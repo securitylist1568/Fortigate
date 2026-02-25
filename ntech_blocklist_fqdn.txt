@@ -119,6 +119,7 @@ scan-88-7.shadowserver.org
 scan-88-8.shadowserver.org
 scan-88-9.shadowserver.org
 scan-89-2.shadowserver.org
+scan.visionheight.com
 scanner-l609.scanner.modat.io
 security.criminalip.com
 shiireichiba.com
