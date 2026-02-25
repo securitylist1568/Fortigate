@@ -20,6 +20,7 @@
 118-168-211-137.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 208.182.88.34.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 amz.unixwiz.net
 azpdcs323e13.stretchoid.com
 b2.org.afilias-nst.org
@@ -65,6 +66,7 @@ ec2-34-238-233-199.compute-1.amazonaws.com
 ec2-44-204-27-243.compute-1.amazonaws.com
 ec2-44-211-124-103.compute-1.amazonaws.com
 ec2-52-207-244-78.compute-1.amazonaws.com
+ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-146-208-102.compute-1.amazonaws.com
 ec2-54-158-70-239.compute-1.amazonaws.com
 ec2-54-174-234-236.compute-1.amazonaws.com
