@@ -18,12 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-137.dynamic-ip.hinet.net
-144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 208.182.88.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcs323e13.stretchoid.com
-azpdsgo71cfi.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
@@ -71,6 +69,7 @@ ec2-54-146-208-102.compute-1.amazonaws.com
 ec2-54-158-70-239.compute-1.amazonaws.com
 ec2-54-174-234-236.compute-1.amazonaws.com
 ec2-54-235-25-93.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 ec2-98-93-226-221.compute-1.amazonaws.com
 ec2-98-94-49-146.compute-1.amazonaws.com
 fb02itsscan02.fh-muenster.de
@@ -78,7 +77,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip18.ip-15-204-40.us
 ip29.sudolio.io
 mail.suporte.pro.br
 mfyabgec.musicpda.com
@@ -107,7 +105,6 @@ scan-80-9.shadowserver.org
 scan-84-3.shadowserver.org
 scan-87-7.shadowserver.org
 scan-90-5.shadowserver.org
-scan.f6.security
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
@@ -115,4 +112,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
+v2202509302515385337.ultrasrv.de
