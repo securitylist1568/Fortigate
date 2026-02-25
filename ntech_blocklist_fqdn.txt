@@ -91,6 +91,7 @@ scan-38c.shadowserver.org
 scan-39e.shadowserver.org
 scan-45c.shadowserver.org
 scan-58h.shadowserver.org
+scan-60-10.shadowserver.org
 scan-60.security.ipip.net
 scan-63-13.shadowserver.org
 scan-64-13.shadowserver.org
