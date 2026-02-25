@@ -25,8 +25,10 @@
 185-45-195-15.hostsailor.com
 192-155-89-137.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
+26.149.216.162.bc.googleusercontent.com
 36-229-143-125.dynamic-ip.hinet.net
 45-33-85-151.ip.linodeusercontent.com
+52.210.203.35.bc.googleusercontent.com
 54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -38,7 +40,12 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
+ec2-18-206-234-118.compute-1.amazonaws.com
+ec2-3-94-186-199.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+ec2-54-152-26-85.compute-1.amazonaws.com
+ec2-54-167-26-30.compute-1.amazonaws.com
+ec2-98-81-182-10.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -64,6 +71,7 @@ smtp1.telemach.net
 ssl-host11.iifnetwork.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-70-129.led02.ru.misaka.io
+user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 v157-7-67-41.6ogf.static.cnode.io
 virginia.probe.onyphe.net
