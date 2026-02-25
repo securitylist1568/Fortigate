@@ -40,6 +40,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pause-mail-wi0.metashort.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -66,6 +67,7 @@ scan-45c.shadowserver.org
 scan-48e.shadowserver.org
 scan-49l.shadowserver.org
 scan-49n.shadowserver.org
+scan-50g.shadowserver.org
 scan-51d.shadowserver.org
 scan-51n.shadowserver.org
 scan-52h.shadowserver.org
@@ -75,6 +77,7 @@ scan-56k.shadowserver.org
 scan-57k.shadowserver.org
 scan-60-10.shadowserver.org
 scan-62-10.shadowserver.org
+scan-63-8.shadowserver.org
 scan-64-13.shadowserver.org
 scan-65-0.shadowserver.org
 scan-65-10.shadowserver.org
@@ -103,6 +106,7 @@ scan-80-6.shadowserver.org
 scan-80-9.shadowserver.org
 scan-81-2.shadowserver.org
 scan-82-3.shadowserver.org
+scan-82-9.shadowserver.org
 scan-83-1.shadowserver.org
 scan-83-5.shadowserver.org
 scan-84-2.shadowserver.org
@@ -111,6 +115,7 @@ scan-86-8.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-6.shadowserver.org
 scan-87-7.shadowserver.org
+scan-88-7.shadowserver.org
 scan-88-8.shadowserver.org
 scan-88-9.shadowserver.org
 scan-89-2.shadowserver.org
