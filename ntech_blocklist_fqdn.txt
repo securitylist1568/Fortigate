@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-137.dynamic-ip.hinet.net
+131-72-152-46.host.nbstelecom.psi.br
 185-45-195-15.hostsailor.com
 208.182.88.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
@@ -63,6 +64,7 @@ ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-201-44-144.compute-1.amazonaws.com
 ec2-34-224-26-102.compute-1.amazonaws.com
 ec2-34-226-155-173.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-34-238-233-199.compute-1.amazonaws.com
 ec2-44-204-27-243.compute-1.amazonaws.com
 ec2-44-211-124-103.compute-1.amazonaws.com
