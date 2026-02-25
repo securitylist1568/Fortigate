@@ -49,6 +49,7 @@ r2003.compute.pao1.edc.strln.net
 r4005.compute.pao1.edc.strln.net
 recyber.net
 rping.ipip.net
+scan-01a.shadowserver.org
 scan-02j.shadowserver.org
 scan-05b.shadowserver.org
 scan-08c.shadowserver.org
