@@ -26,11 +26,13 @@
 192-155-89-137.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
 36-229-143-125.dynamic-ip.hinet.net
+45-33-85-151.ip.linodeusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 cloud.urudns.com
+crawler111.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
@@ -85,6 +87,7 @@ scan-89-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
+ssl-host11.iifnetwork.com
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 user-45-131-70-129.led02.ru.misaka.io
