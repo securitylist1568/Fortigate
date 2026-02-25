@@ -82,7 +82,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02d.shadowserver.org
+scan-38c.shadowserver.org
 scan-58h.shadowserver.org
+scan-64-3.shadowserver.org
+scan-71-04.shadowserver.org
 scan.f6.security
 scan.visionheight.com
 security.criminalip.com
