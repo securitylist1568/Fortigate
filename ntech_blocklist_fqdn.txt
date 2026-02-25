@@ -22,6 +22,7 @@
 194-195-122-95.ip.linodeusercontent.com
 204.76.203.233.ptr.pfcloud.network
 42.123.243.83.in-addr.arpa
+60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bigithar.ptr.network
@@ -100,6 +101,7 @@ scan-86-8.shadowserver.org
 scan-87-5.shadowserver.org
 scan-87-7.shadowserver.org
 scan-90-5.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
