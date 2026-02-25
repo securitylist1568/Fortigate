@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 192-155-89-137.ip.linodeusercontent.com
 26.149.216.162.bc.googleusercontent.com
+44.188.140.34.bc.googleusercontent.com
 45-33-85-151.ip.linodeusercontent.com
 52.210.203.35.bc.googleusercontent.com
 54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
@@ -42,12 +43,19 @@ ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-18-206-234-118.compute-1.amazonaws.com
 ec2-18-234-82-48.compute-1.amazonaws.com
 ec2-3-80-182-148.compute-1.amazonaws.com
+ec2-3-87-243-96.compute-1.amazonaws.com
+ec2-3-88-21-212.compute-1.amazonaws.com
+ec2-3-90-108-111.compute-1.amazonaws.com
 ec2-3-94-186-199.compute-1.amazonaws.com
 ec2-34-207-182-99.compute-1.amazonaws.com
+ec2-44-211-222-141.compute-1.amazonaws.com
+ec2-52-91-91-100.compute-1.amazonaws.com
 ec2-54-152-26-85.compute-1.amazonaws.com
 ec2-54-164-46-48.compute-1.amazonaws.com
+ec2-54-165-115-200.compute-1.amazonaws.com
 ec2-54-167-26-30.compute-1.amazonaws.com
 ec2-54-205-175-31.compute-1.amazonaws.com
+ec2-54-226-107-87.compute-1.amazonaws.com
 ec2-98-81-182-10.compute-1.amazonaws.com
 ecs-113-44-80-106.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
