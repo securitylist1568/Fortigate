@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 118-168-211-137.dynamic-ip.hinet.net
+143-14-88-19.customer.curtcreation.net
 172-104-134-186.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-89-137.ip.linodeusercontent.com
@@ -38,6 +39,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
+ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
