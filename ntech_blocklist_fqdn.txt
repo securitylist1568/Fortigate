@@ -21,12 +21,10 @@
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 208.182.88.34.bc.googleusercontent.com
-22.19.80.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcs323e13.stretchoid.com
 azpdsgo71cfi.stretchoid.com
 b2.org.afilias-nst.org
-c-73-22-58-196.hsd1.in.comcast.net
 client.yota.ru
 cohogs.usienspire.com
 crawler036.deepfield.net
@@ -75,8 +73,6 @@ ip18.ip-15-204-40.us
 ip29.sudolio.io
 mail.suporte.pro.br
 mfyabgec.musicpda.com
-no-mans-land.m247.com
-ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
