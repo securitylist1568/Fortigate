@@ -34,6 +34,7 @@ ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+hebei.22.121.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -64,6 +65,7 @@ scan-49n.shadowserver.org
 scan-51d.shadowserver.org
 scan-51n.shadowserver.org
 scan-52h.shadowserver.org
+scan-52i.shadowserver.org
 scan-53n.shadowserver.org
 scan-54f.shadowserver.org
 scan-56k.shadowserver.org
@@ -89,8 +91,10 @@ scan-73-08.shadowserver.org
 scan-74-08.shadowserver.org
 scan-75-04.shadowserver.org
 scan-79-09.shadowserver.org
+scan-80-6.shadowserver.org
 scan-81-2.shadowserver.org
 scan-83-5.shadowserver.org
+scan-84-2.shadowserver.org
 scan-85-1.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-6.shadowserver.org
