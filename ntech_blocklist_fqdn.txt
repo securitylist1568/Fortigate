@@ -27,6 +27,7 @@ azpdsgo71cfi.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
+crawler025.deepfield.net
 crawler036.deepfield.net
 crawler060.deepfield.net
 crawler079.deepfield.net
@@ -37,7 +38,9 @@ crawler115.deepfield.net
 crawler136.deepfield.net
 crawler158.deepfield.net
 crawler171.deepfield.net
+crawler180.deepfield.net
 crawler194.deepfield.net
+crawler212.deepfield.net
 crawler215.deepfield.net
 dal215.hawkhost.com
 diversion.banhkemcantho.com
@@ -79,9 +82,18 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02d.shadowserver.org
 scan-38c.shadowserver.org
+scan-39e.shadowserver.org
 scan-58h.shadowserver.org
+scan-60.security.ipip.net
+scan-63-13.shadowserver.org
 scan-64-3.shadowserver.org
+scan-64-7.shadowserver.org
+scan-70-04.shadowserver.org
 scan-71-04.shadowserver.org
+scan-76-06.shadowserver.org
+scan-80-9.shadowserver.org
+scan-87-7.shadowserver.org
+scan-90-5.shadowserver.org
 scan.f6.security
 scan.visionheight.com
 security.criminalip.com
