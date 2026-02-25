@@ -20,9 +20,7 @@
 118-168-211-137.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
-208.182.88.34.bc.googleusercontent.com
 22.19.80.34.bc.googleusercontent.com
-60-250-78-9.hinet-ip.hinet.net
 amz.unixwiz.net
 azpdcs323e13.stretchoid.com
 azpdsgo71cfi.stretchoid.com
@@ -30,8 +28,10 @@ b2.org.afilias-nst.org
 c-73-22-58-196.hsd1.in.comcast.net
 client.yota.ru
 cohogs.usienspire.com
+crawler036.deepfield.net
+crawler105.deepfield.net
+crawler115.deepfield.net
 dal215.hawkhost.com
-ded121318.smartservers.com.au
 diversion.banhkemcantho.com
 dns12.online.tj.cn
 ec2-13-218-135-135.compute-1.amazonaws.com
@@ -63,8 +63,6 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip18.ip-15-204-40.us
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
-li1992-217.members.linode.com
 mail.suporte.pro.br
 mfyabgec.musicpda.com
 no-mans-land.m247.com
