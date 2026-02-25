@@ -22,7 +22,6 @@
 208.182.88.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 amz.unixwiz.net
-azpdcs323e13.stretchoid.com
 b2.org.afilias-nst.org
 bigithar.ptr.network
 client.yota.ru
@@ -51,6 +50,7 @@ crawler241.deepfield.net
 dal215.hawkhost.com
 diversion.banhkemcantho.com
 dns12.online.tj.cn
+ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-218-135-135.compute-1.amazonaws.com
 ec2-184-72-172-155.compute-1.amazonaws.com
 ec2-204-236-215-24.compute-1.amazonaws.com
