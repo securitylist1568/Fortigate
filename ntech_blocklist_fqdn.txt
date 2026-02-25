@@ -77,6 +77,7 @@ scan-62-10.shadowserver.org
 scan-63-1.shadowserver.org
 scan-64-13.shadowserver.org
 scan-65-9.shadowserver.org
+scan-67-9.shadowserver.org
 scan-69-07.shadowserver.org
 scan-69-08.shadowserver.org
 scan-70-02.shadowserver.org
@@ -100,6 +101,7 @@ scan-88-5.shadowserver.org
 scan-88-8.shadowserver.org
 scan-88-9.shadowserver.org
 scan.visionheight.com
+scanner-l609.scanner.modat.io
 security.criminalip.com
 server1.retechpro.com
 shiireichiba.com
