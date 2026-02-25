@@ -94,6 +94,8 @@ scan-88-9.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server1.retechpro.com
+shiireichiba.com
+simspice.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
