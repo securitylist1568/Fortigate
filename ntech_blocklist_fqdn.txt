@@ -30,9 +30,11 @@ c-73-22-58-196.hsd1.in.comcast.net
 client.yota.ru
 cohogs.usienspire.com
 crawler036.deepfield.net
+crawler060.deepfield.net
 crawler105.deepfield.net
 crawler115.deepfield.net
 crawler136.deepfield.net
+crawler158.deepfield.net
 crawler171.deepfield.net
 dal215.hawkhost.com
 diversion.banhkemcantho.com
