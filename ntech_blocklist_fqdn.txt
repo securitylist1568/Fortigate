@@ -20,11 +20,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+128.150.216.162.bc.googleusercontent.com
 143-14-88-19.customer.curtcreation.net
 172-104-134-186.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-89-137.ip.linodeusercontent.com
-23-94-28-181-host.colocrossing.com
 26.149.216.162.bc.googleusercontent.com
 36-229-143-125.dynamic-ip.hinet.net
 45-33-85-151.ip.linodeusercontent.com
@@ -46,7 +46,6 @@ ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-152-26-85.compute-1.amazonaws.com
 ec2-54-167-26-30.compute-1.amazonaws.com
 ec2-98-81-182-10.compute-1.amazonaws.com
-ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -70,7 +69,6 @@ security.criminalip.com
 smtp1.telemach.net
 ssl-host11.iifnetwork.com
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 v157-7-67-41.6ogf.static.cnode.io
