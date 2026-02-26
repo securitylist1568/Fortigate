@@ -94,12 +94,9 @@
 178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-74-50-114.ip.linodeusercontent.com
-207.210.203.35.bc.googleusercontent.com
-222.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
-23-95-132-45-host.colocrossing.com
 239.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
@@ -132,11 +129,9 @@ client.yota.ru
 cork.scan.bufferover.run
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
-ded121318.smartservers.com.au
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
@@ -191,7 +186,6 @@ scan-79-09.shadowserver.org
 scan-81-2.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-1.shadowserver.org
-scan-82-2.shadowserver.org
 scan-83-5.shadowserver.org
 scan-83-8.shadowserver.org
 scan-85-5.shadowserver.org
