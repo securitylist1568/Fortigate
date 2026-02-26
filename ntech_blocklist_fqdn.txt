@@ -193,6 +193,7 @@ rsitez.com
 scan-01j.shadowserver.org
 scan-05b.shadowserver.org
 scan-06a.shadowserver.org
+scan-08d.shadowserver.org
 scan-09o.shadowserver.org
 scan-11n.shadowserver.org
 scan-13n.shadowserver.org
@@ -203,6 +204,7 @@ scan-19n.shadowserver.org
 scan-39l.shadowserver.org
 scan-41k.shadowserver.org
 scan-42b.shadowserver.org
+scan-42c.shadowserver.org
 scan-43b.shadowserver.org
 scan-44c.shadowserver.org
 scan-44e.shadowserver.org
@@ -239,6 +241,7 @@ scan-74-09.shadowserver.org
 scan-75-04.shadowserver.org
 scan-76-02.shadowserver.org
 scan-76-04.shadowserver.org
+scan-78-06.shadowserver.org
 scan-78-09.shadowserver.org
 scan-79-05.shadowserver.org
 scan-80-1.shadowserver.org
