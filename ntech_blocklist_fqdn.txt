@@ -21,7 +21,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.210.203.35.bc.googleusercontent.com
+115.150.216.162.bc.googleusercontent.com
 115.211.203.35.bc.googleusercontent.com
+124.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
 195-154-200-243.rev.poneytelecom.eu
@@ -31,6 +33,7 @@
 248.149.216.162.bc.googleusercontent.com
 3.211.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
+86.211.203.35.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
 99.94.233.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -136,7 +139,6 @@ dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-230.4vendeta.com
@@ -158,9 +160,7 @@ scan-11n.shadowserver.org
 scan-15e.shadowserver.org
 scan-18a.shadowserver.org
 scan-19n.shadowserver.org
-scan-37e.shadowserver.org
 scan-39l.shadowserver.org
-scan-41f.shadowserver.org
 scan-42b.shadowserver.org
 scan-43b.shadowserver.org
 scan-45k.shadowserver.org
@@ -171,12 +171,9 @@ scan-60-4.shadowserver.org
 scan-60-5.shadowserver.org
 scan-60-6.shadowserver.org
 scan-61-4.shadowserver.org
-scan-61-9.shadowserver.org
 scan-62-1.shadowserver.org
 scan-62-8.shadowserver.org
-scan-62-9.shadowserver.org
 scan-63-3.shadowserver.org
-scan-64-13.shadowserver.org
 scan-65-5.shadowserver.org
 scan-66-12.shadowserver.org
 scan-67-6.shadowserver.org
@@ -193,13 +190,9 @@ scan-79-05.shadowserver.org
 scan-80-1.shadowserver.org
 scan-80-3.shadowserver.org
 scan-81-0.shadowserver.org
-scan-81-2.shadowserver.org
 scan-81-7.shadowserver.org
-scan-82-1.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-4.shadowserver.org
-scan-83-5.shadowserver.org
-scan-85-5.shadowserver.org
 scan-87-5.shadowserver.org
 scan-89-3.shadowserver.org
 scan.visionheight.com
