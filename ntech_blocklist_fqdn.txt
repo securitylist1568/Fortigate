@@ -29,6 +29,7 @@
 172-104-134-186.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-89-137.ip.linodeusercontent.com
+207.210.203.35.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 44.188.140.34.bc.googleusercontent.com
 45-33-85-151.ip.linodeusercontent.com
@@ -68,6 +69,7 @@ ec2-54-205-175-31.compute-1.amazonaws.com
 ec2-54-226-107-87.compute-1.amazonaws.com
 ec2-98-81-182-10.compute-1.amazonaws.com
 ecs-113-44-80-106.compute.hwclouds-dns.com
+fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
