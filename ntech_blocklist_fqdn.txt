@@ -24,6 +24,7 @@
 115.150.216.162.bc.googleusercontent.com
 115.211.203.35.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
+173-255-236-116.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
 195-154-200-243.rev.poneytelecom.eu
@@ -32,6 +33,7 @@
 23-94-28-181-host.colocrossing.com
 248.149.216.162.bc.googleusercontent.com
 3.211.203.35.bc.googleusercontent.com
+47.210.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 86.211.203.35.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
@@ -114,10 +116,12 @@ client.yota.ru
 crawler010.deepfield.net
 crawler016.deepfield.net
 crawler026.deepfield.net
+crawler029.deepfield.net
 crawler035.deepfield.net
 crawler042.deepfield.net
 crawler043.deepfield.net
 crawler073.deepfield.net
+crawler124.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
 crawler153.deepfield.net
@@ -153,6 +157,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+rsitez.com
 scan-01j.shadowserver.org
 scan-05b.shadowserver.org
 scan-06a.shadowserver.org
@@ -175,6 +181,7 @@ scan-62-1.shadowserver.org
 scan-62-8.shadowserver.org
 scan-63-3.shadowserver.org
 scan-65-5.shadowserver.org
+scan-66-11.shadowserver.org
 scan-66-12.shadowserver.org
 scan-67-6.shadowserver.org
 scan-69-01.shadowserver.org
