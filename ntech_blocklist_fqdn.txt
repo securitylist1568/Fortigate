@@ -51,6 +51,7 @@ crawler026.deepfield.net
 crawler035.deepfield.net
 crawler042.deepfield.net
 crawler043.deepfield.net
+crawler073.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
 crawler153.deepfield.net
@@ -59,6 +60,7 @@ crawler161.deepfield.net
 crawler165.deepfield.net
 crawler170.deepfield.net
 crawler203.deepfield.net
+crawler204.deepfield.net
 crawler206.deepfield.net
 crawler231.deepfield.net
 crawler238.deepfield.net
@@ -72,7 +74,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-230.4vendeta.com
 ip29.sudolio.io
+li1625-135.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
