@@ -54,6 +54,7 @@
 23-92-30-48.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
 242.149.216.162.bc.googleusercontent.com
+36.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
 45-33-110-172.ip.linodeusercontent.com
@@ -81,6 +82,7 @@
 69-164-205-159.ip.linodeusercontent.com
 69-164-205-81.ip.linodeusercontent.com
 69.210.203.35.bc.googleusercontent.com
+82.150.216.162.bc.googleusercontent.com
 96-126-101-29.ip.linodeusercontent.com
 99.94.233.35.bc.googleusercontent.com
 amz.unixwiz.net
