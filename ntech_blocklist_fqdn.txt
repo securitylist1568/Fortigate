@@ -36,6 +36,7 @@
 208.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
+242.149.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 3.211.203.35.bc.googleusercontent.com
 45-33-64-217.ip.linodeusercontent.com
@@ -130,13 +131,16 @@ crawler042.deepfield.net
 crawler043.deepfield.net
 crawler049.deepfield.net
 crawler073.deepfield.net
+crawler081.deepfield.net
 crawler086.deepfield.net
 crawler091.deepfield.net
 crawler097.deepfield.net
 crawler100.deepfield.net
 crawler116.deepfield.net
+crawler117.deepfield.net
 crawler124.deepfield.net
 crawler127.deepfield.net
+crawler133.deepfield.net
 crawler147.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
@@ -146,7 +150,10 @@ crawler156.deepfield.net
 crawler161.deepfield.net
 crawler165.deepfield.net
 crawler170.deepfield.net
+crawler171.deepfield.net
+crawler176.deepfield.net
 crawler184.deepfield.net
+crawler202.deepfield.net
 crawler203.deepfield.net
 crawler204.deepfield.net
 crawler206.deepfield.net
@@ -183,6 +190,7 @@ scan-05b.shadowserver.org
 scan-06a.shadowserver.org
 scan-09o.shadowserver.org
 scan-11n.shadowserver.org
+scan-13n.shadowserver.org
 scan-15e.shadowserver.org
 scan-18a.shadowserver.org
 scan-19b.shadowserver.org
