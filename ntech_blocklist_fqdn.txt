@@ -132,6 +132,7 @@ crawler042.deepfield.net
 crawler043.deepfield.net
 crawler045.deepfield.net
 crawler049.deepfield.net
+crawler056.deepfield.net
 crawler073.deepfield.net
 crawler081.deepfield.net
 crawler086.deepfield.net
@@ -151,6 +152,7 @@ crawler153.deepfield.net
 crawler156.deepfield.net
 crawler161.deepfield.net
 crawler165.deepfield.net
+crawler168.deepfield.net
 crawler170.deepfield.net
 crawler171.deepfield.net
 crawler176.deepfield.net
@@ -161,6 +163,7 @@ crawler204.deepfield.net
 crawler206.deepfield.net
 crawler220.deepfield.net
 crawler225.deepfield.net
+crawler226.deepfield.net
 crawler231.deepfield.net
 crawler238.deepfield.net
 crawler239.deepfield.net
@@ -198,11 +201,14 @@ scan-18a.shadowserver.org
 scan-19b.shadowserver.org
 scan-19n.shadowserver.org
 scan-39l.shadowserver.org
+scan-41k.shadowserver.org
 scan-42b.shadowserver.org
 scan-43b.shadowserver.org
+scan-44c.shadowserver.org
 scan-44e.shadowserver.org
 scan-45k.shadowserver.org
 scan-51l.shadowserver.org
+scan-52h.shadowserver.org
 scan-58h.shadowserver.org
 scan-58m.shadowserver.org
 scan-59d.shadowserver.org
