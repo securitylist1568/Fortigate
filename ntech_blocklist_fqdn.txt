@@ -1,8 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 104-237-156-209.ip.linodeusercontent.com
-109-248-43-169.skylon.cloud
-109.52.97.34.bc.googleusercontent.com
-11.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,8 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-211-137.dynamic-ip.hinet.net
-121.149.216.162.bc.googleusercontent.com
 139-144-239-78.ip.linodeusercontent.com
 139-144-239-98.ip.linodeusercontent.com
 143-42-0-20.ip.linodeusercontent.com
@@ -108,7 +103,6 @@
 239.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
-44.188.140.34.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
 45-33-105-76.ip.linodeusercontent.com
 45-33-110-79.ip.linodeusercontent.com
@@ -131,7 +125,6 @@ b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 baku.scan.bufferover.run
 bogota.scan.bufferover.run
-c-174-179-209-66.hsd1.va.comcast.net
 cairo.scan.bufferover.run
 cardiff.scan.bufferover.run
 carthage.scan.bufferover.run
@@ -142,18 +135,6 @@ ded121318.smartservers.com.au
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-3-87-243-96.compute-1.amazonaws.com
-ec2-3-88-21-212.compute-1.amazonaws.com
-ec2-3-89-121-148.compute-1.amazonaws.com
-ec2-3-90-108-111.compute-1.amazonaws.com
-ec2-3-92-213-133.compute-1.amazonaws.com
-ec2-44-211-222-141.compute-1.amazonaws.com
-ec2-44-212-38-157.compute-1.amazonaws.com
-ec2-50-19-32-47.compute-1.amazonaws.com
-ec2-52-91-91-100.compute-1.amazonaws.com
-ec2-54-163-74-166.compute-1.amazonaws.com
-ec2-54-165-115-200.compute-1.amazonaws.com
-ec2-54-226-107-87.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
@@ -165,7 +146,6 @@ ip29.sudolio.io
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 lagos.scan.bufferover.run
-li1537-121.members.linode.com
 li1873-236.members.linode.com
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
@@ -223,9 +203,7 @@ sydney.scan.bufferover.run
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
-unn-207-211-214-162.datapacket.com
 ur.scan.bufferover.run
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
 warsaw.scan.bufferover.run
