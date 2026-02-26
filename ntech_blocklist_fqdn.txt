@@ -21,6 +21,7 @@
 144.92.74.97.host.secureserver.net
 146.149.216.162.bc.googleusercontent.com
 146.150.216.162.bc.googleusercontent.com
+162.211.203.35.bc.googleusercontent.com
 165.211.203.35.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 172-105-152-168.ip.linodeusercontent.com
@@ -67,6 +68,7 @@
 45-79-115-128.ip.linodeusercontent.com
 45-79-150-73.ip.linodeusercontent.com
 45-79-150-95.ip.linodeusercontent.com
+45-79-181-164.ip.linodeusercontent.com
 46.149.216.162.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
 50-116-48-41.ip.linodeusercontent.com
@@ -78,12 +80,14 @@
 69-164-205-159.ip.linodeusercontent.com
 69-164-205-81.ip.linodeusercontent.com
 69.210.203.35.bc.googleusercontent.com
+80.149.216.162.bc.googleusercontent.com
 82.150.216.162.bc.googleusercontent.com
 96-126-101-29.ip.linodeusercontent.com
 99.94.233.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
+buffea-rteflt.greatexact.com
 client.yota.ru
 crawler118.deepfield.net
 crawler122.deepfield.net
@@ -273,6 +277,7 @@ prod-boron-us-west-50.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rendered.espsychology.com
+rootevidence.com
 scan-01d.shadowserver.org
 scan-04c.shadowserver.org
 scan-43o.shadowserver.org
