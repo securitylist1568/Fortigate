@@ -24,6 +24,8 @@
 139-162-128-180.ip.linodeusercontent.com
 139-162-161-95.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
+146.149.216.162.bc.googleusercontent.com
+146.150.216.162.bc.googleusercontent.com
 165.211.203.35.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 172-104-10-247.ip.linodeusercontent.com
@@ -48,6 +50,7 @@
 194-195-215-176.ip.linodeusercontent.com
 194-195-215-98.ip.linodeusercontent.com
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
+206.210.203.35.bc.googleusercontent.com
 208.210.203.35.bc.googleusercontent.com
 208.51.199.35.bc.googleusercontent.com
 23-92-30-103.ip.linodeusercontent.com
