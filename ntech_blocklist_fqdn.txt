@@ -129,6 +129,7 @@ crawler042.deepfield.net
 crawler043.deepfield.net
 crawler073.deepfield.net
 crawler086.deepfield.net
+crawler116.deepfield.net
 crawler124.deepfield.net
 crawler127.deepfield.net
 crawler149.deepfield.net
@@ -185,6 +186,7 @@ scan-42b.shadowserver.org
 scan-43b.shadowserver.org
 scan-44e.shadowserver.org
 scan-45k.shadowserver.org
+scan-51l.shadowserver.org
 scan-58h.shadowserver.org
 scan-58m.shadowserver.org
 scan-59d.shadowserver.org
@@ -200,6 +202,8 @@ scan-66-11.shadowserver.org
 scan-66-12.shadowserver.org
 scan-67-6.shadowserver.org
 scan-69-01.shadowserver.org
+scan-69-08.shadowserver.org
+scan-70-08.shadowserver.org
 scan-71-05.shadowserver.org
 scan-71-08.shadowserver.org
 scan-72-00.shadowserver.org
@@ -229,6 +233,7 @@ shiireichiba.com
 simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
