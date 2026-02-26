@@ -24,6 +24,8 @@
 124.149.216.162.bc.googleusercontent.com
 139-162-128-180.ip.linodeusercontent.com
 139-162-161-95.ip.linodeusercontent.com
+144.92.74.97.host.secureserver.net
+17.150.216.162.bc.googleusercontent.com
 172-104-10-247.ip.linodeusercontent.com
 172-104-27-229.ip.linodeusercontent.com
 172-105-152-168.ip.linodeusercontent.com
@@ -346,9 +348,11 @@ prod-boron-sfo2-7.do.binaryedge.ninja
 prod-boron-sfo2-71.do.binaryedge.ninja
 prod-boron-sfo2-73.do.binaryedge.ninja
 prod-boron-sfo2-79.do.binaryedge.ninja
+prod-boron-sfo2-83.do.binaryedge.ninja
 prod-boron-sfo2-85.do.binaryedge.ninja
 prod-boron-sfo2-87.do.binaryedge.ninja
 prod-boron-sfo2-9.do.binaryedge.ninja
+prod-boron-sfo2-97.do.binaryedge.ninja
 prod-boron-us-central-13.li.binaryedge.ninja
 prod-boron-us-central-17.li.binaryedge.ninja
 prod-boron-us-central-21.li.binaryedge.ninja
