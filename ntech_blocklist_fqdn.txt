@@ -24,7 +24,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-137.dynamic-ip.hinet.net
 121.149.216.162.bc.googleusercontent.com
-128.150.216.162.bc.googleusercontent.com
 139-144-239-78.ip.linodeusercontent.com
 139-144-239-98.ip.linodeusercontent.com
 143-42-0-20.ip.linodeusercontent.com
@@ -107,8 +106,9 @@
 23-92-27-206.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
 23-95-132-45-host.colocrossing.com
-26.149.216.162.bc.googleusercontent.com
+239.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
+43.150.216.162.bc.googleusercontent.com
 44.188.140.34.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
 45-33-105-76.ip.linodeusercontent.com
@@ -123,7 +123,6 @@
 45-79-114-248.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-52.210.203.35.bc.googleusercontent.com
 69.211.203.35.bc.googleusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -143,7 +142,6 @@ ded121318.smartservers.com.au
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-18-206-234-118.compute-1.amazonaws.com
 ec2-18-234-82-48.compute-1.amazonaws.com
 ec2-3-80-182-148.compute-1.amazonaws.com
 ec2-3-87-243-96.compute-1.amazonaws.com
@@ -151,20 +149,16 @@ ec2-3-88-21-212.compute-1.amazonaws.com
 ec2-3-89-121-148.compute-1.amazonaws.com
 ec2-3-90-108-111.compute-1.amazonaws.com
 ec2-3-92-213-133.compute-1.amazonaws.com
-ec2-3-94-186-199.compute-1.amazonaws.com
 ec2-34-207-182-99.compute-1.amazonaws.com
 ec2-44-211-222-141.compute-1.amazonaws.com
 ec2-44-212-38-157.compute-1.amazonaws.com
 ec2-50-19-32-47.compute-1.amazonaws.com
 ec2-52-91-91-100.compute-1.amazonaws.com
-ec2-54-152-26-85.compute-1.amazonaws.com
 ec2-54-163-74-166.compute-1.amazonaws.com
 ec2-54-164-46-48.compute-1.amazonaws.com
 ec2-54-165-115-200.compute-1.amazonaws.com
-ec2-54-167-26-30.compute-1.amazonaws.com
 ec2-54-205-175-31.compute-1.amazonaws.com
 ec2-54-226-107-87.compute-1.amazonaws.com
-ec2-98-81-182-10.compute-1.amazonaws.com
 ecs-113-44-80-106.compute.hwclouds-dns.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
@@ -228,7 +222,6 @@ trafo.kz
 troy.scan.bufferover.run
 unn-207-211-214-162.datapacket.com
 ur.scan.bufferover.run
-user-45-142-244-217.lon07.gb.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
