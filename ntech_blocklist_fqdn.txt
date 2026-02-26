@@ -209,6 +209,7 @@ pinkytales.com
 prod-barium-nyc1-18.do.binaryedge.ninja
 prod-barium-nyc1-20.do.binaryedge.ninja
 prod-barium-nyc1-22.do.binaryedge.ninja
+prod-barium-nyc1-24.do.binaryedge.ninja
 prod-barium-nyc1-28.do.binaryedge.ninja
 prod-barium-nyc1-30.do.binaryedge.ninja
 prod-barium-nyc1-32.do.binaryedge.ninja
@@ -268,6 +269,7 @@ prod-beryllium-sfo2-37.do.binaryedge.ninja
 prod-beryllium-sfo2-5.do.binaryedge.ninja
 prod-beryllium-sfo2-81.do.binaryedge.ninja
 prod-beryllium-sfo2-83.do.binaryedge.ninja
+prod-beryllium-us-east-31.li.binaryedge.ninja
 prod-beryllium-us-southeast-20.li.binaryedge.ninja
 prod-beryllium-us-southeast-28.li.binaryedge.ninja
 prod-boron-nyc1-10.do.binaryedge.ninja
@@ -310,6 +312,7 @@ prod-boron-nyc1-92.do.binaryedge.ninja
 prod-boron-nyc1-96.do.binaryedge.ninja
 prod-boron-sfo2-1.do.binaryedge.ninja
 prod-boron-sfo2-103.do.binaryedge.ninja
+prod-boron-sfo2-111.do.binaryedge.ninja
 prod-boron-sfo2-115.do.binaryedge.ninja
 prod-boron-sfo2-117.do.binaryedge.ninja
 prod-boron-sfo2-119.do.binaryedge.ninja
@@ -317,6 +320,7 @@ prod-boron-sfo2-121.do.binaryedge.ninja
 prod-boron-sfo2-125.do.binaryedge.ninja
 prod-boron-sfo2-13.do.binaryedge.ninja
 prod-boron-sfo2-15.do.binaryedge.ninja
+prod-boron-sfo2-21.do.binaryedge.ninja
 prod-boron-sfo2-23.do.binaryedge.ninja
 prod-boron-sfo2-25.do.binaryedge.ninja
 prod-boron-sfo2-27.do.binaryedge.ninja
@@ -346,6 +350,8 @@ prod-boron-sfo2-85.do.binaryedge.ninja
 prod-boron-sfo2-87.do.binaryedge.ninja
 prod-boron-sfo2-9.do.binaryedge.ninja
 prod-boron-us-central-13.li.binaryedge.ninja
+prod-boron-us-central-17.li.binaryedge.ninja
+prod-boron-us-central-21.li.binaryedge.ninja
 prod-boron-us-central-25.li.binaryedge.ninja
 prod-boron-us-central-49.li.binaryedge.ninja
 prod-boron-us-central-5.li.binaryedge.ninja
@@ -357,6 +363,7 @@ prod-boron-us-east-39.li.binaryedge.ninja
 prod-boron-us-east-7.li.binaryedge.ninja
 prod-boron-us-southeast-12.li.binaryedge.ninja
 prod-boron-us-southeast-20.li.binaryedge.ninja
+prod-boron-us-southeast-4.li.binaryedge.ninja
 prod-boron-us-west-14.li.binaryedge.ninja
 prod-boron-us-west-18.li.binaryedge.ninja
 prod-boron-us-west-2.li.binaryedge.ninja
@@ -428,6 +435,7 @@ scan-87-8.shadowserver.org
 scan-88-4.shadowserver.org
 scan-89-5.shadowserver.org
 scan-90-2.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 shiireichiba.com
 simspice.com
