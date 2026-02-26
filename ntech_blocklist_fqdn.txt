@@ -48,10 +48,12 @@
 194-195-215-176.ip.linodeusercontent.com
 194-195-215-98.ip.linodeusercontent.com
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
+204.76.203.233.ptr.pfcloud.network
 206.210.203.35.bc.googleusercontent.com
 207.246.95.18.vultrusercontent.com
 208.51.199.35.bc.googleusercontent.com
 211-21-48-186.hinet-ip.hinet.net
+22.149.216.162.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
 23-92-30-103.ip.linodeusercontent.com
 23-92-30-189.ip.linodeusercontent.com
