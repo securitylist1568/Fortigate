@@ -57,11 +57,13 @@ crawler239.deepfield.net
 crawler243.deepfield.net
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
+diversion.banhkemcantho.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
+hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-230.4vendeta.com
 ip29.sudolio.io
