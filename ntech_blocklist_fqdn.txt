@@ -333,6 +333,7 @@ prod-boron-us-west-22.li.binaryedge.ninja
 prod-boron-us-west-50.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rl10.nicolatest.it
 rootevidence.com
 rsitez.com
 scan-01d.shadowserver.org
