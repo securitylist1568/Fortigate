@@ -87,6 +87,7 @@
 69.210.203.35.bc.googleusercontent.com
 86.211.203.35.bc.googleusercontent.com
 96-126-101-29.ip.linodeusercontent.com
+99.94.233.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcge2ddie.stretchoid.com
 azpdcgippqyp.stretchoid.com
@@ -137,6 +138,7 @@ crawler100.deepfield.net
 crawler116.deepfield.net
 crawler117.deepfield.net
 crawler118.deepfield.net
+crawler122.deepfield.net
 crawler124.deepfield.net
 crawler127.deepfield.net
 crawler133.deepfield.net
@@ -335,6 +337,7 @@ prod-boron-us-west-22.li.binaryedge.ninja
 prod-boron-us-west-50.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rendered.espsychology.com
 rl10.nicolatest.it
 rootevidence.com
 rsitez.com
