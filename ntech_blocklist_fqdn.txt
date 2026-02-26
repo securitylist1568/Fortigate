@@ -136,6 +136,7 @@ crawler097.deepfield.net
 crawler100.deepfield.net
 crawler116.deepfield.net
 crawler117.deepfield.net
+crawler118.deepfield.net
 crawler124.deepfield.net
 crawler127.deepfield.net
 crawler133.deepfield.net
@@ -160,6 +161,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip18.ip-15-204-40.us
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
+lisbon.portugal.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
