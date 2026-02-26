@@ -3,7 +3,6 @@
 109-248-43-169.skylon.cloud
 109.52.97.34.bc.googleusercontent.com
 11.149.216.162.bc.googleusercontent.com
-11.ip-109-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -124,7 +123,6 @@
 45-79-92-218.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 62-210-136-111.rev.poneytelecom.eu
-69.211.203.35.bc.googleusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 83.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -144,24 +142,18 @@ ded121318.smartservers.com.au
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-18-234-82-48.compute-1.amazonaws.com
-ec2-3-80-182-148.compute-1.amazonaws.com
 ec2-3-87-243-96.compute-1.amazonaws.com
 ec2-3-88-21-212.compute-1.amazonaws.com
 ec2-3-89-121-148.compute-1.amazonaws.com
 ec2-3-90-108-111.compute-1.amazonaws.com
 ec2-3-92-213-133.compute-1.amazonaws.com
-ec2-34-207-182-99.compute-1.amazonaws.com
 ec2-44-211-222-141.compute-1.amazonaws.com
 ec2-44-212-38-157.compute-1.amazonaws.com
 ec2-50-19-32-47.compute-1.amazonaws.com
 ec2-52-91-91-100.compute-1.amazonaws.com
 ec2-54-163-74-166.compute-1.amazonaws.com
-ec2-54-164-46-48.compute-1.amazonaws.com
 ec2-54-165-115-200.compute-1.amazonaws.com
-ec2-54-205-175-31.compute-1.amazonaws.com
 ec2-54-226-107-87.compute-1.amazonaws.com
-ecs-113-44-80-106.compute.hwclouds-dns.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
@@ -173,6 +165,7 @@ karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 lagos.scan.bufferover.run
 li1537-121.members.linode.com
+li1873-236.members.linode.com
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
 mumbai.scan.bufferover.run
@@ -183,7 +176,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
-scan-02.skipa.cyberok.ru
 scan-03f.shadowserver.org
 scan-08l.shadowserver.org
 scan-41h.shadowserver.org
@@ -220,7 +212,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
-trafo.kz
 troy.scan.bufferover.run
 unn-207-211-214-162.datapacket.com
 ur.scan.bufferover.run
