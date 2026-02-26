@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-137.dynamic-ip.hinet.net
+130.210.203.35.bc.googleusercontent.com
 139-162-128-180.ip.linodeusercontent.com
 139-162-161-95.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
@@ -48,6 +49,8 @@
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
 206.210.203.35.bc.googleusercontent.com
 208.51.199.35.bc.googleusercontent.com
+211-21-48-186.hinet-ip.hinet.net
+222.210.203.35.bc.googleusercontent.com
 23-92-30-103.ip.linodeusercontent.com
 23-92-30-189.ip.linodeusercontent.com
 23-92-30-235.ip.linodeusercontent.com
