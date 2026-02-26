@@ -58,7 +58,10 @@ b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
 buffea-rteflt.greatexact.com
 client.yota.ru
+crawler016.deepfield.net
+crawler031.deepfield.net
 crawler060.deepfield.net
+crawler112.deepfield.net
 crawler118.deepfield.net
 crawler119.deepfield.net
 crawler122.deepfield.net
@@ -67,11 +70,18 @@ crawler194.deepfield.net
 crawler201.deepfield.net
 crawler203.deepfield.net
 crawler209.deepfield.net
+crawler210.deepfield.net
 crawler225.deepfield.net
 crawler227.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-3-86-193-171.compute-1.amazonaws.com
+ec2-3-88-110-161.compute-1.amazonaws.com
+ec2-3-88-190-149.compute-1.amazonaws.com
+ec2-44-203-196-74.compute-1.amazonaws.com
+ec2-52-90-163-28.compute-1.amazonaws.com
+ec2-54-226-115-111.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 free.ispiria.net
@@ -93,5 +103,6 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
