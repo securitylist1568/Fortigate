@@ -197,6 +197,7 @@ scan-85-5.shadowserver.org
 scan-88-5.shadowserver.org
 scan-90-3.shadowserver.org
 scan.visionheight.com
+scanner-l604.scanner.modat.io
 security.criminalip.com
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
