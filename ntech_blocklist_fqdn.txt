@@ -36,8 +36,10 @@
 242.149.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 3.211.203.35.bc.googleusercontent.com
+37.150.216.162.bc.googleusercontent.com
 45-33-64-217.ip.linodeusercontent.com
 47.210.203.35.bc.googleusercontent.com
+60-250-140-251.hinet-ip.hinet.net
 8.211.203.35.bc.googleusercontent.com
 86.211.203.35.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
@@ -185,6 +187,7 @@ recyber.net
 rootevidence.com
 rsitez.com
 scan-01j.shadowserver.org
+scan-04c.shadowserver.org
 scan-08d.shadowserver.org
 scan-09o.shadowserver.org
 scan-11n.shadowserver.org
@@ -197,6 +200,7 @@ scan-42c.shadowserver.org
 scan-44c.shadowserver.org
 scan-44e.shadowserver.org
 scan-45k.shadowserver.org
+scan-47k.shadowserver.org
 scan-51l.shadowserver.org
 scan-52h.shadowserver.org
 scan-58h.shadowserver.org
@@ -235,6 +239,7 @@ scan-87-5.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-4.shadowserver.org
 scan-89-5.shadowserver.org
+scan-90-2.shadowserver.org
 security.criminalip.com
 server.comy
 shiireichiba.com
