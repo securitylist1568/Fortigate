@@ -190,6 +190,8 @@ scan-57e.shadowserver.org
 scan-58g.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-6.shadowserver.org
+scan-62-9.shadowserver.org
+scan-64-13.shadowserver.org
 scan-64-2.shadowserver.org
 scan-66-7.shadowserver.org
 scan-70-01.shadowserver.org
@@ -199,6 +201,7 @@ scan-74-07.shadowserver.org
 scan-75-04.shadowserver.org
 scan-79-08.shadowserver.org
 scan-79-09.shadowserver.org
+scan-82-1.shadowserver.org
 scan-82-2.shadowserver.org
 scan-83-8.shadowserver.org
 scan-88-5.shadowserver.org
