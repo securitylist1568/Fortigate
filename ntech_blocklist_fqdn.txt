@@ -131,11 +131,13 @@ crawler043.deepfield.net
 crawler049.deepfield.net
 crawler073.deepfield.net
 crawler086.deepfield.net
+crawler091.deepfield.net
 crawler097.deepfield.net
 crawler100.deepfield.net
 crawler116.deepfield.net
 crawler124.deepfield.net
 crawler127.deepfield.net
+crawler147.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
 crawler152.deepfield.net
