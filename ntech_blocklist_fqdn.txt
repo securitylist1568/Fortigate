@@ -97,6 +97,7 @@
 23-92-27-206.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
 239.150.216.162.bc.googleusercontent.com
+3.211.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
 45-33-105-76.ip.linodeusercontent.com
@@ -125,6 +126,7 @@ carthage.scan.bufferover.run
 client.yota.ru
 cork.scan.bufferover.run
 crawler016.deepfield.net
+crawler026.deepfield.net
 crawler035.deepfield.net
 crawler238.deepfield.net
 crawler239.deepfield.net
