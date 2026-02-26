@@ -1,4 +1,3 @@
-031-047-087-243.cust.tk-bodensee.net
 1-34-13-89.hinet-ip.hinet.net
 109-248-43-169.skylon.cloud
 109.52.97.34.bc.googleusercontent.com
@@ -26,11 +25,10 @@
 121.149.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 143-14-88-19.customer.curtcreation.net
-172-104-134-186.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-192-155-89-137.ip.linodeusercontent.com
 207.210.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
+23-94-28-181-host.colocrossing.com
 23-95-132-45-host.colocrossing.com
 26.149.216.162.bc.googleusercontent.com
 44.188.140.34.bc.googleusercontent.com
@@ -43,9 +41,9 @@ b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 c-174-179-209-66.hsd1.va.comcast.net
 client.yota.ru
-cloud.urudns.com
 crawler111.deepfield.net
 dal215.hawkhost.com
+ded121318.smartservers.com.au
 dns12.online.tj.cn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-18-206-234-118.compute-1.amazonaws.com
@@ -76,7 +74,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 mx4.mailerwhiz.com
@@ -100,4 +97,3 @@ user-45-142-244-217.lon07.gb.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 v157-7-67-41.6ogf.static.cnode.io
-virginia.probe.onyphe.net
