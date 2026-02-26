@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+112.210.203.35.bc.googleusercontent.com
 115.211.203.35.bc.googleusercontent.com
 139-144-239-78.ip.linodeusercontent.com
 139-144-239-98.ip.linodeusercontent.com
@@ -161,8 +162,10 @@ scan-06a.shadowserver.org
 scan-08l.shadowserver.org
 scan-15e.shadowserver.org
 scan-37e.shadowserver.org
+scan-39l.shadowserver.org
 scan-41f.shadowserver.org
 scan-41h.shadowserver.org
+scan-43b.shadowserver.org
 scan-43f.shadowserver.org
 scan-46h.shadowserver.org
 scan-46o.shadowserver.org
@@ -177,14 +180,18 @@ scan-61-4.shadowserver.org
 scan-61-9.shadowserver.org
 scan-62-6.shadowserver.org
 scan-62-9.shadowserver.org
+scan-63-3.shadowserver.org
 scan-64-13.shadowserver.org
 scan-64-2.shadowserver.org
 scan-66-7.shadowserver.org
+scan-69-01.shadowserver.org
 scan-70-01.shadowserver.org
+scan-73-02.shadowserver.org
 scan-73-06.shadowserver.org
 scan-74-03.shadowserver.org
 scan-74-07.shadowserver.org
 scan-75-04.shadowserver.org
+scan-79-05.shadowserver.org
 scan-79-08.shadowserver.org
 scan-79-09.shadowserver.org
 scan-81-2.shadowserver.org
@@ -194,6 +201,7 @@ scan-83-5.shadowserver.org
 scan-83-8.shadowserver.org
 scan-85-5.shadowserver.org
 scan-88-5.shadowserver.org
+scan-89-3.shadowserver.org
 scan-90-3.shadowserver.org
 scan.visionheight.com
 scanner-l604.scanner.modat.io
