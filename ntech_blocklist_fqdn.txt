@@ -33,7 +33,9 @@
 185-45-195-15.hostsailor.com
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
 204.76.203.233.ptr.pfcloud.network
+206.150.216.162.bc.googleusercontent.com
 206.210.203.35.bc.googleusercontent.com
+207.148.126.19.vultrusercontent.com
 207.246.95.18.vultrusercontent.com
 211-21-48-186.hinet-ip.hinet.net
 22.149.216.162.bc.googleusercontent.com
@@ -56,6 +58,7 @@ b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
 buffea-rteflt.greatexact.com
 client.yota.ru
+crawler060.deepfield.net
 crawler118.deepfield.net
 crawler119.deepfield.net
 crawler122.deepfield.net
