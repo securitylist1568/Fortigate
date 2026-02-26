@@ -159,6 +159,7 @@ festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
 hosted-by.as49870.net
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 karachi.scan.bufferover.run
