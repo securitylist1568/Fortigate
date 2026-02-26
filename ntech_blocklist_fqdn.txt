@@ -85,7 +85,17 @@ rates.speeder.site
 recyber.net
 rootevidence.com
 scan-02.skipa.cyberok.ru
+scan-41h.shadowserver.org
+scan-46o.shadowserver.org
+scan-47f.shadowserver.org
+scan-51n.shadowserver.org
+scan-58g.shadowserver.org
+scan-61-4.shadowserver.org
+scan-73-06.shadowserver.org
+scan-74-07.shadowserver.org
+scan-79-09.shadowserver.org
 scan-82-2.shadowserver.org
+scan-83-8.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
