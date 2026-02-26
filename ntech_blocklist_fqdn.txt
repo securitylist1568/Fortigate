@@ -126,7 +126,9 @@ client.yota.ru
 cork.scan.bufferover.run
 crawler016.deepfield.net
 crawler035.deepfield.net
+crawler238.deepfield.net
 crawler239.deepfield.net
+crawler243.deepfield.net
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
 dhaka.scan.bufferover.run
@@ -146,6 +148,7 @@ manila.scan.bufferover.run
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 mumbai.scan.bufferover.run
+mx2.zeelandnet.nl
 no-mans-land.m247.com
 olous.scan.bufferover.run
 pc112.cses.ilc.edu.tw
