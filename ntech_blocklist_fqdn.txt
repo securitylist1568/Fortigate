@@ -93,7 +93,9 @@
 173-255-243-63.ip.linodeusercontent.com
 174.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+195-154-200-243.rev.poneytelecom.eu
 198-74-50-114.ip.linodeusercontent.com
+227.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
 23-94-28-181-host.colocrossing.com
@@ -115,6 +117,7 @@
 62-210-136-111.rev.poneytelecom.eu
 74-207-253-22.ip.linodeusercontent.com
 83.211.203.35.bc.googleusercontent.com
+97.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 angkor.scan.bufferover.run
 b2.org.afilias-nst.org
@@ -130,10 +133,13 @@ crawler010.deepfield.net
 crawler016.deepfield.net
 crawler026.deepfield.net
 crawler035.deepfield.net
+crawler043.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
+crawler153.deepfield.net
 crawler156.deepfield.net
 crawler170.deepfield.net
+crawler203.deepfield.net
 crawler206.deepfield.net
 crawler238.deepfield.net
 crawler239.deepfield.net
@@ -143,6 +149,7 @@ dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
