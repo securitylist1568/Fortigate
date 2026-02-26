@@ -30,6 +30,8 @@
 185-45-195-15.hostsailor.com
 192-155-89-137.ip.linodeusercontent.com
 207.210.203.35.bc.googleusercontent.com
+222.211.203.35.bc.googleusercontent.com
+23-95-132-45-host.colocrossing.com
 26.149.216.162.bc.googleusercontent.com
 44.188.140.34.bc.googleusercontent.com
 45-33-85-151.ip.linodeusercontent.com
@@ -86,6 +88,7 @@ rates.speeder.site
 recyber.net
 rootevidence.com
 scan-02.skipa.cyberok.ru
+scan-82-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
