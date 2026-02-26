@@ -23,7 +23,11 @@
 112.210.203.35.bc.googleusercontent.com
 115.150.216.162.bc.googleusercontent.com
 115.211.203.35.bc.googleusercontent.com
+118-168-211-137.dynamic-ip.hinet.net
 124.149.216.162.bc.googleusercontent.com
+139-162-128-180.ip.linodeusercontent.com
+139-162-161-95.ip.linodeusercontent.com
+172-104-10-247.ip.linodeusercontent.com
 172-104-27-229.ip.linodeusercontent.com
 173-255-236-116.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -143,6 +147,7 @@ crawler231.deepfield.net
 crawler238.deepfield.net
 crawler239.deepfield.net
 crawler243.deepfield.net
+crawler247.deepfield.net
 crawler248.deepfield.net
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
@@ -170,6 +175,7 @@ rsitez.com
 scan-01j.shadowserver.org
 scan-05b.shadowserver.org
 scan-06a.shadowserver.org
+scan-09o.shadowserver.org
 scan-11n.shadowserver.org
 scan-15e.shadowserver.org
 scan-18a.shadowserver.org
@@ -211,6 +217,7 @@ scan-81-5.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-4.shadowserver.org
+scan-85-2.shadowserver.org
 scan-87-5.shadowserver.org
 scan-87-8.shadowserver.org
 scan-89-3.shadowserver.org
