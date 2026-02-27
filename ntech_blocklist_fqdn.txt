@@ -28,9 +28,11 @@
 1770962187605-7dc6ed92bda4e8-0-5.local
 185-45-195-15.hostsailor.com
 192-155-90-44.ip.linodeusercontent.com
+194-58-114-139.cloudvps.regruhosting.ru
 195.211.203.35.bc.googleusercontent.com
 198-1-195-234.magnohost.com.br
 23-94-28-181-host.colocrossing.com
+23-94-94-191-host.colocrossing.com
 246.211.203.35.bc.googleusercontent.com
 34.211.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
@@ -111,6 +113,7 @@ azpdssugh70r.stretchoid.com
 azpdssy3cusk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler029.deepfield.net
 crawler096.deepfield.net
 crawler156.deepfield.net
 dal215.hawkhost.com
@@ -175,6 +178,7 @@ scan-70-09.shadowserver.org
 scan-71-02.shadowserver.org
 scan-72-02.shadowserver.org
 scan-74-01.shadowserver.org
+scan-75-02.shadowserver.org
 scan-76-04.shadowserver.org
 scan-76-05.shadowserver.org
 scan-77-03.shadowserver.org
