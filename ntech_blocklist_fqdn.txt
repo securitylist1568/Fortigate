@@ -24,6 +24,7 @@
 17.150.216.162.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+198-1-195-234.magnohost.com.br
 198.211.203.35.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
