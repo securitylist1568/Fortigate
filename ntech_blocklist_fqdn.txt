@@ -122,6 +122,8 @@ scan-87-5.shadowserver.org
 scan-89-5.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
+shiireichiba.com
+simspice.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
