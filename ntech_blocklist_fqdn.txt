@@ -32,6 +32,7 @@
 198-1-195-234.magnohost.com.br
 23-94-28-181-host.colocrossing.com
 246.211.203.35.bc.googleusercontent.com
+34.211.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
 51-158-146-71.rev.poneytelecom.eu
 59.149.216.162.bc.googleusercontent.com
@@ -148,6 +149,7 @@ scan-49e.shadowserver.org
 scan-50j.shadowserver.org
 scan-56n.shadowserver.org
 scan-58g.shadowserver.org
+scan-60-3.shadowserver.org
 scan-60-6.shadowserver.org
 scan-62-11.shadowserver.org
 scan-62-2.shadowserver.org
