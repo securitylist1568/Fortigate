@@ -101,6 +101,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
+l600.scanner.modat.io
 mfyabgec.musicpda.com
 ns569611.ip-51-79-77.net
 parisinos.de
@@ -110,9 +111,17 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-04j.shadowserver.org
+scan-14a.shadowserver.org
 scan-36o.shadowserver.org
+scan-45o.shadowserver.org
+scan-60-4.shadowserver.org
+scan-61-5.shadowserver.org
+scan-67-11.shadowserver.org
+scan-70-01.shadowserver.org
 scan-71-03.shadowserver.org
 scan-72-00.shadowserver.org
+scan-81-5.shadowserver.org
+scan-86-3.shadowserver.org
 scan-88-8.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
