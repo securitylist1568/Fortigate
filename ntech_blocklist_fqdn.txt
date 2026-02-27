@@ -27,6 +27,7 @@
 210.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
+246.211.203.35.bc.googleusercontent.com
 253.210.203.35.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 51-158-146-71.rev.poneytelecom.eu
@@ -66,6 +67,8 @@ scan-44e.shadowserver.org
 scan-45o.shadowserver.org
 scan-47i.shadowserver.org
 scan-48e.shadowserver.org
+scan-48l.shadowserver.org
+scan-50j.shadowserver.org
 scan-60-4.shadowserver.org
 scan-61-5.shadowserver.org
 scan-64-13.shadowserver.org
