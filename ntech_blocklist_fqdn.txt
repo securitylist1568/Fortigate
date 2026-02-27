@@ -39,6 +39,7 @@
 51-158-146-71.rev.poneytelecom.eu
 59.149.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
+81.150.216.162.bc.googleusercontent.com
 85.133.145.200.pos-1-0.7tir.sepanta.net
 9.150.216.162.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
@@ -157,6 +158,7 @@ scan-50j.shadowserver.org
 scan-53m.shadowserver.org
 scan-56n.shadowserver.org
 scan-58g.shadowserver.org
+scan-59d.shadowserver.org
 scan-60-3.shadowserver.org
 scan-60-6.shadowserver.org
 scan-62-11.shadowserver.org
@@ -211,6 +213,7 @@ scan.visionheight.com
 security.criminalip.com
 server.comy
 smtp1.telemach.net
+start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
