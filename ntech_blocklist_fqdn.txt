@@ -22,6 +22,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 123-192-184-87.dynamic.kbronet.com.tw
 125.210.203.35.bc.googleusercontent.com
+136.210.203.35.bc.googleusercontent.com
 146.31.232.180.dsl.inet.static.certaincyber.net
 159.210.203.35.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
@@ -50,6 +51,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler023.deepfield.net
+crawler026.deepfield.net
 crawler029.deepfield.net
 crawler033.deepfield.net
 crawler044.deepfield.net
