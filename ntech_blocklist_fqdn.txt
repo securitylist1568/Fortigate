@@ -36,6 +36,9 @@
 211-21-48-186.hinet-ip.hinet.net
 22.149.216.162.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
+23-94-28-181-host.colocrossing.com
+235.150.216.162.bc.googleusercontent.com
+241.149.216.162.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
 34.211.203.35.bc.googleusercontent.com
 36.149.216.162.bc.googleusercontent.com
@@ -51,7 +54,6 @@
 80.149.216.162.bc.googleusercontent.com
 82.150.216.162.bc.googleusercontent.com
 82.210.203.35.bc.googleusercontent.com
-99.94.233.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
@@ -61,9 +63,7 @@ crawler016.deepfield.net
 crawler031.deepfield.net
 crawler060.deepfield.net
 crawler112.deepfield.net
-crawler118.deepfield.net
 crawler119.deepfield.net
-crawler122.deepfield.net
 crawler184.deepfield.net
 crawler194.deepfield.net
 crawler201.deepfield.net
@@ -104,7 +104,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
-lisbon.portugal.com
 mfyabgec.musicpda.com
 ns569611.ip-51-79-77.net
 parisinos.de
@@ -112,7 +111,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rendered.espsychology.com
 rootevidence.com
 scan.visionheight.com
 security.criminalip.com
