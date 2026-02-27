@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-194-152.dynamic-ip.hinet.net
 123-192-184-87.dynamic.kbronet.com.tw
+146.31.232.180.dsl.inet.static.certaincyber.net
 148.150.216.162.bc.googleusercontent.com
 159.210.203.35.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
@@ -135,6 +136,7 @@ scan-05a.shadowserver.org
 scan-08i.shadowserver.org
 scan-11c.shadowserver.org
 scan-14j.shadowserver.org
+scan-36f.shadowserver.org
 scan-39l.shadowserver.org
 scan-40d.shadowserver.org
 scan-41g.shadowserver.org
@@ -160,6 +162,7 @@ scan-63-13.shadowserver.org
 scan-64-3.shadowserver.org
 scan-64-6.shadowserver.org
 scan-64-8.shadowserver.org
+scan-65-12.shadowserver.org
 scan-65-9.shadowserver.org
 scan-67-7.shadowserver.org
 scan-68-03.shadowserver.org
