@@ -32,6 +32,7 @@
 194-195-253-86.ip.linodeusercontent.com
 194.211.203.35.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
+23-94-28-181-host.colocrossing.com
 250.149.216.162.bc.googleusercontent.com
 45-79-135-34.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
@@ -61,6 +62,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-112-74.4vendeta.com
+ip-40-126.4vendeta.com
+ip-49-70.4vendeta.com
+ip-58-246.4vendeta.com
 ip169.ip-51-161-78.net
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
@@ -87,5 +91,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.155.124.140.128.clients.your-server.de
 users219.vip.heteml.jp
+vm3931279.example.com
 vm512105.hosted-by.u1host.com
 vps16136.ua-hosting.company
