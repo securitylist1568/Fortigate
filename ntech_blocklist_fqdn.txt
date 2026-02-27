@@ -55,6 +55,7 @@ crawler033.deepfield.net
 crawler044.deepfield.net
 crawler096.deepfield.net
 crawler156.deepfield.net
+crawler238.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 e2e-dbaas-mongodb-tx0ix-r-5889a345.mongo.ondigitalocean.com
