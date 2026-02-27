@@ -32,6 +32,7 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 194.211.203.35.bc.googleusercontent.com
+200-171-87-44.dsl.telesp.net.br
 204.76.203.233.ptr.pfcloud.network
 21.211.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
@@ -88,6 +89,7 @@ ip-49-70.4vendeta.com
 ip-58-246.4vendeta.com
 ip29.sudolio.io
 isp.cari.net
+l604.scanner.modat.io
 l999.scanner.modat.io
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
