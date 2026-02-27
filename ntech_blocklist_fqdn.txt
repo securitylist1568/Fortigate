@@ -40,6 +40,7 @@
 51-158-146-71.rev.poneytelecom.eu
 59.149.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
+70.210.203.35.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 85.133.145.200.pos-1-0.7tir.sepanta.net
 amz.unixwiz.net
@@ -73,6 +74,7 @@ scan-02d.shadowserver.org
 scan-05a.shadowserver.org
 scan-08i.shadowserver.org
 scan-14j.shadowserver.org
+scan-15k.shadowserver.org
 scan-36f.shadowserver.org
 scan-39i.shadowserver.org
 scan-39k.shadowserver.org
@@ -137,6 +139,7 @@ scan-85-6.shadowserver.org
 scan-85-7.shadowserver.org
 scan-86-5.shadowserver.org
 scan-86-6.shadowserver.org
+scan-86-8.shadowserver.org
 scan-87-5.shadowserver.org
 scan-89-5.shadowserver.org
 scan.visionheight.com
