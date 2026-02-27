@@ -33,11 +33,13 @@
 194-195-253-86.ip.linodeusercontent.com
 194.211.203.35.bc.googleusercontent.com
 204.76.203.233.ptr.pfcloud.network
+21.211.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 250.149.216.162.bc.googleusercontent.com
 45-33-65-239.ip.linodeusercontent.com
 45-79-135-34.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
+6682-315a.jnb01.za.misaka.io
 67.149.216.162.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
 97-107-131-221.ip.linodeusercontent.com
@@ -85,6 +87,7 @@ ip29.sudolio.io
 isp.cari.net
 l999.scanner.modat.io
 mfyabgec.musicpda.com
+mx2.zeelandnet.nl
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 peso.eumelus.xyz
