@@ -105,6 +105,7 @@ scan-08i.shadowserver.org
 scan-14j.shadowserver.org
 scan-36f.shadowserver.org
 scan-39l.shadowserver.org
+scan-41f.shadowserver.org
 scan-41g.shadowserver.org
 scan-43b.shadowserver.org
 scan-45f.shadowserver.org
