@@ -18,12 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.150.216.162.bc.googleusercontent.com
-118-168-194-152.dynamic-ip.hinet.net
 127.211.203.35.bc.googleusercontent.com
 132.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
-180-218-220-0.dynamic.twmbroadband.net
 185-45-195-15.hostsailor.com
 198.211.203.35.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
@@ -32,8 +30,7 @@
 253.210.203.35.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 51-158-146-71.rev.poneytelecom.eu
-91.211.203.35.bc.googleusercontent.com
-93.150.216.162.bc.googleusercontent.com
+9.150.216.162.bc.googleusercontent.com
 99.94.233.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -41,6 +38,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-239-13-6.compute-1.amazonaws.com
+fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -53,7 +51,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04j.shadowserver.org
 scan-07g.shadowserver.org
 scan-09g.shadowserver.org
 scan-12h.shadowserver.org
@@ -62,7 +59,6 @@ scan-20a.shadowserver.org
 scan-20f.shadowserver.org
 scan-36f.shadowserver.org
 scan-36l.shadowserver.org
-scan-36o.shadowserver.org
 scan-42b.shadowserver.org
 scan-42c.shadowserver.org
 scan-44e.shadowserver.org
@@ -78,8 +74,6 @@ scan-68-06.shadowserver.org
 scan-68-08.shadowserver.org
 scan-70-01.shadowserver.org
 scan-70-05.shadowserver.org
-scan-71-03.shadowserver.org
-scan-72-00.shadowserver.org
 scan-72-01.shadowserver.org
 scan-73-08.shadowserver.org
 scan-74-06.shadowserver.org
@@ -95,7 +89,6 @@ scan-85-8.shadowserver.org
 scan-86-3.shadowserver.org
 scan-86-6.shadowserver.org
 scan-88-7.shadowserver.org
-scan-88-8.shadowserver.org
 scan-90-4.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
