@@ -43,7 +43,6 @@
 34.211.203.35.bc.googleusercontent.com
 45-79-142-67.ip.linodeusercontent.com
 45-79-181-164.ip.linodeusercontent.com
-46.211.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 64.210.203.35.bc.googleusercontent.com
@@ -55,7 +54,6 @@
 93.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-blackburn.probe.onyphe.net
 buffea-rteflt.greatexact.com
 client.yota.ru
 crawler016.deepfield.net
@@ -104,7 +102,6 @@ ip29.sudolio.io
 ip50.ip-51-38-211.eu
 l600.scanner.modat.io
 mfyabgec.musicpda.com
-ns569611.ip-51-79-77.net
 parisinos.de
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -134,6 +131,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
+user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
 vpn.pp.ua
