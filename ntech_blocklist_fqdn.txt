@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-194-152.dynamic-ip.hinet.net
+123-192-184-87.dynamic.kbronet.com.tw
 132.150.216.162.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
@@ -27,6 +28,7 @@
 1770962187605-7dc6ed92bda4e8-0-5.local
 185-45-195-15.hostsailor.com
 192-155-90-44.ip.linodeusercontent.com
+195.211.203.35.bc.googleusercontent.com
 198-1-195-234.magnohost.com.br
 23-94-28-181-host.colocrossing.com
 246.211.203.35.bc.googleusercontent.com
@@ -149,10 +151,12 @@ scan-50j.shadowserver.org
 scan-56n.shadowserver.org
 scan-58g.shadowserver.org
 scan-60-6.shadowserver.org
+scan-62-2.shadowserver.org
 scan-63-11.shadowserver.org
 scan-63-13.shadowserver.org
 scan-64-6.shadowserver.org
 scan-65-9.shadowserver.org
+scan-67-7.shadowserver.org
 scan-68-08.shadowserver.org
 scan-69-04.shadowserver.org
 scan-70-02.shadowserver.org
@@ -173,6 +177,7 @@ scan-82-4.shadowserver.org
 scan-82-5.shadowserver.org
 scan-82-8.shadowserver.org
 scan-83-3.shadowserver.org
+scan-83-7.shadowserver.org
 scan-84-1.shadowserver.org
 scan-84-2.shadowserver.org
 scan-85-7.shadowserver.org
