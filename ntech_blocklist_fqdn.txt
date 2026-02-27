@@ -1,4 +1,3 @@
-031-047-087-243.cust.tk-bodensee.net
 1-163-70-100.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 101.255.93.34.bc.googleusercontent.com
@@ -28,7 +27,6 @@
 172-104-211-209.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 173.199.127.233.constant.com
-177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 194.211.203.35.bc.googleusercontent.com
@@ -39,12 +37,7 @@
 45-33-65-239.ip.linodeusercontent.com
 45-79-135-34.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
-54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
 67.149.216.162.bc.googleusercontent.com
-70.210.203.35.bc.googleusercontent.com
-80.179.236.35.bc.googleusercontent.com
-82.150.216.162.bc.googleusercontent.com
-89.210.203.35.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
 97-107-131-221.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -52,13 +45,12 @@ b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
 crawler026.deepfield.net
-crawler033.deepfield.net
 crawler056.deepfield.net
 crawler141.deepfield.net
-crawler238.deepfield.net
 dal215.hawkhost.com
 discountsavailable.space
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
@@ -70,7 +62,6 @@ ip-40-126.4vendeta.com
 ip-49-70.4vendeta.com
 ip-58-246.4vendeta.com
 ip169.ip-51-161-78.net
-ip29.ip-5-135-94.eu
 ip29.sudolio.io
 isp.cari.net
 l999.scanner.modat.io
@@ -85,8 +76,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rus.telpher.space
-scan-15k.shadowserver.org
-scan-86-8.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 shiireichiba.com
