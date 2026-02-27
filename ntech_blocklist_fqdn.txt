@@ -2,6 +2,7 @@
 1-163-70-100.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 101.255.93.34.bc.googleusercontent.com
+102-213-6-53.rackzar.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -24,7 +25,6 @@
 118-170-96-66.dynamic-ip.hinet.net
 119.149.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
-136.210.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 172-104-211-209.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -33,7 +33,6 @@
 194-195-253-86.ip.linodeusercontent.com
 194.211.203.35.bc.googleusercontent.com
 204.76.203.233.ptr.pfcloud.network
-215.149.216.162.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 250.149.216.162.bc.googleusercontent.com
 45-33-65-239.ip.linodeusercontent.com
@@ -46,11 +45,8 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
-crawler026.deepfield.net
-crawler056.deepfield.net
 crawler141.deepfield.net
 dal215.hawkhost.com
-discountsavailable.space
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 ec2-100-24-4-107.compute-1.amazonaws.com
@@ -82,17 +78,13 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-112-74.4vendeta.com
 ip-40-126.4vendeta.com
 ip-49-70.4vendeta.com
 ip-58-246.4vendeta.com
-ip169.ip-51-161-78.net
 ip29.sudolio.io
 isp.cari.net
 l999.scanner.modat.io
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
-mx2.mailerwhiz.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 peso.eumelus.xyz
@@ -111,5 +103,3 @@ static.155.124.140.128.clients.your-server.de
 tiago.probe.onyphe.net
 users219.vip.heteml.jp
 vm3931279.example.com
-vm512105.hosted-by.u1host.com
-vps16136.ua-hosting.company
