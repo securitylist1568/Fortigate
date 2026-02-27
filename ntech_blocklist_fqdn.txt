@@ -35,10 +35,13 @@
 204.76.203.233.ptr.pfcloud.network
 21.211.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
+24-52-70-30.telesystem.us
 250.149.216.162.bc.googleusercontent.com
 45-33-65-239.ip.linodeusercontent.com
 45-79-135-34.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
+51.211.203.35.bc.googleusercontent.com
+56.149.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.149.216.162.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
