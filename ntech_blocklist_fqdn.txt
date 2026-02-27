@@ -106,6 +106,7 @@ scan-05a.shadowserver.org
 scan-08i.shadowserver.org
 scan-14j.shadowserver.org
 scan-36f.shadowserver.org
+scan-39i.shadowserver.org
 scan-39l.shadowserver.org
 scan-41f.shadowserver.org
 scan-41g.shadowserver.org
@@ -122,6 +123,7 @@ scan-58g.shadowserver.org
 scan-59d.shadowserver.org
 scan-60-3.shadowserver.org
 scan-62-11.shadowserver.org
+scan-62-13.shadowserver.org
 scan-62-2.shadowserver.org
 scan-63-11.shadowserver.org
 scan-63-13.shadowserver.org
@@ -146,6 +148,7 @@ scan-75-02.shadowserver.org
 scan-76-04.shadowserver.org
 scan-76-05.shadowserver.org
 scan-77-03.shadowserver.org
+scan-77-06.shadowserver.org
 scan-77-09.shadowserver.org
 scan-78-09.shadowserver.org
 scan-79-00.shadowserver.org
