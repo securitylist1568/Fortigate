@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.150.216.162.bc.googleusercontent.com
 118-168-194-152.dynamic-ip.hinet.net
 139-162-131-127.ip.linodeusercontent.com
 139-162-150-27.ip.linodeusercontent.com
@@ -135,3 +136,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
+vpn.pp.ua
