@@ -28,8 +28,6 @@
 24.210.203.35.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
-253.210.203.35.bc.googleusercontent.com
-34.150.216.162.bc.googleusercontent.com
 51-158-146-71.rev.poneytelecom.eu
 9.150.216.162.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
@@ -107,7 +105,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-239-13-6.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -162,7 +159,6 @@ scan-82-8.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-2.shadowserver.org
 scan-85-2.shadowserver.org
-scan-85-8.shadowserver.org
 scan-86-6.shadowserver.org
 scan-87-6.shadowserver.org
 scan-88-7.shadowserver.org
