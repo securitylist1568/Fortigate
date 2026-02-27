@@ -76,6 +76,7 @@ dynamic-adsl.viettel.vn
 ec2-13-218-135-135.compute-1.amazonaws.com
 ec2-13-222-58-64.compute-1.amazonaws.com
 ec2-184-72-213-197.compute-1.amazonaws.com
+ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-3-80-129-114.compute-1.amazonaws.com
 ec2-3-80-228-212.compute-1.amazonaws.com
 ec2-3-86-193-171.compute-1.amazonaws.com
