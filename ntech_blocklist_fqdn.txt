@@ -147,6 +147,7 @@ scan-50j.shadowserver.org
 scan-56n.shadowserver.org
 scan-58g.shadowserver.org
 scan-60-6.shadowserver.org
+scan-62-11.shadowserver.org
 scan-62-2.shadowserver.org
 scan-63-11.shadowserver.org
 scan-63-13.shadowserver.org
