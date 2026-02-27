@@ -24,6 +24,7 @@
 119.149.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
 136.210.203.35.bc.googleusercontent.com
+144.92.74.97.host.secureserver.net
 172-104-211-209.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 173.199.127.233.constant.com
