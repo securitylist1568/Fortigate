@@ -21,7 +21,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-194-152.dynamic-ip.hinet.net
-130.210.203.35.bc.googleusercontent.com
 139-162-131-127.ip.linodeusercontent.com
 139-162-150-27.ip.linodeusercontent.com
 155.149.216.162.bc.googleusercontent.com
@@ -35,16 +34,12 @@
 206.150.216.162.bc.googleusercontent.com
 207.148.126.19.vultrusercontent.com
 207.246.95.18.vultrusercontent.com
-211-21-48-186.hinet-ip.hinet.net
 22.149.216.162.bc.googleusercontent.com
-222.210.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 235.150.216.162.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
 34.211.203.35.bc.googleusercontent.com
-36.149.216.162.bc.googleusercontent.com
-44.210.203.35.bc.googleusercontent.com
 45-79-142-67.ip.linodeusercontent.com
 45-79-181-164.ip.linodeusercontent.com
 46.211.203.35.bc.googleusercontent.com
@@ -54,7 +49,6 @@
 66.149.216.162.bc.googleusercontent.com
 78.210.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
-82.150.216.162.bc.googleusercontent.com
 82.210.203.35.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
@@ -103,7 +97,6 @@ ec2-54-226-115-111.compute-1.amazonaws.com
 ec2-98-93-63-52.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
-free.ispiria.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
