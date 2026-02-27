@@ -23,6 +23,7 @@
 132.150.216.162.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
+170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-1-195-234.magnohost.com.br
 23-94-28-181-host.colocrossing.com
@@ -30,6 +31,7 @@
 36.210.203.35.bc.googleusercontent.com
 51-158-146-71.rev.poneytelecom.eu
 59.149.216.162.bc.googleusercontent.com
+85.133.145.200.pos-1-0.7tir.sepanta.net
 9.150.216.162.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
 99.94.233.35.bc.googleusercontent.com
@@ -120,6 +122,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-01d.shadowserver.org
 scan-05a.shadowserver.org
 scan-07g.shadowserver.org
