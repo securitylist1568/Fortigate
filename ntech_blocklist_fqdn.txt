@@ -31,6 +31,7 @@
 192-155-90-44.ip.linodeusercontent.com
 194-58-114-139.cloudvps.regruhosting.ru
 195.211.203.35.bc.googleusercontent.com
+215.149.216.162.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 23-94-94-191-host.colocrossing.com
 251.211.203.35.bc.googleusercontent.com
@@ -52,6 +53,7 @@ crawler023.deepfield.net
 crawler029.deepfield.net
 crawler033.deepfield.net
 crawler044.deepfield.net
+crawler056.deepfield.net
 crawler096.deepfield.net
 crawler156.deepfield.net
 crawler238.deepfield.net
@@ -150,3 +152,4 @@ start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
+vps16136.ua-hosting.company
