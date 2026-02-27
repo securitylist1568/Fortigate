@@ -61,11 +61,13 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-112-74.4vendeta.com
 ip-95-169-192-128-129055.vps.hosted-by-mvps.net
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 partclient.net
 pc112.cses.ilc.edu.tw
