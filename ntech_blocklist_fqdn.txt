@@ -19,14 +19,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-194-152.dynamic-ip.hinet.net
-127.211.203.35.bc.googleusercontent.com
 132.150.216.162.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
-17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-1-195-234.magnohost.com.br
-198.211.203.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
 51-158-146-71.rev.poneytelecom.eu
@@ -107,7 +104,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-eyda413079.reu1.blindsidenetworks.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -116,7 +112,6 @@ ip-241-23-103-103.wjv-1.biznetg.io
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -179,4 +174,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
-xn----7sbkh9bejel3b.xn
