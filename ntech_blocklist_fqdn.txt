@@ -24,9 +24,11 @@
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 23-168-136-153.rev.circlevps.net
+233.168.178.68.host.secureserver.net
 25.211.203.35.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
+82-147-88-88.vpsdedic.ru
 9.79.106.34.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -37,6 +39,7 @@ dns12.online.tj.cn
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hammertoe.banhkemcantho.com
 hn.kd.ny.adsl
@@ -47,6 +50,7 @@ ip129.ip-51-210-84.eu
 ip13.ip-15-204-54.us
 ip29.sudolio.io
 l602.scanner.modat.io
+li1972-67.members.linode.com
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
 no-mans-land.m247.com
