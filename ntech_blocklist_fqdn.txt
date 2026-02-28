@@ -28,6 +28,7 @@
 24.150.216.162.bc.googleusercontent.com
 247.186.91.34.bc.googleusercontent.com
 27.149.216.162.bc.googleusercontent.com
+45.211.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
@@ -65,6 +66,7 @@ ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
 huma.probe.onyphe.net
 ip29.sudolio.io
@@ -73,9 +75,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-08g.shadowserver.org
 scan-14j.shadowserver.org
 scan-19b.shadowserver.org
 scan-39i.shadowserver.org
+scan-42b.shadowserver.org
 scan-43l.shadowserver.org
 scan-47h.shadowserver.org
 scan-49k.shadowserver.org
@@ -84,6 +88,7 @@ scan-51k.shadowserver.org
 scan-52h.shadowserver.org
 scan-56.security.ipip.net
 scan-60-6.shadowserver.org
+scan-61-1.shadowserver.org
 scan-61-2.shadowserver.org
 scan-61-9.shadowserver.org
 scan-62-3.shadowserver.org
@@ -99,14 +104,18 @@ scan-70-04.shadowserver.org
 scan-71-06.shadowserver.org
 scan-71-08.shadowserver.org
 scan-71-09.shadowserver.org
+scan-73-02.shadowserver.org
 scan-73-03.shadowserver.org
+scan-73-06.shadowserver.org
 scan-76-05.shadowserver.org
 scan-76-07.shadowserver.org
 scan-78-06.shadowserver.org
+scan-80-2.shadowserver.org
 scan-81-8.shadowserver.org
 scan-86-7.shadowserver.org
 scan-89-1.shadowserver.org
 scan-89-5.shadowserver.org
+scan-90-1.shadowserver.org
 scan-90-6.shadowserver.org
 security.criminalip.com
 server.comy
@@ -117,5 +126,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.72.227.132.142.clients.your-server.de
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+vmi1226255.contaboserver.net
 vmi2354483.contaboserver.net
 www.internet-albedo.net
