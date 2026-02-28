@@ -24,7 +24,6 @@
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
-23-168-136-153.rev.circlevps.net
 233.168.178.68.host.secureserver.net
 233.170.178.68.host.secureserver.net
 233.211.203.35.bc.googleusercontent.com
@@ -67,16 +66,14 @@ ec2-54-91-115-200.compute-1.amazonaws.com
 ec2-98-81-211-21.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-hammertoe.banhkemcantho.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip11.ip-51-91-177.eu
-ip13.ip-15-204-54.us
 ip29.sudolio.io
+li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-no-mans-land.m247.com
 ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
