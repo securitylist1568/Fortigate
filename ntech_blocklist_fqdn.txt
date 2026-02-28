@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124.211.203.35.bc.googleusercontent.com
+125-227-186-152.hinet-ip.hinet.net
 140.150.216.162.bc.googleusercontent.com
 163.95.146.217.baremetal.zare.com
 175.211.203.35.bc.googleusercontent.com
