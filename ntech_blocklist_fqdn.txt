@@ -242,6 +242,7 @@ scan-42f.shadowserver.org
 scan-42k.shadowserver.org
 scan-43o.shadowserver.org
 scan-47e.shadowserver.org
+scan-47h.shadowserver.org
 scan-48c.shadowserver.org
 scan-50g.shadowserver.org
 scan-51h.shadowserver.org
@@ -277,6 +278,7 @@ srvc115.controlvps.com
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.126.224.46.clients.your-server.de
+static.72.227.132.142.clients.your-server.de
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
