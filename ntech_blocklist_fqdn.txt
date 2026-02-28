@@ -65,6 +65,7 @@ hn.kd.ny.adsl
 hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
 huma.probe.onyphe.net
+ip129.ip-51-210-84.eu
 ip29.sudolio.io
 l602.scanner.modat.io
 mfyabgec.musicpda.com
@@ -73,10 +74,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01n.shadowserver.org
+scan-05j.shadowserver.org
 scan-07g.shadowserver.org
 scan-08g.shadowserver.org
 scan-09g.shadowserver.org
 scan-09m.shadowserver.org
+scan-11n.shadowserver.org
 scan-13n.shadowserver.org
 scan-14j.shadowserver.org
 scan-15e.shadowserver.org
@@ -120,6 +123,7 @@ scan-67-12.shadowserver.org
 scan-67-3.shadowserver.org
 scan-68-08.shadowserver.org
 scan-69-01.shadowserver.org
+scan-69-06.shadowserver.org
 scan-70-01.shadowserver.org
 scan-71-06.shadowserver.org
 scan-71-08.shadowserver.org
@@ -149,6 +153,7 @@ server.comy
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 user-209-209-59-230.lax02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
