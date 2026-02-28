@@ -45,6 +45,7 @@
 56.149.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.149.216.162.bc.googleusercontent.com
+9.149.216.162.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
 97-107-131-221.ip.linodeusercontent.com
 amz.unixwiz.net
