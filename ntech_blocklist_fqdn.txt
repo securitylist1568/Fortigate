@@ -42,9 +42,14 @@ crawler075.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-34-227-163-41.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+ec2-54-159-244-132.compute-1.amazonaws.com
+ec2-54-196-174-212.compute-1.amazonaws.com
+ec2-54-210-4-57.compute-1.amazonaws.com
+ec2-54-234-161-195.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hammertoe.banhkemcantho.com
@@ -57,6 +62,7 @@ li1972-67.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
+ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
