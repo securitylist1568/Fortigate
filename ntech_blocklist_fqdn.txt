@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-124.211.203.35.bc.googleusercontent.com
 125-227-186-152.hinet-ip.hinet.net
-140.150.216.162.bc.googleusercontent.com
 163.95.146.217.baremetal.zare.com
 175.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -27,8 +25,6 @@
 211.150.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
-247.186.91.34.bc.googleusercontent.com
-27.149.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
@@ -42,16 +38,12 @@ crawler051.deepfield.net
 crawler079.deepfield.net
 crawler080.deepfield.net
 crawler085.deepfield.net
-crawler088.deepfield.net
-crawler096.deepfield.net
 crawler101.deepfield.net
 crawler103.deepfield.net
 crawler131.deepfield.net
 crawler141.deepfield.net
 crawler152.deepfield.net
-crawler162.deepfield.net
 crawler211.deepfield.net
-crawler218.deepfield.net
 crawler225.deepfield.net
 crawler229.deepfield.net
 crawler236.deepfield.net
@@ -82,6 +74,7 @@ scan-08g.shadowserver.org
 scan-13n.shadowserver.org
 scan-14j.shadowserver.org
 scan-19b.shadowserver.org
+scan-37o.shadowserver.org
 scan-39i.shadowserver.org
 scan-42b.shadowserver.org
 scan-43l.shadowserver.org
@@ -118,14 +111,15 @@ scan-78-02.shadowserver.org
 scan-78-06.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-8.shadowserver.org
+scan-85-7.shadowserver.org
 scan-86-7.shadowserver.org
 scan-89-1.shadowserver.org
+scan-89-2.shadowserver.org
 scan-89-5.shadowserver.org
 scan-90-1.shadowserver.org
 scan-90-6.shadowserver.org
 security.criminalip.com
 server.comy
-server146.serverbasket.in.net
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -134,4 +128,3 @@ user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vmi1226255.contaboserver.net
 vmi2354483.contaboserver.net
-www.internet-albedo.net
