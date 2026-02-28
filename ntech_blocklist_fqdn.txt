@@ -203,6 +203,9 @@ azpdssyvxjv4.stretchoid.com
 azpdsszdcz7i.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler096.deepfield.net
+crawler162.deepfield.net
+crawler218.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
@@ -280,3 +283,4 @@ static.208.126.224.46.clients.your-server.de
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
+www.internet-albedo.net
