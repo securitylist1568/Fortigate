@@ -28,6 +28,7 @@
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.150.216.162.bc.googleusercontent.com
+211.150.216.162.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 241.149.216.162.bc.googleusercontent.com
 247.186.91.34.bc.googleusercontent.com
@@ -186,6 +187,7 @@ scan-88-5.shadowserver.org
 scan-89-1.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
+server.comy
 server146.serverbasket.in.net
 smtp1.telemach.net
 srvc115.controlvps.com
