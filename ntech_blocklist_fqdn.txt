@@ -35,6 +35,7 @@
 200-171-87-44.dsl.telesp.net.br
 207.150.216.162.bc.googleusercontent.com
 21.211.203.35.bc.googleusercontent.com
+23-94-28-181-host.colocrossing.com
 24-52-70-30.telesystem.us
 241.149.216.162.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
@@ -50,6 +51,7 @@
 80.179.236.35.bc.googleusercontent.com
 86.221.13.34.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
+91.211.203.35.bc.googleusercontent.com
 97-107-135-168.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcg3yi26e.stretchoid.com
@@ -210,6 +212,7 @@ ec2-100-24-4-107.compute-1.amazonaws.com
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-107-20-3-176.compute-1.amazonaws.com
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-13-221-99-11.compute-1.amazonaws.com
 ec2-18-207-144-231.compute-1.amazonaws.com
 ec2-18-209-23-78.compute-1.amazonaws.com
