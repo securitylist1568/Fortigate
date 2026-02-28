@@ -41,6 +41,7 @@ crawler075.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-218-248-208.compute-1.amazonaws.com
 ec2-13-218-248-210.compute-1.amazonaws.com
 ec2-18-206-155-169.compute-1.amazonaws.com
@@ -83,6 +84,7 @@ scan.visionheight.com
 security.criminalip.com
 simspice.com
 smtp1.telemach.net
+start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
