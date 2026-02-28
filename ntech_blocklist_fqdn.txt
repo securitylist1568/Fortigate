@@ -29,6 +29,7 @@
 149.28.72.72.vultrusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.211.203.35.bc.googleusercontent.com
+178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200-171-87-44.dsl.telesp.net.br
 207.150.216.162.bc.googleusercontent.com
@@ -232,7 +233,9 @@ ec2-54-242-224-96.compute-1.amazonaws.com
 ec2-54-87-129-145.compute-1.amazonaws.com
 ec2-54-89-106-110.compute-1.amazonaws.com
 ec2-54-90-225-149.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 ec2-98-93-171-79.compute-1.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -242,6 +245,7 @@ ip50.ip-51-38-211.eu
 ip59.ip-15-204-158.us
 l604.scanner.modat.io
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 mx2.zeelandnet.nl
 mx3.mwsmtp.com
 no-mans-land.m247.com
