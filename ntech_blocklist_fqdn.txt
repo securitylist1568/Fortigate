@@ -92,6 +92,7 @@ scan-50j.shadowserver.org
 scan-51h.shadowserver.org
 scan-51k.shadowserver.org
 scan-52h.shadowserver.org
+scan-56.security.ipip.net
 scan-60-6.shadowserver.org
 scan-61-2.shadowserver.org
 scan-62-2.shadowserver.org
