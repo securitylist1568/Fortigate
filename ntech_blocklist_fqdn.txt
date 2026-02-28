@@ -60,7 +60,9 @@ crawler249.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -90,12 +92,14 @@ scan-52h.shadowserver.org
 scan-56.security.ipip.net
 scan-60-6.shadowserver.org
 scan-61-2.shadowserver.org
+scan-61-9.shadowserver.org
 scan-62-2.shadowserver.org
 scan-62-3.shadowserver.org
 scan-62-9.shadowserver.org
 scan-63-12.shadowserver.org
 scan-64-9.shadowserver.org
 scan-66-3.shadowserver.org
+scan-67-3.shadowserver.org
 scan-67-8.shadowserver.org
 scan-68-06.shadowserver.org
 scan-68-08.shadowserver.org
@@ -106,6 +110,7 @@ scan-71-09.shadowserver.org
 scan-73-03.shadowserver.org
 scan-76-05.shadowserver.org
 scan-76-07.shadowserver.org
+scan-78-06.shadowserver.org
 scan-80-1.shadowserver.org
 scan-81-8.shadowserver.org
 scan-82-5.shadowserver.org
