@@ -40,6 +40,8 @@
 31.211.203.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 45-33-65-239.ip.linodeusercontent.com
+45-33-71-76.ip.linodeusercontent.com
+45-79-132-238.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
 56.149.216.162.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
@@ -77,6 +79,7 @@ azpdcs8onqkt.stretchoid.com
 azpdcs8swsrk.stretchoid.com
 azpdcsa6tvfo.stretchoid.com
 azpdcsa7i2be.stretchoid.com
+azpdcsapv6sz.stretchoid.com
 azpdcsb1ge3k.stretchoid.com
 azpdcsbxuu4n.stretchoid.com
 azpdcscrl5ny.stretchoid.com
@@ -108,20 +111,24 @@ azpdcswz4pa4.stretchoid.com
 azpdcsxafegn.stretchoid.com
 azpdcsxdspys.stretchoid.com
 azpdcsxfeo6r.stretchoid.com
+azpdcsydswaz.stretchoid.com
 azpdes0rles7.stretchoid.com
 azpdes6uvmgf.stretchoid.com
 azpdes7t6661.stretchoid.com
 azpdes8sdqvb.stretchoid.com
 azpdes8zeijh.stretchoid.com
+azpdes995voj.stretchoid.com
 azpdesdzrcmd.stretchoid.com
 azpdeshh3fsz.stretchoid.com
 azpdesi1gzlg.stretchoid.com
 azpdesl1smt8.stretchoid.com
 azpdespl2kuu.stretchoid.com
+azpdespu9ica.stretchoid.com
 azpdessle6ag.stretchoid.com
 azpdestah4qh.stretchoid.com
 azpdeswfqr02.stretchoid.com
 azpdsg0hrkum.stretchoid.com
+azpdsg0k59cb.stretchoid.com
 azpdsg1s0zlq.stretchoid.com
 azpdsg2kdw0r.stretchoid.com
 azpdsg3t1kjy.stretchoid.com
@@ -132,6 +139,7 @@ azpdsg5nfwzb.stretchoid.com
 azpdsg6t365y.stretchoid.com
 azpdsg6xsycs.stretchoid.com
 azpdsg78bcjq.stretchoid.com
+azpdsg7b5eh5.stretchoid.com
 azpdsg82u71q.stretchoid.com
 azpdsg90ob13.stretchoid.com
 azpdsgas24j5.stretchoid.com
@@ -170,6 +178,7 @@ azpdssao9sjd.stretchoid.com
 azpdssb5ubwc.stretchoid.com
 azpdsscmc57g.stretchoid.com
 azpdsscmedp5.stretchoid.com
+azpdsscu3yqp.stretchoid.com
 azpdssex4exp.stretchoid.com
 azpdssf08p2a.stretchoid.com
 azpdssg0fe8q.stretchoid.com
@@ -242,6 +251,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-05j.shadowserver.org
 scan-08f.shadowserver.org
 scan-12k.shadowserver.org
@@ -254,8 +264,10 @@ scan-61-3.shadowserver.org
 scan-62-3.shadowserver.org
 scan-62-6.shadowserver.org
 scan-64-10.shadowserver.org
+scan-65-13.shadowserver.org
 scan-66-1.shadowserver.org
 scan-66-5.shadowserver.org
+scan-67-6.shadowserver.org
 scan-73-04.shadowserver.org
 scan-74-07.shadowserver.org
 scan-80-7.shadowserver.org
