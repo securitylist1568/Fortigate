@@ -44,6 +44,7 @@
 7.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
 80.179.236.35.bc.googleusercontent.com
+87.149.216.162.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
 97-107-135-168.ip.linodeusercontent.com
@@ -202,6 +203,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler088.deepfield.net
 crawler096.deepfield.net
+crawler141.deepfield.net
 crawler162.deepfield.net
 crawler218.deepfield.net
 dal215.hawkhost.com
