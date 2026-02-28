@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.150.216.162.bc.googleusercontent.com
 109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -29,7 +28,6 @@
 233.170.178.68.host.secureserver.net
 233.211.203.35.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
-254.149.216.162.bc.googleusercontent.com
 82-147-88-88.vpsdedic.ru
 98.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -47,10 +45,8 @@ hammertoe.banhkemcantho.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip11.ip-51-91-177.eu
-ip129.ip-51-210-84.eu
 ip13.ip-15-204-54.us
 ip29.sudolio.io
-l602.scanner.modat.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
@@ -60,20 +56,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-05c.shadowserver.org
-scan-05j.shadowserver.org
-scan-11n.shadowserver.org
-scan-15e.shadowserver.org
-scan-36l.shadowserver.org
-scan-42c.shadowserver.org
-scan-48e.shadowserver.org
-scan-51j.shadowserver.org
-scan-62-9.shadowserver.org
-scan-63-4.shadowserver.org
-scan-67-12.shadowserver.org
-scan-69-06.shadowserver.org
-scan-74-03.shadowserver.org
-scan-78-05.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 simspice.com
