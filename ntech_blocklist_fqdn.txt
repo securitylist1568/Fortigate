@@ -116,13 +116,16 @@ azpdssuqoifr.stretchoid.com
 azpdssvoghw1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler079.deepfield.net
 crawler088.deepfield.net
 crawler096.deepfield.net
 crawler101.deepfield.net
 crawler141.deepfield.net
 crawler162.deepfield.net
+crawler211.deepfield.net
 crawler218.deepfield.net
 crawler225.deepfield.net
+crawler236.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
