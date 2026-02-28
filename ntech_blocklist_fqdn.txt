@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+170-84-23-31.wtbandalarga.com.br
 173.150.216.162.bc.googleusercontent.com
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -33,6 +34,7 @@
 98.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+buffea-rteflt.greatexact.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -51,6 +53,7 @@ ip29.sudolio.io
 l602.scanner.modat.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 mx2.zeelandnet.nl
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -78,3 +81,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
+v2202509302515385337.ultrasrv.de
