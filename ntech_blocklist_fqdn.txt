@@ -116,6 +116,7 @@ azpdssuqoifr.stretchoid.com
 azpdssvoghw1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler051.deepfield.net
 crawler079.deepfield.net
 crawler088.deepfield.net
 crawler096.deepfield.net
@@ -194,4 +195,5 @@ static.72.227.132.142.clients.your-server.de
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
+vmi2354483.contaboserver.net
 www.internet-albedo.net
