@@ -23,9 +23,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 114-35-225-94.hinet-ip.hinet.net
 118-170-96-66.dynamic-ip.hinet.net
-119.149.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
+147.149.216.162.bc.googleusercontent.com
 172-104-211-209.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 173.199.127.233.constant.com
@@ -51,7 +51,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
-crawler141.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -107,7 +106,6 @@ shiireichiba.com
 simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.155.124.140.128.clients.your-server.de
 tiago.probe.onyphe.net
 user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
