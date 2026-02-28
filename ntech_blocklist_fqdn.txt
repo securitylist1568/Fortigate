@@ -21,9 +21,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-35-225-94.hinet-ip.hinet.net
 118-168-194-152.dynamic-ip.hinet.net
 125.150.216.162.bc.googleusercontent.com
+143.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 147.149.216.162.bc.googleusercontent.com
 149.28.72.72.vultrusercontent.com
@@ -31,16 +31,13 @@
 163.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200-171-87-44.dsl.telesp.net.br
-204.76.203.233.ptr.pfcloud.network
 207.150.216.162.bc.googleusercontent.com
 21.211.203.35.bc.googleusercontent.com
-23-94-28-181-host.colocrossing.com
 24-52-70-30.telesystem.us
 241.149.216.162.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
-45-33-65-239.ip.linodeusercontent.com
 45-33-71-76.ip.linodeusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
@@ -207,7 +204,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-100-24-4-107.compute-1.amazonaws.com
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
@@ -220,6 +216,7 @@ ec2-3-85-160-111.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-224-56-63.compute-1.amazonaws.com
 ec2-34-228-37-21.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-34-230-71-135.compute-1.amazonaws.com
 ec2-44-211-153-197.compute-1.amazonaws.com
 ec2-44-212-38-157.compute-1.amazonaws.com
@@ -238,11 +235,7 @@ ec2-54-90-225-149.compute-1.amazonaws.com
 ec2-98-93-171-79.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-126.4vendeta.com
-ip-49-70.4vendeta.com
-ip-58-246.4vendeta.com
 ip129.ip-51-77-47.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
@@ -257,6 +250,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-05a.shadowserver.org
 scan-05j.shadowserver.org
 scan-08f.shadowserver.org
 scan-12k.shadowserver.org
@@ -289,4 +283,4 @@ tiago.probe.onyphe.net
 user-170-39-224-220.iad03.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
-vm3931279.example.com
+v2202509302515385337.ultrasrv.de
