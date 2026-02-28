@@ -23,7 +23,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-35-225-94.hinet-ip.hinet.net
-118-170-96-66.dynamic-ip.hinet.net
 124.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 147.149.216.162.bc.googleusercontent.com
@@ -32,20 +31,19 @@
 173.199.127.233.constant.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
-194.211.203.35.bc.googleusercontent.com
 200-171-87-44.dsl.telesp.net.br
 204.76.203.233.ptr.pfcloud.network
 21.211.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
 24-52-70-30.telesystem.us
 250.149.216.162.bc.googleusercontent.com
+31.211.203.35.bc.googleusercontent.com
 45-33-65-239.ip.linodeusercontent.com
 45-79-135-34.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
 56.149.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
-67.149.216.162.bc.googleusercontent.com
 86.221.13.34.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
@@ -96,7 +94,6 @@ l999.scanner.modat.io
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
 mx3.mwsmtp.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 peso.eumelus.xyz
 pinkytales.com
@@ -108,8 +105,6 @@ scan-18a.shadowserver.org
 scan-73-04.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
-shiireichiba.com
-simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
