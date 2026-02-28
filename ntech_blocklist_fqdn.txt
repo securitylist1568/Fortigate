@@ -60,6 +60,7 @@ ip129.ip-51-210-84.eu
 ip29.sudolio.io
 l602.scanner.modat.io
 mfyabgec.musicpda.com
+mx2.zeelandnet.nl
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -137,6 +138,7 @@ scan-85-7.shadowserver.org
 scan-89-2.shadowserver.org
 scan-90-1.shadowserver.org
 scan-90-6.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
