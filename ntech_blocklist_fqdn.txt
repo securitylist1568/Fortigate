@@ -29,7 +29,6 @@
 45.211.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
-87.149.216.162.bc.googleusercontent.com
 9.79.106.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -43,7 +42,6 @@ crawler085.deepfield.net
 crawler101.deepfield.net
 crawler103.deepfield.net
 crawler131.deepfield.net
-crawler141.deepfield.net
 crawler152.deepfield.net
 crawler211.deepfield.net
 crawler225.deepfield.net
@@ -90,8 +88,6 @@ scan-43l.shadowserver.org
 scan-44e.shadowserver.org
 scan-45c.shadowserver.org
 scan-45i.shadowserver.org
-scan-47h.shadowserver.org
-scan-49k.shadowserver.org
 scan-50j.shadowserver.org
 scan-51k.shadowserver.org
 scan-52h.shadowserver.org
@@ -113,14 +109,11 @@ scan-66-2.shadowserver.org
 scan-66-3.shadowserver.org
 scan-67-11.shadowserver.org
 scan-67-3.shadowserver.org
-scan-68-06.shadowserver.org
 scan-68-08.shadowserver.org
 scan-69-01.shadowserver.org
 scan-70-01.shadowserver.org
-scan-70-04.shadowserver.org
 scan-71-06.shadowserver.org
 scan-71-08.shadowserver.org
-scan-71-09.shadowserver.org
 scan-72-06.shadowserver.org
 scan-73-02.shadowserver.org
 scan-73-03.shadowserver.org
@@ -137,10 +130,8 @@ scan-83-3.shadowserver.org
 scan-84-8.shadowserver.org
 scan-85-6.shadowserver.org
 scan-85-7.shadowserver.org
-scan-86-7.shadowserver.org
 scan-89-1.shadowserver.org
 scan-89-2.shadowserver.org
-scan-89-5.shadowserver.org
 scan-90-1.shadowserver.org
 scan-90-6.shadowserver.org
 security.criminalip.com
@@ -148,7 +139,6 @@ server.comy
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.72.227.132.142.clients.your-server.de
 user-209-209-59-230.lax02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
