@@ -28,6 +28,7 @@
 233.168.178.68.host.secureserver.net
 233.170.178.68.host.secureserver.net
 233.211.203.35.bc.googleusercontent.com
+242.211.203.35.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 82-147-88-88.vpsdedic.ru
 98.211.203.35.bc.googleusercontent.com
