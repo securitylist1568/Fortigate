@@ -23,17 +23,13 @@
 118-168-194-152.dynamic-ip.hinet.net
 125.150.216.162.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
-147.149.216.162.bc.googleusercontent.com
 149.28.72.72.vultrusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.211.203.35.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-200-171-87-44.dsl.telesp.net.br
 207.150.216.162.bc.googleusercontent.com
-21.211.203.35.bc.googleusercontent.com
 23-94-28-181-host.colocrossing.com
-24-52-70-30.telesystem.us
 241.149.216.162.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
@@ -41,11 +37,8 @@
 32.210.203.35.bc.googleusercontent.com
 45-33-71-76.ip.linodeusercontent.com
 45-79-132-238.ip.linodeusercontent.com
-51.211.203.35.bc.googleusercontent.com
-56.149.216.162.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 64.210.203.35.bc.googleusercontent.com
-6682-315a.jnb01.za.misaka.io
 7.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
 80.179.236.35.bc.googleusercontent.com
@@ -218,6 +211,7 @@ ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-219-105-57.us-west-1.compute.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
+fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -225,10 +219,8 @@ ip129.ip-51-77-47.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 ip59.ip-15-204-158.us
-l604.scanner.modat.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-mx2.zeelandnet.nl
 mx3.mwsmtp.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -282,7 +274,6 @@ srvc115.controlvps.com
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.126.224.46.clients.your-server.de
-user-170-39-224-220.iad03.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
