@@ -44,6 +44,7 @@
 51.211.203.35.bc.googleusercontent.com
 56.149.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
+80.179.236.35.bc.googleusercontent.com
 86.221.13.34.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
@@ -101,8 +102,19 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rus.telpher.space
+scan-05j.shadowserver.org
 scan-18a.shadowserver.org
+scan-50g.shadowserver.org
+scan-58h.shadowserver.org
+scan-60-6.shadowserver.org
+scan-61-3.shadowserver.org
+scan-62-6.shadowserver.org
+scan-64-10.shadowserver.org
+scan-66-1.shadowserver.org
 scan-73-04.shadowserver.org
+scan-82-6.shadowserver.org
+scan-83-5.shadowserver.org
+scan-86-4.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
