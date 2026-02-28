@@ -23,6 +23,7 @@
 173.150.216.162.bc.googleusercontent.com
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+208.211.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 233.168.178.68.host.secureserver.net
@@ -36,6 +37,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
+crawler075.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-34-230-221-101.compute-1.amazonaws.com
@@ -66,3 +68,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
+vmi3003709.contaboserver.net
