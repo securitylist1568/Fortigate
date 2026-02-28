@@ -45,6 +45,7 @@
 56.149.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.149.216.162.bc.googleusercontent.com
+86.221.13.34.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 93.150.216.162.bc.googleusercontent.com
 97-107-131-221.ip.linodeusercontent.com
@@ -101,6 +102,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rus.telpher.space
+scan-18a.shadowserver.org
+scan-73-04.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 shiireichiba.com
