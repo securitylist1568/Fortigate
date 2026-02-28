@@ -44,10 +44,12 @@ dynamic-adsl.viettel.vn
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-218-248-208.compute-1.amazonaws.com
 ec2-13-218-248-210.compute-1.amazonaws.com
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-18-206-155-169.compute-1.amazonaws.com
 ec2-18-208-222-36.compute-1.amazonaws.com
 ec2-3-80-182-148.compute-1.amazonaws.com
 ec2-3-95-243-114.compute-1.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-224-165-84.compute-1.amazonaws.com
 ec2-34-227-163-41.compute-1.amazonaws.com
 ec2-34-227-193-105.compute-1.amazonaws.com
@@ -68,11 +70,13 @@ ec2-98-81-211-21.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip11.ip-51-91-177.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 li1972-67.members.linode.com
+lrnf.net
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 ns569611.ip-51-79-77.net
