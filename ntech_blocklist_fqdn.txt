@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 126.19.196.104.bc.googleusercontent.com
+173.150.216.162.bc.googleusercontent.com
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 23-168-136-153.rev.circlevps.net
@@ -95,6 +96,7 @@ scan-84-8.shadowserver.org
 scan-85-6.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
+simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
