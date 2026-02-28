@@ -260,6 +260,7 @@ scan-66-1.shadowserver.org
 scan-66-5.shadowserver.org
 scan-67-6.shadowserver.org
 scan-67-8.shadowserver.org
+scan-68-06.shadowserver.org
 scan-74-07.shadowserver.org
 scan-80-1.shadowserver.org
 scan-80-7.shadowserver.org
