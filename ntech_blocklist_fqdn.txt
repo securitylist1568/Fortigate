@@ -54,6 +54,7 @@ jattqmt.cn
 l610.scanner.modat.io
 leheedu.cn
 llrsenv.cn
+lrnf.net
 mail-ptr.faisco.cn
 mail.gzkofa.cn
 mail.jth447.com
