@@ -22,6 +22,7 @@
 229.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
