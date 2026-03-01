@@ -80,6 +80,7 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
+ip50.ip-51-38-211.eu
 li1873-236.members.linode.com
 lrnf.net
 mfyabgec.musicpda.com
@@ -124,6 +125,7 @@ scan-88-1.shadowserver.org
 scan-89-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
+shiireichiba.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
