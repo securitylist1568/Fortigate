@@ -43,6 +43,7 @@ client.yota.ru
 crawler048.deepfield.net
 crawler061.deepfield.net
 crawler075.deepfield.net
+crawler153.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
@@ -59,6 +60,7 @@ ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-224-165-84.compute-1.amazonaws.com
 ec2-34-227-163-41.compute-1.amazonaws.com
 ec2-34-227-193-105.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-52-90-57-39.compute-1.amazonaws.com
 ec2-54-145-225-58.compute-1.amazonaws.com
