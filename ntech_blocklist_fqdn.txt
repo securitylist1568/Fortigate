@@ -28,6 +28,7 @@
 24.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 5457387-xi10816.twc1.net
+60-250-140-251.hinet-ip.hinet.net
 76.150.216.162.bc.googleusercontent.com
 9.79.106.34.bc.googleusercontent.com
 adventure.yatano.com
@@ -127,3 +128,4 @@ start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi1226255.contaboserver.net
+vmi919152.contaboserver.net
