@@ -26,7 +26,6 @@
 185-45-195-15.hostsailor.com
 236.45.130.34.bc.googleusercontent.com
 44.150.216.162.bc.googleusercontent.com
-60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
@@ -35,6 +34,7 @@ crawler018.deepfield.net
 crawler020.deepfield.net
 crawler103.deepfield.net
 crawler145.deepfield.net
+crawler214.deepfield.net
 customer.evolusfibre.com
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
@@ -52,18 +52,18 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-241-23-103-103.wjv-1.biznetg.io
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 lrnf.net
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 netbox.entecnet.com.br
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-01a.shadowserver.org
 scan-02k.shadowserver.org
+scan-03f.shadowserver.org
 scan-09b.shadowserver.org
 scan-14j.shadowserver.org
 scan-15e.shadowserver.org
@@ -106,6 +106,7 @@ scan-75-04.shadowserver.org
 scan-76-03.shadowserver.org
 scan-76-04.shadowserver.org
 scan-77-07.shadowserver.org
+scan-79-05.shadowserver.org
 scan-82-3.shadowserver.org
 scan-82-8.shadowserver.org
 scan-83-4.shadowserver.org
@@ -124,7 +125,6 @@ scan-89-7.shadowserver.org
 scan-90-8.shadowserver.org
 security.criminalip.com
 server.comy
-shiireichiba.com
 slyer.serv.host
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
@@ -135,4 +135,3 @@ user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
 v36452.1blu.de
 vmi2713200.contaboserver.net
-vmi919152.contaboserver.net
