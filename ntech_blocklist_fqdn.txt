@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 236.45.130.34.bc.googleusercontent.com
 44.150.216.162.bc.googleusercontent.com
+84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
@@ -49,6 +50,7 @@ ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -72,6 +74,7 @@ scan-15e.shadowserver.org
 scan-36k.shadowserver.org
 scan-37o.shadowserver.org
 scan-39k.shadowserver.org
+scan-39o.shadowserver.org
 scan-40g.shadowserver.org
 scan-42k.shadowserver.org
 scan-43o.shadowserver.org
@@ -95,6 +98,7 @@ scan-65-10.shadowserver.org
 scan-65-12.shadowserver.org
 scan-65-2.shadowserver.org
 scan-66-6.shadowserver.org
+scan-67-2.shadowserver.org
 scan-68-05.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-02.shadowserver.org
@@ -103,6 +107,7 @@ scan-72-02.shadowserver.org
 scan-72-05.shadowserver.org
 scan-74-01.shadowserver.org
 scan-74-03.shadowserver.org
+scan-74-07.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-04.shadowserver.org
 scan-76-03.shadowserver.org
