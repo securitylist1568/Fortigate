@@ -25,6 +25,7 @@
 145.149.216.162.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
 170-84-23-31.wtbandalarga.com.br
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
