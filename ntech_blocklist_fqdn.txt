@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+101.74.131.34.bc.googleusercontent.com
 103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -22,6 +23,7 @@
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 236.45.130.34.bc.googleusercontent.com
+239.150.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -30,12 +32,15 @@ client.yota.ru
 crawler013.deepfield.net
 crawler018.deepfield.net
 crawler020.deepfield.net
+crawler073.deepfield.net
 crawler077.deepfield.net
+crawler097.deepfield.net
 crawler103.deepfield.net
 crawler145.deepfield.net
 crawler214.deepfield.net
 customer.evolusfibre.com
 dal215.hawkhost.com
+diversion.banhkemcantho.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
@@ -62,6 +67,7 @@ o618.scanner.modat.io
 o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
@@ -71,6 +77,7 @@ scan-09b.shadowserver.org
 scan-14b.shadowserver.org
 scan-14j.shadowserver.org
 scan-15e.shadowserver.org
+scan-36e.shadowserver.org
 scan-36k.shadowserver.org
 scan-37k.shadowserver.org
 scan-37o.shadowserver.org
@@ -116,6 +123,7 @@ scan-81-2.shadowserver.org
 scan-81-9.shadowserver.org
 scan-82-3.shadowserver.org
 scan-82-8.shadowserver.org
+scan-84-9.shadowserver.org
 scan-85-7.shadowserver.org
 scan-85-8.shadowserver.org
 scan-87-3.shadowserver.org
