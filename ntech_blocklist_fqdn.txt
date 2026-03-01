@@ -50,6 +50,7 @@ ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -119,11 +120,13 @@ scan-74-03.shadowserver.org
 scan-74-07.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-04.shadowserver.org
+scan-75-08.shadowserver.org
 scan-77-07.shadowserver.org
 scan-78-03.shadowserver.org
 scan-78-04.shadowserver.org
 scan-79-05.shadowserver.org
 scan-80-1.shadowserver.org
+scan-80-2.shadowserver.org
 scan-81-2.shadowserver.org
 scan-81-9.shadowserver.org
 scan-82-3.shadowserver.org
