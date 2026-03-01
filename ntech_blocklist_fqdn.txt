@@ -30,6 +30,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
 client.yota.ru
+crawler013.deepfield.net
 crawler018.deepfield.net
 crawler020.deepfield.net
 crawler103.deepfield.net
@@ -39,6 +40,7 @@ customer.evolusfibre.com
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-16-148-192-69.us-west-2.compute.amazonaws.com
