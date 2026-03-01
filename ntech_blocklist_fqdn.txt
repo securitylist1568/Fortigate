@@ -110,6 +110,7 @@ scan-86-8.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-1.shadowserver.org
 scan-89-3.shadowserver.org
+scan-89-7.shadowserver.org
 scan-90-8.shadowserver.org
 security.criminalip.com
 shiireichiba.com
