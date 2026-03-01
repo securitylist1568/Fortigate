@@ -28,6 +28,7 @@
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
+bicommae.store
 client.yota.ru
 crawler174.deepfield.net
 crawler179.deepfield.net
@@ -40,6 +41,8 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-16-148-192-69.us-west-2.compute.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
@@ -48,8 +51,10 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-241-23-103-103.wjv-1.biznetg.io
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
+lrnf.net
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+netbox.entecnet.com.br
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -110,6 +115,7 @@ scan-89-5.shadowserver.org
 scan-89-7.shadowserver.org
 scan-90-8.shadowserver.org
 security.criminalip.com
+server.comy
 shiireichiba.com
 slyer.serv.host
 smtp1.telemach.net
