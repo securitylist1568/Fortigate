@@ -29,6 +29,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
 client.yota.ru
+crawler103.deepfield.net
 crawler174.deepfield.net
 crawler179.deepfield.net
 crawler199.deepfield.net
@@ -115,5 +116,7 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.49.220.201.138.clients.your-server.de
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
+v36452.1blu.de
 vmi1226255.contaboserver.net
+vmi2713200.contaboserver.net
 vmi919152.contaboserver.net
