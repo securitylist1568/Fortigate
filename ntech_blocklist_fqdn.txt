@@ -41,6 +41,8 @@ crawler048.deepfield.net
 crawler061.deepfield.net
 crawler075.deepfield.net
 crawler153.deepfield.net
+crawler174.deepfield.net
+crawler199.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
