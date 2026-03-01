@@ -88,6 +88,7 @@ scan-42k.shadowserver.org
 scan-44c.shadowserver.org
 scan-46f.shadowserver.org
 scan-46k.shadowserver.org
+scan-46o.shadowserver.org
 scan-47h.shadowserver.org
 scan-49f.shadowserver.org
 scan-49n.shadowserver.org
@@ -96,6 +97,7 @@ scan-52h.shadowserver.org
 scan-53m.shadowserver.org
 scan-55g.shadowserver.org
 scan-58.security.ipip.net
+scan-60-5.shadowserver.org
 scan-61-3.shadowserver.org
 scan-62-10.shadowserver.org
 scan-62-11.shadowserver.org
@@ -131,6 +133,7 @@ scan-81-2.shadowserver.org
 scan-81-9.shadowserver.org
 scan-82-3.shadowserver.org
 scan-82-8.shadowserver.org
+scan-84-1.shadowserver.org
 scan-84-9.shadowserver.org
 scan-85-7.shadowserver.org
 scan-85-8.shadowserver.org
@@ -154,6 +157,7 @@ start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.49.220.201.138.clients.your-server.de
 user-170-39-227-251.sea02.us.misaka.io
+user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
 v36452.1blu.de
 vmi2713200.contaboserver.net
