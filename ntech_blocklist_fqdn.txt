@@ -61,6 +61,7 @@ ec2-34-224-165-84.compute-1.amazonaws.com
 ec2-34-227-163-41.compute-1.amazonaws.com
 ec2-34-227-193-105.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-52-90-57-39.compute-1.amazonaws.com
 ec2-54-145-225-58.compute-1.amazonaws.com
@@ -75,6 +76,7 @@ ec2-54-91-115-200.compute-1.amazonaws.com
 ec2-98-81-211-21.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
@@ -104,6 +106,7 @@ scan-76-07.shadowserver.org
 scan-80-3.shadowserver.org
 scan-82-5.shadowserver.org
 scan-88-1.shadowserver.org
+scan-89-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 simspice.com
