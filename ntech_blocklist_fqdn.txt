@@ -48,6 +48,7 @@ dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-218-248-208.compute-1.amazonaws.com
 ec2-13-218-248-210.compute-1.amazonaws.com
@@ -101,6 +102,7 @@ scan-17k.shadowserver.org
 scan-36m.shadowserver.org
 scan-41g.shadowserver.org
 scan-44k.shadowserver.org
+scan-45n.shadowserver.org
 scan-49k.shadowserver.org
 scan-50c.shadowserver.org
 scan-51c.shadowserver.org
