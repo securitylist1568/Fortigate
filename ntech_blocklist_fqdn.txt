@@ -18,6 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.124.91.34.bc.googleusercontent.com
+1595564.cloudwaysapps.com
+170-84-23-31.wtbandalarga.com.br
 185-45-195-15.hostsailor.com
 204.76.203.233.ptr.pfcloud.network
 255.mcs.mail.ru
@@ -194,11 +196,9 @@ customer-189-240-82-82.uninet-ide.com.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
-ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-18-207-144-231.compute-1.amazonaws.com
 ec2-18-212-220-245.compute-1.amazonaws.com
-ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-23-23-27-157.compute-1.amazonaws.com
 ec2-3-83-254-71.compute-1.amazonaws.com
 ec2-3-84-61-144.compute-1.amazonaws.com
@@ -211,6 +211,7 @@ ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-34-230-74-23.compute-1.amazonaws.com
 ec2-35-171-161-173.compute-1.amazonaws.com
 ec2-44-202-55-27.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-152-26-85.compute-1.amazonaws.com
 ec2-54-163-205-133.compute-1.amazonaws.com
@@ -230,7 +231,6 @@ ip13.ip-15-204-54.us
 ip29.sudolio.io
 lrnf.net
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
@@ -238,7 +238,7 @@ prod-nyc3-2.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan.visionheight.com
-security.criminalip.com
+simspice.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
