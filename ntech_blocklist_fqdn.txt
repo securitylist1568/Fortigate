@@ -190,6 +190,7 @@ azpdssx4w8rj.stretchoid.com
 azpdssz3m4rc.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+customer-189-240-82-82.uninet-ide.com.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
