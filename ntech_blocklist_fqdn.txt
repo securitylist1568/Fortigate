@@ -22,6 +22,7 @@
 170-84-23-31.wtbandalarga.com.br
 185-45-195-15.hostsailor.com
 204.76.203.233.ptr.pfcloud.network
+236.45.130.34.bc.googleusercontent.com
 255.mcs.mail.ru
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -230,6 +231,7 @@ ip129.ip-51-77-47.eu
 ip13.ip-15-204-54.us
 ip29.sudolio.io
 lrnf.net
+mail.ajaxvpn.org
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -238,6 +240,7 @@ prod-nyc3-2.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan.visionheight.com
+security.criminalip.com
 simspice.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
