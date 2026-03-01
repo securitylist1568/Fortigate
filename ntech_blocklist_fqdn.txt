@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 130.211.203.35.bc.googleusercontent.com
+131.211.203.35.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
 170-84-23-31.wtbandalarga.com.br
