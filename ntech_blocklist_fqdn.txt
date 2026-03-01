@@ -30,6 +30,7 @@ client.yota.ru
 crawler013.deepfield.net
 crawler018.deepfield.net
 crawler020.deepfield.net
+crawler077.deepfield.net
 crawler103.deepfield.net
 crawler145.deepfield.net
 crawler214.deepfield.net
@@ -50,6 +51,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-241-23-103-103.wjv-1.biznetg.io
+ip208.ip-51-178-100.eu
 ip29.sudolio.io
 l610.scanner.modat.io
 lrnf.net
@@ -66,6 +68,7 @@ s4850.vps.hosting
 scan-02k.shadowserver.org
 scan-03f.shadowserver.org
 scan-09b.shadowserver.org
+scan-14b.shadowserver.org
 scan-14j.shadowserver.org
 scan-15e.shadowserver.org
 scan-36k.shadowserver.org
@@ -78,10 +81,12 @@ scan-42k.shadowserver.org
 scan-44c.shadowserver.org
 scan-46f.shadowserver.org
 scan-46k.shadowserver.org
+scan-47h.shadowserver.org
 scan-49n.shadowserver.org
 scan-51d.shadowserver.org
 scan-51g.shadowserver.org
 scan-52h.shadowserver.org
+scan-53m.shadowserver.org
 scan-55g.shadowserver.org
 scan-58.security.ipip.net
 scan-62-10.shadowserver.org
