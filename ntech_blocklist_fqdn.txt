@@ -42,8 +42,10 @@ crawler061.deepfield.net
 crawler075.deepfield.net
 crawler153.deepfield.net
 crawler174.deepfield.net
+crawler179.deepfield.net
 crawler199.deepfield.net
 dal215.hawkhost.com
+ded121318.smartservers.com.au
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
 ec2-100-51-6-16.compute-1.amazonaws.com
@@ -128,4 +130,5 @@ smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vmi1226255.contaboserver.net
 vmi3003709.contaboserver.net
