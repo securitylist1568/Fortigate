@@ -42,6 +42,7 @@ ded121318.smartservers.com.au
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
+ec2-16-148-192-69.us-west-2.compute.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
