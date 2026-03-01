@@ -24,6 +24,7 @@
 131.211.203.35.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
 141.210.203.35.bc.googleusercontent.com
+142.149.216.162.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -41,6 +42,7 @@ crawler153.deepfield.net
 crawler174.deepfield.net
 crawler179.deepfield.net
 crawler199.deepfield.net
+d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
@@ -93,6 +95,7 @@ scan-62-10.shadowserver.org
 scan-63-4.shadowserver.org
 scan-64-13.shadowserver.org
 scan-64-7.shadowserver.org
+scan-65-2.shadowserver.org
 scan-66-4.shadowserver.org
 scan-67-5.shadowserver.org
 scan-69-07.shadowserver.org
@@ -102,13 +105,16 @@ scan-73-05.shadowserver.org
 scan-74-00.shadowserver.org
 scan-74-04.shadowserver.org
 scan-74-07.shadowserver.org
+scan-75-04.shadowserver.org
 scan-76-03.shadowserver.org
 scan-76-04.shadowserver.org
 scan-76-07.shadowserver.org
 scan-80-3.shadowserver.org
 scan-81-1.shadowserver.org
 scan-82-5.shadowserver.org
+scan-83-4.shadowserver.org
 scan-84-5.shadowserver.org
+scan-86-4.shadowserver.org
 scan-86-8.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-1.shadowserver.org
