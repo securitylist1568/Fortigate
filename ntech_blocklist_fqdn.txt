@@ -31,6 +31,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
 client.yota.ru
+crawler018.deepfield.net
 crawler020.deepfield.net
 crawler103.deepfield.net
 crawler145.deepfield.net
@@ -39,6 +40,7 @@ d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-51-6-16.compute-1.amazonaws.com
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-16-148-192-69.us-west-2.compute.amazonaws.com
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
@@ -69,6 +71,7 @@ scan-36k.shadowserver.org
 scan-37o.shadowserver.org
 scan-39k.shadowserver.org
 scan-40g.shadowserver.org
+scan-42k.shadowserver.org
 scan-43o.shadowserver.org
 scan-44c.shadowserver.org
 scan-45c.shadowserver.org
@@ -77,8 +80,12 @@ scan-46h.shadowserver.org
 scan-51d.shadowserver.org
 scan-51g.shadowserver.org
 scan-51k.shadowserver.org
+scan-52h.shadowserver.org
 scan-55g.shadowserver.org
+scan-58.security.ipip.net
+scan-62-10.shadowserver.org
 scan-62-11.shadowserver.org
+scan-63-13.shadowserver.org
 scan-63-4.shadowserver.org
 scan-63-9.shadowserver.org
 scan-64-7.shadowserver.org
