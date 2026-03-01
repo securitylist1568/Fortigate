@@ -23,6 +23,7 @@
 229.150.216.162.bc.googleusercontent.com
 236.45.130.34.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
+54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
 84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -94,6 +95,7 @@ scan-47f.shadowserver.org
 scan-47h.shadowserver.org
 scan-49f.shadowserver.org
 scan-49n.shadowserver.org
+scan-50b.shadowserver.org
 scan-51d.shadowserver.org
 scan-52h.shadowserver.org
 scan-53m.shadowserver.org
@@ -151,6 +153,7 @@ srv-141-98-10-170.serveroffer.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
+user-170-39-227-143.sea02.us.misaka.io
 user-170-39-227-251.sea02.us.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
