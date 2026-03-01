@@ -74,6 +74,7 @@ ec2-54-210-4-57.compute-1.amazonaws.com
 ec2-54-234-161-195.compute-1.amazonaws.com
 ec2-54-91-115-200.compute-1.amazonaws.com
 ec2-98-81-211-21.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
@@ -86,9 +87,11 @@ li1873-236.members.linode.com
 lrnf.net
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+no-mans-land.m247.com
 ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
+promowin.mailpmtaopg924.panel-laboralcj.gob.mx
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02n.shadowserver.org
