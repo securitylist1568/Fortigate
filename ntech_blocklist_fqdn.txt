@@ -40,6 +40,7 @@ crawler153.deepfield.net
 crawler174.deepfield.net
 crawler179.deepfield.net
 crawler199.deepfield.net
+customer.evolusfibre.com
 d99-199-115-123.bchsia.telus.net
 dal215.hawkhost.com
 ded121318.smartservers.com.au
