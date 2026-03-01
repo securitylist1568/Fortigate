@@ -25,16 +25,15 @@
 145.149.216.162.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
 170-84-23-31.wtbandalarga.com.br
-173.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
-233.211.203.35.bc.googleusercontent.com
 24.149.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 5457387-xi10816.twc1.net
 76.150.216.162.bc.googleusercontent.com
+9.79.106.34.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -80,6 +79,7 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 lrnf.net
@@ -109,7 +109,6 @@ scan-88-1.shadowserver.org
 scan-89-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
-simspice.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
