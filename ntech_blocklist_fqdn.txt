@@ -60,6 +60,7 @@ l610.scanner.modat.io
 lrnf.net
 mfyabgec.musicpda.com
 netbox.entecnet.com.br
+no-mans-land.m247.com
 o618.scanner.modat.io
 o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -88,6 +89,7 @@ scan-44c.shadowserver.org
 scan-46f.shadowserver.org
 scan-46k.shadowserver.org
 scan-46o.shadowserver.org
+scan-47f.shadowserver.org
 scan-47h.shadowserver.org
 scan-49f.shadowserver.org
 scan-49n.shadowserver.org
@@ -127,6 +129,7 @@ scan-80-2.shadowserver.org
 scan-81-2.shadowserver.org
 scan-81-9.shadowserver.org
 scan-82-8.shadowserver.org
+scan-83-3.shadowserver.org
 scan-84-1.shadowserver.org
 scan-84-9.shadowserver.org
 scan-85-7.shadowserver.org
@@ -136,6 +139,7 @@ scan-86-9.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-1.shadowserver.org
+scan-89-2.shadowserver.org
 scan-89-4.shadowserver.org
 scan-90-8.shadowserver.org
 server.comy
