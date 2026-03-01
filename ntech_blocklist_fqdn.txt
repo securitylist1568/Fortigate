@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-194-152.dynamic-ip.hinet.net
 126.19.196.104.bc.googleusercontent.com
+128.150.216.162.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 131.211.203.35.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
@@ -94,6 +95,7 @@ scan-73-05.shadowserver.org
 scan-74-00.shadowserver.org
 scan-74-04.shadowserver.org
 scan-74-07.shadowserver.org
+scan-76-03.shadowserver.org
 scan-76-07.shadowserver.org
 scan-80-3.shadowserver.org
 scan-81-1.shadowserver.org
@@ -107,6 +109,7 @@ shiireichiba.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vmi1226255.contaboserver.net
 vmi919152.contaboserver.net
