@@ -22,7 +22,6 @@
 151.210.203.35.bc.googleusercontent.com
 170-84-23-31.wtbandalarga.com.br
 173.150.216.162.bc.googleusercontent.com
-181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
@@ -30,7 +29,6 @@
 233.170.178.68.host.secureserver.net
 233.211.203.35.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
-25.211.203.35.bc.googleusercontent.com
 5457387-xi10816.twc1.net
 82-147-88-88.vpsdedic.ru
 98.211.203.35.bc.googleusercontent.com
@@ -58,7 +56,6 @@ ec2-34-227-163-41.compute-1.amazonaws.com
 ec2-34-227-193-105.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
-ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-52-90-57-39.compute-1.amazonaws.com
 ec2-54-145-225-58.compute-1.amazonaws.com
 ec2-54-152-220-72.compute-1.amazonaws.com
@@ -75,7 +72,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip11.ip-51-91-177.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 li1972-67.members.linode.com
@@ -93,7 +89,6 @@ simspice.com
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 users219.vip.heteml.jp
 v2202509302515385337.ultrasrv.de
 vmi3003709.contaboserver.net
