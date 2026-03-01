@@ -22,7 +22,6 @@
 139.149.216.162.bc.googleusercontent.com
 142.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
-172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 44.150.216.162.bc.googleusercontent.com
 60-250-140-251.hinet-ip.hinet.net
@@ -44,7 +43,6 @@ ec2-16-148-192-69.us-west-2.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
-ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -61,21 +59,16 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01a.shadowserver.org
-scan-04i.shadowserver.org
 scan-09b.shadowserver.org
 scan-11i.shadowserver.org
-scan-17k.shadowserver.org
 scan-36k.shadowserver.org
 scan-39k.shadowserver.org
-scan-41g.shadowserver.org
 scan-43o.shadowserver.org
 scan-44c.shadowserver.org
-scan-44k.shadowserver.org
 scan-45c.shadowserver.org
 scan-45n.shadowserver.org
 scan-46h.shadowserver.org
 scan-50c.shadowserver.org
-scan-51c.shadowserver.org
 scan-51g.shadowserver.org
 scan-51k.shadowserver.org
 scan-55g.shadowserver.org
@@ -88,7 +81,6 @@ scan-64-7.shadowserver.org
 scan-65-12.shadowserver.org
 scan-65-2.shadowserver.org
 scan-66-4.shadowserver.org
-scan-67-5.shadowserver.org
 scan-68-05.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-08.shadowserver.org
@@ -100,7 +92,6 @@ scan-75-04.shadowserver.org
 scan-76-03.shadowserver.org
 scan-76-04.shadowserver.org
 scan-77-07.shadowserver.org
-scan-81-1.shadowserver.org
 scan-82-3.shadowserver.org
 scan-83-4.shadowserver.org
 scan-84-5.shadowserver.org
