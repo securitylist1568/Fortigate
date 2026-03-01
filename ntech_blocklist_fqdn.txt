@@ -29,6 +29,7 @@
 233.170.178.68.host.secureserver.net
 233.211.203.35.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
+5.149.216.162.bc.googleusercontent.com
 5457387-xi10816.twc1.net
 82-147-88-88.vpsdedic.ru
 98.211.203.35.bc.googleusercontent.com
@@ -68,6 +69,7 @@ ec2-54-234-161-195.compute-1.amazonaws.com
 ec2-54-91-115-200.compute-1.amazonaws.com
 ec2-98-81-211-21.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
+fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
