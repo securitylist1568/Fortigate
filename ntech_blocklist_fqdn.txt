@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-134.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 229.150.216.162.bc.googleusercontent.com
 236.45.130.34.bc.googleusercontent.com
@@ -35,8 +34,6 @@ crawler020.deepfield.net
 crawler073.deepfield.net
 crawler077.deepfield.net
 crawler097.deepfield.net
-crawler103.deepfield.net
-crawler145.deepfield.net
 crawler214.deepfield.net
 crawler235.deepfield.net
 dal215.hawkhost.com
@@ -44,9 +41,7 @@ diversion.banhkemcantho.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
-ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
-ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 fabulouscars.ptr.network
 festa04.jcatransporte.com.br
@@ -54,6 +49,7 @@ fkcjs.top
 gpjacot.cn
 h-85-24-194-91.na.cust.bahnhof.se
 hn.kd.ny.adsl
+horn.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip208.ip-51-178-100.eu
 ip29.sudolio.io
@@ -123,12 +119,10 @@ scan-65-4.shadowserver.org
 scan-66-6.shadowserver.org
 scan-67-2.shadowserver.org
 scan-67-3.shadowserver.org
-scan-70-02.shadowserver.org
 scan-71-05.shadowserver.org
 scan-71-07.shadowserver.org
 scan-72-02.shadowserver.org
 scan-74-07.shadowserver.org
-scan-75-02.shadowserver.org
 scan-75-04.shadowserver.org
 scan-75-07.shadowserver.org
 scan-75-08.shadowserver.org
@@ -139,7 +133,6 @@ scan-80-1.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-2.shadowserver.org
 scan-81-9.shadowserver.org
-scan-82-8.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-1.shadowserver.org
 scan-84-9.shadowserver.org
@@ -150,7 +143,6 @@ scan-87-9.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-1.shadowserver.org
 scan-89-2.shadowserver.org
-scan-89-4.shadowserver.org
 scan-90-8.shadowserver.org
 shuataobao.cn
 smtp1.telemach.net
@@ -160,11 +152,8 @@ static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
 uoxejxf.cn
 user-170-39-227-143.sea02.us.misaka.io
-user-170-39-227-251.sea02.us.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
-v36452.1blu.de
-vmi2713200.contaboserver.net
 xlfhcl.cn
 yaporkc.cn
 zevmbcu.cn
