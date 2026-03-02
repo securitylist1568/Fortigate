@@ -78,9 +78,7 @@
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
 23-94-28-163-host.colocrossing.com
-236.45.130.34.bc.googleusercontent.com
 34921-56726.bacloud.info
-38844.cloudwaysstagingapps.com
 45-33-110-79.ip.linodeusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -105,9 +103,7 @@ client.yota.ru
 dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
-e2e-dbaas-mongodb-1s9ix-20ec1391.mongo.ondigitalocean.com
 ec2-100-28-191-174.compute-1.amazonaws.com
-ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-3-239-13-6.compute-1.amazonaws.com
@@ -126,7 +122,6 @@ karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 lagos.scan.bufferover.run
 lrnf.net
-mail.ajaxvpn.org
 mail45.vlaves.bg
 mfyabgec.musicpda.com
 mumbai.scan.bufferover.run
@@ -187,6 +182,5 @@ troy.scan.bufferover.run
 ur.scan.bufferover.run
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
-vmi3003709.contaboserver.net
 warsaw.scan.bufferover.run
 www106.asd.tj.cn
