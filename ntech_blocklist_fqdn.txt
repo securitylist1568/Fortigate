@@ -138,6 +138,7 @@ scan-04i.shadowserver.org
 scan-41n.shadowserver.org
 scan-43m.shadowserver.org
 scan-47c.shadowserver.org
+scan-47i.shadowserver.org
 scan-48l.shadowserver.org
 scan-51g.shadowserver.org
 scan-51h.shadowserver.org
