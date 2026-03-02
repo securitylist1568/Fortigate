@@ -28,6 +28,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
+coinspe.com
 crawler083.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
