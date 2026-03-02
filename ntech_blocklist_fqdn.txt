@@ -62,6 +62,7 @@ scan-74-09.shadowserver.org
 scan-79-05.shadowserver.org
 scan-83-7.shadowserver.org
 scan-90-6.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
