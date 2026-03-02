@@ -35,6 +35,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
@@ -65,6 +66,7 @@ scan-44o.shadowserver.org
 scan-47i.shadowserver.org
 scan-60-13.shadowserver.org
 scan-61-4.shadowserver.org
+scan-62-12.shadowserver.org
 scan-62-6.shadowserver.org
 scan-65-9.shadowserver.org
 scan-67-4.shadowserver.org
@@ -90,6 +92,7 @@ security.criminalip.com
 server.comy
 shiireichiba.com
 smtp1.telemach.net
+start-crystal.recruitmentflock.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.126.224.46.clients.your-server.de
 users219.vip.heteml.jp
