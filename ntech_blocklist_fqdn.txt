@@ -48,6 +48,7 @@ ip29.sudolio.io
 ip50.ip-51-38-211.eu
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 mx2.zeelandnet.nl
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
@@ -56,11 +57,14 @@ prod-nyc3-3.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-15c.shadowserver.org
+scan-17g.shadowserver.org
 scan-42b.shadowserver.org
 scan-43m.shadowserver.org
+scan-44k.shadowserver.org
 scan-44o.shadowserver.org
 scan-47i.shadowserver.org
 scan-60-13.shadowserver.org
+scan-61-4.shadowserver.org
 scan-62-6.shadowserver.org
 scan-65-9.shadowserver.org
 scan-67-4.shadowserver.org
@@ -73,12 +77,14 @@ scan-73-03.shadowserver.org
 scan-73-07.shadowserver.org
 scan-75-06.shadowserver.org
 scan-76-03.shadowserver.org
+scan-76-06.shadowserver.org
 scan-77-04.shadowserver.org
 scan-78-06.shadowserver.org
 scan-80-2.shadowserver.org
 scan-85-1.shadowserver.org
 scan-85-5.shadowserver.org
 scan-86-7.shadowserver.org
+scan-88-6.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
