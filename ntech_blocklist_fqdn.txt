@@ -170,6 +170,7 @@ ec2-54-196-48-233.compute-1.amazonaws.com
 ec2-54-205-24-156.compute-1.amazonaws.com
 ec2-54-83-72-14.compute-1.amazonaws.com
 ec2-54-91-92-82.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host198.200-45-220.telecom.net.ar
