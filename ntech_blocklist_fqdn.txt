@@ -179,6 +179,9 @@ salta.scan.bufferover.run
 samfunnssikkerhet.org
 scan-01d.shadowserver.org
 scan-03f.shadowserver.org
+scan-04i.shadowserver.org
+scan-41n.shadowserver.org
+scan-47c.shadowserver.org
 scan-48l.shadowserver.org
 scan-51g.shadowserver.org
 scan-51k.shadowserver.org
@@ -195,7 +198,9 @@ scan-70-08.shadowserver.org
 scan-71-07.shadowserver.org
 scan-72-06.shadowserver.org
 scan-74-01.shadowserver.org
+scan-74-08.shadowserver.org
 scan-75-05.shadowserver.org
+scan-76-01.shadowserver.org
 scan-78-04.shadowserver.org
 scan-80-1.shadowserver.org
 scan-81-9.shadowserver.org
