@@ -26,6 +26,7 @@
 62-210-113-114.rev.poneytelecom.eu
 62-210-113-121.rev.poneytelecom.eu
 62-210-113-89.rev.poneytelecom.eu
+62-210-114-25.rev.poneytelecom.eu
 62-210-136-166.rev.poneytelecom.eu
 admin-happy-newt.live.shopware-project.webgriffe.systems
 amz.unixwiz.net
