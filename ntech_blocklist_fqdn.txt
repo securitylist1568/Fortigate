@@ -44,6 +44,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-230.4vendeta.com
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
+l611.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
@@ -66,6 +67,7 @@ scan-60-13.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-12.shadowserver.org
 scan-62-6.shadowserver.org
+scan-65-7.shadowserver.org
 scan-65-9.shadowserver.org
 scan-67-4.shadowserver.org
 scan-67-9.shadowserver.org
@@ -76,6 +78,7 @@ scan-72-05.shadowserver.org
 scan-73-03.shadowserver.org
 scan-73-07.shadowserver.org
 scan-75-06.shadowserver.org
+scan-75-08.shadowserver.org
 scan-76-03.shadowserver.org
 scan-76-06.shadowserver.org
 scan-77-04.shadowserver.org
@@ -83,6 +86,7 @@ scan-78-06.shadowserver.org
 scan-80-2.shadowserver.org
 scan-85-1.shadowserver.org
 scan-85-5.shadowserver.org
+scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-6.shadowserver.org
 scan.visionheight.com
