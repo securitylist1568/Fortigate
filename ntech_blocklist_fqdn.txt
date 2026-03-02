@@ -23,6 +23,7 @@
 212.110.12.34.bc.googleusercontent.com
 217.100.7.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
+63.43.125.34.bc.googleusercontent.com
 76.228.131.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -38,6 +39,7 @@ finland2.ipip.net
 hn.kd.ny.adsl
 hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-138.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
