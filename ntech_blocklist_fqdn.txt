@@ -148,6 +148,7 @@ kingston.scan.bufferover.run
 lagos.scan.bufferover.run
 lrnf.net
 mail.ajaxvpn.org
+mail45.vlaves.bg
 mfyabgec.musicpda.com
 mumbai.scan.bufferover.run
 pa-guestlan.tierpoint.net
