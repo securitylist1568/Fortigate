@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-194-152.dynamic-ip.hinet.net
 139-144-239-78.ip.linodeusercontent.com
 139-144-239-98.ip.linodeusercontent.com
 143-42-0-20.ip.linodeusercontent.com
@@ -78,7 +77,6 @@
 192-155-84-194.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
-23-94-28-163-host.colocrossing.com
 34921-56726.bacloud.info
 45-33-110-79.ip.linodeusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -107,7 +105,6 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
-ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
@@ -134,8 +131,6 @@ prod-nyc3-3.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
-samfunnssikkerhet.org
-scan-01d.shadowserver.org
 scan-03f.shadowserver.org
 scan-04i.shadowserver.org
 scan-41n.shadowserver.org
@@ -159,7 +154,6 @@ scan-67-9.shadowserver.org
 scan-69-09.shadowserver.org
 scan-70-02.shadowserver.org
 scan-70-08.shadowserver.org
-scan-71-07.shadowserver.org
 scan-72-04.shadowserver.org
 scan-72-06.shadowserver.org
 scan-73-07.shadowserver.org
