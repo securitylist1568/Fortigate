@@ -53,6 +53,7 @@ node-150-107-213-198.alliancebroadband.in
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-nyc3-1.qencode
 prod-nyc3-3.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -65,6 +66,7 @@ scan-42k.shadowserver.org
 scan-43m.shadowserver.org
 scan-44k.shadowserver.org
 scan-44o.shadowserver.org
+scan-47h.shadowserver.org
 scan-47i.shadowserver.org
 scan-50c.shadowserver.org
 scan-60-13.shadowserver.org
@@ -82,6 +84,7 @@ scan-72-04.shadowserver.org
 scan-72-05.shadowserver.org
 scan-73-03.shadowserver.org
 scan-73-05.shadowserver.org
+scan-74-00.shadowserver.org
 scan-75-06.shadowserver.org
 scan-75-07.shadowserver.org
 scan-75-08.shadowserver.org
@@ -97,6 +100,7 @@ scan-86-2.shadowserver.org
 scan-86-4.shadowserver.org
 scan-87-1.shadowserver.org
 scan-88-6.shadowserver.org
+scan-88-8.shadowserver.org
 scan-90-7.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
