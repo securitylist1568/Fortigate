@@ -36,7 +36,10 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-218-58-57.compute-1.amazonaws.com
 ec2-3-86-193-171.compute-1.amazonaws.com
+ec2-54-144-193-250.compute-1.amazonaws.com
+ec2-54-196-222-60.compute-1.amazonaws.com
 ec2-54-83-113-196.compute-1.amazonaws.com
+ec2-54-86-73-184.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 finland2.ipip.net
 hn.kd.ny.adsl
@@ -44,6 +47,7 @@ hostmaster.narhost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
 ip29.sudolio.io
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns569611.ip-51-79-77.net
