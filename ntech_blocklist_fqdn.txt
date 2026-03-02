@@ -116,6 +116,7 @@ ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 ecs-119-13-125-156.compute.hwclouds-dns.com
+epsn.polycrafcraft.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
@@ -153,8 +154,11 @@ scan-60-3.shadowserver.org
 scan-61-13.shadowserver.org
 scan-64-10.shadowserver.org
 scan-64-2.shadowserver.org
+scan-65-9.shadowserver.org
 scan-67-11.shadowserver.org
+scan-67-9.shadowserver.org
 scan-69-09.shadowserver.org
+scan-70-02.shadowserver.org
 scan-70-08.shadowserver.org
 scan-71-07.shadowserver.org
 scan-72-06.shadowserver.org
@@ -165,7 +169,9 @@ scan-75-05.shadowserver.org
 scan-76-01.shadowserver.org
 scan-78-04.shadowserver.org
 scan-80-1.shadowserver.org
+scan-80-2.shadowserver.org
 scan-81-9.shadowserver.org
+scan-85-1.shadowserver.org
 scan-85-8.shadowserver.org
 scan-86-7.shadowserver.org
 scan-89-2.shadowserver.org
@@ -173,6 +179,7 @@ scan-89-3.shadowserver.org
 security.criminalip.com
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
+shiireichiba.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tehran.scan.bufferover.run
