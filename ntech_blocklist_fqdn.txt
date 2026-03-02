@@ -45,6 +45,8 @@ ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r4001.compute.pao1.edc.strln.net
+r4003.compute.pao1.edc.strln.net
 recyber.net
 scan-60.security.ipip.net
 scan.visionheight.com
