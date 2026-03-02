@@ -156,6 +156,7 @@ ec2-54-205-24-156.compute-1.amazonaws.com
 ec2-54-83-72-14.compute-1.amazonaws.com
 ec2-54-91-92-82.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
+ecs-119-13-125-156.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
