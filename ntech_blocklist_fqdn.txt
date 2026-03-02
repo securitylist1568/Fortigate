@@ -237,6 +237,7 @@ pivotsudo-leang.outreachratio.com
 prod-nyc3-1.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-01d.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 simspice.com
