@@ -143,6 +143,7 @@ ec2-3-85-201-144.compute-1.amazonaws.com
 ec2-3-88-21-212.compute-1.amazonaws.com
 ec2-3-89-121-148.compute-1.amazonaws.com
 ec2-3-95-18-41.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-34-230-74-23.compute-1.amazonaws.com
 ec2-35-171-161-173.compute-1.amazonaws.com
 ec2-44-202-55-27.compute-1.amazonaws.com
@@ -180,12 +181,14 @@ scan-01d.shadowserver.org
 scan-03f.shadowserver.org
 scan-48l.shadowserver.org
 scan-51g.shadowserver.org
+scan-51k.shadowserver.org
 scan-54l.shadowserver.org
 scan-55i.shadowserver.org
 scan-58h.shadowserver.org
 scan-60-3.shadowserver.org
 scan-61-13.shadowserver.org
 scan-64-10.shadowserver.org
+scan-64-2.shadowserver.org
 scan-67-11.shadowserver.org
 scan-69-09.shadowserver.org
 scan-70-08.shadowserver.org
@@ -193,8 +196,10 @@ scan-71-07.shadowserver.org
 scan-72-06.shadowserver.org
 scan-74-01.shadowserver.org
 scan-75-05.shadowserver.org
+scan-78-04.shadowserver.org
 scan-80-1.shadowserver.org
 scan-81-9.shadowserver.org
+scan-85-8.shadowserver.org
 scan-89-2.shadowserver.org
 scan-89-3.shadowserver.org
 scan.visionheight.com
