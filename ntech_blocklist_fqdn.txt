@@ -228,6 +228,7 @@ host198.200-45-220.telecom.net.ar
 htb-h9b8tjwfph.htb-cloud.com
 ip13.ip-15-204-54.us
 ip29.sudolio.io
+lrnf.net
 mail.ajaxvpn.org
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -239,7 +240,19 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 samfunnssikkerhet.org
 scan-01d.shadowserver.org
+scan-03f.shadowserver.org
+scan-54l.shadowserver.org
+scan-55i.shadowserver.org
+scan-58h.shadowserver.org
+scan-61-13.shadowserver.org
+scan-64-10.shadowserver.org
+scan-67-11.shadowserver.org
 scan-71-07.shadowserver.org
+scan-72-06.shadowserver.org
+scan-74-01.shadowserver.org
+scan-75-05.shadowserver.org
+scan-80-1.shadowserver.org
+scan-89-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 simspice.com
