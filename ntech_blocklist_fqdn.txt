@@ -21,7 +21,6 @@
 114-35-89-166.hinet-ip.hinet.net
 185-45-195-15.hostsailor.com
 34921-56726.bacloud.info
-54687.meet.nethesis.it
 62-210-113-114.rev.poneytelecom.eu
 62-210-113-121.rev.poneytelecom.eu
 62-210-113-89.rev.poneytelecom.eu
@@ -36,9 +35,7 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
-ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
-ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 epsn.polycrafcraft.com
 festa04.jcatransporte.com.br
@@ -51,6 +48,7 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 mx2.zeelandnet.nl
+node-150-107-213-198.alliancebroadband.in
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -88,7 +86,6 @@ scan-85-5.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-6.shadowserver.org
 scan.visionheight.com
-security.criminalip.com
 server.comy
 shiireichiba.com
 smtp1.telemach.net
