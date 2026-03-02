@@ -23,7 +23,9 @@
 185-45-195-15.hostsailor.com
 34921-56726.bacloud.info
 54687.meet.nethesis.it
+62-210-113-114.rev.poneytelecom.eu
 62-210-113-121.rev.poneytelecom.eu
+62-210-113-89.rev.poneytelecom.eu
 62-210-136-166.rev.poneytelecom.eu
 admin-happy-newt.live.shopware-project.webgriffe.systems
 amz.unixwiz.net
@@ -48,6 +50,7 @@ ip29.sudolio.io
 ip50.ip-51-38-211.eu
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+mta.skamaria.net
 null-91.134.45.bcn.ifog.es
 pa-guestlan.tierpoint.net
 pc112.cses.ilc.edu.tw
@@ -79,6 +82,7 @@ scan-80-2.shadowserver.org
 scan-85-1.shadowserver.org
 scan-85-8.shadowserver.org
 scan-86-7.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 server.comy
 shiireichiba.com
