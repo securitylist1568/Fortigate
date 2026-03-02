@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.124.91.34.bc.googleusercontent.com
+118-168-194-152.dynamic-ip.hinet.net
 170-84-23-31.wtbandalarga.com.br
 185-45-195-15.hostsailor.com
 204.76.203.233.ptr.pfcloud.network
