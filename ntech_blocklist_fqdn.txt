@@ -57,6 +57,7 @@ prod-nyc3-3.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-11f.shadowserver.org
+scan-13n.shadowserver.org
 scan-15c.shadowserver.org
 scan-17g.shadowserver.org
 scan-42b.shadowserver.org
@@ -65,10 +66,12 @@ scan-43m.shadowserver.org
 scan-44k.shadowserver.org
 scan-44o.shadowserver.org
 scan-47i.shadowserver.org
+scan-50c.shadowserver.org
 scan-60-13.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-12.shadowserver.org
 scan-62-6.shadowserver.org
+scan-63-11.shadowserver.org
 scan-64-3.shadowserver.org
 scan-65-7.shadowserver.org
 scan-66-5.shadowserver.org
@@ -80,6 +83,7 @@ scan-72-05.shadowserver.org
 scan-73-03.shadowserver.org
 scan-73-05.shadowserver.org
 scan-75-06.shadowserver.org
+scan-75-07.shadowserver.org
 scan-75-08.shadowserver.org
 scan-76-03.shadowserver.org
 scan-76-06.shadowserver.org
@@ -91,9 +95,11 @@ scan-84-7.shadowserver.org
 scan-85-5.shadowserver.org
 scan-86-2.shadowserver.org
 scan-86-4.shadowserver.org
+scan-87-1.shadowserver.org
 scan-88-6.shadowserver.org
 scan-90-7.shadowserver.org
 scan.visionheight.com
+security.criminalip.com
 server.comy
 smtp1.telemach.net
 start-crystal.recruitmentflock.com
