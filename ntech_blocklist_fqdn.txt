@@ -33,6 +33,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip87-106-213-49.pbiaas.com
 ip87-106-47-117.pbiaas.com
 li1537-121.members.linode.com
 li1625-135.members.linode.com
