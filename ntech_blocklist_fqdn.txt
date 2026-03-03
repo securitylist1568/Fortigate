@@ -22,6 +22,7 @@
 200.219.60.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 241-171-100-101.myrepublic.com.sg
+38.134.7.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
