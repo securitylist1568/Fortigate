@@ -184,6 +184,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip50.ip-51-38-211.eu
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -277,5 +278,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.157.230.90.157.clients.your-server.de
 unassigned.psychz.net
+unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
