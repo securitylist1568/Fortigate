@@ -44,15 +44,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-saimy.planetmemeani.co.uk
 scan-02n.shadowserver.org
-scan-05b.shadowserver.org
 scan-05c.shadowserver.org
 scan-08f.shadowserver.org
 scan-13c.shadowserver.org
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
-scan-15k.shadowserver.org
 scan-19n.shadowserver.org
 scan-44f.shadowserver.org
 scan-46k.shadowserver.org
@@ -66,7 +63,6 @@ scan-64-11.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-2.shadowserver.org
 scan-65-7.shadowserver.org
-scan-68-02.shadowserver.org
 scan-68-06.shadowserver.org
 scan-69-07.shadowserver.org
 scan-75-08.shadowserver.org
@@ -89,4 +85,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-vmi2886259.contaboserver.net
