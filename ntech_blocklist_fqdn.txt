@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-244-68.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+200.219.60.34.bc.googleusercontent.com
 204.76.203.233.ptr.pfcloud.network
 212.110.12.34.bc.googleusercontent.com
 217.100.7.34.bc.googleusercontent.com
@@ -84,6 +85,7 @@ scan-84-4.shadowserver.org
 scan-89-1.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
+simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.59.24.99.88.clients.your-server.de
