@@ -23,6 +23,7 @@
 200.219.60.34.bc.googleusercontent.com
 204.76.203.233.ptr.pfcloud.network
 25.206.151.34.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 63.43.125.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
