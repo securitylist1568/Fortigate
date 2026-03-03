@@ -147,6 +147,7 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 unn-207-211-214-162.datapacket.com
 user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
