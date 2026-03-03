@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-169-35-82.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 38.134.7.34.bc.googleusercontent.com
 45-33-65-239.ip.linodeusercontent.com
@@ -35,9 +34,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip208.ip-51-178-100.eu
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 li1873-236.members.linode.com
 mail.suporte.pro.br
 mfyabgec.musicpda.com
@@ -51,8 +48,8 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
-unn-207-211-214-162.datapacket.com
 user-45-131-70-129.led02.ru.misaka.io
+user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi2065192.contaboserver.net
 yfekd.space
