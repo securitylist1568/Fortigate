@@ -18,13 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
-117.124.91.34.bc.googleusercontent.com
 118-168-244-68.dynamic-ip.hinet.net
 118-169-35-82.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-194-195-122-95.ip.linodeusercontent.com
 85-9-218-248.nl-ams1.upcloud.host
 amz.unixwiz.net
 azpdcg5uiovm.stretchoid.com
@@ -201,7 +199,6 @@ scan-05n.shadowserver.org
 scan-09b.shadowserver.org
 scan-12h.shadowserver.org
 scan-12k.shadowserver.org
-scan-14j.shadowserver.org
 scan-18e.shadowserver.org
 scan-19b.shadowserver.org
 scan-20f.shadowserver.org
@@ -235,7 +232,6 @@ scan-63-12.shadowserver.org
 scan-63-6.shadowserver.org
 scan-63-8.shadowserver.org
 scan-64-10.shadowserver.org
-scan-64-12.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-5.shadowserver.org
 scan-66-13.shadowserver.org
@@ -267,7 +263,6 @@ scan-85-1.shadowserver.org
 scan-85-4.shadowserver.org
 scan-86-3.shadowserver.org
 scan-86-6.shadowserver.org
-scan-86-7.shadowserver.org
 scan-87-2.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-9.shadowserver.org
@@ -275,11 +270,9 @@ scan-88-5.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-7.shadowserver.org
 security.criminalip.com
-server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.157.230.90.157.clients.your-server.de
-unassigned.psychz.net
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
