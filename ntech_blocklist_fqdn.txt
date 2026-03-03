@@ -224,7 +224,9 @@ scan-60-6.shadowserver.org
 scan-61-11.shadowserver.org
 scan-61-5.shadowserver.org
 scan-61-7.shadowserver.org
+scan-62-13.shadowserver.org
 scan-62-7.shadowserver.org
+scan-63-10.shadowserver.org
 scan-63-11.shadowserver.org
 scan-63-12.shadowserver.org
 scan-63-6.shadowserver.org
@@ -243,6 +245,7 @@ scan-70-09.shadowserver.org
 scan-71-04.shadowserver.org
 scan-71-09.shadowserver.org
 scan-73-09.shadowserver.org
+scan-74-07.shadowserver.org
 scan-75-08.shadowserver.org
 scan-76-03.shadowserver.org
 scan-76-05.shadowserver.org
