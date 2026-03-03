@@ -23,6 +23,8 @@
 144.92.74.97.host.secureserver.net
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+20b06fec-6605-4f49-b0f7-ea410d61e710.fs.lucidlink.com
+38.134.7.34.bc.googleusercontent.com
 85-9-218-248.nl-ams1.upcloud.host
 amz.unixwiz.net
 azpdcg5uiovm.stretchoid.com
@@ -167,6 +169,8 @@ azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
+crawler126.deepfield.net
+crawler184.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-142-0-121.us-east-2.compute.amazonaws.com
@@ -246,6 +250,7 @@ scan-86-6.shadowserver.org
 scan-87-2.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-6.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
