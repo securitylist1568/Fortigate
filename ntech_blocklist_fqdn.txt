@@ -57,6 +57,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mail.suporte.pro.br
 mfyabgec.musicpda.com
+mx2.zeelandnet.nl
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
