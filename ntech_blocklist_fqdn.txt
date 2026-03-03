@@ -22,7 +22,6 @@
 200.219.60.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 241-171-100-101.myrepublic.com.sg
-25.206.151.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -67,7 +66,6 @@ scan-61-5.shadowserver.org
 scan-63-2.shadowserver.org
 scan-64-1.shadowserver.org
 scan-64-11.shadowserver.org
-scan-64-13.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-1.shadowserver.org
 scan-65-2.shadowserver.org
