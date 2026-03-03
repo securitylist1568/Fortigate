@@ -24,7 +24,6 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-38.134.7.34.bc.googleusercontent.com
 85-9-218-248.nl-ams1.upcloud.host
 amz.unixwiz.net
 azpdcg5uiovm.stretchoid.com
@@ -207,6 +206,7 @@ scan-36f.shadowserver.org
 scan-37n.shadowserver.org
 scan-37o.shadowserver.org
 scan-39i.shadowserver.org
+scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-43f.shadowserver.org
 scan-44k.shadowserver.org
@@ -254,6 +254,7 @@ scan-85-4.shadowserver.org
 scan-86-3.shadowserver.org
 scan-86-6.shadowserver.org
 scan-86-7.shadowserver.org
+scan-87-2.shadowserver.org
 scan-87-3.shadowserver.org
 scan-88-5.shadowserver.org
 scan-88-6.shadowserver.org
