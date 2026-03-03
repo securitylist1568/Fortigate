@@ -30,6 +30,12 @@ crawler184.deepfield.net
 crawler187.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-217-231-214.compute-1.amazonaws.com
+ec2-23-22-235-145.compute-1.amazonaws.com
+ec2-3-80-129-114.compute-1.amazonaws.com
+ec2-3-80-182-148.compute-1.amazonaws.com
+ec2-54-174-234-236.compute-1.amazonaws.com
+ec2-54-205-234-50.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
