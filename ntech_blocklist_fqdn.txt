@@ -48,6 +48,7 @@ saimy.planetmemeani.co.uk
 scan-02n.shadowserver.org
 scan-05b.shadowserver.org
 scan-05c.shadowserver.org
+scan-08f.shadowserver.org
 scan-13c.shadowserver.org
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
