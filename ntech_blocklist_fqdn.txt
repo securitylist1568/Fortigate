@@ -23,6 +23,7 @@
 204.76.203.233.ptr.pfcloud.network
 212.110.12.34.bc.googleusercontent.com
 217.100.7.34.bc.googleusercontent.com
+25.206.151.34.bc.googleusercontent.com
 63.43.125.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -70,6 +71,7 @@ r4001.compute.pao1.edc.strln.net
 r4003.compute.pao1.edc.strln.net
 recyber.net
 scan-60.security.ipip.net
+scan-64-13.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
