@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 117.124.91.34.bc.googleusercontent.com
-118-161-139-190.dynamic-ip.hinet.net
 118-168-244-68.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 172-232-121-108.ip.linodeusercontent.com
@@ -187,7 +186,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -197,7 +195,6 @@ scan-01i.shadowserver.org
 scan-03f.shadowserver.org
 scan-05a.shadowserver.org
 scan-05n.shadowserver.org
-scan-08f.shadowserver.org
 scan-09b.shadowserver.org
 scan-12h.shadowserver.org
 scan-12k.shadowserver.org
@@ -263,7 +260,6 @@ scan-82-5.shadowserver.org
 scan-83-4.shadowserver.org
 scan-84-7.shadowserver.org
 scan-84-8.shadowserver.org
-scan-85-0.shadowserver.org
 scan-85-1.shadowserver.org
 scan-85-4.shadowserver.org
 scan-86-3.shadowserver.org
@@ -277,11 +273,9 @@ scan-88-6.shadowserver.org
 scan-89-7.shadowserver.org
 security.criminalip.com
 server.comy
-shiireichiba.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.157.230.90.157.clients.your-server.de
 unassigned.psychz.net
-unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
