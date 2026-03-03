@@ -68,8 +68,14 @@ proxy-ca002-ext2.a.ahrefs.com
 r4001.compute.pao1.edc.strln.net
 r4003.compute.pao1.edc.strln.net
 recyber.net
+scan-01j.shadowserver.org
+scan-39k.shadowserver.org
 scan-60.security.ipip.net
+scan-61-5.shadowserver.org
 scan-64-13.shadowserver.org
+scan-72-02.shadowserver.org
+scan-76-06.shadowserver.org
+scan-84-4.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
