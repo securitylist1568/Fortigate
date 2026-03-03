@@ -32,6 +32,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip18.ip-15-204-40.us
 ip29.sudolio.io
 ip87-106-213-49.pbiaas.com
 ip87-106-47-117.pbiaas.com
@@ -96,5 +97,6 @@ security.criminalip.com
 simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
 vmi2886259.contaboserver.net
