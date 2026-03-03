@@ -21,6 +21,7 @@
 117.124.91.34.bc.googleusercontent.com
 118-161-139-190.dynamic-ip.hinet.net
 118-168-244-68.dynamic-ip.hinet.net
+144.92.74.97.host.secureserver.net
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
@@ -237,6 +238,7 @@ scan-66-2.shadowserver.org
 scan-67-3.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-04.shadowserver.org
+scan-70-06.shadowserver.org
 scan-70-09.shadowserver.org
 scan-71-04.shadowserver.org
 scan-71-09.shadowserver.org
@@ -249,6 +251,7 @@ scan-79-06.shadowserver.org
 scan-80-9.shadowserver.org
 scan-81-6.shadowserver.org
 scan-81-8.shadowserver.org
+scan-82-2.shadowserver.org
 scan-82-5.shadowserver.org
 scan-83-4.shadowserver.org
 scan-84-7.shadowserver.org
