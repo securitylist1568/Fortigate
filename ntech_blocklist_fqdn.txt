@@ -26,6 +26,7 @@
 241-171-100-101.myrepublic.com.sg
 38.134.7.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcs323e13.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -36,8 +37,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip18.ip-15-204-40.us
 ip29.sudolio.io
 ip87-106-213-49.pbiaas.com
-li1537-121.members.linode.com
-li1625-135.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
