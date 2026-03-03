@@ -20,6 +20,7 @@
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 117.124.91.34.bc.googleusercontent.com
 118-168-244-68.dynamic-ip.hinet.net
+118-169-35-82.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
