@@ -63,8 +63,10 @@ scan-75-06.shadowserver.org
 scan-76-06.shadowserver.org
 scan-77-02.shadowserver.org
 scan-81-7.shadowserver.org
+scan-82-4.shadowserver.org
 scan-84-4.shadowserver.org
 scan-89-1.shadowserver.org
+scan-89-3.shadowserver.org
 scan-90-3.shadowserver.org
 simspice.com
 smtp1.telemach.net
