@@ -67,6 +67,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r4001.compute.pao1.edc.strln.net
 r4003.compute.pao1.edc.strln.net
 recyber.net
+saimy.planetmemeani.co.uk
 scan-01j.shadowserver.org
 scan-14j.shadowserver.org
 scan-39k.shadowserver.org
