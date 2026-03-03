@@ -23,8 +23,6 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-24-52-70-30.telesystem.us
-241-171-100-101.myrepublic.com.sg
 38.134.7.34.bc.googleusercontent.com
 85-9-218-248.nl-ams1.upcloud.host
 amz.unixwiz.net
@@ -177,13 +175,10 @@ fabulouscars.ptr.network
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip18.ip-15-204-40.us
 ip29.sudolio.io
-ip87-106-213-49.pbiaas.com
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -195,7 +190,6 @@ scan-05n.shadowserver.org
 scan-08f.shadowserver.org
 scan-09b.shadowserver.org
 scan-12h.shadowserver.org
-scan-13n.shadowserver.org
 scan-14j.shadowserver.org
 scan-18e.shadowserver.org
 scan-19b.shadowserver.org
@@ -218,7 +212,6 @@ scan-63-8.shadowserver.org
 scan-64-10.shadowserver.org
 scan-64-12.shadowserver.org
 scan-65-13.shadowserver.org
-scan-65-7.shadowserver.org
 scan-66-13.shadowserver.org
 scan-67-3.shadowserver.org
 scan-70-09.shadowserver.org
@@ -232,11 +225,9 @@ scan-79-06.shadowserver.org
 scan-81-8.shadowserver.org
 scan-82-5.shadowserver.org
 scan-83-4.shadowserver.org
-scan-84-5.shadowserver.org
 scan-84-7.shadowserver.org
 scan-85-0.shadowserver.org
 scan-85-4.shadowserver.org
-scan-85-8.shadowserver.org
 scan-86-3.shadowserver.org
 scan-86-6.shadowserver.org
 scan-86-7.shadowserver.org
@@ -251,7 +242,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.157.230.90.157.clients.your-server.de
 unassigned.psychz.net
-unn-169-150-252-179.datapacket.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
