@@ -222,6 +222,7 @@ scan-49f.shadowserver.org
 scan-51d.shadowserver.org
 scan-51n.shadowserver.org
 scan-53m.shadowserver.org
+scan-58m.shadowserver.org
 scan-60-6.shadowserver.org
 scan-61-11.shadowserver.org
 scan-61-5.shadowserver.org
