@@ -19,16 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-233-80.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-38.134.7.34.bc.googleusercontent.com
-45-33-65-239.ip.linodeusercontent.com
 46.225.123.103.jnpl.jeebr.net
 77.75.6.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler126.deepfield.net
-crawler184.deepfield.net
-crawler187.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-217-231-214.compute-1.amazonaws.com
