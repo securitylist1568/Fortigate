@@ -20,7 +20,6 @@
 118-168-233-80.dynamic-ip.hinet.net
 172-232-108-36.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-46.225.123.103.jnpl.jeebr.net
 77.75.6.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -28,6 +27,7 @@ client.yota.ru
 d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-217-231-214.compute-1.amazonaws.com
 ec2-18-207-222-36.compute-1.amazonaws.com
 ec2-23-22-235-145.compute-1.amazonaws.com
@@ -52,8 +52,10 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 lctsaa-ab-in-f10.1e100.net
+mail.yuanxilv.cn
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
 pc112.cses.ilc.edu.tw
