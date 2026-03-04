@@ -25,6 +25,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-217-231-214.compute-1.amazonaws.com
@@ -64,6 +65,7 @@ scan-39f.shadowserver.org
 scan-56c.shadowserver.org
 scan-64-6.shadowserver.org
 scan-78-05.shadowserver.org
+scan-81-8.shadowserver.org
 scan-83-5.shadowserver.org
 scan-86-5.shadowserver.org
 scan-86-8.shadowserver.org
