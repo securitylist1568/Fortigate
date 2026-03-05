@@ -65,6 +65,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s40868.vps.hosting
 scan-02m.shadowserver.org
+scan-06a.shadowserver.org
 scan-08d.shadowserver.org
 scan-11i.shadowserver.org
 scan-13c.shadowserver.org
@@ -109,4 +110,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
