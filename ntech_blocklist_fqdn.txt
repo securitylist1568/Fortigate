@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 108.61.218.225.vultrusercontent.com
-11.ip-109-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -26,8 +25,6 @@
 169.211.203.35.bc.googleusercontent.com
 172-232-108-36.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
-176.65.148.92.ptr.pfcloud.network
-176.65.149.43.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 205.210.203.35.bc.googleusercontent.com
@@ -53,12 +50,10 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
-gabbyshock.ptr.network
 hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip129.ip-51-77-47.eu
-ip13.ip-15-204-54.us
 ip29.sudolio.io
 keralavisionisp-dynamic-221.65.139.103.keralavisionisp.com
 mfyabgec.musicpda.com
@@ -84,9 +79,12 @@ scan-40e.shadowserver.org
 scan-41n.shadowserver.org
 scan-43b.shadowserver.org
 scan-43o.shadowserver.org
+scan-44c.shadowserver.org
 scan-44e.shadowserver.org
 scan-44k.shadowserver.org
 scan-45n.shadowserver.org
+scan-45o.shadowserver.org
+scan-46h.shadowserver.org
 scan-57e.shadowserver.org
 scan-60-11.shadowserver.org
 scan-61-1.shadowserver.org
