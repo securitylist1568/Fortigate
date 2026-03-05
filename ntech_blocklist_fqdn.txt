@@ -27,6 +27,7 @@
 159.210.203.35.bc.googleusercontent.com
 172-104-209-26.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
+176.65.148.37.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 193.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
@@ -93,9 +94,12 @@ scan-46h.shadowserver.org
 scan-48c.shadowserver.org
 scan-48i.shadowserver.org
 scan-51c.shadowserver.org
+scan-52m.shadowserver.org
 scan-60-0.shadowserver.org
 scan-61-1.shadowserver.org
 scan-61-11.shadowserver.org
+scan-61-5.shadowserver.org
+scan-62-10.shadowserver.org
 scan-63-3.shadowserver.org
 scan-64-13.shadowserver.org
 scan-65-10.shadowserver.org
@@ -108,10 +112,12 @@ scan-68-00.shadowserver.org
 scan-69-03.shadowserver.org
 scan-69-04.shadowserver.org
 scan-70-00.shadowserver.org
+scan-70-06.shadowserver.org
 scan-71-00.shadowserver.org
 scan-71-03.shadowserver.org
 scan-71-05.shadowserver.org
 scan-72-01.shadowserver.org
+scan-72-07.shadowserver.org
 scan-73-07.shadowserver.org
 scan-73-08.shadowserver.org
 scan-75-03.shadowserver.org
@@ -133,9 +139,11 @@ scan-84-7.shadowserver.org
 scan-84-9.shadowserver.org
 scan-85-9.shadowserver.org
 scan-86-0.shadowserver.org
+scan-86-3.shadowserver.org
 scan-86-8.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-5.shadowserver.org
+scan-88-9.shadowserver.org
 scan-89-6.shadowserver.org
 scan-89-9.shadowserver.org
 scan-90-1.shadowserver.org
