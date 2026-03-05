@@ -37,6 +37,7 @@
 217.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
+34.150.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
@@ -59,6 +60,7 @@ gabbyshock.ptr.network
 hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
+ip129.ip-51-77-47.eu
 ip13.ip-15-204-54.us
 ip29.sudolio.io
 ip59.ip-15-204-158.us
@@ -73,6 +75,7 @@ s40868.vps.hosting
 scan-08d.shadowserver.org
 scan-09g.shadowserver.org
 scan-11i.shadowserver.org
+scan-13c.shadowserver.org
 scan-17o.shadowserver.org
 scan-39l.shadowserver.org
 scan-41n.shadowserver.org
