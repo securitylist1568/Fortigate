@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.149.216.162.bc.googleusercontent.com
 118-168-233-80.dynamic-ip.hinet.net
 155.150.216.162.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
@@ -35,13 +34,11 @@
 203.219.34.34.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
-247.149.216.162.bc.googleusercontent.com
 38.150.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
 40.150.216.162.bc.googleusercontent.com
 45-79-134-5.ip.linodeusercontent.com
 48.211.203.35.bc.googleusercontent.com
-5.210.203.35.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 55.211.203.35.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
@@ -60,7 +57,6 @@ downs.probe.onyphe.net
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host.sintesa.peninsula.hotel
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 jsgqkjz.cn
