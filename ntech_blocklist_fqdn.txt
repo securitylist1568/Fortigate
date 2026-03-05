@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124-8-182-41.dynamic.tfn.net.tw
-125-227-237-177.hinet-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
 131.0.245.253.core3.com.br
 131.150.216.162.bc.googleusercontent.com
@@ -39,7 +38,6 @@
 249.210.203.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
-62-210-136-166.rev.poneytelecom.eu
 7.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -60,7 +58,6 @@ hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip13.ip-15-204-54.us
-ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip59.ip-15-204-158.us
 keralavisionisp-dynamic-221.65.139.103.keralavisionisp.com
@@ -74,12 +71,18 @@ s40868.vps.hosting
 scan-08d.shadowserver.org
 scan-09g.shadowserver.org
 scan-11i.shadowserver.org
+scan-17o.shadowserver.org
 scan-39l.shadowserver.org
 scan-41n.shadowserver.org
+scan-44e.shadowserver.org
 scan-57e.shadowserver.org
+scan-60-11.shadowserver.org
+scan-61-5.shadowserver.org
 scan-63-4.shadowserver.org
+scan-64-6.shadowserver.org
 scan-66-1.shadowserver.org
 scan-68-02.shadowserver.org
+scan-70-04.shadowserver.org
 scan-72-02.shadowserver.org
 scan-75-06.shadowserver.org
 scan-76-04.shadowserver.org
@@ -87,6 +90,7 @@ scan-79-07.shadowserver.org
 scan-80-0.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-1.shadowserver.org
+scan-86-3.shadowserver.org
 scan-87-2.shadowserver.org
 scan-90-4.shadowserver.org
 security.criminalip.com
@@ -95,3 +99,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.155.124.140.128.clients.your-server.de
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+zhangyuan3.virtuaserver.com.br
