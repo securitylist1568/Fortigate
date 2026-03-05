@@ -52,6 +52,8 @@ hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-134.4vendeta.com
+ip-49-58.4vendeta.com
+ip-56-114.4vendeta.com
 ip129.ip-51-77-47.eu
 ip29.sudolio.io
 keralavisionisp-dynamic-221.65.139.103.keralavisionisp.com
