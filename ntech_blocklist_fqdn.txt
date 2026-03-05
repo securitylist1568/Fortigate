@@ -47,6 +47,7 @@ festa04.jcatransporte.com.br
 gabbyshock.ptr.network
 hn.kd.ny.adsl
 ho.probe.onyphe.net
+host.sintesa.peninsula.hotel
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-134.4vendeta.com
 ip-49-58.4vendeta.com
