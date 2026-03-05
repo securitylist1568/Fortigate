@@ -22,6 +22,7 @@
 124-8-182-41.dynamic.tfn.net.tw
 131.150.216.162.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
+159.210.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 172-232-108-36.ip.linodeusercontent.com
 176.65.148.92.ptr.pfcloud.network
@@ -63,11 +64,13 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s40868.vps.hosting
+scan-02m.shadowserver.org
 scan-08d.shadowserver.org
 scan-11i.shadowserver.org
 scan-13c.shadowserver.org
 scan-17g.shadowserver.org
 scan-17o.shadowserver.org
+scan-20j.shadowserver.org
 scan-39l.shadowserver.org
 scan-40e.shadowserver.org
 scan-41n.shadowserver.org
@@ -95,8 +98,11 @@ scan-82-3.shadowserver.org
 scan-82-8.shadowserver.org
 scan-84-7.shadowserver.org
 scan-84-9.shadowserver.org
+scan-86-0.shadowserver.org
 scan-86-3.shadowserver.org
 scan-87-3.shadowserver.org
+scan-89-9.shadowserver.org
+scan-90-1.shadowserver.org
 scan-90-4.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
