@@ -21,13 +21,12 @@
 114.149.216.162.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
-153.150.216.162.bc.googleusercontent.com
 154.78.116.34.bc.googleusercontent.com
 159.210.203.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-208.210.203.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
+247.149.216.162.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
@@ -39,7 +38,6 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler203.deepfield.net
 crawler234.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -62,7 +60,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s40868.vps.hosting
 scan-02m.shadowserver.org
 scan-04c.shadowserver.org
 scan-06a.shadowserver.org
@@ -130,7 +127,6 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
