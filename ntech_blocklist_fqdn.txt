@@ -49,6 +49,7 @@ crawler234.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
+ecs-113-44-65-192.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 ho.probe.onyphe.net
@@ -69,6 +70,7 @@ scan-07d.shadowserver.org
 scan-08d.shadowserver.org
 scan-11i.shadowserver.org
 scan-13c.shadowserver.org
+scan-13n.shadowserver.org
 scan-17g.shadowserver.org
 scan-17o.shadowserver.org
 scan-20j.shadowserver.org
@@ -98,6 +100,7 @@ scan-68-02.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-04.shadowserver.org
 scan-71-00.shadowserver.org
+scan-72-01.shadowserver.org
 scan-72-02.shadowserver.org
 scan-73-07.shadowserver.org
 scan-75-06.shadowserver.org
@@ -107,14 +110,17 @@ scan-77-04.shadowserver.org
 scan-78-04.shadowserver.org
 scan-78-09.shadowserver.org
 scan-79-07.shadowserver.org
+scan-79-08.shadowserver.org
 scan-80-0.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-1.shadowserver.org
 scan-82-3.shadowserver.org
 scan-82-8.shadowserver.org
 scan-84-1.shadowserver.org
+scan-84-6.shadowserver.org
 scan-84-7.shadowserver.org
 scan-84-9.shadowserver.org
+scan-85-9.shadowserver.org
 scan-86-0.shadowserver.org
 scan-86-3.shadowserver.org
 scan-87-3.shadowserver.org
