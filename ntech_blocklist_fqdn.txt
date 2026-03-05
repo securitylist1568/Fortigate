@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 124-8-182-41.dynamic.tfn.net.tw
 131.150.216.162.bc.googleusercontent.com
+144.210.203.35.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
 159.210.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
@@ -35,6 +36,7 @@
 34.150.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
+55.21.103.khetanisp.com
 56.210.203.35.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 70.210.203.35.bc.googleusercontent.com
@@ -76,6 +78,7 @@ scan-17g.shadowserver.org
 scan-17o.shadowserver.org
 scan-20j.shadowserver.org
 scan-37e.shadowserver.org
+scan-39f.shadowserver.org
 scan-39l.shadowserver.org
 scan-40d.shadowserver.org
 scan-40e.shadowserver.org
@@ -105,6 +108,7 @@ scan-71-00.shadowserver.org
 scan-72-01.shadowserver.org
 scan-72-02.shadowserver.org
 scan-73-07.shadowserver.org
+scan-75-03.shadowserver.org
 scan-75-06.shadowserver.org
 scan-76-04.shadowserver.org
 scan-77-03.shadowserver.org
@@ -114,6 +118,7 @@ scan-78-09.shadowserver.org
 scan-79-07.shadowserver.org
 scan-79-08.shadowserver.org
 scan-80-0.shadowserver.org
+scan-80-8.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-1.shadowserver.org
 scan-82-3.shadowserver.org
@@ -125,6 +130,7 @@ scan-84-9.shadowserver.org
 scan-85-9.shadowserver.org
 scan-86-0.shadowserver.org
 scan-86-3.shadowserver.org
+scan-86-8.shadowserver.org
 scan-87-3.shadowserver.org
 scan-89-9.shadowserver.org
 scan-90-1.shadowserver.org
