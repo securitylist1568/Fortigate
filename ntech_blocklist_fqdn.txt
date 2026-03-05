@@ -45,6 +45,7 @@
 51-158-144-234.rev.poneytelecom.eu
 55.211.203.35.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
+6682-315a.jnb01.za.misaka.io
 71.149.216.162.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
