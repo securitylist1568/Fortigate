@@ -23,6 +23,7 @@
 125-227-237-177.hinet-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
 131.0.245.253.core3.com.br
+131.150.216.162.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 172-232-108-36.ip.linodeusercontent.com
