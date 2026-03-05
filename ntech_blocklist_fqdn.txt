@@ -40,6 +40,7 @@
 43.210.203.35.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
+70.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -76,6 +77,7 @@ scan-17o.shadowserver.org
 scan-39l.shadowserver.org
 scan-41n.shadowserver.org
 scan-44e.shadowserver.org
+scan-45n.shadowserver.org
 scan-57e.shadowserver.org
 scan-60-11.shadowserver.org
 scan-61-1.shadowserver.org
