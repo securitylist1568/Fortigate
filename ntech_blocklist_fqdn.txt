@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+102-213-6-53.rackzar.com
 106.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -29,10 +30,12 @@
 176.65.149.43.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 193.150.216.162.bc.googleusercontent.com
+203.219.34.34.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 38.150.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
+40.150.216.162.bc.googleusercontent.com
 45-79-134-5.ip.linodeusercontent.com
 5.210.203.35.bc.googleusercontent.com
 55.21.103.khetanisp.com
