@@ -37,6 +37,7 @@
 6.210.203.35.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
 62-210-113-114.rev.poneytelecom.eu
+66.149.216.162.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg4e0317.stretchoid.com
