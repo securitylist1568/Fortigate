@@ -31,14 +31,12 @@
 205.210.203.35.bc.googleusercontent.com
 242.149.216.162.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
-29.149.216.162.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 61-227-230-173.dynamic-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-cm203-168-227-68.hkcable.com.hk
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
@@ -89,7 +87,6 @@ scan-83-1.shadowserver.org
 scan-85-6.shadowserver.org
 scan-86-3.shadowserver.org
 scan-87-2.shadowserver.org
-scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
