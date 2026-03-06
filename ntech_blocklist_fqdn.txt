@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+135.210.203.35.bc.googleusercontent.com
 155.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ ec2-54-224-230-196.compute-1.amazonaws.com
 ec2-54-87-129-145.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host.sintesa.peninsula.hotel
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
 ip29.sudolio.io
@@ -69,6 +71,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.org
 scan-42k.shadowserver.org
+scan-52n.shadowserver.org
 scan-61-8.shadowserver.org
 scan-66-10.shadowserver.org
 scan-69-01.shadowserver.org
