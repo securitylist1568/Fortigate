@@ -22,6 +22,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 184.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+198-12-115-30-host.colocrossing.com
 203-74-130-205.hinet-ip.hinet.net
 203.219.34.34.bc.googleusercontent.com
 203.6.30.34.bc.googleusercontent.com
@@ -123,6 +124,7 @@ azpdesnc4dwz.stretchoid.com
 azpdeso2sg7e.stretchoid.com
 azpdesse7lkp.stretchoid.com
 azpdeswfqr02.stretchoid.com
+azpdsg14kxu1.stretchoid.com
 azpdsg1cjmrb.stretchoid.com
 azpdsg29pwak.stretchoid.com
 azpdsg2kdw0r.stretchoid.com
@@ -231,6 +233,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-07e.shadowserver.org
 scan-09b.shadowserver.org
+scan-10n.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
 scan-14b.shadowserver.org
@@ -257,6 +260,7 @@ scan-70-02.shadowserver.org
 scan-72-03.shadowserver.org
 scan-72-08.shadowserver.org
 scan-73-04.shadowserver.org
+scan-73-05.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-07.shadowserver.org
 scan-81-6.shadowserver.org
