@@ -24,6 +24,7 @@
 149.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
+180.149.216.162.bc.googleusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-12-115-30-host.colocrossing.com
@@ -321,6 +322,7 @@ scan.visionheight.com
 security.criminalip.com
 shiireichiba.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.188.69.159.clients.your-server.de
 user-170-39-224-220.iad03.us.misaka.io
