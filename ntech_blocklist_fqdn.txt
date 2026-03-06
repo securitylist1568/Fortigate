@@ -24,6 +24,7 @@
 176.65.148.92.ptr.pfcloud.network
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
+203.219.34.34.bc.googleusercontent.com
 203.6.30.34.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
 242.149.216.162.bc.googleusercontent.com
