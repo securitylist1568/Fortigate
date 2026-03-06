@@ -39,6 +39,7 @@ hn.kd.ny.adsl
 host.sintesa.peninsula.hotel
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
+ip13.ip-15-204-54.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
@@ -49,6 +50,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01j.shadowserver.org
+scan-18e.shadowserver.org
+scan-19n.shadowserver.org
+scan-37e.shadowserver.org
 scan-40g.shadowserver.org
 scan-42k.shadowserver.org
 scan-48c.shadowserver.org
@@ -56,14 +60,18 @@ scan-52n.shadowserver.org
 scan-56.security.ipip.net
 scan-61-8.shadowserver.org
 scan-66-10.shadowserver.org
+scan-67-5.shadowserver.org
 scan-68-01.shadowserver.org
 scan-68-02.shadowserver.org
 scan-69-01.shadowserver.org
+scan-69-02.shadowserver.org
 scan-70-04.shadowserver.org
 scan-70-07.shadowserver.org
 scan-71-00.shadowserver.org
+scan-72-06.shadowserver.org
 scan-80-1.shadowserver.org
 scan-80-4.shadowserver.org
+scan-80-5.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-9.shadowserver.org
 scan-90-5.shadowserver.org
