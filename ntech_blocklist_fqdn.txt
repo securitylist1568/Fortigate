@@ -21,13 +21,10 @@
 155.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
-192.149.216.162.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
-229.149.216.162.bc.googleusercontent.com
 241.150.216.162.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
-51-158-144-234.rev.poneytelecom.eu
-6682-315a.jnb01.za.misaka.io
+775c2ff4-9f6f-43f2-b094-77f464fe0fac.moveworkers
 88.149.216.162.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -59,7 +56,6 @@ ec2-54-166-171-16.compute-1.amazonaws.com
 ec2-54-210-130-186.compute-1.amazonaws.com
 ec2-54-224-230-196.compute-1.amazonaws.com
 ec2-54-87-129-145.compute-1.amazonaws.com
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -86,4 +82,3 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vi02.mardi.life
