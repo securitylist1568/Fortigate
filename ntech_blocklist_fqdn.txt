@@ -177,6 +177,7 @@ azpdsgpb3ph1.stretchoid.com
 azpdsgpj6eu3.stretchoid.com
 azpdsgqg0cfh.stretchoid.com
 azpdsgqh1wex.stretchoid.com
+azpdsgqlmhw6.stretchoid.com
 azpdsgqlq4nv.stretchoid.com
 azpdsgqt0cpm.stretchoid.com
 azpdsgrkwm75.stretchoid.com
@@ -264,6 +265,7 @@ scan-11n.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
 scan-14b.shadowserver.org
+scan-14l.shadowserver.org
 scan-20f.shadowserver.org
 scan-39e.shadowserver.org
 scan-39i.shadowserver.org
@@ -284,10 +286,14 @@ scan-60-5.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-1.shadowserver.org
 scan-61-10.shadowserver.org
+scan-62-11.shadowserver.org
 scan-62-12.shadowserver.org
 scan-62-2.shadowserver.org
 scan-63-6.shadowserver.org
 scan-63-8.shadowserver.org
+scan-63-9.shadowserver.org
+scan-64-5.shadowserver.org
+scan-65-3.shadowserver.org
 scan-67-11.shadowserver.org
 scan-67-3.shadowserver.org
 scan-67-7.shadowserver.org
@@ -305,6 +311,7 @@ scan-81-6.shadowserver.org
 scan-82-0.shadowserver.org
 scan-86-2.shadowserver.org
 scan-87-2.shadowserver.org
+scan-88-3.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-3.shadowserver.org
 scan-90-5.shadowserver.org
