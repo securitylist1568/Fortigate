@@ -34,9 +34,12 @@
 198.211.203.35.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
 21.211.203.35.bc.googleusercontent.com
+23-168-136-153.rev.circlevps.net
 24.150.216.162.bc.googleusercontent.com
+241.150.216.162.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
+51.210.203.35.bc.googleusercontent.com
 55.25.180.34.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
 62-210-113-121.rev.poneytelecom.eu
@@ -70,6 +73,7 @@ ec2-54-147-154-147.compute-1.amazonaws.com
 ec2-54-164-46-48.compute-1.amazonaws.com
 ec2-54-83-113-196.compute-1.amazonaws.com
 ec2-54-89-106-110.compute-1.amazonaws.com
+ecs-116-204-38-189.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
