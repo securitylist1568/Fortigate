@@ -23,16 +23,19 @@
 146.211.203.35.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-12-115-30-host.colocrossing.com
 209.210.203.35.bc.googleusercontent.com
+24.150.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 6.210.203.35.bc.googleusercontent.com
 62-210-113-114.rev.poneytelecom.eu
+96.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg4e0317.stretchoid.com
 azpdcg6404a9.stretchoid.com
@@ -328,6 +331,7 @@ scan-89-3.shadowserver.org
 scan-90-5.shadowserver.org
 scan-90-9.shadowserver.org
 scan.visionheight.com
+security.criminalip.com
 shiireichiba.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
