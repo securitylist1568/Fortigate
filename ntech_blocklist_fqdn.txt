@@ -19,7 +19,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.210.203.35.bc.googleusercontent.com
+113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 114.149.216.162.bc.googleusercontent.com
+115.197.124.34.bc.googleusercontent.com
 121.149.216.162.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
@@ -29,10 +31,12 @@
 172-232-32-15.ip.linodeusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+206.150.216.162.bc.googleusercontent.com
 21.211.203.35.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
+55.25.180.34.bc.googleusercontent.com
 6.210.203.35.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
 62-210-113-121.rev.poneytelecom.eu
@@ -41,6 +45,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler129.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 domain.com
@@ -68,6 +73,7 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.188.69.159.clients.your-server.de
 static.bb.ctk.117.247.251.95.bsnl.in
+user-209-209-59-230.lax02.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 vlan14.as01.wco1.sg.m247.com
