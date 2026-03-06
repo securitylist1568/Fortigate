@@ -20,9 +20,11 @@
 117.149.216.162.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
+180.211.203.35.bc.googleusercontent.com
 184.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-12-115-30-host.colocrossing.com
+209.210.203.35.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
@@ -99,6 +101,7 @@ azpdcsoltzol.stretchoid.com
 azpdcsosbqvf.stretchoid.com
 azpdcspjkw7h.stretchoid.com
 azpdcsqawf52.stretchoid.com
+azpdcsqg4fq5.stretchoid.com
 azpdcsqiwf5x.stretchoid.com
 azpdcss00q4u.stretchoid.com
 azpdcsso4m9b.stretchoid.com
@@ -264,8 +267,10 @@ scan-10n.shadowserver.org
 scan-11n.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
+scan-13n.shadowserver.org
 scan-14b.shadowserver.org
 scan-14l.shadowserver.org
+scan-17i.shadowserver.org
 scan-20f.shadowserver.org
 scan-39e.shadowserver.org
 scan-39i.shadowserver.org
@@ -279,6 +284,7 @@ scan-45f.shadowserver.org
 scan-47b.shadowserver.org
 scan-47f.shadowserver.org
 scan-47h.shadowserver.org
+scan-48f.shadowserver.org
 scan-48l.shadowserver.org
 scan-49f.shadowserver.org
 scan-59a.shadowserver.org
@@ -311,6 +317,7 @@ scan-81-6.shadowserver.org
 scan-82-0.shadowserver.org
 scan-86-2.shadowserver.org
 scan-87-2.shadowserver.org
+scan-87-7.shadowserver.org
 scan-88-3.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-3.shadowserver.org
