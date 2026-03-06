@@ -1,4 +1,3 @@
-031-047-087-243.cust.tk-bodensee.net
 1-34-13-89.hinet-ip.hinet.net
 101.211.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
@@ -29,9 +28,7 @@
 165.150.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 180.149.216.162.bc.googleusercontent.com
-180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-209.210.203.35.bc.googleusercontent.com
 21.211.203.35.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
@@ -42,8 +39,6 @@
 66.149.216.162.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcsqg4fq5.stretchoid.com
-azpdsgqlmhw6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -66,23 +61,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-13n.shadowserver.org
-scan-14l.shadowserver.org
-scan-17i.shadowserver.org
-scan-37e.shadowserver.org
-scan-48f.shadowserver.org
-scan-62-11.shadowserver.org
-scan-63-9.shadowserver.org
-scan-64-5.shadowserver.org
-scan-65-3.shadowserver.org
-scan-66-13.shadowserver.org
-scan-75-06.shadowserver.org
-scan-76-08.shadowserver.org
-scan-79-02.shadowserver.org
-scan-79-08.shadowserver.org
-scan-85-3.shadowserver.org
-scan-87-7.shadowserver.org
-scan-88-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
