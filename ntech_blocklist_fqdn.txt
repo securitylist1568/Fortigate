@@ -28,6 +28,8 @@
 209.210.203.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
+45.149.216.162.bc.googleusercontent.com
+5.149.216.162.bc.googleusercontent.com
 6.210.203.35.bc.googleusercontent.com
 62-210-113-114.rev.poneytelecom.eu
 amz.unixwiz.net
@@ -251,6 +253,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-58.4vendeta.com
 ip250.21.52.176.kzn.tbt.ru
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
@@ -331,4 +334,5 @@ static.208.188.69.159.clients.your-server.de
 user-170-39-224-220.iad03.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
+vlan14.as01.wco1.sg.m247.com
 vmi3127643.contaboserver.net
