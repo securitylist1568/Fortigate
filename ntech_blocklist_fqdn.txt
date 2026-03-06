@@ -24,8 +24,6 @@
 115.197.124.34.bc.googleusercontent.com
 121.149.216.162.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
-149.149.216.162.bc.googleusercontent.com
-149.210.203.35.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 165.150.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
@@ -39,7 +37,6 @@
 45.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 55.25.180.34.bc.googleusercontent.com
-6.210.203.35.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
 62-210-113-121.rev.poneytelecom.eu
 66.149.216.162.bc.googleusercontent.com
@@ -53,10 +50,8 @@ dns12.online.tj.cn
 domain.com
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
-h-85-24-194-91.na.cust.bahnhof.se
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip250.21.52.176.kzn.tbt.ru
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 lctsaa-ab-in-f14.1e100.net
@@ -67,15 +62,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s4850.vps.hosting
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.208.188.69.159.clients.your-server.de
 static.bb.ctk.117.247.251.95.bsnl.in
 user-209-209-59-230.lax02.us.misaka.io
-user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 vlan14.as01.wco1.sg.m247.com
