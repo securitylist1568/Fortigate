@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 106.210.203.35.bc.googleusercontent.com
-106.211.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -25,7 +24,6 @@
 176.65.148.92.ptr.pfcloud.network
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
-195.150.216.162.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
 242.149.216.162.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
@@ -35,7 +33,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 cm203-168-227-68.hkcable.com.hk
-d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
@@ -43,7 +40,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host.sintesa.peninsula.hotel
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-138.4vendeta.com
 ip13.ip-15-204-54.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -60,7 +56,6 @@ scan-18e.shadowserver.org
 scan-19n.shadowserver.org
 scan-37e.shadowserver.org
 scan-40g.shadowserver.org
-scan-42k.shadowserver.org
 scan-48c.shadowserver.org
 scan-52n.shadowserver.org
 scan-56.security.ipip.net
@@ -79,7 +74,6 @@ scan-71-02.shadowserver.org
 scan-72-06.shadowserver.org
 scan-76-02.shadowserver.org
 scan-79-03.shadowserver.org
-scan-80-1.shadowserver.org
 scan-80-4.shadowserver.org
 scan-80-5.shadowserver.org
 scan-81-7.shadowserver.org
