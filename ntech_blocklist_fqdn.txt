@@ -33,6 +33,7 @@ client.yota.ru
 cm203-168-227-68.hkcable.com.hk
 d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
+ded121318.smartservers.com.au
 dns12.online.tj.cn
 ec2-13-218-248-208.compute-1.amazonaws.com
 ec2-18-206-155-20.compute-1.amazonaws.com
