@@ -56,6 +56,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01j.shadowserver.org
 scan-05j.shadowserver.org
+scan-09b.shadowserver.org
 scan-18e.shadowserver.org
 scan-19n.shadowserver.org
 scan-37e.shadowserver.org
@@ -64,6 +65,7 @@ scan-49k.shadowserver.org
 scan-52n.shadowserver.org
 scan-56.security.ipip.net
 scan-56m.shadowserver.org
+scan-62-2.shadowserver.org
 scan-67-5.shadowserver.org
 scan-68-01.shadowserver.org
 scan-68-02.shadowserver.org
