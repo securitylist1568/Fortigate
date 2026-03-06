@@ -23,6 +23,7 @@
 190.149.216.162.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
 241.150.216.162.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
 775c2ff4-9f6f-43f2-b094-77f464fe0fac.moveworkers
 88.149.216.162.bc.googleusercontent.com
@@ -31,6 +32,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
+cm203-168-227-68.hkcable.com.hk
 d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
