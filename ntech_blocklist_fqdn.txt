@@ -21,6 +21,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 135.210.203.35.bc.googleusercontent.com
 154.78.116.34.bc.googleusercontent.com
+176.65.148.37.ptr.pfcloud.network
+176.65.148.92.ptr.pfcloud.network
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
@@ -28,6 +30,7 @@
 242.149.216.162.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
+58.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -52,6 +55,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01j.shadowserver.org
+scan-05j.shadowserver.org
 scan-18e.shadowserver.org
 scan-19n.shadowserver.org
 scan-37e.shadowserver.org
