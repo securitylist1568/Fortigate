@@ -47,6 +47,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip13.ip-15-204-54.us
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
 no-mans-land.m247.com
@@ -56,6 +57,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01j.shadowserver.org
 scan-05j.shadowserver.org
+scan-07e.shadowserver.org
 scan-09b.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
@@ -64,7 +66,9 @@ scan-19n.shadowserver.org
 scan-37e.shadowserver.org
 scan-39i.shadowserver.org
 scan-40l.shadowserver.org
+scan-41m.shadowserver.org
 scan-42c.shadowserver.org
+scan-45f.shadowserver.org
 scan-47b.shadowserver.org
 scan-47f.shadowserver.org
 scan-49f.shadowserver.org
@@ -79,6 +83,7 @@ scan-67-5.shadowserver.org
 scan-68-01.shadowserver.org
 scan-68-02.shadowserver.org
 scan-69-02.shadowserver.org
+scan-69-04.shadowserver.org
 scan-70-02.shadowserver.org
 scan-70-04.shadowserver.org
 scan-71-00.shadowserver.org
@@ -92,6 +97,7 @@ scan-80-5.shadowserver.org
 scan-81-6.shadowserver.org
 scan-83-1.shadowserver.org
 scan-85-6.shadowserver.org
+scan-86-2.shadowserver.org
 scan-86-3.shadowserver.org
 scan-87-2.shadowserver.org
 security.criminalip.com
