@@ -20,8 +20,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.211.203.35.bc.googleusercontent.com
 123.150.216.162.bc.googleusercontent.com
+163.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190-228-118-154.eganet.go.tz
+20.211.203.35.bc.googleusercontent.com
 203.6.30.34.bc.googleusercontent.com
 220-136-150-147.dynamic-ip.hinet.net
 228.150.216.162.bc.googleusercontent.com
@@ -40,11 +42,13 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+ded121318.smartservers.com.au
 dns12.online.tj.cn
 domain.com
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
@@ -52,6 +56,7 @@ festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+huma.probe.onyphe.net
 ip29.sudolio.io
 mail.suporte.pro.br
 mfyabgec.musicpda.com
