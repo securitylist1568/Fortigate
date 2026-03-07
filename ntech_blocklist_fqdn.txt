@@ -51,6 +51,7 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-3-237-6-173.compute-1.amazonaws.com
+ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
@@ -58,9 +59,11 @@ festa04.jcatransporte.com.br
 h-85-24-194-91.na.cust.bahnhof.se
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip13.ip-15-204-54.us
 ip217-160-20-88.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+mx2.zeelandnet.nl
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 peters.probe.onyphe.net
