@@ -31,6 +31,7 @@
 36-233-91-34.dynamic-ip.hinet.net
 51-158-144-234.rev.poneytelecom.eu
 52.210.203.35.bc.googleusercontent.com
+55.25.180.34.bc.googleusercontent.com
 59.210.203.35.bc.googleusercontent.com
 60-250-140-251.hinet-ip.hinet.net
 61.84.35.34.bc.googleusercontent.com
