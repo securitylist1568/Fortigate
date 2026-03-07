@@ -19,18 +19,15 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.210.203.35.bc.googleusercontent.com
 115.197.124.34.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
 123.150.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
-145.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198.211.203.35.bc.googleusercontent.com
 203.6.30.34.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
-21.211.203.35.bc.googleusercontent.com
 220-136-150-147.dynamic-ip.hinet.net
 228.150.216.162.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
@@ -79,7 +76,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip171.ip-51-161-45.net
 ip29.sudolio.io
-li1972-67.members.linode.com
+mail.suporte.pro.br
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 mx2.zeelandnet.nl
@@ -111,7 +108,6 @@ security.criminalip.com
 simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.bb.ctk.117.247.251.95.bsnl.in
 teddy.probe.onyphe.net
 user-170-39-227-251.sea02.us.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
