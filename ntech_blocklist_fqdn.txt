@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.197.124.34.bc.googleusercontent.com
-123.150.216.162.bc.googleusercontent.com
 163.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190-228-118-154.eganet.go.tz
@@ -48,7 +47,6 @@ coinspe.com
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
-ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
@@ -61,10 +59,8 @@ htb-h9b8tjwfph.htb-cloud.com
 huma.probe.onyphe.net
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-mail.suporte.pro.br
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-mx2.zeelandnet.nl
 ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -115,4 +111,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
-vlan14.as01.wco1.sg.m247.com
