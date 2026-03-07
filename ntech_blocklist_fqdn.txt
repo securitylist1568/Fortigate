@@ -34,6 +34,7 @@
 55.25.180.34.bc.googleusercontent.com
 67.149.216.162.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
+85.149.216.162.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 89.150.216.162.bc.googleusercontent.com
 94.149.216.162.bc.googleusercontent.com
@@ -115,5 +116,6 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.249.88.167.89.clients.your-server.de
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
