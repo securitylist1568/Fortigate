@@ -4,6 +4,7 @@
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
+111-240-148-232.dynamic-ip.hinet.net
 111-240-157-45.dynamic-ip.hinet.net
 111-240-16-194.dynamic-ip.hinet.net
 111-240-19-26.dynamic-ip.hinet.net
@@ -30,14 +31,11 @@
 213.210.203.35.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 220-136-150-147.dynamic-ip.hinet.net
-227.150.216.162.bc.googleusercontent.com
-230.211.203.35.bc.googleusercontent.com
 232.149.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 31.210.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
-54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
 67.149.216.162.bc.googleusercontent.com
 85.149.216.162.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
@@ -49,7 +47,6 @@ amz.unixwiz.net
 ayse.probe.onyphe.net
 b2.org.afilias-nst.org
 client.yota.ru
-coinspe.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
@@ -70,7 +67,6 @@ peters.probe.onyphe.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04c.shadowserver.org
 scan-05f.shadowserver.org
 scan-05j.shadowserver.org
 scan-08g.shadowserver.org
@@ -94,7 +90,6 @@ scan-46h.shadowserver.org
 scan-46n.shadowserver.org
 scan-47k.shadowserver.org
 scan-48e.shadowserver.org
-scan-48i.shadowserver.org
 scan-49f.shadowserver.org
 scan-49k.shadowserver.org
 scan-52l.shadowserver.org
@@ -149,6 +144,5 @@ shiireichiba.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.249.88.167.89.clients.your-server.de
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vi02.mardi.life
