@@ -62,6 +62,7 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 ns569611.ip-51-79-77.net
+panel.czbd.dev
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
