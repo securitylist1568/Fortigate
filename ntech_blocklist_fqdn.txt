@@ -36,8 +36,10 @@
 23.210.203.35.bc.googleusercontent.com
 241.150.216.162.bc.googleusercontent.com
 250.211.203.35.bc.googleusercontent.com
+51-158-144-234.rev.poneytelecom.eu
 51.210.203.35.bc.googleusercontent.com
 55.25.180.34.bc.googleusercontent.com
+59.210.203.35.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -82,6 +84,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-12m.shadowserver.org
 scan-37o.shadowserver.org
 scan-39f.shadowserver.org
 scan-44e.shadowserver.org
