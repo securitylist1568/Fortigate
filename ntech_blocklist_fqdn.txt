@@ -21,6 +21,7 @@
 115.197.124.34.bc.googleusercontent.com
 173.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+216.150.216.162.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
@@ -41,6 +42,7 @@ coinspe.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
@@ -64,6 +66,7 @@ scan-11e.shadowserver.org
 scan-17g.shadowserver.org
 scan-41m.shadowserver.org
 scan-42f.shadowserver.org
+scan-42j.shadowserver.org
 scan-43m.shadowserver.org
 scan-45f.shadowserver.org
 scan-46h.shadowserver.org
@@ -75,6 +78,7 @@ scan-56i.shadowserver.org
 scan-59m.shadowserver.org
 scan-60-13.shadowserver.org
 scan-61-9.shadowserver.org
+scan-63-0.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-5.shadowserver.org
 scan-64-12.shadowserver.org
