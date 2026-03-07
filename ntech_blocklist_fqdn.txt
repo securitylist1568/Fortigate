@@ -35,6 +35,7 @@
 61.84.35.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 76.211.203.35.bc.googleusercontent.com
+78.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
