@@ -23,6 +23,7 @@
 123.150.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+190-228-118-154.eganet.go.tz
 203.6.30.34.bc.googleusercontent.com
 220-136-150-147.dynamic-ip.hinet.net
 228.150.216.162.bc.googleusercontent.com
