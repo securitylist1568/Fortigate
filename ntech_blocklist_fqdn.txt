@@ -27,6 +27,7 @@
 20.211.203.35.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
+252.210.203.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 31.210.203.35.bc.googleusercontent.com
 36-233-91-34.dynamic-ip.hinet.net
@@ -38,6 +39,7 @@
 76.211.203.35.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 89.150.216.162.bc.googleusercontent.com
+94.149.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
@@ -47,6 +49,7 @@ coinspe.com
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
+ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
