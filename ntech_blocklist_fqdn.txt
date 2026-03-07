@@ -34,6 +34,7 @@
 36-233-91-34.dynamic-ip.hinet.net
 51-158-144-234.rev.poneytelecom.eu
 51.210.203.35.bc.googleusercontent.com
+52.210.203.35.bc.googleusercontent.com
 59.210.203.35.bc.googleusercontent.com
 61.84.35.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -69,6 +70,7 @@ ec2-54-147-154-147.compute-1.amazonaws.com
 ec2-54-164-46-48.compute-1.amazonaws.com
 ec2-54-83-113-196.compute-1.amazonaws.com
 ec2-54-89-106-110.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 ecs-116-204-38-189.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
