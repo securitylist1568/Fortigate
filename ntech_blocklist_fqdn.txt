@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.197.124.34.bc.googleusercontent.com
+135.211.203.35.bc.googleusercontent.com
 173.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 216.150.216.162.bc.googleusercontent.com
@@ -36,6 +37,7 @@
 94.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
+ayse.probe.onyphe.net
 b2.org.afilias-nst.org
 client.yota.ru
 coinspe.com
@@ -59,6 +61,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04c.shadowserver.org
 scan-05f.shadowserver.org
+scan-05j.shadowserver.org
 scan-08g.shadowserver.org
 scan-09f.shadowserver.org
 scan-09o.shadowserver.org
@@ -70,6 +73,7 @@ scan-42j.shadowserver.org
 scan-43m.shadowserver.org
 scan-45f.shadowserver.org
 scan-46h.shadowserver.org
+scan-46n.shadowserver.org
 scan-47k.shadowserver.org
 scan-48e.shadowserver.org
 scan-48i.shadowserver.org
@@ -90,7 +94,9 @@ scan-67-9.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-01.shadowserver.org
 scan-72-09.shadowserver.org
+scan-74-09.shadowserver.org
 scan-77-05.shadowserver.org
+scan-79-09.shadowserver.org
 scan-81-6.shadowserver.org
 scan-82-6.shadowserver.org
 scan-82-8.shadowserver.org
@@ -100,6 +106,7 @@ scan-85-1.shadowserver.org
 scan-86-3.shadowserver.org
 scan-86-6.shadowserver.org
 scan-87-5.shadowserver.org
+scan-87-8.shadowserver.org
 scan-88-2.shadowserver.org
 scan-88-5.shadowserver.org
 scan-89-3.shadowserver.org
