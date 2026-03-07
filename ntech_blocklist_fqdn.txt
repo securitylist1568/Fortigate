@@ -69,6 +69,7 @@ ec2-54-83-113-196.compute-1.amazonaws.com
 ec2-54-89-106-110.compute-1.amazonaws.com
 ecs-116-204-38-189.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip171.ip-51-161-45.net
@@ -81,9 +82,18 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-39f.shadowserver.org
+scan-44k.shadowserver.org
 scan-58.security.ipip.net
+scan-60-1.shadowserver.org
 scan-69-04.shadowserver.org
 scan-75-06.shadowserver.org
+scan-75-09.shadowserver.org
+scan-79-07.shadowserver.org
+scan-82-1.shadowserver.org
+scan-83-4.shadowserver.org
+scan-86-2.shadowserver.org
+scan-87-8.shadowserver.org
 security.criminalip.com
 simspice.com
 smtp1.telemach.net
@@ -93,3 +103,4 @@ teddy.probe.onyphe.net
 user-170-39-227-251.sea02.us.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
+vmi2713200.contaboserver.net
