@@ -106,6 +106,7 @@ scan-87-8.shadowserver.org
 scan-89-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vlan14.as01.wco1.sg.m247.com
 vmi2713200.contaboserver.net
