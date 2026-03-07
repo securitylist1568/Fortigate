@@ -82,11 +82,14 @@ scan-51k.shadowserver.org
 scan-52l.shadowserver.org
 scan-56f.shadowserver.org
 scan-58.security.ipip.net
+scan-59m.shadowserver.org
 scan-60-1.shadowserver.org
 scan-60-10.shadowserver.org
 scan-64-4.shadowserver.org
+scan-65-13.shadowserver.org
 scan-66-5.shadowserver.org
 scan-66-8.shadowserver.org
+scan-67-3.shadowserver.org
 scan-68-03.shadowserver.org
 scan-69-01.shadowserver.org
 scan-69-04.shadowserver.org
@@ -106,6 +109,7 @@ scan-86-2.shadowserver.org
 scan-86-5.shadowserver.org
 scan-87-5.shadowserver.org
 scan-87-8.shadowserver.org
+scan-89-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
