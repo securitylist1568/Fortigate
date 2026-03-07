@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+115.197.124.34.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
 123.150.216.162.bc.googleusercontent.com
 163.211.203.35.bc.googleusercontent.com
@@ -25,9 +26,7 @@
 190-228-118-154.eganet.go.tz
 197.150.216.162.bc.googleusercontent.com
 20.211.203.35.bc.googleusercontent.com
-203.6.30.34.bc.googleusercontent.com
 220-136-150-147.dynamic-ip.hinet.net
-250.211.203.35.bc.googleusercontent.com
 36-233-91-34.dynamic-ip.hinet.net
 51-158-144-234.rev.poneytelecom.eu
 52.210.203.35.bc.googleusercontent.com
@@ -35,7 +34,6 @@
 59.210.203.35.bc.googleusercontent.com
 60-250-140-251.hinet-ip.hinet.net
 61.84.35.34.bc.googleusercontent.com
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 76.211.203.35.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -45,10 +43,8 @@ client.yota.ru
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
-domain.com
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
-ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
@@ -82,7 +78,6 @@ scan-50g.shadowserver.org
 scan-51k.shadowserver.org
 scan-52l.shadowserver.org
 scan-56f.shadowserver.org
-scan-58.security.ipip.net
 scan-59m.shadowserver.org
 scan-60-1.shadowserver.org
 scan-60-10.shadowserver.org
@@ -93,10 +88,8 @@ scan-66-8.shadowserver.org
 scan-67-3.shadowserver.org
 scan-68-03.shadowserver.org
 scan-69-01.shadowserver.org
-scan-69-04.shadowserver.org
 scan-74-05.shadowserver.org
 scan-74-08.shadowserver.org
-scan-75-06.shadowserver.org
 scan-75-09.shadowserver.org
 scan-76-05.shadowserver.org
 scan-78-02.shadowserver.org
