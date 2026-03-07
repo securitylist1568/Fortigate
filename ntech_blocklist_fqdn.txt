@@ -49,6 +49,7 @@ amz.unixwiz.net
 ayse.probe.onyphe.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler122.deepfield.net
 crawler154.deepfield.net
 crawler250.deepfield.net
 dal215.hawkhost.com
