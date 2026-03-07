@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 103.210.203.35.bc.googleusercontent.com
+109.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -28,6 +29,7 @@
 227.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
+31.210.203.35.bc.googleusercontent.com
 36-233-91-34.dynamic-ip.hinet.net
 52.210.203.35.bc.googleusercontent.com
 54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
@@ -76,12 +78,14 @@ scan-45k.shadowserver.org
 scan-48e.shadowserver.org
 scan-48f.shadowserver.org
 scan-48i.shadowserver.org
+scan-49f.shadowserver.org
 scan-49l.shadowserver.org
 scan-49n.shadowserver.org
 scan-50g.shadowserver.org
 scan-51k.shadowserver.org
 scan-52l.shadowserver.org
 scan-56f.shadowserver.org
+scan-56i.shadowserver.org
 scan-59m.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-13.shadowserver.org
@@ -106,6 +110,7 @@ scan-85-2.shadowserver.org
 scan-85-6.shadowserver.org
 scan-86-6.shadowserver.org
 scan-89-7.shadowserver.org
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-243-128.iev01.ua.misaka.io
