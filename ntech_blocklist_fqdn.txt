@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 135.211.203.35.bc.googleusercontent.com
+170.211.203.35.bc.googleusercontent.com
 173.210.203.35.bc.googleusercontent.com
 173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
@@ -97,13 +98,16 @@ scan-63-10.shadowserver.org
 scan-63-5.shadowserver.org
 scan-64-12.shadowserver.org
 scan-66-12.shadowserver.org
+scan-67-12.shadowserver.org
 scan-67-7.shadowserver.org
 scan-67-9.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-01.shadowserver.org
+scan-71-06.shadowserver.org
 scan-72-09.shadowserver.org
 scan-73-07.shadowserver.org
 scan-74-09.shadowserver.org
+scan-75-09.shadowserver.org
 scan-77-05.shadowserver.org
 scan-78-06.shadowserver.org
 scan-79-00.shadowserver.org
