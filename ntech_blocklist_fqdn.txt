@@ -26,6 +26,7 @@
 170.211.203.35.bc.googleusercontent.com
 173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
+185.150.216.162.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
@@ -48,6 +49,7 @@ amz.unixwiz.net
 ayse.probe.onyphe.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler154.deepfield.net
 crawler250.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
