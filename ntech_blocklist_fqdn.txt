@@ -64,6 +64,7 @@ ec2-3-91-205-122.compute-1.amazonaws.com
 ec2-34-201-44-144.compute-1.amazonaws.com
 ec2-34-229-16-67.compute-1.amazonaws.com
 ec2-44-223-21-182.compute-1.amazonaws.com
+ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-52-90-57-39.compute-1.amazonaws.com
 ec2-54-147-154-147.compute-1.amazonaws.com
 ec2-54-164-46-48.compute-1.amazonaws.com
@@ -76,7 +77,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip171.ip-51-161-45.net
 ip29.sudolio.io
-lctsaa-ab-in-f14.1e100.net
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
@@ -92,6 +92,7 @@ scan-44k.shadowserver.org
 scan-58.security.ipip.net
 scan-60-1.shadowserver.org
 scan-69-04.shadowserver.org
+scan-74-05.shadowserver.org
 scan-74-08.shadowserver.org
 scan-75-06.shadowserver.org
 scan-75-09.shadowserver.org
@@ -113,3 +114,4 @@ user-170-39-227-251.sea02.us.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 vmi2713200.contaboserver.net
+xoobucks.com
