@@ -27,6 +27,7 @@
 20.211.203.35.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
+3.210.203.35.bc.googleusercontent.com
 36-233-91-34.dynamic-ip.hinet.net
 52.210.203.35.bc.googleusercontent.com
 54.236.67.125.broad.gz.sc.dynamic.163data.com.cn
@@ -35,6 +36,7 @@
 61.84.35.34.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
+89.150.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
