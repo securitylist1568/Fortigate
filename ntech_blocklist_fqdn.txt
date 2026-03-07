@@ -22,6 +22,7 @@
 112.210.203.35.bc.googleusercontent.com
 115.197.124.34.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
+123.150.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
@@ -80,6 +81,7 @@ ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+mx2.zeelandnet.nl
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -113,5 +115,6 @@ teddy.probe.onyphe.net
 user-170-39-227-251.sea02.us.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
+vlan14.as01.wco1.sg.m247.com
 vmi2713200.contaboserver.net
 xoobucks.com
