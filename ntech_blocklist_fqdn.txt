@@ -26,6 +26,7 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198.175.125.186.reverse.wowrack.com
+215.210.203.35.bc.googleusercontent.com
 23-94-94-191-host.colocrossing.com
 243.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
@@ -87,6 +88,8 @@ scan-66-11.shadowserver.org
 scan-66-7.shadowserver.org
 scan-67-13.shadowserver.org
 scan-67-2.shadowserver.org
+scan-67-7.shadowserver.org
+scan-69-03.shadowserver.org
 scan-69-09.shadowserver.org
 scan-71-08.shadowserver.org
 scan-72-02.shadowserver.org
