@@ -42,6 +42,7 @@ client.yota.ru
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
+dsl081-112-056.dfw1.dsl.speakeasy.net
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-35-159-51-131.eu-central-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
@@ -69,6 +70,7 @@ scan-37o.shadowserver.org
 scan-38b.shadowserver.org
 scan-39e.shadowserver.org
 scan-39f.shadowserver.org
+scan-40g.shadowserver.org
 scan-41h.shadowserver.org
 scan-42o.shadowserver.org
 scan-45f.shadowserver.org
@@ -77,6 +79,7 @@ scan-58j.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-3.shadowserver.org
+scan-63-0.shadowserver.org
 scan-63-11.shadowserver.org
 scan-63-5.shadowserver.org
 scan-65-4.shadowserver.org
