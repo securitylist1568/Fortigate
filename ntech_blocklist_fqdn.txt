@@ -50,6 +50,7 @@ pinkytales.com
 prod-nyc3-3.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+santaclara-ca-datacenter.serverpoint.com
 scan-11f.shadowserver.org
 scan-11h.shadowserver.org
 scan-13l.shadowserver.org
