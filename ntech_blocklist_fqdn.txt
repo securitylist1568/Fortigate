@@ -26,6 +26,7 @@
 162.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
+23-94-94-191-host.colocrossing.com
 243.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 36.149.216.162.bc.googleusercontent.com
@@ -40,12 +41,15 @@ customer-187-217-145-140.uninet-ide.com.mx
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
+ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fip-193-166-24-163.kaj.poutavm.fi
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip203.ip-178-32-96.eu
 ip29.sudolio.io
+li1537-121.members.linode.com
+li1992-217.members.linode.com
 m66935.contaboserver.net
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
