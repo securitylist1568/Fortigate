@@ -103,7 +103,6 @@
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
 36.149.216.162.bc.googleusercontent.com
-40.210.203.35.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
 45-33-110-79.ip.linodeusercontent.com
@@ -122,9 +121,6 @@
 82.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 angkor.scan.bufferover.run
-azpdcsnitnw9.stretchoid.com
-azpdsg9upbzz.stretchoid.com
-azpdsgqlq4nv.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 baku.scan.bufferover.run
@@ -146,8 +142,6 @@ fip-193-166-24-163.kaj.poutavm.fi
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-138.4vendeta.com
-ip29.ip-5-135-94.eu
 ip29.sudolio.io
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
@@ -180,7 +174,6 @@ scan-41n.shadowserver.org
 scan-42j.shadowserver.org
 scan-44f.shadowserver.org
 scan-45k.shadowserver.org
-scan-46o.shadowserver.org
 scan-47c.shadowserver.org
 scan-49n.shadowserver.org
 scan-56m.shadowserver.org
@@ -236,4 +229,3 @@ users219.vip.heteml.jp
 vancouver.scan.bufferover.run
 voraciouscracker.ptr.network
 warsaw.scan.bufferover.run
-www.internet-albedo.net
