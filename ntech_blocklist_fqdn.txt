@@ -48,6 +48,7 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-nyc3-3.qencode
@@ -72,6 +73,7 @@ scan-48i.shadowserver.org
 scan-50j.shadowserver.org
 scan-51l.shadowserver.org
 scan-58j.shadowserver.org
+scan-60-7.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-3.shadowserver.org
@@ -101,6 +103,7 @@ scan-83-9.shadowserver.org
 scan-85-8.shadowserver.org
 scan-85-9.shadowserver.org
 scan-86-7.shadowserver.org
+scan-87-4.shadowserver.org
 scan-87-5.shadowserver.org
 scan.visionheight.com
 simspice.com
