@@ -178,4 +178,5 @@ static.vdc.vn
 unn-138-199-53-212.datapacket.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+voraciouscracker.ptr.network
 www.internet-albedo.net
