@@ -100,10 +100,12 @@ scan-74-05.shadowserver.org
 scan-75-01.shadowserver.org
 scan-77-04.shadowserver.org
 scan-78-08.shadowserver.org
+scan-79-05.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-5.shadowserver.org
 scan-83-7.shadowserver.org
 scan-83-9.shadowserver.org
+scan-85-8.shadowserver.org
 scan-85-9.shadowserver.org
 scan-87-5.shadowserver.org
 scan.visionheight.com
