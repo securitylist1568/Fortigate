@@ -24,6 +24,7 @@
 155.150.216.162.bc.googleusercontent.com
 155.211.203.35.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
 23-94-94-191-host.colocrossing.com
@@ -32,6 +33,7 @@
 36.149.216.162.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 60-249-14-121.hinet-ip.hinet.net
+60-250-140-251.hinet-ip.hinet.net
 82.150.216.162.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
