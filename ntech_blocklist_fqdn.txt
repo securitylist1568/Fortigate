@@ -25,6 +25,7 @@
 82.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+circulars.banhkemcantho.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -99,5 +100,6 @@ shiireichiba.com
 simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.164.158.168.204.clients.your-server.de
 static.249.88.167.89.clients.your-server.de
 users219.vip.heteml.jp
