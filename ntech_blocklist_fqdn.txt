@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.149.216.162.bc.googleusercontent.com
 125-227-127-85.hinet-ip.hinet.net
 144.202.83.100.vultrusercontent.com
 15.115.171.34.bc.googleusercontent.com
@@ -28,11 +27,9 @@
 20.210.203.35.bc.googleusercontent.com
 207.67.101.34.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
-234.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
-49.204.132.144.actcorp.in
 52.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg4e0317.stretchoid.com
@@ -114,7 +111,6 @@ azpdssz3m4rc.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 cm203-168-227-68.hkcable.com.hk
-crawler011.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-217-223-172.compute-1.amazonaws.com
@@ -145,16 +141,12 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-58.4vendeta.com
 ip-56-138.4vendeta.com
 ip140.ip-15-204-155.us
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 li1625-135.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -182,6 +174,7 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vdc.vn
 unn-138-199-53-212.datapacket.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
