@@ -57,6 +57,7 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-nyc3-3.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-03c.shadowserver.org
@@ -87,6 +88,7 @@ scan-69-09.shadowserver.org
 scan-71-08.shadowserver.org
 scan-75-01.shadowserver.org
 scan-77-04.shadowserver.org
+scan-78-08.shadowserver.org
 scan-79-04.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-5.shadowserver.org
