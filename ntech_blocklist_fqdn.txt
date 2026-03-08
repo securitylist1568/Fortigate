@@ -242,10 +242,14 @@ scan-20j.shadowserver.org
 scan-36f.shadowserver.org
 scan-36o.shadowserver.org
 scan-41n.shadowserver.org
+scan-42j.shadowserver.org
 scan-45k.shadowserver.org
 scan-46o.shadowserver.org
 scan-47c.shadowserver.org
 scan-49n.shadowserver.org
+scan-56m.shadowserver.org
+scan-57k.shadowserver.org
+scan-61-9.shadowserver.org
 scan-62-12.shadowserver.org
 scan-64-11.shadowserver.org
 scan-64-8.shadowserver.org
