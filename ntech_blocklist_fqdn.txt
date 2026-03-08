@@ -204,6 +204,7 @@ carthage.scan.bufferover.run
 client.yota.ru
 cm203-168-227-68.hkcable.com.hk
 cork.scan.bufferover.run
+customer-187-217-145-140.uninet-ide.com.mx
 dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
@@ -232,6 +233,7 @@ ec2-54-208-124-191.compute-1.amazonaws.com
 ec2-54-234-14-7.compute-1.amazonaws.com
 ec2-54-235-62-55.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+fip-193-166-24-163.kaj.poutavm.fi
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
