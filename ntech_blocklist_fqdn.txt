@@ -160,6 +160,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
+scan-09n.shadowserver.org
 scan-11h.shadowserver.org
 scan-14j.shadowserver.org
 scan-15e.shadowserver.org
@@ -171,6 +172,7 @@ scan-49n.shadowserver.org
 scan-64-11.shadowserver.org
 scan-66-11.shadowserver.org
 scan-69-05.shadowserver.org
+scan-78-01.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-4.shadowserver.org
 scan-87-7.shadowserver.org
