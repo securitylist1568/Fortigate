@@ -42,13 +42,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-santaclara-ca-datacenter.serverpoint.com
 scale-test-1772835623496-df1349d9.mongo.ondigitalocean.com
 scan-60.security.ipip.net
 scan.visionheight.com
 security.criminalip.com
 server.comy
-shiireichiba.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.164.158.168.204.clients.your-server.de
