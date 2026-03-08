@@ -39,6 +39,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 santaclara-ca-datacenter.serverpoint.com
+scale-test-1772835623496-df1349d9.mongo.ondigitalocean.com
 scan-13m.shadowserver.org
 scan-14j.shadowserver.org
 scan-44c.shadowserver.org
