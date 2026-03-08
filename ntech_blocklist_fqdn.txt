@@ -22,7 +22,6 @@
 118.150.216.162.bc.googleusercontent.com
 151.149.216.162.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
-155.211.203.35.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -36,18 +35,15 @@
 59774f98-aa4e-41de-8b3d-e10182d7a2f8.moveworkers
 60-249-14-121.hinet-ip.hinet.net
 60-250-140-251.hinet-ip.hinet.net
-82.150.216.162.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-customer-187-217-145-140.uninet-ide.com.mx
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
-fip-193-166-24-163.kaj.poutavm.fi
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip203.ip-178-32-96.eu
@@ -64,7 +60,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-03c.shadowserver.org
 scan-08g.shadowserver.org
-scan-09b.shadowserver.org
 scan-11h.shadowserver.org
 scan-12m.shadowserver.org
 scan-13l.shadowserver.org
@@ -104,7 +99,6 @@ scan-84-2.shadowserver.org
 scan-84-9.shadowserver.org
 scan-85-9.shadowserver.org
 scan-87-5.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
