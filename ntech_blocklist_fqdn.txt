@@ -137,6 +137,7 @@ dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
+e2e-dbaas-mongodb-hrpr2-r-5911ff5a.mongo.ondigitalocean.com
 festa04.jcatransporte.com.br
 fip-193-166-24-163.kaj.poutavm.fi
 hn.kd.ny.adsl
@@ -181,7 +182,9 @@ scan-47c.shadowserver.org
 scan-49n.shadowserver.org
 scan-56m.shadowserver.org
 scan-57k.shadowserver.org
+scan-61-10.shadowserver.org
 scan-61-9.shadowserver.org
+scan-62-1.shadowserver.org
 scan-62-12.shadowserver.org
 scan-64-11.shadowserver.org
 scan-64-8.shadowserver.org
@@ -200,6 +203,7 @@ scan-76-03.shadowserver.org
 scan-76-07.shadowserver.org
 scan-78-01.shadowserver.org
 scan-79-03.shadowserver.org
+scan-79-04.shadowserver.org
 scan-80-7.shadowserver.org
 scan-82-0.shadowserver.org
 scan-83-3.shadowserver.org
