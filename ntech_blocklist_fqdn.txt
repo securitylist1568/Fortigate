@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-215.210.203.35.bc.googleusercontent.com
 88.81.253.105.ipv4.datagroup.ua
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -26,7 +25,6 @@ circulars.banhkemcantho.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dsl081-112-056.dfw1.dsl.speakeasy.net
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -43,9 +41,6 @@ recyber.net
 santaclara-ca-datacenter.serverpoint.com
 scan-13m.shadowserver.org
 scan-14j.shadowserver.org
-scan-37e.shadowserver.org
-scan-40g.shadowserver.org
-scan-43d.shadowserver.org
 scan-44c.shadowserver.org
 scan-44k.shadowserver.org
 scan-50j.shadowserver.org
@@ -53,23 +48,16 @@ scan-51l.shadowserver.org
 scan-56i.shadowserver.org
 scan-60-7.shadowserver.org
 scan-62-4.shadowserver.org
-scan-63-0.shadowserver.org
 scan-63-13.shadowserver.org
-scan-65-2.shadowserver.org
-scan-67-7.shadowserver.org
 scan-68-09.shadowserver.org
-scan-69-03.shadowserver.org
-scan-69-04.shadowserver.org
 scan-72-09.shadowserver.org
 scan-77-01.shadowserver.org
 scan-78-03.shadowserver.org
 scan-79-03.shadowserver.org
-scan-79-05.shadowserver.org
 scan-81-4.shadowserver.org
 scan-82-0.shadowserver.org
 scan-85-5.shadowserver.org
 scan-85-7.shadowserver.org
-scan-85-8.shadowserver.org
 scan-86-6.shadowserver.org
 scan-86-7.shadowserver.org
 scan-87-1.shadowserver.org
@@ -82,7 +70,6 @@ shiireichiba.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.164.158.168.204.clients.your-server.de
-static.249.88.167.89.clients.your-server.de
 users219.vip.heteml.jp
 vmi3103752.contaboserver.net
 voraciouscracker.ptr.network
