@@ -100,6 +100,7 @@
 220-136-150-147.dynamic-ip.hinet.net
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
+36.149.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
@@ -272,6 +273,7 @@ security.criminalip.com
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
+srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vdc.vn
 sydney.scan.bufferover.run
