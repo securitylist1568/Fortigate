@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.94.126.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.250.74.100.dsl.dyn.telnor.net
 88.81.253.105.ipv4.datagroup.ua
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -43,6 +44,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 santaclara-ca-datacenter.serverpoint.com
 scale-test-1772835623496-df1349d9.mongo.ondigitalocean.com
+scan-60.security.ipip.net
 scan.visionheight.com
 security.criminalip.com
 server.comy
