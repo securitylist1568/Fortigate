@@ -70,6 +70,7 @@ scan-43d.shadowserver.org
 scan-45f.shadowserver.org
 scan-48i.shadowserver.org
 scan-50j.shadowserver.org
+scan-51l.shadowserver.org
 scan-58j.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-4.shadowserver.org
