@@ -142,6 +142,7 @@ ec2-54-234-14-7.compute-1.amazonaws.com
 ec2-54-235-62-55.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-58.4vendeta.com
 ip-56-138.4vendeta.com
@@ -156,8 +157,17 @@ ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+radamelfalcao.xyz
 recyber.net
+scan-11h.shadowserver.org
+scan-15e.shadowserver.org
+scan-41n.shadowserver.org
 scan-46o.shadowserver.org
+scan-49n.shadowserver.org
+scan-64-11.shadowserver.org
+scan-84-4.shadowserver.org
+scan-87-7.shadowserver.org
+scan-88-9.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
