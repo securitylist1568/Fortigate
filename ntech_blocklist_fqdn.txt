@@ -23,7 +23,6 @@
 88.81.253.105.ipv4.datagroup.ua
 amz.unixwiz.net
 b2.org.afilias-nst.org
-circulars.banhkemcantho.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -73,8 +72,6 @@ security.criminalip.com
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.164.158.168.204.clients.your-server.de
 user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
 vmi3103752.contaboserver.net
-voraciouscracker.ptr.network
