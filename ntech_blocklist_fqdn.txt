@@ -22,6 +22,7 @@
 185-45-195-15.hostsailor.com
 187.250.74.100.dsl.dyn.telnor.net
 59-125-185-133.hinet-ip.hinet.net
+61-63-30-host13.kbtelecom.net.tw
 88.81.253.105.ipv4.datagroup.ua
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -80,6 +81,7 @@ scan-52k.shadowserver.org
 scan-60-8.shadowserver.org
 scan-60.security.ipip.net
 scan-62-10.shadowserver.org
+scan-62-2.shadowserver.org
 scan-72-02.shadowserver.org
 scan-76-00.shadowserver.org
 scan-76-09.shadowserver.org
@@ -91,6 +93,7 @@ scan-86-6.shadowserver.org
 scan-88-1.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-8.shadowserver.org
+scan-90-6.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
