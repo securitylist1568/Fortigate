@@ -19,6 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 187.156.11.34.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
+50-116-23-150.ip.linodeusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -79,3 +81,4 @@ static.155.124.140.128.clients.your-server.de
 user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
+vds1077812.hosted-by-itldc.com
