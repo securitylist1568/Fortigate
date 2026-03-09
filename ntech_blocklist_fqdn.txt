@@ -23,7 +23,6 @@
 187.250.74.100.dsl.dyn.telnor.net
 59-125-185-133.hinet-ip.hinet.net
 61-63-30-host13.kbtelecom.net.tw
-88.81.253.105.ipv4.datagroup.ua
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -55,7 +54,6 @@ ec2-98-94-19-178.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-114.4vendeta.com
 ip084242015077.rev.nessus.at
 ip13.ip-15-204-54.us
 ip29.ip-5-135-94.eu
@@ -97,7 +95,6 @@ scan-89-8.shadowserver.org
 scan-90-6.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
-server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tc-in-f109.1e100.net
