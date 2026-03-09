@@ -20,6 +20,7 @@
 112.94.126.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.250.74.100.dsl.dyn.telnor.net
+59-125-185-133.hinet-ip.hinet.net
 88.81.253.105.ipv4.datagroup.ua
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -60,6 +61,7 @@ ip50.ip-51-38-211.eu
 mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
+ns569611.ip-51-79-77.net
 ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -67,6 +69,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scale-test-1772835623496-df1349d9.mongo.ondigitalocean.com
 scan-60.security.ipip.net
+scan-76-09.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
@@ -75,3 +78,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
 vmi3103752.contaboserver.net
+vmi3122109.contaboserver.net
