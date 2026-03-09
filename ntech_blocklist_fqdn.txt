@@ -264,6 +264,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 new-ubuntu20223240.aspadmin.net
 nk218-187-103-78.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
