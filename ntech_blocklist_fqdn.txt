@@ -53,7 +53,6 @@ ec2-98-94-19-178.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-iafrssh.cn
 ip-56-114.4vendeta.com
 ip13.ip-15-204-54.us
 ip29.sudolio.io
@@ -62,6 +61,7 @@ ip77.ip-51-91-168.eu
 mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
 mx2.zeelandnet.nl
+new-ubuntu20223240.aspadmin.net
 ns569611.ip-51-79-77.net
 ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
@@ -82,5 +82,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-38-175-113-237.ist01.tr.misaka.io
 user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
-vmi3103752.contaboserver.net
 vmi3122109.contaboserver.net
