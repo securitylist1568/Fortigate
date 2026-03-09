@@ -29,6 +29,7 @@ ded121318.smartservers.com.au
 dns12.online.tj.cn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+finland2.ipip.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip129.ip-51-77-47.eu
