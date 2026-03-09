@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.94.126.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+36-230-252-49.dynamic-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
