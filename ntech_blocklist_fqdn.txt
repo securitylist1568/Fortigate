@@ -21,6 +21,14 @@
 185-45-195-15.hostsailor.com
 36-230-252-49.dynamic-ip.hinet.net
 amz.unixwiz.net
+azpdcg3yi26e.stretchoid.com
+azpdcgeb2uhy.stretchoid.com
+azpdcsb2o3d1.stretchoid.com
+azpdcscrl5ny.stretchoid.com
+azpdeshxf429.stretchoid.com
+azpdsge0f8gf.stretchoid.com
+azpdssj2l7oa.stretchoid.com
+azpdsskv2v8p.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 d66-183-91-30.bchsia.telus.net
@@ -42,6 +50,7 @@ ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
+scan-05n.shadowserver.org
 scan-07b.shadowserver.org
 scan-08i.shadowserver.org
 scan-14j.shadowserver.org
@@ -56,6 +65,7 @@ scan-61-4.shadowserver.org
 scan-62-11.shadowserver.org
 scan-64-10.shadowserver.org
 scan-65-8.shadowserver.org
+scan-65-9.shadowserver.org
 scan-66-4.shadowserver.org
 scan-66-8.shadowserver.org
 scan-67-12.shadowserver.org
