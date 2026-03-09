@@ -48,6 +48,7 @@ prod-nyc1.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.org
+scan-07b.shadowserver.org
 scan-12k.shadowserver.org
 scan-14l.shadowserver.org
 scan-37k.shadowserver.org
