@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 123-193-166-77.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
+187.156.11.34.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 amz.unixwiz.net
 azpdcgj9rssm.stretchoid.com
@@ -86,6 +87,7 @@ scan-88-3.shadowserver.org
 scan-89-7.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
+server.comy
 shiireichiba.com
 simspice.com
 smtp1.telemach.net
