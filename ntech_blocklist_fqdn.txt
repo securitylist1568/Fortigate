@@ -26,10 +26,15 @@ b2.org.afilias-nst.org
 barden.com
 buffea-rteflt.greatexact.com
 client.yota.ru
+crawler069.deepfield.net
 crawler184.deepfield.net
 crawler188.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-90-111-248.compute-1.amazonaws.com
+ec2-3-94-186-199.compute-1.amazonaws.com
+ec2-54-161-186-78.compute-1.amazonaws.com
+ec2-54-86-228-47.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
