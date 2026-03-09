@@ -36,15 +36,12 @@ ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
 li1873-236.members.linode.com
-mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
-mx2.zeelandnet.nl
 new-ubuntu20223240.aspadmin.net
 no-mans-land.m247.com
 ns569611.ip-51-79-77.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
-prod-nyc1.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.org
@@ -69,6 +66,7 @@ scan-65-6.shadowserver.org
 scan-66-4.shadowserver.org
 scan-66-6.shadowserver.org
 scan-67-10.shadowserver.org
+scan-67-3.shadowserver.org
 scan-68-07.shadowserver.org
 scan-72-02.shadowserver.org
 scan-73-03.shadowserver.org
