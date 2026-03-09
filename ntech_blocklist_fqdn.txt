@@ -47,14 +47,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan.visionheight.com
-security.criminalip.com
 server.comy
-shiireichiba.com
-simspice.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.155.124.140.128.clients.your-server.de
 user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
-vmi617754.contaboserver.net
