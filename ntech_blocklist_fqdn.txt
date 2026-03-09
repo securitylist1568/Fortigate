@@ -19,12 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 173904.ip-ptr.tech
 185-45-195-15.hostsailor.com
-187.250.74.100.dsl.dyn.telnor.net
 59-125-185-133.hinet-ip.hinet.net
 61-63-30-host13.kbtelecom.net.tw
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+cm203-168-227-68.hkcable.com.hk
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-24-4-116.compute-1.amazonaws.com
@@ -56,7 +56,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip084242015077.rev.nessus.at
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 ip77.ip-51-91-168.eu
 mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
@@ -75,12 +74,12 @@ scan-14l.shadowserver.org
 scan-37k.shadowserver.org
 scan-39k.shadowserver.org
 scan-39l.shadowserver.org
+scan-41k.shadowserver.org
 scan-43o.shadowserver.org
 scan-45c.shadowserver.org
 scan-51g.shadowserver.org
 scan-52k.shadowserver.org
 scan-60-8.shadowserver.org
-scan-60.security.ipip.net
 scan-62-10.shadowserver.org
 scan-62-2.shadowserver.org
 scan-63-8.shadowserver.org
