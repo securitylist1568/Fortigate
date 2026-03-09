@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+123-193-166-77.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 198-23-254-210-host.colocrossing.com
@@ -268,6 +269,7 @@ lisbon.portugal.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 nk218-187-103-78.adsl.dynamic.apol.com.tw
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -295,6 +297,7 @@ scan-65-1.shadowserver.org
 scan-65-10.shadowserver.org
 scan-65-8.shadowserver.org
 scan-65-9.shadowserver.org
+scan-66-1.shadowserver.org
 scan-66-8.shadowserver.org
 scan-67-12.shadowserver.org
 scan-67-7.shadowserver.org
@@ -312,6 +315,7 @@ scan-81-4.shadowserver.org
 scan-84-2.shadowserver.org
 scan-84-4.shadowserver.org
 scan-85-2.shadowserver.org
+scan-85-3.shadowserver.org
 scan-85-4.shadowserver.org
 scan-85-6.shadowserver.org
 scan-87-3.shadowserver.org
