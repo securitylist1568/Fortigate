@@ -69,7 +69,11 @@ pinkytales.com
 prod-nyc1.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04f.shadowserver.org
 scan-12k.shadowserver.org
+scan-14l.shadowserver.org
+scan-37k.shadowserver.org
+scan-39k.shadowserver.org
 scan-39l.shadowserver.org
 scan-43o.shadowserver.org
 scan-45c.shadowserver.org
@@ -79,6 +83,10 @@ scan-60-8.shadowserver.org
 scan-60.security.ipip.net
 scan-62-10.shadowserver.org
 scan-62-2.shadowserver.org
+scan-63-8.shadowserver.org
+scan-65-6.shadowserver.org
+scan-66-6.shadowserver.org
+scan-67-10.shadowserver.org
 scan-72-02.shadowserver.org
 scan-75-07.shadowserver.org
 scan-76-00.shadowserver.org
@@ -86,9 +94,12 @@ scan-76-09.shadowserver.org
 scan-78-08.shadowserver.org
 scan-80-4.shadowserver.org
 scan-80-8.shadowserver.org
+scan-81-8.shadowserver.org
+scan-82-5.shadowserver.org
 scan-83-5.shadowserver.org
 scan-84-3.shadowserver.org
 scan-86-6.shadowserver.org
+scan-87-6.shadowserver.org
 scan-88-1.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-8.shadowserver.org
