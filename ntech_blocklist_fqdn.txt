@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-103.204.245.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -26,6 +25,7 @@ b2.org.afilias-nst.org
 barden.com
 buffea-rteflt.greatexact.com
 client.yota.ru
+crawler019.deepfield.net
 crawler069.deepfield.net
 crawler184.deepfield.net
 crawler188.deepfield.net
@@ -34,6 +34,7 @@ dns12.online.tj.cn
 ec2-13-217-223-172.compute-1.amazonaws.com
 ec2-13-218-54-153.compute-1.amazonaws.com
 ec2-13-221-99-11.compute-1.amazonaws.com
+ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-3-80-221-65.compute-1.amazonaws.com
 ec2-3-90-111-248.compute-1.amazonaws.com
 ec2-3-94-186-199.compute-1.amazonaws.com
@@ -56,7 +57,6 @@ ec2-54-88-251-164.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-114-126.superbithost.com
 ip-40-134.4vendeta.com
 ip-49-58.4vendeta.com
 ip-56-114.4vendeta.com
@@ -64,8 +64,8 @@ ip29.sudolio.io
 ip50.ip-51-38-211.eu
 k99w8snnyr.gravserver.com
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 no-mans-land.m247.com
+ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 promowin.mailpmtazin142.avaprovi.com.mx
