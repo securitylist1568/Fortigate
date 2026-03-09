@@ -49,6 +49,7 @@ azpdssi7mmjc.stretchoid.com
 azpdssjz5dhk.stretchoid.com
 azpdssonw9bm.stretchoid.com
 b2.org.afilias-nst.org
+barden.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -56,6 +57,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
+ip-40-134.4vendeta.com
+ip-49-58.4vendeta.com
+ip-56-114.4vendeta.com
 ip29.sudolio.io
 k99w8snnyr.gravserver.com
 mfyabgec.musicpda.com
