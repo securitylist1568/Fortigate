@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.94.126.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 198-23-254-210-host.colocrossing.com
@@ -255,7 +254,6 @@ b2.org.afilias-nst.org
 barden.com
 client.yota.ru
 coinspe.com
-d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
@@ -277,15 +275,17 @@ recyber.net
 scan-02k.shadowserver.org
 scan-03f.shadowserver.org
 scan-05n.shadowserver.org
+scan-06f.shadowserver.org
+scan-07g.shadowserver.org
 scan-08i.shadowserver.org
 scan-12m.shadowserver.org
 scan-14j.shadowserver.org
 scan-18a.shadowserver.org
 scan-19n.shadowserver.org
 scan-37k.shadowserver.org
-scan-37o.shadowserver.org
 scan-39f.shadowserver.org
 scan-39l.shadowserver.org
+scan-40d.shadowserver.org
 scan-43k.shadowserver.org
 scan-45f.shadowserver.org
 scan-47b.shadowserver.org
@@ -307,7 +307,6 @@ scan-73-04.shadowserver.org
 scan-77-01.shadowserver.org
 scan-79-07.shadowserver.org
 scan-80-4.shadowserver.org
-scan-80-5.shadowserver.org
 scan-81-1.shadowserver.org
 scan-81-4.shadowserver.org
 scan-84-2.shadowserver.org
