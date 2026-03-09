@@ -74,6 +74,7 @@ promowin.mailpmtazin142.avaprovi.com.mx
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan.visionheight.com
+security.criminalip.com
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
