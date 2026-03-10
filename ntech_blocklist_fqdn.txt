@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 172-236-201-56.ip.linodeusercontent.com
+172-236-201-87.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-23-254-210-host.colocrossing.com
 42.123.243.83.in-addr.arpa
@@ -84,6 +85,8 @@ scan-04f.shadowserver.org
 scan-14a.shadowserver.org
 scan-20j.shadowserver.org
 scan-37e.shadowserver.org
+scan-39e.shadowserver.org
+scan-45g.shadowserver.org
 scan-47c.shadowserver.org
 scan-48h.shadowserver.org
 scan-51c.shadowserver.org
