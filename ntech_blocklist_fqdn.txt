@@ -105,5 +105,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vdc.vn
 user-185-234-213-135.zrh01.ch.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vps-ed63b310.vps.ovh.net
