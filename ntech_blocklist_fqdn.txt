@@ -24,8 +24,6 @@
 172-236-201-87.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-23-254-210-host.colocrossing.com
-42.123.243.83.in-addr.arpa
-50-116-23-150.ip.linodeusercontent.com
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -71,6 +69,7 @@ scan-47c.shadowserver.org
 scan-48h.shadowserver.org
 scan-51c.shadowserver.org
 scan-55h.shadowserver.org
+scan-60-5.shadowserver.org
 scan-60-6.shadowserver.org
 scan-60-7.shadowserver.org
 scan-62-1.shadowserver.org
@@ -82,13 +81,17 @@ scan-66-3.shadowserver.org
 scan-66-8.shadowserver.org
 scan-67-4.shadowserver.org
 scan-70-06.shadowserver.org
+scan-73-06.shadowserver.org
+scan-76-03.shadowserver.org
 scan-76-06.shadowserver.org
 scan-80-2.shadowserver.org
 scan-82-3.shadowserver.org
+scan-82-7.shadowserver.org
 scan-83-5.shadowserver.org
 scan-84-1.shadowserver.org
 scan-85-4.shadowserver.org
 scan-85-7.shadowserver.org
+scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-6.shadowserver.org
@@ -100,5 +103,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
 vps-ed63b310.vps.ovh.net
