@@ -28,14 +28,12 @@
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
-buffea-rteflt.greatexact.com
 client.yota.ru
 cohogs.usienspire.com
 crawler019.deepfield.net
 crawler062.deepfield.net
 crawler067.deepfield.net
 crawler069.deepfield.net
-crawler184.deepfield.net
 crawler185.deepfield.net
 crawler196.deepfield.net
 crawler201.deepfield.net
