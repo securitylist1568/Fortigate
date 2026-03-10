@@ -106,6 +106,7 @@ scan-11e.shadowserver.org
 scan-11i.shadowserver.org
 scan-13n.shadowserver.org
 scan-14j.shadowserver.org
+scan-14l.shadowserver.org
 scan-15k.shadowserver.org
 scan-18e.shadowserver.org
 scan-36f.shadowserver.org
@@ -115,10 +116,12 @@ scan-43h.shadowserver.org
 scan-44k.shadowserver.org
 scan-45i.shadowserver.org
 scan-45k.shadowserver.org
+scan-46o.shadowserver.org
 scan-47k.shadowserver.org
 scan-49b.shadowserver.org
 scan-49k.shadowserver.org
 scan-51h.shadowserver.org
+scan-51n.shadowserver.org
 scan-54i.shadowserver.org
 scan-59g.shadowserver.org
 scan-60-0.shadowserver.org
@@ -130,6 +133,7 @@ scan-61-1.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-8.shadowserver.org
 scan-63-13.shadowserver.org
+scan-63-7.shadowserver.org
 scan-64-4.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-3.shadowserver.org
@@ -158,10 +162,12 @@ scan-83-8.shadowserver.org
 scan-84-7.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-8.shadowserver.org
+scan-89-1.shadowserver.org
 scan-89-3.shadowserver.org
 scan-89-4.shadowserver.org
 scan-89-8.shadowserver.org
 scan-90-1.shadowserver.org
+scan-90-2.shadowserver.org
 scan-90-6.shadowserver.org
 scan-90-7.shadowserver.org
 scan.visionheight.com
