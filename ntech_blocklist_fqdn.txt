@@ -45,6 +45,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 e2e-dbaas-mongodb-ze5d3-r-a2d2a58b.mongo.ondigitalocean.com
 ec2-100-28-191-174.compute-1.amazonaws.com
+ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
