@@ -19,13 +19,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-187.156.11.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 50-116-23-150.ip.linodeusercontent.com
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
-barden.com
 buffea-rteflt.greatexact.com
 client.yota.ru
 cohogs.usienspire.com
@@ -62,9 +60,6 @@ ec2-54-88-251-164.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-134.4vendeta.com
-ip-49-58.4vendeta.com
-ip-56-114.4vendeta.com
 ip13.ip-15-204-54.us
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
@@ -73,7 +68,6 @@ mfyabgec.musicpda.com
 ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-promowin.mailpmtazin142.avaprovi.com.mx
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.org
@@ -89,10 +83,8 @@ scan-87-9.shadowserver.org
 scan-88-6.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
-server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
