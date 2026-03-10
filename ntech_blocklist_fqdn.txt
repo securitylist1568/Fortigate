@@ -90,6 +90,7 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -118,12 +119,15 @@ scan-49k.shadowserver.org
 scan-51h.shadowserver.org
 scan-54i.shadowserver.org
 scan-59g.shadowserver.org
+scan-60-0.shadowserver.org
 scan-60-1.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-2.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-1.shadowserver.org
 scan-61-4.shadowserver.org
+scan-61-8.shadowserver.org
+scan-63-13.shadowserver.org
 scan-64-4.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-3.shadowserver.org
@@ -151,6 +155,7 @@ scan-87-8.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-3.shadowserver.org
 scan-89-4.shadowserver.org
+scan-89-8.shadowserver.org
 scan-90-1.shadowserver.org
 scan-90-6.shadowserver.org
 scan-90-7.shadowserver.org
