@@ -19,12 +19,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-170-92-227.dynamic-ip.hinet.net
 172-236-201-20.ip.linodeusercontent.com
 172-236-201-56.ip.linodeusercontent.com
 172-236-201-87.ip.linodeusercontent.com
 172-238-100-49.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-23-254-210-host.colocrossing.com
+74-50-97-90.static.hvvc.us
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -33,6 +35,7 @@ crawler011.deepfield.net
 crawler055.deepfield.net
 crawler062.deepfield.net
 crawler067.deepfield.net
+crawler129.deepfield.net
 crawler178.deepfield.net
 crawler182.deepfield.net
 crawler185.deepfield.net
@@ -71,6 +74,8 @@ scan-44c.shadowserver.org
 scan-45g.shadowserver.org
 scan-45i.shadowserver.org
 scan-45n.shadowserver.org
+scan-47k.shadowserver.org
+scan-49k.shadowserver.org
 scan-54i.shadowserver.org
 scan-55h.shadowserver.org
 scan-60-5.shadowserver.org
