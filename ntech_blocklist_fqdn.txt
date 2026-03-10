@@ -23,6 +23,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-219-1-233.compute-1.amazonaws.com
