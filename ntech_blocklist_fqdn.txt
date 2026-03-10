@@ -67,6 +67,7 @@ pinkytales.com
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+santaclara-ca-datacenter.serverpoint.com
 scan-01l.shadowserver.org
 scan-05a.shadowserver.org
 scan-09b.shadowserver.org
@@ -84,6 +85,7 @@ scan-60-5.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-3.shadowserver.org
 scan-64-10.shadowserver.org
+scan-64-8.shadowserver.org
 scan-65-3.shadowserver.org
 scan-65-7.shadowserver.org
 scan-66-10.shadowserver.org
