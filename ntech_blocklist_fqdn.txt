@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+172-236-201-20.ip.linodeusercontent.com
 172-236-201-56.ip.linodeusercontent.com
 172-236-201-87.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -98,5 +99,6 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
