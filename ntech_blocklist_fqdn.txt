@@ -31,6 +31,7 @@ crawler019.deepfield.net
 crawler069.deepfield.net
 crawler184.deepfield.net
 crawler188.deepfield.net
+crawler196.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-217-223-172.compute-1.amazonaws.com
@@ -73,7 +74,14 @@ promowin.mailpmtazin142.avaprovi.com.mx
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.org
+scan-14a.shadowserver.org
 scan-20j.shadowserver.org
+scan-37e.shadowserver.org
+scan-47c.shadowserver.org
+scan-48h.shadowserver.org
+scan-51c.shadowserver.org
+scan-87-9.shadowserver.org
+scan-88-6.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
