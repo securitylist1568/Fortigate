@@ -148,9 +148,11 @@ scan-82-1.shadowserver.org
 scan-82-2.shadowserver.org
 scan-82-5.shadowserver.org
 scan-82-6.shadowserver.org
+scan-82-7.shadowserver.org
 scan-83-3.shadowserver.org
 scan-83-7.shadowserver.org
 scan-83-8.shadowserver.org
+scan-84-7.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-3.shadowserver.org
