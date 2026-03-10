@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+103.204.245.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -62,6 +63,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-134.4vendeta.com
 ip-49-58.4vendeta.com
 ip-56-114.4vendeta.com
+ip13.ip-15-204-54.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
@@ -72,6 +74,8 @@ pinkytales.com
 promowin.mailpmtazin142.avaprovi.com.mx
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04f.shadowserver.org
+scan-20j.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
