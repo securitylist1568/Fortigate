@@ -24,10 +24,12 @@
 172-238-100-214.ip.linodeusercontent.com
 172-238-100-49.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192.4.195.35.bc.googleusercontent.com
 204.76.203.222.ptr.pfcloud.network
 49.205.64.2.actcorp.in
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 74-50-97-90.static.hvvc.us
+82.152.22.34.bc.googleusercontent.com
 82.72.141.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -84,6 +86,7 @@ scan-47k.shadowserver.org
 scan-49b.shadowserver.org
 scan-49k.shadowserver.org
 scan-54i.shadowserver.org
+scan-60-1.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-2.shadowserver.org
 scan-61-1.shadowserver.org
