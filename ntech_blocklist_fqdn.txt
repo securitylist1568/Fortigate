@@ -22,7 +22,6 @@
 187.156.11.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 50-116-23-150.ip.linodeusercontent.com
-51-158-144-234.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
 barden.com
@@ -67,7 +66,6 @@ ip13.ip-15-204-54.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -81,7 +79,6 @@ security.criminalip.com
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.155.124.140.128.clients.your-server.de
 user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
