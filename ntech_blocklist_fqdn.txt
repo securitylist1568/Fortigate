@@ -22,11 +22,13 @@
 187.156.11.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 50-116-23-150.ip.linodeusercontent.com
+60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 barden.com
 buffea-rteflt.greatexact.com
 client.yota.ru
+cohogs.usienspire.com
 crawler019.deepfield.net
 crawler069.deepfield.net
 crawler184.deepfield.net
@@ -64,6 +66,7 @@ ip-40-134.4vendeta.com
 ip-49-58.4vendeta.com
 ip-56-114.4vendeta.com
 ip13.ip-15-204-54.us
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
@@ -81,6 +84,7 @@ scan-47c.shadowserver.org
 scan-48h.shadowserver.org
 scan-51c.shadowserver.org
 scan-66-3.shadowserver.org
+scan-67-4.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-6.shadowserver.org
 scan.visionheight.com
