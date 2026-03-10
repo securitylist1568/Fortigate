@@ -31,6 +31,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler007.deepfield.net
 crawler011.deepfield.net
+crawler030.deepfield.net
 crawler055.deepfield.net
 crawler129.deepfield.net
 crawler178.deepfield.net
@@ -52,6 +53,7 @@ ip140.ip-15-204-155.us
 ip182.ip-51-68-184.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 onlinepsychics.com
 pc112.cses.ilc.edu.tw
