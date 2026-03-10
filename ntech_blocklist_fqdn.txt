@@ -80,6 +80,7 @@ scan-37e.shadowserver.org
 scan-47c.shadowserver.org
 scan-48h.shadowserver.org
 scan-51c.shadowserver.org
+scan-66-3.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-6.shadowserver.org
 scan.visionheight.com
