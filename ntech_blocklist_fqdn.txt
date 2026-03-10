@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+198-23-254-210-host.colocrossing.com
 42.123.243.83.in-addr.arpa
 50-116-23-150.ip.linodeusercontent.com
 60-250-140-251.hinet-ip.hinet.net
@@ -30,8 +31,10 @@ cohogs.usienspire.com
 crawler019.deepfield.net
 crawler069.deepfield.net
 crawler184.deepfield.net
+crawler185.deepfield.net
 crawler188.deepfield.net
 crawler196.deepfield.net
+crawler201.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-217-223-172.compute-1.amazonaws.com
