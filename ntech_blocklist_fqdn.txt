@@ -72,12 +72,14 @@ scan-11i.shadowserver.org
 scan-14j.shadowserver.org
 scan-15i.shadowserver.org
 scan-15k.shadowserver.org
+scan-18e.shadowserver.org
 scan-44c.shadowserver.org
 scan-45k.shadowserver.org
 scan-47k.shadowserver.org
 scan-49b.shadowserver.org
 scan-49k.shadowserver.org
 scan-54i.shadowserver.org
+scan-60-10.shadowserver.org
 scan-60-2.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-3.shadowserver.org
@@ -99,6 +101,8 @@ scan-83-3.shadowserver.org
 scan-83-8.shadowserver.org
 scan-87-8.shadowserver.org
 scan-88-8.shadowserver.org
+scan-89-3.shadowserver.org
+scan-90-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vdc.vn
