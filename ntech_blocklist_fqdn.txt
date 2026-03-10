@@ -59,12 +59,14 @@ ec2-54-86-228-47.compute-1.amazonaws.com
 ec2-54-88-251-164.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip13.ip-15-204-54.us
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
