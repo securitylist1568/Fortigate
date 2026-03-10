@@ -30,10 +30,10 @@ client.yota.ru
 cohogs.usienspire.com
 crawler019.deepfield.net
 crawler062.deepfield.net
+crawler067.deepfield.net
 crawler069.deepfield.net
 crawler184.deepfield.net
 crawler185.deepfield.net
-crawler188.deepfield.net
 crawler196.deepfield.net
 crawler201.deepfield.net
 dal215.hawkhost.com
@@ -50,6 +50,7 @@ ec2-34-203-227-71.compute-1.amazonaws.com
 ec2-34-224-33-24.compute-1.amazonaws.com
 ec2-35-174-173-167.compute-1.amazonaws.com
 ec2-44-212-68-158.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-54-161-186-78.compute-1.amazonaws.com
 ec2-54-164-170-242.compute-1.amazonaws.com
 ec2-54-165-115-200.compute-1.amazonaws.com
@@ -93,6 +94,5 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
