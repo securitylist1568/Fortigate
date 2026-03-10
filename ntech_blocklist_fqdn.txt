@@ -23,6 +23,7 @@
 172-236-201-20.ip.linodeusercontent.com
 172-236-201-56.ip.linodeusercontent.com
 172-236-201-87.ip.linodeusercontent.com
+172-238-100-214.ip.linodeusercontent.com
 172-238-100-49.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 74-50-97-90.static.hvvc.us
@@ -36,6 +37,7 @@ crawler055.deepfield.net
 crawler129.deepfield.net
 crawler178.deepfield.net
 crawler182.deepfield.net
+crawler199.deepfield.net
 crawler205.deepfield.net
 crawler216.deepfield.net
 crawler228.deepfield.net
