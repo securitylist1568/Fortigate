@@ -30,10 +30,14 @@ dns12.online.tj.cn
 e2e-dbaas-mongodb-lejhg-r-2519cdec.mongo.ondigitalocean.com
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
+ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
+ec2-3-80-31-4.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
+ec2-54-227-226-218.compute-1.amazonaws.com
+ec2-98-81-212-27.compute-1.amazonaws.com
 feobwr.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -53,6 +57,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reusjuo.cn
 rl1.leader.rl1-c09b1a72.ci.nethserver.net
+rping.ipip.net
 scan.f6.security
 scan.visionheight.com
 security.criminalip.com
