@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-170-92-227.dynamic-ip.hinet.net
 122.52.121.69.pldt.net
+132.207.140.34.bc.googleusercontent.com
 14.193.190.35.bc.googleusercontent.com
 146.31.232.180.dsl.inet.static.certaincyber.net
 161.37.155.104.bc.googleusercontent.com
@@ -29,9 +30,12 @@
 172-232-121-108.ip.linodeusercontent.com
 172-238-100-214.ip.linodeusercontent.com
 172-238-100-49.ip.linodeusercontent.com
+177.225.241.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.4.195.35.bc.googleusercontent.com
+194-195-253-86.ip.linodeusercontent.com
 20.142.34.34.bc.googleusercontent.com
+200.44.233.35.bc.googleusercontent.com
 204.76.203.222.ptr.pfcloud.network
 223.221.53.34.bc.googleusercontent.com
 23.39.78.34.bc.googleusercontent.com
@@ -48,6 +52,7 @@
 65.68.76.34.bc.googleusercontent.com
 68.76.187.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
+75.234.78.34.bc.googleusercontent.com
 82.152.22.34.bc.googleusercontent.com
 82.72.141.34.bc.googleusercontent.com
 91.220.190.35.bc.googleusercontent.com
@@ -71,6 +76,7 @@ dns12.online.tj.cn
 e2e-dbaas-mongodb-ze5d3-r-a2d2a58b.mongo.ondigitalocean.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
@@ -109,6 +115,7 @@ scan-54i.shadowserver.org
 scan-60-1.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-2.shadowserver.org
+scan-61-0.shadowserver.org
 scan-61-1.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-3.shadowserver.org
