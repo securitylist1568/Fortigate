@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 202-155-157-252.nevacloud.net
+82.72.141.34.bc.googleusercontent.com
 aisuda.cc
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -32,7 +33,6 @@ ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-18-207-222-36.compute-1.amazonaws.com
-ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-18-234-215-50.compute-1.amazonaws.com
 ec2-184-72-213-197.compute-1.amazonaws.com
 ec2-3-80-182-148.compute-1.amazonaws.com
@@ -42,7 +42,6 @@ ec2-3-92-226-187.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-227-163-41.compute-1.amazonaws.com
 ec2-44-202-159-217.compute-1.amazonaws.com
-ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-145-224-132.compute-1.amazonaws.com
 ec2-54-196-222-60.compute-1.amazonaws.com
