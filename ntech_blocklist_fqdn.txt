@@ -32,6 +32,7 @@
 177.225.241.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.4.195.35.bc.googleusercontent.com
+193-181-46-42.cust.norisab.net
 194-195-253-86.ip.linodeusercontent.com
 20.142.34.34.bc.googleusercontent.com
 200.44.233.35.bc.googleusercontent.com
@@ -111,6 +112,7 @@ scan-36f.shadowserver.org
 scan-37k.shadowserver.org
 scan-38f.shadowserver.org
 scan-43h.shadowserver.org
+scan-44k.shadowserver.org
 scan-45i.shadowserver.org
 scan-45k.shadowserver.org
 scan-47k.shadowserver.org
@@ -140,6 +142,7 @@ scan-72-02.shadowserver.org
 scan-75-08.shadowserver.org
 scan-76-09.shadowserver.org
 scan-78-01.shadowserver.org
+scan-78-03.shadowserver.org
 scan-79-03.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-7.shadowserver.org
