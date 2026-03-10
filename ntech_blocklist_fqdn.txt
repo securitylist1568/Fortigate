@@ -65,7 +65,6 @@ ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-h-85-24-194-91.na.cust.bahnhof.se
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -78,9 +77,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02n.shadowserver.org
 scan-03f.shadowserver.org
-scan-07d.shadowserver.org
 scan-10d.shadowserver.org
-scan-11i.shadowserver.org
 scan-13n.shadowserver.org
 scan-14l.shadowserver.org
 scan-18e.shadowserver.org
@@ -90,7 +87,6 @@ scan-38f.shadowserver.org
 scan-43h.shadowserver.org
 scan-44k.shadowserver.org
 scan-45i.shadowserver.org
-scan-45k.shadowserver.org
 scan-46o.shadowserver.org
 scan-51h.shadowserver.org
 scan-51n.shadowserver.org
