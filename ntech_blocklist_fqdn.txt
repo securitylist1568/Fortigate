@@ -23,6 +23,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.231.188.35.bc.googleusercontent.com
+119.4.195.35.bc.googleusercontent.com
 123.102.14.34.bc.googleusercontent.com
 123.67.240.35.bc.googleusercontent.com
 133.59.140.34.bc.googleusercontent.com
@@ -75,11 +76,9 @@ ip-114-126.superbithost.com
 ip13.ip-15-204-54.us
 ip234.ip-15-235-104.net
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 nk218-187-87-37.adsl.dynamic.apol.com.tw
-no-mans-land.m247.com
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -91,7 +90,6 @@ scan-19b.shadowserver.org
 scan-20j.shadowserver.org
 scan-36m.shadowserver.org
 scan-38b.shadowserver.org
-scan-39k.shadowserver.org
 scan-45n.shadowserver.org
 scan-47i.shadowserver.org
 scan-50b.shadowserver.org
@@ -110,13 +108,12 @@ scan-67-1.shadowserver.org
 scan-67-7.shadowserver.org
 scan-67-8.shadowserver.org
 scan-68-02.shadowserver.org
+scan-71-02.shadowserver.org
 scan-72-00.shadowserver.org
 scan-72-08.shadowserver.org
 scan-73-01.shadowserver.org
 scan-73-05.shadowserver.org
-scan-73-09.shadowserver.org
 scan-76-07.shadowserver.org
-scan-78-07.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-8.shadowserver.org
