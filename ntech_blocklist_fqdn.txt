@@ -47,6 +47,7 @@
 52.181.78.34.bc.googleusercontent.com
 55.136.52.34.bc.googleusercontent.com
 59.212.53.34.bc.googleusercontent.com
+60-250-140-251.hinet-ip.hinet.net
 65.167.67.125.broad.gz.sc.dynamic.163data.com.cn
 67.20.140.34.bc.googleusercontent.com
 72.19.187.35.bc.googleusercontent.com
