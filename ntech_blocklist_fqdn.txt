@@ -258,7 +258,6 @@ mfyabgec.musicpda.com
 miscreantlace.ptr.network
 mumbai.scan.bufferover.run
 no-mans-land.m247.com
-ogjl138.discover.onlygreatjobslive.com
 olous.scan.bufferover.run
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -268,6 +267,7 @@ salta.scan.bufferover.run
 scan-01n.shadowserver.org
 scan-04c.shadowserver.org
 scan-11c.shadowserver.org
+scan-11i.shadowserver.org
 scan-17g.shadowserver.org
 scan-37e.shadowserver.org
 scan-42f.shadowserver.org
@@ -283,6 +283,7 @@ scan-62-9.shadowserver.org
 scan-63-2.shadowserver.org
 scan-63-3.shadowserver.org
 scan-64-10.shadowserver.org
+scan-64-9.shadowserver.org
 scan-65-1.shadowserver.org
 scan-66-0.shadowserver.org
 scan-66-12.shadowserver.org
@@ -310,7 +311,6 @@ scan-89-9.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 seoul.scan.bufferover.run
-sharp.atid.cloud
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -318,5 +318,4 @@ tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
 users219.vip.heteml.jp
-vmi2802461.contaboserver.net
 warsaw.scan.bufferover.run
