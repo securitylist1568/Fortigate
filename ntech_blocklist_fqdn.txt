@@ -109,10 +109,8 @@
 45-79-225-32.ip.linodeusercontent.com
 45-79-82-114.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
-51-158-144-234.rev.poneytelecom.eu
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
-82-147-84-134.vpsdedic.ru
 amz.unixwiz.net
 angkor.scan.bufferover.run
 azpdcg0i4caz.stretchoid.com
@@ -250,13 +248,11 @@ htb-h9b8tjwfph.htb-cloud.com
 ip11.ip-51-91-177.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
-ip77.ip-51-91-168.eu
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 manila.scan.bufferover.run
 mbl-65-129-43.dsl.net.pk
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 mumbai.scan.bufferover.run
 no-mans-land.m247.com
 olous.scan.bufferover.run
@@ -273,7 +269,6 @@ scan-17g.shadowserver.org
 scan-37e.shadowserver.org
 scan-39k.shadowserver.org
 scan-42f.shadowserver.org
-scan-43e.shadowserver.org
 scan-44i.shadowserver.org
 scan-46o.shadowserver.org
 scan-49k.shadowserver.org
@@ -283,7 +278,6 @@ scan-60-13.shadowserver.org
 scan-62-13.shadowserver.org
 scan-62-9.shadowserver.org
 scan-63-2.shadowserver.org
-scan-63-3.shadowserver.org
 scan-64-10.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-1.shadowserver.org
@@ -312,7 +306,6 @@ scan-86-4.shadowserver.org
 scan-88-1.shadowserver.org
 scan-88-4.shadowserver.org
 scan-89-9.shadowserver.org
-scan.visionheight.com
 security.criminalip.com
 seoul.scan.bufferover.run
 smtp1.telemach.net
