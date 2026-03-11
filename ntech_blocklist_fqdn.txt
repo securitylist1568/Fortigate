@@ -74,6 +74,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
 ip13.ip-15-204-54.us
+ip212-132-86-38.pbiaas.com
 ip234.ip-15-235-104.net
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
@@ -91,6 +92,8 @@ scan-19b.shadowserver.org
 scan-20j.shadowserver.org
 scan-36m.shadowserver.org
 scan-38b.shadowserver.org
+scan-41g.shadowserver.org
+scan-42b.shadowserver.org
 scan-45n.shadowserver.org
 scan-47i.shadowserver.org
 scan-50b.shadowserver.org
@@ -98,6 +101,7 @@ scan-51d.shadowserver.org
 scan-52m.shadowserver.org
 scan-56i.shadowserver.org
 scan-57k.shadowserver.org
+scan-60-5.shadowserver.org
 scan-60-6.shadowserver.org
 scan-62-7.shadowserver.org
 scan-62-9.shadowserver.org
