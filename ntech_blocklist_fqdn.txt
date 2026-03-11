@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 202-155-157-252.nevacloud.net
+82-147-84-134.vpsdedic.ru
 82.72.141.34.bc.googleusercontent.com
 aisuda.cc
 amz.unixwiz.net
