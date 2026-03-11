@@ -138,6 +138,7 @@ azpdcs8nbn14.stretchoid.com
 azpdcs99juo0.stretchoid.com
 azpdcs9veufw.stretchoid.com
 azpdcsb2o3d1.stretchoid.com
+azpdcsc1adjh.stretchoid.com
 azpdcsf0qtts.stretchoid.com
 azpdcsg4x480.stretchoid.com
 azpdcsiyzkq3.stretchoid.com
@@ -307,6 +308,7 @@ security.criminalip.com
 seoul.scan.bufferover.run
 sharp.atid.cloud
 smtp1.telemach.net
+srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
