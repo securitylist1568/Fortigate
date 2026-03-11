@@ -2,6 +2,7 @@
 1.164.34.34.bc.googleusercontent.com
 102-213-6-53.rackzar.com
 104.211.53.34.bc.googleusercontent.com
+104.251.78.34.bc.googleusercontent.com
 107-173-61-155-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -118,6 +119,7 @@ scan-76-07.shadowserver.org
 scan-78-07.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-7.shadowserver.org
+scan-82-8.shadowserver.org
 scan-83-8.shadowserver.org
 scan-83-9.shadowserver.org
 scan-85-7.shadowserver.org
