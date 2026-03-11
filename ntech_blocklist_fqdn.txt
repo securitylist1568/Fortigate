@@ -194,6 +194,7 @@ recyber.net
 salta.scan.bufferover.run
 scan-01n.shadowserver.org
 scan-11i.shadowserver.org
+scan-20j.shadowserver.org
 scan-39k.shadowserver.org
 scan-42f.shadowserver.org
 scan-44i.shadowserver.org
@@ -212,6 +213,7 @@ scan-77-01.shadowserver.org
 scan-78-04.shadowserver.org
 scan-78-07.shadowserver.org
 scan-78-09.shadowserver.org
+scan-81-7.shadowserver.org
 scan-83-6.shadowserver.org
 scan-83-9.shadowserver.org
 scan-86-1.shadowserver.org
