@@ -33,7 +33,6 @@
 152.7.187.35.bc.googleusercontent.com
 153.231.38.34.bc.googleusercontent.com
 155.226.62.34.bc.googleusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 172.242.79.34.bc.googleusercontent.com
 177.14.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -73,19 +72,18 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
-ip13.ip-15-204-54.us
 ip212-132-86-38.pbiaas.com
 ip234.ip-15-235-104.net
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-nk218-187-87-37.adsl.dynamic.apol.com.tw
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-05n.shadowserver.org
 scan-08e.shadowserver.org
 scan-10n.shadowserver.org
 scan-14b.shadowserver.org
@@ -132,7 +130,6 @@ scan-82-8.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-6.shadowserver.org
 scan-83-8.shadowserver.org
-scan-83-9.shadowserver.org
 scan-84-5.shadowserver.org
 scan-85-7.shadowserver.org
 scan-86-3.shadowserver.org
