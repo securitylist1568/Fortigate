@@ -187,6 +187,7 @@ mumbai.scan.bufferover.run
 nk218-187-87-37.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
 olous.scan.bufferover.run
+out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ppp-73.240.lw.fea.net
@@ -208,6 +209,7 @@ scan-66-4.shadowserver.org
 scan-70-09.shadowserver.org
 scan-71-04.shadowserver.org
 scan-72-00.shadowserver.org
+scan-73-01.shadowserver.org
 scan-73-09.shadowserver.org
 scan-75-09.shadowserver.org
 scan-77-01.shadowserver.org
