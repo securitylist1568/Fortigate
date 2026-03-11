@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+114.231.188.35.bc.googleusercontent.com
 123.102.14.34.bc.googleusercontent.com
 133.59.140.34.bc.googleusercontent.com
 14.11.38.34.bc.googleusercontent.com
@@ -56,8 +57,6 @@
 89.11.233.35.bc.googleusercontent.com
 97.211.53.34.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcg0i4caz.stretchoid.com
-azpdsguy2sy7.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -93,6 +92,7 @@ scan-56i.shadowserver.org
 scan-62-7.shadowserver.org
 scan-62-9.shadowserver.org
 scan-63-13.shadowserver.org
+scan-64-2.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-6.shadowserver.org
 scan-67-1.shadowserver.org
