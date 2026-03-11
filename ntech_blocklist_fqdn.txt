@@ -59,6 +59,7 @@
 59.212.53.34.bc.googleusercontent.com
 60-250-140-251.hinet-ip.hinet.net
 65.167.67.125.broad.gz.sc.dynamic.163data.com.cn
+6682-315a.jnb01.za.misaka.io
 67.20.140.34.bc.googleusercontent.com
 72.19.187.35.bc.googleusercontent.com
 80.223.62.34.bc.googleusercontent.com
@@ -92,6 +93,8 @@ scan-10n.shadowserver.org
 scan-14b.shadowserver.org
 scan-17k.shadowserver.org
 scan-19b.shadowserver.org
+scan-19n.shadowserver.org
+scan-20f.shadowserver.org
 scan-36m.shadowserver.org
 scan-38b.shadowserver.org
 scan-41g.shadowserver.org
@@ -120,6 +123,7 @@ scan-67-1.shadowserver.org
 scan-67-7.shadowserver.org
 scan-67-8.shadowserver.org
 scan-68-02.shadowserver.org
+scan-70-09.shadowserver.org
 scan-71-02.shadowserver.org
 scan-72-08.shadowserver.org
 scan-73-05.shadowserver.org
