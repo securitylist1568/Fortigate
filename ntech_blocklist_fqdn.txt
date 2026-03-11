@@ -26,6 +26,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler133.deepfield.net
 dal215.hawkhost.com
 diversion.banhkemcantho.com
 dns12.online.tj.cn
