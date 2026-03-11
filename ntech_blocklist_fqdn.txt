@@ -88,6 +88,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-08e.shadowserver.org
 scan-10n.shadowserver.org
+scan-14b.shadowserver.org
+scan-17k.shadowserver.org
 scan-19b.shadowserver.org
 scan-20j.shadowserver.org
 scan-36m.shadowserver.org
@@ -121,6 +123,7 @@ scan-72-08.shadowserver.org
 scan-73-01.shadowserver.org
 scan-73-05.shadowserver.org
 scan-76-07.shadowserver.org
+scan-76-08.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-8.shadowserver.org
@@ -130,6 +133,7 @@ scan-83-9.shadowserver.org
 scan-85-7.shadowserver.org
 scan-86-3.shadowserver.org
 scan-87-1.shadowserver.org
+scan-87-8.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-6.shadowserver.org
 scan-90-8.shadowserver.org
@@ -142,3 +146,4 @@ unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
 vm512105.hosted-by.u1host.com
 vmi3028010.contaboserver.net
+www.internet-albedo.net
