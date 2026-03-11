@@ -205,6 +205,7 @@ scan-66-12.shadowserver.org
 scan-66-4.shadowserver.org
 scan-70-09.shadowserver.org
 scan-71-04.shadowserver.org
+scan-72-00.shadowserver.org
 scan-73-09.shadowserver.org
 scan-75-09.shadowserver.org
 scan-77-01.shadowserver.org
@@ -215,6 +216,7 @@ scan-83-6.shadowserver.org
 scan-83-9.shadowserver.org
 scan-86-1.shadowserver.org
 scan-86-4.shadowserver.org
+scan-87-1.shadowserver.org
 scan-88-4.shadowserver.org
 scan-89-9.shadowserver.org
 security.criminalip.com
