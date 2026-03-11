@@ -27,6 +27,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
+crawler101.deepfield.net
 crawler133.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -59,6 +60,7 @@ ip-56-114.4vendeta.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
