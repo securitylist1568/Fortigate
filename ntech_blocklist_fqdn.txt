@@ -47,6 +47,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-nyc3-7.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02j.shadowserver.org
@@ -102,6 +103,7 @@ scan-89-8.shadowserver.org
 scan-90-8.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 trafo.kz
