@@ -75,6 +75,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
 ip13.ip-15-204-54.us
 ip234.ip-15-235-104.net
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
@@ -117,6 +118,7 @@ scan-76-07.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-8.shadowserver.org
+scan-83-6.shadowserver.org
 scan-83-8.shadowserver.org
 scan-83-9.shadowserver.org
 scan-85-7.shadowserver.org
