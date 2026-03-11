@@ -249,6 +249,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip11.ip-51-91-177.eu
 ip29.sudolio.io
+ip50.ip-51-38-211.eu
 ip77.ip-51-91-168.eu
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
@@ -270,6 +271,7 @@ scan-11c.shadowserver.org
 scan-11i.shadowserver.org
 scan-17g.shadowserver.org
 scan-37e.shadowserver.org
+scan-39k.shadowserver.org
 scan-42f.shadowserver.org
 scan-43e.shadowserver.org
 scan-44i.shadowserver.org
@@ -293,9 +295,11 @@ scan-67-12.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-09.shadowserver.org
 scan-71-04.shadowserver.org
+scan-73-09.shadowserver.org
 scan-75-09.shadowserver.org
 scan-77-01.shadowserver.org
 scan-78-04.shadowserver.org
+scan-78-07.shadowserver.org
 scan-78-09.shadowserver.org
 scan-79-07.shadowserver.org
 scan-81-6.shadowserver.org
