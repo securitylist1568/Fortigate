@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.231.188.35.bc.googleusercontent.com
+183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
 194-58-114-139.cloudvps.regruhosting.ru
 198.105.65.34.bc.googleusercontent.com
@@ -30,6 +31,7 @@ client.yota.ru
 dal215.hawkhost.com
 diversion.banhkemcantho.com
 dns12.online.tj.cn
+ec2-3-239-13-6.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -88,6 +90,7 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 trafo.kz
+unassigned.psychz.net
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 vmi3028010.contaboserver.net
