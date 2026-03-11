@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+109-248-43-169.skylon.cloud
 11.ip-109-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -31,12 +32,15 @@ buffea-rteflt.greatexact.com
 client.yota.ru
 crawler029.deepfield.net
 crawler030.deepfield.net
+crawler068.deepfield.net
+crawler078.deepfield.net
 crawler101.deepfield.net
 crawler106.deepfield.net
 crawler133.deepfield.net
 crawler135.deepfield.net
 crawler163.deepfield.net
 crawler178.deepfield.net
+crawler244.deepfield.net
 crawler249.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
