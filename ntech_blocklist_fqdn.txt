@@ -45,6 +45,7 @@
 172-232-8-247.ip.linodeusercontent.com
 172-233-219-44.ip.linodeusercontent.com
 172-233-221-115.ip.linodeusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 172-234-192-12.ip.linodeusercontent.com
 172-234-192-95.ip.linodeusercontent.com
 172-234-199-134.ip.linodeusercontent.com
@@ -258,6 +259,7 @@ no-mans-land.m247.com
 olous.scan.bufferover.run
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
