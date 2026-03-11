@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.231.188.35.bc.googleusercontent.com
+150.211.203.35.bc.googleusercontent.com
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
 amz.unixwiz.net
