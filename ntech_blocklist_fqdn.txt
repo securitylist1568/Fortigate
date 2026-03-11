@@ -38,6 +38,7 @@
 185-45-195-15.hostsailor.com
 186.224.62.34.bc.googleusercontent.com
 193.61.14.34.bc.googleusercontent.com
+194-58-114-139.cloudvps.regruhosting.ru
 194.110.14.34.bc.googleusercontent.com
 196.113.155.104.bc.googleusercontent.com
 198.105.65.34.bc.googleusercontent.com
