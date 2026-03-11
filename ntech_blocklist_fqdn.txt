@@ -1,6 +1,7 @@
 1-34-13-89.hinet-ip.hinet.net
 1.164.34.34.bc.googleusercontent.com
 104.211.53.34.bc.googleusercontent.com
+107-173-61-155-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -34,6 +35,7 @@
 196.113.155.104.bc.googleusercontent.com
 200.219.62.34.bc.googleusercontent.com
 204.209.62.34.bc.googleusercontent.com
+212.251.62.34.bc.googleusercontent.com
 214.16.199.104.bc.googleusercontent.com
 215.187.79.34.bc.googleusercontent.com
 242.247.241.35.bc.googleusercontent.com
@@ -79,7 +81,10 @@ recyber.net
 scan-11i.shadowserver.org
 scan-20j.shadowserver.org
 scan-39k.shadowserver.org
+scan-45n.shadowserver.org
+scan-51d.shadowserver.org
 scan-64-9.shadowserver.org
+scan-67-7.shadowserver.org
 scan-72-00.shadowserver.org
 scan-73-01.shadowserver.org
 scan-73-09.shadowserver.org
@@ -92,6 +97,7 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.155.124.140.128.clients.your-server.de
 users219.vip.heteml.jp
 vm512105.hosted-by.u1host.com
 vmi3028010.contaboserver.net
