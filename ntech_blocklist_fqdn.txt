@@ -74,8 +74,16 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reusjuo.cn
 rping.ipip.net
+scan-37e.shadowserver.org
 scan-43e.shadowserver.org
+scan-49k.shadowserver.org
+scan-51l.shadowserver.org
 scan-63-3.shadowserver.org
+scan-64-10.shadowserver.org
+scan-66-7.shadowserver.org
+scan-79-07.shadowserver.org
+scan-81-6.shadowserver.org
+scan-82-4.shadowserver.org
 scan.f6.security
 scan.visionheight.com
 security.criminalip.com
