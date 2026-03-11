@@ -23,12 +23,16 @@
 162380.ip-ptr.tech
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
+203-74-130-205.hinet-ip.hinet.net
+245.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
 crawler101.deepfield.net
+crawler106.deepfield.net
 crawler133.deepfield.net
+crawler178.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-26-106-240.compute-1.amazonaws.com
