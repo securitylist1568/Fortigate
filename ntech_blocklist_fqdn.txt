@@ -23,11 +23,13 @@
 127.149.216.162.bc.googleusercontent.com
 134.150.216.162.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
+162380.ip-ptr.tech
 165.150.216.162.bc.googleusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.222.ptr.pfcloud.network
 211.150.216.162.bc.googleusercontent.com
+211.162.220.35.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 46.149.216.162.bc.googleusercontent.com
 54.16.26.34.bc.googleusercontent.com
@@ -56,6 +58,7 @@ li1972-67.members.linode.com
 mail.suporte.pro.br
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -70,12 +73,14 @@ scan-11i.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
 scan-13m.shadowserver.org
+scan-14a.shadowserver.org
 scan-14l.shadowserver.org
 scan-15i.shadowserver.org
 scan-15k.shadowserver.org
 scan-17i.shadowserver.org
 scan-17k.shadowserver.org
 scan-18d.shadowserver.org
+scan-18e.shadowserver.org
 scan-36o.shadowserver.org
 scan-37n.shadowserver.org
 scan-37o.shadowserver.org
@@ -83,10 +88,12 @@ scan-38f.shadowserver.org
 scan-39f.shadowserver.org
 scan-40l.shadowserver.org
 scan-42i.shadowserver.org
+scan-43m.shadowserver.org
 scan-44i.shadowserver.org
 scan-46k.shadowserver.org
 scan-47e.shadowserver.org
 scan-48e.shadowserver.org
+scan-52k.shadowserver.org
 scan-54i.shadowserver.org
 scan-58.security.ipip.net
 scan-59g.shadowserver.org
@@ -102,6 +109,7 @@ scan-63-7.shadowserver.org
 scan-64-2.shadowserver.org
 scan-65-9.shadowserver.org
 scan-67-2.shadowserver.org
+scan-69-04.shadowserver.org
 scan-71-02.shadowserver.org
 scan-74-05.shadowserver.org
 scan-74-08.shadowserver.org
@@ -117,6 +125,7 @@ scan-82-6.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-5.shadowserver.org
 scan-83-6.shadowserver.org
+scan-84-0.shadowserver.org
 scan-85-2.shadowserver.org
 scan-85-6.shadowserver.org
 scan-87-4.shadowserver.org
