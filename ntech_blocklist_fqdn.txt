@@ -87,6 +87,7 @@ scan-37o.shadowserver.org
 scan-38f.shadowserver.org
 scan-39f.shadowserver.org
 scan-40l.shadowserver.org
+scan-41n.shadowserver.org
 scan-42i.shadowserver.org
 scan-43m.shadowserver.org
 scan-44i.shadowserver.org
@@ -126,9 +127,11 @@ scan-83-2.shadowserver.org
 scan-83-5.shadowserver.org
 scan-83-6.shadowserver.org
 scan-84-0.shadowserver.org
+scan-84-6.shadowserver.org
 scan-85-2.shadowserver.org
 scan-85-6.shadowserver.org
 scan-87-4.shadowserver.org
+scan-89-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
