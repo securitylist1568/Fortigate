@@ -21,6 +21,7 @@
 112.210.203.35.bc.googleusercontent.com
 114.74.151.27.broad.fz.fj.dynamic.163data.com.cn
 118.150.216.162.bc.googleusercontent.com
+127.149.216.162.bc.googleusercontent.com
 134.150.216.162.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
 162380.ip-ptr.tech
@@ -72,6 +73,7 @@ scan-05n.shadowserver.org
 scan-06f.shadowserver.org
 scan-09m.shadowserver.org
 scan-15i.shadowserver.org
+scan-17i.shadowserver.org
 scan-17k.shadowserver.org
 scan-18a.shadowserver.org
 scan-18d.shadowserver.org
@@ -91,6 +93,7 @@ scan-63-6.shadowserver.org
 scan-64-2.shadowserver.org
 scan-67-2.shadowserver.org
 scan-69-05.shadowserver.org
+scan-71-02.shadowserver.org
 scan-74-08.shadowserver.org
 scan-75-07.shadowserver.org
 scan-78-02.shadowserver.org
