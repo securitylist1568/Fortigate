@@ -28,6 +28,7 @@
 167.149.216.162.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-90-44.ip.linodeusercontent.com
 192.211.203.35.bc.googleusercontent.com
@@ -40,6 +41,7 @@
 51-158-144-234.rev.poneytelecom.eu
 55.211.203.35.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
+71.150.216.162.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 96-126-108-55.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -66,11 +68,14 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-01n.shadowserver.org
+scan-06f.shadowserver.org
 scan-18a.shadowserver.org
+scan-19b.shadowserver.org
 scan-36e.shadowserver.org
 scan-38c.shadowserver.org
 scan-39k.shadowserver.org
 scan-44f.shadowserver.org
+scan-45g.shadowserver.org
 scan-45k.shadowserver.org
 scan-51b.shadowserver.org
 scan-59i.shadowserver.org
@@ -79,6 +84,7 @@ scan-61-4.shadowserver.org
 scan-62-9.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-9.shadowserver.org
+scan-69-05.shadowserver.org
 scan-69-07.shadowserver.org
 scan-70-04.shadowserver.org
 scan-71-02.shadowserver.org
