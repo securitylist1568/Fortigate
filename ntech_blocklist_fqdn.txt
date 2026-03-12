@@ -25,9 +25,11 @@
 162380.ip-ptr.tech
 164.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+195.150.216.162.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 216.150.216.162.bc.googleusercontent.com
+234.149.216.162.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
@@ -115,4 +117,5 @@ smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-225-147.mci01.us.misaka.io
+user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
