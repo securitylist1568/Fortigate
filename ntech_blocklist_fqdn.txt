@@ -28,6 +28,7 @@
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.222.ptr.pfcloud.network
+206.150.216.162.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
 211.162.220.35.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
@@ -124,12 +125,14 @@ scan-81-4.shadowserver.org
 scan-82-0.shadowserver.org
 scan-82-6.shadowserver.org
 scan-83-2.shadowserver.org
+scan-83-3.shadowserver.org
 scan-83-5.shadowserver.org
 scan-83-6.shadowserver.org
 scan-84-0.shadowserver.org
 scan-84-6.shadowserver.org
 scan-85-2.shadowserver.org
 scan-85-6.shadowserver.org
+scan-86-2.shadowserver.org
 scan-87-4.shadowserver.org
 scan-89-3.shadowserver.org
 scan.visionheight.com
