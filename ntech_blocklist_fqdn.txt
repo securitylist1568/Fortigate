@@ -38,6 +38,8 @@
 54.16.26.34.bc.googleusercontent.com
 66-228-32-187.ip.linodeusercontent.com
 74.210.203.35.bc.googleusercontent.com
+76.250.76.34.bc.googleusercontent.com
+95.67.233.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg0jy5ic.stretchoid.com
 azpdcg5ctycq.stretchoid.com
