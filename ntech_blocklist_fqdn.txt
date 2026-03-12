@@ -67,6 +67,7 @@
 218.14.187.35.bc.googleusercontent.com
 219.201.140.34.bc.googleusercontent.com
 22.211.203.35.bc.googleusercontent.com
+220.211.203.35.bc.googleusercontent.com
 228.221.140.34.bc.googleusercontent.com
 229.51.187.35.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
@@ -85,6 +86,7 @@
 36-229-163-197.dynamic-ip.hinet.net
 45-79-135-34.ip.linodeusercontent.com
 53.46.199.104.bc.googleusercontent.com
+54.16.26.34.bc.googleusercontent.com
 66-228-32-187.ip.linodeusercontent.com
 68.102.205.35.bc.googleusercontent.com
 69.232.38.34.bc.googleusercontent.com
