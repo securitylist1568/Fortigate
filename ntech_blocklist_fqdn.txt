@@ -90,12 +90,14 @@ scan-39f.shadowserver.org
 scan-40l.shadowserver.org
 scan-41n.shadowserver.org
 scan-42i.shadowserver.org
+scan-43l.shadowserver.org
 scan-43m.shadowserver.org
 scan-44i.shadowserver.org
 scan-46k.shadowserver.org
 scan-47e.shadowserver.org
 scan-48e.shadowserver.org
 scan-52k.shadowserver.org
+scan-53i.shadowserver.org
 scan-54i.shadowserver.org
 scan-58.security.ipip.net
 scan-59g.shadowserver.org
@@ -134,6 +136,7 @@ scan-85-2.shadowserver.org
 scan-85-6.shadowserver.org
 scan-86-2.shadowserver.org
 scan-87-4.shadowserver.org
+scan-88-4.shadowserver.org
 scan-89-3.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
