@@ -51,6 +51,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.europededicated.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-126.superbithost.com
 ip234.ip-15-235-104.net
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
@@ -70,6 +71,7 @@ scan-09m.shadowserver.org
 scan-11i.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
+scan-13m.shadowserver.org
 scan-14l.shadowserver.org
 scan-15i.shadowserver.org
 scan-17i.shadowserver.org
