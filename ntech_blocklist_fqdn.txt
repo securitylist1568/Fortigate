@@ -23,26 +23,21 @@
 127.149.216.162.bc.googleusercontent.com
 134.150.216.162.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
-160-3-221-54.cpe.sparklight.net
 165.150.216.162.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.222.ptr.pfcloud.network
 211.150.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 46.149.216.162.bc.googleusercontent.com
-51-158-144-234.rev.poneytelecom.eu
 54.16.26.34.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-71.150.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-bb151056.virtua.com.br
 client.yota.ru
 cm203-168-227-68.hkcable.com.hk
 d66-183-91-30.bchsia.telus.net
@@ -60,6 +55,7 @@ ip77.ip-51-91-168.eu
 li1972-67.members.linode.com
 mail.suporte.pro.br
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -67,7 +63,6 @@ recyber.net
 scan-01a.shadowserver.org
 scan-03f.shadowserver.org
 scan-05n.shadowserver.org
-scan-06f.shadowserver.org
 scan-08d.shadowserver.org
 scan-09m.shadowserver.org
 scan-09n.shadowserver.org
@@ -81,7 +76,6 @@ scan-15k.shadowserver.org
 scan-17i.shadowserver.org
 scan-17k.shadowserver.org
 scan-18d.shadowserver.org
-scan-19b.shadowserver.org
 scan-36o.shadowserver.org
 scan-37n.shadowserver.org
 scan-37o.shadowserver.org
@@ -90,7 +84,6 @@ scan-39f.shadowserver.org
 scan-40l.shadowserver.org
 scan-42i.shadowserver.org
 scan-44i.shadowserver.org
-scan-45g.shadowserver.org
 scan-46k.shadowserver.org
 scan-47e.shadowserver.org
 scan-48e.shadowserver.org
@@ -108,7 +101,6 @@ scan-63-7.shadowserver.org
 scan-64-2.shadowserver.org
 scan-65-9.shadowserver.org
 scan-67-2.shadowserver.org
-scan-69-05.shadowserver.org
 scan-71-02.shadowserver.org
 scan-74-05.shadowserver.org
 scan-74-08.shadowserver.org
@@ -132,3 +124,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vps3066101.trouble-free.net
