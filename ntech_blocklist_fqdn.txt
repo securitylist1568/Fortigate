@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+103.211.203.35.bc.googleusercontent.com
 109-248-43-169.skylon.cloud
 11.ip-109-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
@@ -22,6 +23,7 @@
 114.231.188.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 162380.ip-ptr.tech
+164.149.216.162.bc.googleusercontent.com
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
