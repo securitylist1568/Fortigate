@@ -52,6 +52,7 @@ dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip234.ip-15-235-104.net
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 li1972-67.members.linode.com
@@ -63,6 +64,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01a.shadowserver.org
+scan-03f.shadowserver.org
 scan-05n.shadowserver.org
 scan-06f.shadowserver.org
 scan-08d.shadowserver.org
@@ -86,10 +88,12 @@ scan-47e.shadowserver.org
 scan-54i.shadowserver.org
 scan-59g.shadowserver.org
 scan-59i.shadowserver.org
+scan-61-1.shadowserver.org
 scan-61-13.shadowserver.org
 scan-61-2.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-6.shadowserver.org
+scan-63-7.shadowserver.org
 scan-64-2.shadowserver.org
 scan-67-2.shadowserver.org
 scan-69-05.shadowserver.org
