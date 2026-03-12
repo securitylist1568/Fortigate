@@ -20,7 +20,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.231.188.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 162380.ip-ptr.tech
 164.149.216.162.bc.googleusercontent.com
@@ -30,6 +29,7 @@
 203-74-130-205.hinet-ip.hinet.net
 216.150.216.162.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
+248.149.216.162.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -96,7 +96,6 @@ scan-62-11.shadowserver.org
 scan-65-8.shadowserver.org
 scan-80-5.shadowserver.org
 scan.visionheight.com
-security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
