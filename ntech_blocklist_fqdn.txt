@@ -138,6 +138,7 @@ ip-56-114.4vendeta.com
 ip29.sudolio.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -151,4 +152,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-242-95.tpe01.tw.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
+v-share.us
 vps3282680.trouble-free.net
