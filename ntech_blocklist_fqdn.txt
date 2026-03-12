@@ -21,10 +21,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 120.149.216.162.bc.googleusercontent.com
+121.210.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
 162380.ip-ptr.tech
 164.149.216.162.bc.googleusercontent.com
+167.149.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
@@ -40,7 +42,6 @@
 81.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-buffea-rteflt.greatexact.com
 client.yota.ru
 crawler029.deepfield.net
 crawler030.deepfield.net
@@ -50,7 +51,6 @@ crawler099.deepfield.net
 crawler101.deepfield.net
 crawler106.deepfield.net
 crawler122.deepfield.net
-crawler133.deepfield.net
 crawler135.deepfield.net
 crawler142.deepfield.net
 crawler158.deepfield.net
@@ -125,7 +125,6 @@ scan-90-1.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
-srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-225-147.mci01.us.misaka.io
 user-170-39-227-251.sea02.us.misaka.io
