@@ -33,17 +33,14 @@
 185-45-195-15.hostsailor.com
 192-155-90-44.ip.linodeusercontent.com
 192.211.203.35.bc.googleusercontent.com
-195.150.216.162.bc.googleusercontent.com
 198.105.65.34.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
-234.149.216.162.bc.googleusercontent.com
 236.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 55.211.203.35.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
-7.149.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 71.150.216.162.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
@@ -63,7 +60,6 @@ ip140.ip-15-204-155.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 no-mans-land.m247.com
 node-150-107-213-147.alliancebroadband.in
 pc112.cses.ilc.edu.tw
@@ -109,9 +105,9 @@ scan-82-6.shadowserver.org
 scan-83-5.shadowserver.org
 scan-89-4.shadowserver.org
 scan-89-8.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
 zhangyuan3.virtuaserver.com.br
