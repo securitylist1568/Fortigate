@@ -21,6 +21,7 @@
 112.210.203.35.bc.googleusercontent.com
 114.74.151.27.broad.fz.fj.dynamic.163data.com.cn
 121.210.203.35.bc.googleusercontent.com
+134.150.216.162.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
 162380.ip-ptr.tech
@@ -28,6 +29,7 @@
 17.149.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
+180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-90-44.ip.linodeusercontent.com
 192.211.203.35.bc.googleusercontent.com
@@ -41,6 +43,7 @@
 55.211.203.35.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
 71.150.216.162.bc.googleusercontent.com
+91.211.203.35.bc.googleusercontent.com
 96-126-108-55.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
