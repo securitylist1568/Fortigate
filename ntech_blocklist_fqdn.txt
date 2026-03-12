@@ -41,7 +41,9 @@
 37.150.216.162.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 55.211.203.35.bc.googleusercontent.com
+60.150.216.162.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 71.150.216.162.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 96-126-108-55.ip.linodeusercontent.com
