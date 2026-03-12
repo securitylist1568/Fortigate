@@ -25,6 +25,7 @@
 134.150.216.162.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
 162380.ip-ptr.tech
+165.150.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -46,6 +47,7 @@ b2.org.afilias-nst.org
 bb151056.virtua.com.br
 client.yota.ru
 cm203-168-227-68.hkcable.com.hk
+d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -56,6 +58,7 @@ ip140.ip-15-204-155.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 li1972-67.members.linode.com
+mail.suporte.pro.br
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 node-150-107-213-147.alliancebroadband.in
