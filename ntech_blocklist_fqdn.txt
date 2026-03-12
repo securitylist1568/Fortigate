@@ -26,9 +26,11 @@
 164.149.216.162.bc.googleusercontent.com
 183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
+199.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 216.150.216.162.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
+252.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
@@ -44,6 +46,7 @@ crawler122.deepfield.net
 crawler133.deepfield.net
 crawler135.deepfield.net
 crawler142.deepfield.net
+crawler158.deepfield.net
 crawler163.deepfield.net
 crawler178.deepfield.net
 crawler214.deepfield.net
