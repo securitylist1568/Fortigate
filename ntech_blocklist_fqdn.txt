@@ -62,6 +62,7 @@
 219.201.140.34.bc.googleusercontent.com
 22.211.203.35.bc.googleusercontent.com
 220.211.203.35.bc.googleusercontent.com
+228.149.216.162.bc.googleusercontent.com
 228.221.140.34.bc.googleusercontent.com
 229.51.187.35.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
@@ -152,8 +153,10 @@ buffea-rteflt.greatexact.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-27-226-38.compute-1.amazonaws.com
 ec2-13-220-49-234.compute-1.amazonaws.com
 ec2-13-222-246-187.compute-1.amazonaws.com
+ec2-18-208-191-195.compute-1.amazonaws.com
 ec2-18-212-65-237.compute-1.amazonaws.com
 ec2-18-233-100-117.compute-1.amazonaws.com
 ec2-204-236-211-208.compute-1.amazonaws.com
@@ -166,9 +169,11 @@ ec2-34-226-195-14.compute-1.amazonaws.com
 ec2-34-230-72-200.compute-1.amazonaws.com
 ec2-44-201-161-32.compute-1.amazonaws.com
 ec2-44-201-208-109.compute-1.amazonaws.com
+ec2-54-147-248-14.compute-1.amazonaws.com
 ec2-54-166-112-195.compute-1.amazonaws.com
 ec2-54-196-240-224.compute-1.amazonaws.com
 ec2-54-211-15-44.compute-1.amazonaws.com
+ec2-54-224-210-222.compute-1.amazonaws.com
 ec2-54-87-12-131.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
@@ -194,3 +199,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
+vps3282680.trouble-free.net
