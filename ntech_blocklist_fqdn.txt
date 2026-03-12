@@ -38,6 +38,7 @@ crawler078.deepfield.net
 crawler099.deepfield.net
 crawler101.deepfield.net
 crawler106.deepfield.net
+crawler122.deepfield.net
 crawler133.deepfield.net
 crawler135.deepfield.net
 crawler142.deepfield.net
@@ -85,6 +86,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-56.security.ipip.net
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
