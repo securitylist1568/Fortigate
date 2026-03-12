@@ -29,6 +29,7 @@
 167.149.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192-155-90-44.ip.linodeusercontent.com
 195.150.216.162.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
@@ -37,9 +38,11 @@
 245.150.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
+37.150.216.162.bc.googleusercontent.com
 55.211.203.35.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
+96-126-108-55.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
