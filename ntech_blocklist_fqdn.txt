@@ -45,6 +45,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bb151056.virtua.com.br
 client.yota.ru
+cm203-168-227-68.hkcable.com.hk
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -85,6 +86,7 @@ scan-44i.shadowserver.org
 scan-45g.shadowserver.org
 scan-45k.shadowserver.org
 scan-46k.shadowserver.org
+scan-47e.shadowserver.org
 scan-54i.shadowserver.org
 scan-59g.shadowserver.org
 scan-59i.shadowserver.org
