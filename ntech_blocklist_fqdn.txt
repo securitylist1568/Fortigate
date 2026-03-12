@@ -20,10 +20,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+120.149.216.162.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 162380.ip-ptr.tech
 164.149.216.162.bc.googleusercontent.com
-183.22.189.107.static.cloudzy.com
 185-45-195-15.hostsailor.com
 199.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
@@ -65,7 +65,6 @@ ec2-13-220-89-31.compute-1.amazonaws.com
 ec2-18-206-234-118.compute-1.amazonaws.com
 ec2-18-212-220-245.compute-1.amazonaws.com
 ec2-18-234-110-131.compute-1.amazonaws.com
-ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-3-92-133-86.compute-1.amazonaws.com
 ec2-44-201-212-55.compute-1.amazonaws.com
 ec2-44-203-116-223.compute-1.amazonaws.com
@@ -80,9 +79,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-134.4vendeta.com
-ip-49-58.4vendeta.com
-ip-56-114.4vendeta.com
 ip-56-138.4vendeta.com
 ip29.sudolio.io
 ip96.ip-51-38-211.eu
@@ -118,6 +114,5 @@ scan.visionheight.com
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unassigned.psychz.net
 user-170-39-225-147.mci01.us.misaka.io
 users219.vip.heteml.jp
