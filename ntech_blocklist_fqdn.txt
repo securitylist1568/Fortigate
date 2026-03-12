@@ -28,6 +28,7 @@
 172-232-32-15.ip.linodeusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+204.76.203.222.ptr.pfcloud.network
 211.150.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 46.149.216.162.bc.googleusercontent.com
@@ -53,6 +54,7 @@ hosted-by.europededicated.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
 ip234.ip-15-235-104.net
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
 li1972-67.members.linode.com
@@ -68,6 +70,7 @@ scan-05n.shadowserver.org
 scan-06f.shadowserver.org
 scan-08d.shadowserver.org
 scan-09m.shadowserver.org
+scan-09n.shadowserver.org
 scan-11i.shadowserver.org
 scan-12m.shadowserver.org
 scan-13g.shadowserver.org
@@ -90,13 +93,16 @@ scan-44i.shadowserver.org
 scan-45g.shadowserver.org
 scan-46k.shadowserver.org
 scan-47e.shadowserver.org
+scan-48e.shadowserver.org
 scan-54i.shadowserver.org
 scan-59g.shadowserver.org
 scan-59i.shadowserver.org
+scan-60-8.shadowserver.org
 scan-61-1.shadowserver.org
 scan-61-13.shadowserver.org
 scan-61-2.shadowserver.org
 scan-61-7.shadowserver.org
+scan-62-12.shadowserver.org
 scan-63-6.shadowserver.org
 scan-63-7.shadowserver.org
 scan-64-2.shadowserver.org
