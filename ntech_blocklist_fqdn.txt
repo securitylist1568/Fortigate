@@ -31,6 +31,7 @@
 245.150.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
+81.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
@@ -94,6 +95,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-38c.shadowserver.org
+scan-44f.shadowserver.org
 scan-51b.shadowserver.org
 scan-56.security.ipip.net
 scan-59i.shadowserver.org
@@ -111,6 +113,7 @@ scan-80-5.shadowserver.org
 scan-83-7.shadowserver.org
 scan-86-6.shadowserver.org
 scan-89-9.shadowserver.org
+scan-90-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
