@@ -37,6 +37,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.211.203.35.bc.googleusercontent.com
 166.247.62.34.bc.googleusercontent.com
+168.150.216.162.bc.googleusercontent.com
 170.231.53.34.bc.googleusercontent.com
 170.33.187.35.bc.googleusercontent.com
 174.102.38.34.bc.googleusercontent.com
@@ -81,10 +82,12 @@
 25.195.52.34.bc.googleusercontent.com
 252.30.76.34.bc.googleusercontent.com
 32.84.77.34.bc.googleusercontent.com
+36-229-150-36.dynamic-ip.hinet.net
 36-229-163-197.dynamic-ip.hinet.net
 45-79-135-34.ip.linodeusercontent.com
 53.46.199.104.bc.googleusercontent.com
 54.16.26.34.bc.googleusercontent.com
+63.150.216.162.bc.googleusercontent.com
 66-228-32-187.ip.linodeusercontent.com
 66.210.203.35.bc.googleusercontent.com
 68.102.205.35.bc.googleusercontent.com
@@ -92,6 +95,7 @@
 74.210.203.35.bc.googleusercontent.com
 76.250.76.34.bc.googleusercontent.com
 83.233.52.34.bc.googleusercontent.com
+85.150.216.162.bc.googleusercontent.com
 91.72.195.35.bc.googleusercontent.com
 92.48.38.34.bc.googleusercontent.com
 95.67.233.35.bc.googleusercontent.com
