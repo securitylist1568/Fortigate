@@ -30,6 +30,7 @@
 151.210.203.35.bc.googleusercontent.com
 157.177.79.34.bc.googleusercontent.com
 159.213.52.34.bc.googleusercontent.com
+162380.ip-ptr.tech
 166.247.62.34.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 170.231.53.34.bc.googleusercontent.com
