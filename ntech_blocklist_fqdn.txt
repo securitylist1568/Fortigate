@@ -26,7 +26,6 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 162380.ip-ptr.tech
 163.211.203.35.bc.googleusercontent.com
-165.150.216.162.bc.googleusercontent.com
 1770380771598-a3dedf7ddc49a.local
 185-45-195-15.hostsailor.com
 204.76.203.222.ptr.pfcloud.network
@@ -36,7 +35,6 @@
 23-168-136-153.rev.circlevps.net
 25.150.216.162.bc.googleusercontent.com
 45-79-135-34.ip.linodeusercontent.com
-46.149.216.162.bc.googleusercontent.com
 54.16.26.34.bc.googleusercontent.com
 66-228-32-187.ip.linodeusercontent.com
 74.210.203.35.bc.googleusercontent.com
@@ -177,8 +175,6 @@ azpdssy0xbfs.stretchoid.com
 azpdssya3d1q.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-cm203-168-227-68.hkcable.com.hk
-d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-239-13-6.compute-1.amazonaws.com
@@ -191,7 +187,6 @@ ip234.ip-15-235-104.net
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
-mail.suporte.pro.br
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
@@ -202,9 +197,7 @@ recyber.net
 rootevidence.com
 scale-down-test-1773165142557-87af7d86.mongo.ondigitalocean.com
 scan-03f.shadowserver.org
-scan-08d.shadowserver.org
 scan-09n.shadowserver.org
-scan-12m.shadowserver.org
 scan-13g.shadowserver.org
 scan-13m.shadowserver.org
 scan-14a.shadowserver.org
@@ -216,7 +209,6 @@ scan-41n.shadowserver.org
 scan-42i.shadowserver.org
 scan-43l.shadowserver.org
 scan-43m.shadowserver.org
-scan-47e.shadowserver.org
 scan-48e.shadowserver.org
 scan-52k.shadowserver.org
 scan-53i.shadowserver.org
@@ -224,7 +216,6 @@ scan-57k.shadowserver.org
 scan-58.security.ipip.net
 scan-60-8.shadowserver.org
 scan-61-1.shadowserver.org
-scan-61-2.shadowserver.org
 scan-62-12.shadowserver.org
 scan-63-7.shadowserver.org
 scan-65-9.shadowserver.org
