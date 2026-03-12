@@ -88,6 +88,7 @@ scan-46k.shadowserver.org
 scan-47e.shadowserver.org
 scan-48e.shadowserver.org
 scan-54i.shadowserver.org
+scan-58.security.ipip.net
 scan-59g.shadowserver.org
 scan-59i.shadowserver.org
 scan-60-8.shadowserver.org
@@ -123,5 +124,6 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 vps3066101.trouble-free.net
