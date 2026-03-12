@@ -33,6 +33,7 @@
 245.150.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
+7.149.216.162.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -86,6 +87,7 @@ ip29.sudolio.io
 ip96.ip-51-38-211.eu
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
