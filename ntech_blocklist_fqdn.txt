@@ -28,6 +28,7 @@
 172-104-100-28.ip.linodeusercontent.com
 173-255-233-9.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192-155-90-42.ip.linodeusercontent.com
 197-248-3-28.safaricombusiness.co.ke
 198-12-115-30-host.colocrossing.com
 20.149.216.162.bc.googleusercontent.com
@@ -63,6 +64,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scale-down-test-1769830195632-942a0b68.mongo.ondigitalocean.com
 scan.visionheight.com
 security.criminalip.com
