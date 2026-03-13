@@ -118,9 +118,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+roughprice.ptr.network
 scan-06j.shadowserver.org
 scan-11c.shadowserver.org
 scan-14j.shadowserver.org
+scan-15k.shadowserver.org
+scan-19b.shadowserver.org
 scan-19n.shadowserver.org
 scan-43b.shadowserver.org
 scan-49n.shadowserver.org
