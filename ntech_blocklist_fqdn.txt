@@ -72,6 +72,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+coinspe.com
 crawler026.deepfield.net
 crawler034.deepfield.net
 crawler060.deepfield.net
