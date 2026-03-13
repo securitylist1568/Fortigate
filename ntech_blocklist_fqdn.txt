@@ -20,6 +20,7 @@
 162380.ip-ptr.tech
 185-45-195-15.hostsailor.com
 213.149.216.162.bc.googleusercontent.com
+37.150.216.162.bc.googleusercontent.com
 39.210.203.35.bc.googleusercontent.com
 60.211.203.35.bc.googleusercontent.com
 86.211.203.35.bc.googleusercontent.com
