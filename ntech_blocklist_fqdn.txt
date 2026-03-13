@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 106.211.203.35.bc.googleusercontent.com
+107-173-61-155-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -56,6 +57,7 @@ ec2-54-82-40-232.compute-1.amazonaws.com
 ec2-54-85-125-115.compute-1.amazonaws.com
 ec2-54-86-179-2.compute-1.amazonaws.com
 ec2-54-92-204-5.compute-1.amazonaws.com
+ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-94-39-8.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 guy.probe.onyphe.net
@@ -115,7 +117,6 @@ scan-88-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
-srv-185-169-4-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.200.215.156.178.clients.your-server.de
 users219.vip.heteml.jp
