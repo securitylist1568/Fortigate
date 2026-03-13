@@ -73,14 +73,11 @@ scan-64-4.shadowserver.org
 scan-64-8.shadowserver.org
 scan-66-11.shadowserver.org
 scan-66-2.shadowserver.org
-scan-67-4.shadowserver.org
-scan-67-5.shadowserver.org
 scan-69-07.shadowserver.org
 scan-71-04.shadowserver.org
 scan-73-01.shadowserver.org
 scan-76-07.shadowserver.org
 scan-79-07.shadowserver.org
-scan-80-2.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-4.shadowserver.org
 scan-84-9.shadowserver.org
@@ -93,7 +90,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.45.173.156.178.clients.your-server.de
 static.ill.117.250.115.194.bsnl.co.in
-static.vnpt.vn
 user-170-39-227-143.sea02.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
