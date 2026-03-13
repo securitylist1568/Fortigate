@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+115.150.216.162.bc.googleusercontent.com
 116.137.77.34.bc.googleusercontent.com
 118.170.79.34.bc.googleusercontent.com
 120.218.53.34.bc.googleusercontent.com
@@ -58,6 +59,7 @@
 39.134.52.34.bc.googleusercontent.com
 43.68.211.130.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
+51-158-144-234.rev.poneytelecom.eu
 58.146.22.34.bc.googleusercontent.com
 60.0.199.104.bc.googleusercontent.com
 63.98.77.34.bc.googleusercontent.com
@@ -102,6 +104,7 @@ ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -124,6 +127,7 @@ scan-11c.shadowserver.org
 scan-14j.shadowserver.org
 scan-17o.shadowserver.org
 scan-18d.shadowserver.org
+scan-19n.shadowserver.org
 scan-36m.shadowserver.org
 scan-43b.shadowserver.org
 scan-45n.shadowserver.org
@@ -142,10 +146,13 @@ scan-79-05.shadowserver.org
 scan-79-07.shadowserver.org
 scan-84-0.shadowserver.org
 scan-84-4.shadowserver.org
+scan-85-1.shadowserver.org
 scan-85-7.shadowserver.org
 scan-86-4.shadowserver.org
+scan-86-7.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-6.shadowserver.org
+scan-87-8.shadowserver.org
 scan-90-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
