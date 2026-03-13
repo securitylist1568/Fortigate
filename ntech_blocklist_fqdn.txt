@@ -113,6 +113,7 @@ scan-87-5.shadowserver.org
 scan-88-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
+server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.123.211.161.5.clients.your-server.de
