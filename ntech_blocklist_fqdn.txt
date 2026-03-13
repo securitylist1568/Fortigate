@@ -74,6 +74,7 @@ ip140.ip-15-204-155.us
 ip29.sudolio.io
 mail.younivi.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -99,6 +100,7 @@ scan-48f.shadowserver.org
 scan-56k.shadowserver.org
 scan-56m.shadowserver.org
 scan-60-10.shadowserver.org
+scan-60-3.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-6.shadowserver.org
 scan-61-9.shadowserver.org
@@ -125,6 +127,7 @@ scan-84-1.shadowserver.org
 scan-84-4.shadowserver.org
 scan-85-0.shadowserver.org
 scan-85-1.shadowserver.org
+scan-86-3.shadowserver.org
 scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-87-5.shadowserver.org
