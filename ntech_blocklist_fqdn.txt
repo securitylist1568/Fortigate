@@ -62,6 +62,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scale-down-test-1769830195632-942a0b68.mongo.ondigitalocean.com
 scan-49b.shadowserver.org
 scan-60-3.shadowserver.org
 scan-86-3.shadowserver.org
