@@ -30,6 +30,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
+cm203-168-227-68.hkcable.com.hk
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
