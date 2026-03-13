@@ -87,6 +87,7 @@ ec2-54-211-15-44.compute-1.amazonaws.com
 ec2-54-224-210-222.compute-1.amazonaws.com
 ec2-54-87-12-131.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
+epait.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -101,9 +102,14 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-51j.shadowserver.org
+scan-66-11.shadowserver.org
 scan-67-4.shadowserver.org
 scan-67-5.shadowserver.org
+scan-69-07.shadowserver.org
 scan-80-2.shadowserver.org
+scan-83-3.shadowserver.org
+scan-84-4.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
