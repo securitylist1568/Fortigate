@@ -47,6 +47,7 @@ ec2-18-208-191-195.compute-1.amazonaws.com
 ec2-18-212-65-237.compute-1.amazonaws.com
 ec2-18-233-100-117.compute-1.amazonaws.com
 ec2-204-236-211-208.compute-1.amazonaws.com
+ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-3-85-39-134.compute-1.amazonaws.com
 ec2-3-95-37-98.compute-1.amazonaws.com
 ec2-34-201-116-207.compute-1.amazonaws.com
