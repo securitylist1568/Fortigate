@@ -41,10 +41,12 @@ ec2-3-94-201-110.compute-1.amazonaws.com
 ec2-32-192-238-67.compute-1.amazonaws.com
 ec2-34-224-57-237.compute-1.amazonaws.com
 ec2-34-224-74-175.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-34-235-115-207.compute-1.amazonaws.com
 ec2-34-239-122-61.compute-1.amazonaws.com
 ec2-44-202-55-17.compute-1.amazonaws.com
 ec2-44-203-192-145.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-207-126-70.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-164-79-148.compute-1.amazonaws.com
