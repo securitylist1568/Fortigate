@@ -21,6 +21,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 158.210.203.35.bc.googleusercontent.com
+162380.ip-ptr.tech
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 197-248-3-28.safaricombusiness.co.ke
@@ -29,6 +30,7 @@
 210.211.203.35.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
+32.210.203.35.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 60-249-14-121.hinet-ip.hinet.net
 87.211.203.35.bc.googleusercontent.com
