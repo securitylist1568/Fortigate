@@ -55,6 +55,8 @@
 69.232.38.34.bc.googleusercontent.com
 83.233.52.34.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
+86.211.203.35.bc.googleusercontent.com
+9.211.203.35.bc.googleusercontent.com
 92.48.38.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -90,6 +92,7 @@ ec2-75-101-194-144.compute-1.amazonaws.com
 epait.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.europededicated.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-134.4vendeta.com
 ip-49-58.4vendeta.com
@@ -103,6 +106,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-51j.shadowserver.org
+scan-64-8.shadowserver.org
 scan-66-11.shadowserver.org
 scan-67-4.shadowserver.org
 scan-67-5.shadowserver.org
@@ -110,6 +114,7 @@ scan-69-07.shadowserver.org
 scan-80-2.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-4.shadowserver.org
+scan-84-9.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
