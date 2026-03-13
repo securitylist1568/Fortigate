@@ -65,6 +65,8 @@ ec2-54-87-12-131.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
 epait.cn
 festa04.jcatransporte.com.br
+gertrude.probe.onyphe.net
+hkhdc.laws.ms
 hn.kd.ny.adsl
 hosted-by.europededicated.com
 htb-h9b8tjwfph.htb-cloud.com
