@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+205.210.203.35.bc.googleusercontent.com
 213.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 39.210.203.35.bc.googleusercontent.com
@@ -56,6 +57,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-05n.shadowserver.org
+scan-06j.shadowserver.org
 scan-17o.shadowserver.org
 scan-18d.shadowserver.org
 scan-36m.shadowserver.org
@@ -83,6 +85,7 @@ scan-84-9.shadowserver.org
 scan-85-7.shadowserver.org
 scan-87-6.shadowserver.org
 scan-88-7.shadowserver.org
+scan-90-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
