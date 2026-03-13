@@ -31,6 +31,7 @@
 159.213.52.34.bc.googleusercontent.com
 161.235.22.34.bc.googleusercontent.com
 162.83.155.104.bc.googleusercontent.com
+166.211.203.35.bc.googleusercontent.com
 17.212.76.34.bc.googleusercontent.com
 172.39.187.35.bc.googleusercontent.com
 181.130.78.34.bc.googleusercontent.com
@@ -97,6 +98,7 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
+ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
@@ -117,6 +119,7 @@ recyber.net
 rootevidence.com
 scan-05n.shadowserver.org
 scan-06j.shadowserver.org
+scan-11c.shadowserver.org
 scan-14j.shadowserver.org
 scan-17o.shadowserver.org
 scan-18d.shadowserver.org
@@ -125,12 +128,15 @@ scan-45n.shadowserver.org
 scan-47o.shadowserver.org
 scan-49n.shadowserver.org
 scan-56d.shadowserver.org
+scan-61-9.shadowserver.org
 scan-64-2.shadowserver.org
 scan-64-4.shadowserver.org
+scan-64-8.shadowserver.org
 scan-71-04.shadowserver.org
 scan-73-01.shadowserver.org
 scan-79-03.shadowserver.org
 scan-79-07.shadowserver.org
+scan-84-4.shadowserver.org
 scan-85-7.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-6.shadowserver.org
