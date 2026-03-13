@@ -39,6 +39,7 @@
 185-45-195-15.hostsailor.com
 198.66.14.34.bc.googleusercontent.com
 206.7.14.34.bc.googleusercontent.com
+207.190.158.34.bc.googleusercontent.com
 212.135.53.34.bc.googleusercontent.com
 220.232.62.34.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
@@ -112,6 +113,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 roughprice.ptr.network
+scan-02j.shadowserver.org
 scan-06g.shadowserver.org
 scan-09f.shadowserver.org
 scan-11c.shadowserver.org
@@ -119,6 +121,7 @@ scan-14j.shadowserver.org
 scan-15k.shadowserver.org
 scan-19b.shadowserver.org
 scan-19n.shadowserver.org
+scan-39l.shadowserver.org
 scan-43b.shadowserver.org
 scan-46f.shadowserver.org
 scan-48f.shadowserver.org
