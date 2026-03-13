@@ -57,6 +57,7 @@ ec2-34-226-195-14.compute-1.amazonaws.com
 ec2-34-230-72-200.compute-1.amazonaws.com
 ec2-44-201-161-32.compute-1.amazonaws.com
 ec2-44-201-208-109.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-54-147-248-14.compute-1.amazonaws.com
 ec2-54-166-112-195.compute-1.amazonaws.com
 ec2-54-196-240-224.compute-1.amazonaws.com
@@ -64,6 +65,8 @@ ec2-54-211-15-44.compute-1.amazonaws.com
 ec2-54-224-210-222.compute-1.amazonaws.com
 ec2-54-87-12-131.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
+ec2-98-89-204-118.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 epait.cn
 festa04.jcatransporte.com.br
 gertrude.probe.onyphe.net
@@ -100,3 +103,4 @@ user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 v-share.us
 vps3282680.trouble-free.net
+www.internet-albedo.net
