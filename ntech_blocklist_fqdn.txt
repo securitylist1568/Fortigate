@@ -33,6 +33,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 coinspe.com
 crawler032.deepfield.net
+crawler065.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-219-1-233.compute-1.amazonaws.com
@@ -50,6 +51,7 @@ ec2-44-202-55-17.compute-1.amazonaws.com
 ec2-44-203-192-145.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-207-126-70.compute-1.amazonaws.com
+ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-54-164-79-148.compute-1.amazonaws.com
 ec2-54-196-157-164.compute-1.amazonaws.com
 ec2-54-226-226-30.compute-1.amazonaws.com
