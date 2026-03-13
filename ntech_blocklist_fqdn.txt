@@ -134,6 +134,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-67-4.shadowserver.org
+scan-67-5.shadowserver.org
+scan-80-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
