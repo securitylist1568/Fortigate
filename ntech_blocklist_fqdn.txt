@@ -26,6 +26,7 @@
 60.211.203.35.bc.googleusercontent.com
 86.211.203.35.bc.googleusercontent.com
 9.211.203.35.bc.googleusercontent.com
+adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
@@ -70,6 +71,7 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 hosted-by.europededicated.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-58.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -103,6 +105,7 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.ill.117.250.115.194.bsnl.co.in
 static.vnpt.vn
+user-45-131-71-129.ber02.de.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 v-share.us
