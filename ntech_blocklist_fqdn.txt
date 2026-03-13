@@ -21,11 +21,8 @@
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 211.162.220.35.bc.googleusercontent.com
-220.211.203.35.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
-249.211.203.35.bc.googleusercontent.com
 36-229-150-36.dynamic-ip.hinet.net
-54.16.26.34.bc.googleusercontent.com
 60.211.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
@@ -99,7 +96,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.ill.117.250.115.194.bsnl.co.in
 static.vnpt.vn
 user-45-150-242-95.tpe01.tw.misaka.io
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 v-share.us
 vps3282680.trouble-free.net
