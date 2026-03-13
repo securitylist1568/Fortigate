@@ -101,6 +101,7 @@ ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+guy.probe.onyphe.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-15-204-155.us
@@ -119,13 +120,16 @@ scan-09f.shadowserver.org
 scan-11c.shadowserver.org
 scan-13l.shadowserver.org
 scan-14j.shadowserver.org
+scan-15i.shadowserver.org
 scan-15k.shadowserver.org
 scan-19b.shadowserver.org
 scan-19n.shadowserver.org
 scan-36l.shadowserver.org
+scan-37n.shadowserver.org
 scan-39l.shadowserver.org
 scan-43b.shadowserver.org
 scan-46f.shadowserver.org
+scan-46k.shadowserver.org
 scan-48f.shadowserver.org
 scan-56d.shadowserver.org
 scan-56k.shadowserver.org
@@ -134,6 +138,7 @@ scan-60-10.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-6.shadowserver.org
 scan-61-9.shadowserver.org
+scan-62-11.shadowserver.org
 scan-62-4.shadowserver.org
 scan-63-3.shadowserver.org
 scan-63-5.shadowserver.org
@@ -141,10 +146,12 @@ scan-64-2.shadowserver.org
 scan-64-6.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-2.shadowserver.org
+scan-66-2.shadowserver.org
 scan-67-11.shadowserver.org
 scan-68-08.shadowserver.org
 scan-69-02.shadowserver.org
 scan-69-04.shadowserver.org
+scan-71-06.shadowserver.org
 scan-72-05.shadowserver.org
 scan-73-03.shadowserver.org
 scan-76-08.shadowserver.org
