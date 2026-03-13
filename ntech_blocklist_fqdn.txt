@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 116.137.77.34.bc.googleusercontent.com
 118.170.79.34.bc.googleusercontent.com
+120.218.53.34.bc.googleusercontent.com
 127.57.199.104.bc.googleusercontent.com
 129.185.53.34.bc.googleusercontent.com
 141.145.77.34.bc.googleusercontent.com
@@ -85,6 +86,7 @@ crawler141.deepfield.net
 crawler158.deepfield.net
 crawler166.deepfield.net
 crawler167.deepfield.net
+crawler199.deepfield.net
 crawler212.deepfield.net
 crawler220.deepfield.net
 dal215.hawkhost.com
@@ -98,6 +100,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-58.4vendeta.com
+ip140.ip-15-204-155.us
 ip29.sudolio.io
 li1817-110.members.linode.com
 li1873-236.members.linode.com
@@ -140,6 +143,7 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.45.173.156.178.clients.your-server.de
 user-170-39-227-143.sea02.us.misaka.io
+user-209-209-57-134.sjc10.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 vps-fac5c729.vps.ovh.net
