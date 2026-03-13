@@ -72,6 +72,8 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 cm203-168-227-68.hkcable.com.hk
+crawler026.deepfield.net
+crawler034.deepfield.net
 crawler060.deepfield.net
 crawler085.deepfield.net
 crawler086.deepfield.net
@@ -80,9 +82,11 @@ crawler115.deepfield.net
 crawler118.deepfield.net
 crawler137.deepfield.net
 crawler141.deepfield.net
+crawler158.deepfield.net
 crawler166.deepfield.net
 crawler167.deepfield.net
 crawler212.deepfield.net
+crawler220.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
