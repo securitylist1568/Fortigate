@@ -36,13 +36,17 @@
 222.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
+248.149.216.162.bc.googleusercontent.com
 249.211.203.35.bc.googleusercontent.com
+31.210.203.35.bc.googleusercontent.com
+81.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdsg8nhpr6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-16-112-26-59.ap-south-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
