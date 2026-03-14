@@ -30,6 +30,7 @@
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
+198.116.239.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 220-136-150-189.dynamic-ip.hinet.net
@@ -56,6 +57,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip-58-98.4vendeta.com
 ip29.sudolio.io
+ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
 netbox.entecnet.com.br
 no-mans-land.m247.com
