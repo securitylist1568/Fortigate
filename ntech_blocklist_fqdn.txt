@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 10.149.216.162.bc.googleusercontent.com
+103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -39,9 +40,11 @@
 43.150.216.162.bc.googleusercontent.com
 45-79-142-67.ip.linodeusercontent.com
 47.149.216.162.bc.googleusercontent.com
+56.211.203.35.bc.googleusercontent.com
 61-231-8-96.dynamic-ip.hinet.net
 68.150.216.162.bc.googleusercontent.com
 78.149.216.162.bc.googleusercontent.com
+79.211.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
@@ -59,6 +62,7 @@ ip29.sudolio.io
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+netbox.entecnet.com.br
 no-mans-land.m247.com
 onesky.org
 pc112.cses.ilc.edu.tw
