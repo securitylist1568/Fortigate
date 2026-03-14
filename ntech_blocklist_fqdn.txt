@@ -31,6 +31,7 @@
 192-155-90-42.ip.linodeusercontent.com
 197-248-3-28.safaricombusiness.co.ke
 20.149.216.162.bc.googleusercontent.com
+212.149.216.162.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
