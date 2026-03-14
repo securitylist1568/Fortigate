@@ -47,6 +47,7 @@
 170-187-165-130.ip.linodeusercontent.com
 172-232-15-250.ip.linodeusercontent.com
 172-232-27-232.ip.linodeusercontent.com
+172-232-8-247.ip.linodeusercontent.com
 172-233-219-44.ip.linodeusercontent.com
 172-233-221-115.ip.linodeusercontent.com
 172-234-192-12.ip.linodeusercontent.com
@@ -115,6 +116,7 @@
 242.150.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
+39.149.216.162.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
 45-33-105-76.ip.linodeusercontent.com
@@ -191,6 +193,7 @@ scan-61-13.shadowserver.org
 scan-66-10.shadowserver.org
 scan-66-7.shadowserver.org
 scan-69-06.shadowserver.org
+scan-74-02.shadowserver.org
 scan-78-09.shadowserver.org
 scan-81-0.shadowserver.org
 scan-86-9.shadowserver.org
