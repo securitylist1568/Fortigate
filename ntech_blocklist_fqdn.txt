@@ -56,6 +56,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
+hostedby.125.160.222.185.axushost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
