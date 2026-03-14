@@ -87,13 +87,16 @@ scan-44o.shadowserver.org
 scan-45g.shadowserver.org
 scan-46e.shadowserver.org
 scan-46h.shadowserver.org
+scan-47e.shadowserver.org
 scan-48c.shadowserver.org
+scan-48d.shadowserver.org
 scan-48f.shadowserver.org
 scan-49d.shadowserver.org
 scan-56k.shadowserver.org
 scan-58d.shadowserver.org
 scan-59m.shadowserver.org
 scan-60.security.ipip.net
+scan-61-13.shadowserver.org
 scan-61-2.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-4.shadowserver.org
@@ -110,6 +113,7 @@ scan-67-13.shadowserver.org
 scan-67-3.shadowserver.org
 scan-68-04.shadowserver.org
 scan-69-01.shadowserver.org
+scan-69-03.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-07.shadowserver.org
 scan-73-08.shadowserver.org
@@ -121,6 +125,7 @@ scan-76-06.shadowserver.org
 scan-78-05.shadowserver.org
 scan-78-07.shadowserver.org
 scan-79-07.shadowserver.org
+scan-79-09.shadowserver.org
 scan-80-5.shadowserver.org
 scan-80-9.shadowserver.org
 scan-81-4.shadowserver.org
@@ -128,6 +133,8 @@ scan-81-6.shadowserver.org
 scan-83-4.shadowserver.org
 scan-83-6.shadowserver.org
 scan-84-9.shadowserver.org
+scan-85-3.shadowserver.org
+scan-86-2.shadowserver.org
 scan-87-4.shadowserver.org
 scan-87-6.shadowserver.org
 scan-88-1.shadowserver.org
