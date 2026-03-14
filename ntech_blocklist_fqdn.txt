@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.149.216.162.bc.googleusercontent.com
-122.150.216.162.bc.googleusercontent.com
 123.176.98.196.layerdns.com
 144.210.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
@@ -31,13 +30,10 @@
 198.116.239.35.bc.googleusercontent.com
 199.200.186.34.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
-212.149.216.162.bc.googleusercontent.com
-216.150.216.162.bc.googleusercontent.com
-222.211.203.35.bc.googleusercontent.com
+237.149.216.162.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 242.211.203.35.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
-249.211.203.35.bc.googleusercontent.com
 31.210.203.35.bc.googleusercontent.com
 45-224-131-176.ferenz.com.br
 81.150.216.162.bc.googleusercontent.com
@@ -74,7 +70,6 @@ ec2-98-94-94-215.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
-hostedby.125.160.222.185.axushost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
