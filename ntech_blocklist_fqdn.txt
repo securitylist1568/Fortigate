@@ -245,6 +245,7 @@ scan-09m.shadowserver.org
 scan-11f.shadowserver.org
 scan-12k.shadowserver.org
 scan-37k.shadowserver.org
+scan-42b.shadowserver.org
 scan-42j.shadowserver.org
 scan-43l.shadowserver.org
 scan-44i.shadowserver.org
@@ -252,6 +253,7 @@ scan-45g.shadowserver.org
 scan-51j.shadowserver.org
 scan-56d.shadowserver.org
 scan-56k.shadowserver.org
+scan-59m.shadowserver.org
 scan-61-2.shadowserver.org
 scan-62-4.shadowserver.org
 scan-64-2.shadowserver.org
