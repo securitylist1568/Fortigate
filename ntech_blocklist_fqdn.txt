@@ -45,6 +45,7 @@
 145.210.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 162380.ip-ptr.tech
+164.211.203.35.bc.googleusercontent.com
 170-187-165-130.ip.linodeusercontent.com
 172-232-15-250.ip.linodeusercontent.com
 172-232-27-232.ip.linodeusercontent.com
@@ -183,6 +184,7 @@ rootevidence.com
 rping.ipip.net
 scale-down-test-1769830195632-942a0b68.mongo.ondigitalocean.com
 scan-03c.shadowserver.org
+scan-12k.shadowserver.org
 scan-15k.shadowserver.org
 scan-17k.shadowserver.org
 scan-40l.shadowserver.org
@@ -192,12 +194,17 @@ scan-44o.shadowserver.org
 scan-46e.shadowserver.org
 scan-47h.shadowserver.org
 scan-50b.shadowserver.org
+scan-50j.shadowserver.org
 scan-60-0.shadowserver.org
 scan-61-13.shadowserver.org
+scan-65-13.shadowserver.org
 scan-66-10.shadowserver.org
 scan-66-7.shadowserver.org
+scan-69-04.shadowserver.org
 scan-69-06.shadowserver.org
+scan-73-09.shadowserver.org
 scan-74-02.shadowserver.org
+scan-76-04.shadowserver.org
 scan-78-09.shadowserver.org
 scan-81-0.shadowserver.org
 scan-83-5.shadowserver.org
