@@ -110,6 +110,7 @@
 198-74-50-114.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
 238.178.194.35.bc.googleusercontent.com
+253.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
@@ -129,6 +130,7 @@
 45-79-225-32.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
 66-175-220-105.ip.linodeusercontent.com
+68.150.216.162.bc.googleusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 83.149.216.162.bc.googleusercontent.com
 84.211.203.35.bc.googleusercontent.com
@@ -370,6 +372,7 @@ scan-50j.shadowserver.org
 scan-51j.shadowserver.org
 scan-56d.shadowserver.org
 scan-64-2.shadowserver.org
+scan-65-11.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-3.shadowserver.org
 scan-66-7.shadowserver.org
