@@ -106,8 +106,6 @@
 191.150.216.162.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 198-74-50-114.ip.linodeusercontent.com
-212.149.216.162.bc.googleusercontent.com
-220-136-150-189.dynamic-ip.hinet.net
 23-92-27-206.ip.linodeusercontent.com
 238.178.194.35.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
@@ -129,12 +127,12 @@
 45-79-114-248.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
-52.210.203.35.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 74.149.216.162.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
+84.211.203.35.bc.googleusercontent.com
 90.211.203.35.bc.googleusercontent.com
 abts-tn-static-218.244.165.122.airtelbroadband.in
 amz.unixwiz.net
@@ -339,7 +337,6 @@ dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-13-234-202-109.ap-south-1.compute.amazonaws.com
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
@@ -362,14 +359,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-03c.shadowserver.org
 scan-11f.shadowserver.org
 scan-12k.shadowserver.org
 scan-15k.shadowserver.org
-scan-17k.shadowserver.org
 scan-39o.shadowserver.org
-scan-40l.shadowserver.org
 scan-41n.shadowserver.org
 scan-42j.shadowserver.org
 scan-43e.shadowserver.org
@@ -385,7 +379,6 @@ scan-61-13.shadowserver.org
 scan-64-2.shadowserver.org
 scan-65-13.shadowserver.org
 scan-66-10.shadowserver.org
-scan-66-7.shadowserver.org
 scan-69-04.shadowserver.org
 scan-69-06.shadowserver.org
 scan-73-09.shadowserver.org
@@ -394,7 +387,6 @@ scan-76-04.shadowserver.org
 scan-78-09.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-1.shadowserver.org
-scan-81-0.shadowserver.org
 scan-82-4.shadowserver.org
 scan-83-5.shadowserver.org
 scan-86-4.shadowserver.org
@@ -408,7 +400,6 @@ scan.visionheight.com
 security.criminalip.com
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
-sl-host25.iifnetwork.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 takensite.net
@@ -416,6 +407,7 @@ tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
 ur.scan.bufferover.run
+user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
 warsaw.scan.bufferover.run
