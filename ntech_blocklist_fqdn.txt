@@ -22,16 +22,13 @@
 121.149.216.162.bc.googleusercontent.com
 122.150.216.162.bc.googleusercontent.com
 122.52.121.69.pldt.net
-155.149.216.162.bc.googleusercontent.com
 165.150.216.162.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 176.65.148.196.ptr.pfcloud.network
 176.65.149.43.ptr.pfcloud.network
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
-209.149.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 220-136-150-189.dynamic-ip.hinet.net
@@ -40,7 +37,6 @@
 242.211.203.35.bc.googleusercontent.com
 249.211.203.35.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
-43.150.216.162.bc.googleusercontent.com
 45-79-142-67.ip.linodeusercontent.com
 56.211.203.35.bc.googleusercontent.com
 61-231-8-96.dynamic-ip.hinet.net
@@ -52,7 +48,6 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-cust235-29-249-197.netcabo.co.mz
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -60,6 +55,7 @@ fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
 hostedby.125.160.222.185.axushost.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip-58-98.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -75,7 +71,6 @@ recyber.net
 rootevidence.com
 scale-down-test-1744411950932-887d7d3b.mongo.ondigitalocean.com
 scan-04i.shadowserver.org
-scan-06g.shadowserver.org
 scan-13m.shadowserver.org
 scan-14j.shadowserver.org
 scan-38f.shadowserver.org
@@ -85,7 +80,6 @@ scan-44f.shadowserver.org
 scan-44o.shadowserver.org
 scan-45c.shadowserver.org
 scan-46e.shadowserver.org
-scan-46h.shadowserver.org
 scan-47e.shadowserver.org
 scan-48c.shadowserver.org
 scan-48d.shadowserver.org
@@ -96,7 +90,6 @@ scan-60-2.shadowserver.org
 scan-60.security.ipip.net
 scan-61-13.shadowserver.org
 scan-61-4.shadowserver.org
-scan-63-10.shadowserver.org
 scan-63-8.shadowserver.org
 scan-64-3.shadowserver.org
 scan-66-1.shadowserver.org
@@ -112,10 +105,7 @@ scan-76-04.shadowserver.org
 scan-78-05.shadowserver.org
 scan-79-07.shadowserver.org
 scan-79-09.shadowserver.org
-scan-80-5.shadowserver.org
-scan-81-4.shadowserver.org
 scan-81-6.shadowserver.org
-scan-83-6.shadowserver.org
 scan-84-9.shadowserver.org
 scan-85-3.shadowserver.org
 scan-86-2.shadowserver.org
@@ -124,12 +114,10 @@ scan-87-6.shadowserver.org
 scan-88-1.shadowserver.org
 scan-89-2.shadowserver.org
 scan.visionheight.com
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.45.173.156.178.clients.your-server.de
 test.relashionshipproblems.com
-unn-138-199-53-212.datapacket.com
 unn-207-211-214-162.datapacket.com
 user-185-209-85-233.mow01.ru.misaka.io
 user-38-175-113-245.ist01.tr.misaka.io
