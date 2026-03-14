@@ -42,6 +42,7 @@
 80.150.216.162.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
+azpdsg8nhpr6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -100,6 +101,7 @@ scan-87-6.shadowserver.org
 scan-88-1.shadowserver.org
 scan-89-2.shadowserver.org
 scan.visionheight.com
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.200.215.156.178.clients.your-server.de
