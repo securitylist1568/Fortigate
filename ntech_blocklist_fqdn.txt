@@ -64,8 +64,17 @@ rping.ipip.net
 scale-down-test-1769830195632-942a0b68.mongo.ondigitalocean.com
 scan-17k.shadowserver.org
 scan-40l.shadowserver.org
+scan-47h.shadowserver.org
+scan-60-0.shadowserver.org
+scan-61-13.shadowserver.org
+scan-66-10.shadowserver.org
 scan-66-7.shadowserver.org
+scan-69-06.shadowserver.org
+scan-78-09.shadowserver.org
 scan-81-0.shadowserver.org
+scan-86-9.shadowserver.org
+scan-89-8.shadowserver.org
+scan-90-8.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
