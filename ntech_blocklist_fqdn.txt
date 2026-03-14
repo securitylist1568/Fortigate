@@ -87,4 +87,5 @@ sl-host25.iifnetwork.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.125.150.168.204.clients.your-server.de
+takensite.net
 users219.vip.heteml.jp
