@@ -45,6 +45,7 @@
 abts-tn-static-218.244.165.122.airtelbroadband.in
 amz.unixwiz.net
 b2.org.afilias-nst.org
+ci96.119-114.netnam.vn
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
