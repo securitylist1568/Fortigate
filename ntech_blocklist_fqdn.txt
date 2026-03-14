@@ -1,6 +1,7 @@
 1-34-13-89.hinet-ip.hinet.net
 10.149.216.162.bc.googleusercontent.com
 103-112-0-32.oneqode.net
+103.82.193.160.cloudfly.vn
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -116,6 +117,7 @@ scan-89-2.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.200.215.156.178.clients.your-server.de
 static.45.173.156.178.clients.your-server.de
 test.relashionshipproblems.com
 unn-207-211-214-162.datapacket.com
