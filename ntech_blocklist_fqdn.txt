@@ -182,6 +182,7 @@ scan-42j.shadowserver.org
 scan-43l.shadowserver.org
 scan-44i.shadowserver.org
 scan-45g.shadowserver.org
+scan-46h.shadowserver.org
 scan-51j.shadowserver.org
 scan-56d.shadowserver.org
 scan-56k.shadowserver.org
@@ -201,6 +202,7 @@ scan-76-06.shadowserver.org
 scan-78-07.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-9.shadowserver.org
+scan-81-4.shadowserver.org
 scan-82-4.shadowserver.org
 scan-83-4.shadowserver.org
 scan-87-5.shadowserver.org
@@ -211,6 +213,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tammy.probe.onyphe.net
+unn-138-199-53-212.datapacket.com
 user-146-19-3-141.sto02.se.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
