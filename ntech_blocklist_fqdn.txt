@@ -31,6 +31,7 @@
 209.149.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
+28.211.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 68.150.216.162.bc.googleusercontent.com
@@ -67,6 +68,7 @@ ip29.sudolio.io
 ip96.ip-51-38-211.eu
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -77,6 +79,7 @@ scan-06g.shadowserver.org
 scan-09m.shadowserver.org
 scan-11f.shadowserver.org
 scan-12k.shadowserver.org
+scan-14j.shadowserver.org
 scan-37k.shadowserver.org
 scan-42b.shadowserver.org
 scan-42j.shadowserver.org
@@ -84,6 +87,7 @@ scan-43l.shadowserver.org
 scan-44i.shadowserver.org
 scan-45g.shadowserver.org
 scan-46h.shadowserver.org
+scan-49d.shadowserver.org
 scan-51j.shadowserver.org
 scan-56d.shadowserver.org
 scan-56k.shadowserver.org
@@ -97,6 +101,7 @@ scan-65-13.shadowserver.org
 scan-65-3.shadowserver.org
 scan-66-7.shadowserver.org
 scan-67-13.shadowserver.org
+scan-69-01.shadowserver.org
 scan-73-07.shadowserver.org
 scan-74-08.shadowserver.org
 scan-76-06.shadowserver.org
