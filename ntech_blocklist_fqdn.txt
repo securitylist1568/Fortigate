@@ -29,6 +29,7 @@
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
+195.150.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
 220-136-150-189.dynamic-ip.hinet.net
@@ -66,8 +67,10 @@ onesky.org
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+radamelfalcao.xyz
 recyber.net
 rootevidence.com
+scale-down-test-1744411950932-887d7d3b.mongo.ondigitalocean.com
 scan-04i.shadowserver.org
 scan-06g.shadowserver.org
 scan-09m.shadowserver.org
