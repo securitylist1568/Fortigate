@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.149.216.162.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
+125.149.216.162.bc.googleusercontent.com
 125.216.106.34.bc.googleusercontent.com
 131.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -229,6 +230,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip96.ip-51-38-211.eu
+li1992-217.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
