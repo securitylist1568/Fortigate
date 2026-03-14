@@ -59,12 +59,14 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-01n.shadowserver.org
+scan-04i.shadowserver.org
 scan-06g.shadowserver.org
 scan-09m.shadowserver.org
 scan-12k.shadowserver.org
 scan-14j.shadowserver.org
 scan-37k.shadowserver.org
 scan-42b.shadowserver.org
+scan-43b.shadowserver.org
 scan-43l.shadowserver.org
 scan-44i.shadowserver.org
 scan-44o.shadowserver.org
@@ -81,6 +83,7 @@ scan-61-4.shadowserver.org
 scan-62-4.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-8.shadowserver.org
+scan-64-3.shadowserver.org
 scan-64-5.shadowserver.org
 scan-65-11.shadowserver.org
 scan-65-13.shadowserver.org
@@ -112,4 +115,5 @@ test.relashionshipproblems.com
 unn-138-199-53-212.datapacket.com
 user-185-209-85-233.mow01.ru.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
+user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
