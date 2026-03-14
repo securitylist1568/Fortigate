@@ -24,10 +24,12 @@
 123.176.98.196.layerdns.com
 144.210.203.35.bc.googleusercontent.com
 165.150.216.162.bc.googleusercontent.com
+168.150.216.162.bc.googleusercontent.com
 176.65.149.43.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
 198.116.239.35.bc.googleusercontent.com
+199.200.186.34.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
@@ -44,6 +46,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
 hostedby.125.160.222.185.axushost.com
 htb-h9b8tjwfph.htb-cloud.com
