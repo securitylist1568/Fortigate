@@ -32,6 +32,7 @@
 197-248-3-28.safaricombusiness.co.ke
 20.149.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
+220-136-150-189.dynamic-ip.hinet.net
 222.210.203.35.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
@@ -65,6 +66,10 @@ recyber.net
 rootevidence.com
 rping.ipip.net
 scale-down-test-1769830195632-942a0b68.mongo.ondigitalocean.com
+scan-17k.shadowserver.org
+scan-40l.shadowserver.org
+scan-66-7.shadowserver.org
+scan-81-0.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 server.comy
