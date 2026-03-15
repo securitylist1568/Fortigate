@@ -29,6 +29,7 @@
 194-195-122-95.ip.linodeusercontent.com
 20.210.203.35.bc.googleusercontent.com
 202.210.203.35.bc.googleusercontent.com
+206.150.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 74.210.203.35.bc.googleusercontent.com
@@ -53,7 +54,6 @@ pinkytales.com
 prod-ams3-2.qencode
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-samfunnssikkerhet.org
 scan-05e.shadowserver.org
 scan-11f.shadowserver.org
 scan-14a.shadowserver.org
@@ -122,4 +122,5 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
