@@ -25,12 +25,18 @@
 1600799.cloudwaysapps.com
 179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+186-24-11-161.static.telcel.net.ve
+186-24-11-163.static.telcel.net.ve
+186-24-11-164.static.telcel.net.ve
+186-24-11-165.static.telcel.net.ve
+186-24-11-166.static.telcel.net.ve
 193-181-46-2.cust.norisab.net
 194-195-122-95.ip.linodeusercontent.com
 20.210.203.35.bc.googleusercontent.com
 202.210.203.35.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
+251.80.148.146.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 74.210.203.35.bc.googleusercontent.com
 9.211.203.35.bc.googleusercontent.com
@@ -46,6 +52,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-130.4vendeta.com
 ip29.sudolio.io
 ip96.ip-51-38-211.eu
+mail.santillana.com.ve
 mail.suporte.pro.br
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
@@ -54,6 +61,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-01e.shadowserver.org
+scan-10g.shadowserver.org
+scan-40g.shadowserver.org
 scan-45f.shadowserver.org
 scan-45i.shadowserver.org
 scan-47k.shadowserver.org
@@ -68,8 +78,10 @@ scan-58d.shadowserver.org
 scan-59a.shadowserver.org
 scan-60-4.shadowserver.org
 scan-61-12.shadowserver.org
+scan-61-4.shadowserver.org
 scan-62-11.shadowserver.org
 scan-62-3.shadowserver.org
+scan-63-13.shadowserver.org
 scan-64-2.shadowserver.org
 scan-64-4.shadowserver.org
 scan-64-8.shadowserver.org
@@ -81,6 +93,7 @@ scan-67-9.shadowserver.org
 scan-69-09.shadowserver.org
 scan-71-03.shadowserver.org
 scan-73-00.shadowserver.org
+scan-73-06.shadowserver.org
 scan-76-07.shadowserver.org
 scan-80-4.shadowserver.org
 scan-81-1.shadowserver.org
@@ -91,6 +104,7 @@ scan-86-7.shadowserver.org
 scan-88-0.shadowserver.org
 scan-88-1.shadowserver.org
 scan-88-4.shadowserver.org
+scan-88-6.shadowserver.org
 scan-90-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
@@ -98,3 +112,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+vmi2942815.contaboserver.net
