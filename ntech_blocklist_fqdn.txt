@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 123.176.98.196.layerdns.com
+140.149.38.185.baremetal.zare.com
 144.210.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
@@ -71,6 +72,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-15-204-155.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
+lisbon.portugal.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
