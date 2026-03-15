@@ -30,6 +30,7 @@
 20.210.203.35.bc.googleusercontent.com
 202.210.203.35.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
+51-158-144-234.rev.poneytelecom.eu
 74.210.203.35.bc.googleusercontent.com
 9.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -77,6 +78,7 @@ scan-52j.shadowserver.org
 scan-52m.shadowserver.org
 scan-54j.shadowserver.org
 scan-58d.shadowserver.org
+scan-59a.shadowserver.org
 scan-60-4.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-12.shadowserver.org
