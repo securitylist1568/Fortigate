@@ -29,6 +29,7 @@
 186-24-11-165.static.telcel.net.ve
 186-24-11-166.static.telcel.net.ve
 194.211.203.35.bc.googleusercontent.com
+220-136-150-189.dynamic-ip.hinet.net
 251.80.148.146.bc.googleusercontent.com
 36-229-150-36.dynamic-ip.hinet.net
 50-116-23-150.ip.linodeusercontent.com
