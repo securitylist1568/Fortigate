@@ -21,6 +21,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-24-106-71.dynamic-ip.hinet.net
+121.211.203.35.bc.googleusercontent.com
 123-193-166-77.dynamic.kbronet.com.tw
 151.64.129.34.bc.googleusercontent.com
 159.210.203.35.bc.googleusercontent.com
@@ -42,6 +43,7 @@
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
 azpdcg1tehht.stretchoid.com
+azpdcg338qgo.stretchoid.com
 azpdcg5ctycq.stretchoid.com
 azpdcg5uiovm.stretchoid.com
 azpdcg7qoggl.stretchoid.com
@@ -150,6 +152,7 @@ azpdssd2jo9j.stretchoid.com
 azpdsseqsn18.stretchoid.com
 azpdssfmudnd.stretchoid.com
 azpdssi7mmjc.stretchoid.com
+azpdssj21vou.stretchoid.com
 azpdssje5f81.stretchoid.com
 azpdsskaier6.stretchoid.com
 azpdssmh0gk6.stretchoid.com
@@ -197,6 +200,7 @@ scan-44f.shadowserver.org
 scan-47k.shadowserver.org
 scan-48h.shadowserver.org
 scan-49n.shadowserver.org
+scan-51d.shadowserver.org
 scan-51g.shadowserver.org
 scan-51l.shadowserver.org
 scan-52j.shadowserver.org
@@ -231,6 +235,7 @@ scan-76-03.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-4.shadowserver.org
 scan-83-5.shadowserver.org
+scan-83-9.shadowserver.org
 scan-85-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-87-5.shadowserver.org
