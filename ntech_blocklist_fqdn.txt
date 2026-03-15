@@ -70,6 +70,7 @@ fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-15-204-155.us
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
 lisbon.portugal.com
@@ -79,7 +80,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-01j.shadowserver.org
 scan-63-8.shadowserver.org
+scan-81-9.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
