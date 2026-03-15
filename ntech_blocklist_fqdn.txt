@@ -34,6 +34,7 @@
 239.211.203.35.bc.googleusercontent.com
 251.80.148.146.bc.googleusercontent.com
 36-229-150-36.dynamic-ip.hinet.net
+50-116-23-150.ip.linodeusercontent.com
 73.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
@@ -172,6 +173,7 @@ fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-130.4vendeta.com
 ip29.sudolio.io
 ip96.ip-51-38-211.eu
 mail.santillana.com.ve
