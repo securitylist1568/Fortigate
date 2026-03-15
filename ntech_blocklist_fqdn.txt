@@ -166,6 +166,7 @@ cm203-168-227-68.hkcable.com.hk
 dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
+ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
