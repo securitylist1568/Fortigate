@@ -35,6 +35,7 @@
 206.150.216.162.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 251.80.148.146.bc.googleusercontent.com
+36-229-150-36.dynamic-ip.hinet.net
 51-158-144-234.rev.poneytelecom.eu
 9.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -105,6 +106,7 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unassigned.psychz.net
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 videointerest.com
