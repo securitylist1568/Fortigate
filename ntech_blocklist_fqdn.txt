@@ -30,7 +30,6 @@
 74.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-bicommae.store
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -51,7 +50,6 @@ recyber.net
 samfunnssikkerhet.org
 scan-05e.shadowserver.org
 scan-11f.shadowserver.org
-scan-12m.shadowserver.org
 scan-14a.shadowserver.org
 scan-37e.shadowserver.org
 scan-39o.shadowserver.org
@@ -60,10 +58,7 @@ scan-43m.shadowserver.org
 scan-45f.shadowserver.org
 scan-45g.shadowserver.org
 scan-45i.shadowserver.org
-scan-45n.shadowserver.org
-scan-46f.shadowserver.org
 scan-46h.shadowserver.org
-scan-47c.shadowserver.org
 scan-47h.shadowserver.org
 scan-48c.shadowserver.org
 scan-48f.shadowserver.org
@@ -73,15 +68,12 @@ scan-51l.shadowserver.org
 scan-52d.shadowserver.org
 scan-52m.shadowserver.org
 scan-54j.shadowserver.org
-scan-56c.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-12.shadowserver.org
 scan-61-4.shadowserver.org
 scan-62-11.shadowserver.org
 scan-62-3.shadowserver.org
 scan-63-5.shadowserver.org
-scan-63-9.shadowserver.org
-scan-64-11.shadowserver.org
 scan-64-4.shadowserver.org
 scan-65-2.shadowserver.org
 scan-66-2.shadowserver.org
@@ -91,7 +83,6 @@ scan-67-9.shadowserver.org
 scan-70-04.shadowserver.org
 scan-70-07.shadowserver.org
 scan-71-03.shadowserver.org
-scan-72-05.shadowserver.org
 scan-72-07.shadowserver.org
 scan-73-00.shadowserver.org
 scan-76-07.shadowserver.org
@@ -103,11 +94,9 @@ scan-83-7.shadowserver.org
 scan-83-8.shadowserver.org
 scan-84-7.shadowserver.org
 scan-85-1.shadowserver.org
-scan-85-2.shadowserver.org
 scan-86-2.shadowserver.org
 scan-88-1.shadowserver.org
 scan-88-4.shadowserver.org
-scan-88-7.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
