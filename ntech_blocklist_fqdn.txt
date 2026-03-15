@@ -28,6 +28,7 @@
 202.210.203.35.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
+9.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -37,6 +38,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.europededicated.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-130.4vendeta.com
 ip29.sudolio.io
 mail.suporte.pro.br
 mfyabgec.musicpda.com
