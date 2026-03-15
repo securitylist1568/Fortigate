@@ -23,7 +23,6 @@
 122.52.121.69.pldt.net
 159.210.203.35.bc.googleusercontent.com
 1600799.cloudwaysapps.com
-179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186-24-11-161.static.telcel.net.ve
 186-24-11-163.static.telcel.net.ve
@@ -31,14 +30,12 @@
 186-24-11-165.static.telcel.net.ve
 186-24-11-166.static.telcel.net.ve
 193-181-46-2.cust.norisab.net
-194-195-122-95.ip.linodeusercontent.com
 20.210.203.35.bc.googleusercontent.com
 202.210.203.35.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 251.80.148.146.bc.googleusercontent.com
 51-158-144-234.rev.poneytelecom.eu
-74.210.203.35.bc.googleusercontent.com
 9.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -65,7 +62,6 @@ scan-01e.shadowserver.org
 scan-10g.shadowserver.org
 scan-40g.shadowserver.org
 scan-45f.shadowserver.org
-scan-45i.shadowserver.org
 scan-47k.shadowserver.org
 scan-48c.shadowserver.org
 scan-48h.shadowserver.org
@@ -102,7 +98,6 @@ scan-83-7.shadowserver.org
 scan-85-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-0.shadowserver.org
-scan-88-1.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-6.shadowserver.org
 scan-90-2.shadowserver.org
@@ -112,4 +107,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+videointerest.com
 vmi2942815.contaboserver.net
