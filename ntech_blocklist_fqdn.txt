@@ -17,10 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+122.52.121.69.pldt.net
 140.149.38.185.baremetal.zare.com
 176.65.149.43.ptr.pfcloud.network
 179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+193-181-46-2.cust.norisab.net
 194-195-122-95.ip.linodeusercontent.com
 26.149.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
@@ -73,6 +75,7 @@ scan-56c.shadowserver.org
 scan-60-9.shadowserver.org
 scan-61-12.shadowserver.org
 scan-61-4.shadowserver.org
+scan-62-11.shadowserver.org
 scan-63-5.shadowserver.org
 scan-63-8.shadowserver.org
 scan-63-9.shadowserver.org
