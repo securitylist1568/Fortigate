@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 140.149.38.185.baremetal.zare.com
 150.211.203.35.bc.googleusercontent.com
+1600741.cloudwaysapps.com
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-12-115-30-host.colocrossing.com
@@ -71,6 +72,7 @@ ip29.ip-5-135-94.eu
 ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
