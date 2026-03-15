@@ -30,6 +30,7 @@
 186-24-11-165.static.telcel.net.ve
 186-24-11-166.static.telcel.net.ve
 193-181-46-2.cust.norisab.net
+194.211.203.35.bc.googleusercontent.com
 20.210.203.35.bc.googleusercontent.com
 202.210.203.35.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
@@ -41,6 +42,7 @@
 9.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
+azpdcg5ctycq.stretchoid.com
 azpdcg5uiovm.stretchoid.com
 azpdcg7qoggl.stretchoid.com
 azpdcg98t1t7.stretchoid.com
@@ -51,6 +53,7 @@ azpdcgcto85s.stretchoid.com
 azpdcgdfto0u.stretchoid.com
 azpdcge03zd6.stretchoid.com
 azpdcgeb6h4x.stretchoid.com
+azpdcgg9tuk5.stretchoid.com
 azpdcgj59w5k.stretchoid.com
 azpdcgompmtd.stretchoid.com
 azpdcgovdnpz.stretchoid.com
@@ -67,6 +70,7 @@ azpdcs8cd7a8.stretchoid.com
 azpdcsb3qt1c.stretchoid.com
 azpdcscrl5ny.stretchoid.com
 azpdcsdn1mvh.stretchoid.com
+azpdcsf9dzpw.stretchoid.com
 azpdcsi81moo.stretchoid.com
 azpdcsj1dzor.stretchoid.com
 azpdcsjggt57.stretchoid.com
@@ -79,8 +83,10 @@ azpdcsxfeo6r.stretchoid.com
 azpdcsyi9p1a.stretchoid.com
 azpdcsyqvu6o.stretchoid.com
 azpdescuod73.stretchoid.com
+azpdesegi1kf.stretchoid.com
 azpdeskyhklc.stretchoid.com
 azpdsg14kxu1.stretchoid.com
+azpdsg2kdw0r.stretchoid.com
 azpdsg2stdsk.stretchoid.com
 azpdsg4gnpn2.stretchoid.com
 azpdsg78bcjq.stretchoid.com
@@ -98,6 +104,7 @@ azpdsgmlrt5j.stretchoid.com
 azpdsgneob2w.stretchoid.com
 azpdsgp14bi0.stretchoid.com
 azpdsgp9y705.stretchoid.com
+azpdsgqtgugp.stretchoid.com
 azpdsgrelnee.stretchoid.com
 azpdsgrq1r6x.stretchoid.com
 azpdsgsq1clq.stretchoid.com
@@ -124,6 +131,7 @@ dal215.hawkhost.com
 ded121318.smartservers.com.au
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
