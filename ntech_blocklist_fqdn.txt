@@ -188,6 +188,7 @@ scan-01e.shadowserver.org
 scan-02m.shadowserver.org
 scan-02n.shadowserver.org
 scan-05c.shadowserver.org
+scan-06g.shadowserver.org
 scan-10g.shadowserver.org
 scan-14j.shadowserver.org
 scan-15c.shadowserver.org
@@ -199,6 +200,7 @@ scan-40d.shadowserver.org
 scan-40g.shadowserver.org
 scan-41h.shadowserver.org
 scan-41k.shadowserver.org
+scan-42i.shadowserver.org
 scan-43f.shadowserver.org
 scan-43k.shadowserver.org
 scan-43o.shadowserver.org
@@ -252,10 +254,12 @@ scan-83-9.shadowserver.org
 scan-84-6.shadowserver.org
 scan-85-4.shadowserver.org
 scan-86-7.shadowserver.org
+scan-86-8.shadowserver.org
 scan-86-9.shadowserver.org
 scan-87-5.shadowserver.org
 scan-88-0.shadowserver.org
 scan-88-6.shadowserver.org
+scan-89-6.shadowserver.org
 scan-90-2.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
