@@ -20,7 +20,6 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 220-130-157-67.hinet-ip.hinet.net
-220-136-150-189.dynamic-ip.hinet.net
 251.80.148.146.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 60-250-48-241.hinet-ip.hinet.net
@@ -64,7 +63,6 @@ ip29.sudolio.io
 ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
