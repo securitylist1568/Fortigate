@@ -22,7 +22,6 @@
 220-130-157-67.hinet-ip.hinet.net
 220-136-150-189.dynamic-ip.hinet.net
 251.80.148.146.bc.googleusercontent.com
-50-116-23-150.ip.linodeusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 60-250-48-241.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -30,16 +29,13 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-18-188-57-88.us-east-2.compute.amazonaws.com
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-114-130.4vendeta.com
 ip234.ip-15-235-104.net
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
-mackie.probe.onyphe.net
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
