@@ -27,6 +27,7 @@
 194.211.203.35.bc.googleusercontent.com
 220-136-150-189.dynamic-ip.hinet.net
 50-116-23-150.ip.linodeusercontent.com
+55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 73.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
@@ -169,6 +170,7 @@ ip-114-130.4vendeta.com
 ip29.sudolio.io
 mackie.probe.onyphe.net
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
