@@ -21,7 +21,6 @@
 121.211.203.35.bc.googleusercontent.com
 123-193-166-77.dynamic.kbronet.com.tw
 151.64.129.34.bc.googleusercontent.com
-159.210.203.35.bc.googleusercontent.com
 176.65.149.43.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 186-24-11-161.static.telcel.net.ve
@@ -30,8 +29,6 @@
 186-24-11-165.static.telcel.net.ve
 186-24-11-166.static.telcel.net.ve
 194.211.203.35.bc.googleusercontent.com
-206.150.216.162.bc.googleusercontent.com
-239.211.203.35.bc.googleusercontent.com
 251.80.148.146.bc.googleusercontent.com
 36-229-150-36.dynamic-ip.hinet.net
 50-116-23-150.ip.linodeusercontent.com
@@ -176,6 +173,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-130.4vendeta.com
 ip29.sudolio.io
 ip96.ip-51-38-211.eu
+mackie.probe.onyphe.net
 mail.santillana.com.ve
 mfyabgec.musicpda.com
 no-mans-land.m247.com
