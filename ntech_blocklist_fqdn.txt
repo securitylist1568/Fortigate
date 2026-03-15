@@ -32,6 +32,7 @@ dns12.online.tj.cn
 ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip234.ip-15-235-104.net
 ip29.sudolio.io
