@@ -22,10 +22,12 @@
 176.65.148.92.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 220-136-150-189.dynamic-ip.hinet.net
+225.149.46.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
