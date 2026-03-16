@@ -36,6 +36,7 @@ ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip139.ip-158-69-40.net
 ip208.ip-51-178-100.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
