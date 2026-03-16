@@ -43,7 +43,6 @@ ip139.ip-158-69-40.net
 ip208.ip-51-178-100.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
-ip96.ip-51-38-211.eu
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
