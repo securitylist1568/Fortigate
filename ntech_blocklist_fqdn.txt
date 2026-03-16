@@ -44,6 +44,7 @@ ec2-3-80-189-93.compute-1.amazonaws.com
 ec2-3-83-241-80.compute-1.amazonaws.com
 ec2-3-84-4-44.compute-1.amazonaws.com
 ec2-3-93-193-141.compute-1.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-204-10-19.compute-1.amazonaws.com
 ec2-34-228-9-244.compute-1.amazonaws.com
 ec2-34-235-115-207.compute-1.amazonaws.com
@@ -58,6 +59,7 @@ ec2-54-224-250-82.compute-1.amazonaws.com
 ec2-54-226-154-2.compute-1.amazonaws.com
 ec2-54-227-40-18.compute-1.amazonaws.com
 ec2-54-91-45-104.compute-1.amazonaws.com
+ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-93-19-251.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 finland2.ipip.net
