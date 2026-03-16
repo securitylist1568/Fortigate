@@ -38,6 +38,7 @@ ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip208.ip-51-178-100.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
 ip96.ip-51-38-211.eu
@@ -45,6 +46,7 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prometheus.bypassai.io
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02d.shadowserver.org
@@ -52,6 +54,7 @@ scan-02k.shadowserver.org
 scan-02m.shadowserver.org
 scan-07e.shadowserver.org
 scan-09m.shadowserver.org
+scan-10g.shadowserver.org
 scan-12f.shadowserver.org
 scan-13g.shadowserver.org
 scan-14b.shadowserver.org
@@ -62,6 +65,7 @@ scan-36o.shadowserver.org
 scan-37j.shadowserver.org
 scan-38b.shadowserver.org
 scan-38f.shadowserver.org
+scan-40d.shadowserver.org
 scan-42b.shadowserver.org
 scan-42j.shadowserver.org
 scan-42o.shadowserver.org
@@ -73,6 +77,7 @@ scan-51n.shadowserver.org
 scan-58c.shadowserver.org
 scan-59a.shadowserver.org
 scan-60-1.shadowserver.org
+scan-60-3.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-13.shadowserver.org
 scan-61-4.shadowserver.org
