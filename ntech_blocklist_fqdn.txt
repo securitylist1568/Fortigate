@@ -22,7 +22,6 @@
 173.100.131.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 216-244-81-2-reverse.wowrack.com
-225.149.46.34.bc.googleusercontent.com
 36-224-172-11.dynamic-ip.hinet.net
 amz.unixwiz.net
 andersen.probe.onyphe.net
@@ -235,12 +234,10 @@ azpdsswec9a4.stretchoid.com
 azpdssy8xvuk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-27-226-38.compute-1.amazonaws.com
 ec2-100-28-191-174.compute-1.amazonaws.com
-ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-218-68-64.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-174-129-147-245.compute-1.amazonaws.com
@@ -272,10 +269,8 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip129.ip-51-77-47.eu
-ip139.ip-158-69-40.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns3008629.ip-149-202-66.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -287,7 +282,6 @@ server.comy
 smtp1.telemach.net
 srv60813.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
-static.ill.117.250.115.194.bsnl.co.in
 users219.vip.heteml.jp
 vlan14.as01.wco1.sg.m247.com
 vmi3103752.contaboserver.net
