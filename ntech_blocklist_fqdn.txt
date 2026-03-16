@@ -40,6 +40,7 @@ ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
 host247.teeatop.com
 htb-h9b8tjwfph.htb-cloud.com
