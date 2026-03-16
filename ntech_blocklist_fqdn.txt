@@ -23,10 +23,8 @@
 173-255-227-196.ip.linodeusercontent.com
 176.65.148.95.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-220-130-157-67.hinet-ip.hinet.net
 53.26.71.192.in-addr.arpa
 59-125-185-133.hinet-ip.hinet.net
-60-250-48-241.hinet-ip.hinet.net
 7ra0tj.cloud
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -71,8 +69,8 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
+ip140.ip-15-204-155.us
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -115,3 +113,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.13.223.156.178.clients.your-server.de
 user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
+www.internet-albedo.net
