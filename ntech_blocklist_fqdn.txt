@@ -72,6 +72,7 @@ scan-73-06.shadowserver.org
 scan-74-03.shadowserver.org
 scan-74-07.shadowserver.org
 scan-75-08.shadowserver.org
+scan-76-02.shadowserver.org
 scan-77-03.shadowserver.org
 scan-80-2.shadowserver.org
 scan-81-5.shadowserver.org
