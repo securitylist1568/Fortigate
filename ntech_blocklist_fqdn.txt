@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 151.64.129.34.bc.googleusercontent.com
-172-232-108-36.ip.linodeusercontent.com
 176.65.148.215.ptr.pfcloud.network
 176.65.149.43.ptr.pfcloud.network
 182-185-106-216.clients.gthost.com
@@ -33,12 +32,9 @@ crawler065.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
-ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
-ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
-ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fixed-187-188-187-150.totalplay.net
@@ -52,13 +48,13 @@ ip217-154-168-223.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-nameserver1-myaccountsecurity.help
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09o.shadowserver.org
+scan-42j.shadowserver.org
 scan-46o.shadowserver.org
 scan-51n.shadowserver.org
 scan-61-4.shadowserver.org
@@ -70,6 +66,7 @@ scan-65-2.shadowserver.org
 scan-66-13.shadowserver.org
 scan-70-06.shadowserver.org
 scan-70-09.shadowserver.org
+scan-71-04.shadowserver.org
 scan-73-06.shadowserver.org
 scan-74-03.shadowserver.org
 scan-74-07.shadowserver.org
