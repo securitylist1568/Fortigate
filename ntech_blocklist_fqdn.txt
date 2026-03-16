@@ -22,10 +22,8 @@
 172-104-151-240.ip.linodeusercontent.com
 172-232-108-36.ip.linodeusercontent.com
 173-255-227-196.ip.linodeusercontent.com
-176.65.148.95.ptr.pfcloud.network
 182-185-106-216.clients.gthost.com
 185-45-195-15.hostsailor.com
-53.26.71.192.in-addr.arpa
 59-125-185-133.hinet-ip.hinet.net
 7ra0tj.cloud
 amz.unixwiz.net
@@ -95,6 +93,5 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.13.223.156.178.clients.your-server.de
-user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
