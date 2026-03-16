@@ -62,6 +62,7 @@ recyber.net
 rootevidence.com
 scan-06f.shadowserver.org
 scan-06g.shadowserver.org
+scan-09o.shadowserver.org
 scan-17k.shadowserver.org
 scan-46o.shadowserver.org
 scan-49b.shadowserver.org
@@ -81,6 +82,7 @@ scan-73-06.shadowserver.org
 scan-74-03.shadowserver.org
 scan-74-07.shadowserver.org
 scan-75-05.shadowserver.org
+scan-75-08.shadowserver.org
 scan-77-06.shadowserver.org
 scan-80-0.shadowserver.org
 scan-80-1.shadowserver.org
@@ -96,6 +98,7 @@ scan-86-4.shadowserver.org
 scan-87-3.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-1.shadowserver.org
+scan-88-3.shadowserver.org
 scan-88-7.shadowserver.org
 scan-90-5.shadowserver.org
 scan.visionheight.com
