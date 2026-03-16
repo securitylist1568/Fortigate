@@ -37,6 +37,7 @@ ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fixed-187-188-187-150.totalplay.net
 hn.kd.ny.adsl
@@ -58,6 +59,7 @@ scan-42j.shadowserver.org
 scan-46o.shadowserver.org
 scan-51n.shadowserver.org
 scan-61-13.shadowserver.org
+scan-61-4.shadowserver.org
 scan-62-2.shadowserver.org
 scan-65-2.shadowserver.org
 scan-70-09.shadowserver.org
@@ -68,6 +70,7 @@ scan-75-08.shadowserver.org
 scan-76-02.shadowserver.org
 scan-76-04.shadowserver.org
 scan-77-03.shadowserver.org
+scan-80-9.shadowserver.org
 scan-81-5.shadowserver.org
 scan-82-5.shadowserver.org
 scan-83-1.shadowserver.org
