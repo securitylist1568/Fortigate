@@ -22,6 +22,7 @@
 185-45-195-15.hostsailor.com
 216-244-81-2-reverse.wowrack.com
 225.149.46.34.bc.googleusercontent.com
+36-224-172-11.dynamic-ip.hinet.net
 amz.unixwiz.net
 andersen.probe.onyphe.net
 azpdcg008shw.stretchoid.com
@@ -242,6 +243,7 @@ ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
@@ -251,6 +253,7 @@ ip139.ip-158-69-40.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns3008629.ip-149-202-66.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
