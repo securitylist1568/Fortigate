@@ -99,6 +99,7 @@ scan-77-06.shadowserver.org
 scan-80-0.shadowserver.org
 scan-80-1.shadowserver.org
 scan-80-2.shadowserver.org
+scan-83-1.shadowserver.org
 scan-84-1.shadowserver.org
 scan-85-3.shadowserver.org
 scan-85-4.shadowserver.org
