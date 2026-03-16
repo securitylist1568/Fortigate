@@ -24,6 +24,7 @@
 251.80.148.146.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
+59-125-185-133.hinet-ip.hinet.net
 60-250-48-241.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -69,6 +70,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan.visionheight.com
 server.comy
 smtp1.telemach.net
