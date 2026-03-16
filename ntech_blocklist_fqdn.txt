@@ -22,6 +22,7 @@
 194-195-253-86.ip.linodeusercontent.com
 220-130-157-67.hinet-ip.hinet.net
 251.80.148.146.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 60-250-48-241.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -77,4 +78,3 @@ user-45-131-69-60.mow01.ru.misaka.io
 user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
-videointerest.com
