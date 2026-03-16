@@ -21,11 +21,9 @@
 173-255-227-196.ip.linodeusercontent.com
 176.65.148.95.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-194-195-253-86.ip.linodeusercontent.com
 220-130-157-67.hinet-ip.hinet.net
 251.80.148.146.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 59-125-185-133.hinet-ip.hinet.net
 60-250-48-241.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -60,6 +58,7 @@ ec2-54-227-40-18.compute-1.amazonaws.com
 ec2-54-91-45-104.compute-1.amazonaws.com
 ec2-98-93-19-251.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+finland2.ipip.net
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
@@ -67,8 +66,8 @@ ip-56-138.4vendeta.com
 ip234.ip-15-235-104.net
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
