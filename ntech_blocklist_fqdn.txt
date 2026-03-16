@@ -19,8 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 176.65.148.196.ptr.pfcloud.network
-176.65.148.215.ptr.pfcloud.network
-176.65.149.43.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 225.149.46.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -44,8 +42,6 @@ ip29.sudolio.io
 ip77.ip-51-91-168.eu
 ip96.ip-51-38-211.eu
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -53,7 +49,6 @@ recyber.net
 scan-02d.shadowserver.org
 scan-07e.shadowserver.org
 scan-09m.shadowserver.org
-scan-09o.shadowserver.org
 scan-12f.shadowserver.org
 scan-14b.shadowserver.org
 scan-15c.shadowserver.org
@@ -65,7 +60,6 @@ scan-42j.shadowserver.org
 scan-42o.shadowserver.org
 scan-44f.shadowserver.org
 scan-45o.shadowserver.org
-scan-46o.shadowserver.org
 scan-47h.shadowserver.org
 scan-51n.shadowserver.org
 scan-58c.shadowserver.org
@@ -74,7 +68,6 @@ scan-60-1.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-13.shadowserver.org
 scan-61-4.shadowserver.org
-scan-62-2.shadowserver.org
 scan-63-2.shadowserver.org
 scan-64-6.shadowserver.org
 scan-65-2.shadowserver.org
@@ -83,12 +76,9 @@ scan-66-3.shadowserver.org
 scan-66-9.shadowserver.org
 scan-67-3.shadowserver.org
 scan-68-06.shadowserver.org
-scan-70-09.shadowserver.org
+scan-70-08.shadowserver.org
 scan-71-04.shadowserver.org
 scan-73-01.shadowserver.org
-scan-73-06.shadowserver.org
-scan-74-07.shadowserver.org
-scan-75-08.shadowserver.org
 scan-76-02.shadowserver.org
 scan-76-04.shadowserver.org
 scan-77-03.shadowserver.org
@@ -96,13 +86,10 @@ scan-78-03.shadowserver.org
 scan-80-2.shadowserver.org
 scan-80-3.shadowserver.org
 scan-80-9.shadowserver.org
-scan-81-5.shadowserver.org
-scan-82-5.shadowserver.org
 scan-83-0.shadowserver.org
 scan-86-2.shadowserver.org
 scan-86-5.shadowserver.org
 scan-87-9.shadowserver.org
-scan-88-3.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-7.shadowserver.org
 scan-89-3.shadowserver.org
