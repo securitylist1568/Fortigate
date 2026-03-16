@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-176.65.148.196.ptr.pfcloud.network
 176.65.148.215.ptr.pfcloud.network
 176.65.148.92.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
@@ -29,12 +28,8 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-18-188-57-88.us-east-2.compute.amazonaws.com
-ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
-ec2-52-21-227-35.compute-1.amazonaws.com
-ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -76,15 +71,16 @@ scan-43m.shadowserver.org
 scan-44f.shadowserver.org
 scan-45o.shadowserver.org
 scan-47h.shadowserver.org
+scan-50g.shadowserver.org
 scan-51j.shadowserver.org
 scan-52m.shadowserver.org
 scan-56g.shadowserver.org
+scan-56n.shadowserver.org
 scan-58c.shadowserver.org
 scan-59a.shadowserver.org
 scan-60-1.shadowserver.org
 scan-60-3.shadowserver.org
 scan-61-0.shadowserver.org
-scan-61-13.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-9.shadowserver.org
 scan-62-12.shadowserver.org
@@ -100,6 +96,7 @@ scan-66-7.shadowserver.org
 scan-66-9.shadowserver.org
 scan-67-3.shadowserver.org
 scan-67-5.shadowserver.org
+scan-67-9.shadowserver.org
 scan-68-06.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-08.shadowserver.org
@@ -108,6 +105,7 @@ scan-71-05.shadowserver.org
 scan-73-00.shadowserver.org
 scan-73-01.shadowserver.org
 scan-73-05.shadowserver.org
+scan-73-08.shadowserver.org
 scan-75-01.shadowserver.org
 scan-76-03.shadowserver.org
 scan-78-03.shadowserver.org
@@ -136,4 +134,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-www.internet-albedo.net
