@@ -47,6 +47,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-254.4vendeta.com
 ip-58-70.4vendeta.com
 ip140.ip-15-204-155.us
+ip217-154-168-223.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
