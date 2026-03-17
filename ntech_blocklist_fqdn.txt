@@ -38,6 +38,7 @@ li1625-135.members.linode.com
 li1873-236.members.linode.com
 mail.shegertravel.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -86,6 +87,7 @@ scan-64-11.shadowserver.org
 scan-64-12.shadowserver.org
 scan-65-9.shadowserver.org
 scan-66-2.shadowserver.org
+scan-66-5.shadowserver.org
 scan-67-1.shadowserver.org
 scan-67-5.shadowserver.org
 scan-67-8.shadowserver.org
