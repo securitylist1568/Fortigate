@@ -34,6 +34,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1625-135.members.linode.com
 li1873-236.members.linode.com
 mail.shegertravel.com
 mfyabgec.musicpda.com
@@ -77,6 +78,7 @@ scan-63-6.shadowserver.org
 scan-64-10.shadowserver.org
 scan-64-11.shadowserver.org
 scan-65-9.shadowserver.org
+scan-66-2.shadowserver.org
 scan-67-1.shadowserver.org
 scan-67-5.shadowserver.org
 scan-67-8.shadowserver.org
@@ -91,6 +93,7 @@ scan-81-5.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-1.shadowserver.org
 scan-83-1.shadowserver.org
+scan-83-2.shadowserver.org
 scan-83-3.shadowserver.org
 scan-83-6.shadowserver.org
 scan-84-2.shadowserver.org
