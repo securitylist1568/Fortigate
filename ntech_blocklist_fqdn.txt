@@ -269,6 +269,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip129.ip-51-77-47.eu
 ip139.ip-158-69-40.net
 ip29.sudolio.io
+ip50.ip-51-38-211.eu
 mfyabgec.musicpda.com
 ns3008629.ip-149-202-66.eu
 pc112.cses.ilc.edu.tw
@@ -276,11 +277,14 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-08d.shadowserver.org
+scan-65-13.shadowserver.org
 scan.visionheight.com
 server.comy
 smtp1.telemach.net
 srv60813.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
 vlan14.as01.wco1.sg.m247.com
 vmi3103752.contaboserver.net
