@@ -30,6 +30,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip234.ip-15-235-104.net
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
@@ -47,6 +49,7 @@ scan-01n.shadowserver.org
 scan-02d.shadowserver.org
 scan-03c.shadowserver.org
 scan-04i.shadowserver.org
+scan-08f.shadowserver.org
 scan-10n.shadowserver.org
 scan-11i.shadowserver.org
 scan-13l.shadowserver.org
@@ -60,6 +63,7 @@ scan-36e.shadowserver.org
 scan-39f.shadowserver.org
 scan-40g.shadowserver.org
 scan-41g.shadowserver.org
+scan-41h.shadowserver.org
 scan-42b.shadowserver.org
 scan-42f.shadowserver.org
 scan-42j.shadowserver.org
@@ -107,6 +111,7 @@ scan-85-1.shadowserver.org
 scan-85-2.shadowserver.org
 scan-86-2.shadowserver.org
 scan-86-6.shadowserver.org
+scan-87-9.shadowserver.org
 scan-88-4.shadowserver.org
 scan-88-7.shadowserver.org
 scan-90-1.shadowserver.org
