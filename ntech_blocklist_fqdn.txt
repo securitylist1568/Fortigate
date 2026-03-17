@@ -21,7 +21,6 @@
 190-228-118-154.eganet.go.tz
 203-74-130-205.hinet-ip.hinet.net
 60-250-140-251.hinet-ip.hinet.net
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 96.47.109.136.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
