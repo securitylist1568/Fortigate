@@ -21,8 +21,10 @@
 176.65.148.196.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 220-136-147-12.dynamic-ip.hinet.net
+36-224-236-31.dynamic-ip.hinet.net
 6682-315a.jnb01.za.misaka.io
 amz.unixwiz.net
+astonishingtooth.ptr.network
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -83,6 +85,7 @@ scan-64-10.shadowserver.org
 scan-64-11.shadowserver.org
 scan-64-12.shadowserver.org
 scan-65-9.shadowserver.org
+scan-66-11.shadowserver.org
 scan-66-2.shadowserver.org
 scan-66-5.shadowserver.org
 scan-67-1.shadowserver.org
