@@ -180,10 +180,13 @@ scan-47b.shadowserver.org
 scan-47o.shadowserver.org
 scan-53m.shadowserver.org
 scan-55h.shadowserver.org
+scan-56a.shadowserver.org
 scan-56m.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-6.shadowserver.org
 scan-66-6.shadowserver.org
+scan-67-9.shadowserver.org
+scan-68-07.shadowserver.org
 scan-69-03.shadowserver.org
 scan-70-04.shadowserver.org
 scan-71-07.shadowserver.org
