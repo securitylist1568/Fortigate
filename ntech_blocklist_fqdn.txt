@@ -62,7 +62,9 @@ scan-39f.shadowserver.org
 scan-40g.shadowserver.org
 scan-41g.shadowserver.org
 scan-42b.shadowserver.org
+scan-42f.shadowserver.org
 scan-42k.shadowserver.org
+scan-47h.shadowserver.org
 scan-48c.shadowserver.org
 scan-48l.shadowserver.org
 scan-51k.shadowserver.org
@@ -70,6 +72,7 @@ scan-53i.shadowserver.org
 scan-55b.shadowserver.org
 scan-55h.shadowserver.org
 scan-56g.shadowserver.org
+scan-57e.shadowserver.org
 scan-60-3.shadowserver.org
 scan-61-0.shadowserver.org
 scan-62-10.shadowserver.org
