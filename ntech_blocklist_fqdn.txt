@@ -124,16 +124,6 @@
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 amz.unixwiz.net
-azpdcg338qgo.stretchoid.com
-azpdcgr4dxvq.stretchoid.com
-azpdcgygo6v7.stretchoid.com
-azpdcsks30yl.stretchoid.com
-azpdcst8pdk6.stretchoid.com
-azpdsg5fb6kx.stretchoid.com
-azpdsgkq513b.stretchoid.com
-azpdsscmc57g.stretchoid.com
-azpdssd2jo9j.stretchoid.com
-azpdsssypmuk.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 baku.scan.bufferover.run
@@ -177,7 +167,6 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
-ip129.ip-51-77-47.eu
 ip139.ip-158-69-40.net
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
@@ -242,6 +231,5 @@ undefined.hostname.localhost
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
 vlan14.as01.wco1.sg.m247.com
-vmi3103752.contaboserver.net
 warsaw.scan.bufferover.run
 www.internet-albedo.net
