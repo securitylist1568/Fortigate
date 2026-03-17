@@ -114,5 +114,6 @@ scan-85-9.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+syn-047-233-120-180.res.spectrum.com
 user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
