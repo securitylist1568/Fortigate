@@ -83,6 +83,7 @@ scan-83-2.shadowserver.org
 scan-86-2.shadowserver.org
 scan-86-6.shadowserver.org
 scan-87-9.shadowserver.org
+scan.f6.security
 scan.visionheight.com
 sharp.atid.cloud
 smtp1.telemach.net
