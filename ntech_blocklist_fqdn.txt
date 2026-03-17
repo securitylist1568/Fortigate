@@ -167,6 +167,7 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-126.superbithost.com
+ip-40-118.4vendeta.com
 ip139.ip-158-69-40.net
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
@@ -174,7 +175,9 @@ karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 mumbai.scan.bufferover.run
+no-mans-land.m247.com
 ns3008629.ip-149-202-66.eu
 olous.scan.bufferover.run
 pc112.cses.ilc.edu.tw
