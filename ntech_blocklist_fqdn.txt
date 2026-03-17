@@ -37,9 +37,7 @@ ip234.ip-15-235-104.net
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1625-135.members.linode.com
-li1873-236.members.linode.com
 mail.shegertravel.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -125,7 +123,6 @@ scan-90-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-syn-047-233-120-180.res.spectrum.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
