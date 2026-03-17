@@ -284,11 +284,14 @@ scan-47b.shadowserver.org
 scan-56m.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-6.shadowserver.org
+scan-71-07.shadowserver.org
 scan-74-07.shadowserver.org
 scan-81-8.shadowserver.org
 scan-82-8.shadowserver.org
 scan-83-0.shadowserver.org
 scan-87-3.shadowserver.org
+scan-88-0.shadowserver.org
+scan-90-9.shadowserver.org
 scan.visionheight.com
 server.comy
 smtp1.telemach.net
