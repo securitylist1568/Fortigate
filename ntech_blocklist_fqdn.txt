@@ -24,6 +24,7 @@
 36-224-236-31.dynamic-ip.hinet.net
 60-250-140-251.hinet-ip.hinet.net
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
+96.47.109.136.bc.googleusercontent.com
 amz.unixwiz.net
 astonishingtooth.ptr.network
 b2.org.afilias-nst.org
@@ -104,6 +105,7 @@ scan-86-6.shadowserver.org
 scan-87-9.shadowserver.org
 scan-88-4.shadowserver.org
 scan.visionheight.com
+sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
