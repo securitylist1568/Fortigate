@@ -47,6 +47,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scan-01n.shadowserver.org
 scan-03c.shadowserver.org
 scan-04c.shadowserver.org
@@ -61,6 +62,7 @@ scan-37j.shadowserver.org
 scan-39f.shadowserver.org
 scan-40g.shadowserver.org
 scan-41g.shadowserver.org
+scan-42b.shadowserver.org
 scan-42k.shadowserver.org
 scan-48l.shadowserver.org
 scan-49l.shadowserver.org
@@ -87,6 +89,7 @@ scan-79-02.shadowserver.org
 scan-79-06.shadowserver.org
 scan-81-5.shadowserver.org
 scan-81-7.shadowserver.org
+scan-82-1.shadowserver.org
 scan-83-1.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-2.shadowserver.org
