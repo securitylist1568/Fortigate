@@ -42,7 +42,6 @@
 172-232-3-17.ip.linodeusercontent.com
 172-232-8-247.ip.linodeusercontent.com
 172-233-221-115.ip.linodeusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 172-234-192-95.ip.linodeusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-199-190.ip.linodeusercontent.com
@@ -147,7 +146,6 @@ ip-114-126.superbithost.com
 ip-40-118.4vendeta.com
 ip-58-254.4vendeta.com
 ip-58-70.4vendeta.com
-ip139.ip-158-69-40.net
 ip140.ip-15-204-155.us
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
