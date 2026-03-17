@@ -64,6 +64,7 @@ scan-40g.shadowserver.org
 scan-41g.shadowserver.org
 scan-42b.shadowserver.org
 scan-42k.shadowserver.org
+scan-48c.shadowserver.org
 scan-48l.shadowserver.org
 scan-49l.shadowserver.org
 scan-51k.shadowserver.org
