@@ -29,13 +29,11 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-adsl.viettel.vn
 dynamic-ip-adsl.metfone.com.kh
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-130.4vendeta.com
-ip140.ip-15-204-155.us
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
@@ -52,7 +50,6 @@ scan-01n.shadowserver.org
 scan-03c.shadowserver.org
 scan-04c.shadowserver.org
 scan-07d.shadowserver.org
-scan-09o.shadowserver.org
 scan-14a.shadowserver.org
 scan-15k.shadowserver.org
 scan-36e.shadowserver.org
@@ -75,7 +72,6 @@ scan-64-10.shadowserver.org
 scan-67-8.shadowserver.org
 scan-67-9.shadowserver.org
 scan-68-07.shadowserver.org
-scan-69-03.shadowserver.org
 scan-74-02.shadowserver.org
 scan-76-02.shadowserver.org
 scan-79-02.shadowserver.org
@@ -96,5 +92,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 syn-047-233-120-180.res.spectrum.com
 undefined.hostname.localhost
-user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
