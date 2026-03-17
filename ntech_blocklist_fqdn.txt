@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-173-255-227-196.ip.linodeusercontent.com
 176.65.148.196.ptr.pfcloud.network
 179.112.199.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,17 +33,12 @@ dynamic-ip-adsl.metfone.com.kh
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-intermediate.venturamg.com
 ip-114-130.4vendeta.com
-ip-40-118.4vendeta.com
-ip-58-254.4vendeta.com
-ip-58-70.4vendeta.com
 ip140.ip-15-204-155.us
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-miscreantlace.ptr.network
 no-mans-land.m247.com
 ns1025754.ip-15-204-107.us
 pc112.cses.ilc.edu.tw
@@ -64,6 +58,7 @@ scan-36e.shadowserver.org
 scan-36n.shadowserver.org
 scan-37j.shadowserver.org
 scan-40g.shadowserver.org
+scan-41g.shadowserver.org
 scan-42k.shadowserver.org
 scan-49l.shadowserver.org
 scan-51k.shadowserver.org
@@ -76,6 +71,7 @@ scan-61-0.shadowserver.org
 scan-62-6.shadowserver.org
 scan-63-6.shadowserver.org
 scan-64-10.shadowserver.org
+scan-67-8.shadowserver.org
 scan-67-9.shadowserver.org
 scan-68-07.shadowserver.org
 scan-69-03.shadowserver.org
@@ -88,10 +84,12 @@ scan-83-1.shadowserver.org
 scan-83-3.shadowserver.org
 scan-84-2.shadowserver.org
 scan-84-6.shadowserver.org
+scan-85-0.shadowserver.org
 scan-85-2.shadowserver.org
 scan-85-9.shadowserver.org
 scan-88-6.shadowserver.org
 scan-88-7.shadowserver.org
+scan-90-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
