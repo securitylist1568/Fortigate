@@ -145,12 +145,12 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 intermediate.venturamg.com
 ip-114-126.superbithost.com
+ip-114-130.4vendeta.com
 ip-40-118.4vendeta.com
 ip-58-254.4vendeta.com
 ip-58-70.4vendeta.com
 ip140.ip-15-204-155.us
 ip29.sudolio.io
-ip50.ip-51-38-211.eu
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 manila.scan.bufferover.run
@@ -168,7 +168,6 @@ rootevidence.com
 s4850.vps.hosting
 salta.scan.bufferover.run
 scan-02j.shadowserver.org
-scan-08d.shadowserver.org
 scan-08i.shadowserver.org
 scan-09o.shadowserver.org
 scan-17o.shadowserver.org
@@ -188,7 +187,6 @@ scan-55h.shadowserver.org
 scan-56a.shadowserver.org
 scan-56m.shadowserver.org
 scan-62-6.shadowserver.org
-scan-65-13.shadowserver.org
 scan-65-6.shadowserver.org
 scan-66-6.shadowserver.org
 scan-67-9.shadowserver.org
@@ -217,7 +215,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
-undefined.hostname.localhost
 user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
