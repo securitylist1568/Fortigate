@@ -166,8 +166,11 @@ giza.scan.bufferover.run
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+intermediate.venturamg.com
 ip-114-126.superbithost.com
 ip-40-118.4vendeta.com
+ip-58-254.4vendeta.com
+ip-58-70.4vendeta.com
 ip139.ip-158-69-40.net
 ip29.sudolio.io
 ip50.ip-51-38-211.eu
