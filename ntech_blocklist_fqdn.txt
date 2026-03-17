@@ -24,7 +24,6 @@
 185-45-195-15.hostsailor.com
 36-224-172-11.dynamic-ip.hinet.net
 amz.unixwiz.net
-andersen.probe.onyphe.net
 azpdcg008shw.stretchoid.com
 azpdcg0g79kx.stretchoid.com
 azpdcg1d5xic.stretchoid.com
@@ -264,7 +263,6 @@ ec2-54-86-2-95.compute-1.amazonaws.com
 ec2-98-81-156-78.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip129.ip-51-77-47.eu
 ip139.ip-158-69-40.net
@@ -286,6 +284,5 @@ srv60813.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
-vlan14.as01.wco1.sg.m247.com
 vmi3103752.contaboserver.net
 vps-e568ec86.vps.ovh.net
