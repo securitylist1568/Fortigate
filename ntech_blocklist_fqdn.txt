@@ -168,6 +168,7 @@ salta.scan.bufferover.run
 scan-02j.shadowserver.org
 scan-08d.shadowserver.org
 scan-08i.shadowserver.org
+scan-09o.shadowserver.org
 scan-17o.shadowserver.org
 scan-19b.shadowserver.org
 scan-20f.shadowserver.org
@@ -184,6 +185,7 @@ scan-56m.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-6.shadowserver.org
 scan-66-6.shadowserver.org
+scan-69-03.shadowserver.org
 scan-70-04.shadowserver.org
 scan-71-07.shadowserver.org
 scan-74-03.shadowserver.org
