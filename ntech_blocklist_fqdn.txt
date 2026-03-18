@@ -79,6 +79,7 @@ azpdssljyx4k.stretchoid.com
 azpdssmfgap7.stretchoid.com
 azpdssnuwcss.stretchoid.com
 azpdssqe1x1s.stretchoid.com
+azpdssqgk6vr.stretchoid.com
 azpdssrvaql5.stretchoid.com
 azpdssxxiv0f.stretchoid.com
 b2.org.afilias-nst.org
@@ -113,12 +114,15 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-03f.shadowserver.org
 scan-06j.shadowserver.org
+scan-08c.shadowserver.org
 scan-20a.shadowserver.org
 scan-52d.shadowserver.org
 scan-61-12.shadowserver.org
 scan-65-13.shadowserver.org
 scan-75-04.shadowserver.org
+scan-77-05.shadowserver.org
 scan-87-4.shadowserver.org
+scan-89-0.shadowserver.org
 scan-89-6.shadowserver.org
 scan-90-1.shadowserver.org
 scan.visionheight.com
