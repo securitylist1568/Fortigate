@@ -32,10 +32,12 @@ ec2-34-229-148-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-126.superbithost.com
 ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -43,6 +45,7 @@ recyber.net
 scan-01a.shadowserver.org
 scan-01d.shadowserver.org
 scan-03f.shadowserver.org
+scan-05n.shadowserver.org
 scan-13g.shadowserver.org
 scan-14l.shadowserver.org
 scan-17k.shadowserver.org
@@ -60,7 +63,9 @@ scan-52j.shadowserver.org
 scan-52l.shadowserver.org
 scan-54f.shadowserver.org
 scan-57e.shadowserver.org
+scan-58m.shadowserver.org
 scan-59m.shadowserver.org
+scan-60-9.shadowserver.org
 scan-61-1.shadowserver.org
 scan-61-9.shadowserver.org
 scan-62-6.shadowserver.org
@@ -78,6 +83,7 @@ scan-67-4.shadowserver.org
 scan-68-03.shadowserver.org
 scan-68-04.shadowserver.org
 scan-68-09.shadowserver.org
+scan-69-04.shadowserver.org
 scan-69-06.shadowserver.org
 scan-69-07.shadowserver.org
 scan-69-09.shadowserver.org
@@ -86,6 +92,7 @@ scan-71-04.shadowserver.org
 scan-71-05.shadowserver.org
 scan-72-04.shadowserver.org
 scan-73-01.shadowserver.org
+scan-74-06.shadowserver.org
 scan-74-07.shadowserver.org
 scan-74-08.shadowserver.org
 scan-75-03.shadowserver.org
@@ -96,6 +103,8 @@ scan-81-4.shadowserver.org
 scan-82-2.shadowserver.org
 scan-83-4.shadowserver.org
 scan-83-5.shadowserver.org
+scan-83-6.shadowserver.org
+scan-85-4.shadowserver.org
 scan-85-5.shadowserver.org
 scan-87-1.shadowserver.org
 scan-88-1.shadowserver.org
