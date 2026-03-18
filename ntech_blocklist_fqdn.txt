@@ -27,6 +27,7 @@ aim.sba-research.org
 amz.unixwiz.net
 azpdcg0g79kx.stretchoid.com
 azpdcg46bgcl.stretchoid.com
+azpdcg4stxdr.stretchoid.com
 azpdcga89i9p.stretchoid.com
 azpdcgb46g11.stretchoid.com
 azpdcgcs8wb3.stretchoid.com
@@ -38,7 +39,9 @@ azpdcge03zd6.stretchoid.com
 azpdcgeb6h4x.stretchoid.com
 azpdcgf6gy66.stretchoid.com
 azpdcgnss3xk.stretchoid.com
+azpdcgompmtd.stretchoid.com
 azpdcgqw0sth.stretchoid.com
+azpdcgtqqxu4.stretchoid.com
 azpdcgw9ju0l.stretchoid.com
 azpdcgwnbxou.stretchoid.com
 azpdcs0q26hb.stretchoid.com
@@ -85,7 +88,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-55-74-138.compute-1.amazonaws.com
 ec2-13-222-161-63.compute-1.amazonaws.com
-ec2-18-163-79-17.ap-east-1.compute.amazonaws.com
 ec2-18-234-190-223.compute-1.amazonaws.com
 ec2-3-81-230-20.compute-1.amazonaws.com
 ec2-3-82-191-76.compute-1.amazonaws.com
@@ -123,6 +125,5 @@ scan.visionheight.com
 smtp1.telemach.net
 srv63009.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-225-147.mci01.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
