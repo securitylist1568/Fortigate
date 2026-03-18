@@ -18,8 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 13.251.106.34.bc.googleusercontent.com
+136.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 251.27.158.34.bc.googleusercontent.com
+45-79-181-197.ip.linodeusercontent.com
 45-79-189-251.ip.linodeusercontent.com
 51-158-144-234.rev.poneytelecom.eu
 60-249-14-121.hinet-ip.hinet.net
@@ -38,6 +40,7 @@ ec2-3-83-53-90.compute-1.amazonaws.com
 ec2-3-85-165-30.compute-1.amazonaws.com
 ec2-3-93-193-141.compute-1.amazonaws.com
 ec2-34-201-57-118.compute-1.amazonaws.com
+ec2-44-201-165-173.compute-1.amazonaws.com
 ec2-44-201-208-109.compute-1.amazonaws.com
 ec2-50-16-162-130.compute-1.amazonaws.com
 ec2-54-160-155-146.compute-1.amazonaws.com
