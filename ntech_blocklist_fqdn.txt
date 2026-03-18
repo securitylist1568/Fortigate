@@ -49,14 +49,17 @@ scan-17k.shadowserver.org
 scan-18a.shadowserver.org
 scan-37o.shadowserver.org
 scan-42f.shadowserver.org
+scan-44f.shadowserver.org
 scan-45o.shadowserver.org
 scan-46f.shadowserver.org
 scan-48h.shadowserver.org
+scan-49b.shadowserver.org
 scan-52j.shadowserver.org
 scan-52l.shadowserver.org
 scan-57e.shadowserver.org
 scan-59m.shadowserver.org
 scan-63-5.shadowserver.org
+scan-64-7.shadowserver.org
 scan-65-1.shadowserver.org
 scan-65-13.shadowserver.org
 scan-66-5.shadowserver.org
