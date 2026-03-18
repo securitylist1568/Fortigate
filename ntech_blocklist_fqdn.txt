@@ -17,10 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190-228-118-154.eganet.go.tz
-203-74-130-205.hinet-ip.hinet.net
-60-250-140-251.hinet-ip.hinet.net
 82-147-88-88.vpsdedic.ru
 96.47.109.136.bc.googleusercontent.com
 aim.sba-research.org
@@ -50,7 +49,6 @@ ec2-44-201-164-126.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip209.ip-51-77-161.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
