@@ -28,7 +28,6 @@ amz.unixwiz.net
 azpdcspdf48m.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-d66-183-91-30.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-63-130-254.eu-north-1.compute.amazonaws.com
@@ -42,7 +41,7 @@ ip-114-126.superbithost.com
 ip-114-130.4vendeta.com
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
-li1817-110.members.linode.com
+mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
@@ -69,7 +68,6 @@ scan-45c.shadowserver.org
 scan-48e.shadowserver.org
 scan-49b.shadowserver.org
 scan-52i.shadowserver.org
-scan-52l.shadowserver.org
 scan-54f.shadowserver.org
 scan-58d.shadowserver.org
 scan-58m.shadowserver.org
@@ -85,7 +83,6 @@ scan-64-10.shadowserver.org
 scan-64-2.shadowserver.org
 scan-64-7.shadowserver.org
 scan-65-6.shadowserver.org
-scan-67-4.shadowserver.org
 scan-69-04.shadowserver.org
 scan-69-06.shadowserver.org
 scan-69-09.shadowserver.org
@@ -98,7 +95,6 @@ scan-75-03.shadowserver.org
 scan-75-06.shadowserver.org
 scan-75-09.shadowserver.org
 scan-77-01.shadowserver.org
-scan-79-09.shadowserver.org
 scan-80-0.shadowserver.org
 scan-83-3.shadowserver.org
 scan-83-5.shadowserver.org
@@ -115,5 +111,4 @@ spadenose.com
 static-ip-250-192-65-202.rev.dyxnet.com
 traderchart.net
 user-170-39-224-220.iad03.us.misaka.io
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
