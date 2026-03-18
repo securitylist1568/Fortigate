@@ -75,6 +75,7 @@ azpdsguods88.stretchoid.com
 azpdss67pqzn.stretchoid.com
 azpdss9cv4j4.stretchoid.com
 azpdssb7c6fp.stretchoid.com
+azpdssezu9hk.stretchoid.com
 azpdssljyx4k.stretchoid.com
 azpdssmfgap7.stretchoid.com
 azpdssnuwcss.stretchoid.com
@@ -119,9 +120,14 @@ scan-20a.shadowserver.org
 scan-52d.shadowserver.org
 scan-61-12.shadowserver.org
 scan-65-13.shadowserver.org
+scan-65-7.shadowserver.org
+scan-72-06.shadowserver.org
+scan-74-03.shadowserver.org
 scan-75-04.shadowserver.org
 scan-77-05.shadowserver.org
+scan-86-4.shadowserver.org
 scan-87-4.shadowserver.org
+scan-88-8.shadowserver.org
 scan-89-0.shadowserver.org
 scan-89-6.shadowserver.org
 scan-90-1.shadowserver.org
