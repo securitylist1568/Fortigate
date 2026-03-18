@@ -122,9 +122,11 @@ scan-08c.shadowserver.org
 scan-20a.shadowserver.org
 scan-44c.shadowserver.org
 scan-52d.shadowserver.org
+scan-54l.shadowserver.org
 scan-61-12.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-7.shadowserver.org
+scan-67-6.shadowserver.org
 scan-70-04.shadowserver.org
 scan-72-06.shadowserver.org
 scan-74-03.shadowserver.org
