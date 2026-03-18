@@ -29,6 +29,7 @@ azpdcgdroqxu.stretchoid.com
 azpdcgqw0sth.stretchoid.com
 azpdcgw9ju0l.stretchoid.com
 azpdcsvfug89.stretchoid.com
+azpdcsyw8p3i.stretchoid.com
 azpdesxvkfqx.stretchoid.com
 azpdsgp14bi0.stretchoid.com
 b2.org.afilias-nst.org
@@ -71,9 +72,7 @@ scan-75-04.shadowserver.org
 scan-87-4.shadowserver.org
 scan-89-6.shadowserver.org
 scan-90-1.shadowserver.org
-scan.f6.security
 scan.visionheight.com
-server.comy
 smtp1.telemach.net
 srv63009.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
