@@ -38,7 +38,6 @@ ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -51,11 +50,10 @@ scan-14l.shadowserver.org
 scan-17k.shadowserver.org
 scan-18a.shadowserver.org
 scan-36l.shadowserver.org
-scan-37o.shadowserver.org
 scan-42f.shadowserver.org
 scan-44f.shadowserver.org
+scan-45c.shadowserver.org
 scan-45o.shadowserver.org
-scan-46f.shadowserver.org
 scan-48h.shadowserver.org
 scan-49b.shadowserver.org
 scan-52j.shadowserver.org
@@ -73,7 +71,6 @@ scan-67-3.shadowserver.org
 scan-67-4.shadowserver.org
 scan-68-03.shadowserver.org
 scan-68-04.shadowserver.org
-scan-68-06.shadowserver.org
 scan-68-09.shadowserver.org
 scan-69-06.shadowserver.org
 scan-69-07.shadowserver.org
@@ -100,6 +97,5 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
-user-209-209-59-230.lax02.us.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
