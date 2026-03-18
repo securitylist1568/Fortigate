@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 179.112.199.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-220-136-147-12.dynamic-ip.hinet.net
 96.47.109.136.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -115,7 +114,9 @@ scan-03f.shadowserver.org
 scan-06j.shadowserver.org
 scan-08c.shadowserver.org
 scan-20a.shadowserver.org
+scan-37o.shadowserver.org
 scan-44c.shadowserver.org
+scan-46f.shadowserver.org
 scan-46h.shadowserver.org
 scan-52d.shadowserver.org
 scan-54l.shadowserver.org
@@ -125,6 +126,7 @@ scan-63-10.shadowserver.org
 scan-65-13.shadowserver.org
 scan-65-7.shadowserver.org
 scan-67-6.shadowserver.org
+scan-68-06.shadowserver.org
 scan-70-04.shadowserver.org
 scan-72-02.shadowserver.org
 scan-72-06.shadowserver.org
