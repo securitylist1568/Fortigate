@@ -57,6 +57,7 @@ azpdcsdwz0o0.stretchoid.com
 azpdcsehzfam.stretchoid.com
 azpdcsieaog4.stretchoid.com
 azpdcsiyzkq3.stretchoid.com
+azpdcsmnnct2.stretchoid.com
 azpdcsrvg9dn.stretchoid.com
 azpdcsvfug89.stretchoid.com
 azpdcsyv59dp.stretchoid.com
@@ -77,6 +78,7 @@ azpdsgg3m5e0.stretchoid.com
 azpdsggyr6jk.stretchoid.com
 azpdsgj9e6li.stretchoid.com
 azpdsgp14bi0.stretchoid.com
+azpdsgrq1r6x.stretchoid.com
 azpdsguods88.stretchoid.com
 azpdss62ekwf.stretchoid.com
 azpdss67pqzn.stretchoid.com
@@ -92,6 +94,7 @@ azpdssqe1x1s.stretchoid.com
 azpdssqgk6vr.stretchoid.com
 azpdssrvaql5.stretchoid.com
 azpdssxxiv0f.stretchoid.com
+azpdssy8xvuk.stretchoid.com
 b2.org.afilias-nst.org
 buffea-rteflt.greatexact.com
 client.yota.ru
@@ -118,6 +121,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+new-ubuntu20223240.aspadmin.net
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
