@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 13.251.106.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
+177.149.216.162.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.211.203.35.bc.googleusercontent.com
@@ -67,6 +68,7 @@ ip29.sudolio.io
 ip77.ip-51-91-168.eu
 mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
