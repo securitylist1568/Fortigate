@@ -19,11 +19,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 126.150.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
+136.149.216.162.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 192-210-234-11-host.colocrossing.com
 197.150.216.162.bc.googleusercontent.com
+20.149.216.162.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
 220-135-4-103.hinet-ip.hinet.net
 27-51-10-153.adsl.fetnet.net
@@ -342,6 +344,8 @@ cm203-168-227-68.hkcable.com.hk
 dal215.hawkhost.com
 dns12.online.tj.cn
 dsl-187-235-42-253-dyn.prod-infinitum.com.mx
+ec2-100-28-191-174.compute-1.amazonaws.com
+ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -416,5 +420,6 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ucili.sacrediction.co.uk
+user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
 vps-9f0ddb87.vps.ovh.ca
