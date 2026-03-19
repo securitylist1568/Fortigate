@@ -25,6 +25,7 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 191.149.216.162.bc.googleusercontent.com
+198-12-115-30-host.colocrossing.com
 206.150.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
@@ -72,7 +73,15 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-51b.shadowserver.org
+scan-62-13.shadowserver.org
+scan-64-1.shadowserver.org
+scan-71-02.shadowserver.org
 scan-74-01.shadowserver.org
+scan-75-01.shadowserver.org
+scan-76-08.shadowserver.org
+scan-86-4.shadowserver.org
+scan-89-7.shadowserver.org
 scan.visionheight.com
 server.comy
 smtp1.telemach.net
