@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.150.216.162.bc.googleusercontent.com
+128.150.216.162.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
 172-104-5-52.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -348,6 +349,7 @@ ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+huma.probe.onyphe.net
 ip29.sudolio.io
 mail.shegertravel.com
 mfyabgec.musicpda.com
@@ -363,6 +365,7 @@ scan-05e.shadowserver.org
 scan-06j.shadowserver.org
 scan-07e.shadowserver.org
 scan-08g.shadowserver.org
+scan-09b.shadowserver.org
 scan-15k.shadowserver.org
 scan-20a.shadowserver.org
 scan-37o.shadowserver.org
@@ -373,6 +376,7 @@ scan-43l.shadowserver.org
 scan-47o.shadowserver.org
 scan-48d.shadowserver.org
 scan-49b.shadowserver.org
+scan-49k.shadowserver.org
 scan-51k.shadowserver.org
 scan-51n.shadowserver.org
 scan-54i.shadowserver.org
@@ -387,9 +391,11 @@ scan-66-0.shadowserver.org
 scan-66-13.shadowserver.org
 scan-66-4.shadowserver.org
 scan-66-7.shadowserver.org
+scan-67-1.shadowserver.org
 scan-67-9.shadowserver.org
 scan-69-08.shadowserver.org
 scan-70-04.shadowserver.org
+scan-71-04.shadowserver.org
 scan-72-01.shadowserver.org
 scan-73-07.shadowserver.org
 scan-74-00.shadowserver.org
