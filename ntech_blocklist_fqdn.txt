@@ -29,6 +29,7 @@
 233.150.216.162.bc.googleusercontent.com
 251.27.158.34.bc.googleusercontent.com
 254.211.203.35.bc.googleusercontent.com
+28.211.203.35.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 44.150.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
@@ -46,6 +47,7 @@ dns12.online.tj.cn
 ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
+ec2-3-138-33-62.us-east-2.compute.amazonaws.com
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
@@ -71,6 +73,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01i.shadowserver.org
+scan-01n.shadowserver.org
 scan-04j.shadowserver.org
 scan-06f.shadowserver.org
 scan-06j.shadowserver.org
@@ -106,6 +109,7 @@ scan-84-0.shadowserver.org
 scan-84-4.shadowserver.org
 scan-86-6.shadowserver.org
 scan-88-6.shadowserver.org
+scan-90-1.shadowserver.org
 scan-90-6.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
