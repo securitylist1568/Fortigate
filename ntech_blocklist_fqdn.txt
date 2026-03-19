@@ -28,6 +28,7 @@
 191.149.216.162.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
+239.150.216.162.bc.googleusercontent.com
 251.27.158.34.bc.googleusercontent.com
 39.210.203.35.bc.googleusercontent.com
 45-79-181-197.ip.linodeusercontent.com
@@ -73,7 +74,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-74-01.shadowserver.org
 scan.f6.security
+scan.visionheight.com
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
