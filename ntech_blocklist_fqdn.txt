@@ -24,6 +24,7 @@
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 192-210-234-11-host.colocrossing.com
+194.211.203.35.bc.googleusercontent.com
 20.149.216.162.bc.googleusercontent.com
 202.210.203.35.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
@@ -294,6 +295,7 @@ scan-88-4.shadowserver.org
 scan-90-2.shadowserver.org
 scan-90-7.shadowserver.org
 scan.visionheight.com
+scott.probe.onyphe.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ucili.sacrediction.co.uk
