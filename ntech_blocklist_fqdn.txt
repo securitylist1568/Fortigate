@@ -387,6 +387,7 @@ scan-49k.shadowserver.org
 scan-51k.shadowserver.org
 scan-51n.shadowserver.org
 scan-54i.shadowserver.org
+scan-57k.shadowserver.org
 scan-58m.shadowserver.org
 scan-61-10.shadowserver.org
 scan-61-5.shadowserver.org
