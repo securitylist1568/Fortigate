@@ -47,6 +47,7 @@ cherise.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-13-222-246-187.compute-1.amazonaws.com
 ec2-18-233-100-117.compute-1.amazonaws.com
 ec2-3-138-33-62.us-east-2.compute.amazonaws.com
@@ -96,5 +97,6 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
+user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
 zhangyuan3.virtuaserver.com.br
