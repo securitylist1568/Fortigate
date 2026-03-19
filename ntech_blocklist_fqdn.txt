@@ -239,6 +239,7 @@ mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
+partclient.net
 pc112.cses.ilc.edu.tw
 petty.probe.onyphe.net
 pinkytales.com
@@ -294,6 +295,7 @@ scan-86-4.shadowserver.org
 scan-88-4.shadowserver.org
 scan-90-2.shadowserver.org
 scan-90-7.shadowserver.org
+scan.f6.security
 scan.visionheight.com
 scott.probe.onyphe.net
 smtp1.telemach.net
