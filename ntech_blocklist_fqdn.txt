@@ -46,6 +46,7 @@ cherise.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-51-6-16.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
 ec2-13-222-246-187.compute-1.amazonaws.com
 ec2-18-233-100-117.compute-1.amazonaws.com
@@ -77,7 +78,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-01i.shadowserver.org
 scan-09g.shadowserver.org
+scan-36l.shadowserver.org
+scan-44f.shadowserver.org
 scan-47o.shadowserver.org
 scan-51b.shadowserver.org
 scan-56i.shadowserver.org
@@ -85,10 +89,12 @@ scan-62-13.shadowserver.org
 scan-64-1.shadowserver.org
 scan-66-0.shadowserver.org
 scan-68-05.shadowserver.org
+scan-69-01.shadowserver.org
 scan-71-02.shadowserver.org
 scan-74-01.shadowserver.org
 scan-75-01.shadowserver.org
 scan-76-08.shadowserver.org
+scan-81-1.shadowserver.org
 scan-82-1.shadowserver.org
 scan-83-5.shadowserver.org
 scan-84-5.shadowserver.org
