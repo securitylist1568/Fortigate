@@ -31,6 +31,7 @@
 45-7-144-144.client.2btelecom.com.br
 67.149.216.162.bc.googleusercontent.com
 74-50-113-81.static.hvvc.us
+87.150.216.162.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -362,6 +363,7 @@ recyber.net
 rootevidence.com
 scan-01l.shadowserver.org
 scan-01n.shadowserver.org
+scan-02n.shadowserver.org
 scan-05e.shadowserver.org
 scan-06j.shadowserver.org
 scan-07e.shadowserver.org
@@ -388,6 +390,7 @@ scan-49b.shadowserver.org
 scan-49k.shadowserver.org
 scan-51k.shadowserver.org
 scan-51n.shadowserver.org
+scan-53n.shadowserver.org
 scan-54i.shadowserver.org
 scan-57k.shadowserver.org
 scan-58m.shadowserver.org
@@ -407,6 +410,7 @@ scan-69-07.shadowserver.org
 scan-69-08.shadowserver.org
 scan-70-04.shadowserver.org
 scan-71-04.shadowserver.org
+scan-71-09.shadowserver.org
 scan-72-01.shadowserver.org
 scan-73-07.shadowserver.org
 scan-74-00.shadowserver.org
@@ -422,11 +426,13 @@ scan-79-07.shadowserver.org
 scan-80-3.shadowserver.org
 scan-81-4.shadowserver.org
 scan-82-3.shadowserver.org
+scan-83-2.shadowserver.org
 scan-83-8.shadowserver.org
 scan-83-9.shadowserver.org
 scan-84-0.shadowserver.org
 scan-84-1.shadowserver.org
 scan-84-5.shadowserver.org
+scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-7.shadowserver.org
 scan-90-1.shadowserver.org
