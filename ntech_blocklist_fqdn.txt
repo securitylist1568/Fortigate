@@ -59,6 +59,7 @@ ec2-98-81-85-17.compute-1.amazonaws.com
 ec2-98-94-39-8.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
 ip29.sudolio.io
