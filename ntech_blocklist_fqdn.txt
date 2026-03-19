@@ -38,6 +38,7 @@
 51-158-144-234.rev.poneytelecom.eu
 58.211.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
+89.211.203.35.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
