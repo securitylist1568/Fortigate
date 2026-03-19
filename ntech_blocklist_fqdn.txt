@@ -27,6 +27,7 @@
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.149.216.162.bc.googleusercontent.com
+197.211.203.35.bc.googleusercontent.com
 198-12-115-30-host.colocrossing.com
 206.150.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
+ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
