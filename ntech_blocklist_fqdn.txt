@@ -368,6 +368,7 @@ scan-20a.shadowserver.org
 scan-37o.shadowserver.org
 scan-39m.shadowserver.org
 scan-41n.shadowserver.org
+scan-42f.shadowserver.org
 scan-43l.shadowserver.org
 scan-47o.shadowserver.org
 scan-48d.shadowserver.org
@@ -393,6 +394,7 @@ scan-72-01.shadowserver.org
 scan-73-07.shadowserver.org
 scan-74-00.shadowserver.org
 scan-74-08.shadowserver.org
+scan-74-09.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-03.shadowserver.org
 scan-75-04.shadowserver.org
@@ -407,6 +409,7 @@ scan-84-5.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-7.shadowserver.org
 scan-90-1.shadowserver.org
+scan-90-2.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
