@@ -30,6 +30,7 @@
 239.150.216.162.bc.googleusercontent.com
 254.211.203.35.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
+44.150.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 81.134.61.45.static.cloudzy.com
 87.210.203.35.bc.googleusercontent.com
@@ -100,6 +101,7 @@ scan-75-01.shadowserver.org
 scan-75-05.shadowserver.org
 scan-76-08.shadowserver.org
 scan-78-06.shadowserver.org
+scan-79-04.shadowserver.org
 scan-80-5.shadowserver.org
 scan-81-1.shadowserver.org
 scan-82-1.shadowserver.org
