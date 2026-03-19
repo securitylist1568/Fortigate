@@ -31,8 +31,10 @@
 45-7-144-144.client.2btelecom.com.br
 72.149.216.162.bc.googleusercontent.com
 74-50-113-81.static.hvvc.us
+87.149.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg008shw.stretchoid.com
 azpdcg066bqc.stretchoid.com
@@ -351,6 +353,7 @@ huma.probe.onyphe.net
 ip-207-188-12-233.phx.h5datacenters.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 petty.probe.onyphe.net
