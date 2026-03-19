@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-13.251.106.34.bc.googleusercontent.com
 136.210.203.35.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 152.149.216.162.bc.googleusercontent.com
@@ -28,8 +27,8 @@
 191.149.216.162.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
+213.211.203.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
-251.27.158.34.bc.googleusercontent.com
 39.210.203.35.bc.googleusercontent.com
 45-79-181-197.ip.linodeusercontent.com
 51-158-144-234.rev.poneytelecom.eu
@@ -45,8 +44,8 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-222-246-187.compute-1.amazonaws.com
-ec2-18-221-132-46.us-east-2.compute.amazonaws.com
 ec2-18-233-100-117.compute-1.amazonaws.com
+ec2-3-138-33-62.us-east-2.compute.amazonaws.com
 ec2-3-239-13-6.compute-1.amazonaws.com
 ec2-3-83-53-90.compute-1.amazonaws.com
 ec2-3-85-165-30.compute-1.amazonaws.com
@@ -67,7 +66,6 @@ ip29.sudolio.io
 jsgqkjz.cn
 klnorrx.cn
 li1537-121.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -75,7 +73,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-74-01.shadowserver.org
-scan.f6.security
 scan.visionheight.com
 server.comy
 smtp1.telemach.net
