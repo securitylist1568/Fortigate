@@ -351,6 +351,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 huma.probe.onyphe.net
+ip-207-188-12-233.phx.h5datacenters.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -374,6 +375,7 @@ scan-37n.shadowserver.org
 scan-37o.shadowserver.org
 scan-38b.shadowserver.org
 scan-38f.shadowserver.org
+scan-39k.shadowserver.org
 scan-39m.shadowserver.org
 scan-41n.shadowserver.org
 scan-42f.shadowserver.org
@@ -417,8 +419,10 @@ scan-76-01.shadowserver.org
 scan-78-05.shadowserver.org
 scan-78-07.shadowserver.org
 scan-79-07.shadowserver.org
+scan-80-3.shadowserver.org
 scan-81-4.shadowserver.org
 scan-82-3.shadowserver.org
+scan-83-8.shadowserver.org
 scan-83-9.shadowserver.org
 scan-84-0.shadowserver.org
 scan-84-1.shadowserver.org
