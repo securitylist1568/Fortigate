@@ -22,12 +22,15 @@
 168-113-158-51.instances.scw.cloud
 172-104-5-52.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192-210-234-11-host.colocrossing.com
 197.150.216.162.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
+220-135-4-103.hinet-ip.hinet.net
 242.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 27-51-10-153.adsl.fetnet.net
 45-7-144-144.client.2btelecom.com.br
+72.149.216.162.bc.googleusercontent.com
 74-50-113-81.static.hvvc.us
 87.150.216.162.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
