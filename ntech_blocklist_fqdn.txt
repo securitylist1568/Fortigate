@@ -54,6 +54,7 @@ ec2-3-138-33-62.us-east-2.compute.amazonaws.com
 ec2-3-83-53-90.compute-1.amazonaws.com
 ec2-3-85-165-30.compute-1.amazonaws.com
 ec2-3-93-193-141.compute-1.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-201-57-118.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-201-165-173.compute-1.amazonaws.com
@@ -71,6 +72,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip77.ip-51-91-168.eu
 li1537-121.members.linode.com
+mamfac.my.affordmyfinance.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
