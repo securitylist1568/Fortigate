@@ -58,6 +58,7 @@ ec2-34-201-57-118.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-201-165-173.compute-1.amazonaws.com
 ec2-44-201-208-109.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-50-16-162-130.compute-1.amazonaws.com
 ec2-54-160-155-146.compute-1.amazonaws.com
 ec2-98-81-85-17.compute-1.amazonaws.com
