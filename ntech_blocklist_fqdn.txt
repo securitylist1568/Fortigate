@@ -35,7 +35,9 @@
 45-33-87-89.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
 6.210.203.35.bc.googleusercontent.com
+61-219-111-6.hinet-ip.hinet.net
 83.211.203.35.bc.googleusercontent.com
+85.150.216.162.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 97.122.97.34.bc.googleusercontent.com
 aim.sba-research.org
