@@ -20,11 +20,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 13.150.216.162.bc.googleusercontent.com
-135.150.216.162.bc.googleusercontent.com
 176.65.148.13.ptr.pfcloud.network
-176.65.148.37.ptr.pfcloud.network
 176.65.148.70.ptr.pfcloud.network
-176.65.148.92.ptr.pfcloud.network
 1770962187605-7dc6ed92bda4e8-0-3.local
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
@@ -41,6 +38,7 @@
 60.211.203.35.bc.googleusercontent.com
 61-219-111-6.hinet-ip.hinet.net
 65.150.216.162.bc.googleusercontent.com
+65.211.203.35.bc.googleusercontent.com
 66.211.203.35.bc.googleusercontent.com
 71.149.216.162.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
@@ -77,10 +75,8 @@ scan-18e.shadowserver.org
 scan-19b.shadowserver.org
 scan-20j.shadowserver.org
 scan-37e.shadowserver.org
-scan-40d.shadowserver.org
 scan-43b.shadowserver.org
 scan-43d.shadowserver.org
-scan-44f.shadowserver.org
 scan-46e.shadowserver.org
 scan-46h.shadowserver.org
 scan-47k.shadowserver.org
@@ -98,12 +94,10 @@ scan-63-10.shadowserver.org
 scan-63-12.shadowserver.org
 scan-63-9.shadowserver.org
 scan-64-11.shadowserver.org
-scan-64-9.shadowserver.org
 scan-65-0.shadowserver.org
 scan-65-1.shadowserver.org
 scan-66-13.shadowserver.org
 scan-66-3.shadowserver.org
-scan-67-2.shadowserver.org
 scan-67-3.shadowserver.org
 scan-67-7.shadowserver.org
 scan-67-8.shadowserver.org
@@ -111,12 +105,12 @@ scan-68-08.shadowserver.org
 scan-68-09.shadowserver.org
 scan-69-06.shadowserver.org
 scan-69-07.shadowserver.org
+scan-69-08.shadowserver.org
+scan-70-01.shadowserver.org
 scan-70-02.shadowserver.org
 scan-71-06.shadowserver.org
 scan-72-06.shadowserver.org
-scan-72-07.shadowserver.org
 scan-73-01.shadowserver.org
-scan-73-02.shadowserver.org
 scan-73-05.shadowserver.org
 scan-73-06.shadowserver.org
 scan-74-05.shadowserver.org
@@ -132,6 +126,7 @@ scan-82-5.shadowserver.org
 scan-83-1.shadowserver.org
 scan-84-1.shadowserver.org
 scan-85-2.shadowserver.org
+scan-85-3.shadowserver.org
 scan-87-1.shadowserver.org
 scan-87-2.shadowserver.org
 scan-87-5.shadowserver.org
