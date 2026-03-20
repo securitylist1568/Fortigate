@@ -46,6 +46,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 coinspe.com
 crawler140.deepfield.net
+d66-183-88-112.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
