@@ -29,6 +29,7 @@
 185-45-195-15.hostsailor.com
 193.210.203.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
+205.142.84.34.bc.googleusercontent.com
 213-205-79-50.net.static.novis.pt
 219.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
