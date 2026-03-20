@@ -26,6 +26,7 @@
 25.211.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 251.27.158.34.bc.googleusercontent.com
+36-237-79-29.dynamic-ip.hinet.net
 40.210.203.35.bc.googleusercontent.com
 45-33-87-89.ip.linodeusercontent.com
 45-79-156-54.ip.linodeusercontent.com
@@ -78,6 +79,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-05e.shadowserver.org
+scan-76-07.shadowserver.org
 scan.f6.security
 scan.visionheight.com
 scott.probe.onyphe.net
