@@ -100,6 +100,7 @@
 185-45-195-15.hostsailor.com
 189.211.203.35.bc.googleusercontent.com
 192-155-84-194.ip.linodeusercontent.com
+193.210.203.35.bc.googleusercontent.com
 198-74-50-114.ip.linodeusercontent.com
 213.149.216.162.bc.googleusercontent.com
 219.149.216.162.bc.googleusercontent.com
@@ -130,6 +131,7 @@
 45-79-225-32.ip.linodeusercontent.com
 45-79-82-114.ip.linodeusercontent.com
 45-79-98-252.ip.linodeusercontent.com
+56-197-15-51.instances.scw.cloud
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 89.150.216.162.bc.googleusercontent.com
