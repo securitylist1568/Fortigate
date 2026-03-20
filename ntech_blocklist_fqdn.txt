@@ -21,6 +21,7 @@
 133.134.64.125.broad.dy.sc.dynamic.163data.com.cn
 134.134.64.125.broad.dy.sc.dynamic.163data.com.cn
 139-144-239-98.ip.linodeusercontent.com
+142.210.203.35.bc.googleusercontent.com
 143-42-0-97.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-189.ip.linodeusercontent.com
