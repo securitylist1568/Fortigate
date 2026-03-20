@@ -31,6 +31,7 @@
 205.142.84.34.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
 242.149.216.162.bc.googleusercontent.com
+253.150.216.162.bc.googleusercontent.com
 254.211.203.35.bc.googleusercontent.com
 28.117.53.34.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
@@ -53,8 +54,10 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-126.superbithost.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -68,12 +71,14 @@ scan-10n.shadowserver.org
 scan-12k.shadowserver.org
 scan-12m.shadowserver.org
 scan-17o.shadowserver.org
+scan-19b.shadowserver.org
 scan-20j.shadowserver.org
 scan-37e.shadowserver.org
 scan-40d.shadowserver.org
 scan-43b.shadowserver.org
 scan-43d.shadowserver.org
 scan-44f.shadowserver.org
+scan-46e.shadowserver.org
 scan-46h.shadowserver.org
 scan-47k.shadowserver.org
 scan-48h.shadowserver.org
@@ -86,6 +91,7 @@ scan-61-3.shadowserver.org
 scan-62-5.shadowserver.org
 scan-62-9.shadowserver.org
 scan-63-12.shadowserver.org
+scan-63-9.shadowserver.org
 scan-64-11.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-0.shadowserver.org
@@ -110,6 +116,7 @@ scan-73-05.shadowserver.org
 scan-73-06.shadowserver.org
 scan-74-05.shadowserver.org
 scan-75-03.shadowserver.org
+scan-76-08.shadowserver.org
 scan-79-04.shadowserver.org
 scan-80-0.shadowserver.org
 scan-80-1.shadowserver.org
