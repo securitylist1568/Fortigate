@@ -23,15 +23,12 @@
 1770962187605-7dc6ed92bda4e8-0-3.local
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
-205.142.84.34.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
 230.149.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
-254.211.203.35.bc.googleusercontent.com
-28.210.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
 45-79-159-201.ip.linodeusercontent.com
 60-249-231-22.hinet-ip.hinet.net
@@ -44,7 +41,6 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-coinspe.com
 crawler140.deepfield.net
 d66-183-88-112.bchsia.telus.net
 dal215.hawkhost.com
@@ -64,7 +60,6 @@ recyber.net
 rootevidence.com
 scan-01e.shadowserver.org
 scan-04c.shadowserver.org
-scan-05g.shadowserver.org
 scan-05j.shadowserver.org
 scan-11f.shadowserver.org
 scan-12k.shadowserver.org
@@ -122,6 +117,5 @@ scan-90-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-ucili.sacrediction.co.uk
 users219.vip.heteml.jp
 vlan14.as01.wco1.sg.m247.com
