@@ -37,6 +37,7 @@
 28.210.203.35.bc.googleusercontent.com
 56-197-15-51.instances.scw.cloud
 60.211.203.35.bc.googleusercontent.com
+66.211.203.35.bc.googleusercontent.com
 71.149.216.162.bc.googleusercontent.com
 89.150.216.162.bc.googleusercontent.com
 95.210.203.35.bc.googleusercontent.com
@@ -70,6 +71,7 @@ scan-51n.shadowserver.org
 scan-53c.shadowserver.org
 scan-55i.shadowserver.org
 scan-60-8.shadowserver.org
+scan-63-12.shadowserver.org
 scan-63-8.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-1.shadowserver.org
@@ -85,6 +87,7 @@ scan-72-07.shadowserver.org
 scan-73-02.shadowserver.org
 scan-73-05.shadowserver.org
 scan-74-08.shadowserver.org
+scan-79-04.shadowserver.org
 scan-80-1.shadowserver.org
 scan-82-1.shadowserver.org
 scan-83-0.shadowserver.org
