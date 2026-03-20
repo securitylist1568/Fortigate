@@ -66,6 +66,7 @@ scan-02m.shadowserver.org
 scan-08l.shadowserver.org
 scan-09f.shadowserver.org
 scan-10g.shadowserver.org
+scan-10n.shadowserver.org
 scan-12m.shadowserver.org
 scan-37e.shadowserver.org
 scan-40d.shadowserver.org
@@ -84,6 +85,7 @@ scan-63-8.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-3.shadowserver.org
 scan-67-2.shadowserver.org
+scan-68-09.shadowserver.org
 scan-70-02.shadowserver.org
 scan-71-06.shadowserver.org
 scan-72-07.shadowserver.org
@@ -99,6 +101,7 @@ scan.visionheight.com
 scanner.aidiscovery.entelijan.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-214-162.datapacket.com
 user-38-175-113-245.ist01.tr.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
