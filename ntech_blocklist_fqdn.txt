@@ -25,6 +25,7 @@
 176.65.148.70.ptr.pfcloud.network
 176.65.148.92.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+190.150.216.162.bc.googleusercontent.com
 193.210.203.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
 205.142.84.34.bc.googleusercontent.com
@@ -37,6 +38,7 @@
 28.210.203.35.bc.googleusercontent.com
 56-197-15-51.instances.scw.cloud
 60.211.203.35.bc.googleusercontent.com
+61-219-111-6.hinet-ip.hinet.net
 66.211.203.35.bc.googleusercontent.com
 71.149.216.162.bc.googleusercontent.com
 89.150.216.162.bc.googleusercontent.com
