@@ -88,6 +88,7 @@ scan-64-11.shadowserver.org
 scan-64-9.shadowserver.org
 scan-65-1.shadowserver.org
 scan-65-3.shadowserver.org
+scan-66-3.shadowserver.org
 scan-67-2.shadowserver.org
 scan-67-7.shadowserver.org
 scan-67-8.shadowserver.org
@@ -101,6 +102,7 @@ scan-72-07.shadowserver.org
 scan-73-01.shadowserver.org
 scan-73-02.shadowserver.org
 scan-73-05.shadowserver.org
+scan-73-06.shadowserver.org
 scan-74-05.shadowserver.org
 scan-74-08.shadowserver.org
 scan-75-03.shadowserver.org
@@ -114,6 +116,7 @@ scan-85-2.shadowserver.org
 scan-87-1.shadowserver.org
 scan-87-2.shadowserver.org
 scan-87-5.shadowserver.org
+scan-87-6.shadowserver.org
 scan-90-1.shadowserver.org
 scan.visionheight.com
 scanner.aidiscovery.entelijan.com
