@@ -65,6 +65,7 @@ ec2-98-90-43-197.compute-1.amazonaws.com
 ecs-116-205-126-192.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host34-140-230-103.fibersix.it
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
