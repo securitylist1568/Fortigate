@@ -90,6 +90,7 @@ scan-51n.shadowserver.org
 scan-53c.shadowserver.org
 scan-55i.shadowserver.org
 scan-60-8.shadowserver.org
+scan-61-12.shadowserver.org
 scan-61-3.shadowserver.org
 scan-61-7.shadowserver.org
 scan-62-5.shadowserver.org
