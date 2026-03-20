@@ -72,6 +72,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 partclient.net
+path.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
