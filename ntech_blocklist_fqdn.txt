@@ -68,7 +68,9 @@ scan-10n.shadowserver.org
 scan-12m.shadowserver.org
 scan-37e.shadowserver.org
 scan-40d.shadowserver.org
+scan-43d.shadowserver.org
 scan-44f.shadowserver.org
+scan-48h.shadowserver.org
 scan-51n.shadowserver.org
 scan-53c.shadowserver.org
 scan-55i.shadowserver.org
@@ -79,6 +81,7 @@ scan-64-9.shadowserver.org
 scan-65-1.shadowserver.org
 scan-65-3.shadowserver.org
 scan-67-2.shadowserver.org
+scan-67-7.shadowserver.org
 scan-68-08.shadowserver.org
 scan-68-09.shadowserver.org
 scan-69-06.shadowserver.org
@@ -88,13 +91,18 @@ scan-72-06.shadowserver.org
 scan-72-07.shadowserver.org
 scan-73-02.shadowserver.org
 scan-73-05.shadowserver.org
+scan-74-05.shadowserver.org
 scan-74-08.shadowserver.org
+scan-75-03.shadowserver.org
 scan-79-04.shadowserver.org
 scan-80-1.shadowserver.org
+scan-80-7.shadowserver.org
 scan-82-1.shadowserver.org
+scan-82-5.shadowserver.org
 scan-83-0.shadowserver.org
 scan-84-1.shadowserver.org
 scan-84-4.shadowserver.org
+scan-90-1.shadowserver.org
 scan.visionheight.com
 scanner.aidiscovery.entelijan.com
 smtp1.telemach.net
