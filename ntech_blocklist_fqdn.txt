@@ -31,6 +31,7 @@
 45-79-167-47.ip.linodeusercontent.com
 46.150.216.162.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
+83.211.203.35.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 94.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -399,6 +400,12 @@ azpdwszf3gzx.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler006.deepfield.net
+crawler021.deepfield.net
+crawler067.deepfield.net
+crawler097.deepfield.net
+crawler124.deepfield.net
+crawler138.deepfield.net
+crawler146.deepfield.net
 d66-183-88-112.bchsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -425,6 +432,7 @@ ec2-54-86-179-2.compute-1.amazonaws.com
 ec2-54-90-205-87.compute-1.amazonaws.com
 ec2-98-93-245-202.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+fw-51.161.28.35.linushost.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
