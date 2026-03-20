@@ -24,12 +24,10 @@
 153.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 212.149.216.162.bc.googleusercontent.com
-227.211.203.35.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
-230.149.216.162.bc.googleusercontent.com
 244.10.236.221.broad.cd.sc.dynamic.163data.com.cn
-247.150.216.162.bc.googleusercontent.com
 28.117.53.34.bc.googleusercontent.com
+36-237-79-29.dynamic-ip.hinet.net
 45-79-167-47.ip.linodeusercontent.com
 46.150.216.162.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
@@ -165,6 +163,7 @@ azpdcsxcy271.stretchoid.com
 azpdcsxfeo6r.stretchoid.com
 azpdcsxwfxxy.stretchoid.com
 azpdcsyi9p1a.stretchoid.com
+azpdes04ekbn.stretchoid.com
 azpdes10fqes.stretchoid.com
 azpdes1i4sm7.stretchoid.com
 azpdes1mqxr4.stretchoid.com
@@ -440,4 +439,3 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vlan14.as01.wco1.sg.m247.com
