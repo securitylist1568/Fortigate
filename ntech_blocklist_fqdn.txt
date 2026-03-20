@@ -59,6 +59,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-05g.shadowserver.org
 scan-08l.shadowserver.org
 scan-09f.shadowserver.org
 scan-10g.shadowserver.org
@@ -104,6 +105,7 @@ scan.visionheight.com
 scanner.aidiscovery.entelijan.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+ucili.sacrediction.co.uk
 unn-207-211-214-162.datapacket.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
