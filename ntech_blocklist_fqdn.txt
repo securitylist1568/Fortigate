@@ -20,6 +20,8 @@
 111.211.203.35.bc.googleusercontent.com
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 114-44-51-26.dynamic-ip.hinet.net
+133.134.64.125.broad.dy.sc.dynamic.163data.com.cn
+134.134.64.125.broad.dy.sc.dynamic.163data.com.cn
 155.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 25.211.203.35.bc.googleusercontent.com
@@ -99,6 +101,7 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 turner.probe.onyphe.net
+unn-207-211-210-83.datapacket.com
 user-185-209-85-233.mow01.ru.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
