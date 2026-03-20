@@ -178,7 +178,9 @@ scan-09f.shadowserver.org
 scan-10g.shadowserver.org
 scan-12f.shadowserver.org
 scan-13l.shadowserver.org
+scan-40d.shadowserver.org
 scan-43o.shadowserver.org
+scan-44f.shadowserver.org
 scan-46e.shadowserver.org
 scan-48e.shadowserver.org
 scan-52m.shadowserver.org
