@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 13.150.216.162.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
+176.65.148.13.ptr.pfcloud.network
 176.65.148.37.ptr.pfcloud.network
 176.65.148.70.ptr.pfcloud.network
 176.65.148.92.ptr.pfcloud.network
@@ -71,6 +72,7 @@ scan-10n.shadowserver.org
 scan-12k.shadowserver.org
 scan-12m.shadowserver.org
 scan-17o.shadowserver.org
+scan-18e.shadowserver.org
 scan-19b.shadowserver.org
 scan-20j.shadowserver.org
 scan-37e.shadowserver.org
@@ -90,6 +92,7 @@ scan-60-8.shadowserver.org
 scan-61-3.shadowserver.org
 scan-62-5.shadowserver.org
 scan-62-9.shadowserver.org
+scan-63-10.shadowserver.org
 scan-63-12.shadowserver.org
 scan-63-9.shadowserver.org
 scan-64-11.shadowserver.org
@@ -123,6 +126,7 @@ scan-80-1.shadowserver.org
 scan-80-7.shadowserver.org
 scan-82-1.shadowserver.org
 scan-82-5.shadowserver.org
+scan-83-1.shadowserver.org
 scan-84-1.shadowserver.org
 scan-85-2.shadowserver.org
 scan-87-1.shadowserver.org
