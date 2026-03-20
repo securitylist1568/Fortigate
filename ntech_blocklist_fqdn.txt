@@ -111,7 +111,6 @@
 251.149.216.162.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
-36-237-79-29.dynamic-ip.hinet.net
 45-33-105-182.ip.linodeusercontent.com
 45-33-105-76.ip.linodeusercontent.com
 45-33-110-79.ip.linodeusercontent.com
@@ -166,14 +165,12 @@ mumbai.scan.bufferover.run
 no-mans-land.m247.com
 olous.scan.bufferover.run
 out-athlete.winningbells.com
-path.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
 scan-02m.shadowserver.org
-scan-05e.shadowserver.org
 scan-09f.shadowserver.org
 scan-09n.shadowserver.org
 scan-10g.shadowserver.org
@@ -206,7 +203,6 @@ scan-74-05.shadowserver.org
 scan-75-03.shadowserver.org
 scan-75-05.shadowserver.org
 scan-76-01.shadowserver.org
-scan-76-07.shadowserver.org
 scan-78-06.shadowserver.org
 scan-79-04.shadowserver.org
 scan-80-3.shadowserver.org
