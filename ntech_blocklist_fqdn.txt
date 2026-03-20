@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.150.216.162.bc.googleusercontent.com
 133.134.64.125.broad.dy.sc.dynamic.163data.com.cn
 134.134.64.125.broad.dy.sc.dynamic.163data.com.cn
 139-144-239-98.ip.linodeusercontent.com
@@ -187,6 +188,7 @@ scan-60-10.shadowserver.org
 scan-60.security.ipip.net
 scan-63-1.shadowserver.org
 scan-63-13.shadowserver.org
+scan-63-8.shadowserver.org
 scan-64-10.shadowserver.org
 scan-64-4.shadowserver.org
 scan-65-9.shadowserver.org
@@ -206,6 +208,7 @@ scan-80-3.shadowserver.org
 scan-82-0.shadowserver.org
 scan-82-2.shadowserver.org
 scan-82-6.shadowserver.org
+scan-83-0.shadowserver.org
 scan-84-2.shadowserver.org
 scan-87-7.shadowserver.org
 scan-88-6.shadowserver.org
