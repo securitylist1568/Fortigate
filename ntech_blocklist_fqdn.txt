@@ -31,6 +31,7 @@
 45-79-167-47.ip.linodeusercontent.com
 46.150.216.162.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
+72.150.216.162.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 94.210.203.35.bc.googleusercontent.com
@@ -401,10 +402,15 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler006.deepfield.net
 crawler021.deepfield.net
+crawler029.deepfield.net
+crawler039.deepfield.net
 crawler067.deepfield.net
 crawler097.deepfield.net
+crawler102.deepfield.net
 crawler124.deepfield.net
+crawler130.deepfield.net
 crawler138.deepfield.net
+crawler145.deepfield.net
 crawler146.deepfield.net
 d66-183-88-112.bchsia.telus.net
 dal215.hawkhost.com
