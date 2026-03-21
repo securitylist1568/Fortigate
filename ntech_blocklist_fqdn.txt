@@ -36,6 +36,7 @@
 53.210.203.35.bc.googleusercontent.com
 69.211.203.35.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
+77.150.216.162.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
 94.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -324,6 +325,7 @@ crawler006.deepfield.net
 crawler021.deepfield.net
 crawler029.deepfield.net
 crawler039.deepfield.net
+crawler055.deepfield.net
 crawler062.deepfield.net
 crawler067.deepfield.net
 crawler069.deepfield.net
