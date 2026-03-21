@@ -22,15 +22,14 @@
 123-193-168-204.dynamic.kbronet.com.tw
 125.150.216.162.bc.googleusercontent.com
 143.150.216.162.bc.googleusercontent.com
-146.31.232.180.dsl.inet.static.certaincyber.net
+166.239.145.34.bc.googleusercontent.com
 172-104-11-234.ip.linodeusercontent.com
-173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
 198-74-57-69.ip.linodeusercontent.com
 208.210.203.35.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 23.211.203.35.bc.googleusercontent.com
-49.210.203.35.bc.googleusercontent.com
+250.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 50-116-23-150.ip.linodeusercontent.com
 55.150.216.162.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
@@ -53,7 +52,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler008.deepfield.net
 crawler055.deepfield.net
-crawler127.deepfield.net
 crawler156.deepfield.net
 crawler178.deepfield.net
 crawler237.deepfield.net
@@ -61,7 +59,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-103-100-27-123.bantul.gi.co.id
 htb-h9b8tjwfph.htb-cloud.com
 ip126.ip-5-196-125.eu
 ip29.sudolio.io
@@ -107,7 +104,6 @@ scan-63-9.shadowserver.org
 scan-64-5.shadowserver.org
 scan-65-4.shadowserver.org
 scan-66-5.shadowserver.org
-scan-67-6.shadowserver.org
 scan-68-09.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-03.shadowserver.org
@@ -128,12 +124,10 @@ scan-86-6.shadowserver.org
 scan-89-3.shadowserver.org
 scan-89-6.shadowserver.org
 scan-90-6.shadowserver.org
-scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 tp-in-f109.1e100.net
-tzrhxln.cn
 ucili.sacrediction.co.uk
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
