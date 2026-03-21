@@ -20,11 +20,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 149.210.203.35.bc.googleusercontent.com
 166.239.145.34.bc.googleusercontent.com
+180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 209.149.216.162.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 23.211.203.35.bc.googleusercontent.com
 245.210.203.35.bc.googleusercontent.com
+246.211.203.35.bc.googleusercontent.com
 250.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 50-116-23-150.ip.linodeusercontent.com
 59.149.216.162.bc.googleusercontent.com
@@ -96,5 +98,6 @@ static.vnpt.vn
 tp-in-f109.1e100.net
 ucili.sacrediction.co.uk
 user-185-234-213-135.zrh01.ch.misaka.io
+user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
