@@ -36,6 +36,7 @@
 49.210.203.35.bc.googleusercontent.com
 53.210.203.35.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
+68.149.216.162.bc.googleusercontent.com
 69.211.203.35.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
 77.150.216.162.bc.googleusercontent.com
@@ -75,6 +76,7 @@ host-103-100-27-123.bantul.gi.co.id
 htb-h9b8tjwfph.htb-cloud.com
 ip126.ip-5-196-125.eu
 ip29.sudolio.io
+klnorrx.cn
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 no-mans-land.m247.com
