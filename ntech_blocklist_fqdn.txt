@@ -45,6 +45,7 @@ azpdwsxqmyd2.stretchoid.com
 b2.org.afilias-nst.org
 cairo.probe.onyphe.net
 client.yota.ru
+crawler234.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.metfone.com.kh
@@ -61,13 +62,16 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.org
 scan-09o.shadowserver.org
+scan-13h.shadowserver.org
 scan-18e.shadowserver.org
 scan-40d.shadowserver.org
+scan-41f.shadowserver.org
 scan-43b.shadowserver.org
 scan-45i.shadowserver.org
 scan-45o.shadowserver.org
 scan-46h.shadowserver.org
 scan-47f.shadowserver.org
+scan-50j.shadowserver.org
 scan-51n.shadowserver.org
 scan-60-13.shadowserver.org
 scan-61-11.shadowserver.org
@@ -79,6 +83,7 @@ scan-65-5.shadowserver.org
 scan-66-11.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-03.shadowserver.org
+scan-75-00.shadowserver.org
 scan-75-01.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-06.shadowserver.org
@@ -89,6 +94,7 @@ scan-83-4.shadowserver.org
 scan-84-4.shadowserver.org
 scan-85-6.shadowserver.org
 scan-86-1.shadowserver.org
+scan-86-6.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-2.shadowserver.org
 scan.visionheight.com
