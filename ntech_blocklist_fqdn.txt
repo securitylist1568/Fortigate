@@ -21,6 +21,7 @@
 111.211.203.35.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
 123-193-168-204.dynamic.kbronet.com.tw
+125.150.216.162.bc.googleusercontent.com
 140.211.203.35.bc.googleusercontent.com
 143.150.216.162.bc.googleusercontent.com
 146.31.232.180.dsl.inet.static.certaincyber.net
@@ -72,8 +73,10 @@ fw-51.161.28.35.linushost.com.br
 hn.kd.ny.adsl
 host-103-100-27-123.bantul.gi.co.id
 htb-h9b8tjwfph.htb-cloud.com
+ip126.ip-5-196-125.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+niall.probe.onyphe.net
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
