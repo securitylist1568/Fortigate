@@ -452,8 +452,15 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.org
+scan-03c.shadowserver.org
+scan-04j.shadowserver.org
 scan-36n.shadowserver.org
+scan-38c.shadowserver.org
 scan-42o.shadowserver.org
+scan-46g.shadowserver.org
+scan-52d.shadowserver.org
+scan-53n.shadowserver.org
+scan-62-13.shadowserver.org
 scan-64-3.shadowserver.org
 scan-67-4.shadowserver.org
 scan-70-01.shadowserver.org
@@ -462,6 +469,8 @@ scan-72-08.shadowserver.org
 scan-73-05.shadowserver.org
 scan-74-04.shadowserver.org
 scan-80-3.shadowserver.org
+scan-84-3.shadowserver.org
+scan-86-1.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
