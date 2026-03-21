@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 149.210.203.35.bc.googleusercontent.com
+162-120-187-5.v4.fetch.tunnel.googlezip.net
 166.239.145.34.bc.googleusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -57,6 +58,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-06f.shadowserver.org
 scan-06g.shadowserver.org
 scan-08d.shadowserver.org
 scan-09o.shadowserver.org
@@ -77,10 +79,12 @@ scan-60-13.shadowserver.org
 scan-61-11.shadowserver.org
 scan-61-5.shadowserver.org
 scan-62-13.shadowserver.org
+scan-62-3.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-9.shadowserver.org
 scan-65-5.shadowserver.org
+scan-66-1.shadowserver.org
 scan-66-11.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-03.shadowserver.org
@@ -98,7 +102,9 @@ scan-85-6.shadowserver.org
 scan-86-1.shadowserver.org
 scan-86-6.shadowserver.org
 scan-86-7.shadowserver.org
+scan-86-9.shadowserver.org
 scan-88-2.shadowserver.org
+scan-90-9.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
