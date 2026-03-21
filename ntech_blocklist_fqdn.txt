@@ -18,9 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-193-168-204.dynamic.kbronet.com.tw
 125.150.216.162.bc.googleusercontent.com
-143.150.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 166.239.145.34.bc.googleusercontent.com
 172-104-11-234.ip.linodeusercontent.com
@@ -50,7 +48,6 @@ azpdwsxqmyd2.stretchoid.com
 b2.org.afilias-nst.org
 cairo.probe.onyphe.net
 client.yota.ru
-crawler178.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.metfone.com.kh
@@ -67,7 +64,6 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-02j.shadowserver.org
@@ -120,8 +116,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 tp-in-f109.1e100.net
-ucili.sacrediction.co.uk
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
-vmi2753693.contaboserver.net
 www.internet-albedo.net
