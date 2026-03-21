@@ -48,6 +48,7 @@ azpdssi7bb5i.stretchoid.com
 azpdwstayivh.stretchoid.com
 azpdwsxqmyd2.stretchoid.com
 b2.org.afilias-nst.org
+cairo.probe.onyphe.net
 client.yota.ru
 crawler178.deepfield.net
 dal215.hawkhost.com
@@ -71,6 +72,8 @@ recyber.net
 rootevidence.com
 scan-02j.shadowserver.org
 scan-05c.shadowserver.org
+scan-06g.shadowserver.org
+scan-18e.shadowserver.org
 scan-40d.shadowserver.org
 scan-40l.shadowserver.org
 scan-43b.shadowserver.org
@@ -85,13 +88,16 @@ scan-51n.shadowserver.org
 scan-52j.shadowserver.org
 scan-58c.shadowserver.org
 scan-60-13.shadowserver.org
+scan-61-11.shadowserver.org
 scan-61-13.shadowserver.org
 scan-61-5.shadowserver.org
 scan-62-4.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-9.shadowserver.org
+scan-66-11.shadowserver.org
 scan-70-06.shadowserver.org
+scan-73-03.shadowserver.org
 scan-73-09.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-06.shadowserver.org
@@ -102,7 +108,10 @@ scan-82-1.shadowserver.org
 scan-82-8.shadowserver.org
 scan-83-4.shadowserver.org
 scan-84-4.shadowserver.org
+scan-85-6.shadowserver.org
+scan-86-1.shadowserver.org
 scan-86-6.shadowserver.org
+scan-88-2.shadowserver.org
 scan-89-3.shadowserver.org
 scan-89-6.shadowserver.org
 scan.visionheight.com
