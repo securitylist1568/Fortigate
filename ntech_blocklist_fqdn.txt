@@ -57,6 +57,7 @@ crawler178.deepfield.net
 crawler237.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.metfone.com.kh
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
