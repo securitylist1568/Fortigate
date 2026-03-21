@@ -26,7 +26,6 @@
 209.149.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 223.171.81.34.bc.googleusercontent.com
-23.211.203.35.bc.googleusercontent.com
 245.210.203.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 250.10.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -38,8 +37,6 @@
 70.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdcsfh95z0.stretchoid.com
-azpdwsxqmyd2.stretchoid.com
 b2.org.afilias-nst.org
 cairo.probe.onyphe.net
 client.yota.ru
@@ -58,6 +55,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-01a.shadowserver.org
 scan-06a.shadowserver.org
 scan-06f.shadowserver.org
 scan-06g.shadowserver.org
@@ -65,18 +63,15 @@ scan-08d.shadowserver.org
 scan-09o.shadowserver.org
 scan-13h.shadowserver.org
 scan-18e.shadowserver.org
-scan-40d.shadowserver.org
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
 scan-43b.shadowserver.org
-scan-45i.shadowserver.org
-scan-45o.shadowserver.org
 scan-46h.shadowserver.org
 scan-47e.shadowserver.org
 scan-50j.shadowserver.org
 scan-51n.shadowserver.org
+scan-52a.shadowserver.org
 scan-58d.shadowserver.org
-scan-60-13.shadowserver.org
 scan-61-11.shadowserver.org
 scan-61-5.shadowserver.org
 scan-62-13.shadowserver.org
@@ -96,6 +91,7 @@ scan-75-02.shadowserver.org
 scan-75-06.shadowserver.org
 scan-78-07.shadowserver.org
 scan-80-8.shadowserver.org
+scan-81-9.shadowserver.org
 scan-82-4.shadowserver.org
 scan-83-0.shadowserver.org
 scan-83-4.shadowserver.org
@@ -110,7 +106,6 @@ scan-90-9.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-tp-in-f109.1e100.net
 ucili.sacrediction.co.uk
 user-185-234-213-135.zrh01.ch.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
