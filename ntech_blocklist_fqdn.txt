@@ -27,10 +27,12 @@
 209.149.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 223.171.81.34.bc.googleusercontent.com
+24.150.216.162.bc.googleusercontent.com
 245.210.203.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 250.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 44.210.203.35.bc.googleusercontent.com
+45.211.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 52.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
@@ -72,11 +74,13 @@ scan-18d.shadowserver.org
 scan-18e.shadowserver.org
 scan-39m.shadowserver.org
 scan-40e.shadowserver.org
+scan-40g.shadowserver.org
 scan-41f.shadowserver.org
 scan-43b.shadowserver.org
 scan-46h.shadowserver.org
 scan-47e.shadowserver.org
 scan-47h.shadowserver.org
+scan-48c.shadowserver.org
 scan-50j.shadowserver.org
 scan-51n.shadowserver.org
 scan-52a.shadowserver.org
@@ -94,6 +98,7 @@ scan-65-5.shadowserver.org
 scan-66-1.shadowserver.org
 scan-66-11.shadowserver.org
 scan-66-5.shadowserver.org
+scan-68-02.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-03.shadowserver.org
 scan-75-00.shadowserver.org
@@ -102,6 +107,7 @@ scan-75-02.shadowserver.org
 scan-75-03.shadowserver.org
 scan-75-06.shadowserver.org
 scan-76-01.shadowserver.org
+scan-76-03.shadowserver.org
 scan-77-02.shadowserver.org
 scan-77-07.shadowserver.org
 scan-78-07.shadowserver.org
