@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+144.92.74.97.host.secureserver.net
 149.210.203.35.bc.googleusercontent.com
 162-120-187-5.v4.fetch.tunnel.googlezip.net
 166.239.145.34.bc.googleusercontent.com
@@ -64,7 +65,10 @@ scan-08d.shadowserver.org
 scan-09f.shadowserver.org
 scan-09o.shadowserver.org
 scan-13h.shadowserver.org
+scan-14b.shadowserver.org
+scan-15e.shadowserver.org
 scan-15k.shadowserver.org
+scan-18d.shadowserver.org
 scan-18e.shadowserver.org
 scan-39m.shadowserver.org
 scan-40e.shadowserver.org
@@ -89,14 +93,17 @@ scan-65-0.shadowserver.org
 scan-65-5.shadowserver.org
 scan-66-1.shadowserver.org
 scan-66-11.shadowserver.org
+scan-66-5.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-03.shadowserver.org
 scan-75-00.shadowserver.org
 scan-75-01.shadowserver.org
 scan-75-02.shadowserver.org
+scan-75-03.shadowserver.org
 scan-75-06.shadowserver.org
 scan-76-01.shadowserver.org
 scan-77-02.shadowserver.org
+scan-77-07.shadowserver.org
 scan-78-07.shadowserver.org
 scan-80-6.shadowserver.org
 scan-80-8.shadowserver.org
@@ -111,6 +118,7 @@ scan-86-6.shadowserver.org
 scan-86-7.shadowserver.org
 scan-86-9.shadowserver.org
 scan-88-2.shadowserver.org
+scan-88-4.shadowserver.org
 scan-90-9.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
