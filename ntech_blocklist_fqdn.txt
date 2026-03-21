@@ -27,10 +27,10 @@
 212.211.203.35.bc.googleusercontent.com
 223.171.81.34.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
-245.210.203.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
+51.149.216.162.bc.googleusercontent.com
 52.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
@@ -44,12 +44,10 @@ client.yota.ru
 crawler234.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.metfone.com.kh
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
