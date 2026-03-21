@@ -24,14 +24,17 @@
 185-45-195-15.hostsailor.com
 209.149.216.162.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
+212.211.203.35.bc.googleusercontent.com
 23.211.203.35.bc.googleusercontent.com
 245.210.203.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 250.10.236.221.broad.cd.sc.dynamic.163data.com.cn
+44.210.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 52.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
+70.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 81.159.64.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -80,6 +83,7 @@ scan-51n.shadowserver.org
 scan-60-13.shadowserver.org
 scan-61-11.shadowserver.org
 scan-61-5.shadowserver.org
+scan-62-13.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-9.shadowserver.org
@@ -94,6 +98,7 @@ scan-75-06.shadowserver.org
 scan-78-07.shadowserver.org
 scan-80-8.shadowserver.org
 scan-82-4.shadowserver.org
+scan-83-0.shadowserver.org
 scan-83-4.shadowserver.org
 scan-84-2.shadowserver.org
 scan-84-4.shadowserver.org
