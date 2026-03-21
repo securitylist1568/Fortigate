@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.211.203.35.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
+123-193-168-204.dynamic.kbronet.com.tw
 140.211.203.35.bc.googleusercontent.com
 146.31.232.180.dsl.inet.static.certaincyber.net
 159.150.216.162.bc.googleusercontent.com
