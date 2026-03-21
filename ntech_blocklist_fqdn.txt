@@ -30,6 +30,7 @@
 42.211.203.35.bc.googleusercontent.com
 45-224-131-176.ferenz.com.br
 53.210.203.35.bc.googleusercontent.com
+58.210.203.35.bc.googleusercontent.com
 80.113.0.148.d.dyn.claro.net.do
 81.159.64.34.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
