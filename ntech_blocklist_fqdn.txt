@@ -19,12 +19,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
 140.211.203.35.bc.googleusercontent.com
+144.149.216.162.bc.googleusercontent.com
 155.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.211.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 247.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 249.211.203.35.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 42.211.203.35.bc.googleusercontent.com
 45-224-131-176.ferenz.com.br
 53.210.203.35.bc.googleusercontent.com
