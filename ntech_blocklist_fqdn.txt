@@ -95,6 +95,7 @@ scan-62-4.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-9.shadowserver.org
+scan-65-5.shadowserver.org
 scan-66-11.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-03.shadowserver.org
@@ -120,6 +121,7 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 tp-in-f109.1e100.net
 ucili.sacrediction.co.uk
+user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
 vmi2753693.contaboserver.net
 www.internet-albedo.net
