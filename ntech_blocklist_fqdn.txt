@@ -29,6 +29,7 @@
 246.211.203.35.bc.googleusercontent.com
 250.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 50-116-23-150.ip.linodeusercontent.com
+52.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
@@ -54,6 +55,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -65,11 +67,13 @@ scan-09o.shadowserver.org
 scan-13h.shadowserver.org
 scan-18e.shadowserver.org
 scan-40d.shadowserver.org
+scan-40e.shadowserver.org
 scan-41f.shadowserver.org
 scan-43b.shadowserver.org
 scan-45i.shadowserver.org
 scan-45o.shadowserver.org
 scan-46h.shadowserver.org
+scan-47e.shadowserver.org
 scan-47f.shadowserver.org
 scan-50j.shadowserver.org
 scan-51n.shadowserver.org
@@ -91,6 +95,7 @@ scan-78-07.shadowserver.org
 scan-80-8.shadowserver.org
 scan-82-4.shadowserver.org
 scan-83-4.shadowserver.org
+scan-84-2.shadowserver.org
 scan-84-4.shadowserver.org
 scan-85-6.shadowserver.org
 scan-86-1.shadowserver.org
