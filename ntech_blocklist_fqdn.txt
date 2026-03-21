@@ -24,8 +24,10 @@
 122.149.216.162.bc.googleusercontent.com
 135.211.203.35.bc.googleusercontent.com
 140.211.203.35.bc.googleusercontent.com
+146.31.232.180.dsl.inet.static.certaincyber.net
 153.149.216.162.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
+173.red-2-136-92.staticip.rima-tde.net
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
@@ -447,6 +449,7 @@ ec2-98-93-245-202.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fw-51.161.28.35.linushost.com.br
 hn.kd.ny.adsl
+host-103-100-27-123.bantul.gi.co.id
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
