@@ -51,6 +51,7 @@ ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -60,8 +61,10 @@ scan-06a.shadowserver.org
 scan-06f.shadowserver.org
 scan-06g.shadowserver.org
 scan-08d.shadowserver.org
+scan-09f.shadowserver.org
 scan-09o.shadowserver.org
 scan-13h.shadowserver.org
+scan-15k.shadowserver.org
 scan-18e.shadowserver.org
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
@@ -79,6 +82,7 @@ scan-62-3.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-10.shadowserver.org
 scan-63-9.shadowserver.org
+scan-64-0.shadowserver.org
 scan-65-0.shadowserver.org
 scan-65-5.shadowserver.org
 scan-66-1.shadowserver.org
@@ -89,7 +93,9 @@ scan-75-00.shadowserver.org
 scan-75-01.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-06.shadowserver.org
+scan-77-02.shadowserver.org
 scan-78-07.shadowserver.org
+scan-80-6.shadowserver.org
 scan-80-8.shadowserver.org
 scan-81-9.shadowserver.org
 scan-82-4.shadowserver.org
