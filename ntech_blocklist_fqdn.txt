@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 198-74-57-69.ip.linodeusercontent.com
 208.210.203.35.bc.googleusercontent.com
+209.149.216.162.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 23.211.203.35.bc.googleusercontent.com
 245.210.203.35.bc.googleusercontent.com
@@ -96,6 +97,7 @@ scan-66-11.shadowserver.org
 scan-70-06.shadowserver.org
 scan-73-03.shadowserver.org
 scan-73-09.shadowserver.org
+scan-75-01.shadowserver.org
 scan-75-02.shadowserver.org
 scan-75-06.shadowserver.org
 scan-78-07.shadowserver.org
