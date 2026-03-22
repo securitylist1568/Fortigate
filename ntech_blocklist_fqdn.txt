@@ -40,6 +40,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
