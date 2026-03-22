@@ -88,6 +88,15 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-15c.shadowserver.org
+scan-41g.shadowserver.org
+scan-46o.shadowserver.org
+scan-64-8.shadowserver.org
+scan-67-1.shadowserver.org
+scan-80-9.shadowserver.org
+scan-82-9.shadowserver.org
+scan-83-3.shadowserver.org
+scan-85-7.shadowserver.org
 scan-86-4.shadowserver.org
 scan-90-4.shadowserver.org
 scan.visionheight.com
