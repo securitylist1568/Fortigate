@@ -35,13 +35,10 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-100-28-191-174.compute-1.amazonaws.com
 ec2-13-219-1-233.compute-1.amazonaws.com
-ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
 ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
-ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -112,8 +109,8 @@ scan-85-9.shadowserver.org
 scan-86-1.shadowserver.org
 scan-88-0.shadowserver.org
 scan-88-6.shadowserver.org
+scan-89-1.shadowserver.org
 scan-90-9.shadowserver.org
-scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ucili.sacrediction.co.uk
