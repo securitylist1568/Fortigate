@@ -31,7 +31,14 @@ crawler115.deepfield.net
 crawler147.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-107-20-105-127.compute-1.amazonaws.com
+ec2-13-222-246-187.compute-1.amazonaws.com
+ec2-23-22-5-218.compute-1.amazonaws.com
 ec2-3-239-13-6.compute-1.amazonaws.com
+ec2-3-89-218-222.compute-1.amazonaws.com
+ec2-3-89-226-152.compute-1.amazonaws.com
+ec2-32-192-202-58.compute-1.amazonaws.com
+ec2-34-238-240-3.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
