@@ -20,8 +20,10 @@
 118-169-6-10.dynamic-ip.hinet.net
 12.210.203.35.bc.googleusercontent.com
 133-91-131-46.dyn.estpak.ee
+172-233-89-133.ip.linodeusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.129.105.34.bc.googleusercontent.com
 197.150.216.162.bc.googleusercontent.com
 220.189.125.34.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
@@ -50,6 +52,7 @@ miscreantlace.ptr.network
 no-mans-land.m247.com
 ohitx9.static.otenet.gr
 pc112.cses.ilc.edu.tw
+petty.probe.onyphe.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
