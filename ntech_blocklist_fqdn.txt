@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+129.150.216.162.bc.googleusercontent.com
 140.211.203.35.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
 153.210.203.35.bc.googleusercontent.com
@@ -27,12 +28,14 @@
 247.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 249.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
+41.149.216.162.bc.googleusercontent.com
 42.211.203.35.bc.googleusercontent.com
 45-224-131-176.ferenz.com.br
 53.210.203.35.bc.googleusercontent.com
 58.210.203.35.bc.googleusercontent.com
 61-219-111-6.hinet-ip.hinet.net
 69.211.203.35.bc.googleusercontent.com
+70.211.203.35.bc.googleusercontent.com
 80.113.0.148.d.dyn.claro.net.do
 81.159.64.34.bc.googleusercontent.com
 adeel.probe.onyphe.net
