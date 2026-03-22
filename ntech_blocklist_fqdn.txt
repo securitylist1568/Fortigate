@@ -34,6 +34,7 @@ crawler147.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-239-13-6.compute-1.amazonaws.com
+ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
