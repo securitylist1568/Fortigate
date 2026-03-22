@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-169-6-10.dynamic-ip.hinet.net
-12.210.203.35.bc.googleusercontent.com
 133-91-131-46.dyn.estpak.ee
 172-233-89-133.ip.linodeusercontent.com
 180.150.216.162.bc.googleusercontent.com
@@ -27,9 +26,9 @@
 189.173.119.136.bc.googleusercontent.com
 197.150.216.162.bc.googleusercontent.com
 220.189.125.34.bc.googleusercontent.com
-237.149.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
+60-250-140-251.hinet-ip.hinet.net
 78.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -42,7 +41,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-34-230-221-101.compute-1.amazonaws.com
-ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -72,7 +70,6 @@ scan-38f.shadowserver.org
 scan-39k.shadowserver.org
 scan-39o.shadowserver.org
 scan-42j.shadowserver.org
-scan-43k.shadowserver.org
 scan-44c.shadowserver.org
 scan-46g.shadowserver.org
 scan-49k.shadowserver.org
@@ -87,15 +84,12 @@ scan-62-8.shadowserver.org
 scan-63-2.shadowserver.org
 scan-64-3.shadowserver.org
 scan-65-7.shadowserver.org
-scan-67-6.shadowserver.org
 scan-68-02.shadowserver.org
 scan-68-03.shadowserver.org
 scan-68-05.shadowserver.org
 scan-68-06.shadowserver.org
 scan-69-04.shadowserver.org
-scan-69-09.shadowserver.org
 scan-70-01.shadowserver.org
-scan-70-02.shadowserver.org
 scan-73-01.shadowserver.org
 scan-73-02.shadowserver.org
 scan-73-03.shadowserver.org
