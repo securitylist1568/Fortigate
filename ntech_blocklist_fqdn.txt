@@ -25,6 +25,7 @@
 189.173.119.136.bc.googleusercontent.com
 220.189.125.34.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 60-250-140-251.hinet-ip.hinet.net
 78.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -97,4 +98,5 @@ scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ucili.sacrediction.co.uk
+undefined.hostname.localhost
 users219.vip.heteml.jp
