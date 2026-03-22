@@ -80,6 +80,7 @@ scan-56f.shadowserver.org
 scan-57k.shadowserver.org
 scan-60-1.shadowserver.org
 scan-62-11.shadowserver.org
+scan-62-9.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-11.shadowserver.org
 scan-64-8.shadowserver.org
