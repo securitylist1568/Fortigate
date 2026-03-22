@@ -26,6 +26,7 @@
 237.149.216.162.bc.googleusercontent.com
 245.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 36-238-247-38.dynamic-ip.hinet.net
+36.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ recyber.net
 s4850.vps.hosting
 scan-01n.shadowserver.org
 scan-02k.shadowserver.org
+scan-06g.shadowserver.org
 scan-07g.shadowserver.org
 scan-09f.shadowserver.org
 scan-11f.shadowserver.org
