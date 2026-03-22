@@ -28,13 +28,11 @@
 244.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 29.149.216.162.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
-42.211.203.35.bc.googleusercontent.com
 58.210.203.35.bc.googleusercontent.com
 61-219-111-6.hinet-ip.hinet.net
 69.211.203.35.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
-80.113.0.148.d.dyn.claro.net.do
 97.150.216.162.bc.googleusercontent.com
 adeel.probe.onyphe.net
 aim.sba-research.org
@@ -80,7 +78,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01i.shadowserver.org
