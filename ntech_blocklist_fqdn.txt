@@ -46,7 +46,6 @@ ec2-44-211-45-255.compute-1.amazonaws.com
 ec2-54-208-25-95.compute-1.amazonaws.com
 ec2-54-86-179-2.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
-ec2-98-90-43-197.compute-1.amazonaws.com
 ec2-98-93-245-202.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
@@ -64,6 +63,5 @@ recyber.net
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-ucili.sacrediction.co.uk
 undefined.hostname.localhost
 users219.vip.heteml.jp
