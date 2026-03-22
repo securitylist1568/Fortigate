@@ -50,6 +50,7 @@ ec2-18-207-114-178.compute-1.amazonaws.com
 ec2-3-81-224-7.compute-1.amazonaws.com
 ec2-3-84-4-44.compute-1.amazonaws.com
 ec2-3-84-5-23.compute-1.amazonaws.com
+ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-226-195-14.compute-1.amazonaws.com
 ec2-34-228-9-244.compute-1.amazonaws.com
 ec2-35-171-19-100.compute-1.amazonaws.com
@@ -73,6 +74,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip129.ip-51-77-47.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
