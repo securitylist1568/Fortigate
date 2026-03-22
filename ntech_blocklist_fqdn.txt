@@ -30,6 +30,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler115.deepfield.net
 crawler147.deepfield.net
+crawler191.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-107-20-105-127.compute-1.amazonaws.com
@@ -50,6 +51,7 @@ ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-93-245-202.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+finland2.ipip.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -64,5 +66,6 @@ recyber.net
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.251.37.76.144.clients.your-server.de
 undefined.hostname.localhost
 users219.vip.heteml.jp
