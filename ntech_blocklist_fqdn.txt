@@ -27,6 +27,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler115.deepfield.net
 crawler147.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
