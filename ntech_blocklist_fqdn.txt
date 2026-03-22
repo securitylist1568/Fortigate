@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-129.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.149.216.162.bc.googleusercontent.com
 199.211.203.35.bc.googleusercontent.com
@@ -25,14 +24,10 @@
 244.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 36-238-247-38.dynamic-ip.hinet.net
 37.149.216.162.bc.googleusercontent.com
-41.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
-69.211.203.35.bc.googleusercontent.com
-70.211.203.35.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,7 +42,6 @@ ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-hammertoe.banhkemcantho.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -110,13 +104,10 @@ scan-85-7.shadowserver.org
 scan-85-8.shadowserver.org
 scan-85-9.shadowserver.org
 scan-86-1.shadowserver.org
-scan-86-4.shadowserver.org
 scan-88-0.shadowserver.org
 scan-88-6.shadowserver.org
-scan-90-4.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
-srv30403.dus7.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.106.234.21.65.clients.your-server.de
 undefined.hostname.localhost
