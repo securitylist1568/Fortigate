@@ -23,9 +23,11 @@
 189.173.119.136.bc.googleusercontent.com
 199.211.203.35.bc.googleusercontent.com
 233.211.203.35.bc.googleusercontent.com
+245.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 36-238-247-38.dynamic-ip.hinet.net
 37.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
+70.34.244.191.vultrusercontent.com
 85.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -35,6 +37,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-34-193-119-44.compute-1.amazonaws.com
 ec2-34-230-221-101.compute-1.amazonaws.com
+ec2-44-215-219-236.compute-1.amazonaws.com
 ec2-52-21-227-35.compute-1.amazonaws.com
 ec2-98-90-43-197.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
@@ -51,11 +54,13 @@ recyber.net
 s4850.vps.hosting
 scan-01d.shadowserver.org
 scan-01n.shadowserver.org
+scan-02k.shadowserver.org
 scan-07g.shadowserver.org
 scan-11f.shadowserver.org
 scan-11i.shadowserver.org
 scan-12f.shadowserver.org
 scan-13g.shadowserver.org
+scan-14a.shadowserver.org
 scan-18a.shadowserver.org
 scan-20a.shadowserver.org
 scan-39l.shadowserver.org
@@ -69,8 +74,10 @@ scan-50g.shadowserver.org
 scan-51h.shadowserver.org
 scan-52i.shadowserver.org
 scan-53i.shadowserver.org
+scan-54i.shadowserver.org
 scan-56f.shadowserver.org
 scan-58g.shadowserver.org
+scan-58j.shadowserver.org
 scan-60-6.shadowserver.org
 scan-61-13.shadowserver.org
 scan-62-11.shadowserver.org
@@ -96,6 +103,7 @@ scan-88-0.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-1.shadowserver.org
 scan-90-9.shadowserver.org
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ucili.sacrediction.co.uk
