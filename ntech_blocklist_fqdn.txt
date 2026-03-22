@@ -56,6 +56,7 @@ recyber.net
 s4850.vps.hosting
 scan-01d.shadowserver.org
 scan-01i.shadowserver.org
+scan-01n.shadowserver.org
 scan-07g.shadowserver.org
 scan-09f.shadowserver.org
 scan-11f.shadowserver.org
@@ -70,6 +71,7 @@ scan-42j.shadowserver.org
 scan-42o.shadowserver.org
 scan-44c.shadowserver.org
 scan-47i.shadowserver.org
+scan-48e.shadowserver.org
 scan-49b.shadowserver.org
 scan-49l.shadowserver.org
 scan-50g.shadowserver.org
@@ -94,10 +96,12 @@ scan-71-08.shadowserver.org
 scan-72-03.shadowserver.org
 scan-73-03.shadowserver.org
 scan-73-07.shadowserver.org
+scan-73-08.shadowserver.org
 scan-74-02.shadowserver.org
 scan-74-04.shadowserver.org
 scan-75-00.shadowserver.org
 scan-75-01.shadowserver.org
+scan-77-01.shadowserver.org
 scan-78-05.shadowserver.org
 scan-80-7.shadowserver.org
 scan-82-2.shadowserver.org
@@ -105,6 +109,7 @@ scan-84-8.shadowserver.org
 scan-85-7.shadowserver.org
 scan-85-9.shadowserver.org
 scan-86-1.shadowserver.org
+scan-88-0.shadowserver.org
 scan-88-6.shadowserver.org
 scan-90-9.shadowserver.org
 scan.visionheight.com
