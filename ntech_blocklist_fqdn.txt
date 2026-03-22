@@ -24,6 +24,7 @@
 220.189.125.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 60-250-140-251.hinet-ip.hinet.net
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgkb9f81.stretchoid.com
 azpdssldvqxw.stretchoid.com
@@ -41,6 +42,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 no-mans-land.m247.com
