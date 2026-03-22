@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 114-44-51-26.dynamic-ip.hinet.net
 12.210.203.35.bc.googleusercontent.com
+133-91-131-46.dyn.estpak.ee
 156.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.173.119.136.bc.googleusercontent.com
@@ -84,6 +85,7 @@ scan-58j.shadowserver.org
 scan-60-13.shadowserver.org
 scan-60-6.shadowserver.org
 scan-61-13.shadowserver.org
+scan-61-4.shadowserver.org
 scan-61-9.shadowserver.org
 scan-62-9.shadowserver.org
 scan-63-7.shadowserver.org
