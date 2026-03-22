@@ -18,14 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 129.150.216.162.bc.googleusercontent.com
-140.211.203.35.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
 153.210.203.35.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 223.171.81.34.bc.googleusercontent.com
 228.211.203.35.bc.googleusercontent.com
-249.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
 42.211.203.35.bc.googleusercontent.com
@@ -35,7 +33,6 @@
 70.211.203.35.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 80.113.0.148.d.dyn.claro.net.do
-81.159.64.34.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 adeel.probe.onyphe.net
 aim.sba-research.org
@@ -86,6 +83,7 @@ scan-15c.shadowserver.org
 scan-41g.shadowserver.org
 scan-43e.shadowserver.org
 scan-46o.shadowserver.org
+scan-60-1.shadowserver.org
 scan-64-8.shadowserver.org
 scan-67-1.shadowserver.org
 scan-70-06.shadowserver.org
