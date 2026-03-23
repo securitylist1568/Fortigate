@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125-228-249-153.hinet-ip.hinet.net
+176.65.149.31.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 42.123.243.83.in-addr.arpa
 6682-315a.jnb01.za.misaka.io
@@ -56,6 +57,7 @@ scan-11h.shadowserver.org
 scan-13l.shadowserver.org
 scan-15i.shadowserver.org
 scan-18a.shadowserver.org
+scan-36l.shadowserver.org
 scan-39m.shadowserver.org
 scan-42i.shadowserver.org
 scan-44f.shadowserver.org
@@ -76,6 +78,7 @@ scan-65-6.shadowserver.org
 scan-66-5.shadowserver.org
 scan-68-08.shadowserver.org
 scan-69-03.shadowserver.org
+scan-70-07.shadowserver.org
 scan-73-05.shadowserver.org
 scan-75-04.shadowserver.org
 scan-75-05.shadowserver.org
@@ -85,6 +88,8 @@ scan-77-01.shadowserver.org
 scan-80-7.shadowserver.org
 scan-82-3.shadowserver.org
 scan-83-1.shadowserver.org
+scan-83-6.shadowserver.org
+scan-84-5.shadowserver.org
 scan-84-6.shadowserver.org
 scan-85-2.shadowserver.org
 scan-85-3.shadowserver.org
