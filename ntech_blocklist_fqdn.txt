@@ -31,6 +31,7 @@ client.yota.ru
 crawler091.deepfield.net
 crawler144.deepfield.net
 crawler151.deepfield.net
+crawler157.deepfield.net
 crawler160.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
