@@ -64,6 +64,7 @@
 23-92-27-179.ip.linodeusercontent.com
 247.10.236.221.broad.cd.sc.dynamic.163data.com.cn
 249.151.61.45.static.cloudzy.com
+249.209.81.34.bc.googleusercontent.com
 27a4d05a-fbab-4823-9597-057e044133cb.nl-ams-1.baremetal.scw.cloud
 36-229-137-235.dynamic-ip.hinet.net
 45-33-105-182.ip.linodeusercontent.com
@@ -312,6 +313,7 @@ cairo.scan.bufferover.run
 cardiff.scan.bufferover.run
 carthage.scan.bufferover.run
 client.yota.ru
+cohogs.usienspire.com
 cork.scan.bufferover.run
 crawler107.deepfield.net
 crawler191.deepfield.net
@@ -331,6 +333,7 @@ karachi.scan.bufferover.run
 kingston.scan.bufferover.run
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 nicola.probe.onyphe.net
 no-mans-land.m247.com
 olous.scan.bufferover.run
