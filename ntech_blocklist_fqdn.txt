@@ -87,7 +87,6 @@
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 74-207-253-22.ip.linodeusercontent.com
 a3ed2bdd-e09e-45fb-be39-ee9452a5c3f5.pl-waw-2.baremetal.scw.cloud
-aim.sba-research.org
 amz.unixwiz.net
 angkor.scan.bufferover.run
 azpdcg0e0s5m.stretchoid.com
@@ -331,7 +330,6 @@ ec2-44-202-55-17.compute-1.amazonaws.com
 ec2-44-211-45-255.compute-1.amazonaws.com
 ec2-54-208-25-95.compute-1.amazonaws.com
 ec2-54-86-179-2.compute-1.amazonaws.com
-ec2-98-89-204-118.compute-1.amazonaws.com
 ec2-98-93-245-202.compute-1.amazonaws.com
 ecs-116-205-126-192.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
@@ -343,7 +341,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
-li1873-236.members.linode.com
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
 nicola.probe.onyphe.net
