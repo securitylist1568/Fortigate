@@ -86,6 +86,7 @@
 51-158-248-168.rev.poneytelecom.eu
 51-158-248-169.rev.poneytelecom.eu
 66-175-220-105.ip.linodeusercontent.com
+6682-315a.jnb01.za.misaka.io
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 74-207-253-22.ip.linodeusercontent.com
 a3ed2bdd-e09e-45fb-be39-ee9452a5c3f5.pl-waw-2.baremetal.scw.cloud
@@ -325,6 +326,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
 ip-114-126.superbithost.com
+ip-114-130.4vendeta.com
 ip29.sudolio.io
 karachi.scan.bufferover.run
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
