@@ -322,7 +322,6 @@ ecs-116-205-126-192.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
-hn.ly.kd.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
 ip-114-126.superbithost.com
@@ -333,7 +332,6 @@ klnorrx.cn
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
-nicola.probe.onyphe.net
 no-mans-land.m247.com
 olous.scan.bufferover.run
 pc112.cses.ilc.edu.tw
@@ -370,12 +368,10 @@ scan-65-11.shadowserver.org
 scan-65-13.shadowserver.org
 scan-66-13.shadowserver.org
 scan-66-9.shadowserver.org
-scan-67-12.shadowserver.org
 scan-69-09.shadowserver.org
 scan-71-09.shadowserver.org
 scan-72-03.shadowserver.org
 scan-79-09.shadowserver.org
-scan-80-1.shadowserver.org
 scan-80-3.shadowserver.org
 scan-81-0.shadowserver.org
 scan-81-2.shadowserver.org
