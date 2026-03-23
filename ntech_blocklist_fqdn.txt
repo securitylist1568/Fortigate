@@ -38,6 +38,7 @@ jsgqkjz.cn
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 klnorrx.cn
 mfyabgec.musicpda.com
+miscreantlace.ptr.network
 new-ubuntu20223240.aspadmin.net
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -50,6 +51,7 @@ scan-05a.shadowserver.org
 scan-06f.shadowserver.org
 scan-09f.shadowserver.org
 scan-09m.shadowserver.org
+scan-11h.shadowserver.org
 scan-13l.shadowserver.org
 scan-15e.shadowserver.org
 scan-18a.shadowserver.org
@@ -97,5 +99,6 @@ scan-87-4.shadowserver.org
 scan-89-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+tar.iconmarkethub.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
