@@ -21,16 +21,19 @@
 185-45-195-15.hostsailor.com
 42.123.243.83.in-addr.arpa
 6682-315a.jnb01.za.misaka.io
+71.219.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler215.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 icloud.com
+ip-114-126.superbithost.com
 ip-114-130.4vendeta.com
 ip29.sudolio.io
 jsgqkjz.cn
@@ -65,6 +68,7 @@ scan-56i.shadowserver.org
 scan-59m.shadowserver.org
 scan-61-7.shadowserver.org
 scan-62-1.shadowserver.org
+scan-62-4.shadowserver.org
 scan-63-13.shadowserver.org
 scan-64-12.shadowserver.org
 scan-65-1.shadowserver.org
@@ -85,7 +89,9 @@ scan-84-6.shadowserver.org
 scan-85-2.shadowserver.org
 scan-85-3.shadowserver.org
 scan-85-9.shadowserver.org
+scan-86-3.shadowserver.org
 scan-86-7.shadowserver.org
+scan-87-2.shadowserver.org
 scan-87-4.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-1.shadowserver.org
