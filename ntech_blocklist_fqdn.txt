@@ -344,6 +344,7 @@ scan-44f.shadowserver.org
 scan-45n.shadowserver.org
 scan-47k.shadowserver.org
 scan-49n.shadowserver.org
+scan-56.security.ipip.net
 scan-58m.shadowserver.org
 scan-60-1.shadowserver.org
 scan-61-1.shadowserver.org
