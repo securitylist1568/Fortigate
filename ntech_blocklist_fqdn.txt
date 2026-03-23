@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125-228-249-153.hinet-ip.hinet.net
+172-232-32-15.ip.linodeusercontent.com
 176.65.149.31.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
@@ -39,6 +40,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
 new-ubuntu20223240.aspadmin.net
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
