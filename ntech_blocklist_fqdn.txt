@@ -21,6 +21,7 @@
 249.151.61.45.static.cloudzy.com
 249.209.81.34.bc.googleusercontent.com
 36-229-137-235.dynamic-ip.hinet.net
+42.123.243.83.in-addr.arpa
 6682-315a.jnb01.za.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
