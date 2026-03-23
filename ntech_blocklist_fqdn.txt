@@ -22,6 +22,7 @@
 176.65.149.31.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
+204.76.203.30.ptr.pfcloud.network
 220-136-165-41.dynamic-ip.hinet.net
 71.219.77.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -36,6 +37,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 icloud.com
 ip-114-126.superbithost.com
+ip-40-82.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
@@ -45,6 +47,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-04c.shadowserver.org
 scan-04i.shadowserver.org
 scan-05c.shadowserver.org
