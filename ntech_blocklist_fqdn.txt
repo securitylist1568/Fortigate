@@ -98,6 +98,7 @@ scan-87-2.shadowserver.org
 scan-87-4.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-1.shadowserver.org
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tar.iconmarkethub.com
