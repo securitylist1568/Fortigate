@@ -56,8 +56,10 @@ scan-15i.shadowserver.org
 scan-18a.shadowserver.org
 scan-20a.shadowserver.org
 scan-36l.shadowserver.org
+scan-38f.shadowserver.org
 scan-39m.shadowserver.org
 scan-42i.shadowserver.org
+scan-45n.shadowserver.org
 scan-45o.shadowserver.org
 scan-48d.shadowserver.org
 scan-48h.shadowserver.org
@@ -105,6 +107,7 @@ scan-87-2.shadowserver.org
 scan-87-4.shadowserver.org
 scan-88-8.shadowserver.org
 scan-89-1.shadowserver.org
+scan-89-6.shadowserver.org
 scan-90-6.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
