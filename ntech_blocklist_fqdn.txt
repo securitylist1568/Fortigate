@@ -85,7 +85,6 @@
 45-79-98-252.ip.linodeusercontent.com
 51-158-248-168.rev.poneytelecom.eu
 51-158-248-169.rev.poneytelecom.eu
-61-219-111-6.hinet-ip.hinet.net
 66-175-220-105.ip.linodeusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 74-207-253-22.ip.linodeusercontent.com
@@ -315,15 +314,12 @@ carthage.scan.bufferover.run
 client.yota.ru
 cohogs.usienspire.com
 cork.scan.bufferover.run
-crawler107.deepfield.net
-crawler191.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dsl-124-150-60-159.dyn.iinet.net.au
 dvin.scan.bufferover.run
 ecs-116-205-126-192.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-finland2.ipip.net
 giza.scan.bufferover.run
 hn.kd.ny.adsl
 hn.ly.kd.adsl
@@ -370,6 +366,7 @@ scan-71-09.shadowserver.org
 scan-72-03.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-1.shadowserver.org
+scan-81-0.shadowserver.org
 scan-81-2.shadowserver.org
 scan-82-4.shadowserver.org
 scan-82-9.shadowserver.org
@@ -381,7 +378,6 @@ scan-89-9.shadowserver.org
 scan-90-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.251.37.76.144.clients.your-server.de
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
