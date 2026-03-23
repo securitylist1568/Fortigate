@@ -339,6 +339,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
+scan-04j.shadowserver.org
 scan-05e.shadowserver.org
 scan-06f.shadowserver.org
 scan-13m.shadowserver.org
@@ -369,6 +370,7 @@ scan-80-1.shadowserver.org
 scan-81-2.shadowserver.org
 scan-82-4.shadowserver.org
 scan-82-9.shadowserver.org
+scan-86-3.shadowserver.org
 scan-87-6.shadowserver.org
 scan-88-0.shadowserver.org
 scan-88-1.shadowserver.org
