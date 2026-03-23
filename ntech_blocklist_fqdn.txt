@@ -43,6 +43,7 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 klnorrx.cn
 mfyabgec.musicpda.com
 miscreantlace.ptr.network
+new-ubuntu20223240.aspadmin.net
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -68,6 +69,7 @@ scan-56i.shadowserver.org
 scan-59m.shadowserver.org
 scan-60-1.shadowserver.org
 scan-61-7.shadowserver.org
+scan-62-1.shadowserver.org
 scan-63-0.shadowserver.org
 scan-63-13.shadowserver.org
 scan-64-12.shadowserver.org
@@ -78,14 +80,17 @@ scan-66-5.shadowserver.org
 scan-68-08.shadowserver.org
 scan-69-03.shadowserver.org
 scan-75-05.shadowserver.org
+scan-76-05.shadowserver.org
 scan-76-07.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-3.shadowserver.org
 scan-80-7.shadowserver.org
 scan-81-0.shadowserver.org
 scan-81-8.shadowserver.org
+scan-82-3.shadowserver.org
 scan-83-1.shadowserver.org
 scan-85-1.shadowserver.org
+scan-85-9.shadowserver.org
 scan-86-3.shadowserver.org
 scan-86-4.shadowserver.org
 scan-86-7.shadowserver.org
