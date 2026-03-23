@@ -31,6 +31,7 @@ crawler147.deepfield.net
 crawler191.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dsl-124-150-60-159.dyn.iinet.net.au
 ec2-107-20-105-127.compute-1.amazonaws.com
 ec2-13-222-246-187.compute-1.amazonaws.com
 ec2-23-22-5-218.compute-1.amazonaws.com
@@ -66,6 +67,7 @@ scan-06f.shadowserver.org
 scan-13m.shadowserver.org
 scan-18d.shadowserver.org
 scan-36e.shadowserver.org
+scan-46e.shadowserver.org
 scan-52c.shadowserver.org
 scan-52m.shadowserver.org
 scan-57k.shadowserver.org
@@ -74,6 +76,7 @@ scan-60-2.shadowserver.org
 scan-62-3.shadowserver.org
 scan-65-13.shadowserver.org
 scan-66-13.shadowserver.org
+scan-66-9.shadowserver.org
 scan-67-12.shadowserver.org
 scan-69-09.shadowserver.org
 scan-72-03.shadowserver.org
