@@ -21,6 +21,7 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 210-1-234-127.customer-prefix-announce-by.as131657.net
+61-227-245-129.dynamic-ip.hinet.net
 88.119.93.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -221,6 +222,7 @@ scan-20j.shadowserver.org
 scan-40d.shadowserver.org
 scan-44o.shadowserver.org
 scan-60-10.shadowserver.org
+scan-62-3.shadowserver.org
 scan-64-5.shadowserver.org
 scan-67-1.shadowserver.org
 scan-71-05.shadowserver.org
