@@ -19,8 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-165-76-179.dynamic-ip.hinet.net
 172-232-121-108.ip.linodeusercontent.com
-179.245.176.50.dynamic.adsl.gvt.net.br
 185-45-195-15.hostsailor.com
+210-1-234-127.customer-prefix-announce-by.as131657.net
 49.94.86.172.static.cloudzy.com
 71.219.77.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -29,8 +29,6 @@ b2.org.afilias-nst.org
 ci96.119-114.netnam.vn
 client.yota.ru
 crawler029.deepfield.net
-crawler049.deepfield.net
-crawler056.deepfield.net
 crawler116.deepfield.net
 crawler119.deepfield.net
 crawler132.deepfield.net
@@ -73,12 +71,9 @@ scan-62-13.shadowserver.org
 scan-65-12.shadowserver.org
 scan-66-3.shadowserver.org
 scan-66-7.shadowserver.org
-scan-69-06.shadowserver.org
 scan-71-06.shadowserver.org
-scan-73-03.shadowserver.org
 scan-73-09.shadowserver.org
 scan-79-04.shadowserver.org
-scan-80-6.shadowserver.org
 scan-83-4.shadowserver.org
 scan-83-6.shadowserver.org
 scan-86-8.shadowserver.org
