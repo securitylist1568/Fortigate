@@ -69,6 +69,9 @@ recyber.net
 rootevidence.com
 rping.ipip.net
 scan-58.security.ipip.net
+scan-69-06.shadowserver.org
+scan-73-03.shadowserver.org
+scan-80-6.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
