@@ -18,9 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-195-36.dynamic-ip.hinet.net
-172-232-121-108.ip.linodeusercontent.com
+153.111.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-210-1-234-127.customer-prefix-announce-by.as131657.net
 61-227-245-129.dynamic-ip.hinet.net
 88.119.93.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -194,9 +193,7 @@ azpdwsx97i4i.stretchoid.com
 azpdwsxcb2md.stretchoid.com
 azpdwsz7lo0b.stretchoid.com
 b2.org.afilias-nst.org
-ci96.119-114.netnam.vn
 client.yota.ru
-crawler132.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-205-16-92.ap-south-1.compute.amazonaws.com
@@ -207,9 +204,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip42.ip-51-79-253.net
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -219,7 +214,7 @@ scan-03f.shadowserver.org
 scan-17k.shadowserver.org
 scan-18a.shadowserver.org
 scan-20a.shadowserver.org
-scan-20j.shadowserver.org
+scan-37o.shadowserver.org
 scan-40d.shadowserver.org
 scan-44o.shadowserver.org
 scan-60-10.shadowserver.org
