@@ -196,10 +196,8 @@ b2.org.afilias-nst.org
 ci96.119-114.netnam.vn
 client.yota.ru
 crawler132.deepfield.net
-crawler202.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-13-205-16-92.ap-south-1.compute.amazonaws.com
 ec2-52-33-109-27.us-west-2.compute.amazonaws.com
 edwards.mastersocialize.org.uk
@@ -217,11 +215,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-18a.shadowserver.org
 scan-20j.shadowserver.org
-scan-36k.shadowserver.org
 scan-40d.shadowserver.org
-scan-41m.shadowserver.org
 scan-44o.shadowserver.org
-scan-48h.shadowserver.org
 scan-60-10.shadowserver.org
 scan-64-5.shadowserver.org
 scan-67-1.shadowserver.org
