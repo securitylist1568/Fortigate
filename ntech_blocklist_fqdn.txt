@@ -35,6 +35,7 @@ crawler049.deepfield.net
 crawler056.deepfield.net
 crawler091.deepfield.net
 crawler144.deepfield.net
+crawler149.deepfield.net
 crawler151.deepfield.net
 crawler157.deepfield.net
 crawler160.deepfield.net
@@ -91,6 +92,7 @@ scan-83-6.shadowserver.org
 scan-86-9.shadowserver.org
 scan-89-7.shadowserver.org
 scan-89-9.shadowserver.org
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-225-147.mci01.us.misaka.io
