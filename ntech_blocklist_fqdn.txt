@@ -20,9 +20,7 @@
 118-165-76-179.dynamic-ip.hinet.net
 179.245.176.50.dynamic.adsl.gvt.net.br
 185-45-195-15.hostsailor.com
-207.246.82.236.vultrusercontent.com
 49.94.86.172.static.cloudzy.com
-66-175-209-191.ip.linodeusercontent.com
 71.219.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -34,7 +32,6 @@ crawler056.deepfield.net
 crawler116.deepfield.net
 crawler119.deepfield.net
 crawler149.deepfield.net
-crawler157.deepfield.net
 crawler164.deepfield.net
 crawler171.deepfield.net
 crawler202.deepfield.net
@@ -54,7 +51,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 rping.ipip.net
 scan-12k.shadowserver.org
 scan-14a.shadowserver.org
