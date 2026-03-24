@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-196-171.dynamic-ip.hinet.net
 172-232-108-36.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 199-176-100-101.myrepublic.com.sg
@@ -91,12 +92,16 @@ ec2-13-221-95-123.compute-1.amazonaws.com
 ec2-13-222-38-67.compute-1.amazonaws.com
 ec2-18-206-228-253.compute-1.amazonaws.com
 ec2-18-233-100-117.compute-1.amazonaws.com
+ec2-23-22-5-218.compute-1.amazonaws.com
 ec2-3-88-9-47.compute-1.amazonaws.com
 ec2-3-89-218-222.compute-1.amazonaws.com
+ec2-44-201-180-168.compute-1.amazonaws.com
 ec2-44-202-144-21.compute-1.amazonaws.com
 ec2-44-202-55-17.compute-1.amazonaws.com
 ec2-52-206-189-10.compute-1.amazonaws.com
 ec2-52-207-238-74.compute-1.amazonaws.com
+ec2-52-70-205-193.compute-1.amazonaws.com
+ec2-54-147-211-146.compute-1.amazonaws.com
 ec2-54-174-208-37.compute-1.amazonaws.com
 ec2-54-82-48-51.compute-1.amazonaws.com
 ec2-54-90-205-87.compute-1.amazonaws.com
