@@ -23,6 +23,7 @@
 249.209.81.34.bc.googleusercontent.com
 49.94.86.172.static.cloudzy.com
 66-175-209-191.ip.linodeusercontent.com
+71.219.77.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 aim.sba-research.org
 amz.unixwiz.net
@@ -35,6 +36,7 @@ crawler049.deepfield.net
 crawler056.deepfield.net
 crawler091.deepfield.net
 crawler116.deepfield.net
+crawler119.deepfield.net
 crawler144.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
@@ -83,14 +85,18 @@ scan-43m.shadowserver.org
 scan-44i.shadowserver.org
 scan-45g.shadowserver.org
 scan-49d.shadowserver.org
+scan-60-2.shadowserver.org
 scan-62-13.shadowserver.org
 scan-65-12.shadowserver.org
 scan-66-3.shadowserver.org
+scan-66-7.shadowserver.org
 scan-69-06.shadowserver.org
+scan-71-06.shadowserver.org
 scan-73-03.shadowserver.org
 scan-73-09.shadowserver.org
 scan-79-04.shadowserver.org
 scan-80-6.shadowserver.org
+scan-83-4.shadowserver.org
 scan-83-6.shadowserver.org
 scan-86-9.shadowserver.org
 scan-89-7.shadowserver.org
