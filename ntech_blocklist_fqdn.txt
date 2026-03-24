@@ -211,11 +211,16 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-18a.shadowserver.org
 scan-20j.shadowserver.org
 scan-36k.shadowserver.org
 scan-40d.shadowserver.org
 scan-41m.shadowserver.org
+scan-44o.shadowserver.org
 scan-48h.shadowserver.org
+scan-60-10.shadowserver.org
+scan-64-5.shadowserver.org
+scan-67-1.shadowserver.org
 scan-71-05.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
