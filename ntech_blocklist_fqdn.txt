@@ -23,12 +23,12 @@
 249.209.81.34.bc.googleusercontent.com
 66-175-209-191.ip.linodeusercontent.com
 74-50-97-90.static.hvvc.us
-aim.sba-research.org
 amz.unixwiz.net
 azpdcsexahq0.stretchoid.com
 azpdsgpb3ph1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler049.deepfield.net
 crawler056.deepfield.net
 crawler091.deepfield.net
 crawler144.deepfield.net
@@ -60,9 +60,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -73,9 +71,7 @@ scan-58.security.ipip.net
 scan-69-06.shadowserver.org
 scan-73-03.shadowserver.org
 scan-80-6.shadowserver.org
-scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.178.148.109.65.clients.your-server.de
 user-170-39-225-147.mci01.us.misaka.io
 users219.vip.heteml.jp
