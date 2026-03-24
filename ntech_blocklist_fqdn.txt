@@ -21,11 +21,9 @@
 179.245.176.50.dynamic.adsl.gvt.net.br
 185-45-195-15.hostsailor.com
 207.246.82.236.vultrusercontent.com
-249.209.81.34.bc.googleusercontent.com
 49.94.86.172.static.cloudzy.com
 66-175-209-191.ip.linodeusercontent.com
 71.219.77.34.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
 aim.sba-research.org
 amz.unixwiz.net
 azpdcsexahq0.stretchoid.com
@@ -40,7 +38,6 @@ crawler116.deepfield.net
 crawler119.deepfield.net
 crawler144.deepfield.net
 crawler149.deepfield.net
-crawler151.deepfield.net
 crawler157.deepfield.net
 crawler160.deepfield.net
 crawler164.deepfield.net
