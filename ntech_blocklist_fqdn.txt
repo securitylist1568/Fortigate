@@ -39,6 +39,7 @@ crawler151.deepfield.net
 crawler157.deepfield.net
 crawler160.deepfield.net
 crawler171.deepfield.net
+crawler222.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-53-142-60.compute-1.amazonaws.com
