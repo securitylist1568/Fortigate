@@ -34,11 +34,13 @@ crawler029.deepfield.net
 crawler049.deepfield.net
 crawler056.deepfield.net
 crawler091.deepfield.net
+crawler116.deepfield.net
 crawler144.deepfield.net
 crawler149.deepfield.net
 crawler151.deepfield.net
 crawler157.deepfield.net
 crawler160.deepfield.net
+crawler164.deepfield.net
 crawler171.deepfield.net
 crawler222.deepfield.net
 dal215.hawkhost.com
