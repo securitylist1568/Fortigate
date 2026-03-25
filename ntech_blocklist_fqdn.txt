@@ -64,9 +64,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
 rootevidence.com
+scan-09o.shadowserver.org
 scan-40e.shadowserver.org
 scan-56d.shadowserver.org
 scan-63-13.shadowserver.org
+scan-65-6.shadowserver.org
 scan-66-0.shadowserver.org
 scan-71-05.shadowserver.org
 scan-83-4.shadowserver.org
