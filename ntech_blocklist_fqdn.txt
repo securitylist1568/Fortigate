@@ -33,9 +33,7 @@ hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
-ip217.154.234-156.pbiaas.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns31430387.ip-51-195-190.eu
@@ -43,7 +41,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-86-2.shadowserver.org
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
