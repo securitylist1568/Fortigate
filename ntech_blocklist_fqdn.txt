@@ -28,7 +28,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-103-47-132-51.myrepublic.co.id
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -42,6 +41,7 @@ scan-13n.shadowserver.org
 scan-19b.shadowserver.org
 scan-38f.shadowserver.org
 scan-40d.shadowserver.org
+scan-40g.shadowserver.org
 scan-42f.shadowserver.org
 scan-44c.shadowserver.org
 scan-48h.shadowserver.org
@@ -51,4 +51,3 @@ scan-83-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi3177739.contaboserver.net
