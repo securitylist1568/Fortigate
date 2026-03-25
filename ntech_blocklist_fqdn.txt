@@ -20,7 +20,6 @@
 118-168-196-171.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 199-176-100-101.myrepublic.com.sg
-66-228-42-57.ip.linodeusercontent.com
 7ra0tj.cloud
 88.119.93.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -31,8 +30,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-26-29-152.compute-1.amazonaws.com
-ec2-100-29-192-18.compute-1.amazonaws.com
-ec2-100-29-192-33.compute-1.amazonaws.com
 ec2-100-53-3-126.compute-1.amazonaws.com
 ec2-13-221-95-123.compute-1.amazonaws.com
 ec2-13-222-38-67.compute-1.amazonaws.com
@@ -64,7 +61,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
-rootevidence.com
 scan-09o.shadowserver.org
 scan-40e.shadowserver.org
 scan-56d.shadowserver.org
