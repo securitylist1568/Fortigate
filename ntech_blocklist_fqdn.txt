@@ -43,6 +43,7 @@ recyber.net
 scan-20a.shadowserver.org
 scan-85-5.shadowserver.org
 scan-86-2.shadowserver.org
+server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tube-hosting.com
