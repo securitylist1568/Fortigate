@@ -31,6 +31,7 @@ festa04.jcatransporte.com.br
 hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-70.4vendeta.com
 ip217.154.234-156.pbiaas.com
 ip29.sudolio.io
 li1873-236.members.linode.com
