@@ -30,7 +30,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217.154.234-156.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -46,9 +45,7 @@ scan-63-13.shadowserver.org
 scan-64-10.shadowserver.org
 scan-65-6.shadowserver.org
 scan-66-0.shadowserver.org
-scan-71-05.shadowserver.org
 scan-83-4.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
