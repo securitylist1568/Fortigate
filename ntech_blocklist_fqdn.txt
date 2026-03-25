@@ -20,6 +20,7 @@
 118-168-196-171.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 199-176-100-101.myrepublic.com.sg
+220-133-103-15.hinet-ip.hinet.net
 7ra0tj.cloud
 88.119.93.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -56,6 +57,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip217.154.234-156.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
