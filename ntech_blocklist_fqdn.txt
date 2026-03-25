@@ -47,7 +47,6 @@ ec2-54-147-211-146.compute-1.amazonaws.com
 ec2-54-174-208-37.compute-1.amazonaws.com
 ec2-54-82-48-51.compute-1.amazonaws.com
 ec2-54-90-205-87.compute-1.amazonaws.com
-edwards.mastersocialize.org.uk
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
