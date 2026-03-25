@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 136.182.185.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-220-133-103-15.hinet-ip.hinet.net
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
