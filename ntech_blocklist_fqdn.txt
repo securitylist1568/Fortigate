@@ -41,9 +41,11 @@ scan-09m.shadowserver.org
 scan-13n.shadowserver.org
 scan-19b.shadowserver.org
 scan-38f.shadowserver.org
+scan-40d.shadowserver.org
 scan-42f.shadowserver.org
 scan-44c.shadowserver.org
 scan-48h.shadowserver.org
+scan-60-10.shadowserver.org
 scan-83-2.shadowserver.org
 scan-83-5.shadowserver.org
 smtp1.telemach.net
