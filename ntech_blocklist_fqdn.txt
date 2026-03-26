@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 116.211.203.35.bc.googleusercontent.com
 117.150.216.162.bc.googleusercontent.com
+127.211.203.35.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
 139-144-239-78.ip.linodeusercontent.com
 139-144-239-98.ip.linodeusercontent.com
@@ -146,9 +147,12 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
+scan-07d.shadowserver.org
 scan-40e.shadowserver.org
+scan-59m.shadowserver.org
 scan-61-4.shadowserver.org
 scan-64-5.shadowserver.org
+scan-72-07.shadowserver.org
 scan-75-01.shadowserver.org
 scan-79-09.shadowserver.org
 scan-81-7.shadowserver.org
