@@ -81,6 +81,7 @@
 173-255-223-89.ip.linodeusercontent.com
 173-255-242-196.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 198-74-50-114.ip.linodeusercontent.com
@@ -97,7 +98,6 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-82-114.ip.linodeusercontent.com
 45-79-98-252.ip.linodeusercontent.com
-51-158-144-234.rev.poneytelecom.eu
 56.211.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 66-175-220-105.ip.linodeusercontent.com
@@ -562,17 +562,14 @@ ec2-98-84-188-17.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 gateway.tcparmor.com
 giza.scan.bufferover.run
-hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-70.4vendeta.com
 ip29.sudolio.io
 kingston.scan.bufferover.run
 lagos.scan.bufferover.run
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
 ns1025139.ip-40-160-12.us
-ns31430387.ip-51-195-190.eu
 olous.scan.bufferover.run
 pc112.cses.ilc.edu.tw
 pinkytales.com
