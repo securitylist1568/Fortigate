@@ -92,6 +92,7 @@
 23-92-27-179.ip.linodeusercontent.com
 23-92-27-206.ip.linodeusercontent.com
 36-229-69-227.dynamic-ip.hinet.net
+40.211.203.35.bc.googleusercontent.com
 45-33-105-182.ip.linodeusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-41-118.ip.linodeusercontent.com
@@ -106,6 +107,7 @@
 56.211.203.35.bc.googleusercontent.com
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
+78.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg008shw.stretchoid.com
