@@ -586,7 +586,6 @@ scan-39f.shadowserver.org
 scan-60-12.shadowserver.org
 scan-80-1.shadowserver.org
 seoul.scan.bufferover.run
-server.comy
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -596,4 +595,3 @@ troy.scan.bufferover.run
 ur.scan.bufferover.run
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
-vps100007.vpsville.ru
