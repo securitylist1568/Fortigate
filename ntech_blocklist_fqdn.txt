@@ -458,7 +458,6 @@ ec2-34-201-116-207.compute-1.amazonaws.com
 ec2-34-227-49-18.compute-1.amazonaws.com
 ec2-44-201-212-31.compute-1.amazonaws.com
 ec2-44-202-56-60.compute-1.amazonaws.com
-ec2-44-220-191-29.compute-1.amazonaws.com
 ec2-50-19-163-240.compute-1.amazonaws.com
 ec2-52-90-148-15.compute-1.amazonaws.com
 ec2-54-160-155-146.compute-1.amazonaws.com
@@ -473,7 +472,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns1025139.ip-40-160-12.us
 ns31430387.ip-51-195-190.eu
 pc112.cses.ilc.edu.tw
