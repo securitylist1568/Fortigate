@@ -22,13 +22,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-163-72.dynamic-ip.hinet.net
 120.87.241.35.bc.googleusercontent.com
-125-227-76-143.hinet-ip.hinet.net
 160.149.216.162.bc.googleusercontent.com
 173-255-233-9.ip.linodeusercontent.com
 177.149.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
-184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+204.211.203.35.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
 23-239-13-176.ip.linodeusercontent.com
 250.16.63.34.bc.googleusercontent.com
@@ -38,7 +37,6 @@
 66-228-41-216.ip.linodeusercontent.com
 69-164-219-60.ip.linodeusercontent.com
 79.150.216.162.bc.googleusercontent.com
-82.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -62,8 +60,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-56f.shadowserver.org
-scan-61-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
