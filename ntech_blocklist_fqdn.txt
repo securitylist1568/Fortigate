@@ -584,6 +584,7 @@ scan-13n.shadowserver.org
 scan-15k.shadowserver.org
 scan-39f.shadowserver.org
 scan-60-12.shadowserver.org
+scan-75-01.shadowserver.org
 scan-80-1.shadowserver.org
 scan-81-7.shadowserver.org
 seoul.scan.bufferover.run
