@@ -23,6 +23,7 @@
 118-168-163-72.dynamic-ip.hinet.net
 120.87.241.35.bc.googleusercontent.com
 125-227-76-143.hinet-ip.hinet.net
+160.149.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -37,6 +38,7 @@ amz.unixwiz.net
 azpdcs7eu6vn.stretchoid.com
 b2.org.afilias-nst.org
 bigithar.ptr.network
+broadband.actcorp.in.134.51.106.in-addr.arpa
 client.yota.ru
 crawler073.deepfield.net
 crawler105.deepfield.net
