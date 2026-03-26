@@ -30,6 +30,7 @@
 237.211.203.35.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
 45-79-159-136.ip.linodeusercontent.com
+47.210.203.35.bc.googleusercontent.com
 82.150.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
@@ -38,6 +39,8 @@ amz.unixwiz.net
 azpdcs7eu6vn.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler073.deepfield.net
+crawler105.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
