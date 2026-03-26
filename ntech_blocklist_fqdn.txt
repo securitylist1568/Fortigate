@@ -585,6 +585,7 @@ scan-15k.shadowserver.org
 scan-39f.shadowserver.org
 scan-60-12.shadowserver.org
 scan-80-1.shadowserver.org
+scan-81-7.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
