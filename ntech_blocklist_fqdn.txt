@@ -146,10 +146,14 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
+scan-40e.shadowserver.org
+scan-61-4.shadowserver.org
+scan-64-5.shadowserver.org
 scan-75-01.shadowserver.org
 scan-79-09.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-2.shadowserver.org
+scan-89-1.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
