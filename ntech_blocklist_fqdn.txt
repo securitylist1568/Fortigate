@@ -20,6 +20,7 @@
 136.182.185.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 51-158-144-234.rev.poneytelecom.eu
+56.211.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -453,9 +454,17 @@ ec2-13-221-117-222.compute-1.amazonaws.com
 ec2-13-222-161-63.compute-1.amazonaws.com
 ec2-13-222-246-187.compute-1.amazonaws.com
 ec2-18-205-150-207.compute-1.amazonaws.com
+ec2-3-228-171-2.compute-1.amazonaws.com
+ec2-3-228-171-92.compute-1.amazonaws.com
+ec2-3-239-152-228.compute-1.amazonaws.com
+ec2-3-239-152-53.compute-1.amazonaws.com
 ec2-3-88-3-212.compute-1.amazonaws.com
 ec2-34-201-116-207.compute-1.amazonaws.com
 ec2-34-227-49-18.compute-1.amazonaws.com
+ec2-35-171-100-166.compute-1.amazonaws.com
+ec2-35-171-100-191.compute-1.amazonaws.com
+ec2-35-171-100-89.compute-1.amazonaws.com
+ec2-35-171-100-96.compute-1.amazonaws.com
 ec2-44-201-212-31.compute-1.amazonaws.com
 ec2-44-202-56-60.compute-1.amazonaws.com
 ec2-50-19-163-240.compute-1.amazonaws.com
@@ -479,7 +488,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
+scan-13n.shadowserver.org
+scan-15k.shadowserver.org
 scan-39f.shadowserver.org
+scan-60-12.shadowserver.org
 scan-80-1.shadowserver.org
 server.comy
 smtp1.telemach.net
