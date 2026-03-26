@@ -57,8 +57,10 @@ scan-07d.shadowserver.org
 scan-09o.shadowserver.org
 scan-10g.shadowserver.org
 scan-13n.shadowserver.org
+scan-38f.shadowserver.org
 scan-40e.shadowserver.org
 scan-59m.shadowserver.org
+scan-60-1.shadowserver.org
 scan-61-4.shadowserver.org
 scan-64-5.shadowserver.org
 scan-72-07.shadowserver.org
@@ -66,3 +68,4 @@ scan-89-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+www.internet-albedo.net
