@@ -28,6 +28,7 @@
 213.55.118.34.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
+45-79-159-136.ip.linodeusercontent.com
 65.210.203.35.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
@@ -51,6 +52,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-07d.shadowserver.org
 scan-09o.shadowserver.org
 scan-13n.shadowserver.org
