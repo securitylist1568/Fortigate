@@ -108,7 +108,6 @@
 45-79-82-114.ip.linodeusercontent.com
 45-79-98-252.ip.linodeusercontent.com
 46.149.216.162.bc.googleusercontent.com
-56.211.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
@@ -129,14 +128,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-3-228-171-2.compute-1.amazonaws.com
-ec2-3-228-171-92.compute-1.amazonaws.com
-ec2-3-239-152-228.compute-1.amazonaws.com
-ec2-3-239-152-53.compute-1.amazonaws.com
-ec2-35-171-100-166.compute-1.amazonaws.com
-ec2-35-171-100-191.compute-1.amazonaws.com
-ec2-35-171-100-89.compute-1.amazonaws.com
-ec2-35-171-100-96.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
@@ -155,12 +146,8 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
-scan-13n.shadowserver.org
-scan-15k.shadowserver.org
-scan-60-12.shadowserver.org
 scan-75-01.shadowserver.org
 scan-79-09.shadowserver.org
-scan-80-1.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-2.shadowserver.org
 seoul.scan.bufferover.run
