@@ -90,6 +90,7 @@
 192-155-81-124.ip.linodeusercontent.com
 196.210.203.35.bc.googleusercontent.com
 198-74-50-114.ip.linodeusercontent.com
+206.150.216.162.bc.googleusercontent.com
 213.55.118.34.bc.googleusercontent.com
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
@@ -111,6 +112,7 @@
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
+90.150.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 acs.drans.id
 aim.sba-research.org
@@ -135,7 +137,6 @@ ec2-35-171-100-191.compute-1.amazonaws.com
 ec2-35-171-100-89.compute-1.amazonaws.com
 ec2-35-171-100-96.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-gateway.tcparmor.com
 giza.scan.bufferover.run
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -152,10 +153,8 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
-scan-02k.shadowserver.org
 scan-13n.shadowserver.org
 scan-15k.shadowserver.org
-scan-39f.shadowserver.org
 scan-60-12.shadowserver.org
 scan-75-01.shadowserver.org
 scan-79-09.shadowserver.org
