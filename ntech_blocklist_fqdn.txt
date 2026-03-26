@@ -466,6 +466,7 @@ ec2-54-226-98-246.compute-1.amazonaws.com
 ec2-54-242-178-61.compute-1.amazonaws.com
 ec2-98-84-188-17.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+gateway.tcparmor.com
 hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
