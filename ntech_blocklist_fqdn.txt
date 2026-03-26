@@ -480,6 +480,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
 scan-39f.shadowserver.org
+scan-80-1.shadowserver.org
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
