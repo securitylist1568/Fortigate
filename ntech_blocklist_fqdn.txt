@@ -50,6 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-02m.shadowserver.org
 scan-07d.shadowserver.org
 scan-09o.shadowserver.org
 scan-10g.shadowserver.org
@@ -61,6 +62,7 @@ scan-60-1.shadowserver.org
 scan-61-4.shadowserver.org
 scan-64-5.shadowserver.org
 scan-72-07.shadowserver.org
+scan-75-01.shadowserver.org
 scan-79-09.shadowserver.org
 scan-89-1.shadowserver.org
 smtp1.telemach.net
