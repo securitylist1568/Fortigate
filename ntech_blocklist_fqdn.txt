@@ -48,6 +48,7 @@ crawler214.deepfield.net
 crawler217.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+e2e-dbaas-mongodb-2uiny-d4c80d46.mongo.ondigitalocean.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
