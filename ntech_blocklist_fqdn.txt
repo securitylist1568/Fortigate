@@ -23,10 +23,10 @@
 144.149.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-189.149.216.162.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
+3.210.203.35.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
 52.149.216.162.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
@@ -44,7 +44,6 @@ crawler093.deepfield.net
 crawler135.deepfield.net
 crawler150.deepfield.net
 crawler152.deepfield.net
-crawler153.deepfield.net
 crawler159.deepfield.net
 crawler217.deepfield.net
 dal215.hawkhost.com
@@ -52,8 +51,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
