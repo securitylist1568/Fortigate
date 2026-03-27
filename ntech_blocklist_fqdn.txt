@@ -40,6 +40,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler073.deepfield.net
 crawler126.deepfield.net
+crawler135.deepfield.net
 crawler153.deepfield.net
 crawler163.deepfield.net
 dal215.hawkhost.com
