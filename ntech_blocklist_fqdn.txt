@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -27,7 +26,6 @@
 17.210.203.35.bc.googleusercontent.com
 178-172-201-177.hosterby.com
 185-45-195-15.hostsailor.com
-197.211.203.35.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
@@ -36,7 +34,7 @@
 253.150.216.162.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 35.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
+96.68.10.185.ro.ovo.sc
 amz.unixwiz.net
 azpdcg0e0s5m.stretchoid.com
 azpdcg0g79kx.stretchoid.com
@@ -458,10 +456,8 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-218.4vendeta.com
-ip29.ip-5-135-94.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -470,7 +466,6 @@ scan-05j.shadowserver.org
 scan-36e.shadowserver.org
 scan-64-8.shadowserver.org
 scan-85-3.shadowserver.org
-scan-85-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
