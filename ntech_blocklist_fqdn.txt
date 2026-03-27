@@ -23,6 +23,7 @@
 17.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.149.216.162.bc.googleusercontent.com
+197.211.203.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
@@ -61,6 +62,7 @@ scan-05a.shadowserver.org
 scan-17k.shadowserver.org
 scan-63-8.shadowserver.org
 scan-76-02.shadowserver.org
+scan-85-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
