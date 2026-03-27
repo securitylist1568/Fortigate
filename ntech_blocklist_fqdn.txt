@@ -46,6 +46,7 @@ bigithar.ptr.network
 broadband.actcorp.in.134.51.106.in-addr.arpa
 client.yota.ru
 crawler126.deepfield.net
+crawler153.deepfield.net
 crawler163.deepfield.net
 crawler242.deepfield.net
 dal215.hawkhost.com
