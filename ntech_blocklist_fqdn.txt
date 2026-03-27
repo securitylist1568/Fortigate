@@ -30,6 +30,7 @@
 252.150.216.162.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
+54.94.177.195.in-addr.arpa
 61.150.216.162.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 765170-vds-shapovalvladislav.gmhost.pp.ua
