@@ -44,9 +44,11 @@ crawler073.deepfield.net
 crawler079.deepfield.net
 crawler126.deepfield.net
 crawler135.deepfield.net
+crawler150.deepfield.net
 crawler152.deepfield.net
 crawler153.deepfield.net
 crawler163.deepfield.net
+crawler217.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
