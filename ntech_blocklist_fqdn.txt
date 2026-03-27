@@ -34,6 +34,7 @@
 244.150.216.162.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
 35.150.216.162.bc.googleusercontent.com
+61.150.216.162.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 765170-vds-shapovalvladislav.gmhost.pp.ua
 77.211.203.35.bc.googleusercontent.com
@@ -202,6 +203,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
+scan-08i.shadowserver.org
 scan-09n.shadowserver.org
 scan-19b.shadowserver.org
 scan-37o.shadowserver.org
@@ -209,6 +211,7 @@ scan-64-8.shadowserver.org
 scan-66-3.shadowserver.org
 scan-68-08.shadowserver.org
 scan-75-01.shadowserver.org
+scan-81-6.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-6.shadowserver.org
 scan-83-5.shadowserver.org
