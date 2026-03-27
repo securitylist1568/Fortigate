@@ -43,6 +43,7 @@ b2.org.afilias-nst.org
 bigithar.ptr.network
 broadband.actcorp.in.134.51.106.in-addr.arpa
 client.yota.ru
+crawler073.deepfield.net
 crawler126.deepfield.net
 crawler153.deepfield.net
 crawler163.deepfield.net
