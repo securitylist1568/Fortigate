@@ -478,6 +478,7 @@ scan-05a.shadowserver.org
 scan-05j.shadowserver.org
 scan-17k.shadowserver.org
 scan-36e.shadowserver.org
+scan-64-8.shadowserver.org
 scan-85-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
