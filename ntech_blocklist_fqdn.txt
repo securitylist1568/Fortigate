@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124.149.216.162.bc.googleusercontent.com
+125-227-186-69.hinet-ip.hinet.net
 144.149.216.162.bc.googleusercontent.com
 148.149.216.162.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 227.210.203.35.bc.googleusercontent.com
 244.150.216.162.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
+35.150.216.162.bc.googleusercontent.com
 77.150.216.162.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
