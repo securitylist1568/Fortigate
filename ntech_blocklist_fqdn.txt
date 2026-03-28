@@ -24,6 +24,7 @@
 149.186.16.34.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
+163.150.216.162.bc.googleusercontent.com
 163.48.189.35.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 173-255-236-33.ip.linodeusercontent.com
@@ -73,6 +74,7 @@ scan-61-5.shadowserver.org
 scan-66-1.shadowserver.org
 scan-73-06.shadowserver.org
 scan-81-7.shadowserver.org
+scan-82-4.shadowserver.org
 scan-83-4.shadowserver.org
 scan-83-5.shadowserver.org
 scan-88-9.shadowserver.org
