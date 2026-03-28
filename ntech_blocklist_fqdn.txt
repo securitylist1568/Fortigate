@@ -58,10 +58,12 @@ scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
 scan-02k.shadowserver.org
 scan-02n.shadowserver.org
 scan-08d.shadowserver.org
+scan-09m.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-13.shadowserver.org
 scan-63-2.shadowserver.org
 smtp1.telemach.net
+static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.216.232.47.78.clients.your-server.de
 users219.vip.heteml.jp
