@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-105.211.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,18 +22,15 @@
 136.211.203.35.bc.googleusercontent.com
 145.210.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
-163.48.189.35.bc.googleusercontent.com
 177.249.60.85-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 22.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
-249.210.203.35.bc.googleusercontent.com
 253.210.203.35.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
-54.94.177.195.in-addr.arpa
 7.210.203.35.bc.googleusercontent.com
 86.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
