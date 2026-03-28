@@ -18,9 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-120.149.216.162.bc.googleusercontent.com
-136.149.216.162.bc.googleusercontent.com
 149.186.16.34.bc.googleusercontent.com
+16.150.216.162.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 163.48.189.35.bc.googleusercontent.com
 173-255-236-33.ip.linodeusercontent.com
@@ -29,7 +28,6 @@
 198-74-57-181.ip.linodeusercontent.com
 228.210.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
-246.150.216.162.bc.googleusercontent.com
 34.211.203.35.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
 45-33-64-30.ip.linodeusercontent.com
@@ -45,7 +43,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-mackie.probe.onyphe.net
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
@@ -55,16 +52,13 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
-scan-20j.shadowserver.org
 scan-44c.shadowserver.org
 scan-48h.shadowserver.org
 scan-61-5.shadowserver.org
-scan-66-1.shadowserver.org
 scan-73-06.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-4.shadowserver.org
 scan-83-4.shadowserver.org
-scan-83-5.shadowserver.org
 scan-88-9.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
