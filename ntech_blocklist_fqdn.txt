@@ -56,7 +56,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
 scan-02k.shadowserver.org
 scan-02n.shadowserver.org
 scan-08d.shadowserver.org
@@ -68,6 +67,6 @@ scan-63-2.shadowserver.org
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.216.232.47.78.clients.your-server.de
+unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 www.internet-albedo.net
