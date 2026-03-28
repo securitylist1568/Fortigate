@@ -19,9 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-213-163-193-78.sg-sin1.upcloud.host
-40.149.216.162.bc.googleusercontent.com
-79.211.203.35.bc.googleusercontent.com
 90.210.203.35.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -36,6 +33,7 @@ ec2-3-82-92-91.compute-1.amazonaws.com
 ec2-3-87-201-131.compute-1.amazonaws.com
 ec2-3-89-218-222.compute-1.amazonaws.com
 ec2-34-235-115-207.compute-1.amazonaws.com
+ec2-44-202-13-116.compute-1.amazonaws.com
 ec2-54-221-33-251.compute-1.amazonaws.com
 ec2-54-226-167-88.compute-1.amazonaws.com
 ec2-98-82-6-93.compute-1.amazonaws.com
@@ -46,11 +44,11 @@ ip29.sudolio.io
 kk-177-142.tm.net.my
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+smtp.sotrans.com.vn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
