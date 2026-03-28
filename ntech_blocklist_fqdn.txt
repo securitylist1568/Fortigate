@@ -1,6 +1,7 @@
 1-168-239-31.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 100.211.203.35.bc.googleusercontent.com
+109.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -62,7 +63,10 @@ recyber.net
 rootevidence.com
 scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
 scan-02k.shadowserver.org
+scan-08d.shadowserver.org
+scan-61-4.shadowserver.org
 scan-63-13.shadowserver.org
+scan-63-2.shadowserver.org
 scan-82-4.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
