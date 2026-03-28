@@ -19,11 +19,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-167-220-58.dynamic-ip.hinet.net
 124.149.216.162.bc.googleusercontent.com
 154.149.216.162.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
-163.48.189.35.bc.googleusercontent.com
 173-255-236-33.ip.linodeusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,7 +31,6 @@
 198-74-57-181.ip.linodeusercontent.com
 228.210.203.35.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
-240.211.203.35.bc.googleusercontent.com
 246.82.106.34.bc.googleusercontent.com
 34.211.203.35.bc.googleusercontent.com
 39.150.216.162.bc.googleusercontent.com
@@ -41,9 +40,9 @@
 45-79-191-252.ip.linodeusercontent.com
 62.150.216.162.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+broadband.actcorp.in
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -61,14 +60,8 @@ recyber.net
 rootevidence.com
 scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
 scan-02k.shadowserver.org
-scan-44c.shadowserver.org
-scan-48h.shadowserver.org
 scan-63-13.shadowserver.org
-scan-73-06.shadowserver.org
-scan-81-7.shadowserver.org
 scan-82-4.shadowserver.org
-scan-83-4.shadowserver.org
-scan-88-9.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.216.232.47.78.clients.your-server.de
