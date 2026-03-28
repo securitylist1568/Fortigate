@@ -22,6 +22,7 @@
 136.211.203.35.bc.googleusercontent.com
 145.210.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
+172.210.203.35.bc.googleusercontent.com
 177.249.60.85-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 22.149.216.162.bc.googleusercontent.com
@@ -29,8 +30,10 @@
 239.210.203.35.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 253.210.203.35.bc.googleusercontent.com
+3.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
+67.149.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 86.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
