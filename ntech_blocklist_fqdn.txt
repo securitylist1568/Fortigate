@@ -22,17 +22,13 @@
 131.150.216.162.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
-145.210.203.35.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 177.249.60.85-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
-22.149.216.162.bc.googleusercontent.com
-239.210.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 3.149.216.162.bc.googleusercontent.com
-37.150.216.162.bc.googleusercontent.com
 67.149.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 86.210.203.35.bc.googleusercontent.com
@@ -75,7 +71,6 @@ mail4.xuleriki.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-20j.shadowserver.org
