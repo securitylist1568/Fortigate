@@ -26,11 +26,13 @@
 16.150.216.162.bc.googleusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+195-154-29-51.rev.poneytelecom.eu
 197.149.216.162.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 246.82.106.34.bc.googleusercontent.com
 39.150.216.162.bc.googleusercontent.com
+44.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
@@ -54,6 +56,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
 scan-02k.shadowserver.org
+scan-02n.shadowserver.org
 scan-08d.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-13.shadowserver.org
