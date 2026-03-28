@@ -25,6 +25,7 @@
 149.186.16.34.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
+163.48.189.35.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 240.211.203.35.bc.googleusercontent.com
@@ -73,9 +74,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-20j.shadowserver.org
+scan-44c.shadowserver.org
 scan-48h.shadowserver.org
 scan-61-5.shadowserver.org
 scan-66-1.shadowserver.org
+scan-73-06.shadowserver.org
 scan-83-4.shadowserver.org
 scan-83-5.shadowserver.org
 scan-88-9.shadowserver.org
