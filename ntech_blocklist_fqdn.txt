@@ -23,6 +23,7 @@
 118-168-226-158.dynamic-ip.hinet.net
 122.150.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
+126.150.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 154.149.216.162.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
@@ -65,7 +66,9 @@ scan-47k.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-13.shadowserver.org
 scan-63-2.shadowserver.org
+scan-66-1.shadowserver.org
 scan-71-05.shadowserver.org
+scan-72-07.shadowserver.org
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
