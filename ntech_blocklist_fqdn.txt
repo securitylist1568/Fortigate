@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-149.186.16.34.bc.googleusercontent.com
 154.149.216.162.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
@@ -49,7 +48,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -60,7 +58,6 @@ scale-down-test-1748555970533-cd59fd67.mongo.ondigitalocean.com
 scan-02k.shadowserver.org
 scan-44c.shadowserver.org
 scan-48h.shadowserver.org
-scan-61-5.shadowserver.org
 scan-63-13.shadowserver.org
 scan-73-06.shadowserver.org
 scan-81-7.shadowserver.org
@@ -70,6 +67,5 @@ scan-88-9.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.216.232.47.78.clients.your-server.de
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
