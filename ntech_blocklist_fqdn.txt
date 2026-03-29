@@ -461,8 +461,15 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.unitel.com.la
+ec2-100-53-3-126.compute-1.amazonaws.com
 ec2-13-203-129-147.ap-south-1.compute.amazonaws.com
+ec2-13-222-169-249.compute-1.amazonaws.com
 ec2-3-108-17-70.ap-south-1.compute.amazonaws.com
+ec2-3-82-191-76.compute-1.amazonaws.com
+ec2-34-226-190-36.compute-1.amazonaws.com
+ec2-44-203-252-181.compute-1.amazonaws.com
+ec2-50-16-169-122.compute-1.amazonaws.com
+ec2-98-81-156-78.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.armoredvm.net
