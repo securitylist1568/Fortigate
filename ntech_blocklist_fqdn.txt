@@ -20,14 +20,13 @@
 111-250-121-152.dynamic-ip.hinet.net
 119.149.216.162.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
+166.211.203.35.bc.googleusercontent.com
 18.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-200-188-48-146.static.axtel.net
 210.129.132.34.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 56.149.216.162.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
-60-249-14-121.hinet-ip.hinet.net
 70.75.245.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -37,7 +36,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-119-8-100-155.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-forwarundation.com
 fs76eee71d.tkyc009.ap.nuro.jp
 hn.kd.ny.adsl
 hosted-by.100up.net
