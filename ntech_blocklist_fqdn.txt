@@ -40,6 +40,7 @@
 143-42-173-101.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 170-187-165-130.ip.linodeusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 172-232-15-250.ip.linodeusercontent.com
 172-232-8-247.ip.linodeusercontent.com
 172-233-221-115.ip.linodeusercontent.com
@@ -141,6 +142,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
 scan-13n.shadowserver.org
+scan-39e.shadowserver.org
 scan-48h.shadowserver.org
 scan-67-1.shadowserver.org
 seoul.scan.bufferover.run
