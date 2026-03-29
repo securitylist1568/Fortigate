@@ -48,7 +48,9 @@ scan-39m.shadowserver.org
 scan-43h.shadowserver.org
 scan-48h.shadowserver.org
 scan-67-1.shadowserver.org
+scan-82-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+v2202507270355359311.nicesrv.de
 vps-9f0ddb87.vps.ovh.ca
