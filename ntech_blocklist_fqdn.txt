@@ -17,13 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111-250-121-152.dynamic-ip.hinet.net
 119.149.216.162.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
-18.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 199.149.216.162.bc.googleusercontent.com
 210.129.132.34.bc.googleusercontent.com
@@ -43,7 +41,6 @@ ecs-119-8-100-155.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fs76eee71d.tkyc009.ap.nuro.jp
 hn.kd.ny.adsl
-hosted-by.100up.net
 hosted-by.armoredvm.net
 htb-h9b8tjwfph.htb-cloud.com
 ik1-303-11746.vs.sakura.ne.jp
@@ -73,5 +70,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.143.106.27.37.clients.your-server.de
 static.146.229.107.91.clients.your-server.de
 user-146-19-3-141.sto02.se.misaka.io
+user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vmi2719442.contaboserver.net
