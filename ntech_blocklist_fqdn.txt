@@ -22,6 +22,7 @@
 18.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200-188-48-146.static.axtel.net
+243.210.203.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 97.23.14.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -50,6 +51,7 @@ scan-13n.shadowserver.org
 scan-39e.shadowserver.org
 scan-39m.shadowserver.org
 scan-43h.shadowserver.org
+scan-56c.shadowserver.org
 scan-67-1.shadowserver.org
 scan-79-09.shadowserver.org
 scan-82-6.shadowserver.org
