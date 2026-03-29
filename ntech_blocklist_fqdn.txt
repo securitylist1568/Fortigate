@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 119.149.216.162.bc.googleusercontent.com
-121.211.203.35.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
@@ -26,7 +25,6 @@
 199.149.216.162.bc.googleusercontent.com
 210.129.132.34.bc.googleusercontent.com
 45.32.158.47.vultrusercontent.com
-56.149.216.162.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
 64-20-209-124-host.colocrossing.com
 70.75.245.35.bc.googleusercontent.com
@@ -46,7 +44,6 @@ hosted-by.armoredvm.net
 htb-h9b8tjwfph.htb-cloud.com
 ik1-303-11746.vs.sakura.ne.jp
 ip29.sudolio.io
-kk-177-142.tm.net.my
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -56,9 +53,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reg.kerseforigins.com
 scan-02n.shadowserver.org
-scan-04j.shadowserver.org
 scan-05j.shadowserver.org
-scan-13c.shadowserver.org
 scan-63-2.shadowserver.org
 scan-63-9.shadowserver.org
 scan-68-08.shadowserver.org
