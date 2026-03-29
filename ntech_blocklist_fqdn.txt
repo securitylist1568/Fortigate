@@ -53,6 +53,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-48e.shadowserver.org
 scan-86-2.shadowserver.org
 smtp.sotrans.com.vn
 smtp1.telemach.net
