@@ -86,6 +86,7 @@
 192-155-81-124.ip.linodeusercontent.com
 192-155-84-194.ip.linodeusercontent.com
 198-74-50-114.ip.linodeusercontent.com
+206.210.203.35.bc.googleusercontent.com
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 246.82.106.34.bc.googleusercontent.com
@@ -106,7 +107,7 @@
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 8.210.203.35.bc.googleusercontent.com
-91.211.203.35.bc.googleusercontent.com
+82.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 angkor.scan.bufferover.run
