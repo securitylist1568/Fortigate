@@ -59,6 +59,7 @@ scan-39m.shadowserver.org
 scan-43h.shadowserver.org
 scan-56c.shadowserver.org
 scan-59g.shadowserver.org
+scan-63-2.shadowserver.org
 scan-67-1.shadowserver.org
 scan-68-08.shadowserver.org
 scan-78-07.shadowserver.org
@@ -66,6 +67,7 @@ scan-79-09.shadowserver.org
 scan-82-6.shadowserver.org
 scan-83-7.shadowserver.org
 scan-87-9.shadowserver.org
+scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
