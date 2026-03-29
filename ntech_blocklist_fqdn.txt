@@ -121,16 +121,6 @@ dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-100-27-192-197.compute-1.amazonaws.com
-ec2-107-20-126-125.compute-1.amazonaws.com
-ec2-3-82-92-91.compute-1.amazonaws.com
-ec2-3-87-201-131.compute-1.amazonaws.com
-ec2-3-89-218-222.compute-1.amazonaws.com
-ec2-34-235-115-207.compute-1.amazonaws.com
-ec2-44-202-13-116.compute-1.amazonaws.com
-ec2-54-221-33-251.compute-1.amazonaws.com
-ec2-54-226-167-88.compute-1.amazonaws.com
-ec2-98-82-6-93.compute-1.amazonaws.com
 ecs-119-8-100-155.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
@@ -158,7 +148,6 @@ scan-48e.shadowserver.org
 scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
-smtp.sotrans.com.vn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tehran.scan.bufferover.run
