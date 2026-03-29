@@ -143,6 +143,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 salta.scan.bufferover.run
+scan-13n.shadowserver.org
 scan-43h.shadowserver.org
 scan-48e.shadowserver.org
 scan-48h.shadowserver.org
