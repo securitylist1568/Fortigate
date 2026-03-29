@@ -106,6 +106,7 @@
 74-207-253-22.ip.linodeusercontent.com
 8.210.203.35.bc.googleusercontent.com
 82.210.203.35.bc.googleusercontent.com
+97.23.14.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 angkor.scan.bufferover.run
@@ -118,6 +119,7 @@ dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
+ec2-52-13-92-39.us-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
