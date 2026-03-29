@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+200-188-48-146.static.axtel.net
 206.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
