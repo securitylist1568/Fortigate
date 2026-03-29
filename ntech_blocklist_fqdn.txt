@@ -24,6 +24,7 @@
 90.210.203.35.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
+array.living-bots.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
