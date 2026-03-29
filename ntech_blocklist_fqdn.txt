@@ -27,6 +27,7 @@ amz.unixwiz.net
 array.living-bots.net
 azpdes15jazr.stretchoid.com
 azpdesgf2q5j.stretchoid.com
+azpdss251azz.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -45,6 +46,7 @@ ecs-119-8-100-155.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-86.4vendeta.com
 ip29.ip-5-135-94.eu
 ip29.sudolio.io
 li1817-110.members.linode.com
