@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-103.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -22,7 +21,6 @@
 185-45-195-15.hostsailor.com
 90.210.203.35.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -42,7 +40,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-kk-177-142.tm.net.my
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -52,5 +49,4 @@ recyber.net
 smtp.sotrans.com.vn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
