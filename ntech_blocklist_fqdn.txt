@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 200-188-48-146.static.axtel.net
 243.210.203.35.bc.googleusercontent.com
+56.149.216.162.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 97.23.14.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -41,13 +42,11 @@ iamlikeme.com
 ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-13n.shadowserver.org
 scan-39e.shadowserver.org
 scan-39m.shadowserver.org
 scan-43h.shadowserver.org
