@@ -88,7 +88,6 @@
 206.210.203.35.bc.googleusercontent.com
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-246.82.106.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-42-25.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -98,7 +97,6 @@
 45-56-85-254.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-114-248.ip.linodeusercontent.com
-45-79-181-164.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45-79-82-114.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
@@ -108,10 +106,8 @@
 74-207-253-22.ip.linodeusercontent.com
 8.210.203.35.bc.googleusercontent.com
 82.210.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 angkor.scan.bufferover.run
-array.living-bots.net
 azpdes15jazr.stretchoid.com
 azpdesgf2q5j.stretchoid.com
 azpdss251azz.stretchoid.com
@@ -121,13 +117,11 @@ dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ecs-119-8-100-155.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
-ip29.ip-5-135-94.eu
 ip29.sudolio.io
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
@@ -141,13 +135,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 salta.scan.bufferover.run
 scan-13n.shadowserver.org
 scan-43h.shadowserver.org
 scan-48e.shadowserver.org
 scan-48h.shadowserver.org
-scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
