@@ -25,7 +25,6 @@
 185-45-195-15.hostsailor.com
 199.149.216.162.bc.googleusercontent.com
 210.129.132.34.bc.googleusercontent.com
-243.210.203.35.bc.googleusercontent.com
 45.32.158.47.vultrusercontent.com
 56.149.216.162.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
@@ -51,7 +50,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reg.kerseforigins.com
@@ -59,12 +57,9 @@ scan-02n.shadowserver.org
 scan-04j.shadowserver.org
 scan-05j.shadowserver.org
 scan-13c.shadowserver.org
-scan-56c.shadowserver.org
-scan-59g.shadowserver.org
 scan-63-2.shadowserver.org
 scan-63-9.shadowserver.org
 scan-68-08.shadowserver.org
-scan-78-07.shadowserver.org
 scan-83-7.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
