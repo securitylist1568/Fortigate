@@ -143,6 +143,8 @@ recyber.net
 salta.scan.bufferover.run
 scan-13n.shadowserver.org
 scan-39e.shadowserver.org
+scan-39m.shadowserver.org
+scan-43h.shadowserver.org
 scan-48h.shadowserver.org
 scan-67-1.shadowserver.org
 seoul.scan.bufferover.run
