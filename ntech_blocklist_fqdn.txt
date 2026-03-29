@@ -40,9 +40,11 @@ ec2-44-202-13-116.compute-1.amazonaws.com
 ec2-54-221-33-251.compute-1.amazonaws.com
 ec2-54-226-167-88.compute-1.amazonaws.com
 ec2-98-82-6-93.compute-1.amazonaws.com
+ecs-119-8-100-155.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip29.ip-5-135-94.eu
 ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
@@ -51,6 +53,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-86-2.shadowserver.org
 smtp.sotrans.com.vn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
