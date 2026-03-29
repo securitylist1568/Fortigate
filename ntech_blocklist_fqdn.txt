@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-102.211.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,10 +20,8 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 200-188-48-146.static.axtel.net
-206.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
-8.210.203.35.bc.googleusercontent.com
-82.210.203.35.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 97.23.14.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -55,4 +52,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vps-9f0ddb87.vps.ovh.ca
-www.internet-albedo.net
