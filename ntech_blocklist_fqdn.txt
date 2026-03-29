@@ -23,6 +23,7 @@
 166.211.203.35.bc.googleusercontent.com
 18.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+199.149.216.162.bc.googleusercontent.com
 210.129.132.34.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 45.32.158.47.vultrusercontent.com
@@ -52,6 +53,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+reg.kerseforigins.com
 scan-02n.shadowserver.org
 scan-04j.shadowserver.org
 scan-05j.shadowserver.org
