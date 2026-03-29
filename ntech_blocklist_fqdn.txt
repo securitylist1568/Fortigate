@@ -146,6 +146,7 @@ rootevidence.com
 salta.scan.bufferover.run
 scan-43h.shadowserver.org
 scan-48e.shadowserver.org
+scan-48h.shadowserver.org
 scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
