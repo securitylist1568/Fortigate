@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-250-121-152.dynamic-ip.hinet.net
+121.211.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 18.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -40,6 +41,7 @@ hosted-by.100up.net
 htb-h9b8tjwfph.htb-cloud.com
 iamlikeme.com
 ip29.sudolio.io
+kk-177-142.tm.net.my
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -47,6 +49,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04j.shadowserver.org
 scan-13c.shadowserver.org
 scan-39e.shadowserver.org
 scan-39m.shadowserver.org
