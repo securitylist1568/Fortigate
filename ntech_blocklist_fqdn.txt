@@ -43,7 +43,6 @@ fs76eee71d.tkyc009.ap.nuro.jp
 hn.kd.ny.adsl
 hosted-by.100up.net
 htb-h9b8tjwfph.htb-cloud.com
-iamlikeme.com
 ik1-303-11746.vs.sakura.ne.jp
 ip29.sudolio.io
 kk-177-142.tm.net.my
@@ -64,14 +63,10 @@ scan-63-2.shadowserver.org
 scan-63-9.shadowserver.org
 scan-68-08.shadowserver.org
 scan-78-07.shadowserver.org
-scan-79-09.shadowserver.org
-scan-82-6.shadowserver.org
 scan-83-7.shadowserver.org
-scan-87-9.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.146.229.107.91.clients.your-server.de
 users219.vip.heteml.jp
-v2202507270355359311.nicesrv.de
 vmi2719442.contaboserver.net
