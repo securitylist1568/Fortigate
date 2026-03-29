@@ -19,6 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-226-158.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+246.82.106.34.bc.googleusercontent.com
+45-79-181-164.ip.linodeusercontent.com
 90.210.203.35.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -46,6 +48,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 smtp.sotrans.com.vn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
