@@ -23,9 +23,7 @@
 219.178.185.34.bc.googleusercontent.com
 61-227-203-220.dynamic-ip.hinet.net
 88.24.87.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
-anuancetreatyt.eu.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -60,6 +58,4 @@ scan-80-9.shadowserver.org
 scan-82-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.14.205.168.204.clients.your-server.de
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
