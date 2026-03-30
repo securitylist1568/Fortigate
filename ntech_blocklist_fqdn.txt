@@ -46,6 +46,8 @@ scan-14j.shadowserver.org
 scan-37e.shadowserver.org
 scan-46g.shadowserver.org
 scan-47k.shadowserver.org
+scan-65-8.shadowserver.org
+scan-69-08.shadowserver.org
 scan-72-07.shadowserver.org
 smtp1.telemach.net
 static-66.99.249.49-tataidc.co.in
