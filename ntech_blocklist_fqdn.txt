@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-180127.ip-ptr.tech
 185-45-195-15.hostsailor.com
 217.43.93.34.bc.googleusercontent.com
 219.178.185.34.bc.googleusercontent.com
@@ -49,8 +48,6 @@ scan-19b.shadowserver.org
 scan-40e.shadowserver.org
 scan-44c.shadowserver.org
 scan-64-8.shadowserver.org
-scan-67-12.shadowserver.org
-scan-80-9.shadowserver.org
 scan-82-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
