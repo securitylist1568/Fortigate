@@ -25,7 +25,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dsl-187-235-62-44-dyn.prod-infinitum.com.mx
 ec2-13-222-38-67.compute-1.amazonaws.com
 ec2-3-6-135-58.ap-south-1.compute.amazonaws.com
 ec2-3-82-92-91.compute-1.amazonaws.com
@@ -37,11 +36,9 @@ ec2-98-93-19-251.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-82.4vendeta.com
 ip29.sudolio.io
 m106073077128.v4.enabler.ne.jp
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
