@@ -20,6 +20,7 @@
 185-45-195-15.hostsailor.com
 23-168-136-153.rev.circlevps.net
 36-236-171-201.dynamic-ip.hinet.net
+91-197-97-194.cloudvps.regruhosting.ru
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
