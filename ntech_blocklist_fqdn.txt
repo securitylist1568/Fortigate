@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 219.178.185.34.bc.googleusercontent.com
 61-227-203-220.dynamic-ip.hinet.net
-91-197-97-194.cloudvps.regruhosting.ru
 aim.sba-research.org
 amz.unixwiz.net
 anuancetreatyt.eu.com
@@ -37,7 +36,6 @@ ip29.sudolio.io
 ip65.ip-46-105-36.eu
 m106073077128.v4.enabler.ne.jp
 mfyabgec.musicpda.com
-node-115-187-59-168.alliancebroadband.in
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -50,8 +48,9 @@ scan-13n.shadowserver.org
 scan-14j.shadowserver.org
 scan-15i.shadowserver.org
 scan-18a.shadowserver.org
-scan-37e.shadowserver.org
-scan-47k.shadowserver.org
+scan-19b.shadowserver.org
+scan-40e.shadowserver.org
+scan-44c.shadowserver.org
 scan-64-8.shadowserver.org
 scan-65-8.shadowserver.org
 scan-67-12.shadowserver.org
