@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 217.43.93.34.bc.googleusercontent.com
 219.178.185.34.bc.googleusercontent.com
-61-227-203-220.dynamic-ip.hinet.net
 88.24.87.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -42,14 +41,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-03c.shadowserver.org
-scan-06j.shadowserver.org
 scan-08d.shadowserver.org
 scan-08g.shadowserver.org
-scan-13n.shadowserver.org
 scan-14j.shadowserver.org
 scan-15i.shadowserver.org
-scan-18a.shadowserver.org
 scan-19b.shadowserver.org
 scan-40e.shadowserver.org
 scan-44c.shadowserver.org
