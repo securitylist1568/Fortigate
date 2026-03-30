@@ -46,16 +46,13 @@ scan-03c.shadowserver.org
 scan-06j.shadowserver.org
 scan-08d.shadowserver.org
 scan-13n.shadowserver.org
-scan-14j.shadowserver.org
 scan-18a.shadowserver.org
 scan-37e.shadowserver.org
 scan-47k.shadowserver.org
 scan-65-8.shadowserver.org
 scan-69-08.shadowserver.org
-scan-72-07.shadowserver.org
 scan-75-03.shadowserver.org
 smtp1.telemach.net
-static-66.99.249.49-tataidc.co.in
 static-ip-250-192-65-202.rev.dyxnet.com
 static.14.205.168.204.clients.your-server.de
 user-170-39-227-143.sea02.us.misaka.io
