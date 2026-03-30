@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-217.43.93.34.bc.googleusercontent.com
 88.24.87.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -34,7 +33,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-82.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-mx3.mwsmtp.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
