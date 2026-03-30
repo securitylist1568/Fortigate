@@ -51,4 +51,6 @@ scan-64-8.shadowserver.org
 scan-82-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-185-209-85-233.mow01.ru.misaka.io
+user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
