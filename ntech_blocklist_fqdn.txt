@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 180127.ip-ptr.tech
 185-45-195-15.hostsailor.com
-23-168-136-153.rev.circlevps.net
 61-227-203-220.dynamic-ip.hinet.net
 91-197-97-194.cloudvps.regruhosting.ru
 aim.sba-research.org
@@ -42,10 +41,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-01a.shadowserver.org
 scan-03c.shadowserver.org
 scan-06j.shadowserver.org
-scan-08d.shadowserver.org
 scan-13n.shadowserver.org
 scan-18a.shadowserver.org
 scan-37e.shadowserver.org
@@ -58,7 +55,6 @@ scan-80-9.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.14.205.168.204.clients.your-server.de
-user-170-39-227-143.sea02.us.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
