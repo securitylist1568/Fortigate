@@ -17,8 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-130.150.216.162.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 209.150.216.162.bc.googleusercontent.com
 218.150.216.162.bc.googleusercontent.com
@@ -471,7 +469,6 @@ ec2-54-172-51-23.compute-1.amazonaws.com
 ec2-98-81-156-78.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.armoredvm.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
@@ -483,7 +480,4 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.143.106.27.37.clients.your-server.de
-user-146-19-3-141.sto02.se.misaka.io
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
