@@ -23,7 +23,6 @@
 185-45-195-15.hostsailor.com
 232.87.74.97.host.secureserver.net
 581534-winvps.com
-6.103.131.34.bc.googleusercontent.com
 60-250-140-251.hinet-ip.hinet.net
 61.199.131.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -41,11 +40,8 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r297-pr-guacu.ibys.com.br
 recyber.net
 scan-02m.shadowserver.org
-scan-10i.shadowserver.org
-scan-14j.shadowserver.org
 scan-19n.shadowserver.org
 scan-39f.shadowserver.org
 scan-39l.shadowserver.org
