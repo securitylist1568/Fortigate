@@ -59,6 +59,8 @@ azpdcs9veufw.stretchoid.com
 azpdcsadc23a.stretchoid.com
 azpdcsdho1y8.stretchoid.com
 azpdcsdts7z3.stretchoid.com
+azpdcsdw9uhb.stretchoid.com
+azpdcsisxfkj.stretchoid.com
 azpdcsj2eyuq.stretchoid.com
 azpdcske3p93.stretchoid.com
 azpdcsmatos4.stretchoid.com
@@ -112,7 +114,9 @@ azpdsg2kdw0r.stretchoid.com
 azpdsg3t1kjy.stretchoid.com
 azpdsg6xsycs.stretchoid.com
 azpdsg7bs12p.stretchoid.com
+azpdsgapg5om.stretchoid.com
 azpdsgasbofd.stretchoid.com
+azpdsgc09bng.stretchoid.com
 azpdsgd62xkd.stretchoid.com
 azpdsge3kx8i.stretchoid.com
 azpdsgfuhop6.stretchoid.com
@@ -187,8 +191,10 @@ scan-09m.shadowserver.org
 scan-11i.shadowserver.org
 scan-38f.shadowserver.org
 scan-41f.shadowserver.org
+scan-42i.shadowserver.org
 scan-67-1.shadowserver.org
 scan-80-1.shadowserver.org
+scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-224-220.iad03.us.misaka.io
