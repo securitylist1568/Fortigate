@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 219.178.185.34.bc.googleusercontent.com
-adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg0jy5ic.stretchoid.com
@@ -201,9 +200,9 @@ scan-38f.shadowserver.org
 scan-41f.shadowserver.org
 scan-42i.shadowserver.org
 scan-67-1.shadowserver.org
+scan-79-08.shadowserver.org
 scan-80-1.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
