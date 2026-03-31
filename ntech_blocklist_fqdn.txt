@@ -20,6 +20,7 @@
 121.241.162.25.static-hyd.vsnl.net.in
 162.228.93.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+232.87.74.97.host.secureserver.net
 581534-winvps.com
 60-250-140-251.hinet-ip.hinet.net
 61.199.131.34.bc.googleusercontent.com
@@ -49,6 +50,8 @@ scan-80-1.shadowserver.org
 scan-80-4.shadowserver.org
 scan-80-9.shadowserver.org
 scan-86-1.shadowserver.org
+sdvei.indonesiaexp.com
+sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
