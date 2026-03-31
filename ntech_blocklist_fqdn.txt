@@ -23,6 +23,7 @@
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
 6.103.131.34.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -39,6 +40,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60.security.ipip.net
+sdvei.indonesiaexp.com
 server.hostdel.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
