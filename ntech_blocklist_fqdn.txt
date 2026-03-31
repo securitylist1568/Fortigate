@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -42,7 +43,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01i.shadowserver.org
+scan-09m.shadowserver.org
+scan-11i.shadowserver.org
 scan-41f.shadowserver.org
+scan-67-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-224-220.iad03.us.misaka.io
