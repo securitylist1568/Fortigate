@@ -24,6 +24,7 @@
 232.87.74.97.host.secureserver.net
 6.103.131.34.bc.googleusercontent.com
 60-250-140-251.hinet-ip.hinet.net
+61.199.131.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg0jy5ic.stretchoid.com
