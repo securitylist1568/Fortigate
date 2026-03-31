@@ -48,10 +48,12 @@ scan-10i.shadowserver.org
 scan-14j.shadowserver.org
 scan-19n.shadowserver.org
 scan-39f.shadowserver.org
+scan-39l.shadowserver.org
 scan-39m.shadowserver.org
 scan-63-13.shadowserver.org
 scan-80-1.shadowserver.org
 scan-81-6.shadowserver.org
+scan-86-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
