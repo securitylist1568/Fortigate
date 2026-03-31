@@ -21,10 +21,8 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
-232.87.74.97.host.secureserver.net
 6.103.131.34.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -40,11 +38,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-39o.shadowserver.org
 scan-60.security.ipip.net
-sdvei.indonesiaexp.com
 server.hostdel.com
-sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
