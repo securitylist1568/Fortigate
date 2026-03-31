@@ -40,10 +40,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-39o.shadowserver.org
-scan-46g.shadowserver.org
 scan-60.security.ipip.net
-scan-70-04.shadowserver.org
-scan-80-9.shadowserver.org
 sdvei.indonesiaexp.com
 server.hostdel.com
 sharp.atid.cloud
