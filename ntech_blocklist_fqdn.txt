@@ -27,7 +27,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-121-37-99-24.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
@@ -38,13 +37,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-39l.shadowserver.org
 scan-39o.shadowserver.org
 scan-46g.shadowserver.org
 scan-70-04.shadowserver.org
-scan-80-4.shadowserver.org
 scan-80-9.shadowserver.org
-scan-86-1.shadowserver.org
 sdvei.indonesiaexp.com
 server.hostdel.com
 sharp.atid.cloud
