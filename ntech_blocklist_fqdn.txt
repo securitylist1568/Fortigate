@@ -316,10 +316,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
+scan-02k.shadowserver.org
 scan-06g.shadowserver.org
 scan-07d.shadowserver.org
 scan-08i.shadowserver.org
 scan-10i.shadowserver.org
+scan-19n.shadowserver.org
 scan-41m.shadowserver.org
 scan-47h.shadowserver.org
 scan-48e.shadowserver.org
