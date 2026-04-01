@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-232-120-200.dynamic.kbronet.com.tw
 144.57.129.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 220-130-33-56.hinet-ip.hinet.net
@@ -306,9 +305,7 @@ eu-02.squadexha.xyz
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip234.ip-15-235-104.net
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
