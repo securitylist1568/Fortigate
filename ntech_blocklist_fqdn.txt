@@ -316,6 +316,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
+scan-01d.shadowserver.org
 scan-02k.shadowserver.org
 scan-10i.shadowserver.org
 scan-19n.shadowserver.org
@@ -326,12 +327,14 @@ scan-48h.shadowserver.org
 scan-56n.shadowserver.org
 scan-63-9.shadowserver.org
 scan-66-1.shadowserver.org
+scan-66-6.shadowserver.org
 scan-70-04.shadowserver.org
 scan-78-06.shadowserver.org
 scan-79-08.shadowserver.org
 scan-81-6.shadowserver.org
 scan-82-4.shadowserver.org
 scan-86-1.shadowserver.org
+scan-89-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.142.9.9.176.clients.your-server.de
