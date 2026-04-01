@@ -64,5 +64,6 @@ scan-86-1.shadowserver.org
 sdvei.indonesiaexp.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
