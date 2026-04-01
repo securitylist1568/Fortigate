@@ -50,10 +50,13 @@ scan-07d.shadowserver.org
 scan-08i.shadowserver.org
 scan-13n.shadowserver.org
 scan-42f.shadowserver.org
+scan-47h.shadowserver.org
 scan-60-10.shadowserver.org
 scan-63-13.shadowserver.org
 scan-67-0.shadowserver.org
 scan-71-05.shadowserver.org
+scan-78-06.shadowserver.org
+scan-82-4.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
