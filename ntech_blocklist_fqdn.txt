@@ -20,8 +20,6 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 232.87.74.97.host.secureserver.net
-6.103.131.34.bc.googleusercontent.com
-61.199.131.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -53,7 +51,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-20j.shadowserver.org
 scan-56c.shadowserver.org
-scan-60.security.ipip.net
 scan-67-1.shadowserver.org
 scan-74-02.shadowserver.org
 scan-79-09.shadowserver.org
