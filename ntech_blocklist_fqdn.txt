@@ -21,6 +21,7 @@
 118-232-120-200.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 193-104-222-141.cust.norisab.net
+232.87.74.97.host.secureserver.net
 59-102-151-29.nty.dynamic.tbcnet.net.tw
 61.199.131.34.bc.googleusercontent.com
 aim.sba-research.org
