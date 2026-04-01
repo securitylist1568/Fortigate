@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-107-174-189-2-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -39,7 +38,6 @@ ip234.ip-15-235-104.net
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1625-135.members.linode.com
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -57,9 +55,9 @@ scan-67-0.shadowserver.org
 scan-71-05.shadowserver.org
 scan-78-06.shadowserver.org
 scan-82-4.shadowserver.org
+scan-86-1.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-trafo.kz
 users219.vip.heteml.jp
 vmi2955865.contaboserver.net
