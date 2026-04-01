@@ -31,7 +31,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-16-215-202.us-east-2.compute.amazonaws.com
-eu-02.squadexha.xyz
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -41,9 +40,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-01d.shadowserver.org
-scan-66-6.shadowserver.org
-scan-89-1.shadowserver.org
 server.comy
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
