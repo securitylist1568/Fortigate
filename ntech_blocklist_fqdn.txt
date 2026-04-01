@@ -40,7 +40,6 @@ ec2-54-172-51-23.compute-1.amazonaws.com
 ec2-54-226-186-42.compute-1.amazonaws.com
 ec2-54-242-125-209.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
