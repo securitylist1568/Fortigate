@@ -32,6 +32,8 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-16-215-202.us-east-2.compute.amazonaws.com
+ec2-3-81-230-20.compute-1.amazonaws.com
+ec2-44-202-56-60.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
