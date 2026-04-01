@@ -23,7 +23,6 @@
 220-130-33-56.hinet-ip.hinet.net
 232.87.74.97.host.secureserver.net
 59-102-151-29.nty.dynamic.tbcnet.net.tw
-61.199.131.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 aim.sba-research.org
 amz.unixwiz.net
@@ -304,7 +303,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-121-37-99-24.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -327,14 +325,12 @@ scan-47h.shadowserver.org
 scan-48e.shadowserver.org
 scan-60-10.shadowserver.org
 scan-63-9.shadowserver.org
-scan-67-0.shadowserver.org
 scan-71-05.shadowserver.org
 scan-78-06.shadowserver.org
 scan-79-08.shadowserver.org
 scan-81-6.shadowserver.org
 scan-82-4.shadowserver.org
 scan-86-1.shadowserver.org
-scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.142.9.9.176.clients.your-server.de
