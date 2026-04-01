@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+109-248-43-169.skylon.cloud
 11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -23,6 +24,7 @@
 195.225.88.222.broad.ny.ha.dynamic.163data.com.cn
 47.150.216.162.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
+80.149.216.162.bc.googleusercontent.com
 89.123.85.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -31,14 +33,23 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-174-129-147-245.compute-1.amazonaws.com
 ec2-3-16-215-202.us-east-2.compute.amazonaws.com
 ec2-3-81-230-20.compute-1.amazonaws.com
+ec2-3-87-201-131.compute-1.amazonaws.com
+ec2-3-91-176-195.compute-1.amazonaws.com
+ec2-44-201-161-32.compute-1.amazonaws.com
+ec2-44-201-180-168.compute-1.amazonaws.com
+ec2-44-201-209-19.compute-1.amazonaws.com
 ec2-44-202-56-60.compute-1.amazonaws.com
+ec2-54-163-179-109.compute-1.amazonaws.com
+ec2-98-82-6-93.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+p960236-ipxg03401koufu.yamanashi.ocn.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
