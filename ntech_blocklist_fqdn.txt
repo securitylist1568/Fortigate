@@ -22,7 +22,6 @@
 185-45-195-15.hostsailor.com
 220-130-33-56.hinet-ip.hinet.net
 232.87.74.97.host.secureserver.net
-59-102-151-29.nty.dynamic.tbcnet.net.tw
 74-50-97-90.static.hvvc.us
 aim.sba-research.org
 amz.unixwiz.net
@@ -318,19 +317,16 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
 scan-02k.shadowserver.org
-scan-06g.shadowserver.org
-scan-07d.shadowserver.org
-scan-08i.shadowserver.org
 scan-10i.shadowserver.org
 scan-19n.shadowserver.org
 scan-41m.shadowserver.org
 scan-47h.shadowserver.org
 scan-48e.shadowserver.org
-scan-60-10.shadowserver.org
+scan-48h.shadowserver.org
+scan-56n.shadowserver.org
 scan-63-9.shadowserver.org
 scan-66-1.shadowserver.org
 scan-70-04.shadowserver.org
-scan-71-05.shadowserver.org
 scan-78-06.shadowserver.org
 scan-79-08.shadowserver.org
 scan-81-6.shadowserver.org
@@ -341,5 +337,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.142.9.9.176.clients.your-server.de
 tiago.probe.onyphe.net
 users219.vip.heteml.jp
-vmi2955865.contaboserver.net
 www.internet-albedo.net
