@@ -59,6 +59,7 @@ scan-75-03.shadowserver.org
 scan-76-03.shadowserver.org
 scan-79-09.shadowserver.org
 scan-80-1.shadowserver.org
+scan-82-4.shadowserver.org
 scan-86-1.shadowserver.org
 sdvei.indonesiaexp.com
 smtp1.telemach.net
