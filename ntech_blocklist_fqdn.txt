@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
-194-195-253-86.ip.linodeusercontent.com
 6.103.131.34.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -54,6 +53,4 @@ scan-60.security.ipip.net
 sdvei.indonesiaexp.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
-user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
