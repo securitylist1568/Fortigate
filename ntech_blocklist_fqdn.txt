@@ -96,6 +96,7 @@ prod-barium-us-southeast-20.li.binaryedge.ninja
 prod-barium-us-southeast-24.li.binaryedge.ninja
 prod-barium-us-southeast-36.li.binaryedge.ninja
 prod-barium-us-southeast-44.li.binaryedge.ninja
+prod-barium-us-southeast-48.li.binaryedge.ninja
 prod-barium-us-southeast-56.li.binaryedge.ninja
 prod-barium-us-southeast-72.li.binaryedge.ninja
 prod-barium-us-southeast-8.li.binaryedge.ninja
@@ -106,6 +107,7 @@ prod-barium-us-west-54.li.binaryedge.ninja
 prod-barium-us-west-66.li.binaryedge.ninja
 prod-barium-us-west-70.li.binaryedge.ninja
 prod-barium-us-west-74.li.binaryedge.ninja
+prod-boron-nyc1-106.do.binaryedge.ninja
 prod-boron-nyc1-108.do.binaryedge.ninja
 prod-boron-nyc1-110.do.binaryedge.ninja
 prod-boron-nyc1-116.do.binaryedge.ninja
@@ -119,6 +121,7 @@ prod-boron-nyc1-68.do.binaryedge.ninja
 prod-boron-nyc1-70.do.binaryedge.ninja
 prod-boron-nyc1-84.do.binaryedge.ninja
 prod-boron-sfo2-119.do.binaryedge.ninja
+prod-boron-sfo2-125.do.binaryedge.ninja
 prod-boron-sfo2-21.do.binaryedge.ninja
 prod-boron-sfo2-27.do.binaryedge.ninja
 prod-boron-sfo2-29.do.binaryedge.ninja
@@ -150,6 +153,7 @@ prod-boron-us-west-10.li.binaryedge.ninja
 prod-boron-us-west-22.li.binaryedge.ninja
 prod-boron-us-west-26.li.binaryedge.ninja
 prod-boron-us-west-38.li.binaryedge.ninja
+prod-boron-us-west-42.li.binaryedge.ninja
 prod-boron-us-west-50.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 r4002.compute.pao1.edc.strln.net
