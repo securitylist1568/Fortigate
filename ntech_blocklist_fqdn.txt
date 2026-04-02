@@ -81,7 +81,6 @@
 173-255-223-89.ip.linodeusercontent.com
 173-255-242-196.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
-175.211.203.35.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
@@ -109,8 +108,6 @@
 53.210.203.35.bc.googleusercontent.com
 66.211.203.35.bc.googleusercontent.com
 74-207-253-22.ip.linodeusercontent.com
-86.210.203.35.bc.googleusercontent.com
-89.123.85.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 angkor.scan.bufferover.run
@@ -142,7 +139,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
 scan-39o.shadowserver.org
-scan-45c.shadowserver.org
 scan-47k.shadowserver.org
 scan-53c.shadowserver.org
 scan-63-2.shadowserver.org
@@ -154,6 +150,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thebes.scan.bufferover.run
 ur.scan.bufferover.run
-user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
