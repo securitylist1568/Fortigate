@@ -23,7 +23,9 @@
 148.150.216.162.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
+17.149.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
+183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.210.203.35.bc.googleusercontent.com
 20.111.static.rdns.co.za
