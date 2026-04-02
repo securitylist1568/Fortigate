@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 113.210.203.35.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
@@ -47,7 +46,6 @@ ip126.ip-5-196-125.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-ns31430387.ip-51-195-190.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -60,7 +58,6 @@ scan-61-5.shadowserver.org
 scan-63-2.shadowserver.org
 scan-73-02.shadowserver.org
 scan-83-4.shadowserver.org
-scan-86-2.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
