@@ -103,7 +103,6 @@
 45-79-109-193.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
 45-79-98-252.ip.linodeusercontent.com
-47.150.216.162.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 66.211.203.35.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
