@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-148.150.216.162.bc.googleusercontent.com
 151.149.216.162.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
@@ -43,7 +42,6 @@ ec2-3-88-156-37.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip126.ip-5-196-125.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 p562043-ipngnfx01sizuokaden.shizuoka.ocn.ne.jp
@@ -52,16 +50,13 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01a.shadowserver.org
-scan-04i.shadowserver.org
 scan-08c.shadowserver.org
 scan-15k.shadowserver.org
 scan-18a.shadowserver.org
 scan-37o.shadowserver.org
 scan-44c.shadowserver.org
 scan-53c.shadowserver.org
-scan-61-5.shadowserver.org
 scan-71-09.shadowserver.org
-scan-73-02.shadowserver.org
 scan-79-08.shadowserver.org
 scan-83-7.shadowserver.org
 scan-87-7.shadowserver.org
