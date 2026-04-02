@@ -142,7 +142,9 @@ salta.scan.bufferover.run
 scan-39o.shadowserver.org
 scan-47k.shadowserver.org
 scan-53c.shadowserver.org
+scan-61-5.shadowserver.org
 scan-63-2.shadowserver.org
+scan-73-02.shadowserver.org
 scan-83-4.shadowserver.org
 scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
