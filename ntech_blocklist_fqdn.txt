@@ -442,5 +442,6 @@ scan-68-08.shadowserver.org
 scan-78-06.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vdc.vn
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
