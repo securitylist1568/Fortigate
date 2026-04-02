@@ -38,7 +38,6 @@
 143-42-164-204.ip.linodeusercontent.com
 143-42-164-97.ip.linodeusercontent.com
 143-42-173-101.ip.linodeusercontent.com
-163.150.216.162.bc.googleusercontent.com
 170-187-165-130.ip.linodeusercontent.com
 172-232-3-17.ip.linodeusercontent.com
 172-233-221-115.ip.linodeusercontent.com
@@ -81,12 +80,9 @@
 173-255-243-63.ip.linodeusercontent.com
 175.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.149.216.162.bc.googleusercontent.com
-191.150.216.162.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 192-155-84-194.ip.linodeusercontent.com
 193-181-41-5.cust.norisab.com
-194-195-122-95.ip.linodeusercontent.com
 194.210.203.35.bc.googleusercontent.com
 20.111.static.rdns.co.za
 23-239-4-211.ip.linodeusercontent.com
@@ -245,6 +241,7 @@ recyber.net
 s4850.vps.hosting
 salta.scan.bufferover.run
 scan-45c.shadowserver.org
+scan-53c.shadowserver.org
 scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
