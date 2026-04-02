@@ -256,6 +256,7 @@ recyber.net
 s4850.vps.hosting
 salta.scan.bufferover.run
 scan-45c.shadowserver.org
+scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
