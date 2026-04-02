@@ -88,6 +88,7 @@
 193-181-41-5.cust.norisab.com
 194-195-122-95.ip.linodeusercontent.com
 194.210.203.35.bc.googleusercontent.com
+20.111.static.rdns.co.za
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 3.150.216.162.bc.googleusercontent.com
