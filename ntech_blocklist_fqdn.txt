@@ -25,6 +25,7 @@
 191.150.216.162.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
 47.150.216.162.bc.googleusercontent.com
+50-116-23-150.ip.linodeusercontent.com
 68.149.216.162.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -54,6 +55,8 @@ p960236-ipxg03401koufu.yamanashi.ocn.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r4002.compute.pao1.edc.strln.net
+r4005.compute.pao1.edc.strln.net
 recyber.net
 server.comy
 smtp1.telemach.net
