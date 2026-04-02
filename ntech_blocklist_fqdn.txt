@@ -46,6 +46,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip126.ip-5-196-125.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+p562043-ipngnfx01sizuokaden.shizuoka.ocn.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
