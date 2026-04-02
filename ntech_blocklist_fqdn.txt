@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 104-237-156-209.ip.linodeusercontent.com
-109-248-43-169.skylon.cloud
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -106,9 +105,7 @@
 45-79-98-252.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 66.211.203.35.bc.googleusercontent.com
-68.149.216.162.bc.googleusercontent.com
 74-207-253-22.ip.linodeusercontent.com
-80.149.216.162.bc.googleusercontent.com
 86.210.203.35.bc.googleusercontent.com
 89.123.85.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -125,16 +122,6 @@ cork.scan.bufferover.run
 dal215.hawkhost.com
 dns12.online.tj.cn
 dvin.scan.bufferover.run
-ec2-174-129-147-245.compute-1.amazonaws.com
-ec2-3-81-230-20.compute-1.amazonaws.com
-ec2-3-87-201-131.compute-1.amazonaws.com
-ec2-3-91-176-195.compute-1.amazonaws.com
-ec2-44-201-161-32.compute-1.amazonaws.com
-ec2-44-201-180-168.compute-1.amazonaws.com
-ec2-44-201-209-19.compute-1.amazonaws.com
-ec2-44-202-56-60.compute-1.amazonaws.com
-ec2-54-163-179-109.compute-1.amazonaws.com
-ec2-98-82-6-93.compute-1.amazonaws.com
 ecs-122-8-135-47.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
@@ -146,7 +133,6 @@ mfyabgec.musicpda.com
 mumbai.scan.bufferover.run
 ns31430387.ip-51-195-190.eu
 olous.scan.bufferover.run
-p960236-ipxg03401koufu.yamanashi.ocn.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-barium-nyc1-0.do.binaryedge.ninja
@@ -266,4 +252,3 @@ ur.scan.bufferover.run
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vancouver.scan.bufferover.run
-zhangyuan3.virtuaserver.com.br
