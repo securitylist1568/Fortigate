@@ -78,6 +78,7 @@ prod-barium-us-central-49.li.binaryedge.ninja
 prod-barium-us-central-61.li.binaryedge.ninja
 prod-barium-us-central-65.li.binaryedge.ninja
 prod-barium-us-central-69.li.binaryedge.ninja
+prod-barium-us-east-11.li.binaryedge.ninja
 prod-barium-us-east-15.li.binaryedge.ninja
 prod-barium-us-east-23.li.binaryedge.ninja
 prod-barium-us-east-27.li.binaryedge.ninja
