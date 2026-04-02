@@ -29,6 +29,7 @@
 243.210.203.35.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
+56.149.216.162.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
@@ -61,6 +62,7 @@ scan-44c.shadowserver.org
 scan-53c.shadowserver.org
 scan-68-08.shadowserver.org
 scan-71-09.shadowserver.org
+scan-78-06.shadowserver.org
 scan-79-08.shadowserver.org
 scan-83-7.shadowserver.org
 scan-87-7.shadowserver.org
