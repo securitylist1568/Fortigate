@@ -27,14 +27,11 @@
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-213-3-3.as212027.host
-194.210.203.35.bc.googleusercontent.com
-20.111.static.rdns.co.za
 239.210.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
 253.210.203.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
-53.210.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -58,7 +55,6 @@ scan-01a.shadowserver.org
 scan-04i.shadowserver.org
 scan-39o.shadowserver.org
 scan-47k.shadowserver.org
-scan-53c.shadowserver.org
 scan-61-5.shadowserver.org
 scan-63-2.shadowserver.org
 scan-71-09.shadowserver.org
