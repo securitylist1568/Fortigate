@@ -66,6 +66,7 @@ scan-39e.shadowserver.org
 scan-45o.shadowserver.org
 scan-47b.shadowserver.org
 scan-47h.shadowserver.org
+scan-71-05.shadowserver.org
 scan-81-6.shadowserver.org
 scan-82-6.shadowserver.org
 scan-83-5.shadowserver.org
