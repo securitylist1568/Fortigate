@@ -18,12 +18,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+142.14.228.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 184.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 21.210.203.35.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
+252.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -33,7 +35,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-30-98.circleone.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -42,11 +43,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-15k.shadowserver.org
-scan-19b.shadowserver.org
-scan-56n.shadowserver.org
-scan-60-12.shadowserver.org
-scan-63-13.shadowserver.org
 smtp1.telemach.net
 srv-141-98-11-51.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
