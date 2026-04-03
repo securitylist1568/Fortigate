@@ -22,13 +22,11 @@
 124.211.203.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
-154.211.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-249.210.203.35.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
-29.149.216.162.bc.googleusercontent.com
+253.211.203.35.bc.googleusercontent.com
 49-159-0-76.dynamic.elinx.com.tw
 67.150.216.162.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
@@ -40,6 +38,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -53,13 +52,11 @@ popper.ge
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-08c.shadowserver.org
-scan-08g.shadowserver.org
 scan-67-11.shadowserver.org
 scan-76-03.shadowserver.org
 scan-82-6.shadowserver.org
 scan-83-5.shadowserver.org
 scan-85-3.shadowserver.org
-scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.233.167.99.88.clients.your-server.de
