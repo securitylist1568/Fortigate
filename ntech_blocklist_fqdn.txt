@@ -22,6 +22,7 @@
 143.150.216.162.bc.googleusercontent.com
 15.210.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
+154.211.203.35.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
@@ -30,6 +31,8 @@
 200-225-203-081.xf-static.ctbcnetsuper.com.br
 23.210.203.35.bc.googleusercontent.com
 239.59.97.34.bc.googleusercontent.com
+249.210.203.35.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -64,6 +67,7 @@ scan-08g.shadowserver.org
 scan-46g.shadowserver.org
 scan-71-05.shadowserver.org
 scan-71-09.shadowserver.org
+scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vdc.vn
