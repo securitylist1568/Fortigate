@@ -19,17 +19,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
-121.150.216.162.bc.googleusercontent.com
 123-193-166-77.dynamic.kbronet.com.tw
-125.211.203.35.bc.googleusercontent.com
-133.224.247.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
-29.150.216.162.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
