@@ -22,7 +22,6 @@
 123-193-166-77.dynamic.kbronet.com.tw
 125.211.203.35.bc.googleusercontent.com
 133.224.247.35.bc.googleusercontent.com
-161.210.203.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
@@ -41,7 +40,6 @@ backend.beingmyadz.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -75,5 +73,4 @@ scan-81-6.shadowserver.org
 scan-82-4.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.233.167.99.88.clients.your-server.de
 users219.vip.heteml.jp
