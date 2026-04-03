@@ -42,6 +42,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-30-98.circleone.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -59,5 +60,6 @@ scan-85-3.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
