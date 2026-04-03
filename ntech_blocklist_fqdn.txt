@@ -18,12 +18,15 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 12.210.203.35.bc.googleusercontent.com
+138.149.216.162.bc.googleusercontent.com
 143.150.216.162.bc.googleusercontent.com
+150.211.203.35.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 195-154-43-9.rev.poneytelecom.eu
 198.211.203.35.bc.googleusercontent.com
+200-225-203-081.xf-static.ctbcnetsuper.com.br
 209.210.203.35.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
 239.59.97.34.bc.googleusercontent.com
