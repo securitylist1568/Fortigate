@@ -61,6 +61,7 @@ scan-85-3.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.233.167.99.88.clients.your-server.de
 undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
