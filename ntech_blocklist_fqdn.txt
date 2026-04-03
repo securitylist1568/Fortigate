@@ -26,10 +26,8 @@
 161.210.203.35.bc.googleusercontent.com
 173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
-253.150.216.162.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 49-159-0-76.dynamic.elinx.com.tw
-67.150.216.162.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -48,7 +46,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-30-98.circleone.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 popper.ge
