@@ -27,6 +27,7 @@
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
+229.211.203.35.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
@@ -46,6 +47,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-30-98.circleone.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 nomessageplease111.ispvds.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
