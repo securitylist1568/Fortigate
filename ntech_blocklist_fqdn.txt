@@ -54,6 +54,9 @@ popper.ge
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-08c.shadowserver.org
+scan-13n.shadowserver.org
+scan-39e.shadowserver.org
+scan-47h.shadowserver.org
 scan-67-11.shadowserver.org
 scan-76-03.shadowserver.org
 scan-82-6.shadowserver.org
