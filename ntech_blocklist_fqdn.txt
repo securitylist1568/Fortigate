@@ -24,14 +24,12 @@
 154.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195-154-43-9.rev.poneytelecom.eu
-198.211.203.35.bc.googleusercontent.com
 200-225-203-081.xf-static.ctbcnetsuper.com.br
 249.210.203.35.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 49-159-0-76.dynamic.elinx.com.tw
 67.150.216.162.bc.googleusercontent.com
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 83.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -54,7 +52,6 @@ scan-08g.shadowserver.org
 scan-46g.shadowserver.org
 scan-67-11.shadowserver.org
 scan-71-05.shadowserver.org
-scan-71-09.shadowserver.org
 scan-76-03.shadowserver.org
 scan-85-3.shadowserver.org
 scan-88-6.shadowserver.org
