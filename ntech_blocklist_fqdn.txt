@@ -30,7 +30,6 @@
 61.199.131.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 81.149.216.162.bc.googleusercontent.com
-81.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg008shw.stretchoid.com
@@ -440,10 +439,8 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip70.ip-15-235-75.net
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
