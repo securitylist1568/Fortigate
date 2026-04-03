@@ -31,9 +31,11 @@
 200-225-203-081.xf-static.ctbcnetsuper.com.br
 23.210.203.35.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
+253.150.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 61.199.131.34.bc.googleusercontent.com
+67.150.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
