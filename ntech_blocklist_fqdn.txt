@@ -21,6 +21,7 @@
 116.211.203.35.bc.googleusercontent.com
 121.150.216.162.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
+123-193-166-77.dynamic.kbronet.com.tw
 125.211.203.35.bc.googleusercontent.com
 133.224.247.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
