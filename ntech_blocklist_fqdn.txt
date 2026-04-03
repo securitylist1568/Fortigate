@@ -17,14 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-12.210.203.35.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 138.149.216.162.bc.googleusercontent.com
 15.210.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 154.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.211.203.35.bc.googleusercontent.com
 195-154-43-9.rev.poneytelecom.eu
 198.211.203.35.bc.googleusercontent.com
 200-225-203-081.xf-static.ctbcnetsuper.com.br
@@ -32,10 +30,9 @@
 253.150.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 49-159-0-76.dynamic.elinx.com.tw
-58.149.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-aim.sba-research.org
+83.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -56,6 +53,8 @@ scan-08g.shadowserver.org
 scan-46g.shadowserver.org
 scan-71-05.shadowserver.org
 scan-71-09.shadowserver.org
+scan-76-03.shadowserver.org
+scan-85-3.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
