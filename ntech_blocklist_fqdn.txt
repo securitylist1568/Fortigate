@@ -55,6 +55,7 @@ recyber.net
 scan-01a.shadowserver.org
 scan-05c.shadowserver.org
 scan-13n.shadowserver.org
+scan-15k.shadowserver.org
 scan-19b.shadowserver.org
 scan-39e.shadowserver.org
 scan-39m.shadowserver.org
@@ -62,6 +63,8 @@ scan-43h.shadowserver.org
 scan-45o.shadowserver.org
 scan-47b.shadowserver.org
 scan-47h.shadowserver.org
+scan-56n.shadowserver.org
+scan-60-12.shadowserver.org
 scan-61-0.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-13.shadowserver.org
