@@ -18,12 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
-116.211.203.35.bc.googleusercontent.com
 121.150.216.162.bc.googleusercontent.com
 123-193-166-77.dynamic.kbronet.com.tw
 125.211.203.35.bc.googleusercontent.com
 133.224.247.35.bc.googleusercontent.com
-149.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 173.red-2-136-92.staticip.rima-tde.net
@@ -37,8 +35,6 @@
 77.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdeshpm0pt.stretchoid.com
-azpdesvypur9.stretchoid.com
 azpdwsyzrjzg.stretchoid.com
 b2.org.afilias-nst.org
 backend.beingmyadz.com
@@ -49,7 +45,6 @@ ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-30-98.circleone.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
 nomessageplease111.ispvds.com
@@ -59,7 +54,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-01a.shadowserver.org
 scan-05c.shadowserver.org
-scan-08c.shadowserver.org
 scan-13n.shadowserver.org
 scan-39e.shadowserver.org
 scan-39m.shadowserver.org
@@ -76,5 +70,4 @@ scan-82-4.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.233.167.99.88.clients.your-server.de
-undefined.hostname.localhost
 users219.vip.heteml.jp
