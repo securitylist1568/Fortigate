@@ -18,8 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.211.203.35.bc.googleusercontent.com
+121.150.216.162.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
+133.224.247.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
@@ -27,6 +29,7 @@
 173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
 253.211.203.35.bc.googleusercontent.com
+29.150.216.162.bc.googleusercontent.com
 49-159-0-76.dynamic.elinx.com.tw
 7.211.203.35.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
