@@ -20,13 +20,10 @@
 115.149.216.162.bc.googleusercontent.com
 116.211.203.35.bc.googleusercontent.com
 121.150.216.162.bc.googleusercontent.com
-122.149.216.162.bc.googleusercontent.com
 123-193-166-77.dynamic.kbronet.com.tw
 125.211.203.35.bc.googleusercontent.com
 133.224.247.35.bc.googleusercontent.com
-147.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
-158.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 173.red-2-136-92.staticip.rima-tde.net
 185-45-195-15.hostsailor.com
@@ -68,11 +65,9 @@ scan-47b.shadowserver.org
 scan-47h.shadowserver.org
 scan-71-05.shadowserver.org
 scan-81-6.shadowserver.org
-scan-82-6.shadowserver.org
-scan-83-5.shadowserver.org
+scan-82-4.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.233.167.99.88.clients.your-server.de
 undefined.hostname.localhost
 users219.vip.heteml.jp
-www.internet-albedo.net
