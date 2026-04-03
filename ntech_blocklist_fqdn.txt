@@ -30,7 +30,6 @@
 198.211.203.35.bc.googleusercontent.com
 200-225-203-081.xf-static.ctbcnetsuper.com.br
 23.210.203.35.bc.googleusercontent.com
-239.59.97.34.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
@@ -70,5 +69,4 @@ scan-71-09.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vdc.vn
 users219.vip.heteml.jp
