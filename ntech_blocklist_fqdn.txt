@@ -30,6 +30,7 @@
 253.211.203.35.bc.googleusercontent.com
 49-159-0-76.dynamic.elinx.com.tw
 67.150.216.162.bc.googleusercontent.com
+7.211.203.35.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -53,6 +54,7 @@ pinkytales.com
 popper.ge
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-05c.shadowserver.org
 scan-08c.shadowserver.org
 scan-13n.shadowserver.org
 scan-39e.shadowserver.org
