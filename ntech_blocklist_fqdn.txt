@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 125.149.216.162.bc.googleusercontent.com
 142.14.228.35.bc.googleusercontent.com
-170.150.216.162.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
@@ -51,6 +50,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+microsenseindia.net
 mx3.mwsmtp.com
 nsg-corporate-150.79.186.122.airtel.in
 pc112.cses.ilc.edu.tw
@@ -58,7 +58,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02n.shadowserver.org
+scan-09n.shadowserver.org
 scan-46e.shadowserver.org
+scan-86-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
