@@ -28,8 +28,8 @@
 45-79-190-154.ip.linodeusercontent.com
 60-249-231-22.hinet-ip.hinet.net
 6682-315a.jnb01.za.misaka.io
+80.210.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
-88.24.87.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
@@ -185,19 +185,17 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-30-98.circleone.net.id
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+safwan.probe.onyphe.net
 scan-03c.shadowserver.org
 scan-05j.shadowserver.org
 scan-08c.shadowserver.org
 scan-09n.shadowserver.org
-scan-13l.shadowserver.org
-scan-17k.shadowserver.org
 scan-39e.shadowserver.org
 scan-39l.shadowserver.org
 scan-39m.shadowserver.org
@@ -206,7 +204,6 @@ scan-41f.shadowserver.org
 scan-60-12.shadowserver.org
 scan-61-0.shadowserver.org
 scan-63-8.shadowserver.org
-scan-64-8.shadowserver.org
 scan-65-8.shadowserver.org
 scan-66-6.shadowserver.org
 scan-80-1.shadowserver.org
@@ -216,5 +213,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.5.172.224.46.clients.your-server.de
 users219.vip.heteml.jp
-vmi2640677.contaboserver.net
 vmi2762876.contaboserver.net
