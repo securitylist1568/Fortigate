@@ -31,6 +31,7 @@
 58-115-51-152.twt1.com.tw
 71.150.216.162.bc.googleusercontent.com
 85.149.216.162.bc.googleusercontent.com
+88.24.87.34.bc.googleusercontent.com
 9.150.216.162.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -390,6 +391,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip143.ip-94-23-167.eu
 ip29.sudolio.io
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
