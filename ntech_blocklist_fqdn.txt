@@ -31,6 +31,7 @@
 251.211.203.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
+58.150.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -56,6 +57,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02n.shadowserver.org
+scan-46e.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
