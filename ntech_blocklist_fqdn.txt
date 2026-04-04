@@ -400,9 +400,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-17k.shadowserver.org
 scan-41m.shadowserver.org
 scan-56.security.ipip.net
 scan-58.security.ipip.net
+scan-64-8.shadowserver.org
 scan-67-11.shadowserver.org
 scan-86-2.shadowserver.org
 smtp1.telemach.net
