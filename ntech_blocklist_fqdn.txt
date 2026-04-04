@@ -19,19 +19,15 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 130.211.203.35.bc.googleusercontent.com
-135.210.203.35.bc.googleusercontent.com
 145.255.28.59.dynamic.ufanet.ru
 158.210.203.35.bc.googleusercontent.com
 163-172-100-231.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 193.210.203.35.bc.googleusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 208-115-109-226-reverse.wowrack.com
 24.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 45-79-190-154.ip.linodeusercontent.com
-60-249-231-22.hinet-ip.hinet.net
-6682-315a.jnb01.za.misaka.io
 80.210.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
@@ -220,5 +216,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.5.172.224.46.clients.your-server.de
 users219.vip.heteml.jp
-vmi2762876.contaboserver.net
 www.internet-albedo.net
