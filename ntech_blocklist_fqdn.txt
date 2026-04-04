@@ -22,6 +22,7 @@
 145.255.28.59.dynamic.ufanet.ru
 158.210.203.35.bc.googleusercontent.com
 163-172-100-231.rev.poneytelecom.eu
+175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193.210.203.35.bc.googleusercontent.com
 208-115-109-226-reverse.wowrack.com
@@ -32,6 +33,7 @@
 83.150.216.162.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
 azpdcg0e0s5m.stretchoid.com
