@@ -19,20 +19,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 130.157.16.34.bc.googleusercontent.com
 154.211.203.35.bc.googleusercontent.com
-158.210.203.35.bc.googleusercontent.com
-163-172-100-231.rev.poneytelecom.eu
 165.23.30.34.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.150.216.162.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
-208-115-109-226-reverse.wowrack.com
 22.210.203.35.bc.googleusercontent.com
-37.149.216.162.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
-83.211.203.35.bc.googleusercontent.com
-87.150.216.162.bc.googleusercontent.com
 9.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -52,7 +46,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-08i.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
@@ -60,4 +53,3 @@ user-170-39-225-147.mci01.us.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
-www.internet-albedo.net
