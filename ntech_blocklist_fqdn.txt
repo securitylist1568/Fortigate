@@ -29,6 +29,7 @@
 251.211.203.35.bc.googleusercontent.com
 39.sub-155-81-183.hanastar.net.id
 40.149.216.162.bc.googleusercontent.com
+52.149.216.162.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
 71.150.216.162.bc.googleusercontent.com
 85.149.216.162.bc.googleusercontent.com
