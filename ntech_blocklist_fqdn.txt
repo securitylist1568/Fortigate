@@ -47,13 +47,13 @@ ec2-3-87-201-131.compute-1.amazonaws.com
 ec2-3-89-105-24.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 microsenseindia.net
 mx3.mwsmtp.com
-nsg-corporate-150.79.186.122.airtel.in
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
