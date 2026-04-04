@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 193.210.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+45-79-190-154.ip.linodeusercontent.com
 60-249-231-22.hinet-ip.hinet.net
 6682-315a.jnb01.za.misaka.io
 83.150.216.162.bc.googleusercontent.com
@@ -190,6 +191,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-03c.shadowserver.org
 scan-05j.shadowserver.org
 scan-08c.shadowserver.org
@@ -198,12 +200,14 @@ scan-17k.shadowserver.org
 scan-39e.shadowserver.org
 scan-39m.shadowserver.org
 scan-40d.shadowserver.org
+scan-41f.shadowserver.org
 scan-58.security.ipip.net
 scan-60-12.shadowserver.org
 scan-61-0.shadowserver.org
 scan-63-8.shadowserver.org
 scan-64-8.shadowserver.org
 scan-66-6.shadowserver.org
+scan-80-1.shadowserver.org
 scan-80-3.shadowserver.org
 scan-85-0.shadowserver.org
 smtp1.telemach.net
