@@ -82,6 +82,7 @@ downs.probe.onyphe.net
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-30-98.circleone.net.id
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
@@ -94,9 +95,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.org
 scan-17k.shadowserver.org
+scan-39m.shadowserver.org
+scan-40d.shadowserver.org
 scan-56.security.ipip.net
 scan-58.security.ipip.net
 scan-64-8.shadowserver.org
+scan-66-6.shadowserver.org
 scan-67-11.shadowserver.org
 scan-86-2.shadowserver.org
 smtp1.telemach.net
