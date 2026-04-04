@@ -21,6 +21,7 @@
 154.211.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 163-172-100-231.rev.poneytelecom.eu
+165.23.30.34.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208-115-109-226-reverse.wowrack.com
@@ -68,5 +69,6 @@ scan-85-0.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
