@@ -31,6 +31,7 @@
 24.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 45-79-190-154.ip.linodeusercontent.com
+74.150.216.162.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 83.211.203.35.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
@@ -67,6 +68,7 @@ scan-80-1.shadowserver.org
 scan-80-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 user-209-209-59-230.lax02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
