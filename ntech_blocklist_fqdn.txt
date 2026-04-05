@@ -93,7 +93,6 @@
 173-255-242-196.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 176.65.149.232.ptr.pfcloud.network
-177-39-21-30.opendata.center
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 192-155-84-194.ip.linodeusercontent.com
@@ -129,7 +128,6 @@
 7.211.203.35.bc.googleusercontent.com
 78.210.203.35.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 angkor.scan.bufferover.run
 b2.org.afilias-nst.org
@@ -145,7 +143,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip141.ip-5-135-104.eu
 ip29.sudolio.io
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
@@ -166,7 +163,6 @@ scan-44c.shadowserver.org
 scan-58d.shadowserver.org
 scan-67-3.shadowserver.org
 scan-72-09.shadowserver.org
-scan-80-3.shadowserver.org
 scan-80-9.shadowserver.org
 scan-84-8.shadowserver.org
 scan-86-2.shadowserver.org
