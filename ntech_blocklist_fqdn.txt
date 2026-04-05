@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-102.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -24,9 +23,9 @@
 194-213-3-3.as212027.host
 20.210.203.35.bc.googleusercontent.com
 206.210.203.35.bc.googleusercontent.com
+37.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
-54.149.216.162.bc.googleusercontent.com
 58-115-51-152.twt1.com.tw
 73.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -464,6 +463,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -474,7 +474,6 @@ scan-18a.shadowserver.org
 scan-41m.shadowserver.org
 scan-42i.shadowserver.org
 scan-45g.shadowserver.org
-scan-60-10.shadowserver.org
 scan-60-12.shadowserver.org
 scan-63-8.shadowserver.org
 scan-66-1.shadowserver.org
