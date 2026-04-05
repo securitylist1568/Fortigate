@@ -161,6 +161,7 @@ scan-11i.shadowserver.org
 scan-36e.shadowserver.org
 scan-44c.shadowserver.org
 scan-58d.shadowserver.org
+scan-67-3.shadowserver.org
 scan-72-09.shadowserver.org
 scan-80-3.shadowserver.org
 scan-80-9.shadowserver.org
