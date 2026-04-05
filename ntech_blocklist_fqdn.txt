@@ -102,9 +102,8 @@
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 236.210.203.35.bc.googleusercontent.com
-236.211.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
-29.59.76.34.bc.googleusercontent.com
+4.221.147.34.bc.googleusercontent.com
 42-72-243-16.emome-ip.hinet.net
 45-33-105-182.ip.linodeusercontent.com
 45-33-105-76.ip.linodeusercontent.com
@@ -159,15 +158,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-07d.shadowserver.org
-scan-11i.shadowserver.org
 scan-36e.shadowserver.org
 scan-44c.shadowserver.org
-scan-58d.shadowserver.org
 scan-67-3.shadowserver.org
-scan-72-09.shadowserver.org
-scan-80-9.shadowserver.org
-scan-84-8.shadowserver.org
-scan-86-2.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
