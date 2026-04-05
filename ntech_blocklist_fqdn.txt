@@ -24,6 +24,7 @@
 194-213-3-3.as212027.host
 20.210.203.35.bc.googleusercontent.com
 206.210.203.35.bc.googleusercontent.com
+243.250.106.34.bc.googleusercontent.com
 37.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
@@ -475,14 +476,11 @@ scan-11i.shadowserver.org
 scan-15i.shadowserver.org
 scan-18a.shadowserver.org
 scan-41m.shadowserver.org
-scan-42i.shadowserver.org
 scan-45g.shadowserver.org
-scan-60-12.shadowserver.org
 scan-63-8.shadowserver.org
 scan-66-1.shadowserver.org
 scan-81-0.shadowserver.org
 scan-86-7.shadowserver.org
-scan-89-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
