@@ -98,12 +98,10 @@
 192-155-84-194.ip.linodeusercontent.com
 198-74-50-114.ip.linodeusercontent.com
 199.149.216.162.bc.googleusercontent.com
-199.211.203.35.bc.googleusercontent.com
 207.149.216.162.bc.googleusercontent.com
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 236.211.203.35.bc.googleusercontent.com
-242.211.203.35.bc.googleusercontent.com
 29.59.76.34.bc.googleusercontent.com
 42-72-243-16.emome-ip.hinet.net
 45-33-105-182.ip.linodeusercontent.com
@@ -128,8 +126,6 @@
 66-175-212-252.ip.linodeusercontent.com
 7.211.203.35.bc.googleusercontent.com
 78.210.203.35.bc.googleusercontent.com
-79.150.216.162.bc.googleusercontent.com
-87.149.216.162.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -143,7 +139,6 @@ client.yota.ru
 dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
-ec2-3-237-30-6.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -164,6 +159,7 @@ rootevidence.com
 scan-07d.shadowserver.org
 scan-11i.shadowserver.org
 scan-36e.shadowserver.org
+scan-44c.shadowserver.org
 scan-58d.shadowserver.org
 scan-72-09.shadowserver.org
 scan-80-3.shadowserver.org
