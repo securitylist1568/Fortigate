@@ -92,6 +92,7 @@
 173-255-223-89.ip.linodeusercontent.com
 173-255-242-196.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+174.149.216.162.bc.googleusercontent.com
 176.65.149.232.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
@@ -163,6 +164,7 @@ rootevidence.com
 scan-07d.shadowserver.org
 scan-36e.shadowserver.org
 scan-44c.shadowserver.org
+scan-66-6.shadowserver.org
 scan-67-3.shadowserver.org
 scan-89-1.shadowserver.org
 seoul.scan.bufferover.run
