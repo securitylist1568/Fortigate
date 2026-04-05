@@ -96,6 +96,7 @@
 192-155-84-194.ip.linodeusercontent.com
 198-74-50-114.ip.linodeusercontent.com
 199.211.203.35.bc.googleusercontent.com
+207.149.216.162.bc.googleusercontent.com
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 236.211.203.35.bc.googleusercontent.com
@@ -165,6 +166,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-07d.shadowserver.org
 scan-11i.shadowserver.org
 scan-36e.shadowserver.org
 scan-58d.shadowserver.org
