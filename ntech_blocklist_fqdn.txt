@@ -120,6 +120,7 @@
 45-79-98-252.ip.linodeusercontent.com
 60.150.216.162.bc.googleusercontent.com
 66-175-212-252.ip.linodeusercontent.com
+7.211.203.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
@@ -163,6 +164,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-11i.shadowserver.org
+scan-36e.shadowserver.org
 scan-58d.shadowserver.org
 scan-72-09.shadowserver.org
 scan-80-3.shadowserver.org
