@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 130.157.16.34.bc.googleusercontent.com
 165.23.30.34.bc.googleusercontent.com
+177-39-21-30.opendata.center
 185-45-195-15.hostsailor.com
 191.150.216.162.bc.googleusercontent.com
 199.211.203.35.bc.googleusercontent.com
@@ -55,6 +56,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-80-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
