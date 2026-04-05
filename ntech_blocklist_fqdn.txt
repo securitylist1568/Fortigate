@@ -49,6 +49,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-42i.shadowserver.org
+scan-45g.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-12.shadowserver.org
 scan-61-7.shadowserver.org
@@ -62,3 +63,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
+vmi3163880.contaboserver.net
