@@ -101,6 +101,7 @@
 207.149.216.162.bc.googleusercontent.com
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+236.210.203.35.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
 29.59.76.34.bc.googleusercontent.com
 42-72-243-16.emome-ip.hinet.net
@@ -136,6 +137,7 @@ baku.scan.bufferover.run
 bogota.scan.bufferover.run
 carthage.scan.bufferover.run
 client.yota.ru
+da1.renshosting.nl
 dal215.hawkhost.com
 dhaka.scan.bufferover.run
 dns12.online.tj.cn
