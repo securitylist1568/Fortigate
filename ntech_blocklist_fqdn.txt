@@ -102,6 +102,7 @@
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 236.210.203.35.bc.googleusercontent.com
+239.210.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 4.221.147.34.bc.googleusercontent.com
 42-72-243-16.emome-ip.hinet.net
@@ -125,8 +126,10 @@
 45-79-98-252.ip.linodeusercontent.com
 60.150.216.162.bc.googleusercontent.com
 66-175-212-252.ip.linodeusercontent.com
+69.210.203.35.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 78.210.203.35.bc.googleusercontent.com
+84.210.203.35.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -161,10 +164,12 @@ scan-07d.shadowserver.org
 scan-36e.shadowserver.org
 scan-44c.shadowserver.org
 scan-67-3.shadowserver.org
+scan-89-1.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 users219.vip.heteml.jp
