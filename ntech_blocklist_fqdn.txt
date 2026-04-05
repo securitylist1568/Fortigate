@@ -23,6 +23,7 @@
 191.150.216.162.bc.googleusercontent.com
 199.211.203.35.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
+236.211.203.35.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
@@ -54,7 +55,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-58d.shadowserver.org
+scan-72-09.shadowserver.org
 scan-80-3.shadowserver.org
+scan-80-9.shadowserver.org
+scan-86-2.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
