@@ -26,6 +26,7 @@
 23-92-21-204.ip.linodeusercontent.com
 243.250.106.34.bc.googleusercontent.com
 37.210.203.35.bc.googleusercontent.com
+4.221.147.34.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 45.77.110.59.vultrusercontent.com
 53.26.71.192.in-addr.arpa
