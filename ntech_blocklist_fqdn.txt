@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 176.65.149.232.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+208-115-109-226-reverse.wowrack.com
 208.100.229.8.bc.googleusercontent.com
 243.250.106.34.bc.googleusercontent.com
 97-107-129-158.ip.linodeusercontent.com
@@ -43,7 +44,9 @@ rootevidence.com
 scan-03f.shadowserver.org
 scan-13h.shadowserver.org
 scan-61-5.shadowserver.org
+scan-80-4.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
