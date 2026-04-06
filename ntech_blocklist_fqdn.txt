@@ -17,17 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-170-89-251.dynamic-ip.hinet.net
-172-104-20-14.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 219.58.cetus.link3.net
-23-92-21-204.ip.linodeusercontent.com
 243.250.106.34.bc.googleusercontent.com
 4.221.147.34.bc.googleusercontent.com
-45.77.110.59.vultrusercontent.com
-66-228-40-242.ip.linodeusercontent.com
 97-107-129-158.ip.linodeusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -52,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip141.ip-5-135-104.eu
 ip29.sudolio.io
-mail.qtgo.vn
 mfyabgec.musicpda.com
 mx3.mwsmtp.com
 no-mans-land.m247.com
@@ -61,7 +54,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scale-down-test-1774983943781-1ca8fb55.mongo.ondigitalocean.com
 scan-07e.shadowserver.org
 scan-10d.shadowserver.org
 scan-45o.shadowserver.org
