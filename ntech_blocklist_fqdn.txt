@@ -41,6 +41,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip212-227-57-38.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -56,8 +57,10 @@ scan-17k.shadowserver.org
 scan-36o.shadowserver.org
 scan-43b.shadowserver.org
 scan-45o.shadowserver.org
+scan-61-7.shadowserver.org
 scan-64-10.shadowserver.org
 scan-64-8.shadowserver.org
+scan-78-09.shadowserver.org
 scan-80-1.shadowserver.org
 scan-80-3.shadowserver.org
 scan-80-4.shadowserver.org
