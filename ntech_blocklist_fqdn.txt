@@ -44,6 +44,7 @@ azpdcg008shw.stretchoid.com
 azpdcg2knvmj.stretchoid.com
 azpdcg3yi26e.stretchoid.com
 azpdcg4vpnu2.stretchoid.com
+azpdcg5uiovm.stretchoid.com
 azpdcg5wkarh.stretchoid.com
 azpdcg737vo2.stretchoid.com
 azpdcg88l1o0.stretchoid.com
@@ -51,6 +52,7 @@ azpdcgb10807.stretchoid.com
 azpdcgcto85s.stretchoid.com
 azpdcglpqdjn.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
+azpdcgy8hmls.stretchoid.com
 azpdcs3bpo8i.stretchoid.com
 azpdcs3d1qmv.stretchoid.com
 azpdcs8bbe8z.stretchoid.com
@@ -60,6 +62,7 @@ azpdcsbu8riq.stretchoid.com
 azpdcsdho1y8.stretchoid.com
 azpdcsdn1mvh.stretchoid.com
 azpdcsiyzkq3.stretchoid.com
+azpdcskj0ffw.stretchoid.com
 azpdcsoltzol.stretchoid.com
 azpdcsqg4fq5.stretchoid.com
 azpdcswth3u0.stretchoid.com
@@ -76,6 +79,7 @@ azpdesm03aba.stretchoid.com
 azpdesm9j3w4.stretchoid.com
 azpdesqxxz9d.stretchoid.com
 azpdesxr6hyv.stretchoid.com
+azpdsg3o4gpn.stretchoid.com
 azpdsg3t1kjy.stretchoid.com
 azpdsg59c86t.stretchoid.com
 azpdsga8kzg1.stretchoid.com
@@ -104,6 +108,12 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-89-103-169.compute-1.amazonaws.com
+ec2-34-205-139-189.compute-1.amazonaws.com
+ec2-34-226-190-36.compute-1.amazonaws.com
+ec2-52-206-189-10.compute-1.amazonaws.com
+ec2-98-81-205-36.compute-1.amazonaws.com
+ec2-98-89-3-242.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
