@@ -63,6 +63,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scale-down-test-1774983943781-1ca8fb55.mongo.ondigitalocean.com
+scan-56c.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
