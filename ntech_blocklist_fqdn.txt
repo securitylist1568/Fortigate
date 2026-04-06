@@ -42,15 +42,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
-scan-01d.shadowserver.org
 scan-04j.shadowserver.org
 scan-40d.shadowserver.org
 scan-61-7.shadowserver.org
-scan-64-10.shadowserver.org
 scan-66-3.shadowserver.org
 scan-78-09.shadowserver.org
-scan-80-1.shadowserver.org
-scan-80-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
