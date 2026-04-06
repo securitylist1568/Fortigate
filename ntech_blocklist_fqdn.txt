@@ -35,7 +35,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -44,11 +43,7 @@ recyber.net
 rootevidence.com
 rping.ipip.net
 scan-04j.shadowserver.org
-scan-40d.shadowserver.org
-scan-61-7.shadowserver.org
 scan-66-3.shadowserver.org
-scan-78-09.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
