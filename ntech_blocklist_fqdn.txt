@@ -18,14 +18,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-192-184-43.dynamic.kbronet.com.tw
-138.81.139.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-45-33-74-219.ip.linodeusercontent.com
-45-79-156-54.ip.linodeusercontent.com
 50-116-54-20.ip.linodeusercontent.com
 97-107-136-89.ip.linodeusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -46,7 +41,6 @@ rootevidence.com
 rping.ipip.net
 scan-01d.shadowserver.org
 scan-04j.shadowserver.org
-scan-09n.shadowserver.org
 scan-13n.shadowserver.org
 scan-36o.shadowserver.org
 scan-40d.shadowserver.org
@@ -58,7 +52,6 @@ scan-78-09.shadowserver.org
 scan-80-1.shadowserver.org
 scan-80-3.shadowserver.org
 scan-80-9.shadowserver.org
-scan-81-0.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
