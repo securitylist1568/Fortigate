@@ -133,6 +133,7 @@ azpdwsts63ek.stretchoid.com
 azpdwsyg6tue.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler104.deepfield.net
 crawler150.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
