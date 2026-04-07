@@ -1878,3 +1878,5 @@ tnebnet.org
 web.ncf.ca
 *.web.ncf.ca
 reizs.duxiaoye.com
+auth-ictwebmailservices.framer.website
+*.framer.website
