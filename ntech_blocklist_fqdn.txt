@@ -24,7 +24,6 @@
 163.69.79.34.bc.googleusercontent.com
 180.122.148.146.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-210-71-231-7.hinet-ip.hinet.net
 210.30.140.34.bc.googleusercontent.com
 233.71.78.34.bc.googleusercontent.com
 251.212.78.34.bc.googleusercontent.com
