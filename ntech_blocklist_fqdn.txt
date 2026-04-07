@@ -36,13 +36,10 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-p1926076-ipxg00g01sizuokaden.shizuoka.ocn.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-03f.shadowserver.org
-scan-08d.shadowserver.org
 scan-15i.shadowserver.org
 scan-37o.shadowserver.org
 scan-42i.shadowserver.org
@@ -50,7 +47,6 @@ scan-47k.shadowserver.org
 scan-48e.shadowserver.org
 scan-64-10.shadowserver.org
 scan-80-4.shadowserver.org
-scan-82-6.shadowserver.org
 scan-83-4.shadowserver.org
 scan-87-0.shadowserver.org
 scan-89-1.shadowserver.org
