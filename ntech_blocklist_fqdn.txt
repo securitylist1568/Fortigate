@@ -144,6 +144,7 @@ ec2-98-81-205-36.compute-1.amazonaws.com
 ec2-98-89-3-242.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host-103-130-18-37.myrepublic.co.id
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
@@ -153,8 +154,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-01a.shadowserver.org
 scan-36e.shadowserver.org
 scan-66-1.shadowserver.org
+scan-83-4.shadowserver.org
+scan-89-5.shadowserver.org
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 teddy.probe.onyphe.net
