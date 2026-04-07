@@ -79,6 +79,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 outlet.includeswitche.com
+p1926076-ipxg00g01sizuokaden.shizuoka.ocn.ne.jp
 pc112.cses.ilc.edu.tw
 peters.probe.onyphe.net
 pinkytales.com
@@ -86,6 +87,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-01i.shadowserver.org
+scan-03f.shadowserver.org
 scan-13h.shadowserver.org
 scan-18a.shadowserver.org
 scan-40g.shadowserver.org
