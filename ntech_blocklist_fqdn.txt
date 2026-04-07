@@ -85,11 +85,15 @@ peters.probe.onyphe.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-01i.shadowserver.org
 scan-04i.shadowserver.org
+scan-13h.shadowserver.org
 scan-18a.shadowserver.org
 scan-40g.shadowserver.org
 scan-47k.shadowserver.org
 scan-63-9.shadowserver.org
+scan-83-7.shadowserver.org
 scan-84-0.shadowserver.org
 scan-85-0.shadowserver.org
 security.criminalip.com
