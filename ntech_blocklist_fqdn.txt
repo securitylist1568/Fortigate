@@ -18,12 +18,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 173.236.229.35.bc.googleusercontent.com
+176.65.149.227.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+direct.8ing.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
