@@ -80,6 +80,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 outlet.includeswitche.com
 pc112.cses.ilc.edu.tw
+peters.probe.onyphe.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -87,6 +88,7 @@ scan-04i.shadowserver.org
 scan-18a.shadowserver.org
 scan-40g.shadowserver.org
 scan-47k.shadowserver.org
+scan-63-9.shadowserver.org
 scan-84-0.shadowserver.org
 scan-85-0.shadowserver.org
 security.criminalip.com
