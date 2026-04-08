@@ -138,6 +138,8 @@ rootevidence.com
 salta.scan.bufferover.run
 scan-04i.shadowserver.org
 scan-07e.shadowserver.org
+scan-08g.shadowserver.org
+scan-13c.shadowserver.org
 scan-19b.shadowserver.org
 scan-39l.shadowserver.org
 scan-41m.shadowserver.org
