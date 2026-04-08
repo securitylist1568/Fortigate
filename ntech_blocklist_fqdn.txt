@@ -366,6 +366,7 @@ scan-47b.shadowserver.org
 scan-60-12.shadowserver.org
 scan-61-7.shadowserver.org
 scan-81-7.shadowserver.org
+scan-88-6.shadowserver.org
 scan-89-1.shadowserver.org
 security.criminalip.com
 seoul.scan.bufferover.run
