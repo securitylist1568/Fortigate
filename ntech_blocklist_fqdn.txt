@@ -264,6 +264,7 @@ scan-13c.shadowserver.org
 scan-13h.shadowserver.org
 scan-60-12.shadowserver.org
 scan-81-7.shadowserver.org
+scan-83-4.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
