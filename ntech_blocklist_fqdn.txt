@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-170-31-138.dynamic-ip.hinet.net
 139-144-239-78.ip.linodeusercontent.com
 139-144-239-98.ip.linodeusercontent.com
 143-42-0-20.ip.linodeusercontent.com
@@ -360,9 +361,11 @@ salta.scan.bufferover.run
 scan-04i.shadowserver.org
 scan-08g.shadowserver.org
 scan-13c.shadowserver.org
+scan-13h.shadowserver.org
 scan-47b.shadowserver.org
 scan-60-12.shadowserver.org
 scan-61-7.shadowserver.org
+scan-81-7.shadowserver.org
 scan-89-1.shadowserver.org
 security.criminalip.com
 seoul.scan.bufferover.run
