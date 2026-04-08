@@ -225,6 +225,7 @@ azpdwsksdeo7.stretchoid.com
 azpdwslqn776.stretchoid.com
 azpdwsmq6tyc.stretchoid.com
 azpdwsnbdf87.stretchoid.com
+azpdwsply0rt.stretchoid.com
 azpdwsq585q9.stretchoid.com
 azpdwsr3600k.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
@@ -263,6 +264,7 @@ scan-05j.shadowserver.org
 scan-08g.shadowserver.org
 scan-13c.shadowserver.org
 scan-13h.shadowserver.org
+scan-43h.shadowserver.org
 scan-60-12.shadowserver.org
 scan-81-7.shadowserver.org
 scan-82-4.shadowserver.org
