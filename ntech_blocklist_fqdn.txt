@@ -150,6 +150,7 @@ shenzhen.scan.bufferover.run
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
+syn-047-233-120-180.res.spectrum.com
 tehran.scan.bufferover.run
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
