@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 198-74-57-186.ip.linodeusercontent.com
 20.149.216.162.bc.googleusercontent.com
+34.150.216.162.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 59-127-75-88.hinet-ip.hinet.net
 60-249-14-121.hinet-ip.hinet.net
