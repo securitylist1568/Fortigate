@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-163-18-153.hinet-ip.hinet.net
 118-168-211-4.dynamic-ip.hinet.net
 162.203.106.34.bc.googleusercontent.com
 172-104-211-135.ip.linodeusercontent.com
@@ -44,7 +43,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-01a.shadowserver.org
-scan-05j.shadowserver.org
 scan-06g.shadowserver.org
 scan-13c.shadowserver.org
 scan-17k.shadowserver.org
@@ -54,9 +52,6 @@ scan-46e.shadowserver.org
 scan-63-2.shadowserver.org
 scan-64-10.shadowserver.org
 scan-78-09.shadowserver.org
-scan-82-4.shadowserver.org
-scan-83-4.shadowserver.org
-scan-86-2.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
