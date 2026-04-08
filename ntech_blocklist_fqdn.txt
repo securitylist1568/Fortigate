@@ -124,6 +124,7 @@ ec2-34-226-195-14.compute-1.amazonaws.com
 ec2-44-202-144-21.compute-1.amazonaws.com
 ec2-54-147-248-14.compute-1.amazonaws.com
 ec2-54-161-202-8.compute-1.amazonaws.com
+ecs-123-60-80-27.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 giza.scan.bufferover.run
 hn.kd.ny.adsl
@@ -151,6 +152,7 @@ scan-19b.shadowserver.org
 scan-39l.shadowserver.org
 scan-41m.shadowserver.org
 scan-47b.shadowserver.org
+scan-61-7.shadowserver.org
 scan-89-1.shadowserver.org
 security.criminalip.com
 seoul.scan.bufferover.run
