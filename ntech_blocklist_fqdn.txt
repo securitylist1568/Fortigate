@@ -18,12 +18,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-162.203.106.34.bc.googleusercontent.com
 172-104-211-135.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
 45-79-177-48.ip.linodeusercontent.com
-49-159-0-76.dynamic.elinx.com.tw
 59-127-75-88.hinet-ip.hinet.net
 aim.sba-research.org
 amz.unixwiz.net
@@ -45,7 +42,6 @@ recyber.net
 rootevidence.com
 scan-06g.shadowserver.org
 scan-13c.shadowserver.org
-scan-46e.shadowserver.org
 scan-64-10.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
