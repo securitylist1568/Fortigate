@@ -35,6 +35,7 @@
 36-227-219-46.dynamic-ip.hinet.net
 37-230-138-79.as212027.host
 45.76.148.42.vultrusercontent.com
+53.210.203.35.bc.googleusercontent.com
 66.211.203.35.bc.googleusercontent.com
 81-16-177-162.as212027.host
 91-208-92-163.as212027.host
@@ -73,6 +74,7 @@ scan-87-0.shadowserver.org
 security.criminalip.com
 server.hostdel.com
 smtp1.telemach.net
+spk.cloudie.hk
 static-ip-250-192-65-202.rev.dyxnet.com
 tp-in-f109.1e100.net
 user-146-19-3-141.sto02.se.misaka.io
