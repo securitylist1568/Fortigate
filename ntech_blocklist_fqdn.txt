@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.149.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 234.149.216.162.bc.googleusercontent.com
 53.210.203.35.bc.googleusercontent.com
@@ -37,7 +36,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 m00261.citech-bd.com
 mfyabgec.musicpda.com
 ns31430387.ip-51-195-190.eu
@@ -49,18 +47,13 @@ recyber.net
 rootevidence.com
 scan-01a.shadowserver.org
 scan-05j.shadowserver.org
-scan-15i.shadowserver.org
 scan-17k.shadowserver.org
 scan-42i.shadowserver.org
-scan-43h.shadowserver.org
-scan-55h.shadowserver.org
 scan-63-2.shadowserver.org
 scan-76-02.shadowserver.org
-scan-83-7.shadowserver.org
 scan-89-1.shadowserver.org
 smtp1.telemach.net
 spk.cloudie.hk
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
-vps-1e4ac9a4.vps.ovh.net
