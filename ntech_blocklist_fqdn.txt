@@ -23,9 +23,9 @@
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 22.210.203.35.bc.googleusercontent.com
-234.149.216.162.bc.googleusercontent.com
 24-40-229-134.fidnet.com
 34.210.203.35.bc.googleusercontent.com
+5.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
 69-164-210-205.ip.linodeusercontent.com
 79.150.216.162.bc.googleusercontent.com
@@ -375,7 +375,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-04j.shadowserver.org
-scan-05j.shadowserver.org
 scan-08i.shadowserver.org
 scan-09n.shadowserver.org
 scan-45c.shadowserver.org
