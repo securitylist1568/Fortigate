@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-33-248-148.hinet-ip.hinet.net
+134.154.121.34.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
