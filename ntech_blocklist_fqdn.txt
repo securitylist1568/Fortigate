@@ -19,10 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 134.154.121.34.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
+173-255-237-39.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 22.210.203.35.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
+45-79-183-157.ip.linodeusercontent.com
 5.210.203.35.bc.googleusercontent.com
 69-164-210-205.ip.linodeusercontent.com
 76.150.216.162.bc.googleusercontent.com
@@ -51,7 +53,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
+vmi3201810.contaboserver.net
