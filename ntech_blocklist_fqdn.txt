@@ -21,6 +21,7 @@
 168.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 234.149.216.162.bc.googleusercontent.com
+24-40-229-134.fidnet.com
 53.210.203.35.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -55,5 +56,6 @@ scan-89-1.shadowserver.org
 smtp1.telemach.net
 spk.cloudie.hk
 static-ip-250-192-65-202.rev.dyxnet.com
+syn-071-043-115-070.biz.spectrum.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
