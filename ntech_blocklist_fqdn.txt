@@ -27,8 +27,8 @@
 24-40-229-134.fidnet.com
 34.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
+69-164-210-205.ip.linodeusercontent.com
 82.150.216.162.bc.googleusercontent.com
-adsl196-245-128-217-196.adsl196-13.iam.net.ma
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
@@ -363,15 +363,14 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-m00261.citech-bd.com
 mfyabgec.musicpda.com
+moss.stanford.edu
 no-mans-land.m247.com
-ns31430387.ip-51-195-190.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-01a.shadowserver.org
+rootevidence.com
 scan-04j.shadowserver.org
 scan-05j.shadowserver.org
 scan-08i.shadowserver.org
@@ -379,7 +378,6 @@ scan-09n.shadowserver.org
 scan-45c.shadowserver.org
 scan-60-12.shadowserver.org
 scan-79-02.shadowserver.org
-scan-89-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 syn-071-043-115-070.biz.spectrum.com
