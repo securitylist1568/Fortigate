@@ -21,7 +21,6 @@
 12.211.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
-162.203.106.34.bc.googleusercontent.com
 163.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 183.149.216.162.bc.googleusercontent.com
@@ -32,10 +31,8 @@
 194-164-96-186.as212027.host
 194-213-3-30.as212027.host
 229.150.216.162.bc.googleusercontent.com
-34.150.216.162.bc.googleusercontent.com
 36-227-219-46.dynamic-ip.hinet.net
 37-230-138-79.as212027.host
-41.149.216.162.bc.googleusercontent.com
 45.76.148.42.vultrusercontent.com
 66.211.203.35.bc.googleusercontent.com
 81-16-177-162.as212027.host
