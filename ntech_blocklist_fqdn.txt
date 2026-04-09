@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-107-175-158-198-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+162.203.106.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-74-57-186.ip.linodeusercontent.com
 20.149.216.162.bc.googleusercontent.com
@@ -58,7 +58,6 @@ recyber.net
 rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
-srv-185-169-4-158.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 v160-251-222-145.mlhh.static.cnode.jp
