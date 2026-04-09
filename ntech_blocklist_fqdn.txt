@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.150.216.162.bc.googleusercontent.com
-12.211.203.35.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
@@ -47,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-mail.shegertravel.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -61,11 +59,8 @@ scan-42i.shadowserver.org
 scan-43h.shadowserver.org
 scan-55h.shadowserver.org
 scan-63-2.shadowserver.org
-scan-71-05.shadowserver.org
 scan-76-02.shadowserver.org
-scan-78-07.shadowserver.org
 scan-83-7.shadowserver.org
-scan-87-0.shadowserver.org
 server.hostdel.com
 smtp1.telemach.net
 spk.cloudie.hk
