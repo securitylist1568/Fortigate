@@ -374,6 +374,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scan-04j.shadowserver.org
 scan-08i.shadowserver.org
 scan-09n.shadowserver.org
