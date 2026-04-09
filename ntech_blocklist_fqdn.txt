@@ -25,8 +25,10 @@
 208.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
 24-40-229-134.fidnet.com
+34.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
 adsl196-245-128-217-196.adsl196-13.iam.net.ma
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
 azpdcg0t0b7l.stretchoid.com
@@ -362,6 +364,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 m00261.citech-bd.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ns31430387.ip-51-195-190.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
