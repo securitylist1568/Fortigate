@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 115.150.216.162.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
-150.211.203.35.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
 163.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
@@ -27,14 +26,11 @@
 183.149.216.162.bc.googleusercontent.com
 184.245.39.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-229.150.216.162.bc.googleusercontent.com
-36-227-219-46.dynamic-ip.hinet.net
 53.210.203.35.bc.googleusercontent.com
 66.211.203.35.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 90.149.216.162.bc.googleusercontent.com
-95.149.216.162.bc.googleusercontent.com
 adsl196-245-128-217-196.adsl196-13.iam.net.ma
 aim.sba-research.org
 amz.unixwiz.net
@@ -47,6 +43,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+m00261.citech-bd.com
 mfyabgec.musicpda.com
 ns31430387.ip-51-195-190.eu
 pc112.cses.ilc.edu.tw
@@ -65,12 +62,9 @@ scan-63-2.shadowserver.org
 scan-76-02.shadowserver.org
 scan-83-7.shadowserver.org
 scan-89-1.shadowserver.org
-server.hostdel.com
 smtp1.telemach.net
 spk.cloudie.hk
 static-ip-250-192-65-202.rev.dyxnet.com
-tp-in-f109.1e100.net
 undefined.hostname.localhost
-user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vps-1e4ac9a4.vps.ovh.net
