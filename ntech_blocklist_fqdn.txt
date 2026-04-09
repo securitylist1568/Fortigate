@@ -23,6 +23,7 @@
 159.149.216.162.bc.googleusercontent.com
 163.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
+172-104-100-28.ip.linodeusercontent.com
 183.149.216.162.bc.googleusercontent.com
 184.245.39.34.bc.googleusercontent.com
 185-206-148-43.as212027.host
@@ -61,9 +62,13 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09f.shadowserver.org
+scan-15i.shadowserver.org
+scan-43h.shadowserver.org
+scan-55h.shadowserver.org
 scan-63-9.shadowserver.org
 scan-71-05.shadowserver.org
 scan-78-07.shadowserver.org
+scan-83-7.shadowserver.org
 scan-87-0.shadowserver.org
 security.criminalip.com
 server.hostdel.com
