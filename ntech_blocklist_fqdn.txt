@@ -17,9 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+115.150.216.162.bc.googleusercontent.com
 12.211.203.35.bc.googleusercontent.com
 150.211.203.35.bc.googleusercontent.com
 162.203.106.34.bc.googleusercontent.com
+163.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 185-206-148-43.as212027.host
 185-45-195-15.hostsailor.com
@@ -32,6 +34,7 @@
 37-230-138-79.as212027.host
 41.149.216.162.bc.googleusercontent.com
 45.76.148.42.vultrusercontent.com
+66.211.203.35.bc.googleusercontent.com
 81-16-177-162.as212027.host
 91-208-92-163.as212027.host
 91-208-92-201.as212027.host
