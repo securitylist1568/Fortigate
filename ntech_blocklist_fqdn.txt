@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-33-248-148.hinet-ip.hinet.net
-144.149.216.162.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
@@ -27,9 +26,7 @@
 234.149.216.162.bc.googleusercontent.com
 24-40-229-134.fidnet.com
 60-248-253-79.hinet-ip.hinet.net
-90.149.216.162.bc.googleusercontent.com
 adsl196-245-128-217-196.adsl196-13.iam.net.ma
-aim.sba-research.org
 amz.unixwiz.net
 azpdcg066bqc.stretchoid.com
 azpdcg0t0b7l.stretchoid.com
@@ -370,7 +367,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-01a.shadowserver.org
 scan-04j.shadowserver.org
 scan-05j.shadowserver.org
@@ -383,5 +379,4 @@ scan-89-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 syn-071-043-115-070.biz.spectrum.com
-undefined.hostname.localhost
 users219.vip.heteml.jp
