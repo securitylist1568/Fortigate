@@ -27,6 +27,7 @@
 24-40-229-134.fidnet.com
 34.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
+82.150.216.162.bc.googleusercontent.com
 adsl196-245-128-217-196.adsl196-13.iam.net.ma
 aim.sba-research.org
 amz.unixwiz.net
