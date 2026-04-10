@@ -30,7 +30,6 @@
 215.210.203.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
-53.150.216.162.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -60,7 +59,6 @@ scan-63-9.shadowserver.org
 scan-80-4.shadowserver.org
 scan-84-0.shadowserver.org
 scan-85-3.shadowserver.org
-scan-87-7.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
