@@ -30,6 +30,7 @@
 215.210.203.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
+253.211.203.35.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -50,6 +51,7 @@ radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-04j.shadowserver.org
+scan-09n.shadowserver.org
 scan-19b.shadowserver.org
 scan-39e.shadowserver.org
 scan-39l.shadowserver.org
