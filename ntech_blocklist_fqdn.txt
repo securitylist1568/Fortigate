@@ -386,11 +386,15 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-80-204-163.compute-1.amazonaws.com
 ec2-3-81-230-20.compute-1.amazonaws.com
 ec2-3-82-92-91.compute-1.amazonaws.com
 ec2-3-86-245-199.compute-1.amazonaws.com
+ec2-3-89-105-24.compute-1.amazonaws.com
+ec2-34-201-143-237.compute-1.amazonaws.com
 ec2-44-201-164-126.compute-1.amazonaws.com
 ec2-44-201-165-173.compute-1.amazonaws.com
+ec2-44-203-192-145.compute-1.amazonaws.com
 ec2-52-207-117-184.compute-1.amazonaws.com
 ec2-52-214-239-188.eu-west-1.compute.amazonaws.com
 ec2-98-89-3-242.compute-1.amazonaws.com
