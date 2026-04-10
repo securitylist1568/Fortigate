@@ -20,6 +20,7 @@
 123-192-240-239.dynamic.kbronet.com.tw
 125.150.216.162.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
+134.154.121.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 144.211.203.35.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
@@ -37,11 +38,9 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-christine.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-16-215-202.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.blazingfast.io
@@ -54,7 +53,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rachael.probe.onyphe.net
 recyber.net
-rootevidence.com
 scan-01a.shadowserver.org
 scan-04f.shadowserver.org
 scan-04i.shadowserver.org
