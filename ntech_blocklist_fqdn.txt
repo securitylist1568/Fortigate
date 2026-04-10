@@ -62,8 +62,10 @@ rachael.probe.onyphe.net
 recyber.net
 rootevidence.com
 scan-01a.shadowserver.org
+scan-04f.shadowserver.org
 scan-17k.shadowserver.org
 scan-61-7.shadowserver.org
+scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
