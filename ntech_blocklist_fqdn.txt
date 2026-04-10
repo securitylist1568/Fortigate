@@ -18,17 +18,16 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.202.86.183.vultrusercontent.com
+151.149.216.162.bc.googleusercontent.com
 153.210.203.35.bc.googleusercontent.com
 163-172-123-3.rev.poneytelecom.eu
 172-104-10-184.ip.linodeusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
-205.94.50.34.bc.googleusercontent.com
 207.246.82.236.vultrusercontent.com
 215.210.203.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
-241.211.203.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 53.150.216.162.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
@@ -64,7 +63,6 @@ scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-tumndes.com
 user-170-39-227-143.sea02.us.misaka.io
 user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
