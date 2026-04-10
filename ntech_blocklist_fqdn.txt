@@ -31,6 +31,7 @@
 61-64-116-251-adsl-zha.static.so-net.net.tw
 66.150.216.162.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 christine.probe.onyphe.net
@@ -53,11 +54,14 @@ recyber.net
 rootevidence.com
 scan-01a.shadowserver.org
 scan-04f.shadowserver.org
+scan-12f.shadowserver.org
 scan-17k.shadowserver.org
 scan-40e.shadowserver.org
 scan-61-7.shadowserver.org
+scan-66-6.shadowserver.org
 scan-70-07.shadowserver.org
 scan-81-7.shadowserver.org
+scan-87-0.shadowserver.org
 server.hostdel.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
