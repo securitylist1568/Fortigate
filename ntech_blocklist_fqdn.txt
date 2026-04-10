@@ -27,7 +27,6 @@
 45-79-183-157.ip.linodeusercontent.com
 5.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
-69-164-210-205.ip.linodeusercontent.com
 76.150.216.162.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -51,10 +50,7 @@ host-186-3-217-69.netlife.ec
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-moss.stanford.edu
-mx3.mwsmtp.com
 ns3030379.ip-57-128-187.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
