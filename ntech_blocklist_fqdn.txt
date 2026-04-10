@@ -33,7 +33,6 @@
 45.76.148.42.vultrusercontent.com
 53.150.216.162.bc.googleusercontent.com
 61-64-116-251-adsl-zha.static.so-net.net.tw
-66.150.216.162.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -47,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-moses.probe.onyphe.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -68,6 +66,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ta-in-f108.1e100.net
 tumndes.com
-user-38-175-113-237.ist01.tr.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
