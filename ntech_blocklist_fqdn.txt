@@ -21,11 +21,12 @@
 130.211.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 144.202.71.188.vultrusercontent.com
+144.211.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 173-255-237-39.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-229.149.216.162.bc.googleusercontent.com
 45-79-183-157.ip.linodeusercontent.com
+45.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
 66.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
@@ -50,7 +51,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.blazingfast.io
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip29.sudolio.io
 mfyabgec.musicpda.com
 moses.probe.onyphe.net
@@ -65,11 +65,11 @@ scan-01a.shadowserver.org
 scan-04f.shadowserver.org
 scan-17k.shadowserver.org
 scan-61-7.shadowserver.org
+scan-70-07.shadowserver.org
 scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-undefined.hostname.localhost
 user-38-175-113-237.ist01.tr.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
