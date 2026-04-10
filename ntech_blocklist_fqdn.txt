@@ -54,6 +54,7 @@ rootevidence.com
 scan-01a.shadowserver.org
 scan-04f.shadowserver.org
 scan-17k.shadowserver.org
+scan-40e.shadowserver.org
 scan-61-7.shadowserver.org
 scan-70-07.shadowserver.org
 scan-81-7.shadowserver.org
