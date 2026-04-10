@@ -57,6 +57,7 @@ recyber.net
 rootevidence.com
 scan-01a.shadowserver.org
 scan-04f.shadowserver.org
+scan-04i.shadowserver.org
 scan-12f.shadowserver.org
 scan-17k.shadowserver.org
 scan-40e.shadowserver.org
