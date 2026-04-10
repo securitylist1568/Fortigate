@@ -28,6 +28,7 @@
 45-79-183-157.ip.linodeusercontent.com
 45.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
+61-64-116-251-adsl-zha.static.so-net.net.tw
 66.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -68,6 +69,7 @@ scan-61-7.shadowserver.org
 scan-70-07.shadowserver.org
 scan-81-7.shadowserver.org
 security.criminalip.com
+server.hostdel.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-38-175-113-237.ist01.tr.misaka.io
