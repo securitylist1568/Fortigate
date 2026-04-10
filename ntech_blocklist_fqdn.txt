@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 123-192-240-239.dynamic.kbronet.com.tw
-134.154.121.34.bc.googleusercontent.com
 144.202.71.188.vultrusercontent.com
 160.149.216.162.bc.googleusercontent.com
 173-255-237-39.ip.linodeusercontent.com
@@ -26,6 +25,7 @@
 229.149.216.162.bc.googleusercontent.com
 45-79-183-157.ip.linodeusercontent.com
 60-248-253-79.hinet-ip.hinet.net
+66.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -46,7 +46,6 @@ ec2-54-167-7-167.compute-1.amazonaws.com
 ec2-98-81-221-8.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-186-3-217-69.netlife.ec
 hosted-by.blazingfast.io
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
