@@ -22,7 +22,9 @@
 157.211.203.35.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+190.211.203.35.bc.googleusercontent.com
 205.94.50.34.bc.googleusercontent.com
+224.149.216.162.bc.googleusercontent.com
 228.211.203.35.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
@@ -51,11 +53,15 @@ radamelfalcao.xyz
 recyber.net
 scan-04i.shadowserver.org
 scan-12f.shadowserver.org
+scan-19b.shadowserver.org
+scan-39l.shadowserver.org
 scan-40e.shadowserver.org
 scan-66-6.shadowserver.org
+scan-80-4.shadowserver.org
 scan-85-3.shadowserver.org
 scan-87-0.shadowserver.org
 scan-87-7.shadowserver.org
+scan-88-6.shadowserver.org
 security.criminalip.com
 server.hostdel.com
 smtp1.telemach.net
