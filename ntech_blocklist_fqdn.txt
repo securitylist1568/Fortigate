@@ -17,14 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-192-240-239.dynamic.kbronet.com.tw
 125.150.216.162.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 134.154.121.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 144.211.203.35.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
-160.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.94.50.34.bc.googleusercontent.com
@@ -45,7 +43,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.blazingfast.io
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -55,11 +52,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rachael.probe.onyphe.net
 recyber.net
-scan-01a.shadowserver.org
 scan-04f.shadowserver.org
 scan-04i.shadowserver.org
 scan-12f.shadowserver.org
-scan-17k.shadowserver.org
 scan-40e.shadowserver.org
 scan-61-7.shadowserver.org
 scan-66-6.shadowserver.org
