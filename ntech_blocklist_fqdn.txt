@@ -33,6 +33,7 @@
 45.76.148.42.vultrusercontent.com
 53.150.216.162.bc.googleusercontent.com
 61-64-116-251-adsl-zha.static.so-net.net.tw
+62.149.216.162.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
