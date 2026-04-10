@@ -70,6 +70,7 @@ server.hostdel.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ta-in-f108.1e100.net
+tumndes.com
 user-38-175-113-237.ist01.tr.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
