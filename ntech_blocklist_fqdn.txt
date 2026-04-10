@@ -24,14 +24,11 @@
 144.211.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
-173-255-237-39.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-45-79-183-157.ip.linodeusercontent.com
 45.210.203.35.bc.googleusercontent.com
 60-248-253-79.hinet-ip.hinet.net
 61-64-116-251-adsl-zha.static.so-net.net.tw
 66.150.216.162.bc.googleusercontent.com
-76.150.216.162.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -40,16 +37,7 @@ christine.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-100-48-87-238.compute-1.amazonaws.com
-ec2-23-22-5-218.compute-1.amazonaws.com
 ec2-3-16-215-202.us-east-2.compute.amazonaws.com
-ec2-3-89-105-24.compute-1.amazonaws.com
-ec2-34-238-124-103.compute-1.amazonaws.com
-ec2-35-171-23-150.compute-1.amazonaws.com
-ec2-44-202-144-21.compute-1.amazonaws.com
-ec2-52-206-189-10.compute-1.amazonaws.com
-ec2-54-167-7-167.compute-1.amazonaws.com
-ec2-98-81-221-8.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.blazingfast.io
@@ -70,7 +58,6 @@ scan-17k.shadowserver.org
 scan-61-7.shadowserver.org
 scan-70-07.shadowserver.org
 scan-81-7.shadowserver.org
-security.criminalip.com
 server.hostdel.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -79,4 +66,3 @@ user-38-175-113-237.ist01.tr.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vm03.efx.ro
-vmi3201810.contaboserver.net
