@@ -62,6 +62,7 @@ scan-70-07.shadowserver.org
 scan-81-7.shadowserver.org
 scan-87-0.shadowserver.org
 scan-87-7.shadowserver.org
+security.criminalip.com
 server.hostdel.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
