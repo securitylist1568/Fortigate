@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 149.28.123.146.vultrusercontent.com
 150.211.203.35.bc.googleusercontent.com
+173.149.216.162.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
@@ -26,6 +27,7 @@
 228.211.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 246.142.97.34.bc.googleusercontent.com
+26.149.216.162.bc.googleusercontent.com
 39.150.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
@@ -44,6 +46,7 @@ dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-113-46.4vendeta.com
 ip29.sudolio.io
@@ -64,6 +67,7 @@ scan-46e.shadowserver.org
 scan-59g.shadowserver.org
 scan-61-4.shadowserver.org
 scan-67-1.shadowserver.org
+scan-68-04.shadowserver.org
 scan-80-9.shadowserver.org
 scan-87-0.shadowserver.org
 smtp-3.goinbox.in
