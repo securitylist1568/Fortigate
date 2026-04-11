@@ -21,6 +21,7 @@
 111.149.216.162.bc.googleusercontent.com
 160-119-76-36.ptr.as49870.net
 181.204.201.35.bc.googleusercontent.com
+183.149.216.162.bc.googleusercontent.com
 185-206-148-43.as212027.host
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
@@ -230,6 +231,7 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 huff.probe.onyphe.net
+ip-113-46.4vendeta.com
 ip29.sudolio.io
 leach.probe.onyphe.net
 li1873-236.members.linode.com
