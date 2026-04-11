@@ -22,7 +22,6 @@
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
-224.210.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
 39.150.216.162.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 51.211.203.35.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
-99.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
