@@ -54,6 +54,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-02m.shadowserver.org
 scan-12f.shadowserver.org
 scan-42f.shadowserver.org
 scan-55h.shadowserver.org
