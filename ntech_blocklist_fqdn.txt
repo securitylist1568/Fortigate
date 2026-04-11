@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118.211.203.35.bc.googleusercontent.com
 158.71.30.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
@@ -25,12 +24,10 @@
 204.76.203.189.ptr.pfcloud.network
 208.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
-27.150.216.162.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 74.229.232.129.reverse.xneelo.net
-90.131.228.35.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
