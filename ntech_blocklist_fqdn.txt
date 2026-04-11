@@ -55,6 +55,7 @@ scan-80-4.shadowserver.org
 scan-81-0.shadowserver.org
 scan-84-0.shadowserver.org
 smtp1.telemach.net
+srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi911693.contaboserver.net
