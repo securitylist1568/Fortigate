@@ -56,9 +56,12 @@ rootevidence.com
 scan-19b.shadowserver.org
 scan-59g.shadowserver.org
 scan-61-4.shadowserver.org
+scan-64-10.shadowserver.org
 scan-67-1.shadowserver.org
 scan-68-04.shadowserver.org
+scan-75-05.shadowserver.org
 scan-80-9.shadowserver.org
+scan-85-3.shadowserver.org
 scan-87-0.shadowserver.org
 smtp-3.goinbox.in
 smtp1.telemach.net
