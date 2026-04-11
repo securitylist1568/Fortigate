@@ -22,7 +22,6 @@
 173.149.216.162.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.210.203.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
 228.211.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
@@ -33,7 +32,6 @@
 44.210.203.35.bc.googleusercontent.com
 45.63.77.177.vultrusercontent.com
 51.210.203.35.bc.googleusercontent.com
-51.211.203.35.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -50,8 +48,6 @@ hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-113-46.4vendeta.com
 ip29.sudolio.io
-li1873-236.members.linode.com
-m28018.contaboserver.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
