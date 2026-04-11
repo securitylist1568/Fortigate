@@ -27,10 +27,8 @@
 216.150.216.162.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
-64.149.216.162.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
-74.229.232.129.reverse.xneelo.net
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -59,6 +57,6 @@ smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi911693.contaboserver.net
+vmi3002568.contaboserver.net
 vps-55abda74.vps.ovh.net
 www.internet-albedo.net
