@@ -22,7 +22,6 @@
 158.149.216.162.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-200.150.216.162.bc.googleusercontent.com
 203.149.216.162.bc.googleusercontent.com
 220-136-159-237.dynamic-ip.hinet.net
 228.211.203.35.bc.googleusercontent.com
@@ -41,7 +40,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
@@ -58,12 +56,10 @@ scan-12f.shadowserver.org
 scan-42f.shadowserver.org
 scan-55h.shadowserver.org
 scan-59g.shadowserver.org
-scan-61-4.shadowserver.org
 scan-64-10.shadowserver.org
 scan-67-1.shadowserver.org
 scan-68-04.shadowserver.org
 scan-75-05.shadowserver.org
-scan-80-9.shadowserver.org
 scan-85-3.shadowserver.org
 scan-87-0.shadowserver.org
 scan-88-6.shadowserver.org
