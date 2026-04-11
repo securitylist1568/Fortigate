@@ -24,6 +24,7 @@
 192.150.216.162.bc.googleusercontent.com
 195-154-200-243.rev.poneytelecom.eu
 203.149.216.162.bc.googleusercontent.com
+204.76.203.189.ptr.pfcloud.network
 208.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
