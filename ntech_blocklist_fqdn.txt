@@ -94,6 +94,7 @@ azpdwsj7qehb.stretchoid.com
 b2.org.afilias-nst.org
 christine.probe.onyphe.net
 client.yota.ru
+customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-80-204-163.compute-1.amazonaws.com
