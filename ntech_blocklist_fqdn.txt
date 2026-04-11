@@ -32,6 +32,7 @@
 64.149.216.162.bc.googleusercontent.com
 74.229.232.129.reverse.xneelo.net
 90.131.228.35.bc.googleusercontent.com
+adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -68,3 +69,4 @@ srv-185-169-4-158.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi911693.contaboserver.net
+www.internet-albedo.net
