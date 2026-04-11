@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 150.211.203.35.bc.googleusercontent.com
-160-119-76-36.ptr.as49870.net
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
@@ -26,7 +25,6 @@
 228.211.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 246.142.97.34.bc.googleusercontent.com
-247.150.216.162.bc.googleusercontent.com
 39.150.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
@@ -36,7 +34,6 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-christine.probe.onyphe.net
 client.yota.ru
 customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
@@ -47,7 +44,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-113-46.4vendeta.com
 ip29.sudolio.io
-leach.probe.onyphe.net
 li1873-236.members.linode.com
 m28018.contaboserver.net
 mfyabgec.musicpda.com
@@ -62,9 +58,8 @@ scan-19b.shadowserver.org
 scan-45g.shadowserver.org
 scan-46e.shadowserver.org
 scan-61-4.shadowserver.org
-scan-76-02.shadowserver.org
+scan-67-1.shadowserver.org
 scan-80-9.shadowserver.org
-scan-89-5.shadowserver.org
 smtp-3.goinbox.in
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
