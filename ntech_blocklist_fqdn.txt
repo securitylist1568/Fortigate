@@ -38,6 +38,14 @@ brandt.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-222-161-63.compute-1.amazonaws.com
+ec2-18-204-231-208.compute-1.amazonaws.com
+ec2-18-207-114-178.compute-1.amazonaws.com
+ec2-3-82-198-92.compute-1.amazonaws.com
+ec2-3-89-105-24.compute-1.amazonaws.com
+ec2-3-89-226-152.compute-1.amazonaws.com
+ec2-34-205-139-22.compute-1.amazonaws.com
+ec2-98-94-94-215.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
