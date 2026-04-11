@@ -22,6 +22,7 @@
 158.149.216.162.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+195-154-200-243.rev.poneytelecom.eu
 203.149.216.162.bc.googleusercontent.com
 220-136-159-237.dynamic-ip.hinet.net
 228.211.203.35.bc.googleusercontent.com
@@ -60,6 +61,7 @@ scan-64-10.shadowserver.org
 scan-67-1.shadowserver.org
 scan-68-04.shadowserver.org
 scan-75-05.shadowserver.org
+scan-81-0.shadowserver.org
 scan-85-3.shadowserver.org
 scan-87-0.shadowserver.org
 scan-88-6.shadowserver.org
