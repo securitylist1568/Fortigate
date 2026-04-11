@@ -395,6 +395,7 @@ ec2-52-207-117-184.compute-1.amazonaws.com
 ec2-98-89-3-242.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 huff.probe.onyphe.net
 ip29.sudolio.io
