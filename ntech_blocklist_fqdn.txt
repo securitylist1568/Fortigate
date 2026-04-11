@@ -39,6 +39,7 @@ client.yota.ru
 customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
