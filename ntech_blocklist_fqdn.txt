@@ -18,10 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.211.203.35.bc.googleusercontent.com
-149.28.123.146.vultrusercontent.com
 158.149.216.162.bc.googleusercontent.com
 158.71.30.34.bc.googleusercontent.com
-173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
 195-154-200-243.rev.poneytelecom.eu
@@ -29,10 +27,7 @@
 208.211.203.35.bc.googleusercontent.com
 220-136-159-237.dynamic-ip.hinet.net
 234.149.216.162.bc.googleusercontent.com
-26.149.216.162.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
-45.63.77.177.vultrusercontent.com
-51.210.203.35.bc.googleusercontent.com
 60-249-84-137.hinet-ip.hinet.net
 64.149.216.162.bc.googleusercontent.com
 74.229.232.129.reverse.xneelo.net
@@ -45,7 +40,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip143.ip-94-23-167.eu
 ip29.sudolio.io
@@ -55,7 +49,6 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-02m.shadowserver.org
 scan-08g.shadowserver.org
 scan-12f.shadowserver.org
@@ -63,14 +56,12 @@ scan-40g.shadowserver.org
 scan-42f.shadowserver.org
 scan-43b.shadowserver.org
 scan-55h.shadowserver.org
-scan-59g.shadowserver.org
 scan-64-10.shadowserver.org
-scan-68-04.shadowserver.org
 scan-75-05.shadowserver.org
 scan-80-4.shadowserver.org
 scan-81-0.shadowserver.org
+scan-84-0.shadowserver.org
 scan-85-3.shadowserver.org
-scan-87-0.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 srv-185-169-4-158.serveroffer.net
