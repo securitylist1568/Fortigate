@@ -47,6 +47,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
+ip143.ip-94-23-167.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -58,6 +59,7 @@ rootevidence.com
 scan-02m.shadowserver.org
 scan-12f.shadowserver.org
 scan-42f.shadowserver.org
+scan-43b.shadowserver.org
 scan-55h.shadowserver.org
 scan-59g.shadowserver.org
 scan-64-10.shadowserver.org
