@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 107-175-158-198-host.colocrossing.com
-11.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.149.216.162.bc.googleusercontent.com
+160-119-76-36.ptr.as49870.net
 181.204.201.35.bc.googleusercontent.com
 185-206-148-43.as212027.host
 185-45-195-15.hostsailor.com
@@ -27,7 +27,6 @@
 194-213-3-30.as212027.host
 216.150.216.162.bc.googleusercontent.com
 224.210.203.35.bc.googleusercontent.com
-228.210.203.35.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 233.150.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
@@ -35,9 +34,6 @@
 59.149.216.162.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
-67.150.216.162.bc.googleusercontent.com
-68.149.216.162.bc.googleusercontent.com
-77.211.203.35.bc.googleusercontent.com
 81-16-177-162.as212027.host
 91-208-92-201.as212027.host
 91-208-92-4.as212027.host
@@ -375,6 +371,7 @@ azpdwsyzrjzg.stretchoid.com
 azpdwsz7lo0b.stretchoid.com
 azpdwszagmsp.stretchoid.com
 b2.org.afilias-nst.org
+christine.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
