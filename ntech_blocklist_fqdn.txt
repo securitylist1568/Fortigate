@@ -38,7 +38,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip143.ip-94-23-167.eu
 ip29.sudolio.io
 ip5.ip-94-23-145.eu
 mfyabgec.musicpda.com
@@ -46,11 +45,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-08g.shadowserver.org
-scan-40g.shadowserver.org
-scan-43b.shadowserver.org
-scan-80-4.shadowserver.org
-scan-84-0.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
