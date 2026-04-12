@@ -29,6 +29,8 @@
 35.150.216.162.bc.googleusercontent.com
 45-33-65-238.ip.linodeusercontent.com
 45-79-159-136.ip.linodeusercontent.com
+69-164-210-20.ip.linodeusercontent.com
+69-164-212-60.ip.linodeusercontent.com
 72.150.216.162.bc.googleusercontent.com
 97-107-134-117.ip.linodeusercontent.com
 aim.sba-research.org
