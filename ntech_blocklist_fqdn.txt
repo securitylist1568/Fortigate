@@ -21,9 +21,11 @@
 118.150.216.162.bc.googleusercontent.com
 136-144-253-66.colo.transip.net
 144.202.71.188.vultrusercontent.com
+158.71.30.34.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
+200-114.vargonen.net
 203.149.216.162.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
