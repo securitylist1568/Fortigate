@@ -26,7 +26,6 @@
 37.210.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 90.131.228.35.bc.googleusercontent.com
-94-237-113-10.fi-hel1.upcloud.host
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -46,7 +45,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip5.ip-94-23-145.eu
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
