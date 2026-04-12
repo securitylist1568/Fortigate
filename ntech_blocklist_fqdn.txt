@@ -19,6 +19,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 114-44-164-50.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+23-239-13-176.ip.linodeusercontent.com
+45-33-73-167.ip.linodeusercontent.com
+45.77.110.59.vultrusercontent.com
 60-249-84-137.hinet-ip.hinet.net
 aim.sba-research.org
 amz.unixwiz.net
@@ -33,6 +36,7 @@ ec2-3-145-218-84.us-east-2.compute.amazonaws.com
 ec2-3-81-230-20.compute-1.amazonaws.com
 ec2-3-83-241-80.compute-1.amazonaws.com
 ec2-44-204-45-238.compute-1.amazonaws.com
+ec2-52-214-239-188.eu-west-1.compute.amazonaws.com
 ec2-54-163-179-109.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -44,8 +48,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 uaf.edu.pk
 unn-207-211-214-162.datapacket.com
+user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
