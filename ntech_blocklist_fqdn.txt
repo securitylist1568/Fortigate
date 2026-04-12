@@ -19,12 +19,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 120.21.229.35.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
-157.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 45-33-64-30.ip.linodeusercontent.com
 97-107-137-243.ip.linodeusercontent.com
-99.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 anycast.helium.imput.net
 b2.org.afilias-nst.org
@@ -32,7 +29,6 @@ brookes.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-142-232-119.us-east-2.compute.amazonaws.com
 ec2-3-145-218-84.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -45,7 +41,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-68-04.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
