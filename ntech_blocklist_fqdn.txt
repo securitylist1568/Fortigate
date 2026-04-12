@@ -21,7 +21,6 @@
 131.150.216.162.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-220-136-159-237.dynamic-ip.hinet.net
 45-33-64-30.ip.linodeusercontent.com
 97-107-137-243.ip.linodeusercontent.com
 99.150.216.162.bc.googleusercontent.com
@@ -40,18 +39,14 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-218.4vendeta.com
 ip29.sudolio.io
-lisbon.portugal.com
 mfyabgec.musicpda.com
 partclient.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s4850.vps.hosting
-scan-05j.shadowserver.org
 scan-68-04.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unknown.itsidc.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
