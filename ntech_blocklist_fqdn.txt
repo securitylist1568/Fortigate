@@ -54,9 +54,6 @@ recyber.net
 rootevidence.com
 s4850.vps.hosting
 scan-05j.shadowserver.org
-scan-13c.shadowserver.org
-scan-55h.shadowserver.org
-scan-60-10.shadowserver.org
 scan-68-04.shadowserver.org
 scan-89-0.shadowserver.org
 smtp1.telemach.net
