@@ -31,7 +31,6 @@
 80.210.203.35.bc.googleusercontent.com
 90.131.228.35.bc.googleusercontent.com
 94-237-113-10.fi-hel1.upcloud.host
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 brandt.probe.onyphe.net
