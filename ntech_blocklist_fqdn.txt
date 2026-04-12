@@ -39,6 +39,7 @@ bicommae.store
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-142-232-119.us-east-2.compute.amazonaws.com
 ecs-121-36-8-43.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -59,6 +60,7 @@ scan-13c.shadowserver.org
 scan-55h.shadowserver.org
 scan-60-10.shadowserver.org
 scan-64-10.shadowserver.org
+scan-68-04.shadowserver.org
 scan-71-05.shadowserver.org
 scan-76-02.shadowserver.org
 scan-86-7.shadowserver.org
