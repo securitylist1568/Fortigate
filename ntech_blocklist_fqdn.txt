@@ -26,7 +26,6 @@
 185-45-195-15.hostsailor.com
 200-114.vargonen.net
 32.223.95.34.bc.googleusercontent.com
-35.150.216.162.bc.googleusercontent.com
 45-33-65-238.ip.linodeusercontent.com
 45-79-159-136.ip.linodeusercontent.com
 69-164-210-20.ip.linodeusercontent.com
@@ -48,17 +47,13 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-nicola.probe.onyphe.net
 pc112.cses.ilc.edu.tw
-pet-soft.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-08d.shadowserver.org
-scan-12f.shadowserver.org
 scan-13c.shadowserver.org
-scan-41m.shadowserver.org
 scan-55h.shadowserver.org
 scan-60-10.shadowserver.org
 scan-64-10.shadowserver.org
@@ -69,5 +64,4 @@ scan-89-0.shadowserver.org
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
