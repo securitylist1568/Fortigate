@@ -390,6 +390,7 @@ rootevidence.com
 scan-08d.shadowserver.org
 scan-12f.shadowserver.org
 scan-41m.shadowserver.org
+scan-60-10.shadowserver.org
 scan-60.security.ipip.net
 scan-64-10.shadowserver.org
 scan-71-05.shadowserver.org
