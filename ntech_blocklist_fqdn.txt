@@ -412,6 +412,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 nicola.probe.onyphe.net
 pc112.cses.ilc.edu.tw
+pet-soft.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -428,5 +429,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-224-220.iad03.us.misaka.io
 user-170-39-227-251.sea02.us.misaka.io
 user-38-175-113-245.ist01.tr.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
