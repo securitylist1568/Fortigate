@@ -31,6 +31,8 @@
 69-164-212-60.ip.linodeusercontent.com
 72.150.216.162.bc.googleusercontent.com
 97-107-134-117.ip.linodeusercontent.com
+99.150.216.162.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
