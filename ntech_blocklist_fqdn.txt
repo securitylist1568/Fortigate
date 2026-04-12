@@ -67,4 +67,5 @@ scan-89-0.shadowserver.org
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unknown.itsidc.com
 users219.vip.heteml.jp
