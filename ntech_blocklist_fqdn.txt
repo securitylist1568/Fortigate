@@ -28,6 +28,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+customgiftsvibe.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-145-218-84.us-east-2.compute.amazonaws.com
