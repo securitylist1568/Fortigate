@@ -131,6 +131,7 @@ client.yota.ru
 customgiftsvibe.com
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
