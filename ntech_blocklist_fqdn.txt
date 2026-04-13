@@ -44,6 +44,7 @@ ec2-54-163-179-109.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip236.ip-5-135-71.eu
 ip29.sudolio.io
 ip74-208-148-36.pbiaas.com
 mfyabgec.musicpda.com
@@ -55,6 +56,7 @@ recyber.net
 rootevidence.com
 scan-01i.shadowserver.org
 scan-61-9.shadowserver.org
+scan-63-13.shadowserver.org
 scan-64-8.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
