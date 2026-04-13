@@ -33,6 +33,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-145-218-84.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip236.ip-5-135-71.eu
