@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 172-239-117-74.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
