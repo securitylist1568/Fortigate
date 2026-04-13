@@ -44,12 +44,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04i.shadowserver.org
-scan-15i.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.151.111.203.116.clients.your-server.de
 users219.vip.heteml.jp
-vmi2762876.contaboserver.net
 vmi3227606.contaboserver.net
-www.internet-albedo.net
