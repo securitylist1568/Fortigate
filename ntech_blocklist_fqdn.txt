@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 4.86.235.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
-50-116-23-150.ip.linodeusercontent.com
 87.123.222.222.broad.lf.he.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
@@ -137,7 +136,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1817-110.members.linode.com
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -148,5 +146,4 @@ recyber.net
 rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
