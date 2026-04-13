@@ -18,7 +18,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-44-164-50.dynamic-ip.hinet.net
+120.21.229.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+220-136-159-237.dynamic-ip.hinet.net
 23-239-13-176.ip.linodeusercontent.com
 45-33-73-167.ip.linodeusercontent.com
 45.77.110.59.vultrusercontent.com
@@ -43,7 +45,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-partclient.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -52,6 +53,5 @@ rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 uaf.edu.pk
-unn-207-211-214-162.datapacket.com
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
