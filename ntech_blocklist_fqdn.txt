@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 116.154.93.34.bc.googleusercontent.com
 120.21.229.35.bc.googleusercontent.com
+139.180.211.149.vultrusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 203-154-16-158.inter.net.th
