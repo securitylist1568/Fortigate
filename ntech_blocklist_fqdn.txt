@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-139.180.211.149.vultrusercontent.com
 185-45-195-15.hostsailor.com
 199.85.118.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -147,4 +146,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
