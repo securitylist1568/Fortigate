@@ -29,6 +29,7 @@ asdfgadfg.com
 azpdcgqawif3.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
@@ -47,6 +48,7 @@ scan-04i.shadowserver.org
 scan-15i.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.151.111.203.116.clients.your-server.de
 users219.vip.heteml.jp
 vmi2762876.contaboserver.net
 vmi3227606.contaboserver.net
