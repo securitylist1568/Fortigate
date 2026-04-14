@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 199.85.118.34.bc.googleusercontent.com
 204.76.203.189.ptr.pfcloud.network
@@ -55,6 +56,7 @@ scan-10g.shadowserver.org
 scan-13l.shadowserver.org
 sharp.atid.cloud
 smtp1.telemach.net
+srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.151.111.203.116.clients.your-server.de
 tammy.probe.onyphe.net
