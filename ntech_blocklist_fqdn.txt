@@ -480,7 +480,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dsl-187-235-31-143-dyn.prod-infinitum.com.mx
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
-ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
