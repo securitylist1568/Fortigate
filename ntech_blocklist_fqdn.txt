@@ -94,6 +94,7 @@
 185-45-195-15.hostsailor.com
 192-155-84-194.ip.linodeusercontent.com
 198-74-50-114.ip.linodeusercontent.com
+199.85.118.34.bc.googleusercontent.com
 220-136-157-216.dynamic-ip.hinet.net
 23-239-4-211.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
@@ -167,7 +168,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 salta.scan.bufferover.run
+scan-03f.shadowserver.org
 scan-05j.shadowserver.org
+scan-13l.shadowserver.org
 seoul.scan.bufferover.run
 shenzhen.scan.bufferover.run
 smtp1.telemach.net
