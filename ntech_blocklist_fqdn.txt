@@ -52,5 +52,6 @@ security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 tammy.probe.onyphe.net
 users219.vip.heteml.jp
