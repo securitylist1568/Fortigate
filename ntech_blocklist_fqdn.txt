@@ -479,9 +479,16 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dsl-187-235-31-143-dyn.prod-infinitum.com.mx
+ec2-100-24-47-223.compute-1.amazonaws.com
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-3-80-27-62.compute-1.amazonaws.com
+ec2-3-85-18-5.compute-1.amazonaws.com
+ec2-3-86-245-199.compute-1.amazonaws.com
+ec2-3-89-218-222.compute-1.amazonaws.com
 ec2-3-91-148-177.compute-1.amazonaws.com
+ec2-3-95-37-98.compute-1.amazonaws.com
+ec2-44-201-103-104.compute-1.amazonaws.com
+ec2-44-204-45-238.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
