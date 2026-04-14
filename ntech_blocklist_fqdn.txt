@@ -136,8 +136,10 @@ dns12.online.tj.cn
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-50.4vendeta.com
 ip141.ip-5-135-104.eu
 ip212-227-57-38.pbiaas.com
 ip236.ip-5-135-71.eu
@@ -167,6 +169,7 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.151.111.203.116.clients.your-server.de
 tehran.scan.bufferover.run
+tfk162.templeforknowledge.com
 thebes.scan.bufferover.run
 troy.scan.bufferover.run
 ur.scan.bufferover.run
