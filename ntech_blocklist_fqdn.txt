@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 104-237-156-209.ip.linodeusercontent.com
+108.236.126.216.static.cloudzy.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -116,7 +117,6 @@
 45-79-82-114.ip.linodeusercontent.com
 45-79-92-218.ip.linodeusercontent.com
 45-79-98-252.ip.linodeusercontent.com
-60-249-14-121.hinet-ip.hinet.net
 66-175-220-105.ip.linodeusercontent.com
 74-207-253-22.ip.linodeusercontent.com
 aim.sba-research.org
@@ -145,20 +145,16 @@ ip-114-50.4vendeta.com
 ip-40-130.4vendeta.com
 ip-40-178.4vendeta.com
 ip-58-162.4vendeta.com
-ip141.ip-5-135-104.eu
 ip212-227-57-38.pbiaas.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 karachi.scan.bufferover.run
 kingston.scan.bufferover.run
-li1537-121.members.linode.com
-mail.qtgo.vn
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
 mumbai.scan.bufferover.run
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
-pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
