@@ -24,10 +24,8 @@
 185-45-195-15.hostsailor.com
 193-104-222-12.cust.norisab.net
 200.51.97.34.bc.googleusercontent.com
-204.76.203.189.ptr.pfcloud.network
 220-136-157-216.dynamic-ip.hinet.net
 60-250-140-251.hinet-ip.hinet.net
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -54,5 +52,4 @@ smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
-tammy.probe.onyphe.net
 users219.vip.heteml.jp
