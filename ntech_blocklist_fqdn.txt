@@ -138,6 +138,7 @@ dns12.online.tj.cn
 ec2-13-222-129-81.compute-1.amazonaws.com
 ec2-13-222-38-67.compute-1.amazonaws.com
 ec2-18-204-231-208.compute-1.amazonaws.com
+ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-3-82-189-66.compute-1.amazonaws.com
 ec2-3-88-9-47.compute-1.amazonaws.com
 ec2-3-90-250-34.compute-1.amazonaws.com
@@ -160,6 +161,7 @@ mail.qtgo.vn
 manila.scan.bufferover.run
 mfyabgec.musicpda.com
 mumbai.scan.bufferover.run
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pinkytales.com
