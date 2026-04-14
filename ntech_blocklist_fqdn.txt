@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118.173.23.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-193-104-222-12.cust.norisab.net
 218.79.236.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -479,7 +478,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dsl-187-235-31-143-dyn.prod-infinitum.com.mx
-ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
@@ -492,10 +490,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-01a.shadowserver.org
-scan-10g.shadowserver.org
-scan-11i.shadowserver.org
-scan-12f.shadowserver.org
 security.criminalip.com
 smtp-20.cloudmark.online
 smtp1.telemach.net
