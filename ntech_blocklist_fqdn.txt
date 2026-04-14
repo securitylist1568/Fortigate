@@ -34,7 +34,6 @@ ec2-13-222-129-81.compute-1.amazonaws.com
 ec2-13-222-38-67.compute-1.amazonaws.com
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-18-204-231-208.compute-1.amazonaws.com
-ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-3-82-189-66.compute-1.amazonaws.com
 ec2-3-88-9-47.compute-1.amazonaws.com
 ec2-3-90-250-34.compute-1.amazonaws.com
@@ -51,7 +50,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip141.ip-5-135-104.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1873-236.members.linode.com
 mail.qtgo.vn
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -64,4 +62,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.151.111.203.116.clients.your-server.de
 users219.vip.heteml.jp
-vmi3227606.contaboserver.net
