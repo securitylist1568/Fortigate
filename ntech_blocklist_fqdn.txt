@@ -140,6 +140,9 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-50.4vendeta.com
+ip-40-130.4vendeta.com
+ip-40-178.4vendeta.com
+ip-58-162.4vendeta.com
 ip141.ip-5-135-104.eu
 ip212-227-57-38.pbiaas.com
 ip236.ip-5-135-71.eu
