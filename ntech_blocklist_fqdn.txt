@@ -21,6 +21,7 @@
 118.173.23.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 218.79.236.35.bc.googleusercontent.com
+28-65-42-100-dedicated.multacom.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg008shw.stretchoid.com
@@ -496,5 +497,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.151.111.203.116.clients.your-server.de
 static.vnpt.vn
+trafo.kz
 users219.vip.heteml.jp
 www.internet-albedo.net
