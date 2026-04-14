@@ -19,13 +19,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 172-239-117-36.ip.linodeusercontent.com
-172-239-117-74.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 220-136-157-216.dynamic-ip.hinet.net
 60-249-14-121.hinet-ip.hinet.net
-89.121.26.185.hostland.ru
 abts-north-dynamic-211.193.66.182.airtelbroadband.in
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
