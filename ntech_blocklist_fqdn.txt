@@ -50,6 +50,7 @@ ec2-98-89-3-242.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip141.ip-5-135-104.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1873-236.members.linode.com
