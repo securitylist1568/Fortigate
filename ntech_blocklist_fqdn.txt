@@ -33,8 +33,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-212-31-37.ap-southeast-1.compute.amazonaws.com
-ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
-ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-52-74-89-232.ap-southeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
@@ -45,10 +43,8 @@ ip-40-130.4vendeta.com
 ip-40-178.4vendeta.com
 ip-58-162.4vendeta.com
 ip212-227-57-38.pbiaas.com
-ip236.ip-5-135-71.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
