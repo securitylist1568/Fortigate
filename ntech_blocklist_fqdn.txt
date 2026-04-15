@@ -56,6 +56,7 @@ scan-53j.shadowserver.org
 scan-58.security.ipip.net
 scan-69-05.shadowserver.org
 scan-71-09.shadowserver.org
+scan-76-03.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
