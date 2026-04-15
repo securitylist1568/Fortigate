@@ -52,6 +52,7 @@ r2004.compute.pao1.edc.strln.net
 r4002.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-67-1.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
