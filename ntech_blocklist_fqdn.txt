@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+136.227.229.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
@@ -37,19 +38,16 @@ htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-15-204-144.us
 ip29.sudolio.io
 li1625-135.members.linode.com
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r297-pr-guacu.ibys.com.br
 recyber.net
 scan-05j.shadowserver.org
 scan-13l.shadowserver.org
 scan-13n.shadowserver.org
-scan-15i.shadowserver.org
 scan-43b.shadowserver.org
 scan-46e.shadowserver.org
 scan-53j.shadowserver.org
@@ -67,6 +65,5 @@ scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-70-129.led02.ru.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
