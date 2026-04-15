@@ -37,6 +37,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-186-3-217-69.netlife.ec
 htb-h9b8tjwfph.htb-cloud.com
+ip150.ip-15-204-144.us
 ip29.sudolio.io
 jasmin.probe.onyphe.net
 leach.probe.onyphe.net
