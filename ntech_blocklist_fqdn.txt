@@ -17,12 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-170.172.39.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -33,7 +31,6 @@ ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-186-3-217-69.netlife.ec
 htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-15-204-144.us
 ip29.sudolio.io
@@ -47,9 +44,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
+scan-05j.shadowserver.org
 scan-13l.shadowserver.org
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
+scan-43b.shadowserver.org
 scan-46e.shadowserver.org
 scan-53j.shadowserver.org
 scan-58.security.ipip.net
