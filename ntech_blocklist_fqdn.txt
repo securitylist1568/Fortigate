@@ -50,6 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
+scan-13n.shadowserver.org
 scan-15i.shadowserver.org
 scan-45g.shadowserver.org
 scan-46e.shadowserver.org
