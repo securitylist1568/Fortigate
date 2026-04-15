@@ -30,6 +30,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-24-47-223.compute-1.amazonaws.com
+ec2-13-229-106-41.ap-southeast-1.compute.amazonaws.com
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-3-80-27-62.compute-1.amazonaws.com
 ec2-3-85-18-5.compute-1.amazonaws.com
@@ -39,6 +40,7 @@ ec2-3-91-148-177.compute-1.amazonaws.com
 ec2-3-95-37-98.compute-1.amazonaws.com
 ec2-44-201-103-104.compute-1.amazonaws.com
 ec2-44-204-45-238.compute-1.amazonaws.com
+ec2-54-251-2-149.ap-southeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
