@@ -29,13 +29,12 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip150.ip-15-204-144.us
+infra-01.chiro-oudebareel.be
 ip29.sudolio.io
 li1625-135.members.linode.com
 meet.renshosting.nl
@@ -50,7 +49,6 @@ scan-05j.shadowserver.org
 scan-13l.shadowserver.org
 scan-13n.shadowserver.org
 scan-43b.shadowserver.org
-scan-46e.shadowserver.org
 scan-53j.shadowserver.org
 scan-56.security.ipip.net
 scan-58.security.ipip.net
@@ -58,8 +56,6 @@ scan-59m.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-8.shadowserver.org
 scan-68-04.shadowserver.org
-scan-69-05.shadowserver.org
-scan-71-09.shadowserver.org
 scan-76-03.shadowserver.org
 scan-78-08.shadowserver.org
 scan-87-7.shadowserver.org
