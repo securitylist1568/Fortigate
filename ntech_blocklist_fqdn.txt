@@ -53,6 +53,7 @@ scan-15i.shadowserver.org
 scan-43b.shadowserver.org
 scan-46e.shadowserver.org
 scan-53j.shadowserver.org
+scan-56.security.ipip.net
 scan-58.security.ipip.net
 scan-59m.shadowserver.org
 scan-61-7.shadowserver.org
@@ -67,4 +68,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-70-129.led02.ru.misaka.io
+user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
