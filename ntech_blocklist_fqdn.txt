@@ -42,6 +42,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+leach.probe.onyphe.net
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -51,8 +52,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.org
+scan-45g.shadowserver.org
+scan-56f.shadowserver.org
 scan-67-1.shadowserver.org
 scan-69-05.shadowserver.org
+scan-79-08.shadowserver.org
 security.criminalip.com
 smtp-3.goinbox.in
 smtp1.telemach.net
