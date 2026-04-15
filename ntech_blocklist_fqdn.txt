@@ -39,13 +39,11 @@ htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-15-204-144.us
 ip29.sudolio.io
 jasmin.probe.onyphe.net
-leach.probe.onyphe.net
 li1625-135.members.linode.com
 li1972-67.members.linode.com
 mackie.probe.onyphe.net
 mfyabgec.musicpda.com
 ns3062838.ip-193-70-35.eu
-null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -53,13 +51,11 @@ r297-pr-guacu.ibys.com.br
 recyber.net
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
-scan-45g.shadowserver.org
 scan-46e.shadowserver.org
-scan-56f.shadowserver.org
+scan-53j.shadowserver.org
 scan-58.security.ipip.net
 scan-69-05.shadowserver.org
 scan-71-09.shadowserver.org
-scan-79-08.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
@@ -67,5 +63,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.61.122.98.91.clients.your-server.de
 user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
-vps-9f0ddb87.vps.ovh.ca
 zhangyuan3.virtuaserver.com.br
