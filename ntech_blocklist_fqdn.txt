@@ -54,6 +54,7 @@ scan-15i.shadowserver.org
 scan-46e.shadowserver.org
 scan-53j.shadowserver.org
 scan-58.security.ipip.net
+scan-68-04.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-09.shadowserver.org
 scan-76-03.shadowserver.org
