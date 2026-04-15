@@ -52,9 +52,11 @@ recyber.net
 rootevidence.com
 scan-06g.shadowserver.org
 scan-67-1.shadowserver.org
+scan-69-05.shadowserver.org
 security.criminalip.com
 smtp-3.goinbox.in
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
+user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
