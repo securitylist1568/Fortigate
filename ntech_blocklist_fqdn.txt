@@ -32,6 +32,7 @@ dns12.online.tj.cn
 ec2-13-212-76-196.ap-southeast-1.compute.amazonaws.com
 ec2-13-228-75-50.ap-southeast-1.compute.amazonaws.com
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
+exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-186-3-217-69.netlife.ec
@@ -49,11 +50,13 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
+scan-13l.shadowserver.org
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
 scan-46e.shadowserver.org
 scan-53j.shadowserver.org
 scan-58.security.ipip.net
+scan-63-8.shadowserver.org
 scan-68-04.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-09.shadowserver.org
