@@ -24,6 +24,7 @@
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
 229.150.216.162.bc.googleusercontent.com
+6.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -34,6 +35,7 @@ dynamic-ip-adsl.viettel.vn
 ec2-107-20-105-127.compute-1.amazonaws.com
 ec2-13-114-195-253.ap-northeast-1.compute.amazonaws.com
 ec2-13-222-168-56.compute-1.amazonaws.com
+ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-18-212-65-237.compute-1.amazonaws.com
 ec2-3-92-198-129.compute-1.amazonaws.com
 ec2-34-224-74-175.compute-1.amazonaws.com
@@ -45,6 +47,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 infra-01.chiro-oudebareel.be
 ip29.sudolio.io
+logistiki22.epsilon-software.gr
 mail.shegertravel.com
 meet.renshosting.nl
 mfyabgec.musicpda.com
