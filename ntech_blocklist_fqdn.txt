@@ -20,6 +20,7 @@
 139.180.209.212.vultrusercontent.com
 170.172.39.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 23-94-175-158-host.colocrossing.com
 45.32.102.201.vultrusercontent.com
 aim.sba-research.org
@@ -59,6 +60,7 @@ scan-58.security.ipip.net
 scan-69-05.shadowserver.org
 scan-71-09.shadowserver.org
 scan-79-08.shadowserver.org
+scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
