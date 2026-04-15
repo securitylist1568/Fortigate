@@ -38,6 +38,7 @@ ip29.sudolio.io
 li1625-135.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -51,6 +52,7 @@ scan-46e.shadowserver.org
 scan-53j.shadowserver.org
 scan-58.security.ipip.net
 scan-59m.shadowserver.org
+scan-61-7.shadowserver.org
 scan-63-8.shadowserver.org
 scan-68-04.shadowserver.org
 scan-69-05.shadowserver.org
