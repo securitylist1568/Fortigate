@@ -21,9 +21,8 @@
 172-232-32-15.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-190-228-118-154.eganet.go.tz
 190.56.152.27.broad.qz.fj.dynamic.163data.com.cn
-45.76.148.42.vultrusercontent.com
+23-94-175-158-host.colocrossing.com
 54.150.61.59.broad.fz.fj.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
@@ -32,11 +31,8 @@ b210.productgood.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-13-212-76-196.ap-southeast-1.compute.amazonaws.com
-ec2-13-229-106-41.ap-southeast-1.compute.amazonaws.com
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
-ec2-54-251-2-149.ap-southeast-1.compute.amazonaws.com
 exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -44,9 +40,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 jasmin.probe.onyphe.net
 leach.probe.onyphe.net
-li1873-236.members.linode.com
+mackie.probe.onyphe.net
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns3062838.ip-193-70-35.eu
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
@@ -67,3 +62,4 @@ unn-169-150-252-179.datapacket.com
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
 vps-9f0ddb87.vps.ovh.ca
+zhangyuan3.virtuaserver.com.br
