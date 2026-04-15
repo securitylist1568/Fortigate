@@ -32,6 +32,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-24-47-223.compute-1.amazonaws.com
 ec2-18-163-158-249.ap-east-1.compute.amazonaws.com
+ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-3-80-27-62.compute-1.amazonaws.com
 ec2-3-85-18-5.compute-1.amazonaws.com
 ec2-3-86-245-199.compute-1.amazonaws.com
