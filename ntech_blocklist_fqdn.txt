@@ -20,13 +20,10 @@
 124-8-181-9.dynamic.tfn.net.tw
 139.180.209.212.vultrusercontent.com
 172-232-32-15.ip.linodeusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-190.56.152.27.broad.qz.fj.dynamic.163data.com.cn
 23-94-175-158-host.colocrossing.com
 45.32.102.201.vultrusercontent.com
 54.150.61.59.broad.fz.fj.dynamic.163data.com.cn
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 b210.productgood.com
@@ -55,7 +52,6 @@ recyber.net
 scan-06g.shadowserver.org
 scan-45g.shadowserver.org
 scan-56f.shadowserver.org
-scan-67-1.shadowserver.org
 scan-69-05.shadowserver.org
 scan-79-08.shadowserver.org
 security.criminalip.com
