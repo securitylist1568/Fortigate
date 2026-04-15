@@ -49,6 +49,7 @@ null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r297-pr-guacu.ibys.com.br
 recyber.net
 scan-45g.shadowserver.org
 scan-56f.shadowserver.org
