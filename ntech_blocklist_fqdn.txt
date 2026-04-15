@@ -22,12 +22,9 @@
 185-45-195-15.hostsailor.com
 190-228-118-154.eganet.go.tz
 190.56.152.27.broad.qz.fj.dynamic.163data.com.cn
-220-136-157-216.dynamic-ip.hinet.net
 45.76.148.42.vultrusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdcgjbjty5.stretchoid.com
-azpdsgacpmj4.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -46,7 +43,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 r2004.compute.pao1.edc.strln.net
 r4002.compute.pao1.edc.strln.net
