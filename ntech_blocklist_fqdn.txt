@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 139.180.209.212.vultrusercontent.com
 170.172.39.34.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 23-94-175-158-host.colocrossing.com
 45.32.102.201.vultrusercontent.com
@@ -51,15 +50,15 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
+scan-15i.shadowserver.org
 scan-45g.shadowserver.org
 scan-56f.shadowserver.org
-scan-69-05.shadowserver.org
 scan-79-08.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.61.122.98.91.clients.your-server.de
-user-38-175-113-237.ist01.tr.misaka.io
+user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
 vps-9f0ddb87.vps.ovh.ca
 zhangyuan3.virtuaserver.com.br
