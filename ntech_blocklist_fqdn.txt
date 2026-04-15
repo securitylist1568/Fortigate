@@ -59,6 +59,7 @@ recyber.net
 rootevidence.com
 scan-09n.shadowserver.org
 scan-15i.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.ill.117.250.115.194.bsnl.co.in
