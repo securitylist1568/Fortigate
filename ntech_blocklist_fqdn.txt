@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 136.227.229.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194-195-253-86.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
 aim.sba-research.org
@@ -36,7 +35,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 infra-01.chiro-oudebareel.be
 ip29.sudolio.io
-li1625-135.members.linode.com
 meet.renshosting.nl
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -47,18 +45,15 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
 scan-13l.shadowserver.org
-scan-13n.shadowserver.org
 scan-43b.shadowserver.org
 scan-53j.shadowserver.org
 scan-56.security.ipip.net
-scan-58.security.ipip.net
 scan-59m.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-8.shadowserver.org
 scan-68-04.shadowserver.org
 scan-76-03.shadowserver.org
 scan-78-08.shadowserver.org
-scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
