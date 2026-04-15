@@ -44,7 +44,6 @@ hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 partclient.net
@@ -63,6 +62,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.ill.117.250.115.194.bsnl.co.in
-unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-vps-1e4ac9a4.vps.ovh.net
