@@ -25,6 +25,7 @@
 178.216.124.34.bc.googleusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+227.211.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 45-79-181-164.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
@@ -45,12 +46,14 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-02m.shadowserver.org
 scan-11i.shadowserver.org
 scan-39e.shadowserver.org
 scan-41m.shadowserver.org
