@@ -22,15 +22,15 @@
 114.161.122.106.broad.xm.fj.dynamic.163data.com.cn
 114.244.129.34.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
+118.149.216.162.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
-172-237-105-213.ip.linodeusercontent.com
-178.216.124.34.bc.googleusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.149.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
+250.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 37.210.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
@@ -57,7 +57,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -67,7 +66,6 @@ scan-13l.shadowserver.org
 scan-41m.shadowserver.org
 scan-46e.shadowserver.org
 scan-53j.shadowserver.org
-scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-2.shadowserver.org
 scan-68-04.shadowserver.org
@@ -80,6 +78,5 @@ scan-80-4.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.ill.117.250.115.194.bsnl.co.in
 user-170-39-225-147.mci01.us.misaka.io
 users219.vip.heteml.jp
