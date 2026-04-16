@@ -21,7 +21,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.161.122.106.broad.xm.fj.dynamic.163data.com.cn
 117.149.216.162.bc.googleusercontent.com
 118.149.216.162.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
@@ -52,7 +51,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 logistiki22.epsilon-software.gr
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -66,11 +64,8 @@ scan-46e.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-2.shadowserver.org
-scan-69-05.shadowserver.org
-scan-70-00.shadowserver.org
 scan-70-04.shadowserver.org
 scan-74-02.shadowserver.org
-scan-80-4.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
