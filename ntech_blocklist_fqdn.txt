@@ -23,10 +23,18 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
+208.210.203.35.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+azpdcs2mb6xa.stretchoid.com
+azpdcsvjjeh0.stretchoid.com
+azpdes6tt1mc.stretchoid.com
+azpdes7t6661.stretchoid.com
+azpdesdfn5lp.stretchoid.com
+azpdws75mv33.stretchoid.com
+azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -52,7 +60,6 @@ mail.shegertravel.com
 meet.renshosting.nl
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -60,7 +67,6 @@ recyber.net
 scan-05j.shadowserver.org
 scan-43b.shadowserver.org
 scan-56.security.ipip.net
-scan-59m.shadowserver.org
 scan-61-7.shadowserver.org
 scan-78-08.shadowserver.org
 security.criminalip.com
