@@ -24,13 +24,13 @@
 165.150.216.162.bc.googleusercontent.com
 170.172.39.34.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
+172-237-105-213.ip.linodeusercontent.com
 178.216.124.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.34.ptr.pfcloud.network
 206.210.203.35.bc.googleusercontent.com
 208-115-109-226-reverse.wowrack.com
 230.150.216.162.bc.googleusercontent.com
-36.210.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.150.216.162.bc.googleusercontent.com
@@ -60,6 +60,7 @@ recyber.net
 scan-14l.shadowserver.org
 scan-39e.shadowserver.org
 scan-53j.shadowserver.org
+scan-61-4.shadowserver.org
 scan-68-06.shadowserver.org
 scan-79-01.shadowserver.org
 scan-83-7.shadowserver.org
