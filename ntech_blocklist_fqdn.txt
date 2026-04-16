@@ -31,6 +31,8 @@
 206.210.203.35.bc.googleusercontent.com
 208-115-109-226-reverse.wowrack.com
 230.150.216.162.bc.googleusercontent.com
+43.150.216.162.bc.googleusercontent.com
+63.149.216.162.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.150.216.162.bc.googleusercontent.com
@@ -59,6 +61,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14l.shadowserver.org
 scan-39e.shadowserver.org
+scan-41m.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-68-06.shadowserver.org
