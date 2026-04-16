@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.150.216.162.bc.googleusercontent.com
-12.210.203.35.bc.googleusercontent.com
 129.150.216.162.bc.googleusercontent.com
 136.227.229.35.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
@@ -28,13 +27,12 @@
 171.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
-195.149.216.162.bc.googleusercontent.com
 204.76.203.34.ptr.pfcloud.network
+206.210.203.35.bc.googleusercontent.com
 208-115-109-226-reverse.wowrack.com
 230.150.216.162.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
-65.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.150.216.162.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
@@ -59,10 +57,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-14l.shadowserver.org
 scan-40g.shadowserver.org
-scan-42i.shadowserver.org
 scan-75-03.shadowserver.org
 scan-79-01.shadowserver.org
 scan-83-7.shadowserver.org
