@@ -28,6 +28,7 @@
 185-45-195-15.hostsailor.com
 206.210.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
+45-79-181-164.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
 59-126-136-211.hinet-ip.hinet.net
 63.149.216.162.bc.googleusercontent.com
@@ -54,6 +55,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-11i.shadowserver.org
 scan-14l.shadowserver.org
 scan-39e.shadowserver.org
