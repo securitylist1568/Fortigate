@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-102-213-6-53.rackzar.com
 109-248-43-169.skylon.cloud
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -20,15 +19,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 12.210.203.35.bc.googleusercontent.com
-136.227.229.35.bc.googleusercontent.com
 156682.ip-ptr.tech
 185-45-195-15.hostsailor.com
+195.149.216.162.bc.googleusercontent.com
 208.210.203.35.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdcs2mb6xa.stretchoid.com
 azpdcs9aqpkl.stretchoid.com
@@ -84,11 +82,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-42i.shadowserver.org
-scan-43b.shadowserver.org
-scan-56.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 vmi3074566.contaboserver.net
