@@ -46,6 +46,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -60,6 +61,8 @@ scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-68-04.shadowserver.org
 scan-68-06.shadowserver.org
+scan-69-05.shadowserver.org
+scan-70-00.shadowserver.org
 scan-73-00.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
