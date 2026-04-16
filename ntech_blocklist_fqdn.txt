@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+12.210.203.35.bc.googleusercontent.com
 136.227.229.35.bc.googleusercontent.com
 156682.ip-ptr.tech
 185-45-195-15.hostsailor.com
@@ -81,6 +82,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-42i.shadowserver.org
 scan-43b.shadowserver.org
 scan-56.security.ipip.net
 security.criminalip.com
