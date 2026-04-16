@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-10.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -22,18 +21,15 @@
 114.244.129.34.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
-170.172.39.34.bc.googleusercontent.com
 172-237-105-213.ip.linodeusercontent.com
 178.216.124.34.bc.googleusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-206.210.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 45-79-181-164.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
 59-126-136-211.hinet-ip.hinet.net
 63.149.216.162.bc.googleusercontent.com
-76.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 andersen.probe.onyphe.net
@@ -65,6 +61,7 @@ scan-68-06.shadowserver.org
 scan-69-05.shadowserver.org
 scan-70-00.shadowserver.org
 scan-73-00.shadowserver.org
+scan-80-4.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
