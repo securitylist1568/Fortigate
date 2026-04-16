@@ -18,14 +18,17 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+114.244.129.34.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 170.172.39.34.bc.googleusercontent.com
 172-237-105-213.ip.linodeusercontent.com
 178.216.124.34.bc.googleusercontent.com
+18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 206.210.203.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
+51.211.203.35.bc.googleusercontent.com
 59-126-136-211.hinet-ip.hinet.net
 63.149.216.162.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
@@ -58,6 +61,7 @@ scan-41m.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-68-06.shadowserver.org
+scan-73-00.shadowserver.org
 scan-79-01.shadowserver.org
 scan-83-7.shadowserver.org
 security.criminalip.com
