@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+100.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -40,7 +41,6 @@
 74.149.216.162.bc.googleusercontent.com
 84.43.90.77.hostbrr.com
 87.150.216.162.bc.googleusercontent.com
-adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -60,13 +60,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-04i.shadowserver.org
-scan-12f.shadowserver.org
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
 scan-43h.shadowserver.org
 scan-60-10.shadowserver.org
 scan-60-12.shadowserver.org
-scan-61-4.shadowserver.org
 scan-77-06.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
