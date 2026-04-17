@@ -46,6 +46,7 @@ dns12.online.tj.cn
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ecs-124-71-110-43.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+gemzo130-109-73-243.gemzo.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
