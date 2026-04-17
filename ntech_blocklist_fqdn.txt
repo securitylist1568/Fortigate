@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-144.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
@@ -34,9 +33,7 @@
 228.150.216.162.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
-35.210.203.35.bc.googleusercontent.com
 36.97.61.34.bc.googleusercontent.com
-37.151.129.34.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 60ohs659.guzel.net.tr
 74.149.216.162.bc.googleusercontent.com
