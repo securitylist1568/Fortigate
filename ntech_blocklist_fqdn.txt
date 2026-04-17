@@ -19,12 +19,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.210.203.35.bc.googleusercontent.com
 117.150.216.162.bc.googleusercontent.com
-118-168-206-83.dynamic-ip.hinet.net
 121.211.203.35.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+144.202.71.188.vultrusercontent.com
 160.150.216.162.bc.googleusercontent.com
+170.172.39.34.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -33,12 +34,11 @@
 173.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-21.210.203.35.bc.googleusercontent.com
 211-21-48-73.hinet-ip.hinet.net
+217.150.216.162.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 230.211.203.35.bc.googleusercontent.com
 239-228-138-201.prod-infinitum.com.mx
-242.211.203.35.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -50,7 +50,7 @@
 60.149.216.162.bc.googleusercontent.com
 70.210.203.35.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
-aim.sba-research.org
+77.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
@@ -72,6 +72,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04i.shadowserver.org
 scan-15i.shadowserver.org
 scan-60-10.shadowserver.org
 scan-61-9.shadowserver.org
