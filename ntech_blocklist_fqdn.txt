@@ -26,6 +26,7 @@
 190.210.203.35.bc.googleusercontent.com
 202088static254178.asianet.co.in
 204.76.203.30.ptr.pfcloud.network
+229.149.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 3.150.216.162.bc.googleusercontent.com
