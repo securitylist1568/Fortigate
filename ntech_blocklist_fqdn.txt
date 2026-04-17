@@ -27,6 +27,7 @@
 202088static254178.asianet.co.in
 217.150.216.162.bc.googleusercontent.com
 239-228-138-201.prod-infinitum.com.mx
+253.211.203.35.bc.googleusercontent.com
 3.150.216.162.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
 70.210.203.35.bc.googleusercontent.com
@@ -54,6 +55,7 @@ azpdwsske6lh.stretchoid.com
 azpdwstdqqk6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+customer-hmo-83-15.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
