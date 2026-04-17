@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.210.203.35.bc.googleusercontent.com
 144.202.71.188.vultrusercontent.com
 144.210.203.35.bc.googleusercontent.com
 170.172.39.34.bc.googleusercontent.com
@@ -30,7 +29,6 @@
 3.150.216.162.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 37.151.129.34.bc.googleusercontent.com
-47.150.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
@@ -80,7 +78,7 @@ scan-75-03.shadowserver.org
 scan-79-09.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
-static-ip-18154020871.cable.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vgakb.com
+www.internet-albedo.net
