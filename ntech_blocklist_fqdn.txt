@@ -25,7 +25,6 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 144.202.71.188.vultrusercontent.com
-160.150.216.162.bc.googleusercontent.com
 170.172.39.34.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -38,9 +37,7 @@
 211-21-48-73.hinet-ip.hinet.net
 217.150.216.162.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-230.211.203.35.bc.googleusercontent.com
 239-228-138-201.prod-infinitum.com.mx
-37.150.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -48,7 +45,6 @@
 45-79-109-4.ip.linodeusercontent.com
 47.150.216.162.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-60.149.216.162.bc.googleusercontent.com
 70.210.203.35.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
@@ -62,7 +58,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-229-106-41.ap-southeast-1.compute.amazonaws.com
 ec2-18-163-106-33.ap-east-1.compute.amazonaws.com
-ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
 epait.cn
 festa04.jcatransporte.com.br
@@ -90,5 +85,4 @@ smtp1.telemach.net
 static-ip-18154020871.cable.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-251.sea02.us.misaka.io
-user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
