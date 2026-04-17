@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
+166.149.216.162.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 172-104-134-185.ip.linodeusercontent.com
@@ -68,6 +69,7 @@ scan-60-12.shadowserver.org
 scan-77-06.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.203-174-22-152.hostbet.in
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vps-748e1cf4.vps.ovh.ca
