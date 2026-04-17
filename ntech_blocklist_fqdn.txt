@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
 202088static254178.asianet.co.in
+204.76.203.189.ptr.pfcloud.network
 204.76.203.30.ptr.pfcloud.network
 229.149.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
@@ -48,6 +49,7 @@ client.yota.ru
 customer-hmo-83-15.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-103-120-170-66.myrepublic.co.id
@@ -60,8 +62,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
 scan-12f.shadowserver.org
+scan-13n.shadowserver.org
 scan-43h.shadowserver.org
 scan-60-10.shadowserver.org
+scan-60-12.shadowserver.org
 scan-61-4.shadowserver.org
 scan-71-05.shadowserver.org
 scan-75-03.shadowserver.org
