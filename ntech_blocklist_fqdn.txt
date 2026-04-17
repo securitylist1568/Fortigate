@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-206-83.dynamic-ip.hinet.net
+121.211.203.35.bc.googleusercontent.com
 146.31.232.180.dsl.inet.static.certaincyber.net
 160.150.216.162.bc.googleusercontent.com
 163-172-123-3.rev.poneytelecom.eu
@@ -40,6 +41,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-222-238-246.compute-1.amazonaws.com
+ec2-13-229-106-41.ap-southeast-1.compute.amazonaws.com
 ec2-18-204-231-208.compute-1.amazonaws.com
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-3-82-92-91.compute-1.amazonaws.com
@@ -66,6 +68,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
