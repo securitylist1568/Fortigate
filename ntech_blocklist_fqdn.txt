@@ -55,6 +55,7 @@ azpdcgf6ljqc.stretchoid.com
 azpdcgrbfvbu.stretchoid.com
 azpdcslejnig.stretchoid.com
 azpdcso0lqy8.stretchoid.com
+azpdcswr0goo.stretchoid.com
 azpdes6uvmgf.stretchoid.com
 azpdesrind7l.stretchoid.com
 azpdssmbwjsw.stretchoid.com
@@ -64,6 +65,8 @@ azpdws0frgb6.stretchoid.com
 azpdws75mv33.stretchoid.com
 azpdws89w8v2.stretchoid.com
 azpdwsdsncxt.stretchoid.com
+azpdwssa099m.stretchoid.com
+azpdwsske6lh.stretchoid.com
 azpdwstdqqk6.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
@@ -90,8 +93,10 @@ scan-04i.shadowserver.org
 scan-09n.shadowserver.org
 scan-15i.shadowserver.org
 scan-68-04.shadowserver.org
+scan-71-05.shadowserver.org
 scan-74-02.shadowserver.org
 scan-79-08.shadowserver.org
+scan-79-09.shadowserver.org
 scan-84-8.shadowserver.org
 scan-85-3.shadowserver.org
 security.criminalip.com
