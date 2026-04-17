@@ -31,6 +31,7 @@
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+173.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
@@ -49,6 +50,7 @@
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 60.149.216.162.bc.googleusercontent.com
 69-164-209-86.ip.linodeusercontent.com
+70.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -79,6 +81,7 @@ ec2-54-90-205-87.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
 ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
 ec2-98-81-156-78.compute-1.amazonaws.com
+epait.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
