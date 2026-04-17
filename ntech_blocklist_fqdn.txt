@@ -30,14 +30,10 @@
 190.210.203.35.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 204.76.203.189.ptr.pfcloud.network
-204.76.203.30.ptr.pfcloud.network
 228.150.216.162.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
-253.149.216.162.bc.googleusercontent.com
-36.97.61.34.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 60ohs659.guzel.net.tr
-74.149.216.162.bc.googleusercontent.com
 84.43.90.77.hostbrr.com
 87.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -63,7 +59,6 @@ scan-04i.shadowserver.org
 scan-13n.shadowserver.org
 scan-15i.shadowserver.org
 scan-43h.shadowserver.org
-scan-60-10.shadowserver.org
 scan-60-12.shadowserver.org
 scan-77-06.shadowserver.org
 smtp1.telemach.net
