@@ -24,11 +24,14 @@
 171.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 202088static254178.asianet.co.in
+204.76.203.30.ptr.pfcloud.network
 217.150.216.162.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 3.150.216.162.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
+36.97.61.34.bc.googleusercontent.com
 37.151.129.34.bc.googleusercontent.com
+74.149.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
@@ -71,6 +74,7 @@ recyber.net
 scan-04i.shadowserver.org
 scan-09n.shadowserver.org
 scan-12f.shadowserver.org
+scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
 scan-71-05.shadowserver.org
 scan-74-02.shadowserver.org
