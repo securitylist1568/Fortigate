@@ -24,6 +24,7 @@
 172-104-134-185.ip.linodeusercontent.com
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+190.150.216.162.bc.googleusercontent.com
 190.210.203.35.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 204.76.203.189.ptr.pfcloud.network
@@ -69,6 +70,7 @@ scan-61-4.shadowserver.org
 scan-77-06.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vps-748e1cf4.vps.ovh.ca
 www.internet-albedo.net
