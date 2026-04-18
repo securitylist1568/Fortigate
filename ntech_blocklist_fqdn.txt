@@ -34,6 +34,7 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 209.214.140.34.bc.googleusercontent.com
+210.150.216.162.bc.googleusercontent.com
 213.208.79.34.bc.googleusercontent.com
 22.239.205.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
@@ -54,7 +55,9 @@
 76.76.14.34.bc.googleusercontent.com
 78.236.205.35.bc.googleusercontent.com
 89.117.155.104.bc.googleusercontent.com
+89.211.203.35.bc.googleusercontent.com
 9.135.251.23.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
 azpdcs19ivb5.stretchoid.com
