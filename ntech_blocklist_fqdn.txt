@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
 134.150.216.162.bc.googleusercontent.com
-142.210.203.35.bc.googleusercontent.com
 149.28.123.146.vultrusercontent.com
 153.149.216.162.bc.googleusercontent.com
 182.211.203.35.bc.googleusercontent.com
@@ -29,11 +28,9 @@
 193.210.203.35.bc.googleusercontent.com
 198-55-109-180-host.colocrossing.com
 203.210.203.35.bc.googleusercontent.com
-219.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
-37.151.129.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 45.63.77.177.vultrusercontent.com
 57.210.203.35.bc.googleusercontent.com
@@ -58,12 +55,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-43b.shadowserver.org
-scan-47k.shadowserver.org
 scan-71-05.shadowserver.org
-scan-71-09.shadowserver.org
 scan-74-07.shadowserver.org
 scanner-info.rootevidence.com
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
