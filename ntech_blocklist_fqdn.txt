@@ -103,6 +103,7 @@ scan-76-03.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.70.74.217.95.clients.your-server.de
 static.88-198-23-245.clients.your-server.de
 users219.vip.heteml.jp
 vps2922258.trouble-free.net
