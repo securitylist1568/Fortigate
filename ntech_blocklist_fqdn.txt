@@ -86,6 +86,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-194.superbithost.com
 ip29.sudolio.io
+kub002.idyschool.de.com
 mfyabgec.musicpda.com
 nikola.kryptertnett.no
 pc112.cses.ilc.edu.tw
