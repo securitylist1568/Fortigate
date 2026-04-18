@@ -31,7 +31,6 @@
 242.150.216.162.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
 37.151.129.34.bc.googleusercontent.com
-53.150.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 96-126-110-80.ip.linodeusercontent.com
 aim.sba-research.org
@@ -47,7 +46,6 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 lisbon.portugal.com
-mail.qtgo.vn
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -55,13 +53,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-rping.ipip.net
 scan-47k.shadowserver.org
-scan-58a.shadowserver.org
-scan-63-8.shadowserver.org
 scan-71-09.shadowserver.org
-scan-76-03.shadowserver.org
-scan-80-9.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
