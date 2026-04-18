@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
+134.150.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -38,6 +39,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
