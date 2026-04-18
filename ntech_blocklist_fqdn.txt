@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 10.42.66.218.broad.fz.fj.dynamic.163data.com.cn
+100.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -39,6 +40,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+correo.password.com.ve
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
@@ -58,6 +60,7 @@ scan-43b.shadowserver.org
 scan-71-05.shadowserver.org
 scan-74-07.shadowserver.org
 scanner-info.rootevidence.com
+smtp.sotrans.com.vn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
