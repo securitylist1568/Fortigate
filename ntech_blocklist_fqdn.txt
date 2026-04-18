@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+10.42.66.218.broad.fz.fj.dynamic.163data.com.cn
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,6 +21,7 @@
 122.149.216.162.bc.googleusercontent.com
 134.150.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
+149.28.123.146.vultrusercontent.com
 153.149.216.162.bc.googleusercontent.com
 182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -28,12 +30,11 @@
 203.210.203.35.bc.googleusercontent.com
 219.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
-236.149.216.162.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
-242.150.216.162.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
 37.151.129.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
+45.63.77.177.vultrusercontent.com
 57.210.203.35.bc.googleusercontent.com
 96-126-110-80.ip.linodeusercontent.com
 aim.sba-research.org
@@ -45,7 +46,6 @@ dns12.online.tj.cn
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 lisbon.portugal.com
