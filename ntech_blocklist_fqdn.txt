@@ -20,7 +20,6 @@
 118-168-206-83.dynamic-ip.hinet.net
 123.210.203.35.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
-166.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
@@ -64,5 +63,4 @@ scan-60.security.ipip.net
 smtp1.telemach.net
 static-ip-18154020871.cable.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
-static.203-174-22-152.hostbet.in
 users219.vip.heteml.jp
