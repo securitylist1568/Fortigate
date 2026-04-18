@@ -60,7 +60,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-58a.shadowserver.org
 scan-60.security.ipip.net
+scan-63-8.shadowserver.org
 scan-77-02.shadowserver.org
 smtp1.telemach.net
 static-ip-18154020871.cable.net.co
