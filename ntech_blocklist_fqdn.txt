@@ -38,6 +38,7 @@
 22.239.205.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 227.89.195.35.bc.googleusercontent.com
+238.210.203.35.bc.googleusercontent.com
 253.106.211.130.bc.googleusercontent.com
 253.154.242.35.bc.googleusercontent.com
 31.150.53.34.bc.googleusercontent.com
@@ -103,5 +104,7 @@ scan-76-03.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.88-198-23-245.clients.your-server.de
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
+vps2922258.trouble-free.net
