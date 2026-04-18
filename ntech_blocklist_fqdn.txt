@@ -22,6 +22,7 @@
 192.150.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
+242.150.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 36.97.61.34.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
