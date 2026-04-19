@@ -17,7 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+112.150.216.162.bc.googleusercontent.com
 115.149.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
@@ -26,6 +26,7 @@
 154.210.203.35.bc.googleusercontent.com
 163-172-123-3.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
+172-238-107-98.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 249.43.84.34.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 45-79-134-5.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
 66.42.55.2.vultrusercontent.com
+73.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
@@ -54,14 +56,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-59g.shadowserver.org
-scan-61-7.shadowserver.org
 scan-71-09.shadowserver.org
 scan-80-9.shadowserver.org
 scan-89-5.shadowserver.org
 scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
-vps2922258.trouble-free.net
 www.internet-albedo.net
