@@ -58,6 +58,7 @@ ec2-54-89-155-82.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
 ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
 ecs-1-94-6-35.compute.hwclouds-dns.com
+federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
