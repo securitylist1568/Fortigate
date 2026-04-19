@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-139-162-155-243.ip.linodeusercontent.com
 147.149.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -26,7 +25,6 @@
 201-20-85-122.dynamic.mobtelecom.com.br
 243.150.216.162.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
-45-33-78-176.ip.linodeusercontent.com
 61-228-163-71.dynamic-ip.hinet.net
 61-64-116-251-adsl-zha.static.so-net.net.tw
 7.149.216.162.bc.googleusercontent.com
@@ -47,7 +45,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-04i.shadowserver.org
 scan-42i.shadowserver.org
 scan-81-7.shadowserver.org
