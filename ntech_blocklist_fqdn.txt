@@ -25,11 +25,14 @@
 168.210.203.35.bc.googleusercontent.com
 172-236-19-159.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+200-157-149-5.maloco.ru
 218.210.203.35.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
+241.149.216.162.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
+b1519628.virtua.com.br
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
@@ -63,6 +66,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-14l.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
@@ -72,3 +76,4 @@ static.70.74.217.95.clients.your-server.de
 static.88-198-23-245.clients.your-server.de
 users219.vip.heteml.jp
 vps2922258.trouble-free.net
+yash-static-23.235.21.103.yashtel.co.in
