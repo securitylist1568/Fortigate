@@ -18,17 +18,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.150.216.162.bc.googleusercontent.com
-124.149.216.162.bc.googleusercontent.com
 135.83.131.34.bc.googleusercontent.com
 139-162-155-243.ip.linodeusercontent.com
 147.149.216.162.bc.googleusercontent.com
-172-238-107-98.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-190.211.203.35.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
-249.43.84.34.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
 45-33-78-176.ip.linodeusercontent.com
 61-228-163-71.dynamic-ip.hinet.net
@@ -57,6 +52,5 @@ scan-81-7.shadowserver.org
 scan-85-0.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-146-19-3-141.sto02.se.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
