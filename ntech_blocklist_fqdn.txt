@@ -28,7 +28,6 @@
 185-45-195-15.hostsailor.com
 200-157-149-5.maloco.ru
 218.210.203.35.bc.googleusercontent.com
-238.210.203.35.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
@@ -56,14 +55,13 @@ ec2-52-207-117-184.compute-1.amazonaws.com
 ec2-54-167-7-167.compute-1.amazonaws.com
 ec2-54-89-155-82.compute-1.amazonaws.com
 ec2-75-101-194-144.compute-1.amazonaws.com
+ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
 ecs-1-94-6-35.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-koshka.pro
-li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -71,13 +69,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14l.shadowserver.org
 scan-86-7.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.190.33.167.89.clients.your-server.de
 static.70.74.217.95.clients.your-server.de
-static.88-198-23-245.clients.your-server.de
 users219.vip.heteml.jp
-vps2922258.trouble-free.net
 yash-static-23.235.21.103.yashtel.co.in
