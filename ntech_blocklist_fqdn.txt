@@ -21,9 +21,6 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 201-20-85-122.dynamic.mobtelecom.com.br
-243.150.216.162.bc.googleusercontent.com
-28.211.203.35.bc.googleusercontent.com
-61-228-163-71.dynamic-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -45,7 +42,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-42i.shadowserver.org
 scan-81-7.shadowserver.org
-scan-85-0.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
