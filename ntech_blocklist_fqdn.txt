@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 115.149.216.162.bc.googleusercontent.com
+124.149.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
 139-162-128-252.ip.linodeusercontent.com
@@ -26,6 +27,8 @@
 163-172-123-3.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
+190.211.203.35.bc.googleusercontent.com
+249.43.84.34.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 253.154.242.35.bc.googleusercontent.com
 45-79-134-5.ip.linodeusercontent.com
