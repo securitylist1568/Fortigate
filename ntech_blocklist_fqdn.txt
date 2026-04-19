@@ -45,9 +45,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
-ecs-1-94-6-35.compute.hwclouds-dns.com
 federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
