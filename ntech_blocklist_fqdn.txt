@@ -23,7 +23,6 @@
 135.83.131.34.bc.googleusercontent.com
 139-162-155-243.ip.linodeusercontent.com
 147.149.216.162.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 172-238-107-98.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
@@ -32,6 +31,7 @@
 249.43.84.34.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
 45-33-78-176.ip.linodeusercontent.com
+61-228-163-71.dynamic-ip.hinet.net
 61-64-116-251-adsl-zha.static.so-net.net.tw
 7.149.216.162.bc.googleusercontent.com
 73.150.216.162.bc.googleusercontent.com
@@ -52,10 +52,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-04i.shadowserver.org
-scan-71-09.shadowserver.org
-scan-80-9.shadowserver.org
 scan-85-0.shadowserver.org
-scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
