@@ -26,7 +26,6 @@
 163-172-123-3.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
-233.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 253.154.242.35.bc.googleusercontent.com
 45-79-134-5.ip.linodeusercontent.com
@@ -41,8 +40,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-15-232-67.us-east-2.compute.amazonaws.com
-ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
-federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -59,6 +56,7 @@ scan-61-7.shadowserver.org
 scan-71-09.shadowserver.org
 scan-80-9.shadowserver.org
 scan-89-5.shadowserver.org
+scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
