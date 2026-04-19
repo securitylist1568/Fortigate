@@ -23,6 +23,7 @@
 13.150.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 151.149.216.162.bc.googleusercontent.com
+154.210.203.35.bc.googleusercontent.com
 154.211.203.35.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -30,6 +31,7 @@
 233.150.216.162.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 60-249-14-121.hinet-ip.hinet.net
 76.210.203.35.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
