@@ -28,7 +28,9 @@
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
+243.150.216.162.bc.googleusercontent.com
 249.43.84.34.bc.googleusercontent.com
+28.211.203.35.bc.googleusercontent.com
 45-33-78-176.ip.linodeusercontent.com
 61-64-116-251-adsl-zha.static.so-net.net.tw
 7.149.216.162.bc.googleusercontent.com
@@ -43,6 +45,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -51,6 +54,7 @@ rootevidence.com
 scan-04i.shadowserver.org
 scan-71-09.shadowserver.org
 scan-80-9.shadowserver.org
+scan-85-0.shadowserver.org
 scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
