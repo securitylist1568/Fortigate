@@ -23,6 +23,7 @@
 127.149.216.162.bc.googleusercontent.com
 135.83.131.34.bc.googleusercontent.com
 139-162-128-252.ip.linodeusercontent.com
+139-162-155-243.ip.linodeusercontent.com
 163-172-123-3.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 172-238-107-98.ip.linodeusercontent.com
@@ -31,6 +32,7 @@
 249.43.84.34.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 253.154.242.35.bc.googleusercontent.com
+45-33-78-176.ip.linodeusercontent.com
 45-79-134-5.ip.linodeusercontent.com
 66.42.55.2.vultrusercontent.com
 73.150.216.162.bc.googleusercontent.com
