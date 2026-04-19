@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+102.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,17 +21,15 @@
 112.150.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
 135.83.131.34.bc.googleusercontent.com
-139-162-128-252.ip.linodeusercontent.com
 139-162-155-243.ip.linodeusercontent.com
 168-113-158-51.instances.scw.cloud
 172-238-107-98.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 249.43.84.34.bc.googleusercontent.com
-250.149.216.162.bc.googleusercontent.com
-253.154.242.35.bc.googleusercontent.com
 45-33-78-176.ip.linodeusercontent.com
-45-79-134-5.ip.linodeusercontent.com
+61-64-116-251-adsl-zha.static.so-net.net.tw
+7.149.216.162.bc.googleusercontent.com
 73.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
