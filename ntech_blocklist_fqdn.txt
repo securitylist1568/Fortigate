@@ -28,6 +28,7 @@
 185-45-195-15.hostsailor.com
 200-157-149-5.maloco.ru
 218.210.203.35.bc.googleusercontent.com
+233.150.216.162.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
