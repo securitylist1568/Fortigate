@@ -21,9 +21,8 @@
 115.149.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
-13.150.216.162.bc.googleusercontent.com
+135.83.131.34.bc.googleusercontent.com
 139-162-128-252.ip.linodeusercontent.com
-154.210.203.35.bc.googleusercontent.com
 163-172-123-3.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 172-238-107-98.ip.linodeusercontent.com
@@ -33,11 +32,9 @@
 250.149.216.162.bc.googleusercontent.com
 253.154.242.35.bc.googleusercontent.com
 45-79-134-5.ip.linodeusercontent.com
-53.26.71.192.in-addr.arpa
 66.42.55.2.vultrusercontent.com
 73.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
-76.210.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
