@@ -18,13 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
-115.149.216.162.bc.googleusercontent.com
 124.149.216.162.bc.googleusercontent.com
-127.149.216.162.bc.googleusercontent.com
 135.83.131.34.bc.googleusercontent.com
 139-162-128-252.ip.linodeusercontent.com
 139-162-155-243.ip.linodeusercontent.com
-163-172-123-3.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 172-238-107-98.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,10 +31,7 @@
 253.154.242.35.bc.googleusercontent.com
 45-33-78-176.ip.linodeusercontent.com
 45-79-134-5.ip.linodeusercontent.com
-66.42.55.2.vultrusercontent.com
 73.150.216.162.bc.googleusercontent.com
-76.150.216.162.bc.googleusercontent.com
-80.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -57,7 +51,6 @@ recyber.net
 rootevidence.com
 scan-71-09.shadowserver.org
 scan-80-9.shadowserver.org
-scan-89-5.shadowserver.org
 scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
