@@ -45,7 +45,6 @@ azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dialerpositivelifegroup.com
 dns12.online.tj.cn
 ec2-3-89-103-169.compute-1.amazonaws.com
 ec2-3-89-218-222.compute-1.amazonaws.com
