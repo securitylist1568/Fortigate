@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-206-83.dynamic-ip.hinet.net
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -30,14 +29,12 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-249.43.84.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
-66-175-215-75.ip.linodeusercontent.com
 99-46-76-8.lightspeed.austtx.sbcglobal.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
