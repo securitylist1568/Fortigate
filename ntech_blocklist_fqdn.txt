@@ -28,6 +28,14 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-13-221-117-222.compute-1.amazonaws.com
+ec2-13-222-29-88.compute-1.amazonaws.com
+ec2-18-207-149-68.compute-1.amazonaws.com
+ec2-3-80-189-93.compute-1.amazonaws.com
+ec2-3-83-53-90.compute-1.amazonaws.com
+ec2-34-201-143-237.compute-1.amazonaws.com
+ec2-52-207-117-184.compute-1.amazonaws.com
+ec2-54-144-115-111.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
