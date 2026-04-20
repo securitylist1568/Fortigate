@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 220-136-166-74.dynamic-ip.hinet.net
-249.43.84.34.bc.googleusercontent.com
 40.75.102.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 amz.unixwiz.net
@@ -28,6 +27,7 @@ centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
@@ -41,15 +41,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-02m.shadowserver.org
-scan-13l.shadowserver.org
 scan-55c.shadowserver.org
 scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-13.shadowserver.org
 scan-63-2.shadowserver.org
-scan-63-8.shadowserver.org
-scan-74-07.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
