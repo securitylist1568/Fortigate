@@ -20,11 +20,12 @@
 118-163-86-55.hinet-ip.hinet.net
 118-168-206-83.dynamic-ip.hinet.net
 135.83.131.34.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 172-104-238-154.ip.linodeusercontent.com
 172-237-105-161.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
+249.43.84.34.bc.googleusercontent.com
+66-175-215-75.ip.linodeusercontent.com
 96-126-108-58.ip.linodeusercontent.com
 97-107-135-208.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -58,12 +59,12 @@ ec2-54-226-167-88.compute-1.amazonaws.com
 ec2-98-93-19-251.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostnew.ptr.network
 htb-h9b8tjwfph.htb-cloud.com
 ip143.ip-94-23-167.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 officelineg.com
+partclient.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
