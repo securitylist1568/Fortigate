@@ -1,5 +1,6 @@
 1-171-176-231.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
+104-105-17-177.ip.linodeusercontent.com
 105.48.79.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -25,9 +26,11 @@
 16.240.52.34.bc.googleusercontent.com
 170.85.14.34.bc.googleusercontent.com
 172-237-101-72.ip.linodeusercontent.com
+178.157.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200.109.76.34.bc.googleusercontent.com
 212.127.14.34.bc.googleusercontent.com
+36.150.53.34.bc.googleusercontent.com
 37.2.195.35.bc.googleusercontent.com
 39.139.140.34.bc.googleusercontent.com
 43.200.189.35.bc.googleusercontent.com
@@ -60,5 +63,6 @@ scan-41f.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unknown.itsidc.com
 users219.vip.heteml.jp
 www.internet-albedo.net
