@@ -26,6 +26,7 @@
 42.123.243.83.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
+centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
