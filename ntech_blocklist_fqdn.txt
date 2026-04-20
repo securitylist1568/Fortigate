@@ -29,6 +29,7 @@
 185-45-195-15.hostsailor.com
 200.109.76.34.bc.googleusercontent.com
 212.127.14.34.bc.googleusercontent.com
+220-136-166-74.dynamic-ip.hinet.net
 249.43.84.34.bc.googleusercontent.com
 36.150.53.34.bc.googleusercontent.com
 37.2.195.35.bc.googleusercontent.com
@@ -52,7 +53,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-13l.shadowserver.org
+scan-61-4.shadowserver.org
+scan-63-13.shadowserver.org
+scan-63-2.shadowserver.org
 scan-63-8.shadowserver.org
 scan-74-07.shadowserver.org
 smtp1.telemach.net
