@@ -32,6 +32,7 @@ ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 finland2.ipip.net
 hn.kd.ny.adsl
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
