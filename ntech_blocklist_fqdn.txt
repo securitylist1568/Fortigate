@@ -23,6 +23,7 @@
 220-136-166-74.dynamic-ip.hinet.net
 249.43.84.34.bc.googleusercontent.com
 36.150.53.34.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
