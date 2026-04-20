@@ -20,10 +20,8 @@
 185-45-195-15.hostsailor.com
 193.26.115.213.powered.by.rdp.sh
 40.75.102.34.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
-centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -39,8 +37,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02m.shadowserver.org
-scan-55c.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
