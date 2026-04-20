@@ -18,7 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-220-136-166-74.dynamic-ip.hinet.net
+193.26.115.213.powered.by.rdp.sh
 40.75.102.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 amz.unixwiz.net
@@ -40,14 +40,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-02m.shadowserver.org
 scan-55c.shadowserver.org
 scan-60-10.shadowserver.org
-scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
-scan-63-13.shadowserver.org
-scan-63-2.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
