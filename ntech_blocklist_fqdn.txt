@@ -28,6 +28,7 @@
 66-175-215-75.ip.linodeusercontent.com
 96-126-108-58.ip.linodeusercontent.com
 97-107-135-208.ip.linodeusercontent.com
+99-46-76-8.lightspeed.austtx.sbcglobal.net
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcs19ivb5.stretchoid.com
@@ -66,6 +67,7 @@ mfyabgec.musicpda.com
 officelineg.com
 partclient.net
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
