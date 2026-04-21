@@ -37,7 +37,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -50,9 +49,8 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-41f.shadowserver.org
-scan-69-05.shadowserver.org
+scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-243-128.iev01.ua.misaka.io
