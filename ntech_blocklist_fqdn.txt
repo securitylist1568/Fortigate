@@ -19,13 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-237-101-72.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
-dedicated.vsys.host
 dns12.online.tj.cn
 ec2-100-55-31-181.compute-1.amazonaws.com
 ec2-18-205-239-199.compute-1.amazonaws.com
@@ -47,7 +45,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-srv50830.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
