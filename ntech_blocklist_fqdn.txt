@@ -19,8 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 192-227-183-134-host.colocrossing.com
-204.76.203.32.ptr.pfcloud.network
-204.76.203.34.ptr.pfcloud.network
 212-8-252-6.hosted-by-worldstream.net
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -42,13 +40,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
-scan-15k.shadowserver.org
-scan-45o.shadowserver.org
 scan-70-00.shadowserver.org
-scan-71-05.shadowserver.org
 smtp1.telemach.net
 srv50830.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
-usman.probe.onyphe.net
