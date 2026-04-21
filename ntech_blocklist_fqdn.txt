@@ -41,6 +41,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
 scan-70-00.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 srv50830.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
