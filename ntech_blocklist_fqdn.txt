@@ -26,6 +26,7 @@
 193.26.115.213.powered.by.rdp.sh
 232.209.0.152.d.dyn.claro.net.do
 40.75.102.34.bc.googleusercontent.com
+60-249-231-22.hinet-ip.hinet.net
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
@@ -50,6 +51,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.org
+scan-55c.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
