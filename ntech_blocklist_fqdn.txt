@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+192-227-183-134-host.colocrossing.com
 204.76.203.32.ptr.pfcloud.network
 204.76.203.34.ptr.pfcloud.network
 204.76.203.36.ptr.pfcloud.network
