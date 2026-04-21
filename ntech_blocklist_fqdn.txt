@@ -19,18 +19,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-163-18-153.hinet-ip.hinet.net
-172-237-120-95.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-227-183-134-host.colocrossing.com
-232.209.0.152.d.dyn.claro.net.do
+204.76.203.36.ptr.pfcloud.network
+204.76.203.38.ptr.pfcloud.network
 60-249-231-22.hinet-ip.hinet.net
 amz.unixwiz.net
-azpdcg1tehht.stretchoid.com
-azpdcgmv4rzj.stretchoid.com
 azpdcgrbfvbu.stretchoid.com
 azpdcsycgcyf.stretchoid.com
-azpdes7t6661.stretchoid.com
-azpdssk480wi.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -41,7 +37,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-ns543577.ip-144-217-78.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -51,5 +46,4 @@ scan-55c.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
