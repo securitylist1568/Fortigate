@@ -21,8 +21,6 @@
 192-227-183-134-host.colocrossing.com
 204.76.203.32.ptr.pfcloud.network
 204.76.203.34.ptr.pfcloud.network
-204.76.203.36.ptr.pfcloud.network
-204.76.203.38.ptr.pfcloud.network
 212-8-252-6.hosted-by-worldstream.net
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -34,10 +32,10 @@ dedicated.vsys.host
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
