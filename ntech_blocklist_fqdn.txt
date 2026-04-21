@@ -31,6 +31,7 @@ dedicated.vsys.host
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host28.181-88-182.telecom.net.ar
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
