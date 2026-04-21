@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 114-33-236-143.hinet-ip.hinet.net
 185-45-195-15.hostsailor.com
-193.26.115.213.powered.by.rdp.sh
 238.200.80.34.bc.googleusercontent.com
 66-175-212-186.ip.linodeusercontent.com
 ae221edcc7cb073f4.awsglobalaccelerator.com
@@ -33,6 +32,7 @@ dynamic-ip-adsl.viettel.vn
 ec2-13-221-117-222.compute-1.amazonaws.com
 ec2-13-222-29-88.compute-1.amazonaws.com
 ec2-18-207-149-68.compute-1.amazonaws.com
+ec2-3-15-232-67.us-east-2.compute.amazonaws.com
 ec2-3-80-189-93.compute-1.amazonaws.com
 ec2-3-83-53-90.compute-1.amazonaws.com
 ec2-34-201-143-237.compute-1.amazonaws.com
@@ -44,12 +44,13 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-ns543577.ip-144-217-78.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scale-test-1776724251693-033a2dd0.mongo.ondigitalocean.com
+scan-69-05.shadowserver.org
 scan-81-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
