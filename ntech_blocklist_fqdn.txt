@@ -19,11 +19,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+204.76.203.32.ptr.pfcloud.network
+204.76.203.34.ptr.pfcloud.network
 204.76.203.36.ptr.pfcloud.network
 204.76.203.38.ptr.pfcloud.network
 60-249-231-22.hinet-ip.hinet.net
 amz.unixwiz.net
-azpdcsycgcyf.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -39,8 +40,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41f.shadowserver.org
+scan-15k.shadowserver.org
+scan-45o.shadowserver.org
 scan-55c.shadowserver.org
+scan-71-05.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
