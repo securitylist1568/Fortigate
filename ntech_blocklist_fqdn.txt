@@ -22,6 +22,7 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 193.26.115.213.powered.by.rdp.sh
+232.209.0.152.d.dyn.claro.net.do
 238.200.80.34.bc.googleusercontent.com
 40.75.102.34.bc.googleusercontent.com
 66-175-212-186.ip.linodeusercontent.com
