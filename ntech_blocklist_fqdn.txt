@@ -19,8 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-237-101-72.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-192-227-183-134-host.colocrossing.com
-212-8-252-6.hosted-by-worldstream.net
 60-250-140-251.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -29,6 +27,7 @@ client.yota.ru
 dal215.hawkhost.com
 dedicated.vsys.host
 dns12.online.tj.cn
+ecs-124-70-181-81.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host28.181-88-182.telecom.net.ar
