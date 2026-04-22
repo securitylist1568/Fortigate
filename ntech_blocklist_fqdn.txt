@@ -17,7 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+172-104-156-179.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+23-239-11-115.ip.linodeusercontent.com
 26.70.180.34.bc.googleusercontent.com
 45.63.71.244.vultrusercontent.com
 amz.unixwiz.net
@@ -36,6 +38,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-06g.shadowserver.org
 scan-73-02.shadowserver.org
 scan-74-07.shadowserver.org
