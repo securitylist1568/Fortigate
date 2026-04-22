@@ -35,12 +35,14 @@
 70.30.76.34.bc.googleusercontent.com
 74.73.62.34.bc.googleusercontent.com
 77.189.140.34.bc.googleusercontent.com
+9.24.149.185.va.kuroit.com
 92.217.190.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-142-150-168.ap-southeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
