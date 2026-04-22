@@ -46,6 +46,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-142-150-168.ap-southeast-1.compute.amazonaws.com
 ec2-3-22-220-233.us-east-2.compute.amazonaws.com
+federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
