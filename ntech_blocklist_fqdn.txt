@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-237-101-72.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+9.24.149.185.va.kuroit.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
@@ -46,5 +47,4 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
