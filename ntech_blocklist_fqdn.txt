@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-100.48.50.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -32,13 +31,19 @@
 212.233.38.34.bc.googleusercontent.com
 217.147.195.35.bc.googleusercontent.com
 23.152.62.34.bc.googleusercontent.com
-36-229-118-78.dynamic-ip.hinet.net
 70.30.76.34.bc.googleusercontent.com
 74.73.62.34.bc.googleusercontent.com
 77.189.140.34.bc.googleusercontent.com
 9.24.149.185.va.kuroit.com
 92.217.190.35.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgdroqxu.stretchoid.com
+azpdcs9aqpkl.stretchoid.com
+azpdes6tt1mc.stretchoid.com
+azpdes7t6661.stretchoid.com
+azpdesdfn5lp.stretchoid.com
+azpdespq7q3k.stretchoid.com
+azpdws4uku7j.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
