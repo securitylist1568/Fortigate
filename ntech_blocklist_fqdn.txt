@@ -55,7 +55,6 @@ scan-06g.shadowserver.org
 scan-73-02.shadowserver.org
 scan-74-07.shadowserver.org
 scan-83-7.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
