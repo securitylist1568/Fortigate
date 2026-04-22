@@ -27,7 +27,6 @@ blackburn.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -40,7 +39,6 @@ recyber.net
 rootevidence.com
 scan-06g.shadowserver.org
 scan-73-02.shadowserver.org
-scan-74-07.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
