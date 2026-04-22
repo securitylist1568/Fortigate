@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+107.116.244.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-33-236-143.hinet-ip.hinet.net
-172-237-101-72.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 9.24.149.185.va.kuroit.com
 amz.unixwiz.net
@@ -46,7 +46,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-73-02.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+www.internet-albedo.net
