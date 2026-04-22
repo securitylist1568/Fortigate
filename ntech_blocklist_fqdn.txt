@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-163-18-153.hinet-ip.hinet.net
 185-45-195-15.hostsailor.com
-2013.ip-ptr.tech
 26.70.180.34.bc.googleusercontent.com
 78.37.228.8.bc.googleusercontent.com
 amz.unixwiz.net
@@ -54,7 +52,6 @@ recyber.net
 scan-06g.shadowserver.org
 scan-73-02.shadowserver.org
 scan-74-07.shadowserver.org
-scan-83-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
