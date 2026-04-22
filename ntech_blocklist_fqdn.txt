@@ -22,6 +22,7 @@
 125-227-34-167.hinet-ip.hinet.net
 185-45-195-15.hostsailor.com
 220-132-223-169.hinet-ip.hinet.net
+36-229-118-78.dynamic-ip.hinet.net
 45.32.102.201.vultrusercontent.com
 9.24.149.185.va.kuroit.com
 amz.unixwiz.net
