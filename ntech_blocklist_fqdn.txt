@@ -23,10 +23,10 @@
 9.24.149.185.va.kuroit.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+e2e-dbaas-mongodb-uzvku-08dd8f68.mongo.ondigitalocean.com
 ec2-100-55-31-181.compute-1.amazonaws.com
 ec2-18-205-239-199.compute-1.amazonaws.com
 ec2-18-212-227-85.compute-1.amazonaws.com
@@ -39,12 +39,13 @@ hn.kd.ny.adsl
 host28.181-88-182.telecom.net.ar
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-73-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
