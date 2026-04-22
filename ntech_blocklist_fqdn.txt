@@ -17,15 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-44-21-70.dynamic-ip.hinet.net
 118-163-18-153.hinet-ip.hinet.net
-131.41.62.34.bc.googleusercontent.com
-149.28.132.25.vultrusercontent.com
 185-45-195-15.hostsailor.com
 2013.ip-ptr.tech
 26.70.180.34.bc.googleusercontent.com
 78.37.228.8.bc.googleusercontent.com
-9.24.149.185.va.kuroit.com
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
@@ -44,7 +40,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-18-142-150-168.ap-southeast-1.compute.amazonaws.com
 ec2-3-22-220-233.us-east-2.compute.amazonaws.com
 federationchilla.site
 festa04.jcatransporte.com.br
@@ -56,9 +51,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-47k.shadowserver.org
-scan-58a.shadowserver.org
-scan-63-9.shadowserver.org
+scan-06g.shadowserver.org
+scan-73-02.shadowserver.org
+scan-74-07.shadowserver.org
 scan-83-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
