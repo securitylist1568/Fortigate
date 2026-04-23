@@ -47,6 +47,7 @@
 198.192.241.35.bc.googleusercontent.com
 206.100.79.34.bc.googleusercontent.com
 206.169.241.35.bc.googleusercontent.com
+210.150.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 217.147.78.34.bc.googleusercontent.com
 22.200.205.35.bc.googleusercontent.com
@@ -71,7 +72,6 @@
 48.181.62.34.bc.googleusercontent.com
 56.118.148.146.bc.googleusercontent.com
 63.110.62.34.bc.googleusercontent.com
-63.149.216.162.bc.googleusercontent.com
 64.219.241.35.bc.googleusercontent.com
 66.226.62.34.bc.googleusercontent.com
 67.151.62.34.bc.googleusercontent.com
@@ -83,7 +83,6 @@
 86.168.195.35.bc.googleusercontent.com
 86.212.77.34.bc.googleusercontent.com
 88-147-152-202.dynamic.152.147.88.in-addr.arpa
-9.150.216.162.bc.googleusercontent.com
 9.255.140.34.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
 90.89.199.104.bc.googleusercontent.com
@@ -99,7 +98,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 n3ro.net
-no-mans-land.m247.com
 orangeupdate.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
