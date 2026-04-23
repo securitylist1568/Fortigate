@@ -20,6 +20,7 @@
 118-168-228-246.dynamic-ip.hinet.net
 120.210.203.35.bc.googleusercontent.com
 135.211.203.35.bc.googleusercontent.com
+147.211.203.35.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 159.211.203.35.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
@@ -44,6 +45,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ny-14.grupocg.cl
 pc112.cses.ilc.edu.tw
 pinkytales.com
