@@ -38,14 +38,15 @@
 192-155-81-124.ip.linodeusercontent.com
 210.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-26.70.180.34.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 48.211.203.35.bc.googleusercontent.com
+63.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 78.37.228.8.bc.googleusercontent.com
+9.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
@@ -65,7 +66,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-ny-14.grupocg.cl
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
