@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.254.95.34.bc.googleusercontent.com
+164.149.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -52,7 +53,9 @@ r3004.compute.pao1.edc.strln.net
 radamelfalcao.xyz
 recyber.net
 rootevidence.com
+scan-07e.shadowserver.org
 scan-09n.shadowserver.org
+scan-43b.shadowserver.org
 scan-43h.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
