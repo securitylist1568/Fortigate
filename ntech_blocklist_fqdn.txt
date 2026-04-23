@@ -28,6 +28,7 @@
 141.194.190.35.bc.googleusercontent.com
 157.48.76.34.bc.googleusercontent.com
 166.181.78.34.bc.googleusercontent.com
+17.150.216.162.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -75,6 +76,7 @@ proxy-ca002-ext2.a.ahrefs.com
 ptr-103-124-137-251.gmdp.net.id
 r3004.compute.pao1.edc.strln.net
 recyber.net
+rootevidence.com
 scan-09n.shadowserver.org
 scan-43h.shadowserver.org
 security.criminalip.com
