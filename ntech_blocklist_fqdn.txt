@@ -104,8 +104,11 @@ orangeupdate.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+ptr-103-124-137-251.gmdp.net.id
 r3004.compute.pao1.edc.strln.net
 recyber.net
+scan-09n.shadowserver.org
+scan-43h.shadowserver.org
 scan-60-10.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
