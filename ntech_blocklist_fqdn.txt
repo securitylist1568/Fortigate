@@ -35,7 +35,9 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 227.210.203.35.bc.googleusercontent.com
+227.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+243.210.203.35.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -65,6 +67,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
+scan-60-10.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
