@@ -23,6 +23,7 @@
 138.254.95.34.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 176.65.148.37.ptr.pfcloud.network
+180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198.210.203.35.bc.googleusercontent.com
 208.150.216.162.bc.googleusercontent.com
@@ -31,7 +32,6 @@
 26.210.203.35.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
-5.149.216.162.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
@@ -50,8 +50,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-13l.shadowserver.org
-scan-41m.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
