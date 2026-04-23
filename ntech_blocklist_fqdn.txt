@@ -28,6 +28,7 @@
 210.150.216.162.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
+5.149.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 88-147-152-202.dynamic.152.147.88.in-addr.arpa
@@ -56,6 +57,7 @@ scan-04i.shadowserver.org
 scan-07e.shadowserver.org
 scan-09n.shadowserver.org
 scan-13l.shadowserver.org
+scan-41m.shadowserver.org
 scan-43b.shadowserver.org
 scan-43h.shadowserver.org
 scan-61-9.shadowserver.org
