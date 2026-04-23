@@ -39,7 +39,6 @@
 143-42-173-60.ip.linodeusercontent.com
 147.211.203.35.bc.googleusercontent.com
 157.48.76.34.bc.googleusercontent.com
-159.211.203.35.bc.googleusercontent.com
 164.138.77.34.bc.googleusercontent.com
 166.181.78.34.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -105,7 +104,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
-da26a895a5b0565050954d701de3a322.hostedonsporestack.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -118,10 +116,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-s4850.vps.hosting
 scan-60-10.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
