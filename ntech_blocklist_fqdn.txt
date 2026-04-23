@@ -29,7 +29,6 @@
 129.28.195.35.bc.googleusercontent.com
 132.58.155.104.bc.googleusercontent.com
 135.156.62.34.bc.googleusercontent.com
-135.211.203.35.bc.googleusercontent.com
 136.217.79.34.bc.googleusercontent.com
 137.126.76.34.bc.googleusercontent.com
 137.152.79.34.bc.googleusercontent.com
@@ -91,6 +90,7 @@
 78.37.228.8.bc.googleusercontent.com
 80.4.76.34.bc.googleusercontent.com
 81.244.76.34.bc.googleusercontent.com
+82.150.216.162.bc.googleusercontent.com
 86.168.195.35.bc.googleusercontent.com
 86.212.77.34.bc.googleusercontent.com
 9.150.216.162.bc.googleusercontent.com
@@ -104,7 +104,6 @@ client.yota.ru
 da26a895a5b0565050954d701de3a322.hostedonsporestack.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.metfone.com.kh
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
