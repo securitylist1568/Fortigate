@@ -53,6 +53,7 @@
 26.70.77.34.bc.googleusercontent.com
 3.81.233.35.bc.googleusercontent.com
 48.64.76.34.bc.googleusercontent.com
+49.123.39.34.bc.googleusercontent.com
 49.220.52.34.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
 56.141.77.34.bc.googleusercontent.com
@@ -76,8 +77,12 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r3002.compute.sin1.edc.strln.net
+r4003.sin.opendns.com
 recyber.net
 rootevidence.com
+scan-41f.shadowserver.org
+scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
