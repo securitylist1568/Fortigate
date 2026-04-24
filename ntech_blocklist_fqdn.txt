@@ -23,7 +23,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.37.14.34.bc.googleusercontent.com
 116.235.78.34.bc.googleusercontent.com
-118-168-228-246.dynamic-ip.hinet.net
 12.227.38.34.bc.googleusercontent.com
 14.82.205.35.bc.googleusercontent.com
 141.222.62.34.bc.googleusercontent.com
@@ -37,7 +36,6 @@
 167.149.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 171.180.77.34.bc.googleusercontent.com
-172-236-19-195.ip.linodeusercontent.com
 178.177.52.34.bc.googleusercontent.com
 182.99.199.104.bc.googleusercontent.com
 183.10.62.34.bc.googleusercontent.com
@@ -49,6 +47,7 @@
 219.149.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 236.206.140.34.bc.googleusercontent.com
+248.149.216.162.bc.googleusercontent.com
 250.155.53.34.bc.googleusercontent.com
 26.172.50.34.bc.googleusercontent.com
 26.70.77.34.bc.googleusercontent.com
@@ -64,7 +63,6 @@
 78.174.62.34.bc.googleusercontent.com
 9.159.77.34.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcsmatos4.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -76,6 +74,7 @@ ip29.sudolio.io
 ip62.ip-5-135-241.eu
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
