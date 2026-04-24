@@ -58,10 +58,13 @@ recyber.net
 rootevidence.com
 scan-45o.shadowserver.org
 scan-60-10.shadowserver.org
+scan-63-8.shadowserver.org
 scan-73-02.shadowserver.org
+scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-214-162.datapacket.com
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 v163-44-193-26.a002.g.han1.static.cnode.io
