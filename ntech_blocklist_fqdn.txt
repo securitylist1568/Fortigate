@@ -24,14 +24,13 @@
 139.149.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
+172-236-1-60.ip.linodeusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194.210.203.35.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 207.149.216.162.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
-209.149.216.162.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
@@ -39,7 +38,7 @@
 239.150.216.162.bc.googleusercontent.com
 49.123.39.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-56.149.216.162.bc.googleusercontent.com
+9.24.149.185.va.kuroit.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -55,10 +54,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-63-8.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-214-162.datapacket.com
+this-is-a-tor-exit.ignorelist.com
 users219.vip.heteml.jp
