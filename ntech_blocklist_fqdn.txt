@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.149.216.162.bc.googleusercontent.com
 115.150.216.162.bc.googleusercontent.com
+139.149.216.162.bc.googleusercontent.com
 142.149.216.162.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
@@ -54,7 +55,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60-10.shadowserver.org
 scan-63-8.shadowserver.org
-scan-73-02.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
