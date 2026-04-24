@@ -22,7 +22,6 @@
 128.149.216.162.bc.googleusercontent.com
 128.49.180.34.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
-142.149.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
@@ -35,7 +34,6 @@
 209.149.216.162.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
-223.150.216.162.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
@@ -49,7 +47,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host.sintesa.peninsula.hotel
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
@@ -58,7 +55,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-60-10.shadowserver.org
 scan-63-8.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
@@ -66,4 +62,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
-v163-44-193-26.a002.g.han1.static.cnode.io
