@@ -31,10 +31,8 @@
 214.210.203.35.bc.googleusercontent.com
 223.150.216.162.bc.googleusercontent.com
 48.64.76.34.bc.googleusercontent.com
-49.123.39.34.bc.googleusercontent.com
 53.210.203.35.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
-62-210-217-72.rev.poneytelecom.eu
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 81.150.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
@@ -56,15 +54,11 @@ out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r3002.compute.sin1.edc.strln.net
-r4003.sin.opendns.com
 recyber.net
 rootevidence.com
-scan-41f.shadowserver.org
 scan-45o.shadowserver.org
 scan-60-10.shadowserver.org
 scan-73-02.shadowserver.org
-scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
