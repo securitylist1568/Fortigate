@@ -17,7 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.149.216.162.bc.googleusercontent.com
+115.150.216.162.bc.googleusercontent.com
 142.149.216.162.bc.googleusercontent.com
+154.210.203.35.bc.googleusercontent.com
+183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.210.203.35.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
@@ -27,6 +31,7 @@
 223.150.216.162.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
+49.123.39.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 56.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
