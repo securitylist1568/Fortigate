@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-228-246.dynamic-ip.hinet.net
-137.211.203.35.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 241.149.216.162.bc.googleusercontent.com
@@ -27,9 +26,6 @@
 74-50-97-90.static.hvvc.us
 76.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
-azpdsg4lwdz3.stretchoid.com
-azpdsgt866ai.stretchoid.com
-azpdssp7vjwc.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -44,7 +40,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
-scan-45o.shadowserver.org
 scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
@@ -52,6 +47,7 @@ scan-63-13.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
 scan-85-3.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
