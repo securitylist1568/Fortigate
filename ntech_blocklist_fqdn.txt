@@ -18,9 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 133.149.216.162.bc.googleusercontent.com
+146.211.203.35.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
+194-204-58-81.ip.elisa.ee
 210.150.216.162.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
@@ -39,6 +41,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
+host-186-3-217-69.netlife.ec
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-194.superbithost.com
 ip29.sudolio.io
