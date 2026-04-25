@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
 133.149.216.162.bc.googleusercontent.com
-163-172-215-177.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 210.150.216.162.bc.googleusercontent.com
@@ -28,8 +27,8 @@
 250.210.203.35.bc.googleusercontent.com
 36-230-252-167.dynamic-ip.hinet.net
 60.149.216.162.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
 76.211.203.35.bc.googleusercontent.com
+92.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -50,9 +49,7 @@ recyber.net
 scan-02k.shadowserver.org
 scan-15k.shadowserver.org
 scan-42i.shadowserver.org
-scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
-scan-63-13.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
 scan-85-3.shadowserver.org
