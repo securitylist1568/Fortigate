@@ -19,8 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.149.216.162.bc.googleusercontent.com
-115.150.216.162.bc.googleusercontent.com
 118-168-228-246.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
 128.149.216.162.bc.googleusercontent.com
@@ -28,11 +26,9 @@
 136.149.216.162.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
-154.210.203.35.bc.googleusercontent.com
 172-236-1-60.ip.linodeusercontent.com
 179.150.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
-183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.149.216.162.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
@@ -42,7 +38,6 @@
 230.150.216.162.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
-49.123.39.34.bc.googleusercontent.com
 9.24.149.185.va.kuroit.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -61,7 +56,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
