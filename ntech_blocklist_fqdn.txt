@@ -20,12 +20,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-228-246.dynamic-ip.hinet.net
 137.211.203.35.bc.googleusercontent.com
+163-172-215-177.rev.poneytelecom.eu
 165.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.149.216.162.bc.googleusercontent.com
 21.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
+74-50-97-90.static.hvvc.us
 80.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
@@ -50,6 +52,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-45o.shadowserver.org
+scan-60-10.shadowserver.org
 scan-61-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
