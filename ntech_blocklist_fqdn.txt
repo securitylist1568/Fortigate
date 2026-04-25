@@ -24,15 +24,13 @@
 128.149.216.162.bc.googleusercontent.com
 128.49.180.34.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
-139.149.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 172-236-1-60.ip.linodeusercontent.com
 179.150.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+201.143.138.107.dsl.dyn.telnor.net
 207.149.216.162.bc.googleusercontent.com
-207.150.216.162.bc.googleusercontent.com
-212.150.216.162.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
