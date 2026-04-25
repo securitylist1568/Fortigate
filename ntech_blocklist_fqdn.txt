@@ -26,6 +26,8 @@
 250.210.203.35.bc.googleusercontent.com
 54.135.87.34.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
+72.150.216.162.bc.googleusercontent.com
+77.211.203.35.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
