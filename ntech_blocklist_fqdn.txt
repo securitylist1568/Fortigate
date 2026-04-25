@@ -43,12 +43,14 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02k.shadowserver.org
 scan-45o.shadowserver.org
 scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-13.shadowserver.org
 scan-81-7.shadowserver.org
+scan-83-7.shadowserver.org
 scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
