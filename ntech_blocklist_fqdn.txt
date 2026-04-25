@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-133.149.216.162.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -26,7 +25,6 @@
 21.210.203.35.bc.googleusercontent.com
 210.150.216.162.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
-250.210.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
 54.135.87.34.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
@@ -44,9 +42,7 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 host-186-3-217-69.netlife.ec
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-194.superbithost.com
 ip29.sudolio.io
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
