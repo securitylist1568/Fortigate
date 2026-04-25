@@ -21,19 +21,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-228-246.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
-128.149.216.162.bc.googleusercontent.com
-128.49.180.34.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
-144.210.203.35.bc.googleusercontent.com
 172-236-1-60.ip.linodeusercontent.com
 179.150.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201.143.138.107.dsl.dyn.telnor.net
-207.149.216.162.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
-230.150.216.162.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 36.210.203.35.bc.googleusercontent.com
 9.24.149.185.va.kuroit.com
@@ -60,7 +55,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 this-is-a-tor-exit.ignorelist.com
