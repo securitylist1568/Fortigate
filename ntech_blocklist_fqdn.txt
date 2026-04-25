@@ -24,7 +24,6 @@
 197.149.216.162.bc.googleusercontent.com
 201.143.138.107.dsl.dyn.telnor.net
 21.210.203.35.bc.googleusercontent.com
-217.150.216.162.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
