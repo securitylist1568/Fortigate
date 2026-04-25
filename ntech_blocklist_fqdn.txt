@@ -23,11 +23,8 @@
 194-195-253-86.ip.linodeusercontent.com
 210.150.216.162.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
-241.149.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
-36-230-252-167.dynamic-ip.hinet.net
 60.149.216.162.bc.googleusercontent.com
-76.211.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -49,10 +46,7 @@ recyber.net
 scan-02k.shadowserver.org
 scan-15k.shadowserver.org
 scan-42i.shadowserver.org
-scan-61-4.shadowserver.org
-scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
-scan-85-3.shadowserver.org
 scan-87-7.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
