@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-228-246.dynamic-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
 133.149.216.162.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
@@ -51,7 +50,6 @@ scan-15k.shadowserver.org
 scan-42i.shadowserver.org
 scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
-scan-61-7.shadowserver.org
 scan-63-13.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
@@ -60,5 +58,6 @@ scan-87-7.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+speedtest.evard.ch
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
