@@ -19,8 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-228-246.dynamic-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
+133.149.216.162.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
+24.150.216.162.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 36-230-252-167.dynamic-ip.hinet.net
@@ -33,6 +35,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-194.superbithost.com
@@ -45,6 +48,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
 scan-15k.shadowserver.org
+scan-42i.shadowserver.org
 scan-60-10.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
@@ -52,6 +56,7 @@ scan-63-13.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
 scan-85-3.shadowserver.org
+scan-87-7.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
