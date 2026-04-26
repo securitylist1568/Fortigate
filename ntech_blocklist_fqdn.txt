@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 101.254.78.34.bc.googleusercontent.com
-104.150.216.162.bc.googleusercontent.com
 11.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -74,6 +73,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -82,8 +82,8 @@ r297-pr-guacu.ibys.com.br
 recyber.net
 scan-41m.shadowserver.org
 scan-63-9.shadowserver.org
+scz-190-104-20-00042.tigo.bo
 smtp1.telemach.net
-srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
