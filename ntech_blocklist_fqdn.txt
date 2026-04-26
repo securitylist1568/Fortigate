@@ -26,6 +26,7 @@
 153.210.203.35.bc.googleusercontent.com
 16.49.48.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+201-20-85-122.dynamic.mobtelecom.com.br
 45-79-162-245.ip.linodeusercontent.com
 50-116-52-80.ip.linodeusercontent.com
 aim.sba-research.org
