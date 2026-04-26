@@ -23,6 +23,7 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+151.149.216.162.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-73.ip.linodeusercontent.com
@@ -56,6 +57,7 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+b3dd31ae.virtua.com.br
 babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
