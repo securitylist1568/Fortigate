@@ -51,6 +51,7 @@
 50.38.205.35.bc.googleusercontent.com
 56.149.216.162.bc.googleusercontent.com
 57.1.240.35.bc.googleusercontent.com
+64.150.216.162.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 90.184.53.34.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
@@ -63,7 +64,6 @@ client.yota.ru
 dal215.hawkhost.com
 dedicated.sollutium.com
 dns12.online.tj.cn
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
