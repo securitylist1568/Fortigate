@@ -22,7 +22,6 @@
 114-37-75-156.dynamic-ip.hinet.net
 147.149.216.162.bc.googleusercontent.com
 150.137.76.34.bc.googleusercontent.com
-151.149.216.162.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 160.150.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
@@ -40,14 +39,12 @@
 22.171.241.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
-243.150.216.162.bc.googleusercontent.com
 36-232-160-158.dynamic-ip.hinet.net
 37.150.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
 50.38.205.35.bc.googleusercontent.com
 57.1.240.35.bc.googleusercontent.com
-64.150.216.162.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 90.184.53.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -63,7 +60,6 @@ azpdssk480wi.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssw6luqc.stretchoid.com
 b2.org.afilias-nst.org
-b3dd31ae.virtua.com.br
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -80,6 +76,5 @@ recyber.net
 rping.ipip.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.248.92.78.5.clients.your-server.de
 users219.vip.heteml.jp
 v163-44-193-26.a002.g.han1.static.cnode.io
