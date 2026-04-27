@@ -64,3 +64,4 @@ static.223.190.168.204.clients.your-server.de
 user-45-131-70-129.led02.ru.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+vds1077812.hosted-by-itldc.com
