@@ -24,7 +24,6 @@
 118-163-24-217.hinet-ip.hinet.net
 128.5.199.104.bc.googleusercontent.com
 134.68.211.130.bc.googleusercontent.com
-161.252.76.34.bc.googleusercontent.com
 163.6.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 209.72.38.34.bc.googleusercontent.com
@@ -53,9 +52,7 @@ scan-13n.shadowserver.org
 scan-15k.shadowserver.org
 scan-42i.shadowserver.org
 scan-58.security.ipip.net
-scan-81-7.shadowserver.org
 seedblocks.eu.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
