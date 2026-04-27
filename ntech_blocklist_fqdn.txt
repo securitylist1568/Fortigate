@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-108.1.118.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,9 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-166-17-98.dynamic-ip.hinet.net
+172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-201-20-85-122.dynamic.mobtelecom.com.br
 203-74-130-205.hinet-ip.hinet.net
+220-136-158-178.dynamic-ip.hinet.net
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -41,7 +42,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-seedblocks.eu.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.223.190.168.204.clients.your-server.de
