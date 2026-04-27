@@ -36,16 +36,11 @@
 63.22.187.35.bc.googleusercontent.com
 87.102.140.34.bc.googleusercontent.com
 96.141.205.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-13-222-29-88.compute-1.amazonaws.com
-ec2-13-222-38-67.compute-1.amazonaws.com
-ec2-44-201-164-126.compute-1.amazonaws.com
-ec2-44-201-165-173.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
