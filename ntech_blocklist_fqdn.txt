@@ -24,6 +24,7 @@
 118-163-24-217.hinet-ip.hinet.net
 128.5.199.104.bc.googleusercontent.com
 134.68.211.130.bc.googleusercontent.com
+161.252.76.34.bc.googleusercontent.com
 163.6.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 209.72.38.34.bc.googleusercontent.com
@@ -49,12 +50,14 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02m.shadowserver.org
 scan-08g.shadowserver.org
 scan-13n.shadowserver.org
 scan-15k.shadowserver.org
 scan-42i.shadowserver.org
-scan-58.security.ipip.net
 seedblocks.eu.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
+v163-44-193-26.a002.g.han1.static.cnode.io
