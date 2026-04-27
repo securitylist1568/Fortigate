@@ -1,4 +1,3 @@
-1-171-128-134.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 101.8.195.35.bc.googleusercontent.com
 108.1.118.34.bc.googleusercontent.com
@@ -35,6 +34,7 @@
 63.22.187.35.bc.googleusercontent.com
 87.102.140.34.bc.googleusercontent.com
 96.141.205.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -45,6 +45,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -52,9 +53,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.org
 scan-08g.shadowserver.org
-scan-13n.shadowserver.org
-scan-15k.shadowserver.org
 scan-42i.shadowserver.org
+scan-61-4.shadowserver.org
 seedblocks.eu.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
