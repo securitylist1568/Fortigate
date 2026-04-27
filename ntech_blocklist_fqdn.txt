@@ -53,7 +53,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.org
 scan-08g.shadowserver.org
-scan-42i.shadowserver.org
 scan-61-4.shadowserver.org
 seedblocks.eu.com
 smtp1.telemach.net
