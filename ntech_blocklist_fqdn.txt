@@ -57,6 +57,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
+scan-58.security.ipip.net
 scan-80-9.shadowserver.org
 scan-81-7.shadowserver.org
 security.criminalip.com
@@ -67,3 +68,4 @@ user-45-131-70-129.led02.ru.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
+www.internet-albedo.net
