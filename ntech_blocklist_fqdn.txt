@@ -20,8 +20,8 @@
 133.45.88.34.bc.googleusercontent.com
 172-239-110-119.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-23.204.212.35.bc.googleusercontent.com
 24.235.130.34.bc.googleusercontent.com
+77-61-31-124.biz.kpn.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
