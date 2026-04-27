@@ -1,7 +1,6 @@
 1-171-128-134.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 101.8.195.35.bc.googleusercontent.com
-106.107.218.45.adsl.dynamic.seed.net.tw
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,9 +20,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.212.52.34.bc.googleusercontent.com
+118-163-24-217.hinet-ip.hinet.net
 128.5.199.104.bc.googleusercontent.com
 134.68.211.130.bc.googleusercontent.com
-16.49.48.34.bc.googleusercontent.com
 161.252.76.34.bc.googleusercontent.com
 163.6.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -41,7 +40,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -49,14 +47,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04i.shadowserver.org
+scan-08g.shadowserver.org
 scan-13n.shadowserver.org
 scan-15k.shadowserver.org
+scan-42i.shadowserver.org
 scan-58.security.ipip.net
-scan-80-9.shadowserver.org
 scan-81-7.shadowserver.org
 security.criminalip.com
-seedblocks.eu.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-70-129.led02.ru.misaka.io
