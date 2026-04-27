@@ -35,7 +35,6 @@
 63.22.187.35.bc.googleusercontent.com
 87.102.140.34.bc.googleusercontent.com
 96.141.205.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
