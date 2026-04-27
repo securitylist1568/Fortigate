@@ -28,7 +28,6 @@
 163.6.187.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-203-74-130-205.hinet-ip.hinet.net
 209.72.38.34.bc.googleusercontent.com
 217.211.38.34.bc.googleusercontent.com
 220-136-158-178.dynamic-ip.hinet.net
@@ -36,6 +35,7 @@
 63.22.187.35.bc.googleusercontent.com
 87.102.140.34.bc.googleusercontent.com
 96.141.205.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -52,6 +52,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
+scan-13n.shadowserver.org
+scan-15k.shadowserver.org
 scan-58.security.ipip.net
 scan-80-9.shadowserver.org
 scan-81-7.shadowserver.org
@@ -60,7 +62,6 @@ seedblocks.eu.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-70-129.led02.ru.misaka.io
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
 www.internet-albedo.net
