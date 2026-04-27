@@ -18,8 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-133.45.88.34.bc.googleusercontent.com
-161.252.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 220-136-158-178.dynamic-ip.hinet.net
 23.204.212.35.bc.googleusercontent.com
@@ -53,5 +51,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
-v163-44-193-26.a002.g.han1.static.cnode.io
 vmi3042921.contaboserver.net
