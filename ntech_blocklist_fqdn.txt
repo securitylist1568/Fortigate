@@ -40,6 +40,8 @@ amz.unixwiz.net
 azpdsg41vonp.stretchoid.com
 azpdsgu2vs9r.stretchoid.com
 azpdsgw3iszc.stretchoid.com
+azpdsse1zlrx.stretchoid.com
+azpdssw3j3o8.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -57,6 +59,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.org
 scan-08g.shadowserver.org
+scan-13n.shadowserver.org
 scan-56.security.ipip.net
 scan-61-4.shadowserver.org
 seedblocks.eu.com
