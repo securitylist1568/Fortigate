@@ -23,6 +23,7 @@
 61-216-93-43.hinet-ip.hinet.net
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
+azpdesdfn5lp.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsg6i54lg.stretchoid.com
 azpdsghmx647.stretchoid.com
@@ -30,6 +31,8 @@ azpdsglq54br.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdss1xwgc0.stretchoid.com
 azpdss4lc1pe.stretchoid.com
+azpdssw3j3o8.stretchoid.com
+azpdsszhqwse.stretchoid.com
 aztswsce79pu.t.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
