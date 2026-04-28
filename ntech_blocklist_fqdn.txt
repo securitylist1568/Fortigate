@@ -22,8 +22,11 @@
 196.82.52.179.d.dyn.claro.net.do
 61-216-93-43.hinet-ip.hinet.net
 amz.unixwiz.net
+azpdcgmv4rzj.stretchoid.com
 azpdcgngane9.stretchoid.com
+azpdcslejnig.stretchoid.com
 azpdesdfn5lp.stretchoid.com
+azpdsg1j90qs.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsg6i54lg.stretchoid.com
 azpdsghmx647.stretchoid.com
@@ -31,8 +34,14 @@ azpdsglq54br.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdss1xwgc0.stretchoid.com
 azpdss4lc1pe.stretchoid.com
+azpdss9nwu1g.stretchoid.com
+azpdsse1zlrx.stretchoid.com
+azpdsskp8muf.stretchoid.com
+azpdsslt2dou.stretchoid.com
+azpdssumseh6.stretchoid.com
 azpdssw3j3o8.stretchoid.com
 azpdsszhqwse.stretchoid.com
+azpdwsowi27o.stretchoid.com
 aztswsce79pu.t.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
