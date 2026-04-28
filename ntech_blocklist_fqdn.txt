@@ -31,12 +31,10 @@
 185-45-195-15.hostsailor.com
 193-104-222-3.cust.norisab.net
 211.97.78.34.bc.googleusercontent.com
+23-168-136-153.rev.circlevps.net
 237.22.77.34.bc.googleusercontent.com
-241.150.38.34.bc.googleusercontent.com
-32.173.140.34.bc.googleusercontent.com
 36.139.77.34.bc.googleusercontent.com
 45.204.195.35.bc.googleusercontent.com
-6682-315a.jnb01.za.misaka.io
 amz.unixwiz.net
 artsals.com
 b2.org.afilias-nst.org
