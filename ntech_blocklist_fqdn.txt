@@ -27,6 +27,7 @@
 154.87.92.34.bc.googleusercontent.com
 172-239-110-80.ip.linodeusercontent.com
 172-239-117-155.ip.linodeusercontent.com
+173.152.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193-104-222-3.cust.norisab.net
 211.97.78.34.bc.googleusercontent.com
