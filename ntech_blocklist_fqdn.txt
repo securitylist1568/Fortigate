@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-107-174-64-157-host.colocrossing.com
 11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -28,9 +27,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-114-115-219-8.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-gghs116-12l.org
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -39,11 +36,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-15k.shadowserver.org
 scan-83-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
 v163-44-193-26.a002.g.han1.static.cnode.io
