@@ -23,6 +23,7 @@
 129.64.155.104.bc.googleusercontent.com
 133.45.88.34.bc.googleusercontent.com
 136.70.38.34.bc.googleusercontent.com
+154.87.92.34.bc.googleusercontent.com
 172-239-110-80.ip.linodeusercontent.com
 172-239-117-155.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -48,11 +49,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04i.shadowserver.org
-scan-15k.shadowserver.org
 scan-40g.shadowserver.org
 scan-61-9.shadowserver.org
-scan-77-06.shadowserver.org
 scan-85-3.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
