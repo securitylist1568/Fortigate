@@ -50,6 +50,7 @@ recyber.net
 scan-04i.shadowserver.org
 scan-15k.shadowserver.org
 scan-77-06.shadowserver.org
+scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
