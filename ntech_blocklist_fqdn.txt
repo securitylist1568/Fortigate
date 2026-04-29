@@ -21,9 +21,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 112-104-90-242.adsl.dynamic.seed.net.tw
 135.41.38.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 139.250.76.34.bc.googleusercontent.com
 151.96.34.89.baremetal.zare.com
 152.143.22.34.bc.googleusercontent.com
+172-236-19-85.ip.linodeusercontent.com
 172-239-110-80.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 19.68.62.34.bc.googleusercontent.com
@@ -32,7 +34,6 @@
 220-136-158-178.dynamic-ip.hinet.net
 54.17.199.104.bc.googleusercontent.com
 59.223.241.35.bc.googleusercontent.com
-61-231-32-116.dynamic-ip.hinet.net
 86.203.190.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -51,11 +52,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-63-9.shadowserver.org
+scan-47k.shadowserver.org
 scan-74-07.shadowserver.org
-scan-86-7.shadowserver.org
 smtp1.telemach.net
 speedtest.evard.ch
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
