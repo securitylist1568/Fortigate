@@ -39,12 +39,14 @@
 185-45-195-15.hostsailor.com
 19.68.62.34.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
+193-181-46-147.cust.norisab.net
 23-92-27-179.ip.linodeusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+54.17.199.104.bc.googleusercontent.com
 59.223.241.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 61-231-32-116.dynamic-ip.hinet.net
@@ -57,6 +59,7 @@ ce60edefcc.research-scanner.com
 client.yota.ru
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
+dns.adguard-dns.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
