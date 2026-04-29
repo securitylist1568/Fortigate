@@ -17,7 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+154.87.92.34.bc.googleusercontent.com
+173-255-236-116.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+96-126-108-58.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcgmv4rzj.stretchoid.com
 azpdcgngane9.stretchoid.com
@@ -62,7 +65,10 @@ pinkytales.com
 ppp109-111-158-129.tis-dialog.ru
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 rping.ipip.net
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+zhangyuan3.virtuaserver.com.br
