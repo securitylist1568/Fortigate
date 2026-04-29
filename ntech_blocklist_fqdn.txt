@@ -18,11 +18,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-138.226.123.103.jnpl.jeebr.net
 147.116.47.34.bc.googleusercontent.com
 172-236-19-85.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-203.136.161.60.broad.lc.yn.dynamic.163data.com.cn
+45-33-74-219.ip.linodeusercontent.com
 45-79-147-114.ip.linodeusercontent.com
 97-107-135-168.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -34,6 +33,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip236.ip-5-135-71.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 node-202-8-114-138.alliancebroadband.in
