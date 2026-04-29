@@ -24,6 +24,7 @@
 139.250.76.34.bc.googleusercontent.com
 151.96.34.89.baremetal.zare.com
 168-113-158-51.instances.scw.cloud
+172-239-110-80.ip.linodeusercontent.com
 172-239-117-129.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 19.68.62.34.bc.googleusercontent.com
