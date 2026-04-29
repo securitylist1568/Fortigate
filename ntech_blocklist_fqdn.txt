@@ -21,7 +21,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+20.149.216.162.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
+248.211.203.35.bc.googleusercontent.com
+39.150.216.162.bc.googleusercontent.com
 45-33-74-219.ip.linodeusercontent.com
 45-79-159-136.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -29,6 +32,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 ec2-100-48-87-238.compute-1.amazonaws.com
 ec2-107-20-105-127.compute-1.amazonaws.com
 ec2-174-129-71-167.compute-1.amazonaws.com
@@ -38,6 +42,7 @@ ec2-44-201-164-126.compute-1.amazonaws.com
 ec2-54-89-192-82.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hn.kd.pix
 htb-h9b8tjwfph.htb-cloud.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
