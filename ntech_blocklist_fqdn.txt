@@ -49,6 +49,7 @@
 45-79-225-32.ip.linodeusercontent.com
 59.223.241.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
+61-231-32-116.dynamic-ip.hinet.net
 86.203.190.35.bc.googleusercontent.com
 96-126-108-58.ip.linodeusercontent.com
 adventure.yatano.com
@@ -77,6 +78,8 @@ scan-41f.shadowserver.org
 scan-47k.shadowserver.org
 scan-59g.shadowserver.org
 scan-60.security.ipip.net
+scan-63-9.shadowserver.org
+scan-86-7.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
