@@ -53,6 +53,7 @@ adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
+ce60edefcc.research-scanner.com
 client.yota.ru
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
