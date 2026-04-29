@@ -24,7 +24,6 @@
 139.250.76.34.bc.googleusercontent.com
 151.96.34.89.baremetal.zare.com
 152.143.22.34.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 172-239-110-80.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 19.68.62.34.bc.googleusercontent.com
@@ -46,13 +45,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41f.shadowserver.org
 scan-63-9.shadowserver.org
 scan-74-07.shadowserver.org
 scan-86-7.shadowserver.org
