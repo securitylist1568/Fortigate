@@ -59,4 +59,5 @@ scan-74-07.shadowserver.org
 smtp1.telemach.net
 speedtest.evard.ch
 static-ip-250-192-65-202.rev.dyxnet.com
+user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
