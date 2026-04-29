@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 102.54.6.34.bc.googleusercontent.com
-102.86.77.34.bc.googleusercontent.com
 106.221.52.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -35,12 +34,10 @@
 60-249-14-121.hinet-ip.hinet.net
 61-231-32-116.dynamic-ip.hinet.net
 86.203.190.35.bc.googleusercontent.com
-adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 ce60edefcc.research-scanner.com
 client.yota.ru
-customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 deib-srv-widescan.certificate-survey.it
 dns.adguard-dns.com
@@ -49,7 +46,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1817-110.members.linode.com
 lisbon.portugal.com
 m01923.citech-bd.com
 mfyabgec.musicpda.com
@@ -57,13 +53,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40e.shadowserver.org
 scan-41f.shadowserver.org
 scan-59g.shadowserver.org
 scan-60.security.ipip.net
 scan-63-9.shadowserver.org
 scan-86-7.shadowserver.org
-scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-71-129.ber02.de.misaka.io
