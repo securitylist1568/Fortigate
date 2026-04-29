@@ -38,7 +38,6 @@
 86.203.190.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-ce60edefcc.research-scanner.com
 client.yota.ru
 dal215.hawkhost.com
 deib-srv-widescan.certificate-survey.it
