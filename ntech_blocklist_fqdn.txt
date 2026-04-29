@@ -60,6 +60,7 @@ ce60edefcc.research-scanner.com
 client.yota.ru
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
+deib-srv-widescan.certificate-survey.it
 dns.adguard-dns.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
