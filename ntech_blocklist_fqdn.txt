@@ -30,6 +30,7 @@
 154.87.92.34.bc.googleusercontent.com
 171.156.62.34.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
+172-239-117-129.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-73.ip.linodeusercontent.com
@@ -57,13 +58,6 @@ client.yota.ru
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-13-222-38-67.compute-1.amazonaws.com
-ec2-18-205-150-207.compute-1.amazonaws.com
-ec2-3-81-224-7.compute-1.amazonaws.com
-ec2-3-81-230-20.compute-1.amazonaws.com
-ec2-3-94-201-110.compute-1.amazonaws.com
-ec2-52-206-189-10.compute-1.amazonaws.com
-ec2-54-89-155-82.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
