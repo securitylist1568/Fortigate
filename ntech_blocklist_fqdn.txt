@@ -26,6 +26,7 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+151.96.34.89.baremetal.zare.com
 152.143.22.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 171.156.62.34.bc.googleusercontent.com
