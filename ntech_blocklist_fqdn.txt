@@ -20,12 +20,15 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 131.3.76.34.bc.googleusercontent.com
+135.41.38.34.bc.googleusercontent.com
 151.96.34.89.baremetal.zare.com
 168-113-158-51.instances.scw.cloud
 172-239-117-129.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 193-181-46-147.cust.norisab.net
+220-136-158-178.dynamic-ip.hinet.net
 54.17.199.104.bc.googleusercontent.com
+59.223.241.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 61-231-32-116.dynamic-ip.hinet.net
 adventure.yatano.com
