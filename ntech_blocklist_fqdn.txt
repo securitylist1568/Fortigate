@@ -54,6 +54,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-47k.shadowserver.org
+scan-60-10.shadowserver.org
 scan-74-07.shadowserver.org
 smtp1.telemach.net
 speedtest.evard.ch
