@@ -29,13 +29,10 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 2.161.62.34.bc.googleusercontent.com
-20.149.216.162.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
 220-136-158-178.dynamic-ip.hinet.net
 231.87.233.35.bc.googleusercontent.com
-248.211.203.35.bc.googleusercontent.com
-39.150.216.162.bc.googleusercontent.com
 46-110-173-90.metronet.net
 49.233.79.34.bc.googleusercontent.com
 6.18.140.34.bc.googleusercontent.com
@@ -62,10 +59,8 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hn.kd.pix
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
