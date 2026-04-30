@@ -32,10 +32,12 @@
 23.204.212.35.bc.googleusercontent.com
 231.87.233.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
+253.149.216.162.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
 38.26.148.146.bc.googleusercontent.com
 45-79-147-176.ip.linodeusercontent.com
 6.18.140.34.bc.googleusercontent.com
+61-58-66-137.nty.dynamic.tbcnet.net.tw
 63.150.216.162.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
