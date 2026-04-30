@@ -28,6 +28,7 @@
 246.150.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 45-79-181-199.ip.linodeusercontent.com
+45.149.216.162.bc.googleusercontent.com
 61-58-66-137.nty.dynamic.tbcnet.net.tw
 84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
