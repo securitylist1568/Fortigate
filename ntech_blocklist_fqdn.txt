@@ -71,6 +71,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-43h.shadowserver.org
+scan-45o.shadowserver.org
 scan-61-7.shadowserver.org
 scan-67-1.shadowserver.org
 smtp1.telemach.net
