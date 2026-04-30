@@ -26,10 +26,9 @@
 148.150.216.162.bc.googleusercontent.com
 158.83.205.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
-179.47.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
-2.161.62.34.bc.googleusercontent.com
+225.211.203.35.bc.googleusercontent.com
 23.204.212.35.bc.googleusercontent.com
 231.87.233.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
@@ -62,8 +61,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-45o.shadowserver.org
-scan-61-7.shadowserver.org
-scan-67-1.shadowserver.org
 scan-73-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
