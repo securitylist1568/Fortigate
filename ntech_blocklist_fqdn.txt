@@ -35,9 +35,12 @@
 252.150.216.162.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
 38.26.148.146.bc.googleusercontent.com
+45-79-147-176.ip.linodeusercontent.com
 6.18.140.34.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
+66-175-210-233.ip.linodeusercontent.com
+66.13.205.35.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
