@@ -22,6 +22,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 157.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-122-95.ip.linodeusercontent.com
 20.149.216.162.bc.googleusercontent.com
 220-136-158-178.dynamic-ip.hinet.net
 240.210.203.35.bc.googleusercontent.com
@@ -31,7 +32,11 @@
 45-79-159-136.ip.linodeusercontent.com
 69-164-209-86.ip.linodeusercontent.com
 amz.unixwiz.net
+azpdcgdroqxu.stretchoid.com
+azpdcgmv4rzj.stretchoid.com
+azpdsg8p4zv4.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
+azpdsghmx647.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdssxq24h7.stretchoid.com
 azpdwsowi27o.stretchoid.com
@@ -51,7 +56,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hn.kd.pix
 htb-h9b8tjwfph.htb-cloud.com
-ip236.ip-5-135-71.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
