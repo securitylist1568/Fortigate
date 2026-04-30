@@ -19,8 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-40-210-163.dynamic-ip.hinet.net
-119.44.97.34.bc.googleusercontent.com
 122.33.147.103.in-addr.arpa
 142.49.211.130.bc.googleusercontent.com
 147.116.47.34.bc.googleusercontent.com
@@ -35,12 +33,10 @@
 252.150.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
-38.26.148.146.bc.googleusercontent.com
 45-79-147-176.ip.linodeusercontent.com
 6.18.140.34.bc.googleusercontent.com
 61-58-66-137.nty.dynamic.tbcnet.net.tw
 63.150.216.162.bc.googleusercontent.com
-65.210.203.35.bc.googleusercontent.com
 66-175-210-233.ip.linodeusercontent.com
 66.13.205.35.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
@@ -61,10 +57,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.org
+scan-60-12.shadowserver.org
 scan-61-9.shadowserver.org
 scan-73-02.shadowserver.org
 scan-83-7.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
