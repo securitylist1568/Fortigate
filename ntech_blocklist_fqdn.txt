@@ -28,6 +28,7 @@
 198-74-57-69.ip.linodeusercontent.com
 199.149.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
+40.150.216.162.bc.googleusercontent.com
 45-79-181-199.ip.linodeusercontent.com
 45.149.216.162.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
@@ -48,9 +49,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-15k.shadowserver.org
-scan-40g.shadowserver.org
-scan-45o.shadowserver.org
-scan-89-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
