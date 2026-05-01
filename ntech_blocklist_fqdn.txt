@@ -36,7 +36,6 @@
 26.210.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
 66-175-210-58.ip.linodeusercontent.com
-70.149.216.162.bc.googleusercontent.com
 75.228.77.34.bc.googleusercontent.com
 78.179.22.34.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
@@ -74,7 +73,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-45g.shadowserver.org
-scan-63-13.shadowserver.org
 scan-67-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
