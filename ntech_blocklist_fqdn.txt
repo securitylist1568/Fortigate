@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.149.216.162.bc.googleusercontent.com
-119.44.97.34.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,9 +28,10 @@
 46.150.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
+97-107-134-44.ip.linodeusercontent.com
 amz.unixwiz.net
-azpdwtospx97q0.stretchoid.com
 b2.org.afilias-nst.org
+black.host-84.141.104.212.in-addr.arpa
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -47,6 +47,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-45g.shadowserver.org
 scan-63-13.shadowserver.org
 smtp1.telemach.net
