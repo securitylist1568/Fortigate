@@ -18,10 +18,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-34-8-219.hinet-ip.hinet.net
 118.150.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 143.150.216.162.bc.googleusercontent.com
+146.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 77.211.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
@@ -34,7 +34,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 node-115-187-37-171.alliancebroadband.in
 pc112.cses.ilc.edu.tw
