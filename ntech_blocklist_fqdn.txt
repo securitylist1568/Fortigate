@@ -28,7 +28,6 @@
 192-155-90-147.ip.linodeusercontent.com
 192-155-90-197.ip.linodeusercontent.com
 212.150.216.162.bc.googleusercontent.com
-240.211.203.35.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
 45-148-9-200.upbesttelecom.com
 45-33-76-69.ip.linodeusercontent.com
@@ -38,7 +37,6 @@
 77.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-blue-2.scan.shadowforce.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -55,11 +53,9 @@ r3.ams.opendns.com
 r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
-scan-08g.shadowserver.org
-scan-13n.shadowserver.org
 scan-40g.shadowserver.org
-scan-60-12.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
 users219.vip.heteml.jp
+vps3347158.trouble-free.net
