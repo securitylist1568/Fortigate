@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,13 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 118.150.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
-143.150.216.162.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-77.211.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+bicommae.store
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
