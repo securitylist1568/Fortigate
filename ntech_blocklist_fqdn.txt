@@ -29,6 +29,7 @@
 235.150.216.162.bc.googleusercontent.com
 238.223.78.34.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
+240.211.203.35.bc.googleusercontent.com
 245.37.20.175.adsl-pool.jlccptt.net.cn
 247.13.38.34.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
@@ -51,7 +52,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-08g.shadowserver.org
 scan-13l.shadowserver.org
+scan-13n.shadowserver.org
+scan-60-12.shadowserver.org
 scan-67-1.shadowserver.org
 scan-85-3.shadowserver.org
 smtp1.telemach.net
