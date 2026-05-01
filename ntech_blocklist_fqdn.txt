@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 100.150.216.162.bc.googleusercontent.com
-11.103.79.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,10 +18,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+114-34-8-219.hinet-ip.hinet.net
 121.32.77.34.bc.googleusercontent.com
 123-192-244-232.dynamic.kbronet.com.tw
 131.71.195.35.bc.googleusercontent.com
-151.211.203.35.bc.googleusercontent.com
 155.218.38.34.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 192-155-90-147.ip.linodeusercontent.com
 192-155-90-197.ip.linodeusercontent.com
 212.150.216.162.bc.googleusercontent.com
-235.150.216.162.bc.googleusercontent.com
 238.223.78.34.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
@@ -61,11 +59,9 @@ r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-08g.shadowserver.org
-scan-13l.shadowserver.org
 scan-13n.shadowserver.org
 scan-40g.shadowserver.org
 scan-60-12.shadowserver.org
-scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
