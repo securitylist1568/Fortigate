@@ -26,13 +26,19 @@
 155.218.38.34.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
+172-104-28-130.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192-155-90-147.ip.linodeusercontent.com
+192-155-90-197.ip.linodeusercontent.com
 212.150.216.162.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
 238.223.78.34.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 245.37.20.175.adsl-pool.jlccptt.net.cn
 247.13.38.34.bc.googleusercontent.com
+45-33-76-69.ip.linodeusercontent.com
+66-175-215-134.ip.linodeusercontent.com
+69-164-208-220.ip.linodeusercontent.com
 73.207.14.34.bc.googleusercontent.com
 78.179.22.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -50,6 +56,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-08g.shadowserver.org
 scan-13l.shadowserver.org
 scan-13n.shadowserver.org
