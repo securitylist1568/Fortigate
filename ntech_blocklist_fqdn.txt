@@ -23,7 +23,6 @@
 136.211.203.35.bc.googleusercontent.com
 143.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-45-148-9-200.upbesttelecom.com
 77.211.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -41,8 +40,6 @@ node-115-187-37-171.alliancebroadband.in
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r3.ams.opendns.com
-r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
 security.criminalip.com
