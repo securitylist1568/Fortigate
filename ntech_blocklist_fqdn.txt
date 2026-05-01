@@ -27,13 +27,14 @@
 181.241.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-88-55.ip.linodeusercontent.com
-214.210.203.35.bc.googleusercontent.com
+199.150.216.162.bc.googleusercontent.com
+209.150.216.162.bc.googleusercontent.com
 238.223.78.34.bc.googleusercontent.com
+239.211.203.35.bc.googleusercontent.com
 247.13.38.34.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
-63.210.203.35.bc.googleusercontent.com
 66-175-210-58.ip.linodeusercontent.com
 70.149.216.162.bc.googleusercontent.com
 75.228.77.34.bc.googleusercontent.com
@@ -76,6 +77,6 @@ scan-45g.shadowserver.org
 scan-63-13.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.203-174-22-152.hostbet.in
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
-v163-44-193-26.a002.g.han1.static.cnode.io
