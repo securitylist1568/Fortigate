@@ -34,7 +34,7 @@
 235.150.216.162.bc.googleusercontent.com
 238.223.78.34.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
-245.37.20.175.adsl-pool.jlccptt.net.cn
+245.150.216.162.bc.googleusercontent.com
 247.13.38.34.bc.googleusercontent.com
 45-33-76-69.ip.linodeusercontent.com
 66-175-215-134.ip.linodeusercontent.com
