@@ -23,7 +23,6 @@
 142.210.203.35.bc.googleusercontent.com
 155.218.38.34.bc.googleusercontent.com
 160.203.78.34.bc.googleusercontent.com
-179.150.216.162.bc.googleusercontent.com
 181.241.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-88-55.ip.linodeusercontent.com
@@ -31,6 +30,7 @@
 209.150.216.162.bc.googleusercontent.com
 238.223.78.34.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
+245.37.20.175.adsl-pool.jlccptt.net.cn
 247.13.38.34.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
@@ -41,7 +41,6 @@
 85.210.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 91.149.216.162.bc.googleusercontent.com
-97-107-134-44.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgdroqxu.stretchoid.com
@@ -57,7 +56,6 @@ azpdssxq24h7.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 azpdsszhqwse.stretchoid.com
 b2.org.afilias-nst.org
-black.host-84.141.104.212.in-addr.arpa
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -72,10 +70,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-45g.shadowserver.org
 scan-67-1.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
-unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
