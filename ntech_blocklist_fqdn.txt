@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.32.77.34.bc.googleusercontent.com
+131.71.195.35.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 151.211.203.35.bc.googleusercontent.com
 155.218.38.34.bc.googleusercontent.com
@@ -36,6 +37,7 @@
 26.210.203.35.bc.googleusercontent.com
 66-175-210-58.ip.linodeusercontent.com
 75.228.77.34.bc.googleusercontent.com
+78.179.22.34.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 91.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
