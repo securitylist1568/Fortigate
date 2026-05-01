@@ -36,6 +36,7 @@
 240.211.203.35.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
 247.13.38.34.bc.googleusercontent.com
+45-148-9-200.upbesttelecom.com
 45-33-76-69.ip.linodeusercontent.com
 66-175-215-134.ip.linodeusercontent.com
 69-164-208-220.ip.linodeusercontent.com
@@ -55,6 +56,8 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r3.ams.opendns.com
+r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-08g.shadowserver.org
