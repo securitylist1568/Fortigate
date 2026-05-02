@@ -24,7 +24,6 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
-146.211.203.35.bc.googleusercontent.com
 153.210.203.35.bc.googleusercontent.com
 172-235-207-5.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -53,6 +52,7 @@
 73.207.14.34.bc.googleusercontent.com
 8.107.129.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdssw6luqc.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 bicommae.store
@@ -71,14 +71,12 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 mx3.mwsmtp.com
 pc112.cses.ilc.edu.tw
-perfectparty.ptr.network
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-71-05.shadowserver.org
 scan-83-7.shadowserver.org
 smtp1.telemach.net
-static-bbs-98-169-3-210-on-nets.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
