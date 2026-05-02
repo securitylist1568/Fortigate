@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 109.208.38.34.bc.googleusercontent.com
+11.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -25,6 +26,7 @@
 143-42-173-60.ip.linodeusercontent.com
 146.211.203.35.bc.googleusercontent.com
 153.210.203.35.bc.googleusercontent.com
+172-235-207-5.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
@@ -48,6 +50,7 @@
 45-79-225-32.ip.linodeusercontent.com
 51.204.205.35.bc.googleusercontent.com
 67.230.77.34.bc.googleusercontent.com
+73.207.14.34.bc.googleusercontent.com
 8.107.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
