@@ -33,7 +33,9 @@
 60.210.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
+96-126-107-178.ip.linodeusercontent.com
 97-107-128-232.ip.linodeusercontent.com
+97-107-134-23.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
