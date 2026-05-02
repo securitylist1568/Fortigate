@@ -20,7 +20,6 @@
 121.210.203.35.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
 16.210.203.35.bc.googleusercontent.com
-169.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-213-3-3.as212027.host
 228.211.203.35.bc.googleusercontent.com
@@ -31,10 +30,8 @@
 49-158-79-138.dynamic.elinx.com.tw
 64.149.216.162.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
-77.149.216.162.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcgagzb8p.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -44,12 +41,10 @@ hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
-ip124.ip-5-135-12.eu
 ip192.ip-15-204-157.us
 ip29.sudolio.io
 jahdevelopment.com
 mfyabgec.musicpda.com
-mx3.mwsmtp.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -58,9 +53,7 @@ rootevidence.com
 scan-15k.shadowserver.org
 scan-43b.shadowserver.org
 scan-63-9.shadowserver.org
-scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
-scan-85-3.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
