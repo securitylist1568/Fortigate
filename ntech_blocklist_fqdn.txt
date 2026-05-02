@@ -41,13 +41,13 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-node-115-187-37-171.alliancebroadband.in
 pc112.cses.ilc.edu.tw
 perfectparty.ptr.network
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
+scan-71-05.shadowserver.org
+scan-83-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-bbs-98-169-3-210-on-nets.com
