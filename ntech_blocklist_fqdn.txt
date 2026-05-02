@@ -27,15 +27,14 @@
 172-237-105-93.ip.linodeusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194.149.216.162.bc.googleusercontent.com
 23.41.78.34.bc.googleusercontent.com
 242.40.79.34.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 34.62.233.35.bc.googleusercontent.com
 45-33-65-179.ip.linodeusercontent.com
 45-33-88-129.ip.linodeusercontent.com
-46.149.216.162.bc.googleusercontent.com
 55.173.129.34.bc.googleusercontent.com
+64.149.216.162.bc.googleusercontent.com
 67.230.77.34.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 79.106.84.34.bc.googleusercontent.com
@@ -53,6 +52,7 @@ ec2-52-74-119-193.ap-southeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip124.ip-5-135-12.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 mx3.mwsmtp.com
@@ -66,7 +66,6 @@ scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 ve890.venus.dedi.server-hosting.expert
 www.internet-albedo.net
