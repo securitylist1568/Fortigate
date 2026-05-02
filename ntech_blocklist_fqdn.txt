@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-240-214.dynamic-ip.hinet.net
+124.211.203.35.bc.googleusercontent.com
 13.32.240.35.bc.googleusercontent.com
 140.82.45.210.vultrusercontent.com
 143-42-1-128.ip.linodeusercontent.com
@@ -65,7 +66,9 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-212-1-162.ap-southeast-1.compute.amazonaws.com
 ec2-18-142-150-168.ap-southeast-1.compute.amazonaws.com
+ec2-52-74-119-193.ap-southeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
