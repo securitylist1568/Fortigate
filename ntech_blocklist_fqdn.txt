@@ -30,7 +30,6 @@
 49-158-79-138.dynamic.elinx.com.tw
 53.26.71.192.in-addr.arpa
 55.173.129.34.bc.googleusercontent.com
-64.149.216.162.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -51,7 +50,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-15k.shadowserver.org
 scan-43b.shadowserver.org
 scan-63-9.shadowserver.org
