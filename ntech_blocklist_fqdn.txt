@@ -50,7 +50,9 @@
 45-79-225-32.ip.linodeusercontent.com
 51.204.205.35.bc.googleusercontent.com
 67.230.77.34.bc.googleusercontent.com
+70.149.216.162.bc.googleusercontent.com
 73.207.14.34.bc.googleusercontent.com
+77.246.195.35.bc.googleusercontent.com
 8.107.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdssw6luqc.stretchoid.com
