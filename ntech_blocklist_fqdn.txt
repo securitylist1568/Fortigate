@@ -26,13 +26,11 @@
 16.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194-213-3-3.as212027.host
 228.211.203.35.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 55.173.129.34.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
-76.211.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 97-107-128-232.ip.linodeusercontent.com
@@ -46,12 +44,8 @@ ec2-32-192-75-243.compute-1.amazonaws.com
 ec2-34-226-195-14.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
-iafrssh.cn
-ip192.ip-15-204-157.us
 ip29.sudolio.io
-jahdevelopment.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
