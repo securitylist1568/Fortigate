@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-240-214.dynamic-ip.hinet.net
 13.32.240.35.bc.googleusercontent.com
+140.82.45.210.vultrusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -38,13 +39,14 @@
 23-92-27-179.ip.linodeusercontent.com
 23.41.78.34.bc.googleusercontent.com
 242.40.79.34.bc.googleusercontent.com
+248.149.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 30.209.53.34.bc.googleusercontent.com
 34.62.233.35.bc.googleusercontent.com
-36-232-7-73.dynamic-ip.hinet.net
-44.211.203.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
+45-33-65-179.ip.linodeusercontent.com
+45-33-88-129.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
@@ -74,6 +76,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-71-05.shadowserver.org
 scan-83-7.shadowserver.org
 smtp1.telemach.net
