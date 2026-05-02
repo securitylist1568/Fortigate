@@ -37,6 +37,7 @@
 46.149.216.162.bc.googleusercontent.com
 55.173.129.34.bc.googleusercontent.com
 67.230.77.34.bc.googleusercontent.com
+77.149.216.162.bc.googleusercontent.com
 79.106.84.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
@@ -54,12 +55,14 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+mx3.mwsmtp.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-81-7.shadowserver.org
+scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
