@@ -28,6 +28,7 @@
 45.210.203.35.bc.googleusercontent.com
 49-158-79-138.dynamic.elinx.com.tw
 64.149.216.162.bc.googleusercontent.com
+76.211.203.35.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
@@ -39,6 +40,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
 ip29.sudolio.io
