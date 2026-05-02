@@ -17,14 +17,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118.150.216.162.bc.googleusercontent.com
-136.211.203.35.bc.googleusercontent.com
 138.150.216.162.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
+153.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+218.9.93.85.hostbrr.com
 36-232-7-73.dynamic-ip.hinet.net
 44.211.203.35.bc.googleusercontent.com
-83.150.216.162.bc.googleusercontent.com
+8.107.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bicommae.store
@@ -41,6 +41,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+mx3.mwsmtp.com
 pc112.cses.ilc.edu.tw
 perfectparty.ptr.network
 pinkytales.com
