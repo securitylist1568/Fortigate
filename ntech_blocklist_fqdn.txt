@@ -33,6 +33,7 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
+194.149.216.162.bc.googleusercontent.com
 197.21.233.35.bc.googleusercontent.com
 218.9.93.85.hostbrr.com
 23-92-27-179.ip.linodeusercontent.com
@@ -78,4 +79,5 @@ scan-71-05.shadowserver.org
 scan-83-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
