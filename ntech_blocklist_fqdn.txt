@@ -26,6 +26,7 @@
 179.108.205.35.bc.googleusercontent.com
 184.193.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+201-219-250-1.cliente.brasilip.net.br
 207.150.216.162.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
 210.190.205.35.bc.googleusercontent.com
@@ -38,6 +39,7 @@
 8.199.241.35.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
+83.3.228.8.bc.googleusercontent.com
 96-126-107-224.ip.linodeusercontent.com
 97-107-131-106.ip.linodeusercontent.com
 97-107-135-149.ip.linodeusercontent.com
