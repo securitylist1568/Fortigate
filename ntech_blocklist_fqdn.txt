@@ -27,8 +27,8 @@
 201-219-250-1.cliente.brasilip.net.br
 201-49-179-211.ultralinkinternet.com.br
 209.210.203.35.bc.googleusercontent.com
+25.149.216.162.bc.googleusercontent.com
 83.3.228.8.bc.googleusercontent.com
-97-107-131-106.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcsycgcyf.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
@@ -45,8 +45,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-node204.compute.net2.mghpcc.org
 ns5043822.ip-54-39-100.net
+orangeupdate.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -61,3 +61,4 @@ static-45-173-156-10.worktelecombj.net.br
 static-ip-250-192-65-202.rev.dyxnet.com
 under.fgyh.eu.org
 users219.vip.heteml.jp
+vmi2928096.contaboserver.net
