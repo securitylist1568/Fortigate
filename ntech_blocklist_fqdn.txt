@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-240-214.dynamic-ip.hinet.net
 131.84.211.130.bc.googleusercontent.com
 15.152.38.34.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
@@ -36,8 +35,6 @@
 55.173.129.34.bc.googleusercontent.com
 77.211.203.35.bc.googleusercontent.com
 79.0.76.34.bc.googleusercontent.com
-96-126-107-178.ip.linodeusercontent.com
-97-107-134-23.ip.linodeusercontent.com
 99.210.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -56,11 +53,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-04i.shadowserver.org
 scan-06g.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.94.73.88.23.clients.your-server.de
 users219.vip.heteml.jp
-vps-35c8b800.vps.ovh.net
