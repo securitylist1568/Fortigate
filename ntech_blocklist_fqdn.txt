@@ -26,6 +26,7 @@
 161.210.203.35.bc.googleusercontent.com
 174.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+236.149.216.162.bc.googleusercontent.com
 55.173.129.34.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
@@ -52,6 +53,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-04i.shadowserver.org
 scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
