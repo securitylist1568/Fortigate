@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 207.150.216.162.bc.googleusercontent.com
 210.190.205.35.bc.googleusercontent.com
+222.240.195.35.bc.googleusercontent.com
 23-239-11-115.ip.linodeusercontent.com
 230.211.203.35.bc.googleusercontent.com
 48.232.189.35.bc.googleusercontent.com
@@ -52,7 +53,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-m4278.contaboserver.net
 mfyabgec.musicpda.com
 msserver.sev-alsocks.com
 out-athlete.winningbells.com
@@ -61,7 +61,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-06g.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tube-hosting.com
