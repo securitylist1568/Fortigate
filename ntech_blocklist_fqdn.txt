@@ -18,12 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.149.216.162.bc.googleusercontent.com
-145.149.216.162.bc.googleusercontent.com
 15.152.38.34.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 179.108.205.35.bc.googleusercontent.com
 184.193.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192-155-90-69.ip.linodeusercontent.com
 201-219-250-1.cliente.brasilip.net.br
 207.150.216.162.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
@@ -33,7 +33,6 @@
 48.232.189.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
 66-175-209-191.ip.linodeusercontent.com
-8.199.241.35.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
 83.3.228.8.bc.googleusercontent.com
@@ -50,7 +49,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-msserver.sev-alsocks.com
 mx3.mwsmtp.com
 node204.compute.net2.mghpcc.org
 out-athlete.winningbells.com
