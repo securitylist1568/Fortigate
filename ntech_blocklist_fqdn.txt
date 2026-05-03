@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+106.149.216.162.bc.googleusercontent.com
 108.84.65.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -19,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.211.203.35.bc.googleusercontent.com
+151.149.216.162.bc.googleusercontent.com
 160-33-201-10.dyn.k2telecom.net.br
 168-121-124-200.rev.cecelnet.com.br
 175.149.216.162.bc.googleusercontent.com
@@ -53,6 +55,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
+s4850.vps.hosting
 scan-40e.shadowserver.org
 scan-80-9.shadowserver.org
 smtp1.telemach.net
