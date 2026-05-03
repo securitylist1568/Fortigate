@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.149.216.162.bc.googleusercontent.com
+144.211.203.35.bc.googleusercontent.com
 15.152.38.34.bc.googleusercontent.com
 179.108.205.35.bc.googleusercontent.com
 184.193.78.34.bc.googleusercontent.com
@@ -40,6 +41,7 @@ azpdcsycgcyf.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
 azpdsgqpucw1.stretchoid.com
 azpdss2sy749.stretchoid.com
+azpdssle59pd.stretchoid.com
 b2.org.afilias-nst.org
 bicommae.store
 client.yota.ru
