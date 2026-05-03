@@ -27,6 +27,7 @@
 184.193.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.150.216.162.bc.googleusercontent.com
+209.210.203.35.bc.googleusercontent.com
 210.190.205.35.bc.googleusercontent.com
 222.240.195.35.bc.googleusercontent.com
 23-239-11-115.ip.linodeusercontent.com
@@ -34,11 +35,11 @@
 48.232.189.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
 66-175-209-191.ip.linodeusercontent.com
-77.211.203.35.bc.googleusercontent.com
 8.199.241.35.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
 96-126-107-224.ip.linodeusercontent.com
+97-107-131-106.ip.linodeusercontent.com
 97-107-135-149.ip.linodeusercontent.com
 99.210.77.34.bc.googleusercontent.com
 amz.unixwiz.net
