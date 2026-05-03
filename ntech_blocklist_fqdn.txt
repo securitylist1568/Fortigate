@@ -22,6 +22,7 @@
 131.84.211.130.bc.googleusercontent.com
 15.152.38.34.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
+172-237-120-40.ip.linodeusercontent.com
 174.149.216.162.bc.googleusercontent.com
 179.108.205.35.bc.googleusercontent.com
 184.193.78.34.bc.googleusercontent.com
