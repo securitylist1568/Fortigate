@@ -28,13 +28,8 @@
 201-49-179-211.ultralinkinternet.com.br
 25.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcsycgcyf.stretchoid.com
-azpdsgqi8wxn.stretchoid.com
-azpdsgqpucw1.stretchoid.com
-azpdss2sy749.stretchoid.com
 azpdssle59pd.stretchoid.com
 b2.org.afilias-nst.org
-bicommae.store
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -43,7 +38,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-ns5043822.ip-54-39-100.net
 orangeupdate.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -52,8 +46,6 @@ r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
 s4850.vps.hosting
-scan-40e.shadowserver.org
-scan-80-9.shadowserver.org
 smtp1.telemach.net
 static-45-173-156-1.worktelecombj.net.br
 static-45-173-156-10.worktelecombj.net.br
