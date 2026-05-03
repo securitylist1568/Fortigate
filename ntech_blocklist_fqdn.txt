@@ -41,6 +41,7 @@
 79.0.76.34.bc.googleusercontent.com
 8.199.241.35.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
+82.48.118.34.bc.googleusercontent.com
 96-126-107-224.ip.linodeusercontent.com
 97-107-135-149.ip.linodeusercontent.com
 99.210.77.34.bc.googleusercontent.com
