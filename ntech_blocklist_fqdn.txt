@@ -26,11 +26,8 @@
 175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-90-69.ip.linodeusercontent.com
-201-219-250-1.cliente.brasilip.net.br
 201-49-179-211.ultralinkinternet.com.br
-209.210.203.35.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
-83.3.228.8.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcsycgcyf.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
