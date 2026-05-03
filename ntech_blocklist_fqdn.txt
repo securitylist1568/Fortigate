@@ -25,6 +25,7 @@
 168-121-124-200.rev.cecelnet.com.br
 175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+201-20-85-122.dynamic.mobtelecom.com.br
 201-49-179-211.ultralinkinternet.com.br
 25.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -37,6 +38,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip3.ip-15-204-150.us
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
 orangeupdate.ptr.network
