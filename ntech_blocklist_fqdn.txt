@@ -68,5 +68,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.94.73.88.23.clients.your-server.de
 users219.vip.heteml.jp
-v163-44-193-26.a002.g.han1.static.cnode.io
 vps-35c8b800.vps.ovh.net
