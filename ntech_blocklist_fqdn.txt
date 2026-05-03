@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 138.149.216.162.bc.googleusercontent.com
 15.152.38.34.bc.googleusercontent.com
-166.211.203.35.bc.googleusercontent.com
 179.108.205.35.bc.googleusercontent.com
 184.193.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,9 +28,7 @@
 209.210.203.35.bc.googleusercontent.com
 210.190.205.35.bc.googleusercontent.com
 222.240.195.35.bc.googleusercontent.com
-230.211.203.35.bc.googleusercontent.com
 48.232.189.35.bc.googleusercontent.com
-5.210.203.35.bc.googleusercontent.com
 66-175-209-191.ip.linodeusercontent.com
 81.211.203.35.bc.googleusercontent.com
 82.48.118.34.bc.googleusercontent.com
@@ -39,10 +36,12 @@
 97-107-131-106.ip.linodeusercontent.com
 99.210.77.34.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcsguyw0e.stretchoid.com
+azpdcsycgcyf.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
 azpdsgqpucw1.stretchoid.com
+azpdss2sy749.stretchoid.com
 b2.org.afilias-nst.org
+bicommae.store
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -53,7 +52,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 mx3.mwsmtp.com
 node204.compute.net2.mghpcc.org
-out-athlete.winningbells.com
+ns5043822.ip-54-39-100.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -65,4 +64,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tube-hosting.com
 users219.vip.heteml.jp
-vmi3211814.contaboserver.net
