@@ -23,10 +23,10 @@
 185-45-195-15.hostsailor.com
 205.178.205.35.bc.googleusercontent.com
 220.199.190.35.bc.googleusercontent.com
-247.80.211.130.bc.googleusercontent.com
 255.46.76.34.bc.googleusercontent.com
 32.5.76.34.bc.googleusercontent.com
-48.4.76.34.bc.googleusercontent.com
+75.33.14.34.bc.googleusercontent.com
+abelohost-181.223.231.185.dedicated-ip.abelons.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -44,7 +44,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-02k.shadowserver.org
 scan-04i.shadowserver.org
 scan-13l.shadowserver.org
 scan-41f.shadowserver.org
