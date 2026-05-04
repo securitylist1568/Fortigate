@@ -26,6 +26,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bb41128f.virtua.com.br
+broadband.actcorp.in
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
