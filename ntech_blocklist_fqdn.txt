@@ -44,6 +44,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-07e.shadowserver.org
+scan-63-8.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.248.92.78.5.clients.your-server.de
