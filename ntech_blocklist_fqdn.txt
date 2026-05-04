@@ -23,6 +23,7 @@
 172-236-21-218.ip.linodeusercontent.com
 172-237-120-95.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+89.112.48.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
