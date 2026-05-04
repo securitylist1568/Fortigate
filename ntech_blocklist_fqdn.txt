@@ -21,16 +21,15 @@
 162.54.199.104.bc.googleusercontent.com
 172-236-1-60.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-201-20-85-122.dynamic.mobtelecom.com.br
 205.178.205.35.bc.googleusercontent.com
 220.199.190.35.bc.googleusercontent.com
+247.80.211.130.bc.googleusercontent.com
 28.150.38.185.baremetal.zare.com
 32.5.76.34.bc.googleusercontent.com
 40.181.77.34.bc.googleusercontent.com
 48.4.76.34.bc.googleusercontent.com
 64.70.211.130.bc.googleusercontent.com
 75.33.14.34.bc.googleusercontent.com
-83.3.228.8.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bb41128f.virtua.com.br
@@ -46,9 +45,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-82.4vendeta.com
 ip29.sudolio.io
-ip3.ip-15-204-150.us
 mfyabgec.musicpda.com
-null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -61,4 +58,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.94.73.88.23.clients.your-server.de
 users219.vip.heteml.jp
-vmi2578777.contaboserver.net
