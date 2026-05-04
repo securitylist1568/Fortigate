@@ -21,13 +21,12 @@
 118-168-207-109.dynamic-ip.hinet.net
 151.149.216.162.bc.googleusercontent.com
 172-236-1-60.ip.linodeusercontent.com
-175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201-20-85-122.dynamic.mobtelecom.com.br
-25.149.216.162.bc.googleusercontent.com
 83.3.228.8.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+bb41128f.virtua.com.br
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -41,7 +40,6 @@ ip29.sudolio.io
 ip3.ip-15-204-150.us
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
-orangeupdate.ptr.network
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -53,4 +51,3 @@ static.248.92.78.5.clients.your-server.de
 static.94.73.88.23.clients.your-server.de
 users219.vip.heteml.jp
 vmi2578777.contaboserver.net
-vmi2928096.contaboserver.net
