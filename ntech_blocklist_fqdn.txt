@@ -21,6 +21,7 @@
 172-236-19-114.ip.linodeusercontent.com
 172-236-19-152.ip.linodeusercontent.com
 172-236-21-218.ip.linodeusercontent.com
+172-237-120-95.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -29,6 +30,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+home-rubbish.legendskit.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
