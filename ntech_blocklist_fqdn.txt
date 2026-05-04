@@ -20,7 +20,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 162.209.53.34.bc.googleusercontent.com
+172-104-10-181.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+197.34.51.212.dynamic.reverse-mundo-r.com
 205.178.205.35.bc.googleusercontent.com
 220.199.190.35.bc.googleusercontent.com
 255.46.76.34.bc.googleusercontent.com
