@@ -24,12 +24,7 @@
 185-45-195-15.hostsailor.com
 194-164-96-186.as212027.host
 197.34.51.212.dynamic.reverse-mundo-r.com
-205.178.205.35.bc.googleusercontent.com
-220.199.190.35.bc.googleusercontent.com
-32.5.76.34.bc.googleusercontent.com
-75.33.14.34.bc.googleusercontent.com
 91-208-92-163.as212027.host
-abelohost-181.223.231.185.dedicated-ip.abelons.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcs19ivb5.stretchoid.com
@@ -87,7 +82,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -98,5 +92,4 @@ scan-63-2.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
