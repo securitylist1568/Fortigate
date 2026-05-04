@@ -21,7 +21,12 @@
 172-236-1-60.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 201-20-85-122.dynamic.mobtelecom.com.br
+205.178.205.35.bc.googleusercontent.com
 28.150.38.185.baremetal.zare.com
+32.5.76.34.bc.googleusercontent.com
+40.181.77.34.bc.googleusercontent.com
+64.70.211.130.bc.googleusercontent.com
+75.33.14.34.bc.googleusercontent.com
 83.3.228.8.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
