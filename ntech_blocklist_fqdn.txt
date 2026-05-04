@@ -18,12 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.227.247.35.bc.googleusercontent.com
-172-104-10-181.ip.linodeusercontent.com
 172-236-19-114.ip.linodeusercontent.com
 172-236-21-218.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-164-96-186.as212027.host
-197.34.51.212.dynamic.reverse-mundo-r.com
 91-208-92-163.as212027.host
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
@@ -87,7 +85,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-63-2.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
