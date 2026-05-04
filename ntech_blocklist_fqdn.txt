@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-207-109.dynamic-ip.hinet.net
 162.54.199.104.bc.googleusercontent.com
-172-236-1-60.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 205.178.205.35.bc.googleusercontent.com
 220.199.190.35.bc.googleusercontent.com
@@ -38,13 +37,10 @@ broadband.actcorp.in
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-18-212-227-85.compute-1.amazonaws.com
-ec2-75-101-194-144.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 finland2.ipip.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-82.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
