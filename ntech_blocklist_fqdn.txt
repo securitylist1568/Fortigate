@@ -25,7 +25,6 @@
 220.199.190.35.bc.googleusercontent.com
 247.80.211.130.bc.googleusercontent.com
 255.46.76.34.bc.googleusercontent.com
-28.150.38.185.baremetal.zare.com
 32.5.76.34.bc.googleusercontent.com
 40.181.77.34.bc.googleusercontent.com
 48.4.76.34.bc.googleusercontent.com
@@ -51,7 +50,6 @@ recyber.net
 rootevidence.com
 scan-02k.shadowserver.org
 scan-04i.shadowserver.org
-scan-07e.shadowserver.org
 scan-13l.shadowserver.org
 scan-41f.shadowserver.org
 scan-60-10.shadowserver.org
