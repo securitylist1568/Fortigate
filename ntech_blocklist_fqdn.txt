@@ -25,10 +25,14 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 203.169.241.35.bc.googleusercontent.com
+21.109.65.34.bc.googleusercontent.com
 210.85.79.34.bc.googleusercontent.com
 218.125.240.35.bc.googleusercontent.com
 22.50.140.34.bc.googleusercontent.com
 225.24.77.34.bc.googleusercontent.com
+45-79-130-12.ip.linodeusercontent.com
+50-116-56-46.ip.linodeusercontent.com
+97-107-135-208.ip.linodeusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdsgqpucw1.stretchoid.com
@@ -38,7 +42,9 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-174-129-71-167.compute-1.amazonaws.com
 ec2-34-227-49-18.compute-1.amazonaws.com
+ec2-52-206-189-10.compute-1.amazonaws.com
 ec2-95-40-42-159.ap-east-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 gghs116-12l.org
@@ -53,9 +59,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-63-9.shadowserver.org
 scan-73-02.shadowserver.org
 smtp1.telemach.net
 srv-91-224-92-154.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
