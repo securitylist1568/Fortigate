@@ -18,6 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 139.180.152.251.vultrusercontent.com
+140.65.140.34.bc.googleusercontent.com
+156.216.189.35.bc.googleusercontent.com
 163.95.146.217.baremetal.zare.com
 175.33.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -25,6 +27,7 @@
 210.85.79.34.bc.googleusercontent.com
 217.243.187.123.broad.ly.ln.dynamic.163data.com.cn
 218.125.240.35.bc.googleusercontent.com
+22.50.140.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 74-50-97-90.static.hvvc.us
 amz.unixwiz.net
