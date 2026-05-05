@@ -47,10 +47,6 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-107-20-105-127.compute-1.amazonaws.com
-ec2-3-93-193-141.compute-1.amazonaws.com
-ec2-34-207-209-130.compute-1.amazonaws.com
-ec2-44-201-103-104.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
