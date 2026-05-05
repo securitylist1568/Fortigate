@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 134.4.140.34.bc.googleusercontent.com
 140.203.195.35.bc.googleusercontent.com
-155.25.62.34.bc.googleusercontent.com
 156.216.189.35.bc.googleusercontent.com
 175.33.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -59,7 +58,6 @@ recyber.net
 rootevidence.com
 scan-63-9.shadowserver.org
 scan-73-02.shadowserver.org
-scan-83-7.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
