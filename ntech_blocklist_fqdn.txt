@@ -18,7 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-207-109.dynamic-ip.hinet.net
-172-237-120-95.ip.linodeusercontent.com
+172-239-105-137.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 89.112.48.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -32,7 +32,6 @@ ec2-34-207-209-130.compute-1.amazonaws.com
 ec2-44-201-103-104.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-home-rubbish.legendskit.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1625-135.members.linode.com
