@@ -25,11 +25,11 @@
 163.95.146.217.baremetal.zare.com
 175.33.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.179.181.vultrusercontent.com
 210.85.79.34.bc.googleusercontent.com
 218.125.240.35.bc.googleusercontent.com
 22.50.140.34.bc.googleusercontent.com
 225.24.77.34.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 74-50-97-90.static.hvvc.us
 89.112.48.34.bc.googleusercontent.com
 amz.unixwiz.net
