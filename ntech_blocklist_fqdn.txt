@@ -17,7 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-172-236-19-152.ip.linodeusercontent.com
+118-168-207-109.dynamic-ip.hinet.net
 172-237-120-95.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 89.112.48.34.bc.googleusercontent.com
@@ -42,9 +42,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-rping.ipip.net
 sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vps3362879.trouble-free.net
