@@ -37,6 +37,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 89.112.48.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -58,6 +59,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-15i.shadowserver.org
 smtp1.telemach.net
 srv-91-224-92-177.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
