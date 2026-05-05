@@ -18,19 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-134.4.140.34.bc.googleusercontent.com
 140.203.195.35.bc.googleusercontent.com
-140.65.140.34.bc.googleusercontent.com
 155.25.62.34.bc.googleusercontent.com
-156.216.189.35.bc.googleusercontent.com
-175.33.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.179.181.vultrusercontent.com
 203.169.241.35.bc.googleusercontent.com
-210.85.79.34.bc.googleusercontent.com
-218.125.240.35.bc.googleusercontent.com
-22.50.140.34.bc.googleusercontent.com
-225.24.77.34.bc.googleusercontent.com
 89.112.48.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdsg25ie9q.stretchoid.com
@@ -38,6 +30,7 @@ azpdsgbmp5gp.stretchoid.com
 azpdsgimpili.stretchoid.com
 azpdssfs3wsw.stretchoid.com
 azpdsskf5buy.stretchoid.com
+azpdssm71sbu.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -54,7 +47,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-08g.shadowserver.org
-scan-45o.shadowserver.org
 scan-63-9.shadowserver.org
 scan-73-02.shadowserver.org
 scan-83-7.shadowserver.org
