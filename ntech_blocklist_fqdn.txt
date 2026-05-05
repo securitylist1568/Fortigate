@@ -20,10 +20,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 140.203.195.35.bc.googleusercontent.com
 155.25.62.34.bc.googleusercontent.com
+156.216.189.35.bc.googleusercontent.com
 175.33.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.179.181.vultrusercontent.com
 203.169.241.35.bc.googleusercontent.com
+210.85.79.34.bc.googleusercontent.com
+218.125.240.35.bc.googleusercontent.com
 22.50.140.34.bc.googleusercontent.com
 225.24.77.34.bc.googleusercontent.com
 89.112.48.34.bc.googleusercontent.com
@@ -41,6 +44,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+gghs116-12l.org
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
