@@ -28,6 +28,7 @@
 217.243.187.123.broad.ly.ln.dynamic.163data.com.cn
 218.125.240.35.bc.googleusercontent.com
 22.50.140.34.bc.googleusercontent.com
+225.24.77.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 74-50-97-90.static.hvvc.us
 amz.unixwiz.net
