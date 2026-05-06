@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+108.236.126.216.static.cloudzy.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -47,6 +48,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scale-test-1775630604545-d558faa8.mongo.ondigitalocean.com
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.37.52.235.167.clients.your-server.de
