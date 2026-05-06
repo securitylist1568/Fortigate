@@ -20,7 +20,6 @@
 17.121.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193-104-222-8.cust.norisab.net
-202.112.252.35.bc.googleusercontent.com
 240.168.79.34.bc.googleusercontent.com
 244.238.79.34.bc.googleusercontent.com
 26.133.241.35.bc.googleusercontent.com
@@ -55,6 +54,5 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 users219.vip.heteml.jp
 www.internet-albedo.net
