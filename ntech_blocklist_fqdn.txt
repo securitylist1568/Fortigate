@@ -20,6 +20,7 @@
 17.121.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193-104-222-8.cust.norisab.net
+202.112.252.35.bc.googleusercontent.com
 240.168.79.34.bc.googleusercontent.com
 244.238.79.34.bc.googleusercontent.com
 26.133.241.35.bc.googleusercontent.com
@@ -31,7 +32,6 @@
 68.203.76.34.bc.googleusercontent.com
 80.88.187.35.bc.googleusercontent.com
 83.234.78.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -46,13 +46,12 @@ new-ubuntu20223240.aspadmin.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r2004.compute.pao1.edc.strln.net
-r4002.compute.pao1.edc.strln.net
 recyber.net
-scan-85-0.shadowserver.org
+scale-test-1775630604545-d558faa8.mongo.ondigitalocean.com
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.37.52.235.167.clients.your-server.de
 users219.vip.heteml.jp
 www.internet-albedo.net
