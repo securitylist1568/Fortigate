@@ -52,6 +52,7 @@ rootevidence.com
 smtp1.telemach.net
 srv-91-224-92-154.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 user-170-39-224-220.iad03.us.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
