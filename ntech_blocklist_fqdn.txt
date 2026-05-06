@@ -21,7 +21,6 @@
 118-168-207-109.dynamic-ip.hinet.net
 118-170-74-55.dynamic-ip.hinet.net
 169.76.91.34.bc.googleusercontent.com
-172-236-25-190.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 45.77.110.59.vultrusercontent.com
 49.204.133.8.actcorp.in
