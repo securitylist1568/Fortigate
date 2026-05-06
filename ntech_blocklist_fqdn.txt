@@ -43,6 +43,7 @@ rootevidence.com
 scan-07e.shadowserver.org
 scan-53j.shadowserver.org
 scan-60-12.shadowserver.org
+scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
 scan-86-7.shadowserver.org
 scan.visionheight.com
