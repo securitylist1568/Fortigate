@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-108.236.126.216.static.cloudzy.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-207-109.dynamic-ip.hinet.net
 118-170-74-55.dynamic-ip.hinet.net
-169.76.91.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 22.221.64.34.bc.googleusercontent.com
 45.77.110.59.vultrusercontent.com
@@ -47,7 +44,6 @@ scan-60-12.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
 scan-86-7.shadowserver.org
-scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-38-175-113-237.ist01.tr.misaka.io
