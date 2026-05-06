@@ -32,11 +32,13 @@
 68.203.76.34.bc.googleusercontent.com
 80.88.187.35.bc.googleusercontent.com
 83.234.78.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-108-137-2-14.ap-southeast-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
