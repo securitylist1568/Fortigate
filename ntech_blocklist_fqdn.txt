@@ -51,6 +51,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scale-test-1775630604545-d558faa8.mongo.ondigitalocean.com
 scan-53j.shadowserver.org
+scan-60-12.shadowserver.org
 scan-63-2.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
