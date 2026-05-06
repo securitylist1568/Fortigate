@@ -50,7 +50,6 @@ proxy-ca002-ext2.a.ahrefs.com
 r2004.compute.pao1.edc.strln.net
 r4002.compute.pao1.edc.strln.net
 recyber.net
-rootevidence.com
 scan-85-0.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
