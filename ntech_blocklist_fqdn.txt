@@ -106,6 +106,7 @@ recyber.net
 scan-45g.shadowserver.org
 scan-63-13.shadowserver.org
 scan-78-08.shadowserver.org
+scan-79-08.shadowserver.org
 scan-81-0.shadowserver.org
 scan-86-7.shadowserver.org
 scan-88-6.shadowserver.org
