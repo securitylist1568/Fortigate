@@ -20,7 +20,6 @@
 134.205.78.34.bc.googleusercontent.com
 144.41.62.34.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
-155.149.216.162.bc.googleusercontent.com
 155.83.233.35.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
@@ -40,7 +39,6 @@
 48.154.92.34.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
 64.185.241.35.bc.googleusercontent.com
-80.210.203.35.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 96-126-107-165.ip.linodeusercontent.com
 aim.sba-research.org
@@ -58,8 +56,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 o601.scanner.modat.io
 o603.scanner.modat.io
-o616.scanner.modat.io
-o632.scanner.modat.io
 o634.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -67,12 +63,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-40e.shadowserver.org
-scan-61-7.shadowserver.org
 scan-86-7.shadowserver.org
-scan-89-5.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
