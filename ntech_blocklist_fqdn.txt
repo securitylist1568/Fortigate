@@ -98,12 +98,14 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
 o605.scanner.modat.io
+o618.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-45g.shadowserver.org
+scan-63-13.shadowserver.org
 scan-78-08.shadowserver.org
 scan-81-0.shadowserver.org
 scan-86-7.shadowserver.org
