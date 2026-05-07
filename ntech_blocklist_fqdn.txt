@@ -24,9 +24,7 @@
 144.41.62.34.bc.googleusercontent.com
 151.211.203.35.bc.googleusercontent.com
 167.153.53.34.bc.googleusercontent.com
-172-236-1-60.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
-178.88.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.149.216.162.bc.googleusercontent.com
 197.232.79.34.bc.googleusercontent.com
@@ -35,16 +33,13 @@
 22.221.64.34.bc.googleusercontent.com
 241.171.34.34.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
-253.149.216.162.bc.googleusercontent.com
 36-224-150-125.dynamic-ip.hinet.net
-47.211.203.35.bc.googleusercontent.com
+40.150.216.162.bc.googleusercontent.com
 48.154.92.34.bc.googleusercontent.com
-63.29.199.104.bc.googleusercontent.com
 66.88.78.34.bc.googleusercontent.com
 73.53.187.35.bc.googleusercontent.com
 75.228.189.35.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -58,7 +53,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kub002.idyschool.de.com
-l610.scanner.modat.io
+l607.scanner.modat.io
 mfyabgec.musicpda.com
 o620.scanner.modat.io
 o637.scanner.modat.io
@@ -70,6 +65,7 @@ recyber.net
 scan-04f.shadowserver.org
 scan-79-08.shadowserver.org
 scan.visionheight.com
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
