@@ -21,6 +21,7 @@
 134.205.78.34.bc.googleusercontent.com
 144.41.62.34.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
+151.150.216.162.bc.googleusercontent.com
 155.83.233.35.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
@@ -50,6 +51,9 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-221-117-222.compute-1.amazonaws.com
+ec2-13-221-239-87.compute-1.amazonaws.com
+ec2-3-92-180-146.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
