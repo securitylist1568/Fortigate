@@ -21,15 +21,20 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-207-109.dynamic-ip.hinet.net
+141.201.38.34.bc.googleusercontent.com
 164.211.203.35.bc.googleusercontent.com
 169.76.91.34.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+197.232.79.34.bc.googleusercontent.com
+214.195.140.34.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
+241.171.34.34.bc.googleusercontent.com
 45-33-68-139.ip.linodeusercontent.com
 56.210.203.35.bc.googleusercontent.com
 6.241.109.202.broad.xm.fj.dynamic.163data.com.cn
+66.88.78.34.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -39,6 +44,7 @@ azpdcsuk863a.stretchoid.com
 azpdespq7q3k.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg1j90qs.stretchoid.com
+azpdsg3ry68v.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
 azpdsg52g7h9.stretchoid.com
@@ -59,6 +65,7 @@ azpdssjnwdgv.stretchoid.com
 azpdsssyxvsv.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdssxq24h7.stretchoid.com
+azpdssy2j4f1.stretchoid.com
 azpdsszhqwse.stretchoid.com
 azpdws28galu.stretchoid.com
 b2.org.afilias-nst.org
@@ -80,6 +87,7 @@ mfyabgec.musicpda.com
 o603.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -90,4 +98,5 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.ill.117.250.115.194.bsnl.co.in
 users219.vip.heteml.jp
