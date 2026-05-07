@@ -34,6 +34,7 @@ amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdcsuk863a.stretchoid.com
 azpdespq7q3k.stretchoid.com
+azpdesxe24x7.stretchoid.com
 azpdsg1j90qs.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
@@ -64,6 +65,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-78-08.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
