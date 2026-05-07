@@ -22,9 +22,7 @@
 144.41.62.34.bc.googleusercontent.com
 151.211.203.35.bc.googleusercontent.com
 163.136.79.34.bc.googleusercontent.com
-164.211.203.35.bc.googleusercontent.com
 167.153.53.34.bc.googleusercontent.com
-169.76.91.34.bc.googleusercontent.com
 172-236-1-60.ip.linodeusercontent.com
 176.150.216.162.bc.googleusercontent.com
 178.88.62.34.bc.googleusercontent.com
@@ -41,7 +39,6 @@
 253.149.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 47.211.203.35.bc.googleusercontent.com
-56.210.203.35.bc.googleusercontent.com
 63.29.199.104.bc.googleusercontent.com
 66.88.78.34.bc.googleusercontent.com
 73.53.187.35.bc.googleusercontent.com
@@ -49,20 +46,8 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdsg3ry68v.stretchoid.com
-azpdsg58gbbx.stretchoid.com
-azpdsg7aw2ot.stretchoid.com
-azpdsgdthnqp.stretchoid.com
-azpdsgqpucw1.stretchoid.com
-azpdsgv1yi6q.stretchoid.com
-azpdss1xwgc0.stretchoid.com
-azpdssee30ij.stretchoid.com
-azpdssguw7ri.stretchoid.com
 azpdsshab2op.stretchoid.com
-azpdssjnwdgv.stretchoid.com
-azpdsssyxvsv.stretchoid.com
-azpdssxq24h7.stretchoid.com
 azpdssy2j4f1.stretchoid.com
-azpdsszhqwse.stretchoid.com
 azpdwsayyn3f.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -91,8 +76,6 @@ scan-45g.shadowserver.org
 scan-63-13.shadowserver.org
 scan-79-08.shadowserver.org
 scan-81-0.shadowserver.org
-scan-86-7.shadowserver.org
-scan-88-6.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
