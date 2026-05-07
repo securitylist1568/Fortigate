@@ -21,6 +21,7 @@
 112-104-90-242.adsl.dynamic.seed.net.tw
 112-105-51-1.adsl.dynamic.seed.net.tw
 112.129.195.35.bc.googleusercontent.com
+123-192-88-238.dynamic.kbronet.com.tw
 128.150.216.162.bc.googleusercontent.com
 134.205.78.34.bc.googleusercontent.com
 141.201.38.34.bc.googleusercontent.com
