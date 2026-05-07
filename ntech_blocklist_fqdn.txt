@@ -24,10 +24,9 @@
 151.150.216.162.bc.googleusercontent.com
 155.83.233.35.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
-159.149.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-189.211.203.35.bc.googleusercontent.com
+195.149.216.162.bc.googleusercontent.com
 198-74-58-144.ip.linodeusercontent.com
 20.210.203.35.bc.googleusercontent.com
 200.87.205.35.bc.googleusercontent.com
@@ -36,7 +35,6 @@
 241.139.195.35.bc.googleusercontent.com
 255.222.77.34.bc.googleusercontent.com
 42.141.52.34.bc.googleusercontent.com
-44.149.216.162.bc.googleusercontent.com
 45-79-177-48.ip.linodeusercontent.com
 45.169.241.35.bc.googleusercontent.com
 48.154.92.34.bc.googleusercontent.com
@@ -61,8 +59,6 @@ ip-49-142.web1.bg
 ip29.sudolio.io
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
-o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -71,4 +67,5 @@ rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.203-174-22-19.hostbet.in
 users219.vip.heteml.jp
