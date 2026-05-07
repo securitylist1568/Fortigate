@@ -38,6 +38,7 @@
 241.149.216.162.bc.googleusercontent.com
 241.171.34.34.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
+32.210.203.35.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
 6.241.109.202.broad.xm.fj.dynamic.163data.com.cn
 66.88.78.34.bc.googleusercontent.com
@@ -96,12 +97,14 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
+o605.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-45g.shadowserver.org
 scan-78-08.shadowserver.org
 scan-81-0.shadowserver.org
 scan-86-7.shadowserver.org
