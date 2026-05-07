@@ -38,10 +38,12 @@
 253.149.216.162.bc.googleusercontent.com
 36-224-150-125.dynamic-ip.hinet.net
 47.211.203.35.bc.googleusercontent.com
+48.154.92.34.bc.googleusercontent.com
 63.29.199.104.bc.googleusercontent.com
 66.88.78.34.bc.googleusercontent.com
 73.53.187.35.bc.googleusercontent.com
 75.228.189.35.bc.googleusercontent.com
+92.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -58,6 +60,8 @@ ip29.sudolio.io
 kub002.idyschool.de.com
 l610.scanner.modat.io
 mfyabgec.musicpda.com
+o620.scanner.modat.io
+o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
 peters.probe.onyphe.net
 pinkytales.com
