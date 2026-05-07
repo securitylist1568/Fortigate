@@ -22,10 +22,10 @@
 112-105-51-1.adsl.dynamic.seed.net.tw
 112.129.195.35.bc.googleusercontent.com
 123-192-88-238.dynamic.kbronet.com.tw
-128.150.216.162.bc.googleusercontent.com
 134.205.78.34.bc.googleusercontent.com
 141.201.38.34.bc.googleusercontent.com
 144.41.62.34.bc.googleusercontent.com
+155.149.216.162.bc.googleusercontent.com
 155.83.233.35.bc.googleusercontent.com
 167.153.53.34.bc.googleusercontent.com
 172-237-105-132.ip.linodeusercontent.com
@@ -40,7 +40,6 @@
 25.150.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 255.222.77.34.bc.googleusercontent.com
-36-224-150-125.dynamic-ip.hinet.net
 40.150.216.162.bc.googleusercontent.com
 42.141.52.34.bc.googleusercontent.com
 45.169.241.35.bc.googleusercontent.com
@@ -59,7 +58,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -85,5 +83,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
-v2202604348631447293.hotsrv.de
 www.internet-albedo.net
