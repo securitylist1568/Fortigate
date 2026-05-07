@@ -53,6 +53,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kub002.idyschool.de.com
+l601.scanner.modat.io
 l607.scanner.modat.io
 mfyabgec.musicpda.com
 o620.scanner.modat.io
