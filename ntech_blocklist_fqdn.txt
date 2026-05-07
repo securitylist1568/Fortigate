@@ -28,11 +28,9 @@
 159.149.216.162.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
-172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 189.211.203.35.bc.googleusercontent.com
 198-74-58-144.ip.linodeusercontent.com
-200.87.205.35.bc.googleusercontent.com
 221.252.195.35.bc.googleusercontent.com
 241.139.195.35.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
@@ -41,12 +39,10 @@
 42.141.52.34.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 45.169.241.35.bc.googleusercontent.com
-48.154.92.34.bc.googleusercontent.com
 50.95.140.34.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
 64.185.241.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
-92.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -65,10 +61,8 @@ no-mans-land.m247.com
 o601.scanner.modat.io
 o603.scanner.modat.io
 o616.scanner.modat.io
-o620.scanner.modat.io
 o632.scanner.modat.io
 o634.scanner.modat.io
-o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
