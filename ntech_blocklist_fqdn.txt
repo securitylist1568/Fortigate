@@ -30,7 +30,6 @@
 167.153.53.34.bc.googleusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-197.149.216.162.bc.googleusercontent.com
 197.232.79.34.bc.googleusercontent.com
 200.87.205.35.bc.googleusercontent.com
 214.195.140.34.bc.googleusercontent.com
@@ -58,7 +57,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-federationchilla.site
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
@@ -80,6 +78,7 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
 www.internet-albedo.net
