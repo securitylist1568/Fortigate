@@ -27,7 +27,6 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 151.109.38.34.bc.googleusercontent.com
-151.150.216.162.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-236-21-17.ip.linodeusercontent.com
@@ -70,9 +69,6 @@ c-68-51-193-229.hsd1.mi.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-13-221-117-222.compute-1.amazonaws.com
-ec2-13-221-239-87.compute-1.amazonaws.com
-ec2-3-92-180-146.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -88,7 +84,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-15k.shadowserver.org
 scan-79-08.shadowserver.org
 scan-80-9.shadowserver.org
@@ -97,5 +92,4 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.203-174-22-19.hostbet.in
 users219.vip.heteml.jp
