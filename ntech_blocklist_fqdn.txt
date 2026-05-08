@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.149.216.162.bc.googleusercontent.com
+117.149.216.162.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
 134.205.78.34.bc.googleusercontent.com
@@ -72,6 +73,7 @@ scan-79-08.shadowserver.org
 scan-80-9.shadowserver.org
 scan-85-0.shadowserver.org
 scan.visionheight.com
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-19.hostbet.in
