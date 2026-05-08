@@ -32,6 +32,7 @@
 25.150.216.162.bc.googleusercontent.com
 61-30-132-102.dynamic.tfn.net.tw
 62-210-217-72.rev.poneytelecom.eu
+64.210.203.35.bc.googleusercontent.com
 66-228-32-252.ip.linodeusercontent.com
 8.107.129.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -50,6 +51,7 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o618.scanner.modat.io
 o620.scanner.modat.io
 o625.scanner.modat.io
