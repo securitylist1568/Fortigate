@@ -36,6 +36,7 @@
 62-210-217-72.rev.poneytelecom.eu
 64.210.203.35.bc.googleusercontent.com
 66-228-32-252.ip.linodeusercontent.com
+76.40.133.34.bc.googleusercontent.com
 8.107.129.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
