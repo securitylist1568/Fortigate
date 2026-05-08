@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 106.150.216.162.bc.googleusercontent.com
+109.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -30,7 +31,9 @@
 192.26.233.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 216-128-152-79.choopa.net
+216.150.216.162.bc.googleusercontent.com
 225.211.203.35.bc.googleusercontent.com
+23.149.216.162.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
@@ -64,8 +67,10 @@ recyber.net
 rootevidence.com
 scan-04f.shadowserver.org
 scan-05j.shadowserver.org
+scan-67-1.shadowserver.org
 scan-78-08.shadowserver.org
 scan-83-7.shadowserver.org
+scan-85-3.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
