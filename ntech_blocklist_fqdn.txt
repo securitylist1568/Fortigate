@@ -70,6 +70,7 @@ amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgdroqxu.stretchoid.com
 azpdcgfwv02q.stretchoid.com
+azpdcgmv4rzj.stretchoid.com
 azpdes63bdu5.stretchoid.com
 azpdsgrmaulj.stretchoid.com
 azpdss2sy749.stretchoid.com
@@ -80,11 +81,13 @@ azpdsse6bn8p.stretchoid.com
 azpdsshab2op.stretchoid.com
 azpdsslt2dou.stretchoid.com
 azpdssy2j4f1.stretchoid.com
+azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+domene.no
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -102,6 +105,7 @@ scan-15k.shadowserver.org
 scan-79-08.shadowserver.org
 scan-80-9.shadowserver.org
 scan-85-0.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
