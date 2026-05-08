@@ -20,6 +20,7 @@
 111.149.216.162.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
+121.40.78.34.bc.googleusercontent.com
 121.99.195.35.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
 151.109.38.34.bc.googleusercontent.com
@@ -39,6 +40,7 @@
 44.210.203.35.bc.googleusercontent.com
 45.169.241.35.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
+64.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 99.65.62.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -59,6 +61,7 @@ ip29.sudolio.io
 li1972-67.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
+o609.scanner.modat.io
 o610.scanner.modat.io
 o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
