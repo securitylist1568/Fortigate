@@ -23,8 +23,6 @@
 135.210.203.35.bc.googleusercontent.com
 139.180.152.251.vultrusercontent.com
 158.149.216.162.bc.googleusercontent.com
-170.210.203.35.bc.googleusercontent.com
-178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.150.216.162.bc.googleusercontent.com
 216-128-152-79.choopa.net
@@ -32,8 +30,8 @@
 23.149.216.162.bc.googleusercontent.com
 23.204.212.35.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
-34.210.203.35.bc.googleusercontent.com
 61-30-132-102.dynamic.tfn.net.tw
+62-210-217-72.rev.poneytelecom.eu
 66-228-32-252.ip.linodeusercontent.com
 8.107.129.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -54,7 +52,6 @@ mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 o618.scanner.modat.io
 o620.scanner.modat.io
-o624.scanner.modat.io
 o625.scanner.modat.io
 o626.scanner.modat.io
 o628.scanner.modat.io
@@ -68,12 +65,9 @@ r6.ams.opendns.com
 recyber.net
 rootevidence.com
 scan-04c.shadowserver.org
-scan-04f.shadowserver.org
 scan-13l.shadowserver.org
 scan-15i.shadowserver.org
 scan-67-1.shadowserver.org
-scan-78-08.shadowserver.org
-scan-83-7.shadowserver.org
 scan-85-3.shadowserver.org
 scan-87-7.shadowserver.org
 scan.visionheight.com
