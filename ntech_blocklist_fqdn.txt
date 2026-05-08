@@ -30,6 +30,7 @@
 200.87.205.35.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
 23-92-22-229.ip.linodeusercontent.com
+234.150.216.162.bc.googleusercontent.com
 241.139.195.35.bc.googleusercontent.com
 255.222.77.34.bc.googleusercontent.com
 42.141.52.34.bc.googleusercontent.com
@@ -58,6 +59,7 @@ ip29.sudolio.io
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 o610.scanner.modat.io
+o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
