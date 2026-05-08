@@ -37,6 +37,7 @@
 250.150.216.162.bc.googleusercontent.com
 26.237.158.34.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
+61-30-132-102.dynamic.tfn.net.tw
 66-228-32-252.ip.linodeusercontent.com
 8.107.129.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -54,6 +55,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+o618.scanner.modat.io
 o620.scanner.modat.io
 o624.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -64,6 +66,7 @@ r2002.compute.ams1.edc.strln.net
 r6.ams.opendns.com
 recyber.net
 rootevidence.com
+scan-04c.shadowserver.org
 scan-04f.shadowserver.org
 scan-05j.shadowserver.org
 scan-15i.shadowserver.org
@@ -76,4 +79,5 @@ scanner-info.rootevidence.com
 server-54-192-255-186.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
