@@ -25,6 +25,7 @@
 159.211.203.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+200.150.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
@@ -66,9 +67,13 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o600.scanner.modat.io
+o609.scanner.modat.io
+o610.scanner.modat.io
 o618.scanner.modat.io
 o622.scanner.modat.io
 o625.scanner.modat.io
+o628.scanner.modat.io
 o632.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -76,7 +81,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-56.security.ipip.net
+scan-61-4.shadowserver.org
 scan-63-8.shadowserver.org
+scan-80-9.shadowserver.org
+scan-81-7.shadowserver.org
+scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
