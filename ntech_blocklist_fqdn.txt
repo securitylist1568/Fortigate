@@ -23,6 +23,7 @@
 14.169.140.34.bc.googleusercontent.com
 142.109.79.34.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
+161.210.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 169.223.77.34.bc.googleusercontent.com
 180.211.203.35.bc.googleusercontent.com
@@ -80,6 +81,7 @@ r3004.compute.ams1.edc.strln.net
 r3007.compute.ams1.edc.strln.net
 recyber.net
 scan-15i.shadowserver.org
+scan-40e.shadowserver.org
 scan-41m.shadowserver.org
 scan-73-02.shadowserver.org
 scan-83-7.shadowserver.org
