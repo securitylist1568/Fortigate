@@ -30,6 +30,7 @@
 196.233.189.35.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 247.149.216.162.bc.googleusercontent.com
+254.149.216.162.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 39.174.97.34.bc.googleusercontent.com
@@ -37,6 +38,10 @@
 60-249-14-121.hinet-ip.hinet.net
 7.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
+azpdsg4lwdz3.stretchoid.com
+azpdsglck6ef.stretchoid.com
+azpdsgt866ai.stretchoid.com
+azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
