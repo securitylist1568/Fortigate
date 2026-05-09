@@ -31,6 +31,7 @@
 186.104.199.104.bc.googleusercontent.com
 221.133.34.34.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
+227.150.216.162.bc.googleusercontent.com
 228.74.140.34.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 44.140.34.34.bc.googleusercontent.com
@@ -70,6 +71,10 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 proxy.my-webspace.at
+r2004.compute.ams1.edc.strln.net
+r3002.compute.ams1.edc.strln.net
+r3004.compute.ams1.edc.strln.net
+r3007.compute.ams1.edc.strln.net
 recyber.net
 scan-15i.shadowserver.org
 scan-41m.shadowserver.org
