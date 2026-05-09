@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-26-194-93.dynamic-ip.hinet.net
 121.149.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
@@ -25,11 +24,9 @@
 170.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200.150.216.162.bc.googleusercontent.com
-247.149.216.162.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-60-249-14-121.hinet-ip.hinet.net
 68.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
@@ -64,6 +61,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip192.ip-15-204-157.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o600.scanner.modat.io
@@ -89,4 +87,3 @@ scan-89-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
