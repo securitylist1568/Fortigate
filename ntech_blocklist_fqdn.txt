@@ -18,8 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.149.216.162.bc.googleusercontent.com
-121.149.216.162.bc.googleusercontent.com
-142.210.203.35.bc.googleusercontent.com
+135.149.216.162.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 150.210.203.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
@@ -27,7 +26,6 @@
 188.210.203.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
 39.174.97.34.bc.googleusercontent.com
-68.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -60,4 +58,7 @@ scan-81-7.shadowserver.org
 scan-89-5.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-210-83.datapacket.com
+user-146-19-3-141.sto02.se.misaka.io
+user-170-39-225-147.mci01.us.misaka.io
 users219.vip.heteml.jp
