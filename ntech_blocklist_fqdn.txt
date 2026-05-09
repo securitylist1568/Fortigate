@@ -26,6 +26,7 @@
 188.210.203.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
 39.174.97.34.bc.googleusercontent.com
+9.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
