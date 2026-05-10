@@ -26,9 +26,9 @@
 169.149.216.162.bc.googleusercontent.com
 172-239-105-137.ip.linodeusercontent.com
 176.65.148.226.ptr.pfcloud.network
+176.65.148.92.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-213-3-117.as212027.host
-247.149.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 45.112.138.30.actcorp.in
 amz.unixwiz.net
@@ -50,6 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-61-9.shadowserver.org
 scan-84-0.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
