@@ -20,7 +20,6 @@
 13.187.231.8.bc.googleusercontent.com
 160.212.92.34.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
-172-239-105-137.ip.linodeusercontent.com
 176.65.148.92.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 198-74-49-178.ip.linodeusercontent.com
@@ -36,8 +35,11 @@ azpdsg09h0rw.stretchoid.com
 azpdsg1j90qs.stretchoid.com
 azpdsg25ie9q.stretchoid.com
 azpdsg56zpoo.stretchoid.com
+azpdsg58gbbx.stretchoid.com
+azpdsg5jlcj1.stretchoid.com
 azpdsg8708op.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
+azpdsge43nsk.stretchoid.com
 azpdsgens699.stretchoid.com
 azpdsglvqiiq.stretchoid.com
 azpdsgo2stos.stretchoid.com
@@ -54,6 +56,7 @@ azpdssee30ij.stretchoid.com
 azpdssjnwdgv.stretchoid.com
 azpdssle59pd.stretchoid.com
 azpdssml72hw.stretchoid.com
+azpdssrw6qko.stretchoid.com
 azpdsswwm226.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 b2.org.afilias-nst.org
@@ -67,7 +70,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip192.ip-15-204-157.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o626.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
