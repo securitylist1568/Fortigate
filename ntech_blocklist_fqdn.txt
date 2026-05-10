@@ -32,6 +32,7 @@
 208.211.203.35.bc.googleusercontent.com
 211.22.62.34.bc.googleusercontent.com
 218.93.38.34.bc.googleusercontent.com
+252.38.78.34.bc.googleusercontent.com
 333680be-4b05-47b8-bf85-3b433125efbd.nl-ams-1.baremetal.scw.cloud
 45-79-139-91.ip.linodeusercontent.com
 65.57.211.130.bc.googleusercontent.com
@@ -63,6 +64,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-05j.shadowserver.org
+scan-13n.shadowserver.org
 scan-45o.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
