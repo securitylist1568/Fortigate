@@ -25,6 +25,7 @@
 207.118.195.35.bc.googleusercontent.com
 211.22.62.34.bc.googleusercontent.com
 218.93.38.34.bc.googleusercontent.com
+247.149.216.162.bc.googleusercontent.com
 252.38.78.34.bc.googleusercontent.com
 255.7.78.34.bc.googleusercontent.com
 65.57.211.130.bc.googleusercontent.com
@@ -50,7 +51,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
 scan-13n.shadowserver.org
-scan-45o.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
