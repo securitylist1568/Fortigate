@@ -19,12 +19,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
 135.149.216.162.bc.googleusercontent.com
+160.212.92.34.bc.googleusercontent.com
 172-104-11-234.ip.linodeusercontent.com
 172-104-214-169.ip.linodeusercontent.com
 172-236-19-126.ip.linodeusercontent.com
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.211.203.35.bc.googleusercontent.com
+207.118.195.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 333680be-4b05-47b8-bf85-3b433125efbd.nl-ams-1.baremetal.scw.cloud
 45-79-139-91.ip.linodeusercontent.com
