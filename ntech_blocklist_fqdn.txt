@@ -22,9 +22,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-169-76-250.dynamic-ip.hinet.net
 155.150.216.162.bc.googleusercontent.com
+169.149.216.162.bc.googleusercontent.com
+176.65.148.226.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-213-3-117.as212027.host
 247.149.216.162.bc.googleusercontent.com
+25.149.216.162.bc.googleusercontent.com
 255.7.78.34.bc.googleusercontent.com
 45.112.138.30.actcorp.in
 amz.unixwiz.net
@@ -32,7 +35,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-95-40-82-31.ap-east-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -40,6 +42,7 @@ ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
 nctsaa-ac-in-f10.1e100.net
+node.phear.ru
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
