@@ -28,6 +28,7 @@
 208.211.203.35.bc.googleusercontent.com
 333680be-4b05-47b8-bf85-3b433125efbd.nl-ams-1.baremetal.scw.cloud
 45-79-139-91.ip.linodeusercontent.com
+65.57.211.130.bc.googleusercontent.com
 66-175-209-202.ip.linodeusercontent.com
 9.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -47,6 +48,7 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 nc-ph-2962.web-hosting.com
 o624.scanner.modat.io
+o625.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
