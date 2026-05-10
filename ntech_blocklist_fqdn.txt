@@ -18,8 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 152.27.189.107.static.cloudzy.com
-160.212.92.34.bc.googleusercontent.com
-17.149.216.162.bc.googleusercontent.com
+172-236-21-80.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 198-74-49-178.ip.linodeusercontent.com
@@ -65,11 +64,12 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-186-3-217-69.netlife.ec
 htb-h9b8tjwfph.htb-cloud.com
 ip192.ip-15-204-157.us
 ip29.sudolio.io
+ip3.ip-15-204-150.us
 mfyabgec.musicpda.com
+o610.scanner.modat.io
 o630.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
