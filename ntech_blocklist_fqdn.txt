@@ -22,7 +22,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 13.187.231.8.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
+160.212.92.34.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
+17.149.216.162.bc.googleusercontent.com
 172-239-105-137.ip.linodeusercontent.com
 176.65.148.226.ptr.pfcloud.network
 176.65.148.92.ptr.pfcloud.network
