@@ -27,11 +27,14 @@
 26.149.216.162.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 61-64-116-251-adsl-zha.static.so-net.net.tw
+6682-315a.jnb01.za.misaka.io
 adventure.yatano.com
 amz.unixwiz.net
 azpdes6tt1mc.stretchoid.com
 azpdespq7q3k.stretchoid.com
+azpdsg09h0rw.stretchoid.com
 azpdsg1j90qs.stretchoid.com
+azpdsg25ie9q.stretchoid.com
 azpdsg56zpoo.stretchoid.com
 azpdsg8708op.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
@@ -63,6 +66,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o626.scanner.modat.io
+o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
