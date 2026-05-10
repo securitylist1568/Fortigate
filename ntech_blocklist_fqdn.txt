@@ -20,7 +20,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-169-76-250.dynamic-ip.hinet.net
 13.187.231.8.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
@@ -31,6 +30,7 @@
 194-213-3-117.as212027.host
 25.149.216.162.bc.googleusercontent.com
 45.112.138.30.actcorp.in
+6.150.216.162.bc.googleusercontent.com
 61-64-116-251-adsl-zha.static.so-net.net.tw
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -41,7 +41,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-lisbon.portugal.com
 mfyabgec.musicpda.com
 nctsaa-ac-in-f10.1e100.net
 node.phear.ru
@@ -51,9 +50,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-02m.shadowserver.org
 scan-60.security.ipip.net
 scan-61-9.shadowserver.org
-scan-84-0.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
