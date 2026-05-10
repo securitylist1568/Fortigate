@@ -17,16 +17,16 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-13.187.231.8.bc.googleusercontent.com
 160.212.92.34.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
-176.65.148.92.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 198-74-49-178.ip.linodeusercontent.com
 26.149.216.162.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 61-64-116-251-adsl-zha.static.so-net.net.tw
 6682-315a.jnb01.za.misaka.io
+activity189.numbercombative.com
 adventure.yatano.com
 amz.unixwiz.net
 azpdes6tt1mc.stretchoid.com
@@ -41,6 +41,7 @@ azpdsg8708op.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
 azpdsge43nsk.stretchoid.com
 azpdsgens699.stretchoid.com
+azpdsgigumtz.stretchoid.com
 azpdsglvqiiq.stretchoid.com
 azpdsgo2stos.stretchoid.com
 azpdsgo34xwr.stretchoid.com
@@ -78,9 +79,8 @@ recyber.net
 rootevidence.com
 scan-02m.shadowserver.org
 scan-60.security.ipip.net
-scan-61-9.shadowserver.org
-scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
+vds1077812.hosted-by-itldc.com
