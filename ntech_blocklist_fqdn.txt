@@ -22,7 +22,6 @@
 160.212.92.34.bc.googleusercontent.com
 172-104-11-234.ip.linodeusercontent.com
 172-104-214-169.ip.linodeusercontent.com
-172-236-19-126.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188.183.205.35.bc.googleusercontent.com
 207.118.195.35.bc.googleusercontent.com
@@ -30,7 +29,6 @@
 218.93.38.34.bc.googleusercontent.com
 252.38.78.34.bc.googleusercontent.com
 255.7.78.34.bc.googleusercontent.com
-333680be-4b05-47b8-bf85-3b433125efbd.nl-ams-1.baremetal.scw.cloud
 45-79-139-91.ip.linodeusercontent.com
 65.57.211.130.bc.googleusercontent.com
 66-175-209-202.ip.linodeusercontent.com
@@ -50,7 +48,6 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 nc-ph-2962.web-hosting.com
 o622.scanner.modat.io
-o624.scanner.modat.io
 o625.scanner.modat.io
 o627.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -67,3 +64,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.136.35.9.176.clients.your-server.de
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
+www.internet-albedo.net
