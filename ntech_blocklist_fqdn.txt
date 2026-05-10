@@ -58,6 +58,7 @@ rootevidence.com
 scan-05j.shadowserver.org
 scan-13n.shadowserver.org
 scan-45o.shadowserver.org
+scan-88-6.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
