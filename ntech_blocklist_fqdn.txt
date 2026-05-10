@@ -26,6 +26,7 @@
 172-236-19-126.ip.linodeusercontent.com
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+188.183.205.35.bc.googleusercontent.com
 194.211.203.35.bc.googleusercontent.com
 207.118.195.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
@@ -59,6 +60,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-05j.shadowserver.org
 scan-45o.shadowserver.org
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
