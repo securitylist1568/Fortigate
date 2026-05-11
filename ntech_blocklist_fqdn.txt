@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.186.62.34.bc.googleusercontent.com
+114.106.205.35.bc.googleusercontent.com
 118-168-176-114.dynamic-ip.hinet.net
 124.1.187.35.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
@@ -39,12 +40,14 @@
 180-218-220-0.dynamic.twmbroadband.net
 185-45-195-15.hostsailor.com
 23-92-27-179.ip.linodeusercontent.com
+25.139.205.35.bc.googleusercontent.com
 43.94.74.34.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 84.94.177.195.in-addr.arpa
+95.4.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
