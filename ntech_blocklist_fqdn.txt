@@ -35,6 +35,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o606.scanner.modat.io
+o625.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
