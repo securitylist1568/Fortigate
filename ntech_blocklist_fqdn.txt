@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.106.205.35.bc.googleusercontent.com
 172-236-2-133.ip.linodeusercontent.com
+176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 214.1.187.35.bc.googleusercontent.com
@@ -46,4 +47,5 @@ scan-67-1.shadowserver.org
 scan-78-08.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
