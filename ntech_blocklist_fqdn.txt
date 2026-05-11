@@ -39,6 +39,8 @@
 176.65.149.203.ptr.pfcloud.network
 180-218-220-0.dynamic.twmbroadband.net
 185-45-195-15.hostsailor.com
+194-195-122-95.ip.linodeusercontent.com
+214.1.187.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 25.139.205.35.bc.googleusercontent.com
 43.94.74.34.bc.googleusercontent.com
