@@ -25,7 +25,6 @@
 143-42-173-60.ip.linodeusercontent.com
 164.234.77.34.bc.googleusercontent.com
 172-236-151-202.ip.linodeusercontent.com
-172-236-21-80.ip.linodeusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -63,9 +62,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip3.ip-15-204-150.us
 mfyabgec.musicpda.com
-o610.scanner.modat.io
 o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
@@ -73,6 +70,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
+scan-61-4.shadowserver.org
 scan-86-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
