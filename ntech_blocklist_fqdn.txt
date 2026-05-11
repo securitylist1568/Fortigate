@@ -23,7 +23,6 @@
 172-104-100-28.ip.linodeusercontent.com
 172-236-2-133.ip.linodeusercontent.com
 176.65.149.203.ptr.pfcloud.network
-180-218-220-0.dynamic.twmbroadband.net
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 214.1.187.35.bc.googleusercontent.com
@@ -40,7 +39,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o600.scanner.modat.io
 pc112.cses.ilc.edu.tw
