@@ -20,8 +20,10 @@
 152.27.189.107.static.cloudzy.com
 172-236-151-202.ip.linodeusercontent.com
 172-236-21-80.ip.linodeusercontent.com
+176.24.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201-20-85-122.dynamic.mobtelecom.com.br
+214.1.187.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
