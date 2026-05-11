@@ -18,15 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.106.205.35.bc.googleusercontent.com
-124.1.187.35.bc.googleusercontent.com
 172-236-2-133.ip.linodeusercontent.com
-176.65.149.203.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 214.1.187.35.bc.googleusercontent.com
 25.139.205.35.bc.googleusercontent.com
-43.94.74.34.bc.googleusercontent.com
-84.94.177.195.in-addr.arpa
 95.4.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -38,7 +34,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o600.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
