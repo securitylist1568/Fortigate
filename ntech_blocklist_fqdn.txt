@@ -18,9 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.106.205.35.bc.googleusercontent.com
-118-168-176-114.dynamic-ip.hinet.net
 124.1.187.35.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 172-236-2-133.ip.linodeusercontent.com
 176.65.149.203.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
