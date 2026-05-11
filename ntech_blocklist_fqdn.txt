@@ -21,11 +21,8 @@
 172-236-151-202.ip.linodeusercontent.com
 172-236-21-80.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-194-195-253-86.ip.linodeusercontent.com
 201-20-85-122.dynamic.mobtelecom.com.br
-activity189.numbercombative.com
 amz.unixwiz.net
-azpdsgigumtz.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -53,4 +50,3 @@ scan-86-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
