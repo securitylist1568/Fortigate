@@ -36,6 +36,7 @@
 173-255-243-63.ip.linodeusercontent.com
 176.24.195.35.bc.googleusercontent.com
 176.65.148.92.ptr.pfcloud.network
+176.65.149.203.ptr.pfcloud.network
 180-218-220-0.dynamic.twmbroadband.net
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
@@ -62,6 +63,7 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 node-150-107-213-228.alliancebroadband.in
+o600.scanner.modat.io
 o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
