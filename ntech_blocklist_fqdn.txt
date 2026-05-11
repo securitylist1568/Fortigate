@@ -45,6 +45,7 @@
 23-92-27-179.ip.linodeusercontent.com
 23.37.240.35.bc.googleusercontent.com
 25.139.205.35.bc.googleusercontent.com
+43.94.74.34.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
@@ -68,13 +69,12 @@ node-150-107-213-228.alliancebroadband.in
 o600.scanner.modat.io
 o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
-pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02k.shadowserver.org
+scan-04c.shadowserver.org
 scan-61-4.shadowserver.org
-scan-86-7.shadowserver.org
+scan-63-13.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
