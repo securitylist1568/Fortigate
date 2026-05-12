@@ -30,6 +30,7 @@
 217.54.199.104.bc.googleusercontent.com
 234.156.38.34.bc.googleusercontent.com
 243.56.38.34.bc.googleusercontent.com
+249.57.187.35.bc.googleusercontent.com
 45.100.211.130.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
@@ -77,6 +78,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o630.scanner.modat.io
+out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
