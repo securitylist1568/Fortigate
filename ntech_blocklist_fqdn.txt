@@ -33,14 +33,6 @@
 249.57.187.35.bc.googleusercontent.com
 45.100.211.130.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcslejnig.stretchoid.com
-azpdcsuk863a.stretchoid.com
-azpdsg58gbbx.stretchoid.com
-azpdsge43nsk.stretchoid.com
-azpdssc2clde.stretchoid.com
-azpdssfs3wsw.stretchoid.com
-azpdsslt2dou.stretchoid.com
-azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
 b3dd31ae.virtua.com.br
 b3dd323f.virtua.com.br
@@ -67,5 +59,4 @@ scan-85-0.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
