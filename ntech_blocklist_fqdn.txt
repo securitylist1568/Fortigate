@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.146.241.35.bc.googleusercontent.com
 143.215.195.35.bc.googleusercontent.com
 172-236-19-126.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -45,7 +44,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rping.ipip.net
 scan-86-7.shadowserver.org
 smtp1.telemach.net
 srv20618.dus7.dedicated.server-hosting.expert
