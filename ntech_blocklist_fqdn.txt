@@ -23,9 +23,7 @@
 172-236-24-106.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 172-237-120-95.ip.linodeusercontent.com
-173-255-233-109.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-45-79-134-5.ip.linodeusercontent.com
 46-110-173-90.metronet.net
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
@@ -72,14 +70,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o610.scanner.modat.io
-o629.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-185-209-85-233.mow01.ru.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
