@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 188.94.130.34.bc.googleusercontent.com
 189.192.79.34.bc.googleusercontent.com
+191-254-157-185.dsl.telesp.net.br
 199.205.241.35.bc.googleusercontent.com
 210.63.79.34.bc.googleusercontent.com
 217.54.199.104.bc.googleusercontent.com
