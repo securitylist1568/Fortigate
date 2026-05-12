@@ -21,7 +21,6 @@
 114.146.241.35.bc.googleusercontent.com
 123-192-200-16.dynamic.kbronet.com.tw
 143.215.195.35.bc.googleusercontent.com
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 188.94.130.34.bc.googleusercontent.com
 189.192.79.34.bc.googleusercontent.com
@@ -35,7 +34,6 @@
 45.100.211.130.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-b3dd31ae.virtua.com.br
 b3dd323f.virtua.com.br
 client.yota.ru
 dal215.hawkhost.com
@@ -56,9 +54,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
 scan-63-9.shadowserver.org
-scan-71-05.shadowserver.org
 scan-85-0.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+time.cloudflare.com
 users219.vip.heteml.jp
+vps3378846.trouble-free.net
