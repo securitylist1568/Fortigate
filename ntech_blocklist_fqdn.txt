@@ -50,9 +50,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-86-7.shadowserver.org
 smtp1.telemach.net
-srv20618.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
-time.cloudflare.com
 users219.vip.heteml.jp
-vps3378846.trouble-free.net
 www.internet-albedo.net
