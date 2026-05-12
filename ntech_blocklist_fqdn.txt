@@ -22,16 +22,13 @@
 123-192-200-16.dynamic.kbronet.com.tw
 143.215.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-188.94.130.34.bc.googleusercontent.com
-189.192.79.34.bc.googleusercontent.com
 191-254-157-185.dsl.telesp.net.br
 199.205.241.35.bc.googleusercontent.com
 210.63.79.34.bc.googleusercontent.com
-217.54.199.104.bc.googleusercontent.com
+219.22.14.34.bc.googleusercontent.com
 234.156.38.34.bc.googleusercontent.com
 243.56.38.34.bc.googleusercontent.com
 249.57.187.35.bc.googleusercontent.com
-45.100.211.130.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 b3dd323f.virtua.com.br
@@ -57,6 +54,7 @@ scan-63-9.shadowserver.org
 scan-85-0.shadowserver.org
 scan-87-7.shadowserver.org
 smtp1.telemach.net
+srv20618.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 time.cloudflare.com
 users219.vip.heteml.jp
