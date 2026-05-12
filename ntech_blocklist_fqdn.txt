@@ -38,6 +38,7 @@ o600.scanner.modat.io
 o605.scanner.modat.io
 o610.scanner.modat.io
 o622.scanner.modat.io
+o624.scanner.modat.io
 o629.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
