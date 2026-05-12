@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
 45-79-162-245.ip.linodeusercontent.com
 45-79-187-198.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -35,11 +34,8 @@ ip29.sudolio.io
 l603.scanner.modat.io
 l604.scanner.modat.io
 l607.scanner.modat.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-o605.scanner.modat.io
 o606.scanner.modat.io
-o610.scanner.modat.io
 o622.scanner.modat.io
 o624.scanner.modat.io
 o629.scanner.modat.io
