@@ -33,6 +33,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l603.scanner.modat.io
+l604.scanner.modat.io
 l607.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -48,6 +49,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-15i.shadowserver.org
+scan-63-8.shadowserver.org
 scan-81-7.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
