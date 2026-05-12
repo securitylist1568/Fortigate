@@ -21,12 +21,15 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.146.241.35.bc.googleusercontent.com
 123-192-200-16.dynamic.kbronet.com.tw
+143.215.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.192.79.34.bc.googleusercontent.com
 191-254-157-185.dsl.telesp.net.br
+199.205.241.35.bc.googleusercontent.com
 210.63.79.34.bc.googleusercontent.com
 217.54.199.104.bc.googleusercontent.com
 219.22.14.34.bc.googleusercontent.com
+243.56.38.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 b3dd323f.virtua.com.br
