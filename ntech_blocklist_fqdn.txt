@@ -1,7 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-10.42.66.218.broad.fz.fj.dynamic.163data.com.cn
-104.153.65.34.bc.googleusercontent.com
-11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -40,7 +37,6 @@ azpdcsuk863a.stretchoid.com
 azpdes63bdu5.stretchoid.com
 azpdsg1j90qs.stretchoid.com
 azpdsg52g7h9.stretchoid.com
-azpdsg56zpoo.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
 azpdsg6fplrv.stretchoid.com
@@ -51,7 +47,6 @@ azpdsgens699.stretchoid.com
 azpdsgor4bdz.stretchoid.com
 azpdsgrmaulj.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
-azpdss5zo5ld.stretchoid.com
 azpdssaj95k7.stretchoid.com
 azpdssc2clde.stretchoid.com
 azpdssfkcbom.stretchoid.com
