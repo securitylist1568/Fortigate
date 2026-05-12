@@ -24,6 +24,7 @@
 189.192.79.34.bc.googleusercontent.com
 195-154-45-158.rev.poneytelecom.eu
 199.205.241.35.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 217.54.199.104.bc.googleusercontent.com
 219.22.14.34.bc.googleusercontent.com
 243.56.38.34.bc.googleusercontent.com
@@ -37,9 +38,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o600.scanner.modat.io
 o605.scanner.modat.io
+o610.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
