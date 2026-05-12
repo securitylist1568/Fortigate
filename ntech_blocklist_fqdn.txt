@@ -72,6 +72,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o610.scanner.modat.io
 o630.scanner.modat.io
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
