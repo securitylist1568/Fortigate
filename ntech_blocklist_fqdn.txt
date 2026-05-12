@@ -23,9 +23,8 @@
 172-236-19-126.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 189.192.79.34.bc.googleusercontent.com
-191-254-157-185.dsl.telesp.net.br
+195-154-45-158.rev.poneytelecom.eu
 199.205.241.35.bc.googleusercontent.com
-210.63.79.34.bc.googleusercontent.com
 217.54.199.104.bc.googleusercontent.com
 219.22.14.34.bc.googleusercontent.com
 243.56.38.34.bc.googleusercontent.com
