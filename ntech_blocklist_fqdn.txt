@@ -19,11 +19,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.231.189.35.bc.googleusercontent.com
+114.160.52.34.bc.googleusercontent.com
 174.26.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 253.231.95.34.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
 36-226-161-128.dynamic-ip.hinet.net
+74.36.77.34.bc.googleusercontent.com
+9.134.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -38,7 +41,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip212-227-139-242.pbiaas.com
 ip29.sudolio.io
-l604.scanner.modat.io
+mailout2.hostinghospedagemvps.online
 mfyabgec.musicpda.com
 ns5040131.ip-148-113-217.net
 o626.scanner.modat.io
@@ -51,7 +54,6 @@ rootevidence.com
 rping.ipip.net
 scan-02k.shadowserver.org
 scan-05j.shadowserver.org
-scan-63-8.shadowserver.org
 scan-81-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
