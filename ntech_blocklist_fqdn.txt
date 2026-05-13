@@ -43,7 +43,6 @@ ip212-227-139-242.pbiaas.com
 ip29.sudolio.io
 mailout2.hostinghospedagemvps.online
 mfyabgec.musicpda.com
-ns5040131.ip-148-113-217.net
 o626.scanner.modat.io
 o629.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -59,7 +58,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ta-in-f109.1e100.net
 trafo.kz
-unn-207-211-214-162.datapacket.com
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
