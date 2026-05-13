@@ -18,12 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+123-192-192-150.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 203.136.161.60.broad.lc.yn.dynamic.163data.com.cn
 250.150.151.34.bc.googleusercontent.com
 32.164.241.35.bc.googleusercontent.com
-61-216-185-248.hinet-ip.hinet.net
-81-56-54-163.fbx.proxad.net
 amz.unixwiz.net
 azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
@@ -33,6 +32,7 @@ crawler039.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -41,10 +41,11 @@ o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+proxy.my-webspace.at
 recyber.net
+rootevidence.com
 scan-08g.shadowserver.org
+scan-15k.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-ta-in-f109.1e100.net
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
