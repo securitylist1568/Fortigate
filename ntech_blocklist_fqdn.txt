@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 155.138.234.12.vultrusercontent.com
+163-172-215-177.rev.poneytelecom.eu
 172-105-103-53.ip.linodeusercontent.com
 172-105-24-140.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
@@ -25,6 +26,7 @@
 204.76.203.30.ptr.pfcloud.network
 23.204.212.35.bc.googleusercontent.com
 45-33-76-73.ip.linodeusercontent.com
+81-56-54-163.fbx.proxad.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
