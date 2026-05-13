@@ -34,6 +34,13 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-222-129-81.compute-1.amazonaws.com
+ec2-13-222-168-56.compute-1.amazonaws.com
+ec2-3-80-27-62.compute-1.amazonaws.com
+ec2-3-81-224-7.compute-1.amazonaws.com
+ec2-3-84-29-230.compute-1.amazonaws.com
+ec2-3-89-226-152.compute-1.amazonaws.com
+ec2-44-201-209-19.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -41,6 +48,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
+o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -51,6 +59,7 @@ scan-09n.shadowserver.org
 scan-60-10.shadowserver.org
 scan-69-05.shadowserver.org
 scan-87-7.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
