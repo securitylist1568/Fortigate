@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 123-192-192-150.dynamic.kbronet.com.tw
 125-224-139-187.dynamic-ip.hinet.net
+172-105-24-140.ip.linodeusercontent.com
 172-236-19-126.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
