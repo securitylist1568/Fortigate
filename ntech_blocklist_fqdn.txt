@@ -36,6 +36,7 @@ crawler028.deepfield.net
 crawler039.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-43-205-199-160.ap-south-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
@@ -45,6 +46,7 @@ l611.scanner.modat.io
 mfyabgec.musicpda.com
 o622.scanner.modat.io
 o625.scanner.modat.io
+o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
