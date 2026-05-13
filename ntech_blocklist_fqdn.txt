@@ -20,7 +20,6 @@
 155.138.234.12.vultrusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 172-105-103-53.ip.linodeusercontent.com
-172-105-24-140.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 210.255.163.124.adsl-pool.sx.cn
