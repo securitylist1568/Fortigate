@@ -18,13 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-119.26.233.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 203.136.161.60.broad.lc.yn.dynamic.163data.com.cn
 250.150.151.34.bc.googleusercontent.com
 32.164.241.35.bc.googleusercontent.com
 61-216-185-248.hinet-ip.hinet.net
-70.66.77.34.bc.googleusercontent.com
 81-56-54-163.fbx.proxad.net
 amz.unixwiz.net
 azpdssyzibct.stretchoid.com
