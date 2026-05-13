@@ -17,13 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-125-224-139-187.dynamic-ip.hinet.net
 155.138.234.12.vultrusercontent.com
 172-105-103-53.ip.linodeusercontent.com
 172-105-24-140.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-195-154-45-158.rev.poneytelecom.eu
 204.76.203.30.ptr.pfcloud.network
 23.204.212.35.bc.googleusercontent.com
 45-33-76-73.ip.linodeusercontent.com
