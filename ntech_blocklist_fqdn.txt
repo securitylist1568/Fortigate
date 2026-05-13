@@ -23,6 +23,7 @@
 119.26.233.35.bc.googleusercontent.com
 174.26.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+250.150.151.34.bc.googleusercontent.com
 253.231.95.34.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
 61-216-185-248.hinet-ip.hinet.net
@@ -31,6 +32,7 @@
 81-56-54-163.fbx.proxad.net
 9.134.62.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
