@@ -24,12 +24,11 @@
 172-236-19-126.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+195-154-45-158.rev.poneytelecom.eu
 203.136.161.60.broad.lc.yn.dynamic.163data.com.cn
-250.150.151.34.bc.googleusercontent.com
 32.164.241.35.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
 amz.unixwiz.net
-azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler028.deepfield.net
@@ -50,8 +49,9 @@ proxy-ca002-ext2.a.ahrefs.com
 proxy.my-webspace.at
 recyber.net
 rootevidence.com
-scan-08g.shadowserver.org
+scan-13n.shadowserver.org
 scan-15k.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
