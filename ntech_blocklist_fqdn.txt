@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 195-154-45-158.rev.poneytelecom.eu
 203.136.161.60.broad.lc.yn.dynamic.163data.com.cn
+204.76.203.30.ptr.pfcloud.network
 32.164.241.35.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -40,6 +41,7 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+l611.scanner.modat.io
 mfyabgec.musicpda.com
 o622.scanner.modat.io
 o625.scanner.modat.io
@@ -51,6 +53,7 @@ recyber.net
 rootevidence.com
 scan-13n.shadowserver.org
 scan-15k.shadowserver.org
+scan-80-9.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
