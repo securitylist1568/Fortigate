@@ -25,7 +25,6 @@
 185-45-195-15.hostsailor.com
 253.231.95.34.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
-36-226-161-128.dynamic-ip.hinet.net
 61-216-185-248.hinet-ip.hinet.net
 70.66.77.34.bc.googleusercontent.com
 74.36.77.34.bc.googleusercontent.com
@@ -39,7 +38,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip212-227-139-242.pbiaas.com
 ip29.sudolio.io
 mailout2.hostinghospedagemvps.online
 mfyabgec.musicpda.com
@@ -49,7 +47,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 rping.ipip.net
 scan-02k.shadowserver.org
 scan-05j.shadowserver.org
