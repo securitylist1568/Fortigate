@@ -48,6 +48,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
+o620.scanner.modat.io
 o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
