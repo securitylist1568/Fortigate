@@ -50,9 +50,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-02k.shadowserver.org
+scan-09n.shadowserver.org
 scan-13n.shadowserver.org
 scan-69-05.shadowserver.org
 scan-80-9.shadowserver.org
+scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
