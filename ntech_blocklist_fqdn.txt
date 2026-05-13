@@ -52,6 +52,7 @@ recyber.net
 rping.ipip.net
 scan-02k.shadowserver.org
 scan-05j.shadowserver.org
+scan-08g.shadowserver.org
 scan-81-7.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
