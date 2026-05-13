@@ -18,13 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+253.231.95.34.bc.googleusercontent.com
+33.154.97.34.bc.googleusercontent.com
 36-226-161-128.dynamic-ip.hinet.net
-45-79-162-245.ip.linodeusercontent.com
-45-79-187-198.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-customer-hmo-83-15.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-55-31-181.compute-1.amazonaws.com
@@ -39,7 +38,6 @@ ip29.sudolio.io
 l604.scanner.modat.io
 mfyabgec.musicpda.com
 ns5040131.ip-148-113-217.net
-o606.scanner.modat.io
 o626.scanner.modat.io
 o629.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -48,6 +46,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
+scan-02k.shadowserver.org
 scan-05j.shadowserver.org
 scan-63-8.shadowserver.org
 scan-81-7.shadowserver.org
