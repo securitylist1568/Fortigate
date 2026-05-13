@@ -28,6 +28,7 @@ amz.unixwiz.net
 azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler028.deepfield.net
 crawler039.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
