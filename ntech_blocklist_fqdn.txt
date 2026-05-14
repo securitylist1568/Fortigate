@@ -41,12 +41,17 @@ aim.sba-research.org
 amz.unixwiz.net
 azpdes7t6661.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
+azpdsga05mgt.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
+azpdsgokg9kc.stretchoid.com
+azpdss5zo5ld.stretchoid.com
 azpdssc2clde.stretchoid.com
+azpdws4uku7j.stretchoid.com
 b2.org.afilias-nst.org
 church.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
+dns.adguard-dns.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
