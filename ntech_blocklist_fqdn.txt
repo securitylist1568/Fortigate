@@ -36,6 +36,7 @@
 252.210.203.35.bc.googleusercontent.com
 45.188.123.45-connectba.com.br
 47.149.216.162.bc.googleusercontent.com
+55.150.216.162.bc.googleusercontent.com
 58.219.130.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 66-135-11-147.constant.com
@@ -62,6 +63,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
+l610.scanner.modat.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -73,6 +75,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r3005.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-13n.shadowserver.org
 scan-15k.shadowserver.org
 scan-59g.shadowserver.org
 scan-67-1.shadowserver.org
