@@ -19,16 +19,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.150.216.162.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
-138.226.123.103.jnpl.jeebr.net
 146.211.203.35.bc.googleusercontent.com
-157.109.64.34.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
-173-255-237-89.ip.linodeusercontent.com
-173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 21.210.203.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
@@ -39,9 +34,8 @@
 47.149.216.162.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
-66-135-11-147.constant.com
 7.211.203.35.bc.googleusercontent.com
-96-126-108-58.ip.linodeusercontent.com
+96.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdss9nwu1g.stretchoid.com
@@ -53,11 +47,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 home-rubbish.legendskit.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
 l610.scanner.modat.io
 li1537-121.members.linode.com
-li1625-135.members.linode.com
 mfyabgec.musicpda.com
 n302.scanner.modat.io
 niall.probe.onyphe.net
@@ -78,7 +72,6 @@ scan-52k.shadowserver.org
 scan-58.security.ipip.net
 scan-59g.shadowserver.org
 scan-63-13.shadowserver.org
-scan-67-1.shadowserver.org
 scan-69-00.shadowserver.org
 scan-71-05.shadowserver.org
 scan-75-05.shadowserver.org
@@ -89,4 +82,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
 users219.vip.heteml.jp
-vps-2459c91b.vps.ovh.net
