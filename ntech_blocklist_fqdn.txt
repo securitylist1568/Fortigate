@@ -36,6 +36,7 @@
 210.255.163.124.adsl-pool.sx.cn
 23-92-27-179.ip.linodeusercontent.com
 233.138.62.34.bc.googleusercontent.com
+250.105.155.104.bc.googleusercontent.com
 250.150.151.34.bc.googleusercontent.com
 28.184.38.34.bc.googleusercontent.com
 37.112.14.34.bc.googleusercontent.com
@@ -47,7 +48,9 @@
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 75.14.236.35.bc.googleusercontent.com
+81-56-54-163.fbx.proxad.net
 95.149.216.162.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
