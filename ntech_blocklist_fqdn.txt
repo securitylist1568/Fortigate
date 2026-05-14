@@ -27,6 +27,7 @@
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 230.211.203.35.bc.googleusercontent.com
+251.150.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
@@ -35,6 +36,7 @@
 55.150.216.162.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
+83.150.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
 96.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -65,6 +67,7 @@ li1537-121.members.linode.com
 mfyabgec.musicpda.com
 n302.scanner.modat.io
 niall.probe.onyphe.net
+o016.scanner.modat.io
 o017.scanner.modat.io
 o024.scanner.modat.io
 o610.scanner.modat.io
