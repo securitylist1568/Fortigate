@@ -26,6 +26,7 @@
 210.255.163.124.adsl-pool.sx.cn
 250.150.151.34.bc.googleusercontent.com
 28.184.38.34.bc.googleusercontent.com
+37.112.14.34.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
