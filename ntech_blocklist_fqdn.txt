@@ -35,6 +35,7 @@
 185-45-195-15.hostsailor.com
 187.161.118.255-clientes-izzi.mx
 192-155-81-124.ip.linodeusercontent.com
+196.122.79.34.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
 210.132.22.34.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
@@ -55,6 +56,7 @@
 65.150.216.162.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 81-56-54-163.fbx.proxad.net
+83.150.216.162.bc.googleusercontent.com
 88.23.78.34.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
