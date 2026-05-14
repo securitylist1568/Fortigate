@@ -22,9 +22,7 @@
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 210.255.163.124.adsl-pool.sx.cn
-23.204.212.35.bc.googleusercontent.com
 250.150.151.34.bc.googleusercontent.com
-45-33-76-73.ip.linodeusercontent.com
 74-50-97-90.static.hvvc.us
 75.14.236.35.bc.googleusercontent.com
 81-56-54-163.fbx.proxad.net
@@ -56,7 +54,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-09n.shadowserver.org
 scan-60-10.shadowserver.org
 scan-69-05.shadowserver.org
