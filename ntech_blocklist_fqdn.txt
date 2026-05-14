@@ -34,7 +34,7 @@
 192-155-81-124.ip.linodeusercontent.com
 209.150.216.162.bc.googleusercontent.com
 210.132.22.34.bc.googleusercontent.com
-210.255.163.124.adsl-pool.sx.cn
+228.210.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 233.138.62.34.bc.googleusercontent.com
 250.105.155.104.bc.googleusercontent.com
@@ -76,7 +76,6 @@ l608.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
-null-91.134.45.bcn.ifog.es
 o620.scanner.modat.io
 o626.scanner.modat.io
 o630.scanner.modat.io
@@ -91,5 +90,4 @@ scan-83-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
