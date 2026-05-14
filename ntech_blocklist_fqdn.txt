@@ -21,6 +21,7 @@
 163-172-215-177.rev.poneytelecom.eu
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+187.161.118.255-clientes-izzi.mx
 210.255.163.124.adsl-pool.sx.cn
 250.150.151.34.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
@@ -47,7 +48,6 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
-no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 o620.scanner.modat.io
 o626.scanner.modat.io
@@ -56,13 +56,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-09n.shadowserver.org
 scan-60-10.shadowserver.org
-scan-69-05.shadowserver.org
-scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
-vps3362879.trouble-free.net
