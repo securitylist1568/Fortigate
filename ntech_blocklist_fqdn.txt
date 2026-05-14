@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.211.203.35.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
-172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.161.118.255-clientes-izzi.mx
 209.150.216.162.bc.googleusercontent.com
