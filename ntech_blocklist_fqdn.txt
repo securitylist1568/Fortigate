@@ -24,6 +24,7 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+150.210.203.35.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-73.ip.linodeusercontent.com
@@ -51,7 +52,9 @@
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 75.14.236.35.bc.googleusercontent.com
+8.210.203.35.bc.googleusercontent.com
 81-56-54-163.fbx.proxad.net
+88.23.78.34.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -78,6 +81,7 @@ l608.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
+o611.scanner.modat.io
 o620.scanner.modat.io
 o626.scanner.modat.io
 o630.scanner.modat.io
