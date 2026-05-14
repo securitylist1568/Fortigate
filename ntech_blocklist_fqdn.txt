@@ -24,12 +24,14 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+147.211.203.35.bc.googleusercontent.com
 150.210.203.35.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+175.190.22.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.161.118.255-clientes-izzi.mx
 192-155-81-124.ip.linodeusercontent.com
@@ -38,8 +40,8 @@
 228.210.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 233.138.62.34.bc.googleusercontent.com
+237.149.216.162.bc.googleusercontent.com
 250.105.155.104.bc.googleusercontent.com
-250.150.151.34.bc.googleusercontent.com
 28.173.78.34.bc.googleusercontent.com
 28.184.38.34.bc.googleusercontent.com
 37.112.14.34.bc.googleusercontent.com
@@ -51,7 +53,6 @@
 61-64-116-251-adsl-zha.static.so-net.net.tw
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
-75.14.236.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 81-56-54-163.fbx.proxad.net
 88.23.78.34.bc.googleusercontent.com
@@ -64,13 +65,6 @@ cheaptaximalaga.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-13-222-129-81.compute-1.amazonaws.com
-ec2-13-222-168-56.compute-1.amazonaws.com
-ec2-3-80-27-62.compute-1.amazonaws.com
-ec2-3-81-224-7.compute-1.amazonaws.com
-ec2-3-84-29-230.compute-1.amazonaws.com
-ec2-3-89-226-152.compute-1.amazonaws.com
-ec2-44-201-209-19.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -82,8 +76,8 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 o611.scanner.modat.io
+o616.scanner.modat.io
 o620.scanner.modat.io
-o626.scanner.modat.io
 o630.scanner.modat.io
 o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
