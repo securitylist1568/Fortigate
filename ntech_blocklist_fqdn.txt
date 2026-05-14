@@ -53,6 +53,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l603.scanner.modat.io
+l608.scanner.modat.io
 l609.scanner.modat.io
 mfyabgec.musicpda.com
 node-150-107-213-141.alliancebroadband.in
@@ -68,6 +69,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
+s4850.vps.hosting
 scan-04c.shadowserver.org
 scan-56a.shadowserver.org
 scan-76-02.shadowserver.org
