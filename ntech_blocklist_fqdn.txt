@@ -78,12 +78,14 @@ node-150-107-213-141.alliancebroadband.in
 o610.scanner.modat.io
 o611.scanner.modat.io
 o616.scanner.modat.io
+o622.scanner.modat.io
 o625.scanner.modat.io
 o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04c.shadowserver.org
 scan-56a.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
