@@ -39,6 +39,7 @@
 233.138.62.34.bc.googleusercontent.com
 250.105.155.104.bc.googleusercontent.com
 250.150.151.34.bc.googleusercontent.com
+28.173.78.34.bc.googleusercontent.com
 28.184.38.34.bc.googleusercontent.com
 37.112.14.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -46,6 +47,7 @@
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
+61-64-116-251-adsl-zha.static.so-net.net.tw
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 75.14.236.35.bc.googleusercontent.com
@@ -79,10 +81,12 @@ new-ubuntu20223240.aspadmin.net
 o620.scanner.modat.io
 o626.scanner.modat.io
 o630.scanner.modat.io
+o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-56a.shadowserver.org
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
 scan-67-1.shadowserver.org
