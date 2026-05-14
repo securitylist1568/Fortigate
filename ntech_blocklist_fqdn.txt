@@ -20,7 +20,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123.211.203.35.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -74,12 +73,9 @@ ip29.sudolio.io
 l601.scanner.modat.io
 l607.scanner.modat.io
 l608.scanner.modat.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-new-ubuntu20223240.aspadmin.net
 o611.scanner.modat.io
 o616.scanner.modat.io
-o620.scanner.modat.io
 o630.scanner.modat.io
 o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
