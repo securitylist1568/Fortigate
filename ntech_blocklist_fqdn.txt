@@ -25,6 +25,7 @@
 157.109.64.34.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
+167.149.216.162.bc.googleusercontent.com
 173-255-237-89.ip.linodeusercontent.com
 173.149.216.162.bc.googleusercontent.com
 179.149.216.162.bc.googleusercontent.com
@@ -38,6 +39,7 @@
 47.149.216.162.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 58.219.130.34.bc.googleusercontent.com
+59.149.216.162.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 66-135-11-147.constant.com
 96-126-108-58.ip.linodeusercontent.com
@@ -66,7 +68,9 @@ ip29.sudolio.io
 l610.scanner.modat.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+niall.probe.onyphe.net
 no-mans-land.m247.com
+o024.scanner.modat.io
 o611.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -79,8 +83,10 @@ scan-13n.shadowserver.org
 scan-15k.shadowserver.org
 scan-59g.shadowserver.org
 scan-67-1.shadowserver.org
+scan-69-00.shadowserver.org
 scan-71-00.shadowserver.org
 scan-73-02.shadowserver.org
+scan-75-05.shadowserver.org
 scan-76-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
