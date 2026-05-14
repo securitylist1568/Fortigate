@@ -40,6 +40,7 @@
 8.210.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 88.23.78.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdsg7aw2ot.stretchoid.com
 b2.org.afilias-nst.org
@@ -51,6 +52,8 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+l603.scanner.modat.io
+l609.scanner.modat.io
 mfyabgec.musicpda.com
 node-150-107-213-141.alliancebroadband.in
 o610.scanner.modat.io
@@ -58,6 +61,7 @@ o611.scanner.modat.io
 o616.scanner.modat.io
 o622.scanner.modat.io
 o625.scanner.modat.io
+o630.scanner.modat.io
 o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
