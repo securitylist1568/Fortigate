@@ -29,6 +29,7 @@
 230.211.203.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 33.154.97.34.bc.googleusercontent.com
+37.150.216.162.bc.googleusercontent.com
 45.188.123.45-connectba.com.br
 47.149.216.162.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
@@ -64,8 +65,10 @@ li1537-121.members.linode.com
 mfyabgec.musicpda.com
 n302.scanner.modat.io
 niall.probe.onyphe.net
+o017.scanner.modat.io
 o024.scanner.modat.io
 o610.scanner.modat.io
+o616.scanner.modat.io
 o620.scanner.modat.io
 o622.scanner.modat.io
 o626.scanner.modat.io
