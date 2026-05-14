@@ -50,6 +50,7 @@ azpdsgd9sbi1.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdsgxl6zu7.stretchoid.com
 azpdss5zo5ld.stretchoid.com
+azpdss9nwu1g.stretchoid.com
 azpdssc2clde.stretchoid.com
 azpdws4uku7j.stretchoid.com
 b2.org.afilias-nst.org
@@ -65,6 +66,7 @@ li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o611.scanner.modat.io
+o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
