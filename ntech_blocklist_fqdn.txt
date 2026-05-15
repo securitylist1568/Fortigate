@@ -28,6 +28,7 @@
 250.149.216.162.bc.googleusercontent.com
 3.149.216.162.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
+62-210-217-72.rev.poneytelecom.eu
 63.149.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
@@ -82,6 +83,7 @@ gghs116-12l.org
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+lisbon.portugal.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
