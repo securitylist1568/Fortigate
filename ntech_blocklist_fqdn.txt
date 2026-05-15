@@ -25,6 +25,7 @@
 172-236-24-106.ip.linodeusercontent.com
 172-239-113-7.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 228.150.216.162.bc.googleusercontent.com
 23-236-221-131.ourinet.com.br
 245.149.216.162.bc.googleusercontent.com
@@ -40,7 +41,6 @@
 67-60-5-138.cpe.sparklight.net
 79-142-144-122.bnet-internet.cz
 97.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgfwv02q.stretchoid.com
@@ -100,7 +100,6 @@ pinkytales.com
 pool-176-226-204-112.is74.ru
 pool-99-243-9-243.cpe.net.cable.rogers.com
 proxy-ca002-ext2.a.ahrefs.com
-r4.ams.opendns.com
 recyber.net
 rootevidence.com
 scan-04f.shadowserver.org
