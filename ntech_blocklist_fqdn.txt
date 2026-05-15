@@ -22,9 +22,7 @@
 114.149.216.162.bc.googleusercontent.com
 121.210.203.35.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
-166.211.203.35.bc.googleusercontent.com
-170.150.216.162.bc.googleusercontent.com
-172-236-19-126.ip.linodeusercontent.com
+172-239-113-7.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-227-143-166-host.colocrossing.com
 195.150.216.162.bc.googleusercontent.com
@@ -33,7 +31,6 @@
 245.149.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 3.149.216.162.bc.googleusercontent.com
-32.210.203.35.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
@@ -43,11 +40,13 @@ amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgfwv02q.stretchoid.com
 azpdcgngane9.stretchoid.com
+azpdcgrbfvbu.stretchoid.com
 azpdcs9aqpkl.stretchoid.com
 azpdcslejnig.stretchoid.com
 azpdesdfn5lp.stretchoid.com
 azpdesrind7l.stretchoid.com
 azpdsg09h0rw.stretchoid.com
+azpdsg492br4.stretchoid.com
 azpdsg56zpoo.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
 azpdsg8708op.stretchoid.com
@@ -67,6 +66,7 @@ azpdsse6bn8p.stretchoid.com
 azpdsskf5buy.stretchoid.com
 azpdssswzf3x.stretchoid.com
 azpdssw6luqc.stretchoid.com
+azpdws0frgb6.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -85,6 +85,7 @@ r4.ams.opendns.com
 recyber.net
 scan-04f.shadowserver.org
 scan-04i.shadowserver.org
+scan-06g.shadowserver.org
 scan-14l.shadowserver.org
 scan-55c.shadowserver.org
 scan-56f.shadowserver.org
