@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+103.211.203.35.bc.googleusercontent.com
 106.233.76.34.bc.googleusercontent.com
 109.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
@@ -19,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.149.216.162.bc.googleusercontent.com
 114.149.216.162.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
 125.150.216.162.bc.googleusercontent.com
@@ -43,6 +45,7 @@
 4.135.53.34.bc.googleusercontent.com
 53.210.203.35.bc.googleusercontent.com
 61-216-248-31.hinet-ip.hinet.net
+72.150.216.162.bc.googleusercontent.com
 91.150.216.162.bc.googleusercontent.com
 96.248.38.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -68,6 +71,7 @@ recyber.net
 reverse.222.132.88.103.asbnetwork.co.in
 scan-56.security.ipip.net
 scan-71-00.shadowserver.org
+scan-73-02.shadowserver.org
 scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
