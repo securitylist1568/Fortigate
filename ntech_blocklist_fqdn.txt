@@ -22,7 +22,9 @@
 125-224-139-187.dynamic-ip.hinet.net
 134.211.203.35.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
+168.149.216.162.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
+172-239-113-5.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 230.211.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
@@ -34,6 +36,7 @@
 83.150.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
 96.210.203.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
