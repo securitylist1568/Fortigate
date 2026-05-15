@@ -41,6 +41,7 @@
 209.150.216.162.bc.googleusercontent.com
 210.255.163.124.adsl-pool.sx.cn
 225.211.203.35.bc.googleusercontent.com
+228.150.216.162.bc.googleusercontent.com
 231.246.9.34.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
