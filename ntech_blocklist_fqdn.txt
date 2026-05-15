@@ -33,9 +33,11 @@
 228.150.216.162.bc.googleusercontent.com
 231.246.9.34.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
+3.149.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 53.210.203.35.bc.googleusercontent.com
 61-216-248-31.hinet-ip.hinet.net
+63.149.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
@@ -47,6 +49,9 @@ azpdsgbhg8mp.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
 azpdsgebcoxy.stretchoid.com
 azpdsghq7jpi.stretchoid.com
+azpdsglck6ef.stretchoid.com
+azpdssaj95k7.stretchoid.com
+azpdssc2clde.stretchoid.com
 azpdssw6luqc.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -64,7 +69,10 @@ proxy-ca002-ext2.a.ahrefs.com
 r4.ams.opendns.com
 recyber.net
 scan-04i.shadowserver.org
+scan-14l.shadowserver.org
+scan-55c.shadowserver.org
 scan-56f.shadowserver.org
+scan-69-00.shadowserver.org
 scan-73-02.shadowserver.org
 scan-79-09.shadowserver.org
 scan-87-7.shadowserver.org
