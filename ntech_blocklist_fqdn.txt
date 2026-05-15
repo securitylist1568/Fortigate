@@ -23,6 +23,7 @@
 132.249.79.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149.199.189.35.bc.googleusercontent.com
+153.203.22.34.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -32,6 +33,7 @@
 185-45-195-15.hostsailor.com
 230.211.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
+34.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 4.135.53.34.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
