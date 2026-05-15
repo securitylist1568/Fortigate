@@ -22,6 +22,7 @@
 113.149.216.162.bc.googleusercontent.com
 114.149.216.162.bc.googleusercontent.com
 121.210.203.35.bc.googleusercontent.com
+147.211.203.35.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-236-19-126.ip.linodeusercontent.com
@@ -44,6 +45,7 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
+azpdcslejnig.stretchoid.com
 azpdsg8708op.stretchoid.com
 azpdsgbhg8mp.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
@@ -52,6 +54,7 @@ azpdsghq7jpi.stretchoid.com
 azpdsglck6ef.stretchoid.com
 azpdssaj95k7.stretchoid.com
 azpdssc2clde.stretchoid.com
+azpdsskf5buy.stretchoid.com
 azpdssw6luqc.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
