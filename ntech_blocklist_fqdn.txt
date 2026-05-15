@@ -28,10 +28,8 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 195.149.216.162.bc.googleusercontent.com
-228.150.216.162.bc.googleusercontent.com
 23-236-221-131.ourinet.com.br
 245.149.216.162.bc.googleusercontent.com
-250.149.216.162.bc.googleusercontent.com
 3.149.216.162.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 57.149.216.162.bc.googleusercontent.com
@@ -42,6 +40,7 @@
 65.150.216.162.bc.googleusercontent.com
 66-228-40-242.ip.linodeusercontent.com
 67-60-5-138.cpe.sparklight.net
+76.211.203.35.bc.googleusercontent.com
 79-142-144-122.bnet-internet.cz
 97.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -112,7 +111,6 @@ scan-06g.shadowserver.org
 scan-14l.shadowserver.org
 scan-42i.shadowserver.org
 scan-55c.shadowserver.org
-scan-56f.shadowserver.org
 scan-61-9.shadowserver.org
 scan-69-00.shadowserver.org
 scan-79-09.shadowserver.org
