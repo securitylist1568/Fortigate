@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 125-224-139-187.dynamic-ip.hinet.net
 132.249.79.34.bc.googleusercontent.com
+135.227.53.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149.199.189.35.bc.googleusercontent.com
 153.203.22.34.bc.googleusercontent.com
@@ -29,14 +30,18 @@
 177.64.140.34.bc.googleusercontent.com
 180.223.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+210.150.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 4.135.53.34.bc.googleusercontent.com
+44.211.203.35.bc.googleusercontent.com
+83.149.216.162.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
+93.183.53.34.bc.googleusercontent.com
 96.210.203.35.bc.googleusercontent.com
 96.248.38.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -62,6 +67,7 @@ l603.scanner.modat.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 n300.scanner.modat.io
+no-mans-land.m247.com
 o016.scanner.modat.io
 o017.scanner.modat.io
 o616.scanner.modat.io
@@ -73,6 +79,7 @@ recyber.net
 scan-63-8.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.92.78.5.clients.your-server.de
 static.79.173.224.46.clients.your-server.de
 symlink-chdir.majameschede.com
 user-146-19-3-141.sto02.se.misaka.io
