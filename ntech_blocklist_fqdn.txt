@@ -19,10 +19,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+114.149.216.162.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
 125.150.216.162.bc.googleusercontent.com
 132.249.79.34.bc.googleusercontent.com
 149.199.189.35.bc.googleusercontent.com
+166.211.203.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-236-19-126.ip.linodeusercontent.com
 172-237-116-98.ip.linodeusercontent.com
@@ -41,8 +43,6 @@
 4.135.53.34.bc.googleusercontent.com
 53.210.203.35.bc.googleusercontent.com
 61-216-248-31.hinet-ip.hinet.net
-77.211.203.35.bc.googleusercontent.com
-84.149.216.162.bc.googleusercontent.com
 91.150.216.162.bc.googleusercontent.com
 96.248.38.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -60,7 +60,6 @@ mfyabgec.musicpda.com
 o011.scanner.modat.io
 o013.scanner.modat.io
 o049.scanner.modat.io
-o331.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
