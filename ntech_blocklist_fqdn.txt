@@ -39,6 +39,7 @@
 77.211.203.35.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
+91.150.216.162.bc.googleusercontent.com
 93.183.53.34.bc.googleusercontent.com
 96.248.38.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -53,6 +54,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l609.scanner.modat.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o011.scanner.modat.io
@@ -65,6 +67,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-56.security.ipip.net
 scan-63-9.shadowserver.org
 scan-71-00.shadowserver.org
 smtp1.telemach.net
