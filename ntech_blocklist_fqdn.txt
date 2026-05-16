@@ -22,6 +22,7 @@
 118-163-86-55.hinet-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
 127.24.156.34.bc.googleusercontent.com
+155.149.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 172-237-101-217.ip.linodeusercontent.com
 172-239-96-128.ip.linodeusercontent.com
@@ -30,6 +31,7 @@
 190.149.216.162.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 199.79.156.34.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 227.171.80.34.bc.googleusercontent.com
 231.246.9.34.bc.googleusercontent.com
 239.27.240.35.bc.googleusercontent.com
