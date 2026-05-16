@@ -27,8 +27,6 @@
 195-154-172-77.rev.poneytelecom.eu
 195-154-185-145.rev.poneytelecom.eu
 204.76.203.30.ptr.pfcloud.network
-226.49.129.34.bc.googleusercontent.com
-227.171.80.34.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 40.150.216.162.bc.googleusercontent.com
@@ -64,7 +62,6 @@ scan-52c.shadowserver.org
 scan-55c.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
-scan-63-2.shadowserver.org
 scan-78-08.shadowserver.org
 scan-86-7.shadowserver.org
 security.criminalip.com
@@ -72,4 +69,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 v2683061.hosted-by-vdsina.ru
-vps3356818.trouble-free.net
