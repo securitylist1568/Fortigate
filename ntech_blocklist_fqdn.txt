@@ -20,15 +20,12 @@
 12.211.203.35.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 144.92.74.97.host.secureserver.net
-155.149.216.162.bc.googleusercontent.com
 172-237-101-172.ip.linodeusercontent.com
 172-239-123-248.ip.linodeusercontent.com
 172-239-123-253.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-90-204.ip.linodeusercontent.com
-204.210.203.35.bc.googleusercontent.com
-204.76.203.30.ptr.pfcloud.network
-226.49.129.34.bc.googleusercontent.com
+227.171.80.34.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 45-33-65-179.ip.linodeusercontent.com
 45-33-88-226.ip.linodeusercontent.com
@@ -56,6 +53,7 @@ rootevidence.com
 scan-45g.shadowserver.org
 scan-52k.shadowserver.org
 scan-71-00.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.248.92.78.5.clients.your-server.de
