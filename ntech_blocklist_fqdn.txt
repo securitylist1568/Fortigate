@@ -68,9 +68,11 @@ scan-45g.shadowserver.org
 scan-52c.shadowserver.org
 scan-59g.shadowserver.org
 scan-63-9.shadowserver.org
+scan-71-00.shadowserver.org
 scan-77-02.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.92.78.5.clients.your-server.de
 users219.vip.heteml.jp
