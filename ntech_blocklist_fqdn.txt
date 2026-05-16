@@ -25,7 +25,6 @@
 168.149.216.162.bc.googleusercontent.com
 172-237-101-217.ip.linodeusercontent.com
 172-239-96-128.ip.linodeusercontent.com
-176.65.148.176.ptr.pfcloud.network
 179.41.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
@@ -35,12 +34,10 @@
 231.246.9.34.bc.googleusercontent.com
 239.27.240.35.bc.googleusercontent.com
 24.184.187.35.bc.googleusercontent.com
-240.211.203.35.bc.googleusercontent.com
 252.233.38.34.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
 29.156.53.34.bc.googleusercontent.com
 32.210.78.34.bc.googleusercontent.com
-36.210.203.35.bc.googleusercontent.com
 45-79-191-193.ip.linodeusercontent.com
 68.5.205.35.bc.googleusercontent.com
 71.48.156.34.bc.googleusercontent.com
@@ -64,7 +61,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
-ip212.ip-5-135-173.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -79,10 +75,10 @@ scan-52c.shadowserver.org
 scan-59g.shadowserver.org
 scan-63-9.shadowserver.org
 scan-69-05.shadowserver.org
+scan-77-02.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-185-234-213-135.zrh01.ch.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
