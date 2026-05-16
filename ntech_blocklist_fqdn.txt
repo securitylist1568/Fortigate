@@ -17,11 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-12.211.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-236-21-170.ip.linodeusercontent.com
 172-237-101-172.ip.linodeusercontent.com
-172-239-123-248.ip.linodeusercontent.com
 173-255-236-247.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-172-110.rev.poneytelecom.eu
@@ -30,7 +28,6 @@
 204.76.203.30.ptr.pfcloud.network
 226.49.129.34.bc.googleusercontent.com
 227.171.80.34.bc.googleusercontent.com
-241.149.216.162.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 40.150.216.162.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
@@ -63,7 +60,6 @@ scan-07e.shadowserver.org
 scan-15k.shadowserver.org
 scan-41m.shadowserver.org
 scan-52c.shadowserver.org
-scan-52k.shadowserver.org
 scan-55c.shadowserver.org
 scan-61-4.shadowserver.org
 scan-61-7.shadowserver.org
