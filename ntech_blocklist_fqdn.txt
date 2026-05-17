@@ -35,6 +35,7 @@ ec2-34-207-209-130.compute-1.amazonaws.com
 ec2-34-224-57-237.compute-1.amazonaws.com
 ec2-44-201-164-126.compute-1.amazonaws.com
 ec2-44-202-144-21.compute-1.amazonaws.com
+ec2-54-163-179-109.compute-1.amazonaws.com
 ec2-54-211-193-79.compute-1.amazonaws.com
 ec2-54-92-204-5.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
