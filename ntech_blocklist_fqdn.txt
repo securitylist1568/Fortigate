@@ -22,6 +22,8 @@
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 219.58.cetus.link3.net
+230.159.131.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -32,7 +34,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+l607.scanner.modat.io
 mfyabgec.musicpda.com
+o639.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 petty.probe.onyphe.net
@@ -46,6 +50,7 @@ prod-barium-nyc1-28.do.binaryedge.ninja
 prod-barium-nyc1-32.do.binaryedge.ninja
 prod-barium-nyc1-52.do.binaryedge.ninja
 prod-barium-nyc1-60.do.binaryedge.ninja
+prod-barium-nyc1-62.do.binaryedge.ninja
 prod-barium-nyc1-68.do.binaryedge.ninja
 prod-barium-nyc1-70.do.binaryedge.ninja
 prod-barium-nyc1-72.do.binaryedge.ninja
@@ -61,6 +66,7 @@ prod-barium-sfo2-5.do.binaryedge.ninja
 prod-barium-sfo2-53.do.binaryedge.ninja
 prod-barium-sfo2-55.do.binaryedge.ninja
 prod-barium-sfo2-65.do.binaryedge.ninja
+prod-barium-sfo2-67.do.binaryedge.ninja
 prod-barium-sfo2-9.do.binaryedge.ninja
 prod-barium-us-central-1.li.binaryedge.ninja
 prod-barium-us-central-25.li.binaryedge.ninja
@@ -75,6 +81,7 @@ prod-barium-us-east-63.li.binaryedge.ninja
 prod-barium-us-east-67.li.binaryedge.ninja
 prod-barium-us-east-7.li.binaryedge.ninja
 prod-barium-us-southeast-0.li.binaryedge.ninja
+prod-barium-us-southeast-16.li.binaryedge.ninja
 prod-barium-us-southeast-24.li.binaryedge.ninja
 prod-barium-us-southeast-28.li.binaryedge.ninja
 prod-barium-us-southeast-36.li.binaryedge.ninja
