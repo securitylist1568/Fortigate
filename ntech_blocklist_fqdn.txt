@@ -21,6 +21,7 @@
 112.244.195.35.bc.googleusercontent.com
 115.202.76.34.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
+123-194-128-82.dynamic.kbronet.com.tw
 127.132.53.34.bc.googleusercontent.com
 155.126.38.34.bc.googleusercontent.com
 162.30.62.34.bc.googleusercontent.com
@@ -30,9 +31,11 @@
 185-45-195-15.hostsailor.com
 197.149.216.162.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
+207.69.76.34.bc.googleusercontent.com
 228.251.64.34.bc.googleusercontent.com
 235.226.62.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
+32.101.140.34.bc.googleusercontent.com
 36-232-43-170.dynamic-ip.hinet.net
 44.149.216.162.bc.googleusercontent.com
 45-79-177-48.ip.linodeusercontent.com
@@ -57,12 +60,14 @@ ec2-98-84-153-117.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip212.ip-5-135-173.eu
 ip29.sudolio.io
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-barium-sfo2-57.do.binaryedge.ninja
+prod-bromine-us-central-29.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
