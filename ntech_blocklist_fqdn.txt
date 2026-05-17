@@ -18,15 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.244.195.35.bc.googleusercontent.com
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 127.132.53.34.bc.googleusercontent.com
 155.126.38.34.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.69.76.34.bc.googleusercontent.com
-228.251.64.34.bc.googleusercontent.com
-252.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -57,8 +54,6 @@ scan-71-05.shadowserver.org
 scan-74-02.shadowserver.org
 scan-79-09.shadowserver.org
 scanner-info.rootevidence.com
-scanner5.labs.rapid7.com
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
