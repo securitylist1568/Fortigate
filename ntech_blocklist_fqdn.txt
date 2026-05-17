@@ -39,7 +39,6 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 197.149.216.162.bc.googleusercontent.com
-204.211.203.35.bc.googleusercontent.com
 207.69.76.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 235.226.62.34.bc.googleusercontent.com
@@ -47,7 +46,6 @@
 25.149.216.162.bc.googleusercontent.com
 32.101.140.34.bc.googleusercontent.com
 36-232-43-170.dynamic-ip.hinet.net
-44.149.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
@@ -77,20 +75,12 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-13-222-129-81.compute-1.amazonaws.com
-ec2-18-205-239-199.compute-1.amazonaws.com
-ec2-3-85-18-5.compute-1.amazonaws.com
-ec2-44-204-45-238.compute-1.amazonaws.com
-ec2-54-144-115-111.compute-1.amazonaws.com
 ec2-54-189-34-14.us-west-2.compute.amazonaws.com
-ec2-54-227-126-11.compute-1.amazonaws.com
-ec2-98-84-153-117.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 n300.scanner.modat.io
 no-mans-land.m247.com
@@ -105,7 +95,6 @@ prod-bromine-us-central-29.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-s9fa2f60e.fastvps-server.com
 scan-13n.shadowserver.org
 scan-61-9.shadowserver.org
 scan-68-08.shadowserver.org
