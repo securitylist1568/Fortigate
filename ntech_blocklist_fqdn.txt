@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.244.195.35.bc.googleusercontent.com
 115.202.76.34.bc.googleusercontent.com
+118.172.241.35.bc.googleusercontent.com
 123-194-128-82.dynamic.kbronet.com.tw
 127.132.53.34.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
@@ -38,14 +39,12 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-197.149.216.162.bc.googleusercontent.com
 207.69.76.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 235.226.62.34.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 32.101.140.34.bc.googleusercontent.com
-36-232-43-170.dynamic-ip.hinet.net
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
