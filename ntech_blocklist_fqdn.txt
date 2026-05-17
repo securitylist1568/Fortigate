@@ -21,6 +21,7 @@
 115.202.76.34.bc.googleusercontent.com
 123-194-128-82.dynamic.kbronet.com.tw
 127.132.53.34.bc.googleusercontent.com
+130.211.203.35.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -56,11 +57,16 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
+azpdsg09h0rw.stretchoid.com
 azpdsg0p0xel.stretchoid.com
 azpdsg25ie9q.stretchoid.com
 azpdsg8p4zv4.stretchoid.com
+azpdsgwinodf.stretchoid.com
 azpdss5zo5ld.stretchoid.com
 azpdssc2clde.stretchoid.com
+azpdsse1zlrx.stretchoid.com
+azpdssee30ij.stretchoid.com
+azpdsskf5buy.stretchoid.com
 azpdsskp8muf.stretchoid.com
 azpdsssyxvsv.stretchoid.com
 azpdssu8seh3.stretchoid.com
