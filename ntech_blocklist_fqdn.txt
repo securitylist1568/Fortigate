@@ -23,6 +23,7 @@
 127.132.53.34.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 155.126.38.34.bc.googleusercontent.com
+170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.69.76.34.bc.googleusercontent.com
 228.251.64.34.bc.googleusercontent.com
@@ -64,6 +65,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-14h.shadowserver.org
 scan-43b.shadowserver.org
 scan-60-12.shadowserver.org
 scan-63-8.shadowserver.org
