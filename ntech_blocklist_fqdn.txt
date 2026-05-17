@@ -31,6 +31,7 @@ ec2-15-232-23-100.ap-southeast-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip192.ip-15-204-157.us
 ip29.sudolio.io
 l607.scanner.modat.io
 mfyabgec.musicpda.com
