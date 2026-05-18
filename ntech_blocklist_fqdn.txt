@@ -19,11 +19,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 127.113.187.35.bc.googleusercontent.com
 149635.ip-ptr.tech
+172-237-116-98.ip.linodeusercontent.com
+18.153.95.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 229.77.38.34.bc.googleusercontent.com
 230.159.131.34.bc.googleusercontent.com
 238.215.53.34.bc.googleusercontent.com
 3.214.53.34.bc.googleusercontent.com
+31.177.200.35.bc.googleusercontent.com
 42.132.62.34.bc.googleusercontent.com
 6.115.76.34.bc.googleusercontent.com
 60.65.187.35.bc.googleusercontent.com
@@ -68,6 +71,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-67-1.shadowserver.org
 scan-85-3.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
