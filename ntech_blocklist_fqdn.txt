@@ -23,6 +23,7 @@
 172-105-74-205.ip.linodeusercontent.com
 172-236-8-36.ip.linodeusercontent.com
 172-239-105-28.ip.linodeusercontent.com
+172-239-105-30.ip.linodeusercontent.com
 172-239-110-125.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
@@ -41,6 +42,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l998.scanner.modat.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
+o015.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
