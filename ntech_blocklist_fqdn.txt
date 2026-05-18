@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-249-206-146.dynamic-ip.hinet.net
 111-252-2-77.dynamic-ip.hinet.net
+172-239-110-125.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
 211.232.158.34.bc.googleusercontent.com
@@ -57,6 +58,7 @@ recyber.net
 scan-41f.shadowserver.org
 scan-56a.shadowserver.org
 scan-63-13.shadowserver.org
+scan-74-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
