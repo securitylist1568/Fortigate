@@ -29,6 +29,7 @@
 60.65.187.35.bc.googleusercontent.com
 61-216-185-248.hinet-ip.hinet.net
 76.120.205.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcsguyw0e.stretchoid.com
 azpdcsycgcyf.stretchoid.com
@@ -52,8 +53,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04c.shadowserver.org
 scan-41f.shadowserver.org
 scan-56a.shadowserver.org
+scan-56f.shadowserver.org
 scan-63-13.shadowserver.org
 scan-74-02.shadowserver.org
 security.criminalip.com
