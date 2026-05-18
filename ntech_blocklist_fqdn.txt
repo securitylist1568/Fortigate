@@ -21,6 +21,7 @@
 172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 172-239-105-30.ip.linodeusercontent.com
+172-245-112-198-host.colocrossing.com
 185-45-195-15.hostsailor.com
 31.177.200.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
@@ -30,7 +31,10 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-221-239-87.compute-1.amazonaws.com
+ec2-13-222-168-56.compute-1.amazonaws.com
 ec2-13-222-242-22.compute-1.amazonaws.com
+ec2-13-222-246-187.compute-1.amazonaws.com
 ec2-18-212-227-85.compute-1.amazonaws.com
 ec2-34-235-115-207.compute-1.amazonaws.com
 ec2-52-90-76-255.compute-1.amazonaws.com
