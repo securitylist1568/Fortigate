@@ -41,6 +41,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 e2e-dbaas-mongodb-5cjlb-66ebdcbb.mongo.ondigitalocean.com
+ec2-54-189-34-14.us-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 finland2.ipip.net
 hn.kd.ny.adsl
