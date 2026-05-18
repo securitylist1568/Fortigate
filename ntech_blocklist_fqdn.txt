@@ -59,6 +59,7 @@ scan-56a.shadowserver.org
 scan-61-9.shadowserver.org
 scan-63-13.shadowserver.org
 scan-76-02.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 twtpe2-ntp-002.aaplimg.com
