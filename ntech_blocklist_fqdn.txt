@@ -19,10 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 127.113.187.35.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
-149635.ip-ptr.tech
 172-237-116-98.ip.linodeusercontent.com
 18.153.95.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+211.232.158.34.bc.googleusercontent.com
 229.77.38.34.bc.googleusercontent.com
 238.215.53.34.bc.googleusercontent.com
 243.137.53.34.bc.googleusercontent.com
@@ -50,9 +50,7 @@ ip212.ip-5-135-173.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-o004.scanner.modat.io
 o009.scanner.modat.io
-o012.scanner.modat.io
 o035.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -68,4 +66,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
 user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
-www.internet-albedo.net
