@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+108.236.126.216.static.cloudzy.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,14 +21,12 @@
 144.92.74.97.host.secureserver.net
 163.215.142.34.bc.googleusercontent.com
 172-105-74-205.ip.linodeusercontent.com
-172-236-8-36.ip.linodeusercontent.com
 172-239-105-28.ip.linodeusercontent.com
 172-239-105-30.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 31.177.200.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,15 +46,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04c.shadowserver.org
 scan-06g.shadowserver.org
 scan-14l.shadowserver.org
 scan-41m.shadowserver.org
 scan-53j.shadowserver.org
-scan-56f.shadowserver.org
 scan-79-08.shadowserver.org
 scan-80-9.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
