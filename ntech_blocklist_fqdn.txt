@@ -17,14 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-122.6.156.34.bc.googleusercontent.com
-14.83.140.34.bc.googleusercontent.com
-165.253.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-188.59.155.104.bc.googleusercontent.com
 192.159.99.123.powered.by.rdp.sh
 222.56.156.34.bc.googleusercontent.com
-43.17.156.34.bc.googleusercontent.com
+31.177.200.35.bc.googleusercontent.com
 58.219.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcsmatos4.stretchoid.com
@@ -41,6 +37,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-226.4vendeta.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
@@ -52,12 +49,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
-scan-05j.shadowserver.org
 scan-06g.shadowserver.org
 scan-12f.shadowserver.org
 scan-13l.shadowserver.org
 scan-42i.shadowserver.org
-scan-61-4.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
