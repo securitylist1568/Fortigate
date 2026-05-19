@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-106.105.206.245.adsl.dynamic.seed.net.tw
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -29,7 +28,6 @@
 188.59.155.104.bc.googleusercontent.com
 192.159.99.123.powered.by.rdp.sh
 202.136.79.34.bc.googleusercontent.com
-216-244-95-114-reverse.wowrack.com
 222.56.156.34.bc.googleusercontent.com
 31.177.200.35.bc.googleusercontent.com
 4.249.77.34.bc.googleusercontent.com
@@ -54,6 +52,7 @@ ip212.ip-5-135-173.eu
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
+li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o331.scanner.modat.io
 o641.scanner.modat.io
@@ -62,7 +61,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
-scan-43b.shadowserver.org
 scan-61-4.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
