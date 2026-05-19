@@ -25,6 +25,7 @@
 172-245-112-198-host.colocrossing.com
 185-45-195-15.hostsailor.com
 51.29.60.34.bc.googleusercontent.com
+51.9.195.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -50,8 +51,11 @@ ip192.ip-15-204-157.us
 ip29.sudolio.io
 ip87-106-206-249.pbiaas.com
 mfyabgec.musicpda.com
+o019.scanner.modat.io
 o047.scanner.modat.io
+o052.scanner.modat.io
 o307.scanner.modat.io
+o321.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
