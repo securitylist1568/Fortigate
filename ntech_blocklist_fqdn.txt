@@ -50,6 +50,7 @@ ip29.sudolio.io
 ip87-106-206-249.pbiaas.com
 mfyabgec.musicpda.com
 o019.scanner.modat.io
+o024.scanner.modat.io
 o048.scanner.modat.io
 o052.scanner.modat.io
 o321.scanner.modat.io
