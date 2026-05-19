@@ -22,6 +22,7 @@
 153.241.154.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
+172-239-123-244.ip.linodeusercontent.com
 172-245-112-198-host.colocrossing.com
 185-45-195-15.hostsailor.com
 31.177.200.35.bc.googleusercontent.com
@@ -57,10 +58,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13n.shadowserver.org
+scan-68-08.shadowserver.org
 scan-78-08.shadowserver.org
 sharp.atid.cloud
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+virginia.probe.onyphe.net
 vmi3308103.contaboserver.net
