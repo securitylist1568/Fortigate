@@ -20,8 +20,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-38-71-133.dynamic-ip.hinet.net
-118.38.14.34.bc.googleusercontent.com
 122.6.156.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 14.83.140.34.bc.googleusercontent.com
 145.162.187.35.bc.googleusercontent.com
 165.253.140.34.bc.googleusercontent.com
@@ -29,12 +29,10 @@
 172-239-110-125.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188.59.155.104.bc.googleusercontent.com
-202.136.79.34.bc.googleusercontent.com
 216-244-95-114-reverse.wowrack.com
 222.56.156.34.bc.googleusercontent.com
 36-229-133-148.dynamic-ip.hinet.net
-43.17.156.34.bc.googleusercontent.com
-51.9.195.35.bc.googleusercontent.com
+4.249.77.34.bc.googleusercontent.com
 62-210-217-72.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -47,14 +45,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
-ip87-106-206-249.pbiaas.com
 mfyabgec.musicpda.com
 mydomain0001.com
-o019.scanner.modat.io
 o024.scanner.modat.io
-o048.scanner.modat.io
-o052.scanner.modat.io
-o321.scanner.modat.io
 o331.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -67,7 +60,6 @@ scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-169-150-252-179.datapacket.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 zhangyuan3.virtuaserver.com.br
