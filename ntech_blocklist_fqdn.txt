@@ -26,6 +26,7 @@
 145.162.187.35.bc.googleusercontent.com
 165.253.140.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
+172-239-105-28.ip.linodeusercontent.com
 172-239-110-125.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188.59.155.104.bc.googleusercontent.com
@@ -49,6 +50,7 @@ mfyabgec.musicpda.com
 mydomain0001.com
 o024.scanner.modat.io
 o331.scanner.modat.io
+o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
