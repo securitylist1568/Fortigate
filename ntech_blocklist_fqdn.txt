@@ -20,12 +20,15 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-38-71-133.dynamic-ip.hinet.net
+122.6.156.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+14.83.140.34.bc.googleusercontent.com
 145.162.187.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-239-105-28.ip.linodeusercontent.com
 172-239-110-125.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+188.59.155.104.bc.googleusercontent.com
 202.136.79.34.bc.googleusercontent.com
 216-244-95-114-reverse.wowrack.com
 222.56.156.34.bc.googleusercontent.com
