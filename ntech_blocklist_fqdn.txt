@@ -36,6 +36,7 @@ ec2-13-222-168-56.compute-1.amazonaws.com
 ec2-13-222-242-22.compute-1.amazonaws.com
 ec2-13-222-246-187.compute-1.amazonaws.com
 ec2-18-212-227-85.compute-1.amazonaws.com
+ec2-18-216-71-25.us-east-2.compute.amazonaws.com
 ec2-34-235-115-207.compute-1.amazonaws.com
 ec2-52-90-76-255.compute-1.amazonaws.com
 ec2-54-172-51-23.compute-1.amazonaws.com
@@ -53,8 +54,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-security.criminalip.com
+sharp.atid.cloud
 smtp1.telemach.net
+srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi3308103.contaboserver.net
