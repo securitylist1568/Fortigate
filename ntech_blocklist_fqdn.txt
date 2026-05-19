@@ -31,10 +31,15 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
+ec2-100-55-31-181.compute-1.amazonaws.com
+ec2-18-212-227-85.compute-1.amazonaws.com
 ec2-3-85-165-30.compute-1.amazonaws.com
 ec2-3-94-184-97.compute-1.amazonaws.com
 ec2-32-192-75-243.compute-1.amazonaws.com
 ec2-44-203-252-181.compute-1.amazonaws.com
+ec2-44-212-59-240.compute-1.amazonaws.com
+ec2-54-172-51-23.compute-1.amazonaws.com
 ec2-54-211-193-79.compute-1.amazonaws.com
 ec2-54-249-242-207.ap-northeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
