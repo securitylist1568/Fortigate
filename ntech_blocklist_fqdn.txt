@@ -20,6 +20,7 @@
 125-227-127-85.hinet-ip.hinet.net
 149635.ip-ptr.tech
 172-237-105-132.ip.linodeusercontent.com
+177.249.60.121-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 31.177.200.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
