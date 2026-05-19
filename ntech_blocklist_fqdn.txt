@@ -49,7 +49,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip212.ip-5-135-173.eu
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
@@ -64,6 +63,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
 scan-06g.shadowserver.org
+scan-12f.shadowserver.org
+scan-42i.shadowserver.org
 scan-61-4.shadowserver.org
 scan-88-6.shadowserver.org
 smtp1.telemach.net
