@@ -25,7 +25,6 @@
 145.162.187.35.bc.googleusercontent.com
 165.253.140.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
-172-239-123-244.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188.59.155.104.bc.googleusercontent.com
 202.136.79.34.bc.googleusercontent.com
@@ -58,11 +57,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-13n.shadowserver.org
 scan-43b.shadowserver.org
 scan-56a.shadowserver.org
 scan-58a.shadowserver.org
-scan-68-08.shadowserver.org
 scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
@@ -70,5 +67,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
-virginia.probe.onyphe.net
 zhangyuan3.virtuaserver.com.br
