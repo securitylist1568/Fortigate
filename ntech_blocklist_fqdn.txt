@@ -23,7 +23,6 @@
 177.249.60.121-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 217.27.7.34.bc.googleusercontent.com
-31.177.200.35.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -45,7 +44,6 @@ ec2-54-249-242-207.ap-northeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-226.4vendeta.com
 ip146.ip-15-204-133.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -59,4 +57,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
-virginia.probe.onyphe.net
