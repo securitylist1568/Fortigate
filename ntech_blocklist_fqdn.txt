@@ -22,6 +22,7 @@
 172-237-105-132.ip.linodeusercontent.com
 177.249.60.121-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
+217.27.7.34.bc.googleusercontent.com
 31.177.200.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
