@@ -21,6 +21,7 @@
 118.38.14.34.bc.googleusercontent.com
 122.6.156.34.bc.googleusercontent.com
 14.83.140.34.bc.googleusercontent.com
+145.162.187.35.bc.googleusercontent.com
 153.241.154.34.bc.googleusercontent.com
 165.253.140.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
@@ -29,6 +30,8 @@
 185-45-195-15.hostsailor.com
 188.59.155.104.bc.googleusercontent.com
 202.136.79.34.bc.googleusercontent.com
+222.56.156.34.bc.googleusercontent.com
+36-229-133-148.dynamic-ip.hinet.net
 43.17.156.34.bc.googleusercontent.com
 51.29.60.34.bc.googleusercontent.com
 51.9.195.35.bc.googleusercontent.com
