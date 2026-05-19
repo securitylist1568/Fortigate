@@ -19,16 +19,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 31.177.200.35.bc.googleusercontent.com
-58.219.130.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
-azpdcsmatos4.stretchoid.com
-azpdsg25ie9q.stretchoid.com
-azpdsga05mgt.stretchoid.com
-azpdsghq7jpi.stretchoid.com
-azpdsgqpucw1.stretchoid.com
 azpdsgxl6zu7.stretchoid.com
-azpdws89w8v2.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -38,10 +31,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-226.4vendeta.com
 ip146.ip-15-204-133.us
-ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -52,7 +43,6 @@ scan-06g.shadowserver.org
 scan-12f.shadowserver.org
 scan-13l.shadowserver.org
 scan-42i.shadowserver.org
-scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
