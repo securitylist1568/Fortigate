@@ -23,7 +23,7 @@
 122.6.156.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 14.83.140.34.bc.googleusercontent.com
-145.162.187.35.bc.googleusercontent.com
+165.253.140.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-239-105-28.ip.linodeusercontent.com
 172-239-110-125.ip.linodeusercontent.com
@@ -31,13 +31,10 @@
 188.59.155.104.bc.googleusercontent.com
 202.136.79.34.bc.googleusercontent.com
 216-244-95-114-reverse.wowrack.com
-222.56.156.34.bc.googleusercontent.com
 31.177.200.35.bc.googleusercontent.com
-36-229-133-148.dynamic-ip.hinet.net
 4.249.77.34.bc.googleusercontent.com
 43.17.156.34.bc.googleusercontent.com
 51.9.195.35.bc.googleusercontent.com
-62-210-217-72.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -58,11 +55,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-05j.shadowserver.org
 scan-43b.shadowserver.org
 scan-58a.shadowserver.org
+scan-61-4.shadowserver.org
 scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-zhangyuan3.virtuaserver.com.br
