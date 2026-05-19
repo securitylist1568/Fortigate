@@ -57,10 +57,8 @@ ip29.sudolio.io
 ip87-106-206-249.pbiaas.com
 mfyabgec.musicpda.com
 o019.scanner.modat.io
-o047.scanner.modat.io
 o048.scanner.modat.io
 o052.scanner.modat.io
-o307.scanner.modat.io
 o321.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
