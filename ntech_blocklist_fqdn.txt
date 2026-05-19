@@ -18,10 +18,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-192.159.99.123.powered.by.rdp.sh
-222.56.156.34.bc.googleusercontent.com
 31.177.200.35.bc.googleusercontent.com
 58.219.130.34.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
 azpdcsmatos4.stretchoid.com
 azpdsg25ie9q.stretchoid.com
@@ -41,7 +40,6 @@ ip-49-226.4vendeta.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
-li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
