@@ -17,13 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-125-227-127-85.hinet-ip.hinet.net
 146.31.232.180.dsl.inet.static.certaincyber.net
 149635.ip-ptr.tech
-172-237-105-132.ip.linodeusercontent.com
 177.249.60.121-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 192.159.99.123.powered.by.rdp.sh
+193-104-222-11.cust.norisab.net
 217.27.7.34.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -41,7 +40,6 @@ ec2-44-203-252-181.compute-1.amazonaws.com
 ec2-44-212-59-240.compute-1.amazonaws.com
 ec2-54-172-51-23.compute-1.amazonaws.com
 ec2-54-211-193-79.compute-1.amazonaws.com
-ec2-54-249-242-207.ap-northeast-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
@@ -53,7 +51,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s4850.vps.hosting
 scan-63-8.shadowserver.org
 scan-76-02.shadowserver.org
 security.criminalip.com
