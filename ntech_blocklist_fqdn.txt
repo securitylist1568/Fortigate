@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
-24-52-70-30.telesystem.us
 94.79.0.101.static.digitalpacific.com.au
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
@@ -64,7 +63,6 @@ scan-08g.shadowserver.org
 scan-45o.shadowserver.org
 scan-59g.shadowserver.org
 scan-73-02.shadowserver.org
-scan-74-07.shadowserver.org
 scan-76-03.shadowserver.org
 scanner3.labs.rapid7.com
 scanner5.labs.rapid7.com
