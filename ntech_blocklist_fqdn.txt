@@ -23,6 +23,7 @@
 172-237-105-132.ip.linodeusercontent.com
 177.249.60.121-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
+192.159.99.123.powered.by.rdp.sh
 217.27.7.34.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -45,7 +46,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip146.ip-15-204-133.us
 ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
