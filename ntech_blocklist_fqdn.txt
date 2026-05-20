@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-94.79.0.101.static.digitalpacific.com.au
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
@@ -48,7 +47,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-114-102.superbithost.com
 ip146.ip-15-204-133.us
 ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
@@ -60,7 +58,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-45o.shadowserver.org
 scanner3.labs.rapid7.com
 scanner5.labs.rapid7.com
 security.criminalip.com
