@@ -17,14 +17,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+138.226.123.103.jnpl.jeebr.net
 168.83.195.35.bc.googleusercontent.com
 172-236-24-217.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-190.143.78.34.bc.googleusercontent.com
 192.35.156.34.bc.googleusercontent.com
 195-154-41-69.rev.poneytelecom.eu
-222.130.241.35.bc.googleusercontent.com
 236.26.156.34.bc.googleusercontent.com
 252.213.62.34.bc.googleusercontent.com
 30.164.156.34.bc.googleusercontent.com
@@ -41,7 +40,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1817-110.members.linode.com
 mail.web3graph.cn
 mfyabgec.musicpda.com
 node-150-107-213-173.alliancebroadband.in
