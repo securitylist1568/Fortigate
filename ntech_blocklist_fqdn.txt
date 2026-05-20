@@ -82,5 +82,6 @@ scan-76-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-146-19-3-141.sto02.se.misaka.io
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
