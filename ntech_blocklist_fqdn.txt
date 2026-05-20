@@ -17,12 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-138.226.123.103.jnpl.jeebr.net
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 24-52-70-30.telesystem.us
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 94.79.0.101.static.digitalpacific.com.au
 amz.unixwiz.net
 azpdcslejnig.stretchoid.com
@@ -42,9 +40,7 @@ ip-114-102.superbithost.com
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
 li1992-217.members.linode.com
-mail.web3graph.cn
 mfyabgec.musicpda.com
-node-150-107-213-173.alliancebroadband.in
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -63,6 +59,4 @@ scanner3.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-tumndes.com
 users219.vip.heteml.jp
-vmi3049186.contaboserver.net
