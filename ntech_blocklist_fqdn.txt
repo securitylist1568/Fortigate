@@ -40,6 +40,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1992-217.members.linode.com
 mail.web3graph.cn
 mfyabgec.musicpda.com
 node-150-107-213-173.alliancebroadband.in
@@ -50,6 +51,7 @@ recyber.net
 scan-43b.shadowserver.org
 scan-45o.shadowserver.org
 scan-56a.shadowserver.org
+scan-61-9.shadowserver.org
 scan-78-08.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
