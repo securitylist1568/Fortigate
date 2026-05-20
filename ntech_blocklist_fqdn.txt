@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 192.35.156.34.bc.googleusercontent.com
 195-154-41-69.rev.poneytelecom.eu
+204.76.203.30.ptr.pfcloud.network
 236.26.156.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 252.213.62.34.bc.googleusercontent.com
@@ -40,6 +41,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip212.ip-5-135-173.eu
 ip29.sudolio.io
 li1992-217.members.linode.com
 mail.web3graph.cn
