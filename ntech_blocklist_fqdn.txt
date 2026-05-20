@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 146.31.232.180.dsl.inet.static.certaincyber.net
-149635.ip-ptr.tech
 168.83.195.35.bc.googleusercontent.com
 177.249.60.121-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
@@ -53,6 +52,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip192.ip-15-204-157.us
 ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
