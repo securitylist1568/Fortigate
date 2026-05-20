@@ -23,7 +23,6 @@
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
-azpdcslejnig.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsga05mgt.stretchoid.com
@@ -32,13 +31,8 @@ azpdsgens699.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsghq7jpi.stretchoid.com
 azpdss5q5gjp.stretchoid.com
-azpdss5zo5ld.stretchoid.com
-azpdsse1zlrx.stretchoid.com
 azpdssguw7ri.stretchoid.com
 azpdssm71sbu.stretchoid.com
-azpdssp7vjwc.stretchoid.com
-azpdssrw6qko.stretchoid.com
-azpdsswwm226.stretchoid.com
 azpdws4uku7j.stretchoid.com
 azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
@@ -46,6 +40,7 @@ client.yota.ru
 crawler028.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 ec2-13-221-117-222.compute-1.amazonaws.com
 ec2-3-82-198-92.compute-1.amazonaws.com
 ec2-3-83-53-90.compute-1.amazonaws.com
@@ -68,7 +63,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scanner3.labs.rapid7.com
 scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
