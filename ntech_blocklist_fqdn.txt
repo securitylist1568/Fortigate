@@ -33,6 +33,7 @@
 244.31.198.35.bc.googleusercontent.com
 30.207.205.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
+38.211.203.35.bc.googleusercontent.com
 46-246-41-165.static.glesys.net
 60.133.251.23.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
@@ -63,6 +64,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41m.shadowserver.org
 scan-45o.shadowserver.org
+scan-56.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
