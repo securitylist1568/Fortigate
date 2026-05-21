@@ -29,7 +29,6 @@
 207.150.216.162.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
 224.238.38.34.bc.googleusercontent.com
-23.209.255.172.hosted.by.hostdzire.com
 240.175.52.34.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 30.207.205.35.bc.googleusercontent.com
@@ -37,6 +36,7 @@
 44.211.203.35.bc.googleusercontent.com
 53.255.125.34.bc.googleusercontent.com
 60.133.251.23.bc.googleusercontent.com
+64.176.39.140.vultrusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 80.222.205.35.bc.googleusercontent.com
 82.174.240.35.bc.googleusercontent.com
@@ -54,7 +54,6 @@ lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
