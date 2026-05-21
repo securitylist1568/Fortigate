@@ -25,10 +25,8 @@
 185-45-195-15.hostsailor.com
 193.150.216.162.bc.googleusercontent.com
 195-154-41-69.rev.poneytelecom.eu
-198.210.203.35.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
-221.210.203.35.bc.googleusercontent.com
 224.238.38.34.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 240.175.52.34.bc.googleusercontent.com
@@ -38,8 +36,6 @@
 44.211.203.35.bc.googleusercontent.com
 53.255.125.34.bc.googleusercontent.com
 60.133.251.23.bc.googleusercontent.com
-63.150.216.162.bc.googleusercontent.com
-64.176.39.140.vultrusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 80.222.205.35.bc.googleusercontent.com
 82.174.240.35.bc.googleusercontent.com
@@ -52,9 +48,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
-kub002.idyschool.de.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
