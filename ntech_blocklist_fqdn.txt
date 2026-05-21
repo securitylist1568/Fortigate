@@ -27,6 +27,7 @@
 165.150.216.162.bc.googleusercontent.com
 177.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+189.219.52.64-clientes-izzi.mx
 193.150.216.162.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
