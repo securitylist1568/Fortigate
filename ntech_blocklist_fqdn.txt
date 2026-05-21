@@ -19,9 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 124-8-182-150.dynamic.tfn.net.tw
 136.247.77.34.bc.googleusercontent.com
+144.211.203.35.bc.googleusercontent.com
 183.216.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.159.99.123.powered.by.rdp.sh
+195-154-41-69.rev.poneytelecom.eu
 198.210.203.35.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
 224.238.38.34.bc.googleusercontent.com
@@ -31,6 +33,7 @@
 38.211.203.35.bc.googleusercontent.com
 44.211.203.35.bc.googleusercontent.com
 46-246-41-165.static.glesys.net
+53.255.125.34.bc.googleusercontent.com
 60.133.251.23.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 64.176.39.140.vultrusercontent.com
@@ -50,6 +53,7 @@ ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
 ip81.174.as136841.mtmbali.net.id
 kub002.idyschool.de.com
+lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -61,8 +65,10 @@ scan-45o.shadowserver.org
 scan-56.security.ipip.net
 scan-70-00.shadowserver.org
 scan-88-6.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.92.78.5.clients.your-server.de
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
