@@ -20,10 +20,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
-138.211.203.35.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 149635.ip-ptr.tech
 151.150.216.162.bc.googleusercontent.com
+154.210.203.35.bc.googleusercontent.com
 160.150.216.162.bc.googleusercontent.com
 165.150.216.162.bc.googleusercontent.com
 175.149.216.162.bc.googleusercontent.com
@@ -35,7 +35,6 @@
 244.31.198.35.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
-64.176.39.140.vultrusercontent.com
 74.150.216.162.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
@@ -78,6 +77,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-226.4vendeta.com
+ip236.ip-5-135-71.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -91,7 +91,6 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-63-13.shadowserver.org
-scan-83-7.shadowserver.org
 scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
