@@ -46,6 +46,7 @@
 224.238.38.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 240.175.52.34.bc.googleusercontent.com
+244.31.198.35.bc.googleusercontent.com
 30.207.205.35.bc.googleusercontent.com
 53.255.125.34.bc.googleusercontent.com
 78.210.203.35.bc.googleusercontent.com
@@ -67,9 +68,11 @@ ec2-98-94-27-155.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-138.4vendeta.com
 ip124.ip-5-135-12.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+node-115-187-59-168.alliancebroadband.in
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
