@@ -35,6 +35,7 @@
 172-236-23-77.ip.linodeusercontent.com
 172-237-96-243.ip.linodeusercontent.com
 172-239-107-20.ip.linodeusercontent.com
+176.65.148.176.ptr.pfcloud.network
 183.211.203.35.bc.googleusercontent.com
 183.216.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -81,5 +82,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
-user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
