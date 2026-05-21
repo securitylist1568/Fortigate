@@ -38,6 +38,8 @@
 192.159.99.123.powered.by.rdp.sh
 194-195-253-86.ip.linodeusercontent.com
 197.210.203.35.bc.googleusercontent.com
+198.210.203.35.bc.googleusercontent.com
+221.210.203.35.bc.googleusercontent.com
 222.141.62.34.bc.googleusercontent.com
 224.238.38.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
