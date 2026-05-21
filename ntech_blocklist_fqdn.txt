@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124-8-182-150.dynamic.tfn.net.tw
+136.247.77.34.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 17.210.203.35.bc.googleusercontent.com
 172-236-15-31.ip.linodeusercontent.com
@@ -36,6 +37,7 @@
 31.211.203.35.bc.googleusercontent.com
 46-246-41-165.static.glesys.net
 53.255.125.34.bc.googleusercontent.com
+60.133.251.23.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 64.176.39.140.vultrusercontent.com
 87.150.216.162.bc.googleusercontent.com
