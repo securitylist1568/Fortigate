@@ -23,6 +23,8 @@
 138.211.203.35.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 149635.ip-ptr.tech
+151.150.216.162.bc.googleusercontent.com
+165.150.216.162.bc.googleusercontent.com
 177.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193.150.216.162.bc.googleusercontent.com
@@ -78,6 +80,7 @@ ip-49-226.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns3027750.ip-51-255-66.eu
 o010.scanner.modat.io
 o026.scanner.modat.io
 o074.scanner.modat.io
