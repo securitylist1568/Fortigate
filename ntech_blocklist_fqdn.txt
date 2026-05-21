@@ -20,15 +20,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+124-8-182-150.dynamic.tfn.net.tw
 135.211.203.35.bc.googleusercontent.com
 136.247.77.34.bc.googleusercontent.com
-138.211.203.35.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 17.210.203.35.bc.googleusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 172-236-15-31.ip.linodeusercontent.com
 172-236-20-171.ip.linodeusercontent.com
-172-236-21-122.ip.linodeusercontent.com
 172-236-21-96.ip.linodeusercontent.com
 172-236-23-77.ip.linodeusercontent.com
 172-239-107-20.ip.linodeusercontent.com
@@ -40,7 +38,6 @@
 192.159.99.123.powered.by.rdp.sh
 194-195-253-86.ip.linodeusercontent.com
 197.210.203.35.bc.googleusercontent.com
-212-75-227-226.westcall.net
 222.141.62.34.bc.googleusercontent.com
 224.238.38.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
@@ -83,5 +80,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
