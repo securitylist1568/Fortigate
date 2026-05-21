@@ -47,6 +47,7 @@
 31.211.203.35.bc.googleusercontent.com
 46-246-41-165.static.glesys.net
 53.255.125.34.bc.googleusercontent.com
+64.176.39.140.vultrusercontent.com
 78.210.203.35.bc.googleusercontent.com
 80.222.205.35.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
@@ -64,6 +65,7 @@ ip124.ip-5-135-12.eu
 ip192.ip-15-204-157.us
 ip29.sudolio.io
 ip81.174.as136841.mtmbali.net.id
+kub002.idyschool.de.com
 mfyabgec.musicpda.com
 node-115-187-59-168.alliancebroadband.in
 out-athlete.winningbells.com
