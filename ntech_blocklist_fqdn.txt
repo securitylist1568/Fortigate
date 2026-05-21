@@ -22,7 +22,6 @@
 144.211.203.35.bc.googleusercontent.com
 183.216.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192.159.99.123.powered.by.rdp.sh
 195-154-41-69.rev.poneytelecom.eu
 198.210.203.35.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
@@ -38,8 +37,8 @@
 63.150.216.162.bc.googleusercontent.com
 64.176.39.140.vultrusercontent.com
 80.222.205.35.bc.googleusercontent.com
-87.150.216.162.bc.googleusercontent.com
-94.210.203.35.bc.googleusercontent.com
+82.174.240.35.bc.googleusercontent.com
+84.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -48,10 +47,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip192.ip-15-204-157.us
 ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
-ip81.174.as136841.mtmbali.net.id
 kub002.idyschool.de.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
@@ -69,6 +66,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.248.92.78.5.clients.your-server.de
+syn-173-091-178-001.res.spectrum.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
