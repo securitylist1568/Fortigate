@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
-123.210.203.35.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 149635.ip-ptr.tech
 151.150.216.162.bc.googleusercontent.com
@@ -32,11 +31,8 @@
 177.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.219.52.64-clientes-izzi.mx
-210.211.203.35.bc.googleusercontent.com
-212.150.216.162.bc.googleusercontent.com
-244.31.198.35.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
-64.150.216.162.bc.googleusercontent.com
+252.210.203.35.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
@@ -78,6 +74,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip-49-226.4vendeta.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
@@ -93,13 +90,10 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
-scan-63-13.shadowserver.org
-scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
-user-170-39-225-147.mci01.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
