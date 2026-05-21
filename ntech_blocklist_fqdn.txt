@@ -31,6 +31,7 @@
 212.150.216.162.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
 244.31.198.35.bc.googleusercontent.com
+251.149.216.162.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 64.176.39.140.vultrusercontent.com
@@ -38,6 +39,7 @@
 85.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
+azpdcgkm3iag.stretchoid.com
 azpdcsmatos4.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg25ie9q.stretchoid.com
@@ -45,12 +47,16 @@ azpdsg5u7uqc.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
 azpdsg8708op.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
+azpdsgd9sbi1.stretchoid.com
+azpdsge43nsk.stretchoid.com
 azpdsglck6ef.stretchoid.com
 azpdsgo2stos.stretchoid.com
+azpdsgo34xwr.stretchoid.com
 azpdsgqpucw1.stretchoid.com
 azpdsgrvz4jx.stretchoid.com
 azpdsgs49ai2.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
+azpdsgv1yi6q.stretchoid.com
 azpdss4lc1pe.stretchoid.com
 azpdss5zo5ld.stretchoid.com
 azpdss8hh31k.stretchoid.com
@@ -93,5 +99,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
 user-170-39-225-147.mci01.us.misaka.io
 user-185-234-213-135.zrh01.ch.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
