@@ -21,10 +21,13 @@
 121.211.203.35.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 138.211.203.35.bc.googleusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 172-236-15-113.ip.linodeusercontent.com
 172-236-15-127.ip.linodeusercontent.com
+172-236-21-122.ip.linodeusercontent.com
 172-237-96-243.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+212-75-227-226.westcall.net
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
