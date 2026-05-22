@@ -26,7 +26,6 @@
 167.221.77.34.bc.googleusercontent.com
 167.76.76.34.bc.googleusercontent.com
 169.208.62.34.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 172-236-23-86.ip.linodeusercontent.com
 172-237-109-177.ip.linodeusercontent.com
 172-239-98-147.ip.linodeusercontent.com
@@ -41,10 +40,8 @@
 255.47.14.34.bc.googleusercontent.com
 35.75.79.34.bc.googleusercontent.com
 42.126.79.34.bc.googleusercontent.com
-45-118-132-71.ip.linodeusercontent.com
 51.65.195.35.bc.googleusercontent.com
 62-210-217-72.rev.poneytelecom.eu
-82.149.216.162.bc.googleusercontent.com
 91.150.216.162.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -57,6 +54,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip192.ip-15-204-157.us
 ip29.sudolio.io
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 node-150-107-213-173.alliancebroadband.in
@@ -66,11 +64,8 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04c.shadowserver.org
-scan-45o.shadowserver.org
-scan-55c.shadowserver.org
 scan-60.security.ipip.net
 scan-86-7.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
