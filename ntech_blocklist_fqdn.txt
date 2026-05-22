@@ -31,7 +31,6 @@
 169.149.216.162.bc.googleusercontent.com
 169.208.62.34.bc.googleusercontent.com
 172-236-23-86.ip.linodeusercontent.com
-172-237-109-177.ip.linodeusercontent.com
 172-239-98-147.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 196.107.156.34.bc.googleusercontent.com
@@ -56,7 +55,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip192.ip-15-204-157.us
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
@@ -67,7 +65,6 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.org
-scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
