@@ -25,6 +25,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 166.149.216.162.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 172-236-24-217.ip.linodeusercontent.com
 174.149.216.162.bc.googleusercontent.com
 181.110.64.34.bc.googleusercontent.com
@@ -43,6 +44,7 @@
 252.210.203.35.bc.googleusercontent.com
 35.150.216.162.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
+82.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 chx36-h04-176-174-235-37.dsl.sta.abo.bbox.fr
@@ -78,6 +80,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
 scan-07e.shadowserver.org
+scan-45o.shadowserver.org
 scan-55c.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
