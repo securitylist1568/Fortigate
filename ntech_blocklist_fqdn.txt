@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+11.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -17,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.149.216.162.bc.googleusercontent.com
 113.210.38.34.bc.googleusercontent.com
 117.106.211.130.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
@@ -35,11 +35,10 @@
 196.107.156.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 237.210.203.35.bc.googleusercontent.com
-24.210.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
+249.148.84.34.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
-29.150.216.162.bc.googleusercontent.com
 35.75.79.34.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
@@ -68,7 +67,6 @@ scan-78-08.shadowserver.org
 scan-85-3.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
-srv-141-98-10-161.serveroffer.net
 srv51224.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-209-85-233.mow01.ru.misaka.io
