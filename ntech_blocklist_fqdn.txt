@@ -25,15 +25,17 @@
 129.120.140.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 140.26.199.104.bc.googleusercontent.com
+154.150.216.162.bc.googleusercontent.com
 167.221.77.34.bc.googleusercontent.com
 177.149.216.162.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-186.210.203.35.bc.googleusercontent.com
+194.149.216.162.bc.googleusercontent.com
 196.107.156.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
+211.37.197.35.bc.googleusercontent.com
+212.150.216.162.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
-243.149.216.162.bc.googleusercontent.com
 249.148.84.34.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
@@ -62,7 +64,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-52k.shadowserver.org
 scan-78-08.shadowserver.org
-scan-85-3.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv51224.dus8.dedi.server-hosting.expert
