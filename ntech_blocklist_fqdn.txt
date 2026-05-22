@@ -46,6 +46,7 @@ ip212.ip-5-135-173.eu
 ip29.sudolio.io
 m26235.contaboserver.net
 mfyabgec.musicpda.com
+o069.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -54,5 +55,6 @@ security.criminalip.com
 smtp1.telemach.net
 srv51224.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
 vps-sd3404.tenet.od.ua
