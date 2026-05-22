@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.210.38.34.bc.googleusercontent.com
-138.226.123.103.jnpl.jeebr.net
 154.150.216.162.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 172-237-112-97.ip.linodeusercontent.com
@@ -30,12 +29,12 @@
 212.150.216.162.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 249.148.84.34.bc.googleusercontent.com
-40.149.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 51.211.203.35.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcs9aqpkl.stretchoid.com
+azpdcsycgcyf.stretchoid.com
 azpdes7t6661.stretchoid.com
 azpdsg492br4.stretchoid.com
 azpdsg58gbbx.stretchoid.com
