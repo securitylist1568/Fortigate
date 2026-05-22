@@ -20,14 +20,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.210.38.34.bc.googleusercontent.com
 117.106.211.130.bc.googleusercontent.com
-117.209-183-91.adsl-static.isp.belgacom.be
 120.195.241.35.bc.googleusercontent.com
 127.231.196.104.bc.googleusercontent.com
 129.120.140.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 140.26.199.104.bc.googleusercontent.com
 167.221.77.34.bc.googleusercontent.com
-169.149.216.162.bc.googleusercontent.com
 177.149.216.162.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -46,11 +44,9 @@
 51.211.203.35.bc.googleusercontent.com
 51.65.195.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
-adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
