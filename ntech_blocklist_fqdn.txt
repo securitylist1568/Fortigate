@@ -30,7 +30,6 @@
 172-236-23-86.ip.linodeusercontent.com
 172-237-109-177.ip.linodeusercontent.com
 172-239-98-147.ip.linodeusercontent.com
-176.65.149.77.ptr.pfcloud.network
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.107.156.34.bc.googleusercontent.com
@@ -43,7 +42,6 @@
 42.126.79.34.bc.googleusercontent.com
 51.65.195.35.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
-62-210-217-72.rev.poneytelecom.eu
 91.150.216.162.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -57,7 +55,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip192.ip-15-204-157.us
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 node-150-107-213-173.alliancebroadband.in
 pc112.cses.ilc.edu.tw
@@ -71,6 +68,7 @@ scan-60.security.ipip.net
 scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
