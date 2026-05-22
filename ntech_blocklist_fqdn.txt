@@ -32,6 +32,7 @@
 193-181-41-14.cust.norisab.com
 193.150.216.162.bc.googleusercontent.com
 197.149.216.162.bc.googleusercontent.com
+199.150.216.162.bc.googleusercontent.com
 208.210.203.35.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
@@ -62,6 +63,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04c.shadowserver.org
 scan-07e.shadowserver.org
 scan-45o.shadowserver.org
 scan-55c.shadowserver.org
