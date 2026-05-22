@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 113.149.216.162.bc.googleusercontent.com
 113.210.38.34.bc.googleusercontent.com
 117.106.211.130.bc.googleusercontent.com
@@ -34,6 +33,7 @@
 186.210.203.35.bc.googleusercontent.com
 196.107.156.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
+237.210.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
@@ -43,6 +43,7 @@
 42.126.79.34.bc.googleusercontent.com
 51.65.195.35.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
+70.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -58,7 +59,6 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.org
@@ -68,6 +68,7 @@ scan-85-3.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-161.serveroffer.net
+srv51224.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-209-85-233.mow01.ru.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
