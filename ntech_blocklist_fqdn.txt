@@ -43,6 +43,7 @@
 62-210-217-72.rev.poneytelecom.eu
 65.149.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
+91.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -64,6 +65,7 @@ recyber.net
 scan-07e.shadowserver.org
 scan-45o.shadowserver.org
 scan-55c.shadowserver.org
+scan-60.security.ipip.net
 scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
