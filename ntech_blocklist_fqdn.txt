@@ -23,11 +23,13 @@
 117.106.211.130.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
 120.195.241.35.bc.googleusercontent.com
+127.231.196.104.bc.googleusercontent.com
 129.120.140.34.bc.googleusercontent.com
 140.26.199.104.bc.googleusercontent.com
 167.221.77.34.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
 177.149.216.162.bc.googleusercontent.com
+178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 196.107.156.34.bc.googleusercontent.com
