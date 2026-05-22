@@ -24,6 +24,7 @@
 120.195.241.35.bc.googleusercontent.com
 127.231.196.104.bc.googleusercontent.com
 129.120.140.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 140.26.199.104.bc.googleusercontent.com
 167.221.77.34.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
@@ -43,7 +44,6 @@
 40.149.216.162.bc.googleusercontent.com
 42.126.79.34.bc.googleusercontent.com
 51.65.195.35.bc.googleusercontent.com
-60.150.216.162.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
@@ -56,13 +56,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-09n.shadowserver.org
 scan-52k.shadowserver.org
 scan-78-08.shadowserver.org
 scan-85-3.shadowserver.org
@@ -72,6 +70,4 @@ srv-141-98-10-161.serveroffer.net
 srv51224.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-209-85-233.mow01.ru.misaka.io
-user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
-www.internet-albedo.net
