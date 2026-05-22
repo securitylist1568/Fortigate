@@ -36,6 +36,7 @@
 193-181-41-14.cust.norisab.com
 208.210.203.35.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
+240.211.203.35.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
@@ -95,6 +96,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
+scan-07e.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
