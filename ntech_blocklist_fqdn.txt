@@ -24,6 +24,7 @@
 135.210.203.35.bc.googleusercontent.com
 140.26.199.104.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
+153.72.187.35.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
 167.221.77.34.bc.googleusercontent.com
 167.76.76.34.bc.googleusercontent.com
