@@ -25,15 +25,12 @@
 120.195.241.35.bc.googleusercontent.com
 129.120.140.34.bc.googleusercontent.com
 140.26.199.104.bc.googleusercontent.com
-153.72.187.35.bc.googleusercontent.com
 167.221.77.34.bc.googleusercontent.com
-167.76.76.34.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 196.107.156.34.bc.googleusercontent.com
-2.224.78.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 24.210.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
@@ -44,7 +41,6 @@
 42.126.79.34.bc.googleusercontent.com
 51.65.195.35.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
-95.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
