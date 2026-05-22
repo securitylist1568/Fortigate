@@ -23,6 +23,7 @@
 154.150.216.162.bc.googleusercontent.com
 172-237-112-97.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+190.211.203.35.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
 211.37.197.35.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
@@ -31,9 +32,13 @@
 40.149.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 51.211.203.35.bc.googleusercontent.com
+92.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
+azpdes7t6661.stretchoid.com
+azpdsg58gbbx.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsggecxkm.stretchoid.com
+azpdsglq54br.stretchoid.com
 azpdsgs49ai2.stretchoid.com
 azpdsskf5buy.stretchoid.com
 azpdsszhqwse.stretchoid.com
@@ -42,6 +47,7 @@ azpdws28galu.stretchoid.com
 azpdws6b5q5j.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 federationchilla.site
