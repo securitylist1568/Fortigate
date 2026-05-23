@@ -23,17 +23,13 @@
 172-236-15-31.ip.linodeusercontent.com
 172-237-104-107.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-186.150.216.162.bc.googleusercontent.com
 19.150.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
-36-231-169-155.dynamic-ip.hinet.net
 45.112.138.30.actcorp.in
 50-116-23-150.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
-62.176.90.34.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
-87.150.216.162.bc.googleusercontent.com
 activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -42,9 +38,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
-ip192.ip-15-204-157.us
 ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
 li1873-236.members.linode.com
