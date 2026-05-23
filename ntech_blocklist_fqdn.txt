@@ -31,6 +31,10 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-88-9-47.compute-1.amazonaws.com
+ec2-44-202-70-216.compute-1.amazonaws.com
+ec2-54-205-241-255.compute-1.amazonaws.com
+ec2-98-84-188-17.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
