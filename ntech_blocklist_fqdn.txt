@@ -22,15 +22,13 @@
 154.211.203.35.bc.googleusercontent.com
 172-236-15-31.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-19.150.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 37.43.187.35.bc.googleusercontent.com
 45.112.138.30.actcorp.in
 50-116-23-150.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
-63.210.203.35.bc.googleusercontent.com
-activity189.numbercombative.com
+63.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,10 +45,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-09n.shadowserver.org
 scan-40g.shadowserver.org
-scan-52c.shadowserver.org
 scan-59g.shadowserver.org
 scan-69-05.shadowserver.org
 scan-74-07.shadowserver.org
