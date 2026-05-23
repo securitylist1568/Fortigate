@@ -21,7 +21,6 @@
 138.149.216.162.bc.googleusercontent.com
 154.211.203.35.bc.googleusercontent.com
 172-236-15-31.ip.linodeusercontent.com
-172-237-104-107.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 19.150.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
@@ -30,7 +29,6 @@
 50-116-23-150.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
 63.210.203.35.bc.googleusercontent.com
-6682-315a.jnb01.za.misaka.io
 activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
