@@ -20,6 +20,7 @@
 166.149.216.162.bc.googleusercontent.com
 172-236-15-238.ip.linodeusercontent.com
 172-236-8-191.ip.linodeusercontent.com
+172-237-104-107.ip.linodeusercontent.com
 172-237-112-97.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 61.150.216.162.bc.googleusercontent.com
 62-210-217-72.rev.poneytelecom.eu
 62.176.90.34.bc.googleusercontent.com
+6682-315a.jnb01.za.misaka.io
 7.149.216.162.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
