@@ -25,6 +25,7 @@
 211.37.197.35.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
 36-231-169-155.dynamic-ip.hinet.net
+50-116-23-150.ip.linodeusercontent.com
 61-63-30-host15.kbtelecom.net.tw
 62.176.90.34.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
@@ -52,6 +53,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.org
 scan-45g.shadowserver.org
 scan-47k.shadowserver.org
 scan-52c.shadowserver.org
