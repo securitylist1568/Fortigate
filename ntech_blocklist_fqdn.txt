@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 123-193-170-160.dynamic.kbronet.com.tw
 138.149.216.162.bc.googleusercontent.com
-154.211.203.35.bc.googleusercontent.com
 172-236-15-31.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 224.150.216.162.bc.googleusercontent.com
@@ -27,7 +26,6 @@
 37.43.187.35.bc.googleusercontent.com
 45.112.138.30.actcorp.in
 49.204.113.125.actcorp.in
-50-116-23-150.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
 63.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -38,20 +36,14 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-09n.shadowserver.org
-scan-40g.shadowserver.org
 scan-59g.shadowserver.org
-scan-69-05.shadowserver.org
 scan-74-07.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
