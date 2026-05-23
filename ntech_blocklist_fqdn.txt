@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-11.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,17 +18,18 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.210.38.34.bc.googleusercontent.com
+135.150.216.162.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
 172-237-112-97.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+187.254.100.232-clientes-zap-izzi.mx
 190.211.203.35.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
 211.37.197.35.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
-249.148.84.34.bc.googleusercontent.com
-40.210.203.35.bc.googleusercontent.com
+232.211.203.35.bc.googleusercontent.com
 51.211.203.35.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -60,6 +60,7 @@ azpdsse1zlrx.stretchoid.com
 azpdssjnwdgv.stretchoid.com
 azpdssk480wi.stretchoid.com
 azpdsskf5buy.stretchoid.com
+azpdssm71sbu.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdssvyb6fc.stretchoid.com
 azpdssw3j3o8.stretchoid.com
@@ -82,7 +83,6 @@ federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip212.ip-5-135-173.eu
 ip29.sudolio.io
 ip72.ip-54-36-18.eu
 m26235.contaboserver.net
