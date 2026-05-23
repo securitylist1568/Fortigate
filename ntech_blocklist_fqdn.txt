@@ -27,6 +27,7 @@
 187.254.100.232-clientes-zap-izzi.mx
 190.211.203.35.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
+211.37.197.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
