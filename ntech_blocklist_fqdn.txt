@@ -19,9 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.210.38.34.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
+138.211.203.35.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
+172-236-15-220.ip.linodeusercontent.com
 172-237-112-97.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.254.100.232-clientes-zap-izzi.mx
