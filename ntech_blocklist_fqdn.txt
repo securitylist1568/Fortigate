@@ -22,7 +22,6 @@
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 19.150.216.162.bc.googleusercontent.com
-209.210.203.35.bc.googleusercontent.com
 211.37.197.35.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
 36-231-169-155.dynamic-ip.hinet.net
@@ -31,7 +30,6 @@
 63.210.203.35.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 7.149.216.162.bc.googleusercontent.com
-76.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
@@ -44,7 +42,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
-host81-130-193-251.in-addr.btopenworld.com
 htb-h9b8tjwfph.htb-cloud.com
 ip192.ip-15-204-157.us
 ip29.sudolio.io
@@ -59,7 +56,6 @@ scan-45g.shadowserver.org
 scan-47k.shadowserver.org
 scan-52c.shadowserver.org
 scan-68-08.shadowserver.org
-scan-70-00.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
