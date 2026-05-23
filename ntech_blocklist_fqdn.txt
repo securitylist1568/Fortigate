@@ -41,6 +41,7 @@
 192-155-81-124.ip.linodeusercontent.com
 192.159.99.123.powered.by.rdp.sh
 194-195-122-95.ip.linodeusercontent.com
+195-154-41-69.rev.poneytelecom.eu
 204.76.203.30.ptr.pfcloud.network
 211.37.197.35.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
@@ -52,6 +53,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+61.150.216.162.bc.googleusercontent.com
 62-210-217-72.rev.poneytelecom.eu
 62.176.90.34.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
