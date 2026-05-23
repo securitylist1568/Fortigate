@@ -37,7 +37,6 @@
 173-255-223-32.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-187.254.100.232-clientes-zap-izzi.mx
 192-155-81-124.ip.linodeusercontent.com
 192.159.99.123.powered.by.rdp.sh
 194-195-122-95.ip.linodeusercontent.com
@@ -46,7 +45,6 @@
 211.37.197.35.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-232.211.203.35.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -61,20 +59,6 @@
 82.149.216.162.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcgrbfvbu.stretchoid.com
-azpdcsbq2pb3.stretchoid.com
-azpdcsycgcyf.stretchoid.com
-azpdsg4lwdz3.stretchoid.com
-azpdsg56zpoo.stretchoid.com
-azpdsga05mgt.stretchoid.com
-azpdsghmx647.stretchoid.com
-azpdsgwinodf.stretchoid.com
-azpdss33l1a5.stretchoid.com
-azpdsse1zlrx.stretchoid.com
-azpdssk480wi.stretchoid.com
-azpdssm71sbu.stretchoid.com
-azpdssumseh6.stretchoid.com
-azpdssvyb6fc.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -86,7 +70,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip146.ip-15-204-133.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
-ns3027750.ip-51-255-66.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -95,6 +78,7 @@ scan-13l.shadowserver.org
 scan-14l.shadowserver.org
 scan-43b.shadowserver.org
 scan-61-9.shadowserver.org
+scan-70-00.shadowserver.org
 scan-87-7.shadowserver.org
 scan-89-0.shadowserver.org
 security.criminalip.com
