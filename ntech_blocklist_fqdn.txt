@@ -21,6 +21,7 @@
 155.14.175.207.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 163-172-215-177.rev.poneytelecom.eu
+170.241.143.34.bc.googleusercontent.com
 172-236-20-122.ip.linodeusercontent.com
 172-236-23-86.ip.linodeusercontent.com
 172-239-105-203.ip.linodeusercontent.com
@@ -59,6 +60,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 s-aa02a9b8897ee641.sg.vpnshieldapp.com
 scan-12f.shadowserver.org
 scan-14h.shadowserver.org
