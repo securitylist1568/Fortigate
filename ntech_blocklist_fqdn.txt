@@ -19,8 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 164.211.203.35.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
+174.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208-115-124-234-reverse.wowrack.com
+216-244-76-122-reverse.wowrack.com
+216-244-77-138-reverse.wowrack.com
 216-244-78-26-reverse.wowrack.com
 216-244-80-66-reverse.wowrack.com
 216.244.78.106-reverse.wowrack.com
@@ -31,6 +34,8 @@
 45-79-190-154.ip.linodeusercontent.com
 49.204.113.125.actcorp.in
 66-228-40-35.ip.linodeusercontent.com
+7.210.203.35.bc.googleusercontent.com
+76.150.216.162.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -54,7 +59,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-14h.shadowserver.org
 scan-63-9.shadowserver.org
+scan-67-1.shadowserver.org
+scan-69-00.shadowserver.org
 scan-79-00.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
