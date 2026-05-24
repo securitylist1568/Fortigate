@@ -22,9 +22,11 @@
 172-236-2-88.ip.linodeusercontent.com
 172-236-23-86.ip.linodeusercontent.com
 174.149.216.162.bc.googleusercontent.com
+176.65.148.176.ptr.pfcloud.network
 177.249.168.63-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 198.76.205.35.bc.googleusercontent.com
+201.172.175.192-clientes-izzi.mx
 203-74-130-205.hinet-ip.hinet.net
 207.233.156.34.bc.googleusercontent.com
 208-115-124-234-reverse.wowrack.com
