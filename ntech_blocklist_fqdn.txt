@@ -25,9 +25,11 @@
 172-236-23-86.ip.linodeusercontent.com
 172-239-154-153.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+45-79-170-227.ip.linodeusercontent.com
 52.219.181.34.bc.googleusercontent.com
 61-228-251-43.dynamic-ip.hinet.net
 69-164-212-142.ip.linodeusercontent.com
+97-107-134-95.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
