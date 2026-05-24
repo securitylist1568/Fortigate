@@ -23,6 +23,7 @@
 172-236-23-86.ip.linodeusercontent.com
 172.210.203.35.bc.googleusercontent.com
 174.149.216.162.bc.googleusercontent.com
+177.249.168.63-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 198.76.205.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
@@ -48,7 +49,9 @@
 7.210.203.35.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgf6ljqc.stretchoid.com
 azpdcgngane9.stretchoid.com
+azpdcslejnig.stretchoid.com
 azpdsg3ry68v.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsg492br4.stretchoid.com
@@ -58,9 +61,11 @@ azpdsghmx647.stretchoid.com
 azpdsghq7jpi.stretchoid.com
 azpdsgimpili.stretchoid.com
 azpdsglck6ef.stretchoid.com
+azpdsglvqiiq.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
 azpdsgt866ai.stretchoid.com
+azpdss2sy749.stretchoid.com
 azpdss33l1a5.stretchoid.com
 azpdss9nwu1g.stretchoid.com
 azpdsse6bn8p.stretchoid.com
