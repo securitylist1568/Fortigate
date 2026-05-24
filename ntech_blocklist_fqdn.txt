@@ -24,12 +24,14 @@
 172-236-23-86.ip.linodeusercontent.com
 172-239-154-153.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+195-154-41-69.rev.poneytelecom.eu
 45-79-170-227.ip.linodeusercontent.com
 52.219.181.34.bc.googleusercontent.com
 69-164-212-142.ip.linodeusercontent.com
 97-107-134-95.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+b3dd31ae.virtua.com.br
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
