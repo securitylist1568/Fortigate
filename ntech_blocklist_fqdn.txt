@@ -19,10 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 117.135.156.34.bc.googleusercontent.com
 155.14.175.207.bc.googleusercontent.com
-164.211.203.35.bc.googleusercontent.com
 172-236-2-88.ip.linodeusercontent.com
 172-236-23-86.ip.linodeusercontent.com
-172.210.203.35.bc.googleusercontent.com
 174.149.216.162.bc.googleusercontent.com
 177.249.168.63-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
@@ -45,16 +43,16 @@
 33.150.216.162.bc.googleusercontent.com
 36.242.53.34.bc.googleusercontent.com
 43.77.155.104.bc.googleusercontent.com
-45-79-190-154.ip.linodeusercontent.com
 52.219.181.34.bc.googleusercontent.com
-66-228-40-35.ip.linodeusercontent.com
 7.210.203.35.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
+8.190.38.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdcgngane9.stretchoid.com
 azpdcslejnig.stretchoid.com
 azpdesrind7l.stretchoid.com
+azpdsg0p0xel.stretchoid.com
 azpdsg3ry68v.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsg492br4.stretchoid.com
@@ -68,6 +66,7 @@ azpdsghq7jpi.stretchoid.com
 azpdsgimpili.stretchoid.com
 azpdsglck6ef.stretchoid.com
 azpdsglvqiiq.stretchoid.com
+azpdsgocdz87.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdsgor4bdz.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
@@ -99,6 +98,7 @@ azpdws0frgb6.stretchoid.com
 azpdws6b5q5j.stretchoid.com
 azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
+chx36-h04-176-174-235-37.dsl.sta.abo.bbox.fr
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -117,7 +117,6 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-14h.shadowserver.org
 scan-45g.shadowserver.org
 scan-63-9.shadowserver.org
@@ -132,7 +131,6 @@ srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 tiago.probe.onyphe.net
-unassigned.psychz.net
 user-170-39-224-220.iad03.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
