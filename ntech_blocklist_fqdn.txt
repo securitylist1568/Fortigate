@@ -39,6 +39,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip192.ip-15-204-157.us
 ip29.sudolio.io
 kangen.nieh.sama.anitacaem.com
+mail.kaniskasoft.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
