@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.150.216.162.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 155.14.175.207.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
@@ -66,6 +67,7 @@ host81-130-193-251.in-addr.btopenworld.com
 htb-h9b8tjwfph.htb-cloud.com
 ip146.ip-15-204-133.us
 ip29.sudolio.io
+li1625-135.members.linode.com
 mfyabgec.musicpda.com
 node-115-187-37-171.alliancebroadband.in
 null-91.134.45.bcn.ifog.es
