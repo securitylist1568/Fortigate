@@ -53,6 +53,7 @@ ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip192.ip-15-204-157.us
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
@@ -63,6 +64,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s-aa02a9b8897ee641.sg.vpnshieldapp.com
 scan-14h.shadowserver.org
 scan-14l.shadowserver.org
 scan-15k.shadowserver.org
