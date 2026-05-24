@@ -34,7 +34,6 @@ crawler089.deepfield.net
 crawler093.deepfield.net
 crawler108.deepfield.net
 crawler118.deepfield.net
-crawler127.deepfield.net
 crawler132.deepfield.net
 crawler201.deepfield.net
 dal215.hawkhost.com
@@ -57,15 +56,13 @@ s-aa02a9b8897ee641.sg.vpnshieldapp.com
 scan-12f.shadowserver.org
 scan-14h.shadowserver.org
 scan-14l.shadowserver.org
-scan-15k.shadowserver.org
-scan-67-1.shadowserver.org
 scan-75-05.shadowserver.org
 scan-77-02.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.248.92.78.5.clients.your-server.de
 users219.vip.heteml.jp
+usman.probe.onyphe.net
 vds1077812.hosted-by-itldc.com
 www.internet-albedo.net
