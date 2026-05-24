@@ -20,6 +20,13 @@
 164.211.203.35.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+208-115-124-234-reverse.wowrack.com
+216-244-78-26-reverse.wowrack.com
+216-244-80-66-reverse.wowrack.com
+216.244.78.106-reverse.wowrack.com
+216.244.78.250-reverse.wowrack.com
+216.244.79.146-reverse.wowrack.com
+216.244.80.138-reverse.wowrack.com
 34.210.203.35.bc.googleusercontent.com
 45-79-190-154.ip.linodeusercontent.com
 49.204.113.125.actcorp.in
