@@ -25,6 +25,7 @@
 176.65.148.176.ptr.pfcloud.network
 177.249.168.63-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
+192.87.38.34.bc.googleusercontent.com
 198.76.205.35.bc.googleusercontent.com
 201.172.175.192-clientes-izzi.mx
 203-74-130-205.hinet-ip.hinet.net
@@ -109,6 +110,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host81-130-193-251.in-addr.btopenworld.com
 htb-h9b8tjwfph.htb-cloud.com
 ip146.ip-15-204-133.us
 ip217.154.239-196.pbiaas.com
