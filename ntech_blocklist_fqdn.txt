@@ -65,10 +65,14 @@ azpdsglvqiiq.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
 azpdsgt866ai.stretchoid.com
+azpdss1xstrn.stretchoid.com
+azpdss1xwgc0.stretchoid.com
 azpdss2sy749.stretchoid.com
 azpdss33l1a5.stretchoid.com
+azpdss4lc1pe.stretchoid.com
 azpdss9nwu1g.stretchoid.com
 azpdsse6bn8p.stretchoid.com
+azpdssrw6qko.stretchoid.com
 azpdssswzf3x.stretchoid.com
 azpdssw3j3o8.stretchoid.com
 azpdsswwm226.stretchoid.com
@@ -94,6 +98,7 @@ ip217.154.239-196.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
+o035.scanner.modat.io
 o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
