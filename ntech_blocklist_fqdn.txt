@@ -19,9 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.150.216.162.bc.googleusercontent.com
 155.14.175.207.bc.googleusercontent.com
+157.210.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-236-2-88.ip.linodeusercontent.com
+172-236-20-122.ip.linodeusercontent.com
 172-236-23-86.ip.linodeusercontent.com
+172-239-105-203.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 177.249.168.63-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
@@ -31,6 +34,7 @@
 203-74-130-205.hinet-ip.hinet.net
 207.233.156.34.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
+36.242.53.34.bc.googleusercontent.com
 37.43.187.35.bc.googleusercontent.com
 43.77.155.104.bc.googleusercontent.com
 61-216-248-31.hinet-ip.hinet.net
@@ -127,6 +131,7 @@ smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
+twtpe2-ntp-002.aaplimg.com
 user-170-39-224-220.iad03.us.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
