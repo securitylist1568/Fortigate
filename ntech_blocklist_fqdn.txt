@@ -20,11 +20,9 @@
 164.211.203.35.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-250.149.216.162.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
 45-79-190-154.ip.linodeusercontent.com
 49.204.113.125.actcorp.in
-63.150.216.162.bc.googleusercontent.com
 66-228-40-35.ip.linodeusercontent.com
 80.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -49,6 +47,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-63-9.shadowserver.org
+scan-79-00.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
