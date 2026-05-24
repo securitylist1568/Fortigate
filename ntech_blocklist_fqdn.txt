@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-138.226.123.103.jnpl.jeebr.net
 163-172-215-177.rev.poneytelecom.eu
 170.241.143.34.bc.googleusercontent.com
 172-104-252-242.ip.linodeusercontent.com
@@ -35,7 +34,6 @@ client.yota.ru
 crawler012.deepfield.net
 crawler089.deepfield.net
 crawler093.deepfield.net
-crawler108.deepfield.net
 crawler118.deepfield.net
 crawler132.deepfield.net
 crawler201.deepfield.net
@@ -48,7 +46,6 @@ ip192.ip-15-204-157.us
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 kangen.nieh.sama.anitacaem.com
-li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -56,7 +53,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-s-aa02a9b8897ee641.sg.vpnshieldapp.com
 scan-12f.shadowserver.org
 scan-14h.shadowserver.org
 scan-14l.shadowserver.org
