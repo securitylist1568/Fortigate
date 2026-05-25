@@ -25,11 +25,9 @@
 195-154-41-69.rev.poneytelecom.eu
 45-79-130-82.ip.linodeusercontent.com
 45-79-162-167.ip.linodeusercontent.com
-45-79-170-227.ip.linodeusercontent.com
 50-116-61-208.ip.linodeusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 74-50-97-90.static.hvvc.us
-97-107-134-95.ip.linodeusercontent.com
 97-107-135-58.ip.linodeusercontent.com
 97-107-137-78.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -65,5 +63,4 @@ scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
