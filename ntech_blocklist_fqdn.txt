@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
 141.243.23.34.bc.googleusercontent.com
+144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 191.34.117.30.dynamic.adsl.gvt.net.br
 204.76.203.30.ptr.pfcloud.network
@@ -28,15 +29,9 @@
 55.33.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcslejnig.stretchoid.com
-azpdsg4lwdz3.stretchoid.com
-azpdsgebcoxy.stretchoid.com
 azpdsse1zlrx.stretchoid.com
-azpdssguw7ri.stretchoid.com
 azpdsskf5buy.stretchoid.com
 azpdssle59pd.stretchoid.com
-azpdssml72hw.stretchoid.com
-azpdsssyxvsv.stretchoid.com
-azpdssya3d1q.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -44,11 +39,11 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip124.ip-5-135-12.eu
 ip29.sudolio.io
 ip92.ip-15-204-156.us
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
