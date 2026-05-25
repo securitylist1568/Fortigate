@@ -30,6 +30,7 @@
 195.229.78.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 206.180.22.34.bc.googleusercontent.com
+3ac1fc35-06ec-4086-89c3-145a88f8e93e.nl-ams-1.baremetal.scw.cloud
 42.123.243.83.in-addr.arpa
 5.237.189.35.bc.googleusercontent.com
 amz.unixwiz.net
