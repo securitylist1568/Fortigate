@@ -64,12 +64,16 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-42i.shadowserver.org
 scan-53j.shadowserver.org
 scan-60-10.shadowserver.org
+scan-63-8.shadowserver.org
 scan-68-00.shadowserver.org
 scan-78-08.shadowserver.org
+scan-85-3.shadowserver.org
 scan-89-5.shadowserver.org
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
