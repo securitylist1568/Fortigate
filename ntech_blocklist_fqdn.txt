@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.151.34.34.bc.googleusercontent.com
 123-192-88-238.dynamic.kbronet.com.tw
-157.100.199.104.bc.googleusercontent.com
 161.213.205.35.bc.googleusercontent.com
 170.241.143.34.bc.googleusercontent.com
 172-236-15-36.ip.linodeusercontent.com
@@ -35,6 +34,7 @@ azpdcgf6ljqc.stretchoid.com
 azpdcgngane9.stretchoid.com
 azpdsg25ie9q.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
+azpdsgebcoxy.stretchoid.com
 azpdsggpb2c0.stretchoid.com
 azpdssguw7ri.stretchoid.com
 azpdssml72hw.stretchoid.com
