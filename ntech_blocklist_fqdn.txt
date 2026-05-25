@@ -33,6 +33,8 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler013.deepfield.net
+crawler156.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -42,6 +44,7 @@ host81-130-193-251.in-addr.btopenworld.com
 htb-h9b8tjwfph.htb-cloud.com
 ip146.ip-15-204-133.us
 ip29.sudolio.io
+li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o073.scanner.modat.io
 pc112.cses.ilc.edu.tw
