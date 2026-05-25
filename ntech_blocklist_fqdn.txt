@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.151.34.34.bc.googleusercontent.com
 123-192-88-238.dynamic.kbronet.com.tw
+138.226.123.103.jnpl.jeebr.net
 161.213.205.35.bc.googleusercontent.com
 170.241.143.34.bc.googleusercontent.com
 172-236-15-36.ip.linodeusercontent.com
@@ -27,6 +28,7 @@
 185-45-195-15.hostsailor.com
 187.26.155.104.bc.googleusercontent.com
 195.229.78.34.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 206.180.22.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 5.237.189.35.bc.googleusercontent.com
@@ -52,9 +54,6 @@ azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler010.deepfield.net
-crawler013.deepfield.net
-crawler149.deepfield.net
-crawler156.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -64,7 +63,6 @@ ip124.ip-5-135-12.eu
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1537-121.members.linode.com
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
 pc112.cses.ilc.edu.tw
@@ -72,6 +70,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.org
+scan-42i.shadowserver.org
 scan-53j.shadowserver.org
 scan-60-10.shadowserver.org
 scan-78-08.shadowserver.org
