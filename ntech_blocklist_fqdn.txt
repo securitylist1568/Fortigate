@@ -32,11 +32,15 @@
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdcgngane9.stretchoid.com
+azpdcslejnig.stretchoid.com
 azpdsg25ie9q.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
 azpdsgebcoxy.stretchoid.com
 azpdsggpb2c0.stretchoid.com
+azpdsse1zlrx.stretchoid.com
 azpdssguw7ri.stretchoid.com
+azpdsskf5buy.stretchoid.com
+azpdssle59pd.stretchoid.com
 azpdssml72hw.stretchoid.com
 azpdsssyxvsv.stretchoid.com
 azpdssw3j3o8.stretchoid.com
@@ -73,6 +77,7 @@ scan-41f.shadowserver.org
 scan-52k.shadowserver.org
 scan-68-00.shadowserver.org
 scan-76-02.shadowserver.org
+scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
