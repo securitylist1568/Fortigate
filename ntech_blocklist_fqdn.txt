@@ -57,6 +57,7 @@ smtp1.telemach.net
 srv20618.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.109.188.62.46.clients.your-server.de
+static.vnpt.vn
 users219.vip.heteml.jp
 vmi2662467.contaboserver.net
 zhangyuan3.virtuaserver.com.br
