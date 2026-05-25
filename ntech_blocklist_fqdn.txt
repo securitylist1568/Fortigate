@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 139-162-128-180.ip.linodeusercontent.com
 172-104-209-205.ip.linodeusercontent.com
-172-104-252-242.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.248.179.181.vultrusercontent.com
 195-154-41-69.rev.poneytelecom.eu
@@ -28,9 +27,7 @@
 45-79-162-167.ip.linodeusercontent.com
 45-79-170-227.ip.linodeusercontent.com
 50-116-61-208.ip.linodeusercontent.com
-52.219.181.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
-69-164-212-142.ip.linodeusercontent.com
 74-50-97-90.static.hvvc.us
 97-107-134-95.ip.linodeusercontent.com
 97-107-135-58.ip.linodeusercontent.com
@@ -54,7 +51,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-kangen.nieh.sama.anitacaem.com
 li1873-236.members.linode.com
 mail.kaniskasoft.com
 mfyabgec.musicpda.com
@@ -70,4 +66,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
-usman.probe.onyphe.net
