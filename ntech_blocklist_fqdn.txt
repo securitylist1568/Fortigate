@@ -27,13 +27,8 @@
 191.34.117.30.dynamic.adsl.gvt.net.br
 204.76.203.30.ptr.pfcloud.network
 3ac1fc35-06ec-4086-89c3-145a88f8e93e.nl-ams-1.baremetal.scw.cloud
-42.123.243.83.in-addr.arpa
 55.33.203.35.bc.googleusercontent.com
 amz.unixwiz.net
-azpdcslejnig.stretchoid.com
-azpdsse1zlrx.stretchoid.com
-azpdsskf5buy.stretchoid.com
-azpdssle59pd.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -56,9 +51,7 @@ scan-53j.shadowserver.org
 scan-60-10.shadowserver.org
 scan-63-8.shadowserver.org
 scan-68-00.shadowserver.org
-scan-78-08.shadowserver.org
 scan-85-3.shadowserver.org
-scan-89-5.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
