@@ -22,6 +22,7 @@
 138.226.123.103.jnpl.jeebr.net
 141.243.23.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
+149635.ip-ptr.tech
 185-45-195-15.hostsailor.com
 191.34.117.30.dynamic.adsl.gvt.net.br
 204.76.203.30.ptr.pfcloud.network
@@ -62,6 +63,7 @@ scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.109.188.62.46.clients.your-server.de
 static.vnpt.vn
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
