@@ -59,6 +59,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-55c.shadowserver.org
+scan-83-7.shadowserver.org
+scan-85-3.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
