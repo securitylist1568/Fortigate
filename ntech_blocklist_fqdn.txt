@@ -21,6 +21,7 @@
 15.11.79.34.bc.googleusercontent.com
 157.100.199.104.bc.googleusercontent.com
 161.213.205.35.bc.googleusercontent.com
+172-104-62-136.ip.linodeusercontent.com
 18.213.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.26.155.104.bc.googleusercontent.com
@@ -34,6 +35,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler013.deepfield.net
+crawler149.deepfield.net
 crawler156.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -46,7 +48,6 @@ ip146.ip-15-204-133.us
 ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
-o073.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
