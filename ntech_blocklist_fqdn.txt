@@ -20,11 +20,13 @@
 122.151.34.34.bc.googleusercontent.com
 123-192-88-238.dynamic.kbronet.com.tw
 138.226.123.103.jnpl.jeebr.net
+141.243.23.34.bc.googleusercontent.com
 161.213.205.35.bc.googleusercontent.com
 170.241.143.34.bc.googleusercontent.com
 172-236-19-177.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.26.155.104.bc.googleusercontent.com
+191.34.117.30.dynamic.adsl.gvt.net.br
 195.229.78.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 206.180.22.34.bc.googleusercontent.com
