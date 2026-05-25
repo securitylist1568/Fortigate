@@ -22,6 +22,8 @@
 141.243.23.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149635.ip-ptr.tech
+160-119-76-31.ptr.as49870.net
+172-232-121-108.ip.linodeusercontent.com
 172-236-21-170.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 191.34.117.30.dynamic.adsl.gvt.net.br
@@ -38,7 +40,6 @@ home-rubbish.legendskit.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip92.ip-15-204-156.us
-li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -47,7 +48,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-63-8.shadowserver.org
-scan-68-00.shadowserver.org
 scan-85-3.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
@@ -55,6 +55,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.109.188.62.46.clients.your-server.de
 static.vnpt.vn
-user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
 vmi2662467.contaboserver.net
+zhangyuan3.virtuaserver.com.br
