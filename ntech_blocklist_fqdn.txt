@@ -26,13 +26,13 @@
 185-45-195-15.hostsailor.com
 187.26.155.104.bc.googleusercontent.com
 192.248.179.181.vultrusercontent.com
-195-154-41-69.rev.poneytelecom.eu
 195.229.78.34.bc.googleusercontent.com
 206.180.22.34.bc.googleusercontent.com
 45-79-130-82.ip.linodeusercontent.com
 45-79-162-167.ip.linodeusercontent.com
 5.237.189.35.bc.googleusercontent.com
 50-116-61-208.ip.linodeusercontent.com
+55.33.203.35.bc.googleusercontent.com
 57.235.78.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 74-50-97-90.static.hvvc.us
@@ -41,7 +41,6 @@
 98.14.240.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-b3dd31ae.virtua.com.br
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -60,7 +59,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
-mail.kaniskasoft.com
 mfyabgec.musicpda.com
 o056.scanner.modat.io
 o073.scanner.modat.io
