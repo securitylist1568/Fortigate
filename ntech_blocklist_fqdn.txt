@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+104.131.155.104.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -24,6 +25,7 @@
 204.76.203.30.ptr.pfcloud.network
 3ac1fc35-06ec-4086-89c3-145a88f8e93e.nl-ams-1.baremetal.scw.cloud
 42.123.243.83.in-addr.arpa
+55.33.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcslejnig.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
