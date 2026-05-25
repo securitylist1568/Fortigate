@@ -22,6 +22,7 @@
 141.243.23.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149635.ip-ptr.tech
+172-236-21-170.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 191.34.117.30.dynamic.adsl.gvt.net.br
 3ac1fc35-06ec-4086-89c3-145a88f8e93e.nl-ams-1.baremetal.scw.cloud
