@@ -23,6 +23,7 @@
 157.100.199.104.bc.googleusercontent.com
 161.213.205.35.bc.googleusercontent.com
 172-104-62-136.ip.linodeusercontent.com
+172-236-15-36.ip.linodeusercontent.com
 18.213.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.26.155.104.bc.googleusercontent.com
@@ -48,9 +49,11 @@ host81-130-193-251.in-addr.btopenworld.com
 htb-h9b8tjwfph.htb-cloud.com
 ip146.ip-15-204-133.us
 ip29.sudolio.io
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1537-121.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+ns3027750.ip-51-255-66.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
