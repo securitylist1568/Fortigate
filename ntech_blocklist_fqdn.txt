@@ -22,7 +22,6 @@
 138.226.123.103.jnpl.jeebr.net
 161.213.205.35.bc.googleusercontent.com
 170.241.143.34.bc.googleusercontent.com
-172-236-15-36.ip.linodeusercontent.com
 172-236-19-177.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.26.155.104.bc.googleusercontent.com
@@ -34,7 +33,6 @@
 5.237.189.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
-azpdcgngane9.stretchoid.com
 azpdcslejnig.stretchoid.com
 azpdsg25ie9q.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
@@ -60,16 +58,12 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-li1537-121.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
-ns3027750.ip-51-255-66.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41f.shadowserver.org
 scan-42i.shadowserver.org
 scan-53j.shadowserver.org
 scan-60-10.shadowserver.org
