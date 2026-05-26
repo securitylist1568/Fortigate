@@ -32,6 +32,7 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+252.65.205.35.bc.googleusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
