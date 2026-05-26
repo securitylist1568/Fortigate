@@ -21,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 141.243.23.34.bc.googleusercontent.com
 172-237-116-236.ip.linodeusercontent.com
-172-239-113-34.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 45-79-177-203.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -58,6 +57,7 @@ client.yota.ru
 crawler084.deepfield.net
 crawler090.deepfield.net
 crawler097.deepfield.net
+crawler098.deepfield.net
 crawler109.deepfield.net
 crawler135.deepfield.net
 crawler137.deepfield.net
@@ -68,6 +68,7 @@ crawler186.deepfield.net
 crawler198.deepfield.net
 crawler202.deepfield.net
 crawler224.deepfield.net
+crawler226.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -83,7 +84,6 @@ l609.scanner.modat.io
 l610.scanner.modat.io
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
-ns3027750.ip-51-255-66.eu
 o626.scanner.modat.io
 o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
