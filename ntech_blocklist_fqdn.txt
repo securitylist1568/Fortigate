@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 172-236-21-43.ip.linodeusercontent.com
+172-237-116-236.ip.linodeusercontent.com
 172-239-113-34.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 249.213.53.34.bc.googleusercontent.com
@@ -40,6 +41,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip146.ip-15-204-133.us
 ip29.sudolio.io
 l603.scanner.modat.io
+l610.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
