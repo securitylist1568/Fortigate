@@ -55,7 +55,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -76,6 +75,5 @@ sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.248.212.90.157.clients.your-server.de
-static.vnpt.vn
 users219.vip.heteml.jp
 webserver.ginno-tech.com
