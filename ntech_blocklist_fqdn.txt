@@ -63,6 +63,9 @@ crawler135.deepfield.net
 crawler137.deepfield.net
 crawler147.deepfield.net
 crawler151.deepfield.net
+crawler176.deepfield.net
+crawler186.deepfield.net
+crawler198.deepfield.net
 crawler202.deepfield.net
 crawler224.deepfield.net
 dal215.hawkhost.com
