@@ -73,7 +73,10 @@ recyber.net
 rootevidence.com
 scan-04i.shadowserver.org
 scan-06g.shadowserver.org
+scan-58a.shadowserver.org
+scan-60-10.shadowserver.org
 scan-67-1.shadowserver.org
+scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv20618.dus7.dedicated.server-hosting.expert
