@@ -20,7 +20,6 @@
 144.202.15.126.vultrusercontent.com
 160-119-76-31.ptr.as49870.net
 172-232-121-108.ip.linodeusercontent.com
-172-236-21-170.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
 55.33.203.35.bc.googleusercontent.com
