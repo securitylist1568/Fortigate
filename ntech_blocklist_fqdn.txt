@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
+144.92.74.97.host.secureserver.net
 175.71.193.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 97-107-131-250.ip.linodeusercontent.com
