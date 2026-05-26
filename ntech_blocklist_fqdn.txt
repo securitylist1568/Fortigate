@@ -56,11 +56,13 @@ azpdws28galu.stretchoid.com
 azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler003.deepfield.net
 crawler084.deepfield.net
 crawler090.deepfield.net
 crawler097.deepfield.net
 crawler098.deepfield.net
 crawler109.deepfield.net
+crawler112.deepfield.net
 crawler135.deepfield.net
 crawler137.deepfield.net
 crawler147.deepfield.net
