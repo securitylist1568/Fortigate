@@ -19,7 +19,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+138.226.123.103.jnpl.jeebr.net
 141.243.23.34.bc.googleusercontent.com
+1630262.cloudwaysapps.com
 172-237-116-236.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 45-79-177-203.ip.linodeusercontent.com
@@ -63,6 +65,7 @@ crawler135.deepfield.net
 crawler137.deepfield.net
 crawler147.deepfield.net
 crawler151.deepfield.net
+crawler160.deepfield.net
 crawler176.deepfield.net
 crawler186.deepfield.net
 crawler198.deepfield.net
@@ -77,6 +80,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip72.ip-54-36-18.eu
+ip92.ip-15-204-156.us
 l602.scanner.modat.io
 l603.scanner.modat.io
 l607.scanner.modat.io
