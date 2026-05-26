@@ -24,8 +24,6 @@
 23-168-136-153.rev.circlevps.net
 97-107-131-250.ip.linodeusercontent.com
 amz.unixwiz.net
-azpdcsguyw0e.stretchoid.com
-azpdsg56zpoo.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler003.deepfield.net
@@ -34,7 +32,6 @@ crawler057.deepfield.net
 crawler082.deepfield.net
 crawler097.deepfield.net
 crawler098.deepfield.net
-crawler109.deepfield.net
 crawler112.deepfield.net
 crawler135.deepfield.net
 crawler148.deepfield.net
@@ -46,6 +43,7 @@ crawler222.deepfield.net
 crawler226.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 ec2-18-234-210-139.compute-1.amazonaws.com
 ec2-3-81-230-20.compute-1.amazonaws.com
 ec2-3-89-103-169.compute-1.amazonaws.com
@@ -58,13 +56,11 @@ ec2-54-227-126-11.compute-1.amazonaws.com
 ec2-98-81-205-36.compute-1.amazonaws.com
 ec2-98-84-188-17.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-fwnvyxu.top
 hn.kd.ny.adsl
 host232.net162-226-38.enatrel.ni
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
-ip72.ip-54-36-18.eu
 ip92.ip-15-204-156.us
 l606.scanner.modat.io
 mfyabgec.musicpda.com
@@ -78,7 +74,4 @@ rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-210-83.datapacket.com
-user-45-131-70-129.led02.ru.misaka.io
-user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
