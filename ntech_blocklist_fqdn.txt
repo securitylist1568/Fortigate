@@ -68,11 +68,12 @@ scan-40g.shadowserver.org
 scan-58a.shadowserver.org
 scan-60-10.shadowserver.org
 scan-63-8.shadowserver.org
-scan-67-1.shadowserver.org
+scan-71-00.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.212.90.157.clients.your-server.de
 users219.vip.heteml.jp
 webserver.ginno-tech.com
