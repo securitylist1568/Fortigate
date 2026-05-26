@@ -35,6 +35,9 @@ azpdcgdroqxu.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
 azpdcslejnig.stretchoid.com
 azpdes7t6661.stretchoid.com
+azpdesdfn5lp.stretchoid.com
+azpdesxe24x7.stretchoid.com
+azpdsg1j90qs.stretchoid.com
 azpdsg25ie9q.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
@@ -57,6 +60,7 @@ crawler084.deepfield.net
 crawler090.deepfield.net
 crawler137.deepfield.net
 crawler147.deepfield.net
+crawler151.deepfield.net
 crawler202.deepfield.net
 crawler224.deepfield.net
 dal215.hawkhost.com
@@ -79,6 +83,10 @@ o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r4003.sin.opendns.com
+r4004.sin.opendns.com
+r4008.sin.opendns.com
+r4009.sin.opendns.com
 recyber.net
 rootevidence.com
 scan-12f.shadowserver.org
