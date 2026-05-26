@@ -20,12 +20,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 141.243.23.34.bc.googleusercontent.com
-172-236-21-43.ip.linodeusercontent.com
 172-237-116-236.ip.linodeusercontent.com
 172-239-113-34.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-36-228-81-113.dynamic-ip.hinet.net
-36-239-40-225.dynamic-ip.hinet.net
 45-79-177-203.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
@@ -60,7 +57,9 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler084.deepfield.net
 crawler090.deepfield.net
+crawler097.deepfield.net
 crawler109.deepfield.net
+crawler135.deepfield.net
 crawler137.deepfield.net
 crawler147.deepfield.net
 crawler151.deepfield.net
@@ -72,7 +71,6 @@ festa04.jcatransporte.com.br
 fwnvyxu.top
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip146.ip-15-204-133.us
 ip29.sudolio.io
 ip72.ip-54-36-18.eu
 l602.scanner.modat.io
@@ -94,7 +92,6 @@ r4008.sin.opendns.com
 r4009.sin.opendns.com
 recyber.net
 rootevidence.com
-scan-12f.shadowserver.org
 scan-13l.shadowserver.org
 scan-56f.shadowserver.org
 scan-58.security.ipip.net
@@ -112,6 +109,5 @@ static.248.92.78.5.clients.your-server.de
 unn-207-211-210-83.datapacket.com
 user-45-131-70-129.led02.ru.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
-user-45-142-244-217.lon07.gb.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
