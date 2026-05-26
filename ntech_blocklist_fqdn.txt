@@ -69,6 +69,7 @@ scan-58a.shadowserver.org
 scan-60-10.shadowserver.org
 scan-63-8.shadowserver.org
 scan-71-00.shadowserver.org
+scan-77-06.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 sharp.atid.cloud
