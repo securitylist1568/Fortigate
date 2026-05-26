@@ -19,10 +19,17 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.202.15.126.vultrusercontent.com
 160-119-76-31.ptr.as49870.net
+17.170.156.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
+241.178.38.34.bc.googleusercontent.com
+249.213.53.34.bc.googleusercontent.com
+252.65.205.35.bc.googleusercontent.com
+34.218.53.34.bc.googleusercontent.com
 55.33.203.35.bc.googleusercontent.com
+87.249.62.34.bc.googleusercontent.com
+93.107.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
