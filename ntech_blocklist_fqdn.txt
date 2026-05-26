@@ -17,14 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-180-22.dynamic-ip.hinet.net
-144.92.74.97.host.secureserver.net
-149635.ip-ptr.tech
 160-119-76-31.ptr.as49870.net
 172-232-121-108.ip.linodeusercontent.com
 172-236-21-170.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
+55.33.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -45,6 +43,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 home-rubbish.legendskit.com
 host81-130-193-251.in-addr.btopenworld.com
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -56,8 +55,6 @@ security.criminalip.com
 smtp1.telemach.net
 srv20618.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
-static.109.188.62.46.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
-vmi2662467.contaboserver.net
 zhangyuan3.virtuaserver.com.br
