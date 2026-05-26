@@ -54,6 +54,7 @@ azpdssw3j3o8.stretchoid.com
 azpdssya3d1q.stretchoid.com
 azpdws0frgb6.stretchoid.com
 azpdws28galu.stretchoid.com
+azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler084.deepfield.net
@@ -75,6 +76,7 @@ l603.scanner.modat.io
 l607.scanner.modat.io
 l609.scanner.modat.io
 l610.scanner.modat.io
+li1992-217.members.linode.com
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
 o618.scanner.modat.io
@@ -103,6 +105,7 @@ scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.92.78.5.clients.your-server.de
 user-45-142-244-217.lon07.gb.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
