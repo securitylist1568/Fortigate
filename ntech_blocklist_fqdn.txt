@@ -32,6 +32,10 @@
 45-79-177-203.ip.linodeusercontent.com
 amz.unixwiz.net
 andre.mccoy.lab.go4labs.net
+azpdcgmv4rzj.stretchoid.com
+azpdsgd9sbi1.stretchoid.com
+azpdss9nwu1g.stretchoid.com
+azpdsshab2op.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -43,6 +47,7 @@ ip146.ip-15-204-133.us
 ip29.sudolio.io
 l602.scanner.modat.io
 l603.scanner.modat.io
+l609.scanner.modat.io
 l610.scanner.modat.io
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
