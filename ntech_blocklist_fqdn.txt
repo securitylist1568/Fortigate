@@ -24,6 +24,7 @@
 175.71.193.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 45-79-177-203.ip.linodeusercontent.com
+97-107-131-250.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
@@ -56,6 +57,7 @@ azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler003.deepfield.net
+crawler016.deepfield.net
 crawler082.deepfield.net
 crawler084.deepfield.net
 crawler090.deepfield.net
