@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+144.202.15.126.vultrusercontent.com
 160-119-76-31.ptr.as49870.net
 172-232-121-108.ip.linodeusercontent.com
 172-236-21-170.ip.linodeusercontent.com
@@ -51,10 +52,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-06g.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv20618.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.212.90.157.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
 zhangyuan3.virtuaserver.com.br
