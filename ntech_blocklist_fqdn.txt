@@ -1,6 +1,5 @@
 1-171-21-180.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
-103.197.185.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,8 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-138.188.62.34.bc.googleusercontent.com
-141.243.23.34.bc.googleusercontent.com
 172-236-21-43.ip.linodeusercontent.com
 172-237-105-132.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,8 +26,6 @@
 36-228-81-113.dynamic-ip.hinet.net
 36-239-40-225.dynamic-ip.hinet.net
 59-120-121-145.hinet-ip.hinet.net
-77.233.53.34.bc.googleusercontent.com
-94.183.156.34.bc.googleusercontent.com
 amz.unixwiz.net
 andre.mccoy.lab.go4labs.net
 b2.org.afilias-nst.org
@@ -50,13 +45,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-12f.shadowserver.org
 scan-40g.shadowserver.org
 scan-45o.shadowserver.org
 scan-63-8.shadowserver.org
 scan-71-00.shadowserver.org
 scan-77-06.shadowserver.org
 security.criminalip.com
-sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.248.212.90.157.clients.your-server.de
