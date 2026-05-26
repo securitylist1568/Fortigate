@@ -52,19 +52,8 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
-ec2-100-53-78-176.compute-1.amazonaws.com
-ec2-13-222-161-63.compute-1.amazonaws.com
-ec2-13-222-169-249.compute-1.amazonaws.com
-ec2-3-92-182-111.compute-1.amazonaws.com
-ec2-35-171-19-100.compute-1.amazonaws.com
-ec2-44-204-45-238.compute-1.amazonaws.com
-ec2-54-242-125-209.compute-1.amazonaws.com
-ec2-98-88-17-26.compute-1.amazonaws.com
-ec2-98-93-67-8.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host81-130-193-251.in-addr.btopenworld.com
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -83,7 +72,6 @@ scan-87-7.shadowserver.org
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
-srv20618.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.248.212.90.157.clients.your-server.de
 static.vnpt.vn
