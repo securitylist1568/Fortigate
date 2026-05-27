@@ -19,16 +19,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 139-162-161-95.ip.linodeusercontent.com
-151.82.79.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-192.121.148.146.bc.googleusercontent.com
-241.252.241.35.bc.googleusercontent.com
 45-33-74-83.ip.linodeusercontent.com
-49.204.117.93.actcorp.in
-65.207.195.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
-76.14.155.104.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 c1vhosting.it
@@ -40,7 +34,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o618.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
@@ -50,7 +43,6 @@ rootevidence.com
 scan-15k.shadowserver.org
 scan-40g.shadowserver.org
 scan-45o.shadowserver.org
-scan-56.security.ipip.net
 scan-60-10.shadowserver.org
 scan-63-8.shadowserver.org
 scan-71-00.shadowserver.org
