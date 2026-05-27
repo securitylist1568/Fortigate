@@ -20,6 +20,8 @@
 139-162-161-95.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 208-115-124-234-reverse.wowrack.com
+216-244-76-122-reverse.wowrack.com
+216-244-77-138-reverse.wowrack.com
 216-244-78-170-reverse.wowrack.com
 216-244-78-26-reverse.wowrack.com
 216.244.78.106-reverse.wowrack.com
