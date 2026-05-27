@@ -24,10 +24,19 @@
 216-244-77-138-reverse.wowrack.com
 216-244-78-170-reverse.wowrack.com
 216-244-78-26-reverse.wowrack.com
+216-244-80-66-reverse.wowrack.com
 216.244.78.106-reverse.wowrack.com
+216.244.78.250-reverse.wowrack.com
 45-33-74-83.ip.linodeusercontent.com
 74-50-97-90.static.hvvc.us
 amz.unixwiz.net
+azpdsg6fplrv.stretchoid.com
+azpdsgbfmbi3.stretchoid.com
+azpdsgebcoxy.stretchoid.com
+azpdssc7ge2h.stretchoid.com
+azpdsszhqwse.stretchoid.com
+azpdwscoks7c.stretchoid.com
+azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 c3239bbd.static.ziggozakelijk.nl
 client.yota.ru
@@ -48,6 +57,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rogers.probe.onyphe.net
 rootevidence.com
 scan-15k.shadowserver.org
 scan-60-10.shadowserver.org
