@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 104.131.155.104.bc.googleusercontent.com
+104.83.175.207.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,11 +21,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 125.200.58.2.us.kuroit.com
 144.92.74.97.host.secureserver.net
+151.82.79.34.bc.googleusercontent.com
+152-193-115-208.static.reverse.lstn.net
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.121.148.146.bc.googleusercontent.com
 226.158.156.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
+241.252.241.35.bc.googleusercontent.com
 39.165.52.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 65.207.195.35.bc.googleusercontent.com
@@ -33,7 +37,6 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler057.deepfield.net
 crawler148.deepfield.net
 crawler222.deepfield.net
 dal215.hawkhost.com
@@ -59,8 +62,9 @@ ip29.sudolio.io
 l603.scanner.modat.io
 l606.scanner.modat.io
 mfyabgec.musicpda.com
+n12531z0l18.static.ctmip.net
 o009.scanner.modat.io
-o626.scanner.modat.io
+o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
