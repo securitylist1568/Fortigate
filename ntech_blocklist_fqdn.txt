@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 143-14-200-130.static.visperhost.net
 149635.ip-ptr.tech
+151.82.79.34.bc.googleusercontent.com
 161.207.53.34.bc.googleusercontent.com
 175.249.53.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
