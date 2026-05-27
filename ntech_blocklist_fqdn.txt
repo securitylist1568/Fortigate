@@ -61,6 +61,7 @@ ip-49-142.web1.bg
 ip29.sudolio.io
 l603.scanner.modat.io
 l606.scanner.modat.io
+l610.scanner.modat.io
 mfyabgec.musicpda.com
 n12531z0l18.static.ctmip.net
 o009.scanner.modat.io
@@ -69,7 +70,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13n.shadowserver.org
 scan-70-00.shadowserver.org
+scan-77-06.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
