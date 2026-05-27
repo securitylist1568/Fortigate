@@ -19,13 +19,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-125.200.58.2.us.kuroit.com
 143-14-200-130.static.visperhost.net
 149635.ip-ptr.tech
 151.82.79.34.bc.googleusercontent.com
 152-193-115-208.static.reverse.lstn.net
 161.207.53.34.bc.googleusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 175.249.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.121.148.146.bc.googleusercontent.com
@@ -33,7 +31,6 @@
 241.252.241.35.bc.googleusercontent.com
 300b2485d0.research-scanner.com
 39.165.52.34.bc.googleusercontent.com
-62-210-125-62.rev.poneytelecom.eu
 65.207.195.35.bc.googleusercontent.com
 76.14.155.104.bc.googleusercontent.com
 amz.unixwiz.net
@@ -67,8 +64,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 syn-047-044-133-066.biz.spectrum.com
-trafo.kz
-user-185-234-213-135.zrh01.ch.misaka.io
-user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
