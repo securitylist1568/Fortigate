@@ -62,10 +62,12 @@ ip29.sudolio.io
 l603.scanner.modat.io
 l606.scanner.modat.io
 l610.scanner.modat.io
+lisbon.portugal.com
 mfyabgec.musicpda.com
 n12531z0l18.static.ctmip.net
 o009.scanner.modat.io
 o068.scanner.modat.io
+o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
