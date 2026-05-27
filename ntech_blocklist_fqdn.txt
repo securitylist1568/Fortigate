@@ -91,7 +91,6 @@ ip-49-174.4vendeta.com
 ip124.ip-5-135-12.eu
 ip146.ip-15-204-133.us
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
 pc112.cses.ilc.edu.tw
@@ -111,4 +110,3 @@ user-185-209-85-233.mow01.ru.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
-vmi3269543.contaboserver.net
