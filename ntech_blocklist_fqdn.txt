@@ -25,13 +25,10 @@
 23-168-136-153.rev.circlevps.net
 62-210-125-62.rev.poneytelecom.eu
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-97-107-131-250.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler016.deepfield.net
 crawler057.deepfield.net
-crawler082.deepfield.net
 crawler148.deepfield.net
 crawler222.deepfield.net
 dal215.hawkhost.com
@@ -63,7 +60,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-70-00.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
