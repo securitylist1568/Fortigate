@@ -28,6 +28,7 @@
 216.244.78.106-reverse.wowrack.com
 216.244.78.250-reverse.wowrack.com
 56.114.228.35.bc.googleusercontent.com
+70.111.228.8.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
 azpdesdfn5lp.stretchoid.com
@@ -68,6 +69,7 @@ c3239bbd.static.ziggozakelijk.nl
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-119-8-125-234.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -94,6 +96,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
+user-170-39-227-251.sea02.us.misaka.io
 user-185-209-85-233.mow01.ru.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
