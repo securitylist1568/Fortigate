@@ -47,6 +47,7 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-15k.shadowserver.org
 scan-40g.shadowserver.org
 scan-45o.shadowserver.org
 scan-56.security.ipip.net
@@ -60,6 +61,7 @@ scan-78-08.shadowserver.org
 scan-84-0.shadowserver.org
 scan-88-6.shadowserver.org
 scan-89-5.shadowserver.org
+scan.f6.security
 security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-32.serveroffer.net
