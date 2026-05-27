@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 208-115-124-234-reverse.wowrack.com
+211.134.93.34.bc.googleusercontent.com
 216-244-76-122-reverse.wowrack.com
 216-244-77-138-reverse.wowrack.com
 216-244-78-170-reverse.wowrack.com
@@ -39,10 +40,15 @@ azpdsgbfmbi3.stretchoid.com
 azpdsgbhg8mp.stretchoid.com
 azpdsgebcoxy.stretchoid.com
 azpdsgens699.stretchoid.com
+azpdsghq7jpi.stretchoid.com
 azpdsgigumtz.stretchoid.com
 azpdsgimpili.stretchoid.com
+azpdsgqi8wxn.stretchoid.com
 azpdsgqpucw1.stretchoid.com
 azpdsgrvz4jx.stretchoid.com
+azpdss2sy749.stretchoid.com
+azpdss797c8p.stretchoid.com
+azpdssbshtjx.stretchoid.com
 azpdssc7ge2h.stretchoid.com
 azpdssfkcbom.stretchoid.com
 azpdsskp8muf.stretchoid.com
@@ -80,6 +86,7 @@ recyber.net
 rogers.probe.onyphe.net
 scan-15k.shadowserver.org
 scan-60-10.shadowserver.org
+scan-60.security.ipip.net
 scan-77-06.shadowserver.org
 scan-84-0.shadowserver.org
 scan.f6.security
