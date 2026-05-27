@@ -24,6 +24,7 @@
 151.82.79.34.bc.googleusercontent.com
 152-193-115-208.static.reverse.lstn.net
 172-233-89-133.ip.linodeusercontent.com
+175.249.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.121.148.146.bc.googleusercontent.com
 226.158.156.34.bc.googleusercontent.com
@@ -73,6 +74,7 @@ recyber.net
 scan-13n.shadowserver.org
 scan-70-00.shadowserver.org
 scan-77-06.shadowserver.org
+scan-84-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
