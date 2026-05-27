@@ -53,6 +53,7 @@ n12531z0l18.static.ctmip.net
 new-ubuntu20223240.aspadmin.net
 o068.scanner.modat.io
 o626.scanner.modat.io
+o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
