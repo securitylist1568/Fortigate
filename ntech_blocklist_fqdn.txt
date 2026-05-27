@@ -20,19 +20,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 143-14-200-130.static.visperhost.net
 149635.ip-ptr.tech
-151.82.79.34.bc.googleusercontent.com
-152-193-115-208.static.reverse.lstn.net
 161.207.53.34.bc.googleusercontent.com
 175.249.53.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-192.121.148.146.bc.googleusercontent.com
-226.158.156.34.bc.googleusercontent.com
-241.252.241.35.bc.googleusercontent.com
 300b2485d0.research-scanner.com
-39.165.52.34.bc.googleusercontent.com
-65.207.195.35.bc.googleusercontent.com
-76.14.155.104.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 c3239bbd.static.ziggozakelijk.nl
@@ -48,7 +40,6 @@ l607.scanner.modat.io
 l610.scanner.modat.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
-n12531z0l18.static.ctmip.net
 new-ubuntu20223240.aspadmin.net
 o068.scanner.modat.io
 o626.scanner.modat.io
