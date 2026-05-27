@@ -31,17 +31,10 @@ crawler003.deepfield.net
 crawler016.deepfield.net
 crawler057.deepfield.net
 crawler082.deepfield.net
-crawler097.deepfield.net
-crawler098.deepfield.net
 crawler112.deepfield.net
-crawler135.deepfield.net
 crawler148.deepfield.net
 crawler160.deepfield.net
-crawler176.deepfield.net
-crawler186.deepfield.net
-crawler198.deepfield.net
 crawler222.deepfield.net
-crawler226.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
