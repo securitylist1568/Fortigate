@@ -24,6 +24,7 @@
 152-193-115-208.static.reverse.lstn.net
 161.207.53.34.bc.googleusercontent.com
 175.249.53.34.bc.googleusercontent.com
+176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.121.148.146.bc.googleusercontent.com
 226.158.156.34.bc.googleusercontent.com
@@ -57,6 +58,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13n.shadowserver.org
+scan-15i.shadowserver.org
 scan-43h.shadowserver.org
 scan-77-06.shadowserver.org
 scan-84-0.shadowserver.org
@@ -64,5 +66,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 syn-047-044-133-066.biz.spectrum.com
+user-170-39-225-147.mci01.us.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
