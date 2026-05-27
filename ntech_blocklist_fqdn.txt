@@ -25,20 +25,19 @@
 74-50-97-90.static.hvvc.us
 amz.unixwiz.net
 b2.org.afilias-nst.org
-c1vhosting.it
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip124.ip-5-135-12.eu
 ip146.ip-15-204-133.us
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -46,7 +45,6 @@ scan-15k.shadowserver.org
 scan-45o.shadowserver.org
 scan-60-10.shadowserver.org
 scan-71-00.shadowserver.org
-scan-74-02.shadowserver.org
 scan-77-06.shadowserver.org
 scan-78-08.shadowserver.org
 scan-84-0.shadowserver.org
@@ -57,7 +55,6 @@ security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-32.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 user-185-209-85-233.mow01.ru.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
