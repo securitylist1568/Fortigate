@@ -30,7 +30,6 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 c1vhosting.it
-c3239bbd.static.ziggozakelijk.nl
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -42,7 +41,6 @@ l600.scanner.modat.io
 l607.scanner.modat.io
 mfyabgec.musicpda.com
 o618.scanner.modat.io
-o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
@@ -56,7 +54,7 @@ scan-63-8.shadowserver.org
 scan-74-02.shadowserver.org
 scan-76-02.shadowserver.org
 scan-78-08.shadowserver.org
-security.criminalip.com
+scan-88-6.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
