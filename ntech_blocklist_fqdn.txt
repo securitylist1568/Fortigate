@@ -34,6 +34,7 @@
 20.149.216.162.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
+228.150.216.162.bc.googleusercontent.com
 45-79-181-199.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 62-210-125-62.rev.poneytelecom.eu
@@ -45,6 +46,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler094.deepfield.net
+customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
