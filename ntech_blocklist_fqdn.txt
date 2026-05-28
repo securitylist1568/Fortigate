@@ -30,7 +30,6 @@
 152.17.240.35.bc.googleusercontent.com
 165.255.156.34.bc.googleusercontent.com
 167.101.155.104.bc.googleusercontent.com
-167.177.64.34.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -42,7 +41,6 @@
 204.76.203.30.ptr.pfcloud.network
 213-170-135-11.as212027.host
 224.149.216.162.bc.googleusercontent.com
-227.150.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
@@ -52,13 +50,13 @@
 5.161.155.34.bc.googleusercontent.com
 50-116-55-15.ip.linodeusercontent.com
 52.212.195.35.bc.googleusercontent.com
+62.150.216.162.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 82.150.216.162.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
-85.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 99.92.62.34.bc.googleusercontent.com
 adventure.yatano.com
@@ -71,10 +69,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip92.ip-15-204-156.us
 mfyabgec.musicpda.com
-mx3.mwsmtp.com
 ns3128846.ip-54-38-92.eu
+o616.scanner.modat.io
+o617.scanner.modat.io
+o624.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pinkytales.com
