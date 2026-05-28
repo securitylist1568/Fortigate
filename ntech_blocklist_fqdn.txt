@@ -21,6 +21,7 @@
 115.149.216.162.bc.googleusercontent.com
 115.88.26.94.tbc.bg
 118.149.216.162.bc.googleusercontent.com
+134.92.118.136.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 162-216-18-219.ip.linodeusercontent.com
 167.149.216.162.bc.googleusercontent.com
@@ -77,6 +78,7 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 static.203-174-22-152.hostbet.in
+static.vnpt.vn
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
