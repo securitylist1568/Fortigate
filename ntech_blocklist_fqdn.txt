@@ -64,6 +64,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+l604.scanner.modat.io
 mfyabgec.musicpda.com
 ns3128846.ip-54-38-92.eu
 o616.scanner.modat.io
@@ -82,6 +83,7 @@ scan-79-08.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+srv-185-169-4-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
