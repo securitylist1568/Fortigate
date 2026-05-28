@@ -30,7 +30,6 @@
 216-244-76-122-reverse.wowrack.com
 216-244-77-138-reverse.wowrack.com
 216-244-78-170-reverse.wowrack.com
-216-244-78-26-reverse.wowrack.com
 216-244-80-66-reverse.wowrack.com
 216.244.78.106-reverse.wowrack.com
 216.244.78.250-reverse.wowrack.com
@@ -43,6 +42,7 @@
 50-116-55-15.ip.linodeusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 56.114.228.35.bc.googleusercontent.com
+68.149.216.162.bc.googleusercontent.com
 70.111.228.8.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
@@ -83,7 +83,6 @@ azpdwsayyn3f.stretchoid.com
 azpdwscoks7c.stretchoid.com
 azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
-c3239bbd.static.ziggozakelijk.nl
 church.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
@@ -103,7 +102,6 @@ ecs-119-8-125-234.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-174.4vendeta.com
 ip29.sudolio.io
 ip92.ip-15-204-156.us
 mfyabgec.musicpda.com
