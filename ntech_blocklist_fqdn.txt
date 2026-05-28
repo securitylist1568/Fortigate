@@ -27,6 +27,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 165.255.156.34.bc.googleusercontent.com
 167.101.155.104.bc.googleusercontent.com
+168.149.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
@@ -50,6 +51,7 @@
 80.210.203.35.bc.googleusercontent.com
 82.150.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
+94.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -68,6 +70,7 @@ o616.scanner.modat.io
 o617.scanner.modat.io
 o624.scanner.modat.io
 o626.scanner.modat.io
+o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
