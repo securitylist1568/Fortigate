@@ -21,8 +21,6 @@
 115.149.216.162.bc.googleusercontent.com
 115.88.26.94.tbc.bg
 118.149.216.162.bc.googleusercontent.com
-123.210.203.35.bc.googleusercontent.com
-14.150.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 162-216-18-219.ip.linodeusercontent.com
 167.149.216.162.bc.googleusercontent.com
@@ -34,18 +32,15 @@
 194-195-122-95.ip.linodeusercontent.com
 198-46-200-132-host.colocrossing.com
 20.149.216.162.bc.googleusercontent.com
-205.149.216.162.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
-214.149.216.162.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
 45-79-181-199.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 66-175-215-134.ip.linodeusercontent.com
-69-164-212-166.ip.linodeusercontent.com
 70.111.228.8.bc.googleusercontent.com
-76.211.203.35.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
+87.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -70,7 +65,6 @@ radamelfalcao.xyz
 recyber.net
 robbins.nextsteer.org.uk
 rootevidence.com
-scan-12f.shadowserver.org
 scan-13n.shadowserver.org
 scan-63-8.shadowserver.org
 scan-76-02.shadowserver.org
