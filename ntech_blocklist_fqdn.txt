@@ -26,6 +26,7 @@
 125.211.203.35.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 152.17.240.35.bc.googleusercontent.com
+159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 167.101.155.104.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
@@ -69,6 +70,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-14h.shadowserver.org
 scan-42i.shadowserver.org
 scan-61-4.shadowserver.org
