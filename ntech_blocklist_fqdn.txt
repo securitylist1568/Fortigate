@@ -25,8 +25,6 @@
 125.149.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 127.253.156.34.bc.googleusercontent.com
-138.226.123.103.jnpl.jeebr.net
-144.210.203.35.bc.googleusercontent.com
 152.17.240.35.bc.googleusercontent.com
 165.255.156.34.bc.googleusercontent.com
 167.101.155.104.bc.googleusercontent.com
@@ -36,9 +34,9 @@
 185.9.175.207.bc.googleusercontent.com
 186.210.203.35.bc.googleusercontent.com
 188x187x122x10.dynamic.spb.ertelecom.ru
-194.149.216.162.bc.googleusercontent.com
 198-74-58-175.ip.linodeusercontent.com
 20.118.240.35.bc.googleusercontent.com
+213-170-135-11.as212027.host
 227.150.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
@@ -46,7 +44,6 @@
 246.211.203.35.bc.googleusercontent.com
 250.15.233.35.bc.googleusercontent.com
 45.77.153.170.vultrusercontent.com
-47.149.216.162.bc.googleusercontent.com
 5.161.155.34.bc.googleusercontent.com
 50-116-55-15.ip.linodeusercontent.com
 52.212.195.35.bc.googleusercontent.com
@@ -58,7 +55,6 @@
 83.150.216.162.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
-99.150.216.162.bc.googleusercontent.com
 99.92.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -83,6 +79,7 @@ scan-02m.shadowserver.org
 scan-14h.shadowserver.org
 scan-75-05.shadowserver.org
 scan-76-03.shadowserver.org
+scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
