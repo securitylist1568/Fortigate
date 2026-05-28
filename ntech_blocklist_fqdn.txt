@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+103-112-0-32.oneqode.net
 105.221.62.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -30,6 +31,7 @@
 165.255.156.34.bc.googleusercontent.com
 167.101.155.104.bc.googleusercontent.com
 167.177.64.34.bc.googleusercontent.com
+168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.9.175.207.bc.googleusercontent.com
 186.210.203.35.bc.googleusercontent.com
@@ -50,6 +52,7 @@
 52.212.195.35.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
+79.210.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 82.150.216.162.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
