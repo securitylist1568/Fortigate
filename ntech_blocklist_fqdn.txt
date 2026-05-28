@@ -26,6 +26,7 @@
 162-216-18-219.ip.linodeusercontent.com
 167.149.216.162.bc.googleusercontent.com
 172-104-214-169.ip.linodeusercontent.com
+176.65.148.183.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 198-46-200-132-host.colocrossing.com
@@ -36,7 +37,9 @@
 45-79-181-199.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 48.211.203.35.bc.googleusercontent.com
+6.150.216.162.bc.googleusercontent.com
 62-210-136-16.rev.poneytelecom.eu
+75.150.216.162.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
