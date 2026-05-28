@@ -36,6 +36,7 @@
 45-79-181-199.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 48.211.203.35.bc.googleusercontent.com
+62-210-136-16.rev.poneytelecom.eu
 79.211.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -54,6 +55,7 @@ l601.scanner.modat.io
 l608.scanner.modat.io
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
+ns3027750.ip-51-255-66.eu
 ns574789.ip-51-222-40.net
 o064.scanner.modat.io
 o068.scanner.modat.io
