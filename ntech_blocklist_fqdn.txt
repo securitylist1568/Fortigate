@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.88.26.94.tbc.bg
+121.150.216.162.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 127.253.156.34.bc.googleusercontent.com
@@ -48,6 +49,7 @@
 52.212.195.35.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
+80.210.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
