@@ -20,13 +20,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.150.216.162.bc.googleusercontent.com
-125.149.216.162.bc.googleusercontent.com
 125.211.203.35.bc.googleusercontent.com
 127.253.156.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 165.255.156.34.bc.googleusercontent.com
-167.101.155.104.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
@@ -40,7 +37,6 @@
 220-136-202-108.dynamic-ip.hinet.net
 224.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
-237.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
@@ -48,8 +44,6 @@
 52.212.195.35.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
-80.210.203.35.bc.googleusercontent.com
-82.150.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 94.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
@@ -64,10 +58,12 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l604.scanner.modat.io
+l606.scanner.modat.io
 mfyabgec.musicpda.com
 o608.scanner.modat.io
 o616.scanner.modat.io
 o617.scanner.modat.io
+o618.scanner.modat.io
 o624.scanner.modat.io
 o626.scanner.modat.io
 o628.scanner.modat.io
@@ -76,9 +72,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-04c.shadowserver.org
 scan-42i.shadowserver.org
 scan-61-4.shadowserver.org
 scan-79-08.shadowserver.org
+scan-87-7.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
