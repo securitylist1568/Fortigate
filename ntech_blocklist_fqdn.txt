@@ -34,6 +34,7 @@
 204.76.203.30.ptr.pfcloud.network
 205.149.216.162.bc.googleusercontent.com
 213-170-135-11.as212027.host
+214.149.216.162.bc.googleusercontent.com
 220-136-202-108.dynamic-ip.hinet.net
 224.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
@@ -45,6 +46,7 @@
 59.150.216.162.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
 69-164-212-166.ip.linodeusercontent.com
+76.211.203.35.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 94.149.216.162.bc.googleusercontent.com
