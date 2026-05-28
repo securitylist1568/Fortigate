@@ -24,6 +24,7 @@
 123.210.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
+162-216-18-219.ip.linodeusercontent.com
 167.149.216.162.bc.googleusercontent.com
 167.177.64.34.bc.googleusercontent.com
 172-104-214-169.ip.linodeusercontent.com
@@ -37,14 +38,14 @@
 209.150.216.162.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
-59.150.216.162.bc.googleusercontent.com
+45-79-181-199.ip.linodeusercontent.com
+45-79-184-131.ip.linodeusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 66-175-215-134.ip.linodeusercontent.com
 69-164-212-166.ip.linodeusercontent.com
 70.111.228.8.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
-84.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -58,6 +59,8 @@ ip236.ip-5-135-71.eu
 ip29.sudolio.io
 l605.scanner.modat.io
 mfyabgec.musicpda.com
+niall.probe.onyphe.net
+ns574789.ip-51-222-40.net
 o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -72,10 +75,11 @@ scan-63-8.shadowserver.org
 scan-76-02.shadowserver.org
 scan-81-7.shadowserver.org
 scan-84-0.shadowserver.org
-scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.185-165-44-168.rackgenius.com
 static.203-174-22-152.hostbet.in
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
+virginia.probe.onyphe.net
