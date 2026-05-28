@@ -26,6 +26,7 @@
 165.255.156.34.bc.googleusercontent.com
 167.177.64.34.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
+176.149.216.162.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.9.175.207.bc.googleusercontent.com
@@ -70,6 +71,7 @@ rootevidence.com
 scan-04c.shadowserver.org
 scan-12f.shadowserver.org
 scan-42i.shadowserver.org
+scan-63-8.shadowserver.org
 scan-81-7.shadowserver.org
 scan-84-0.shadowserver.org
 scan-87-7.shadowserver.org
