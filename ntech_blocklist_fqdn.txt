@@ -67,6 +67,7 @@ ip29.sudolio.io
 l604.scanner.modat.io
 mfyabgec.musicpda.com
 ns3128846.ip-54-38-92.eu
+o608.scanner.modat.io
 o616.scanner.modat.io
 o617.scanner.modat.io
 o624.scanner.modat.io
