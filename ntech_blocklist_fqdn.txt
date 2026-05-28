@@ -25,7 +25,6 @@
 144.210.203.35.bc.googleusercontent.com
 162-216-18-219.ip.linodeusercontent.com
 167.149.216.162.bc.googleusercontent.com
-167.177.64.34.bc.googleusercontent.com
 172-104-214-169.ip.linodeusercontent.com
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -33,14 +32,15 @@
 194-195-122-95.ip.linodeusercontent.com
 198-46-200-132-host.colocrossing.com
 20.149.216.162.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 209.150.216.162.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
+229.149.216.162.bc.googleusercontent.com
 45-79-181-199.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 66-175-215-134.ip.linodeusercontent.com
-70.111.228.8.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -56,7 +56,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 l601.scanner.modat.io
-l605.scanner.modat.io
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 ns574789.ip-51-222-40.net
@@ -66,12 +65,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-robbins.nextsteer.org.uk
 rootevidence.com
 scan-13n.shadowserver.org
 scan-63-8.shadowserver.org
 scan-76-02.shadowserver.org
-scan-81-7.shadowserver.org
 scan-84-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
