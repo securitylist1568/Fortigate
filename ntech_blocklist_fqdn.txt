@@ -44,6 +44,7 @@
 52.212.195.35.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
+84.150.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 94.149.216.162.bc.googleusercontent.com
 adventure.yatano.com
