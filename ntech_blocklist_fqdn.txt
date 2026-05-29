@@ -29,10 +29,12 @@
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-73.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+177.149.216.162.bc.googleusercontent.com
 180-90-248-38.static.reverse.lstn.net
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 201.121.162.34.bc.googleusercontent.com
+215.100.147.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 231.250.53.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
@@ -41,6 +43,7 @@
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
+45-79-184-121.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 56.210.203.35.bc.googleusercontent.com
@@ -69,6 +72,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-02k.shadowserver.org
 scan-15k.shadowserver.org
 scan-41m.shadowserver.org
 scan-86-0.shadowserver.org
