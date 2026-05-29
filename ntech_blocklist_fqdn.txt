@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-11.187.78.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.39.14.34.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
+123-192-192-244.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 131.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
@@ -28,20 +28,14 @@
 167.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 168.150.216.162.bc.googleusercontent.com
-177.149.216.162.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
-208.150.216.162.bc.googleusercontent.com
-215.100.147.34.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 231.250.53.34.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
-45-79-184-121.ip.linodeusercontent.com
 47.150.216.162.bc.googleusercontent.com
-53.202.22.34.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
-61.42.175.207.bc.googleusercontent.com
 77.39.185.35.bc.googleusercontent.com
 84.219.195.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -63,8 +57,6 @@ r2002.compute.pao1.edc.strln.net
 r4.ams.opendns.com
 recyber.net
 robbins.nextsteer.org.uk
-rootevidence.com
-scan-02k.shadowserver.org
 scan-05j.shadowserver.org
 scan-09n.shadowserver.org
 scan-53j.shadowserver.org
