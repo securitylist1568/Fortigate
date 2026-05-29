@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111.39.14.34.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
 123-192-192-244.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
@@ -27,20 +26,14 @@
 144.92.74.97.host.secureserver.net
 153.149.216.162.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
-167.211.203.35.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 168.150.216.162.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.254.105.240-clientes-zap-izzi.mx
 188.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
-231.250.53.34.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
-56.211.203.35.bc.googleusercontent.com
-77.39.185.35.bc.googleusercontent.com
-84.219.195.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 c1vhosting.it
@@ -62,7 +55,6 @@ r4.ams.opendns.com
 recyber.net
 robbins.nextsteer.org.uk
 scan-05j.shadowserver.org
-scan-09n.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-2.shadowserver.org
