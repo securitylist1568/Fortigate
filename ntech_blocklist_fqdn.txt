@@ -21,6 +21,7 @@
 123-192-192-244.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
+129.150.216.162.bc.googleusercontent.com
 131.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 153.149.216.162.bc.googleusercontent.com
@@ -37,6 +38,7 @@
 241.126.244.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
+62-210-125-62.rev.poneytelecom.eu
 66.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 67.210.203.35.bc.googleusercontent.com
@@ -65,10 +67,6 @@ scan-53j.shadowserver.org
 scan-61-7.shadowserver.org
 scan-63-2.shadowserver.org
 scan-67-1.shadowserver.org
-scan-74-07.shadowserver.org
-scan-78-08.shadowserver.org
-scan-85-0.shadowserver.org
-scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
