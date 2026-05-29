@@ -20,10 +20,10 @@
 113.150.216.162.bc.googleusercontent.com
 12.210.203.35.bc.googleusercontent.com
 134.92.118.136.bc.googleusercontent.com
+138.149.216.162.bc.googleusercontent.com
 162-216-18-219.ip.linodeusercontent.com
 176.65.148.183.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-198-46-200-132-host.colocrossing.com
 204.211.203.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 217.210.203.35.bc.googleusercontent.com
@@ -37,12 +37,10 @@
 62-210-136-16.rev.poneytelecom.eu
 75.150.216.162.bc.googleusercontent.com
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
-79.211.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler094.deepfield.net
 customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -50,13 +48,13 @@ dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip124.ip-5-135-12.eu
 ip29.sudolio.io
 l601.scanner.modat.io
 l608.scanner.modat.io
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 ns3027750.ip-51-255-66.eu
-ns574789.ip-51-222-40.net
 o064.scanner.modat.io
 o068.scanner.modat.io
 o305.scanner.modat.io
@@ -66,7 +64,6 @@ o608.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-radamelfalcao.xyz
 recyber.net
 rootevidence.com
 security.criminalip.com
@@ -77,4 +74,3 @@ static.185-165-44-168.rackgenius.com
 static.vnpt.vn
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
-virginia.probe.onyphe.net
