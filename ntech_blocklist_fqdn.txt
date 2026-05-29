@@ -141,4 +141,5 @@ scan-86-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.248.92.78.5.clients.your-server.de
 users219.vip.heteml.jp
