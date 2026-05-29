@@ -22,8 +22,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.39.14.34.bc.googleusercontent.com
-113.150.216.162.bc.googleusercontent.com
-12.210.203.35.bc.googleusercontent.com
 136.3.74.34.bc.googleusercontent.com
 138.149.216.162.bc.googleusercontent.com
 143-42-1-44.ip.linodeusercontent.com
@@ -42,11 +40,11 @@
 180-90-248-38.static.reverse.lstn.net
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-204.211.203.35.bc.googleusercontent.com
 217.210.203.35.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
 224.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+231.250.53.34.bc.googleusercontent.com
 247.124.101.34.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -131,12 +129,6 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
-o064.scanner.modat.io
-o068.scanner.modat.io
-o305.scanner.modat.io
-o320.scanner.modat.io
-o352.scanner.modat.io
-o608.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -148,7 +140,5 @@ scan-69-05.shadowserver.org
 scan-86-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
-srv-185-169-4-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
