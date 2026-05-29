@@ -26,9 +26,11 @@
 185-45-195-15.hostsailor.com
 187.254.105.240-clientes-zap-izzi.mx
 19.150.216.162.bc.googleusercontent.com
+196.149.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 220-136-169-25.dynamic-ip.hinet.net
 222.149.216.162.bc.googleusercontent.com
+231.149.216.162.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 241.126.244.35.bc.googleusercontent.com
 4e5cc838.dsl.pool.telekom.hu
