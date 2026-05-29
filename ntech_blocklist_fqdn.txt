@@ -34,6 +34,7 @@
 227.211.203.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
+66.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 c1vhosting.it
