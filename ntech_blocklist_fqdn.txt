@@ -29,11 +29,13 @@
 196.149.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 220-136-169-25.dynamic-ip.hinet.net
+220.149.216.162.bc.googleusercontent.com
 222.149.216.162.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 241.126.244.35.bc.googleusercontent.com
 4e5cc838.dsl.pool.telekom.hu
+60-249-14-121.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 66.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
