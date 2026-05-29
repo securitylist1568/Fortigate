@@ -64,6 +64,7 @@ rootevidence.com
 scan-02k.shadowserver.org
 scan-09n.shadowserver.org
 scan-15k.shadowserver.org
+scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
