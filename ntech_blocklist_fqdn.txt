@@ -28,6 +28,7 @@
 204.76.203.30.ptr.pfcloud.network
 217.210.203.35.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
+224.211.203.35.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
 45-79-181-199.ip.linodeusercontent.com
@@ -35,6 +36,7 @@
 48.211.203.35.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 62-210-136-16.rev.poneytelecom.eu
+72.144.153.34.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
 87.149.216.162.bc.googleusercontent.com
