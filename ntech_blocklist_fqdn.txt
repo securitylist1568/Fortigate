@@ -57,6 +57,8 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r2001.compute.pao1.edc.strln.net
+r2002.compute.pao1.edc.strln.net
 recyber.net
 robbins.nextsteer.org.uk
 rootevidence.com
