@@ -29,12 +29,15 @@
 168.150.216.162.bc.googleusercontent.com
 172-236-21-151.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
+180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.254.105.240-clientes-zap-izzi.mx
 19.150.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
+220-136-169-25.dynamic-ip.hinet.net
 222.149.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
+240.210.203.35.bc.googleusercontent.com
 241.126.244.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
@@ -68,3 +71,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vmi3279668.contaboserver.net
