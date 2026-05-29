@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+111.39.14.34.bc.googleusercontent.com
 134.92.118.136.bc.googleusercontent.com
 157.63.150.34.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
@@ -28,7 +29,7 @@
 201.121.162.34.bc.googleusercontent.com
 208.150.216.162.bc.googleusercontent.com
 215.100.147.34.bc.googleusercontent.com
-25.149.216.162.bc.googleusercontent.com
+231.250.53.34.bc.googleusercontent.com
 36-227-212-3.dynamic-ip.hinet.net
 45-79-184-121.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -36,14 +37,14 @@
 56.210.203.35.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 58.156.156.34.bc.googleusercontent.com
-59.210.203.35.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 61.42.175.207.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
+77.39.185.35.bc.googleusercontent.com
+84.219.195.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -61,9 +62,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-02k.shadowserver.org
+scan-09n.shadowserver.org
 scan-15k.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.248.92.78.5.clients.your-server.de
+static.32.59.180.157.clients.your-server.de
 users219.vip.heteml.jp
