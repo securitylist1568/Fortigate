@@ -22,6 +22,7 @@
 117.149.216.162.bc.googleusercontent.com
 123-192-192-244.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
+128.150.216.162.bc.googleusercontent.com
 131.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 153.149.216.162.bc.googleusercontent.com
