@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-117.149.216.162.bc.googleusercontent.com
 123-192-192-244.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
@@ -39,7 +38,6 @@
 67.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
-c1vhosting.it
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -69,5 +67,4 @@ scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.32.59.180.157.clients.your-server.de
 users219.vip.heteml.jp
