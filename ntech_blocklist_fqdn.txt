@@ -28,11 +28,11 @@
 157.210.203.35.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 172-236-21-151.ip.linodeusercontent.com
-183.149.216.162.bc.googleusercontent.com
+176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.254.105.240-clientes-zap-izzi.mx
-188.210.203.35.bc.googleusercontent.com
 19.150.216.162.bc.googleusercontent.com
+212.149.216.162.bc.googleusercontent.com
 222.149.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 241.126.244.35.bc.googleusercontent.com
@@ -57,11 +57,8 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r2001.compute.pao1.edc.strln.net
-r2002.compute.pao1.edc.strln.net
 r4.ams.opendns.com
 recyber.net
-robbins.nextsteer.org.uk
 scan-05j.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-7.shadowserver.org
