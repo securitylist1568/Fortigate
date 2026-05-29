@@ -20,6 +20,7 @@
 113.150.216.162.bc.googleusercontent.com
 12.210.203.35.bc.googleusercontent.com
 134.92.118.136.bc.googleusercontent.com
+136.3.74.34.bc.googleusercontent.com
 138.149.216.162.bc.googleusercontent.com
 162-216-18-219.ip.linodeusercontent.com
 176.65.148.183.ptr.pfcloud.network
@@ -51,6 +52,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
+ip146.ip-15-204-133.us
 ip29.sudolio.io
 l601.scanner.modat.io
 l608.scanner.modat.io
