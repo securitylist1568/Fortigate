@@ -18,12 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-192-192-244.dynamic.kbronet.com.tw
 128.150.216.162.bc.googleusercontent.com
 129.150.216.162.bc.googleusercontent.com
-131.211.203.35.bc.googleusercontent.com
-144.92.74.97.host.secureserver.net
-157.210.203.35.bc.googleusercontent.com
 172-236-21-151.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 180.149.216.162.bc.googleusercontent.com
@@ -35,7 +31,6 @@
 222.149.216.162.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 241.126.244.35.bc.googleusercontent.com
-47.150.216.162.bc.googleusercontent.com
 4e5cc838.dsl.pool.telekom.hu
 62-210-125-62.rev.poneytelecom.eu
 66.150.216.162.bc.googleusercontent.com
@@ -60,9 +55,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-05j.shadowserver.org
-scan-61-7.shadowserver.org
-scan-67-1.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
