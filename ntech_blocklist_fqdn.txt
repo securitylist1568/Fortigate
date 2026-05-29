@@ -21,6 +21,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 134.92.118.136.bc.googleusercontent.com
 157.63.150.34.bc.googleusercontent.com
+167.211.203.35.bc.googleusercontent.com
+168-113-158-51.instances.scw.cloud
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201.121.162.34.bc.googleusercontent.com
