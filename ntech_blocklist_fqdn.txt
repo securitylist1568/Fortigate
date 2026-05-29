@@ -33,7 +33,6 @@
 231.250.53.34.bc.googleusercontent.com
 36-227-212-3.dynamic-ip.hinet.net
 45-79-184-121.ip.linodeusercontent.com
-50-116-23-150.ip.linodeusercontent.com
 53.202.22.34.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
@@ -45,6 +44,7 @@
 84.219.195.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+c1vhosting.it
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -53,7 +53,6 @@ hn.kd.ny.adsl
 host232.net162-226-38.enatrel.ni
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip92.ip-15-204-156.us
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
