@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.131.155.104.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,8 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.143.83.5.hosted-by.vpslayer.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+115.143.83.5.hosted-by.vpslayer.net
 127.149.216.162.bc.googleusercontent.com
-144.202.15.126.vultrusercontent.com
 167.211.203.35.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,12 +28,10 @@
 195-154-172-77.rev.poneytelecom.eu
 195-154-185-145.rev.poneytelecom.eu
 200.150.216.162.bc.googleusercontent.com
-209.149.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
-53.26.71.192.in-addr.arpa
-69-164-209-86.ip.linodeusercontent.com
+44.210.203.35.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 88.153.116.34.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
@@ -51,6 +48,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
 ip29.sudolio.io
 ip31-70-65-59.pbiaas.com
+li1817-110.members.linode.com
+li1972-67.members.linode.com
 mail.yuanxilv.cn
 mfyabgec.musicpda.com
 ns3105838.ip-54-36-179.eu
@@ -60,12 +59,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.62.84.172.144.deluxhost.net
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 vmi3308103.contaboserver.net
