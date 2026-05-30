@@ -31,6 +31,7 @@
 53.26.71.192.in-addr.arpa
 69-164-209-86.ip.linodeusercontent.com
 72.150.216.162.bc.googleusercontent.com
+99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -41,6 +42,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
 ip29.sudolio.io
+ip31-70-65-59.pbiaas.com
+mail.yuanxilv.cn
 mfyabgec.musicpda.com
 os3-307-43452.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
