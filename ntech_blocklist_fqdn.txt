@@ -23,6 +23,7 @@
 176.65.148.176.ptr.pfcloud.network
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+193.150.216.162.bc.googleusercontent.com
 196.149.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 213-170-135-11.as212027.host
