@@ -23,11 +23,13 @@
 17.149.216.162.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+200.150.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 47.75.150.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 69-164-209-86.ip.linodeusercontent.com
+88.153.116.34.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -35,6 +37,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip124.ip-5-135-12.eu
@@ -52,7 +55,6 @@ s4850.vps.hosting
 scan-05j.shadowserver.org
 scan-10g.shadowserver.org
 scan-45o.shadowserver.org
-scan-63-2.shadowserver.org
 scanner-info.rootevidence.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -60,4 +62,3 @@ unn-207-211-214-162.datapacket.com
 user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vmi3308103.contaboserver.net
-vmi3326567.contaboserver.net
