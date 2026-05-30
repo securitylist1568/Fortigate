@@ -36,8 +36,11 @@
 59.2.79.34.bc.googleusercontent.com
 77.187.19.34.bc.googleusercontent.com
 78.71.187.35.bc.googleusercontent.com
+85.149.216.162.bc.googleusercontent.com
 85.176.76.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdsgbfmbi3.stretchoid.com
+azpdws28galu.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
