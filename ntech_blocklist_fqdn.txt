@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-241-167-5.dynamic-ip.hinet.net
 144.202.15.126.vultrusercontent.com
+17.149.216.162.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 209.149.216.162.bc.googleusercontent.com
@@ -66,5 +67,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
+vmi3308103.contaboserver.net
 vmi3326567.contaboserver.net
 vmi3331002.contaboserver.net
