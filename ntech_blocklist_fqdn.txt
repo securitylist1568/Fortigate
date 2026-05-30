@@ -25,6 +25,7 @@
 17.150.216.162.bc.googleusercontent.com
 172-236-15-97.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+190.150.216.162.bc.googleusercontent.com
 193.150.216.162.bc.googleusercontent.com
 196.149.216.162.bc.googleusercontent.com
 213-170-135-11.as212027.host
@@ -38,6 +39,7 @@
 60-249-14-121.hinet-ip.hinet.net
 77.187.19.34.bc.googleusercontent.com
 78.71.187.35.bc.googleusercontent.com
+85.176.76.34.bc.googleusercontent.com
 activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -76,10 +78,12 @@ ns574789.ip-51-222-40.net
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-71-05.shadowserver.org
+scan-79-08.shadowserver.org
 scan-81-7.shadowserver.org
 scanner-info.rootevidence.com
 smtp1.telemach.net
