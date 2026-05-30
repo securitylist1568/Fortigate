@@ -22,6 +22,7 @@
 126.20.228.8.bc.googleusercontent.com
 141.104.244.35.bc.googleusercontent.com
 143-14-200-130.static.visperhost.net
+149635.ip-ptr.tech
 17.150.216.162.bc.googleusercontent.com
 172-236-15-97.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -32,19 +33,17 @@
 213.202.156.34.bc.googleusercontent.com
 220.149.216.162.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
+254.149.216.162.bc.googleusercontent.com
 34.134.251.23.bc.googleusercontent.com
-4e5cc838.dsl.pool.telekom.hu
 50.127.77.34.bc.googleusercontent.com
 59.2.79.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 77.187.19.34.bc.googleusercontent.com
 78.71.187.35.bc.googleusercontent.com
 85.176.76.34.bc.googleusercontent.com
-activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-218-88-108.compute-1.amazonaws.com
@@ -75,7 +74,6 @@ ip29.sudolio.io
 ip72.ip-54-36-18.eu
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
-ns574789.ip-51-222-40.net
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
