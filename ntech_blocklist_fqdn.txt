@@ -31,7 +31,6 @@
 209.149.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
-47.75.150.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 69-164-209-86.ip.linodeusercontent.com
 88.153.116.34.bc.googleusercontent.com
@@ -59,7 +58,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-s4850.vps.hosting
 scan-05j.shadowserver.org
 scan-10g.shadowserver.org
 scan-45o.shadowserver.org
@@ -69,6 +67,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.62.84.172.144.deluxhost.net
 unn-207-211-214-162.datapacket.com
-user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vmi3308103.contaboserver.net
