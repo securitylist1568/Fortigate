@@ -57,6 +57,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-12f.shadowserver.org
 scan-41f.shadowserver.org
 scan-61-7.shadowserver.org
@@ -69,6 +70,7 @@ scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vmi3326567.contaboserver.net
 vmi3331002.contaboserver.net
