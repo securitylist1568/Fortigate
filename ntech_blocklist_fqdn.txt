@@ -18,11 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 129.150.216.162.bc.googleusercontent.com
+17.150.216.162.bc.googleusercontent.com
 172-236-21-151.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-19.150.216.162.bc.googleusercontent.com
 196.149.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 213-170-135-11.as212027.host
@@ -35,9 +35,7 @@
 4e5cc838.dsl.pool.telekom.hu
 60-249-14-121.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
-66.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
-67.210.203.35.bc.googleusercontent.com
 91.149.216.162.bc.googleusercontent.com
 activity189.numbercombative.com
 amz.unixwiz.net
@@ -60,7 +58,9 @@ rootevidence.com
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vmi3279668.contaboserver.net
+www.internet-albedo.net
