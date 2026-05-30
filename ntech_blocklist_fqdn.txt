@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 17.150.216.162.bc.googleusercontent.com
+172-236-15-97.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -32,6 +33,7 @@
 4e5cc838.dsl.pool.telekom.hu
 60-249-14-121.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
+77.187.19.34.bc.googleusercontent.com
 activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
