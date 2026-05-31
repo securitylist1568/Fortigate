@@ -39,6 +39,7 @@
 47.75.150.34.bc.googleusercontent.com
 48.27.38.34.bc.googleusercontent.com
 5.138.53.34.bc.googleusercontent.com
+62-210-125-62.rev.poneytelecom.eu
 74.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 88.127.140.34.bc.googleusercontent.com
