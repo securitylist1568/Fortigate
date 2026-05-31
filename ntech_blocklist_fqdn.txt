@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.143.83.5.hosted-by.vpslayer.net
+172-104-26-83.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 211-22-119-160.hinet-ip.hinet.net
 237.190.77.34.bc.googleusercontent.com
@@ -79,6 +80,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rdns.hostprise.com
 recyber.net
+rootevidence.com
 scan-15k.shadowserver.org
 scan-52c.shadowserver.org
 scan-52k.shadowserver.org
@@ -90,6 +92,7 @@ security.criminalip.com
 smtp1.telemach.net
 soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
+syn-108-176-102-058.biz.spectrum.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
