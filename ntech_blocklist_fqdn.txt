@@ -1,6 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-10.51.205.35.bc.googleusercontent.com
-108.143.83.5.hosted-by.vpslayer.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,11 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.143.83.5.hosted-by.vpslayer.net
-129.143.83.5.hosted-by.vpslayer.net
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 198-74-62-159.ip.linodeusercontent.com
 202.182.117.163.vultrusercontent.com
+211-22-119-160.hinet-ip.hinet.net
 237.190.77.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 36-230-48-216.dynamic-ip.hinet.net
@@ -86,9 +83,13 @@ proxy-ca002-ext2.a.ahrefs.com
 rdns.hostprise.com
 recyber.net
 rootevidence.com
+scan-15k.shadowserver.org
 scan-52c.shadowserver.org
+scan-52k.shadowserver.org
+scan-56f.shadowserver.org
 scan-59g.shadowserver.org
-scan-60-12.shadowserver.org
+scan-74-02.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
