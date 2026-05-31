@@ -27,6 +27,7 @@
 172-104-5-253.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198.210.203.35.bc.googleusercontent.com
+216.236.156.34.bc.googleusercontent.com
 220-136-169-25.dynamic-ip.hinet.net
 237.190.77.34.bc.googleusercontent.com
 240.53.233.35.bc.googleusercontent.com
@@ -73,12 +74,18 @@ ip29.sudolio.io
 li1817-110.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+ns3128846.ip-54-38-92.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-04i.shadowserver.org
+scan-45g.shadowserver.org
+scan-85-0.shadowserver.org
+scan-86-7.shadowserver.org
 scanner-635-2.zern.io
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
