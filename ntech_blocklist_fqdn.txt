@@ -20,9 +20,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 156.112.81.34.bc.googleusercontent.com
 163.95.146.217.baremetal.zare.com
+172-104-10-90.ip.linodeusercontent.com
 172-104-26-83.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 220-136-169-25.dynamic-ip.hinet.net
+23-239-8-98.ip.linodeusercontent.com
+45-33-70-23.ip.linodeusercontent.com
+45-79-135-232.ip.linodeusercontent.com
+45-79-152-51.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 broadband.actcorp.in
@@ -49,6 +54,7 @@ rootevidence.com
 scan-08g.shadowserver.org
 scan-68-08.shadowserver.org
 scan-73-02.shadowserver.org
+scanner-info.rootevidence.com
 scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 scanner5.labs.rapid7.com
@@ -57,4 +63,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.148.60.55.162.clients.your-server.de
 syn-108-176-102-058.biz.spectrum.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
