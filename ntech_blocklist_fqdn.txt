@@ -22,6 +22,8 @@
 115.143.83.5.hosted-by.vpslayer.net
 127.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
+172-104-215-162.ip.linodeusercontent.com
+172-104-5-253.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-172-110.rev.poneytelecom.eu
 195-154-172-77.rev.poneytelecom.eu
