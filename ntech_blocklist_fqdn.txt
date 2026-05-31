@@ -19,15 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.143.83.5.hosted-by.vpslayer.net
 185-45-195-15.hostsailor.com
-198-74-62-159.ip.linodeusercontent.com
-202.182.117.163.vultrusercontent.com
 211-22-119-160.hinet-ip.hinet.net
 237.190.77.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 36-230-48-216.dynamic-ip.hinet.net
 48.27.38.34.bc.googleusercontent.com
 49-158-79-138.dynamic.elinx.com.tw
-62-210-125-62.rev.poneytelecom.eu
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgagzb8p.stretchoid.com
@@ -82,7 +79,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rdns.hostprise.com
 recyber.net
-rootevidence.com
 scan-15k.shadowserver.org
 scan-52c.shadowserver.org
 scan-52k.shadowserver.org
