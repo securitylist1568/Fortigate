@@ -21,12 +21,15 @@
 156.112.81.34.bc.googleusercontent.com
 163.95.146.217.baremetal.zare.com
 172-104-10-90.ip.linodeusercontent.com
+172-104-252-207.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-220-136-169-25.dynamic-ip.hinet.net
 23-239-8-98.ip.linodeusercontent.com
 45-33-70-23.ip.linodeusercontent.com
 45-79-135-232.ip.linodeusercontent.com
 45-79-152-51.ip.linodeusercontent.com
+50-116-56-46.ip.linodeusercontent.com
+69-164-213-74.ip.linodeusercontent.com
+97-107-137-78.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 broadband.actcorp.in
@@ -36,7 +39,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip236.ip-5-135-71.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mailout2.hostinghospedagemvps.online
@@ -48,9 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-08g.shadowserver.org
-scan-68-08.shadowserver.org
-scan-73-02.shadowserver.org
+scanner-636-2.zern.io
 scanner-info.rootevidence.com
 scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
