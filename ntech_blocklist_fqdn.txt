@@ -19,23 +19,17 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 115.143.83.5.hosted-by.vpslayer.net
 121.177.22.34.bc.googleusercontent.com
 125.218.156.34.bc.googleusercontent.com
-127.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 172-104-215-162.ip.linodeusercontent.com
 172-104-5-253.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-195-154-172-110.rev.poneytelecom.eu
-195-154-172-77.rev.poneytelecom.eu
-195-154-185-145.rev.poneytelecom.eu
 198.210.203.35.bc.googleusercontent.com
 237.190.77.34.bc.googleusercontent.com
 240.53.233.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
-34.210.203.35.bc.googleusercontent.com
 36-224-253-113.dynamic-ip.hinet.net
 41.42.233.35.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
@@ -70,7 +64,6 @@ ec2-54-234-201-228.compute-1.amazonaws.com
 ec2-54-86-44-100.compute-1.amazonaws.com
 ec2-98-93-11-144.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-hkhdc.laws.ms
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
@@ -78,9 +71,6 @@ ip29.sudolio.io
 li1817-110.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
-ns3105838.ip-54-36-179.eu
-ns3140616.ip-51-77-217.eu
-ns3141931.ip-51-77-219.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -89,5 +79,4 @@ rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.62.84.172.144.deluxhost.net
 users219.vip.heteml.jp
