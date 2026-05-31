@@ -92,6 +92,7 @@ security.criminalip.com
 smtp1.telemach.net
 soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
+static.148.60.55.162.clients.your-server.de
 syn-108-176-102-058.biz.spectrum.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
