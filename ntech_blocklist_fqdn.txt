@@ -95,6 +95,7 @@ scanner-635-2.zern.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
+soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
