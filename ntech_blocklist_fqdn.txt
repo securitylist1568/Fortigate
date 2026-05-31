@@ -30,12 +30,10 @@
 195-154-172-77.rev.poneytelecom.eu
 195-154-185-145.rev.poneytelecom.eu
 198.210.203.35.bc.googleusercontent.com
-200.150.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
-88.153.116.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
