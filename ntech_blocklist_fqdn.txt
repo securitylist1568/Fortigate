@@ -27,6 +27,7 @@
 172-104-5-253.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198.210.203.35.bc.googleusercontent.com
+220-136-169-25.dynamic-ip.hinet.net
 237.190.77.34.bc.googleusercontent.com
 240.53.233.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
@@ -35,6 +36,7 @@
 44.210.203.35.bc.googleusercontent.com
 48.27.38.34.bc.googleusercontent.com
 5.138.53.34.bc.googleusercontent.com
+8.210.203.35.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 88.127.140.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -76,6 +78,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scanner-635-2.zern.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
