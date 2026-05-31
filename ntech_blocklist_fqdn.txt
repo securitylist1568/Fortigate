@@ -85,6 +85,7 @@ o613.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+rdns.hostprise.com
 recyber.net
 rootevidence.com
 scan-14l.shadowserver.org
