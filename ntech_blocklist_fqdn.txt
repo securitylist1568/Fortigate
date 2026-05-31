@@ -22,10 +22,10 @@
 115.143.83.5.hosted-by.vpslayer.net
 121.177.22.34.bc.googleusercontent.com
 125.218.156.34.bc.googleusercontent.com
-167.211.203.35.bc.googleusercontent.com
 172-104-215-162.ip.linodeusercontent.com
 172-104-5-253.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 198.210.203.35.bc.googleusercontent.com
 216.236.156.34.bc.googleusercontent.com
 220-136-169-25.dynamic-ip.hinet.net
@@ -37,6 +37,7 @@
 47.75.150.34.bc.googleusercontent.com
 48.27.38.34.bc.googleusercontent.com
 5.138.53.34.bc.googleusercontent.com
+74.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 88.127.140.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -77,6 +78,7 @@ ns3128846.ip-54-38-92.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+rdns.hostprise.com
 recyber.net
 rootevidence.com
 scan-04i.shadowserver.org
