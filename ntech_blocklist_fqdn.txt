@@ -22,6 +22,7 @@
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 115.143.83.5.hosted-by.vpslayer.net
 121.177.22.34.bc.googleusercontent.com
+125.218.156.34.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 172-104-215-162.ip.linodeusercontent.com
@@ -35,7 +36,9 @@
 240.53.233.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
+41.42.233.35.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
+48.27.38.34.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 88.127.140.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -43,6 +46,15 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-208-163-134.compute-1.amazonaws.com
+ec2-184-72-116-82.compute-1.amazonaws.com
+ec2-3-87-215-58.compute-1.amazonaws.com
+ec2-34-201-134-68.compute-1.amazonaws.com
+ec2-34-234-73-217.compute-1.amazonaws.com
+ec2-34-239-118-181.compute-1.amazonaws.com
+ec2-52-91-2-81.compute-1.amazonaws.com
+ec2-54-86-44-100.compute-1.amazonaws.com
+ec2-98-93-11-144.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
