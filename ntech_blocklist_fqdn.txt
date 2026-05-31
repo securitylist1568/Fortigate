@@ -31,14 +31,12 @@
 220-136-169-25.dynamic-ip.hinet.net
 237.190.77.34.bc.googleusercontent.com
 240.53.233.35.bc.googleusercontent.com
-252.210.203.35.bc.googleusercontent.com
 36-224-253-113.dynamic-ip.hinet.net
 41.42.233.35.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
 48.27.38.34.bc.googleusercontent.com
 5.138.53.34.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
-85.211.203.35.bc.googleusercontent.com
 88.127.140.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -68,7 +66,6 @@ ec2-54-86-44-100.compute-1.amazonaws.com
 ec2-98-93-11-144.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1817-110.members.linode.com
