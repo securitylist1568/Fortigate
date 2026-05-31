@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 156.112.81.34.bc.googleusercontent.com
-163.95.146.217.baremetal.zare.com
 172-104-10-90.ip.linodeusercontent.com
 172-104-252-207.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
