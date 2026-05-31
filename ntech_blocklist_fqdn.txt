@@ -21,7 +21,6 @@
 156.112.81.34.bc.googleusercontent.com
 163.95.146.217.baremetal.zare.com
 172-104-10-90.ip.linodeusercontent.com
-172-104-26-83.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 220-136-169-25.dynamic-ip.hinet.net
 23-239-8-98.ip.linodeusercontent.com
@@ -32,7 +31,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 broadband.actcorp.in
 client.yota.ru
-customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -43,8 +41,6 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
-o607.scanner.modat.io
-o631.scanner.modat.io
 os3-307-43452.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -61,7 +57,5 @@ scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.148.60.55.162.clients.your-server.de
-syn-108-176-102-058.biz.spectrum.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
