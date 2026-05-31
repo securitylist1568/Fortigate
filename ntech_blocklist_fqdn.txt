@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.143.83.5.hosted-by.vpslayer.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 115.143.83.5.hosted-by.vpslayer.net
 127.149.216.162.bc.googleusercontent.com
@@ -31,13 +30,11 @@
 195-154-185-145.rev.poneytelecom.eu
 198.210.203.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
-248.149.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
 44.210.203.35.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 88.153.116.34.bc.googleusercontent.com
-99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -49,10 +46,8 @@ hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip31-70-65-59.pbiaas.com
 li1817-110.members.linode.com
 li1972-67.members.linode.com
-mail.yuanxilv.cn
 mfyabgec.musicpda.com
 ns3105838.ip-54-36-179.eu
 ns3140616.ip-51-77-217.eu
