@@ -24,6 +24,7 @@
 220-136-169-25.dynamic-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
+broadband.actcorp.in
 client.yota.ru
 customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
