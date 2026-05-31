@@ -40,15 +40,13 @@ mfyabgec.musicpda.com
 niall.probe.onyphe.net
 o607.scanner.modat.io
 o631.scanner.modat.io
+os3-307-43452.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-08g.shadowserver.org
-scan-52k.shadowserver.org
-scan-56f.shadowserver.org
-scan-63-8.shadowserver.org
 scan-68-08.shadowserver.org
 scan-73-02.shadowserver.org
 scanner3.labs.rapid7.com
