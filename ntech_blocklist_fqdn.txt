@@ -22,7 +22,6 @@
 115.143.83.5.hosted-by.vpslayer.net
 127.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
-17.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195-154-172-110.rev.poneytelecom.eu
 195-154-172-77.rev.poneytelecom.eu
@@ -46,7 +45,6 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
-ip124.ip-5-135-12.eu
 ip29.sudolio.io
 ip31-70-65-59.pbiaas.com
 li1817-110.members.linode.com
@@ -66,4 +64,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.62.84.172.144.deluxhost.net
 users219.vip.heteml.jp
-vmi3308103.contaboserver.net
