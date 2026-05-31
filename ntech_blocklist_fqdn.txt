@@ -29,9 +29,11 @@
 202.182.117.163.vultrusercontent.com
 216.236.156.34.bc.googleusercontent.com
 220-136-169-25.dynamic-ip.hinet.net
+237.190.77.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 248.216.53.34.bc.googleusercontent.com
 47.75.150.34.bc.googleusercontent.com
+48.27.38.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 74.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
