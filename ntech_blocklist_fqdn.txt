@@ -1,4 +1,3 @@
-1-160-218-44.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 10.51.205.35.bc.googleusercontent.com
 108.143.83.5.hosted-by.vpslayer.net
@@ -28,7 +27,6 @@
 202.182.117.163.vultrusercontent.com
 237.190.77.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
-248.216.53.34.bc.googleusercontent.com
 36-230-48-216.dynamic-ip.hinet.net
 48.27.38.34.bc.googleusercontent.com
 49-158-79-138.dynamic.elinx.com.tw
@@ -81,22 +79,18 @@ ip54.ip-15-204-165.us
 ip90.ip-51-210-79.eu
 ip92.ip-15-204-156.us
 mfyabgec.musicpda.com
-o613.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rdns.hostprise.com
 recyber.net
 rootevidence.com
-scan-14l.shadowserver.org
 scan-52c.shadowserver.org
-scan-55c.shadowserver.org
 scan-59g.shadowserver.org
 scan-60-12.shadowserver.org
 smtp1.telemach.net
 soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-227-143.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
