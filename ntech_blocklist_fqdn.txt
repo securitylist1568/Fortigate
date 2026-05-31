@@ -23,7 +23,6 @@
 211-22-119-160.hinet-ip.hinet.net
 220-136-169-25.dynamic-ip.hinet.net
 amz.unixwiz.net
-azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 customer-cdmx-mca-131-207.megared.net.mx
@@ -42,12 +41,10 @@ o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-rdns.hostprise.com
 recyber.net
 rootevidence.com
 scan-08g.shadowserver.org
 scan-15k.shadowserver.org
-scan-52c.shadowserver.org
 scan-52k.shadowserver.org
 scan-56f.shadowserver.org
 scan-63-8.shadowserver.org
