@@ -24,7 +24,6 @@
 220-136-169-25.dynamic-ip.hinet.net
 23-168-136-153.rev.circlevps.net
 66-228-40-143.ip.linodeusercontent.com
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
 azpdcgfwv02q.stretchoid.com
 azpdcs19ivb5.stretchoid.com
@@ -94,12 +93,9 @@ recyber.net
 rootevidence.com
 scan-04f.shadowserver.org
 scan-07e.shadowserver.org
-scan-58.security.ipip.net
 smtp1.telemach.net
 srv-91-224-92-32.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-tiago.probe.onyphe.net
 user-185-234-213-135.zrh01.ch.misaka.io
-user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
 zhangyuan3.virtuaserver.com.br
