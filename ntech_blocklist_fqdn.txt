@@ -32,7 +32,6 @@
 214.90.95.34.bc.googleusercontent.com
 216-244-83-58-reverse.wowrack.com
 22.123.88.34.bc.googleusercontent.com
-220-136-169-25.dynamic-ip.hinet.net
 23.204.212.35.bc.googleusercontent.com
 230.221.22.34.bc.googleusercontent.com
 232.106.155.104.bc.googleusercontent.com
@@ -48,7 +47,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ea3819fc3c.research-scanner.com
 ec2-13-217-169-169.compute-1.amazonaws.com
 ec2-3-85-2-232.compute-1.amazonaws.com
 ec2-3-94-98-124.compute-1.amazonaws.com
