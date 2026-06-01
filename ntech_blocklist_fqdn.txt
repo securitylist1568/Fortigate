@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+10.42.66.218.broad.fz.fj.dynamic.163data.com.cn
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-209.60.205.35.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 60.88.26.94.tbc.bg
 66-228-40-143.ip.linodeusercontent.com
@@ -69,7 +69,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -84,13 +83,11 @@ mfyabgec.musicpda.com
 ns5003292.ip-51-161-128.net
 o603.scanner.modat.io
 o626.scanner.modat.io
-os3-307-43452.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-04c.shadowserver.org
 scan-04f.shadowserver.org
 scan-07e.shadowserver.org
 scan-58.security.ipip.net
