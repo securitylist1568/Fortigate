@@ -20,6 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+203-74-130-205.hinet-ip.hinet.net
+220-136-169-25.dynamic-ip.hinet.net
 23-168-136-153.rev.circlevps.net
 66-228-40-143.ip.linodeusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -69,12 +71,14 @@ bicommae.store
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-34-229-148-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
+ip72.ip-54-36-18.eu
 ip92.ip-15-204-156.us
 l604.scanner.modat.io
 l606.scanner.modat.io
@@ -82,6 +86,7 @@ l609.scanner.modat.io
 mfyabgec.musicpda.com
 ns5003292.ip-51-161-128.net
 o603.scanner.modat.io
+o608.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
