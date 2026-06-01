@@ -54,6 +54,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-67-1.shadowserver.org
 scanner-636-2.zern.io
 scanner-info.rootevidence.com
 security.criminalip.com
