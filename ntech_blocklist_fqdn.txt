@@ -34,6 +34,7 @@
 22.123.88.34.bc.googleusercontent.com
 230.221.22.34.bc.googleusercontent.com
 232.106.155.104.bc.googleusercontent.com
+36.94.177.195.in-addr.arpa
 42.123.243.83.in-addr.arpa
 43.231.78.34.bc.googleusercontent.com
 48.65.77.34.bc.googleusercontent.com
