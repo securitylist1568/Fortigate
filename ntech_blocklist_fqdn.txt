@@ -22,6 +22,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 152.103.38.34.bc.googleusercontent.com
 1684604.hosted-by-itldc.com
+172.7.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 199.160.140.34.bc.googleusercontent.com
 204.249.76.34.bc.googleusercontent.com
