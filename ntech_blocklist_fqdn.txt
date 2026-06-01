@@ -41,6 +41,7 @@ azpdsg1j90qs.stretchoid.com
 azpdsg41vonp.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
+azpdsg6i54lg.stretchoid.com
 azpdsga05mgt.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
@@ -79,6 +80,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
+ip54.ip-15-204-165.us
 ip92.ip-15-204-156.us
 l604.scanner.modat.io
 l606.scanner.modat.io
