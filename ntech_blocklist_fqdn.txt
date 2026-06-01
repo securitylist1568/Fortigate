@@ -48,7 +48,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ea3819fc3c.research-scanner.com
 ec2-13-217-169-169.compute-1.amazonaws.com
 ec2-3-85-2-232.compute-1.amazonaws.com
@@ -73,9 +72,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-07e.shadowserver.org
 scan-67-1.shadowserver.org
-scanner-636-2.zern.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
+undefined.hostname.localhost
 users219.vip.heteml.jp
