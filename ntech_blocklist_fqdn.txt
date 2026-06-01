@@ -71,6 +71,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-34-229-148-30.compute-1.amazonaws.com
+exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -97,5 +98,6 @@ smtp1.telemach.net
 srv-91-224-92-32.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 zhangyuan3.virtuaserver.com.br
