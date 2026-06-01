@@ -28,6 +28,7 @@
 36.94.177.195.in-addr.arpa
 42.123.243.83.in-addr.arpa
 43.231.78.34.bc.googleusercontent.com
+60.88.26.94.tbc.bg
 62-210-125-62.rev.poneytelecom.eu
 70.3.175.207.bc.googleusercontent.com
 amz.unixwiz.net
@@ -42,6 +43,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o618.scanner.modat.io
+o626.scanner.modat.io
 os3-307-43452.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
