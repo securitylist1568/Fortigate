@@ -24,6 +24,7 @@
 1684604.hosted-by-itldc.com
 172.7.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+198-12-88-147-host.colocrossing.com
 199.160.140.34.bc.googleusercontent.com
 204.249.76.34.bc.googleusercontent.com
 209.60.205.35.bc.googleusercontent.com
@@ -39,6 +40,7 @@
 48.65.77.34.bc.googleusercontent.com
 55.200.62.34.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
+60.88.26.94.tbc.bg
 70.3.175.207.bc.googleusercontent.com
 abc.com
 amz.unixwiz.net
