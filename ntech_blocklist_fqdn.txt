@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+132.177.20.34.bc.googleusercontent.com
 152.103.38.34.bc.googleusercontent.com
 172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
@@ -25,7 +26,6 @@
 209.60.205.35.bc.googleusercontent.com
 210.4.76.34.bc.googleusercontent.com
 230.221.22.34.bc.googleusercontent.com
-36.94.177.195.in-addr.arpa
 43.231.78.34.bc.googleusercontent.com
 60.88.26.94.tbc.bg
 62-210-125-62.rev.poneytelecom.eu
@@ -42,8 +42,10 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
+ip92.ip-15-204-156.us
 mfyabgec.musicpda.com
-o618.scanner.modat.io
+ns5003292.ip-51-161-128.net
+o603.scanner.modat.io
 o626.scanner.modat.io
 os3-307-43452.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
