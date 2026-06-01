@@ -22,7 +22,6 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 220-136-169-25.dynamic-ip.hinet.net
-23-168-136-153.rev.circlevps.net
 244.188.21.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
