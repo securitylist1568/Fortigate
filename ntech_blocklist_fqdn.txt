@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+122-116-63-54.hinet-ip.hinet.net
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 220-136-169-25.dynamic-ip.hinet.net
