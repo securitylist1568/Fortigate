@@ -68,7 +68,9 @@ recyber.net
 scan-07e.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 undefined.hostname.localhost
+user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
