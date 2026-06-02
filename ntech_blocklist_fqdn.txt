@@ -59,5 +59,7 @@ security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
+user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
 vmi3335090.contaboserver.net
