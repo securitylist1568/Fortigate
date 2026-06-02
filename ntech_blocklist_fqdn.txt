@@ -25,6 +25,7 @@
 186.45.156.34.bc.googleusercontent.com
 2.174.52.34.bc.googleusercontent.com
 202.110.233.35.bc.googleusercontent.com
+206.180.221.35.bc.googleusercontent.com
 214.90.95.34.bc.googleusercontent.com
 221.229.62.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
@@ -42,6 +43,7 @@ l601.scanner.modat.io
 mfyabgec.musicpda.com
 mx01.lmz-bw.de
 no-mans-land.m247.com
+o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
