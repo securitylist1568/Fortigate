@@ -18,8 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
+172-104-13-159.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+64.237.62.35.reliableservers.com
 66-228-40-38.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -35,8 +37,6 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r2003.compute.pao1.edc.strln.net
-r3001.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-05j.shadowserver.org
@@ -47,10 +47,9 @@ scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
 scan-85-0.shadowserver.org
 security.criminalip.com
-sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 user-209-209-57-134.sjc10.us.misaka.io
+user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
-vmi3335090.contaboserver.net
