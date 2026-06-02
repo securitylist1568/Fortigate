@@ -48,13 +48,10 @@ proxy-ca002-ext2.a.ahrefs.com
 r2003.compute.pao1.edc.strln.net
 r3001.compute.pao1.edc.strln.net
 recyber.net
-scan-55c.shadowserver.org
 scan-56.security.ipip.net
 scan-63-13.shadowserver.org
 scan-63-8.shadowserver.org
 scanner-info.rootevidence.com
-scanner4.labs.rapid7.com
-scanner5.labs.rapid7.com
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
