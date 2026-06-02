@@ -20,8 +20,6 @@
 132.177.20.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-206.180.221.35.bc.googleusercontent.com
-62-210-131-8.rev.poneytelecom.eu
 66-228-40-38.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -34,7 +32,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -45,7 +42,6 @@ rootevidence.com
 scan-05j.shadowserver.org
 scan-15k.shadowserver.org
 scan-41f.shadowserver.org
-scan-56.security.ipip.net
 scan-60.security.ipip.net
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
