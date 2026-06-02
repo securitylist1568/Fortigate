@@ -29,6 +29,7 @@
 206.180.221.35.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 62-210-131-8.rev.poneytelecom.eu
+66-228-40-38.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,9 +48,11 @@ proxy-ca002-ext2.a.ahrefs.com
 r2003.compute.pao1.edc.strln.net
 r3001.compute.pao1.edc.strln.net
 recyber.net
+rootevidence.com
 scan-05j.shadowserver.org
 scan-41f.shadowserver.org
 scan-56.security.ipip.net
+scan-61-4.shadowserver.org
 scan-63-8.shadowserver.org
 scan-85-0.shadowserver.org
 scanner-info.rootevidence.com
