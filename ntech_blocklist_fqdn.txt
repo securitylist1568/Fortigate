@@ -52,6 +52,7 @@ scan-41f.shadowserver.org
 scan-56.security.ipip.net
 scan-60.security.ipip.net
 scan-61-4.shadowserver.org
+scan-63-2.shadowserver.org
 scan-85-0.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
