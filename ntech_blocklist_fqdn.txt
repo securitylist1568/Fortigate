@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-202-193.dynamic-ip.hinet.net
 122-116-63-54.hinet-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
 161.153.38.34.bc.googleusercontent.com
@@ -41,11 +42,15 @@ ec2-3-95-37-97.compute-1.amazonaws.com
 ec2-34-234-73-217.compute-1.amazonaws.com
 ec2-44-212-56-33.compute-1.amazonaws.com
 ec2-52-87-193-155.compute-1.amazonaws.com
+ec2-52-91-49-151.compute-1.amazonaws.com
 ec2-54-167-58-202.compute-1.amazonaws.com
 ec2-54-204-65-25.compute-1.amazonaws.com
+ec2-54-234-228-53.compute-1.amazonaws.com
 ec2-54-90-143-165.compute-1.amazonaws.com
+exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1992-217.members.linode.com
