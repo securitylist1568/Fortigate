@@ -24,8 +24,17 @@
 36.0.101.in-addr.arpa
 45.67.144.52.ip.retelit.net
 64.237.62.35.reliableservers.com
+9.76.78.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcg1tehht.stretchoid.com
+azpdcgrbfvbu.stretchoid.com
+azpdcsmatos4.stretchoid.com
+azpdespq7q3k.stretchoid.com
+azpdsg492br4.stretchoid.com
+azpdsg4lwdz3.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
+azpdsgo34xwr.stretchoid.com
+azpdss1xwgc0.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdwsdsncxt.stretchoid.com
 b2.org.afilias-nst.org
