@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-202-193.dynamic-ip.hinet.net
-122-116-63-54.hinet-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
 161.153.38.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
@@ -30,7 +29,9 @@
 202.110.233.35.bc.googleusercontent.com
 203.122.22.34.bc.googleusercontent.com
 213.199.156.34.bc.googleusercontent.com
+24.24.187.35.bc.googleusercontent.com
 29.104.155.104.bc.googleusercontent.com
+54.89.205.35.bc.googleusercontent.com
 77.45.175.207.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -53,8 +54,6 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1992-217.members.linode.com
-lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -74,5 +73,4 @@ user-170-39-227-251.sea02.us.misaka.io
 user-185-209-85-233.mow01.ru.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
-virginia.probe.onyphe.net
 www.internet-albedo.net
