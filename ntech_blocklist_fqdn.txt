@@ -18,10 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 172-104-13-159.ip.linodeusercontent.com
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
 36.0.101.in-addr.arpa
+45.67.144.52.ip.retelit.net
 64.237.62.35.reliableservers.com
 66-228-40-38.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -33,6 +33,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip92.ip-15-204-156.us
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -40,9 +41,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-05j.shadowserver.org
 scan-15k.shadowserver.org
-scan-41f.shadowserver.org
 scan-60.security.ipip.net
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
