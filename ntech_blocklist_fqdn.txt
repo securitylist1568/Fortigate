@@ -25,6 +25,7 @@
 45.67.144.52.ip.retelit.net
 64.237.62.35.reliableservers.com
 9.76.78.34.bc.googleusercontent.com
+acceso-187.131.201.185.prod-infinitum.com.mx
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgrbfvbu.stretchoid.com
@@ -49,7 +50,6 @@ ip29.sudolio.io
 ip54.ip-15-204-165.us
 ip92.ip-15-204-156.us
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o608.scanner.modat.io
 o612.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -57,13 +57,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-63-2.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
-user-209-209-57-134.sjc10.us.misaka.io
+user-38-175-113-245.ist01.tr.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
