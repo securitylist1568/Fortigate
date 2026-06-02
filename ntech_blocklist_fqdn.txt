@@ -18,14 +18,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
-161.153.38.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-186.45.156.34.bc.googleusercontent.com
-2.174.52.34.bc.googleusercontent.com
-202.110.233.35.bc.googleusercontent.com
 206.180.221.35.bc.googleusercontent.com
-62-210-125-62.rev.poneytelecom.eu
 62-210-131-8.rev.poneytelecom.eu
 66-228-40-38.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -54,7 +49,6 @@ scan-60.security.ipip.net
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
 scan-85-0.shadowserver.org
-scanner-info.rootevidence.com
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
