@@ -21,6 +21,7 @@
 132.177.20.34.bc.googleusercontent.com
 152.119.38.34.bc.googleusercontent.com
 161.153.38.34.bc.googleusercontent.com
+176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 186.45.156.34.bc.googleusercontent.com
 2.174.52.34.bc.googleusercontent.com
@@ -49,7 +50,6 @@ r2003.compute.pao1.edc.strln.net
 r3001.compute.pao1.edc.strln.net
 recyber.net
 scan-56.security.ipip.net
-scan-63-13.shadowserver.org
 scan-63-8.shadowserver.org
 scan-85-0.shadowserver.org
 scanner-info.rootevidence.com
