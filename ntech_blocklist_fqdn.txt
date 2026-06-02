@@ -72,6 +72,8 @@ scan-71-09.shadowserver.org
 scan-77-02.shadowserver.org
 scan-86-7.shadowserver.org
 scan-87-7.shadowserver.org
+scanner4.labs.rapid7.com
+scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-32.serveroffer.net
