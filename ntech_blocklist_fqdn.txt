@@ -27,7 +27,6 @@
 2.174.52.34.bc.googleusercontent.com
 202.110.233.35.bc.googleusercontent.com
 206.180.221.35.bc.googleusercontent.com
-214.90.95.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 62-210-131-8.rev.poneytelecom.eu
 amz.unixwiz.net
@@ -39,7 +38,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-l601.scanner.modat.io
 mfyabgec.musicpda.com
 mx01.lmz-bw.de
 o628.scanner.modat.io
@@ -50,6 +48,7 @@ r2003.compute.pao1.edc.strln.net
 r3001.compute.pao1.edc.strln.net
 recyber.net
 scan-05j.shadowserver.org
+scan-41f.shadowserver.org
 scan-56.security.ipip.net
 scan-63-8.shadowserver.org
 scan-85-0.shadowserver.org
