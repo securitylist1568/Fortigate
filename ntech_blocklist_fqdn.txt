@@ -17,10 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-132.177.20.34.bc.googleusercontent.com
 172-104-13-159.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+195-154-41-69.rev.poneytelecom.eu
 36.0.101.in-addr.arpa
 64.237.62.35.reliableservers.com
 66-228-40-38.ip.linodeusercontent.com
@@ -46,9 +46,9 @@ scan-41f.shadowserver.org
 scan-60.security.ipip.net
 scan-61-4.shadowserver.org
 scan-63-2.shadowserver.org
-scan-85-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 user-209-209-57-134.sjc10.us.misaka.io
