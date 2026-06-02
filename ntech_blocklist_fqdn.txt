@@ -21,6 +21,7 @@
 172-104-13-159.ip.linodeusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+36.0.101.in-addr.arpa
 64.237.62.35.reliableservers.com
 66-228-40-38.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -52,4 +53,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 user-209-209-57-134.sjc10.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
