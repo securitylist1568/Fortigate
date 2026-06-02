@@ -19,10 +19,16 @@
 111-240-93-35.dynamic-ip.hinet.net
 122-116-63-54.hinet-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
+161.153.38.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
+186.45.156.34.bc.googleusercontent.com
+2.174.52.34.bc.googleusercontent.com
+203.122.22.34.bc.googleusercontent.com
+213.199.156.34.bc.googleusercontent.com
+29.104.155.104.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
