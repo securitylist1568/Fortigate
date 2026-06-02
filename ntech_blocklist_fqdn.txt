@@ -19,9 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-202-193.dynamic-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
+151-115-91-20.rev.poneytelecom.eu
 161.153.38.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-232-121-108.ip.linodeusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
 186.45.156.34.bc.googleusercontent.com
@@ -54,14 +56,17 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40g.shadowserver.org
 scan-43b.shadowserver.org
 scan-56f.shadowserver.org
 scan-71-09.shadowserver.org
+scan-77-02.shadowserver.org
 scan-86-7.shadowserver.org
 scan-87-7.shadowserver.org
 scan.f6.security
@@ -69,6 +74,7 @@ security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-32.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-225-147.mci01.us.misaka.io
 user-170-39-227-251.sea02.us.misaka.io
 user-185-209-85-233.mow01.ru.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
