@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-35-89-166.hinet-ip.hinet.net
 132.177.20.34.bc.googleusercontent.com
-152.119.38.34.bc.googleusercontent.com
 161.153.38.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
@@ -40,7 +38,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-mx01.lmz-bw.de
 o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -50,10 +47,11 @@ r3001.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-05j.shadowserver.org
+scan-15k.shadowserver.org
 scan-41f.shadowserver.org
 scan-56.security.ipip.net
+scan-60.security.ipip.net
 scan-61-4.shadowserver.org
-scan-63-8.shadowserver.org
 scan-85-0.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
