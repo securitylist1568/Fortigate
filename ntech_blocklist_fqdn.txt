@@ -51,6 +51,7 @@ recyber.net
 scan-56.security.ipip.net
 scan-63-13.shadowserver.org
 scan-63-8.shadowserver.org
+scan-85-0.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
 sharp.atid.cloud
