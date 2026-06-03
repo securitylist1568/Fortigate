@@ -18,12 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.66.150.34.bc.googleusercontent.com
-172-104-13-159.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
 36.0.101.in-addr.arpa
 45.67.144.52.ip.retelit.net
-64.237.62.35.reliableservers.com
 9.76.78.34.bc.googleusercontent.com
 acceso-187.131.201.185.prod-infinitum.com.mx
 amz.unixwiz.net
@@ -46,6 +44,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 ip92.ip-15-204-156.us
@@ -56,11 +55,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 user-38-175-113-245.ist01.tr.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
