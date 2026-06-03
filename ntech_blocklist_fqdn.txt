@@ -255,6 +255,7 @@ fwnvyxu.top
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip72.ip-54-36-18.eu
 l609.scanner.modat.io
 l610.scanner.modat.io
 li1625-135.members.linode.com
@@ -265,6 +266,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
+scan-60-12.shadowserver.org
 scan-79-08.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
