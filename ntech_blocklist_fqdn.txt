@@ -49,6 +49,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip29.sudolio.io
 l603.scanner.modat.io
 l609.scanner.modat.io
@@ -67,8 +68,10 @@ scan-15k.shadowserver.org
 scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-79-00.shadowserver.org
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
+vmi3251195.contaboserver.net
