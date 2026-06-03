@@ -38,7 +38,6 @@ l602.scanner.modat.io
 l608.scanner.modat.io
 l609.scanner.modat.io
 li1873-236.members.linode.com
-mail.vtechco.com
 mfyabgec.musicpda.com
 pc0.zz.ha.cn
 pc112.cses.ilc.edu.tw
@@ -47,7 +46,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60-12.shadowserver.org
 scan-71-09.shadowserver.org
-scan-79-08.shadowserver.org
 scan-81-7.shadowserver.org
 scan-83-7.shadowserver.org
 scan.visionheight.com
