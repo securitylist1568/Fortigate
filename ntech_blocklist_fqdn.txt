@@ -265,7 +265,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
-scan-76-03.shadowserver.org
 scan-83-7.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
