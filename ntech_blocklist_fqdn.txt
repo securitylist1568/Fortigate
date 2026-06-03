@@ -23,6 +23,7 @@
 180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
+59-125-215-94.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -53,6 +54,7 @@ l603.scanner.modat.io
 mfyabgec.musicpda.com
 n.ryakhovsky.fvds.ru
 no-mans-land.m247.com
+null-91.134.45.bcn.ifog.es
 o612.scanner.modat.io
 o618.scanner.modat.io
 o628.scanner.modat.io
