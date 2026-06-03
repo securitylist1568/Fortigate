@@ -38,6 +38,7 @@ azpdssumseh6.stretchoid.com
 azpdsswwm226.stretchoid.com
 azpdssy2j4f1.stretchoid.com
 b2.org.afilias-nst.org
+centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -45,6 +46,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
+ip105.ip-15-204-184.us
 ip29.sudolio.io
 l603.scanner.modat.io
 mfyabgec.musicpda.com
@@ -60,6 +62,7 @@ recyber.net
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
+srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
