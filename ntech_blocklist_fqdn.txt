@@ -19,8 +19,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 127.14.26.34.bc.googleusercontent.com
+127.143.83.5.hosted-by.vpslayer.net
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
+25.149.216.162.bc.googleusercontent.com
 59-125-215-94.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 amz.unixwiz.net
