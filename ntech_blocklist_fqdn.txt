@@ -18,11 +18,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.66.150.34.bc.googleusercontent.com
+149.28.57.153.vultrusercontent.com
 154.167.69.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
+204.76.203.30.ptr.pfcloud.network
 59-127-109-45.hinet-ip.hinet.net
 83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -47,7 +49,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-08g.shadowserver.org
+scan-15k.shadowserver.org
+scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-79-00.shadowserver.org
 scan-83-7.shadowserver.org
