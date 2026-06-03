@@ -43,6 +43,7 @@ scan-60-12.shadowserver.org
 scan-71-09.shadowserver.org
 scan-79-08.shadowserver.org
 scan-81-7.shadowserver.org
+scan-83-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
