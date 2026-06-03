@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 149.28.57.153.vultrusercontent.com
 154.167.69.34.bc.googleusercontent.com
+159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 168-113-158-51.instances.scw.cloud
 180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
@@ -29,6 +30,8 @@
 amz.unixwiz.net
 azpdcgfwv02q.stretchoid.com
 azpdsg0jbem4.stretchoid.com
+azpdsg58gbbx.stretchoid.com
+azpdsg5u7l7d.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
 azpdsgimpili.stretchoid.com
 azpdsgokg9kc.stretchoid.com
@@ -51,6 +54,7 @@ l609.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o612.scanner.modat.io
 o618.scanner.modat.io
 o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
