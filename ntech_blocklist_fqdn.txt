@@ -31,7 +31,6 @@
 37.16.78.34.bc.googleusercontent.com
 57.63.156.34.bc.googleusercontent.com
 58.119.156.34.bc.googleusercontent.com
-60.88.26.94.tbc.bg
 83.212.40.34.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
@@ -260,13 +259,12 @@ l610.scanner.modat.io
 li1625-135.members.linode.com
 mail.vtechco.com
 mfyabgec.musicpda.com
-ns3128846.ip-54-38-92.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
-scan-83-7.shadowserver.org
+scan-79-08.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
