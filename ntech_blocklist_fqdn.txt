@@ -23,7 +23,6 @@
 180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
-59-127-109-45.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -41,7 +40,6 @@ azpdssumseh6.stretchoid.com
 azpdsswwm226.stretchoid.com
 azpdssy2j4f1.stretchoid.com
 b2.org.afilias-nst.org
-centos7223208.aspadmin.net
 cheaptaximalaga.com
 client.yota.ru
 dal215.hawkhost.com
@@ -52,8 +50,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
 l603.scanner.modat.io
-l609.scanner.modat.io
 mfyabgec.musicpda.com
+n.ryakhovsky.fvds.ru
 no-mans-land.m247.com
 o612.scanner.modat.io
 o618.scanner.modat.io
