@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
 45.67.144.52.ip.retelit.net
+60.88.26.94.tbc.bg
 9.76.78.34.bc.googleusercontent.com
 acceso-187.131.201.185.prod-infinitum.com.mx
 amz.unixwiz.net
@@ -56,6 +57,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-76-03.shadowserver.org
+scan-83-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
