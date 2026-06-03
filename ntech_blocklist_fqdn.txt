@@ -29,9 +29,11 @@
 37.16.78.34.bc.googleusercontent.com
 45.67.144.52.ip.retelit.net
 57.63.156.34.bc.googleusercontent.com
+58.119.156.34.bc.googleusercontent.com
 60.88.26.94.tbc.bg
 9.76.78.34.bc.googleusercontent.com
 acceso-187.131.201.185.prod-infinitum.com.mx
+adventure.yatano.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgrbfvbu.stretchoid.com
