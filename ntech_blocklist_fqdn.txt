@@ -254,7 +254,6 @@ festa04.jcatransporte.com.br
 fwnvyxu.top
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip245.ip-5-39-49.eu
 ip29.sudolio.io
 l609.scanner.modat.io
 l610.scanner.modat.io
@@ -265,12 +264,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04i.shadowserver.org
 scan-76-03.shadowserver.org
 scan-83-7.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-trafo.kz
 users219.vip.heteml.jp
 www.internet-albedo.net
