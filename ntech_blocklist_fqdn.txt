@@ -18,14 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 127.14.26.34.bc.googleusercontent.com
-149.28.57.153.vultrusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
-180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
 59-125-215-94.hinet-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
-83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgfwv02q.stretchoid.com
 azpdsg0jbem4.stretchoid.com
@@ -60,10 +56,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-scan-15k.shadowserver.org
-scan-40g.shadowserver.org
-scan-79-00.shadowserver.org
 scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
