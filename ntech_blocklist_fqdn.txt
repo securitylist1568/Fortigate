@@ -57,6 +57,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan.visionheight.com
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
