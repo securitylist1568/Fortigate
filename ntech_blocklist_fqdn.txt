@@ -20,10 +20,11 @@
 111.66.150.34.bc.googleusercontent.com
 154.167.69.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
+180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-36-224-145-78.dynamic-ip.hinet.net
 59-127-109-45.hinet-ip.hinet.net
+83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
@@ -35,7 +36,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip72.ip-54-36-18.eu
 l602.scanner.modat.io
 l608.scanner.modat.io
 l609.scanner.modat.io
@@ -49,14 +49,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-08g.shadowserver.org
 scan-42i.shadowserver.org
-scan-60-12.shadowserver.org
-scan-71-09.shadowserver.org
-scan-81-7.shadowserver.org
+scan-79-00.shadowserver.org
 scan-83-7.shadowserver.org
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
