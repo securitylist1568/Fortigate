@@ -24,11 +24,16 @@
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 59-127-109-45.hinet-ip.hinet.net
+62-210-125-62.rev.poneytelecom.eu
 83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgfwv02q.stretchoid.com
 azpdsg0jbem4.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
+azpdsgimpili.stretchoid.com
 azpdss5q5gjp.stretchoid.com
+azpdssumseh6.stretchoid.com
+azpdsswwm226.stretchoid.com
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
 cheaptaximalaga.com
@@ -42,6 +47,8 @@ ip29.sudolio.io
 l609.scanner.modat.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
+o618.scanner.modat.io
 o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
