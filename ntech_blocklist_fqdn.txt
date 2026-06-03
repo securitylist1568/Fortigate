@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.131.155.104.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,7 +20,6 @@
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 36-224-145-78.dynamic-ip.hinet.net
-83.212.40.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -221,13 +219,11 @@ ec2-98-92-37-139.compute-1.amazonaws.com
 ec2-98-92-42-190.compute-1.amazonaws.com
 ec2-98-92-60-211.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-fwnvyxu.top
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip72.ip-54-36-18.eu
 l609.scanner.modat.io
-l610.scanner.modat.io
 li1625-135.members.linode.com
 mail.vtechco.com
 mfyabgec.musicpda.com
@@ -240,10 +236,8 @@ scan-60-12.shadowserver.org
 scan-71-09.shadowserver.org
 scan-79-08.shadowserver.org
 scan-81-7.shadowserver.org
-scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
-www.internet-albedo.net
