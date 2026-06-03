@@ -28,6 +28,7 @@
 201.103.175.207.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 23.120.156.34.bc.googleusercontent.com
+36-224-145-78.dynamic-ip.hinet.net
 37.16.78.34.bc.googleusercontent.com
 57.63.156.34.bc.googleusercontent.com
 58.119.156.34.bc.googleusercontent.com
