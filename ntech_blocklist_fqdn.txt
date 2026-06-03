@@ -26,6 +26,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
+cheaptaximalaga.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -44,6 +45,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-08g.shadowserver.org
 scan-60-12.shadowserver.org
 scan-71-09.shadowserver.org
 scan-81-7.shadowserver.org
