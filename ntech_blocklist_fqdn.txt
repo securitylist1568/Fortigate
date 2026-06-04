@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+101.150.216.162.bc.googleusercontent.com
 103-112-0-32.oneqode.net
 104.150.216.162.bc.googleusercontent.com
 109.150.216.162.bc.googleusercontent.com
@@ -63,6 +64,7 @@ azpdssya3d1q.stretchoid.com
 azpdsszhqwse.stretchoid.com
 azpdws6b5q5j.stretchoid.com
 azpdwsayyn3f.stretchoid.com
+azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
