@@ -21,6 +21,7 @@
 126.143.83.5.hosted-by.vpslayer.net
 137.211.203.35.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
+164.4.145.34.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,6 +35,7 @@
 36-229-241-194.dynamic-ip.hinet.net
 47.211.203.35.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
+56.211.203.35.bc.googleusercontent.com
 61.14.230.8.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 65.161.67.34.bc.googleusercontent.com
