@@ -20,7 +20,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.143.83.5.hosted-by.vpslayer.net
 130.210.203.35.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 135.210.203.35.bc.googleusercontent.com
@@ -35,12 +34,12 @@
 185.241.208.79.powered.by.rdp.sh
 186.149.216.162.bc.googleusercontent.com
 194.95.211.130.bc.googleusercontent.com
-200.210.203.35.bc.googleusercontent.com
 216-10-250-47.webhostbox.net
+222.211.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 239.169.241.35.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
-45.210.203.35.bc.googleusercontent.com
+38.211.64.34.bc.googleusercontent.com
 52.246.156.34.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
 73.104.156.34.bc.googleusercontent.com
@@ -57,6 +56,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l600.scanner.modat.io
+li1537-121.members.linode.com
 mfyabgec.musicpda.com
 o614.scanner.modat.io
 o615.scanner.modat.io
