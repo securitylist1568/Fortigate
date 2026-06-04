@@ -39,6 +39,7 @@
 194.95.211.130.bc.googleusercontent.com
 216-10-250-47.webhostbox.net
 222.211.203.35.bc.googleusercontent.com
+226.210.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 239.169.241.35.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
@@ -76,6 +77,7 @@ recyber.net
 rootevidence.com
 scan-06g.shadowserver.org
 scan-56f.shadowserver.org
+scan-61-4.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
