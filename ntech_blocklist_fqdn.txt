@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-109-248-43-169.skylon.cloud
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -22,12 +21,14 @@
 127.149.216.162.bc.googleusercontent.com
 130.139.62.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+144.149.216.162.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
 154.167.69.34.bc.googleusercontent.com
 154.219.79.34.bc.googleusercontent.com
 155.142.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.95.211.130.bc.googleusercontent.com
+196.149.216.162.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 211.40.155.104.bc.googleusercontent.com
 239.169.241.35.bc.googleusercontent.com
@@ -68,6 +69,7 @@ l601.scanner.modat.io
 l602.scanner.modat.io
 l609.scanner.modat.io
 mfyabgec.musicpda.com
+ns1025754.ip-15-204-107.us
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -75,7 +77,6 @@ recyber.net
 scan-40e.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
-srv-141-98-10-161.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 users219.vip.heteml.jp
