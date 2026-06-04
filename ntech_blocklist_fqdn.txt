@@ -18,15 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.143.83.5.hosted-by.vpslayer.net
-130.139.62.34.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
 138.211.203.35.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
-154.150.216.162.bc.googleusercontent.com
 154.219.79.34.bc.googleusercontent.com
-155.142.205.35.bc.googleusercontent.com
 163.53.228.8.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
 181.79.156.34.bc.googleusercontent.com
@@ -46,7 +43,6 @@
 73.104.156.34.bc.googleusercontent.com
 74.149.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
-87.236.140.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -56,7 +52,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-kub002.idyschool.de.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 ns1025754.ip-15-204-107.us
