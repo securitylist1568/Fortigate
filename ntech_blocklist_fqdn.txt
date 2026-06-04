@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+126.143.83.5.hosted-by.vpslayer.net
 130.211.203.35.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
 135.210.203.35.bc.googleusercontent.com
@@ -27,6 +28,7 @@
 164.186.184.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
+171.149.216.162.bc.googleusercontent.com
 179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
@@ -34,17 +36,20 @@
 216-10-250-47.webhostbox.net
 222.211.203.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
+227.211.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 245.150.216.162.bc.googleusercontent.com
 36-229-241-194.dynamic-ip.hinet.net
 38.211.64.34.bc.googleusercontent.com
 47.211.203.35.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
+61.14.230.8.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
 70.124.97.34.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
 8.241.85.34.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
+97.143.83.5.hosted-by.vpslayer.net
 amz.unixwiz.net
 azpdesxe24x7.stretchoid.com
 azpdsg492br4.stretchoid.com
