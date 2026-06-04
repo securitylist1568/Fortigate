@@ -79,6 +79,7 @@ gtra.gov.af
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+l601.scanner.modat.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 noptr.inleed.net
