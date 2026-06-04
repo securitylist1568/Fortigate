@@ -24,7 +24,6 @@
 130.211.203.35.bc.googleusercontent.com
 135.210.203.35.bc.googleusercontent.com
 138.211.203.35.bc.googleusercontent.com
-147.211.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 154.219.79.34.bc.googleusercontent.com
 163.53.228.8.bc.googleusercontent.com
@@ -45,7 +44,6 @@
 45.211.203.35.bc.googleusercontent.com
 52.246.156.34.bc.googleusercontent.com
 73.104.156.34.bc.googleusercontent.com
-74.149.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 adsl.viettel.vn
 amz.unixwiz.net
