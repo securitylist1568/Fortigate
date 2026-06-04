@@ -19,14 +19,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 126.143.83.5.hosted-by.vpslayer.net
-135.150.216.162.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
-164.186.184.35.bc.googleusercontent.com
-17.149.216.162.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-191.149.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 223.150.216.162.bc.googleusercontent.com
@@ -41,7 +37,6 @@
 62-210-125-62.rev.poneytelecom.eu
 65.161.67.34.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
-70.124.97.34.bc.googleusercontent.com
 78.210.203.35.bc.googleusercontent.com
 8.20.230.8.bc.googleusercontent.com
 8.241.85.34.bc.googleusercontent.com
@@ -80,8 +75,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l601.scanner.modat.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
-noptr.inleed.net
 o614.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -89,9 +84,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-06g.shadowserver.org
 scan-61-4.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
