@@ -23,7 +23,6 @@
 144.149.216.162.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
-154.167.69.34.bc.googleusercontent.com
 154.219.79.34.bc.googleusercontent.com
 155.142.205.35.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
@@ -60,11 +59,8 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip54.ip-15-204-165.us
 kub002.idyschool.de.com
-l601.scanner.modat.io
 l602.scanner.modat.io
-l609.scanner.modat.io
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 ns1025754.ip-15-204-107.us
@@ -72,6 +68,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-61-4.shadowserver.org
 scan-73-02.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
