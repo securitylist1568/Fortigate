@@ -28,17 +28,16 @@
 202.149.216.162.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
-223.150.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
+40.210.203.35.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
+60.88.26.94.tbc.bg
 62-210-125-62.rev.poneytelecom.eu
 63.150.216.162.bc.googleusercontent.com
-65.161.67.34.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
-78.210.203.35.bc.googleusercontent.com
 8.20.230.8.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 88.55.85.34.bc.googleusercontent.com
@@ -54,6 +53,7 @@ ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip72.ip-54-36-18.eu
 li1873-236.members.linode.com
