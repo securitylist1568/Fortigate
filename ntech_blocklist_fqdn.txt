@@ -21,7 +21,6 @@
 128.211.203.35.bc.googleusercontent.com
 139.82.38.34.bc.googleusercontent.com
 163.34.79.202.wlink.com.np
-170.229.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.201.60.34.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 238.210.203.35.bc.googleusercontent.com
 245.243.189.35.bc.googleusercontent.com
 3.150.216.162.bc.googleusercontent.com
-43.235.62.34.bc.googleusercontent.com
 49.201.62.34.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
 62-210-131-8.rev.poneytelecom.eu
