@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+135.150.216.162.bc.googleusercontent.com
 139.82.38.34.bc.googleusercontent.com
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
@@ -38,6 +39,15 @@
 72.127.78.34.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgmv4rzj.stretchoid.com
+azpdes63bdu5.stretchoid.com
+azpdsgebcoxy.stretchoid.com
+azpdsgo2stos.stretchoid.com
+azpdss5zo5ld.stretchoid.com
+azpdssc7ge2h.stretchoid.com
+azpdssguw7ri.stretchoid.com
+azpdssya3d1q.stretchoid.com
+azpdws0frgb6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
