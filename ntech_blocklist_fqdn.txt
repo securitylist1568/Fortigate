@@ -20,6 +20,7 @@
 113.149.216.162.bc.googleusercontent.com
 116.46.79.34.bc.googleusercontent.com
 125.183.53.34.bc.googleusercontent.com
+128.149.216.162.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 138.150.216.162.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
@@ -108,5 +109,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
 user-170-39-224-220.iad03.us.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vmi2936459.contaboserver.net
