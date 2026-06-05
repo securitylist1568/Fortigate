@@ -25,6 +25,7 @@
 128.211.203.35.bc.googleusercontent.com
 139.82.38.34.bc.googleusercontent.com
 140.246.53.34.bc.googleusercontent.com
+163.34.79.202.wlink.com.np
 170.229.156.34.bc.googleusercontent.com
 184.168.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -36,6 +37,7 @@
 203.47.140.34.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 211.176.22.34.bc.googleusercontent.com
+219.211.203.35.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 27.141.140.34.bc.googleusercontent.com
 3.150.216.162.bc.googleusercontent.com
@@ -70,8 +72,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40g.shadowserver.org
 scan-63-13.shadowserver.org
 scan-74-02.shadowserver.org
+scan-77-06.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
