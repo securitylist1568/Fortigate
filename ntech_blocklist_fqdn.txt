@@ -38,7 +38,10 @@
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
+187.59.14.34.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
+194-195-253-86.ip.linodeusercontent.com
+200-114-114-38.clients.gthost.com
 203.47.140.34.bc.googleusercontent.com
 205.150.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
@@ -64,6 +67,7 @@
 95.149.216.162.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 98.143.83.5.hosted-by.vpslayer.net
+abts-north-dynamic-189.215.176.122.airtelbroadband.in
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
