@@ -1885,3 +1885,5 @@ ntnudoortest.neocities.org
 streamdot.douyucdn.cn
  opensportssciencesjournal.co
  *. opensportssciencesjournal.co
+ polyfill.io
+ *.polyfill.io
