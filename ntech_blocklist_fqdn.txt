@@ -26,6 +26,7 @@
 138.226.123.103.jnpl.jeebr.net
 139.82.38.34.bc.googleusercontent.com
 140.246.53.34.bc.googleusercontent.com
+170.229.156.34.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 184.168.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -44,6 +45,7 @@
 34.155.52.34.bc.googleusercontent.com
 36-228-124-238.dynamic-ip.hinet.net
 42.17.156.34.bc.googleusercontent.com
+43.235.62.34.bc.googleusercontent.com
 49.201.62.34.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 52.194.184.35.bc.googleusercontent.com
