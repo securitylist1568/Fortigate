@@ -38,6 +38,7 @@
 208.211.203.35.bc.googleusercontent.com
 211.176.22.34.bc.googleusercontent.com
 219.211.203.35.bc.googleusercontent.com
+230.150.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 27.141.140.34.bc.googleusercontent.com
 3.150.216.162.bc.googleusercontent.com
@@ -71,11 +72,14 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r5.ams.opendns.com
 recyber.net
 scan-40g.shadowserver.org
+scan-45o.shadowserver.org
 scan-63-13.shadowserver.org
 scan-74-02.shadowserver.org
 scan-77-06.shadowserver.org
+scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
