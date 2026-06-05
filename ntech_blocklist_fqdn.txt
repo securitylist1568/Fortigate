@@ -22,7 +22,6 @@
 139.82.38.34.bc.googleusercontent.com
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
-192.201.60.34.bc.googleusercontent.com
 200-114.vargonen.net
 202.149.216.162.bc.googleusercontent.com
 211.176.22.34.bc.googleusercontent.com
@@ -36,7 +35,6 @@
 49.201.62.34.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
 62-210-131-8.rev.poneytelecom.eu
-68.149.216.162.bc.googleusercontent.com
 72.127.78.34.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -51,6 +49,7 @@ azpdsgo2stos.stretchoid.com
 azpdsgo34xwr.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdsgs49ai2.stretchoid.com
+azpdsgw3iszc.stretchoid.com
 azpdss5zo5ld.stretchoid.com
 azpdssc7ge2h.stretchoid.com
 azpdsse6bn8p.stretchoid.com
@@ -64,6 +63,7 @@ azpdsswwm226.stretchoid.com
 azpdssya3d1q.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 azpdws0frgb6.stretchoid.com
+azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
