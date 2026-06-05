@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.149.216.162.bc.googleusercontent.com
 116.46.79.34.bc.googleusercontent.com
 125.183.53.34.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
@@ -28,7 +29,6 @@
 143-42-173-60.ip.linodeusercontent.com
 170.229.156.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
-172-236-0-215.ip.linodeusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -42,9 +42,7 @@
 192-155-81-124.ip.linodeusercontent.com
 203.47.140.34.bc.googleusercontent.com
 205.150.216.162.bc.googleusercontent.com
-208.211.203.35.bc.googleusercontent.com
 219.74.14.34.bc.googleusercontent.com
-224.149.216.162.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 240.234.38.34.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
@@ -61,7 +59,6 @@
 60.88.26.94.tbc.bg
 64.95.175.207.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
-88.55.85.34.bc.googleusercontent.com
 90.57.175.207.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 98.143.83.5.hosted-by.vpslayer.net
@@ -72,7 +69,6 @@ client.yota.ru
 cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-adsl.viettel.vn
 ec2-100-31-161-161.compute-1.amazonaws.com
 ec2-13-218-113-4.compute-1.amazonaws.com
 ec2-13-221-252-102.compute-1.amazonaws.com
@@ -85,7 +81,6 @@ ec2-52-91-175-93.compute-1.amazonaws.com
 ec2-54-152-211-0.compute-1.amazonaws.com
 ec2-54-167-169-61.compute-1.amazonaws.com
 ec2-98-80-74-129.compute-1.amazonaws.com
-ecs-123-60-91-89.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
