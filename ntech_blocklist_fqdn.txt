@@ -42,6 +42,8 @@
 194-195-253-86.ip.linodeusercontent.com
 197.211.203.35.bc.googleusercontent.com
 200-114-114-38.clients.gthost.com
+203.47.140.34.bc.googleusercontent.com
+208.211.203.35.bc.googleusercontent.com
 211.176.22.34.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 219.74.14.34.bc.googleusercontent.com
