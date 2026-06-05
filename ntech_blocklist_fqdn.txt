@@ -21,7 +21,6 @@
 113.149.216.162.bc.googleusercontent.com
 116.46.79.34.bc.googleusercontent.com
 125.183.53.34.bc.googleusercontent.com
-127.149.216.162.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 138.150.216.162.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
@@ -36,7 +35,6 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
-184.191.97.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
@@ -59,7 +57,6 @@
 58.88.26.94.tbc.bg
 60.88.26.94.tbc.bg
 64.95.175.207.bc.googleusercontent.com
-6682-315a.jnb01.za.misaka.io
 84.150.216.162.bc.googleusercontent.com
 90.57.175.207.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
@@ -93,7 +90,6 @@ ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 ip61.ip-15-204-165.us
-ip72.ip-54-36-18.eu
 mfyabgec.musicpda.com
 o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -101,7 +97,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-s4850.vps.hosting
 scan-02k.shadowserver.org
 scan-59g.shadowserver.org
 scan-69-05.shadowserver.org
