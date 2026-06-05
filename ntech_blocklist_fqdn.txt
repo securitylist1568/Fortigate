@@ -22,6 +22,7 @@
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
 192.201.60.34.bc.googleusercontent.com
+200-114.vargonen.net
 202.149.216.162.bc.googleusercontent.com
 211.176.22.34.bc.googleusercontent.com
 219.211.203.35.bc.googleusercontent.com
@@ -49,6 +50,7 @@ ip-49-62.4vendeta.com
 ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
