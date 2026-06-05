@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-102-213-6-53.rackzar.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -35,18 +34,20 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 203.47.140.34.bc.googleusercontent.com
 205.150.216.162.bc.googleusercontent.com
+212.211.203.35.bc.googleusercontent.com
 219.74.14.34.bc.googleusercontent.com
+222.211.203.35.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 240.234.38.34.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
 253.3.79.34.bc.googleusercontent.com
 36-228-124-238.dynamic-ip.hinet.net
-40.210.203.35.bc.googleusercontent.com
 42.17.156.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -54,8 +55,8 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+5.149.216.162.bc.googleusercontent.com
 58.88.26.94.tbc.bg
-60.88.26.94.tbc.bg
 64.95.175.207.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
 90.57.175.207.bc.googleusercontent.com
@@ -86,7 +87,6 @@ gus-mongodb-263a0ca6.mongo.ondigitalocean.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
-ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 ip61.ip-15-204-165.us
@@ -98,6 +98,7 @@ proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
 scan-02k.shadowserver.org
+scan-15k.shadowserver.org
 scan-59g.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-05.shadowserver.org
@@ -105,6 +106,7 @@ scan-73-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+toro.itapizaco.edu.mx
 user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
 vmi2936459.contaboserver.net
