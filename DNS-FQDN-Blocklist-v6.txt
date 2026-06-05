@@ -1883,3 +1883,5 @@ auth-ictwebmailservices.framer.website
 ntnudoortest.neocities.org
 *.webflow.io
 streamdot.douyucdn.cn
+ opensportssciencesjournal.co
+ *. opensportssciencesjournal.co
