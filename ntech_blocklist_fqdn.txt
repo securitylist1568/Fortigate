@@ -60,7 +60,9 @@
 60.88.26.94.tbc.bg
 64.95.175.207.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
+84.150.216.162.bc.googleusercontent.com
 90.57.175.207.bc.googleusercontent.com
+95.149.216.162.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 98.143.83.5.hosted-by.vpslayer.net
 amz.unixwiz.net
@@ -83,6 +85,7 @@ ec2-54-152-211-0.compute-1.amazonaws.com
 ec2-54-167-169-61.compute-1.amazonaws.com
 ec2-98-80-74-129.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+gus-mongodb-263a0ca6.mongo.ondigitalocean.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
