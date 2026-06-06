@@ -26,9 +26,16 @@
 185-45-195-15.hostsailor.com
 212.149.216.162.bc.googleusercontent.com
 236.149.216.162.bc.googleusercontent.com
+54.149.216.162.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 83.109.136.61.ha.cnc
 amz.unixwiz.net
+azpdcgdroqxu.stretchoid.com
+azpdcsguyw0e.stretchoid.com
+azpdsgimpili.stretchoid.com
+azpdsgu2vs9r.stretchoid.com
+azpdsse6bn8p.stretchoid.com
+azpdws28galu.stretchoid.com
 b2.org.afilias-nst.org
 car142.careercorejourney.com
 client.yota.ru
