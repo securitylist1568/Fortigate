@@ -53,7 +53,9 @@ recyber.net
 scan-02k.shadowserver.org
 scan-14h.shadowserver.org
 scan-56a.shadowserver.org
+scan-63-13.shadowserver.org
 scan-63-2.shadowserver.org
+scan-70-00.shadowserver.org
 scan-77-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
