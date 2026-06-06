@@ -29,8 +29,10 @@
 185-45-195-15.hostsailor.com
 212.149.216.162.bc.googleusercontent.com
 236.149.216.162.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 54.149.216.162.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
+94.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
@@ -39,10 +41,13 @@ azpdcsmatos4.stretchoid.com
 azpdesdfn5lp.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg09h0rw.stretchoid.com
+azpdsg0p0xel.stretchoid.com
+azpdsg3ry68v.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsg6i54lg.stretchoid.com
 azpdsg8708op.stretchoid.com
+azpdsgd9sbi1.stretchoid.com
 azpdsggpb2c0.stretchoid.com
 azpdsgigumtz.stretchoid.com
 azpdsgimpili.stretchoid.com
@@ -56,8 +61,10 @@ azpdss33l1a5.stretchoid.com
 azpdss4lc1pe.stretchoid.com
 azpdssc7ge2h.stretchoid.com
 azpdsse6bn8p.stretchoid.com
+azpdssguw7ri.stretchoid.com
 azpdssml72hw.stretchoid.com
 azpdssteiqpy.stretchoid.com
+azpdssu8seh3.stretchoid.com
 azpdssw3j3o8.stretchoid.com
 azpdssy9gjfn.stretchoid.com
 azpdws28galu.stretchoid.com
