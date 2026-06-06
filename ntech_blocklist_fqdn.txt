@@ -26,13 +26,12 @@
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.149.216.162.bc.googleusercontent.com
-197.211.203.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 212.149.216.162.bc.googleusercontent.com
-60.150.216.162.bc.googleusercontent.com
 83.109.136.61.ha.cnc
 amz.unixwiz.net
 b2.org.afilias-nst.org
+car142.careercorejourney.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -40,9 +39,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ib.systems
+ip-58-18.4vendeta.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
-ip60.ip-72-251-5.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -50,7 +49,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
 scan-14h.shadowserver.org
-scan-56a.shadowserver.org
 scan-63-13.shadowserver.org
 scan-63-2.shadowserver.org
 scan-70-00.shadowserver.org
