@@ -30,6 +30,7 @@
 2.191.12.34.bc.googleusercontent.com
 20.26.189.107.static.cloudzy.com
 207.149.216.162.bc.googleusercontent.com
+211.176.22.34.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 229.89.62.34.bc.googleusercontent.com
 236.22.14.34.bc.googleusercontent.com
