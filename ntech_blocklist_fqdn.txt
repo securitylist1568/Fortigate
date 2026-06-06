@@ -37,6 +37,7 @@
 45.63.4.69.vultrusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 63.150.216.162.bc.googleusercontent.com
+66.210.203.35.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -81,12 +82,10 @@ crawler202.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 niall.probe.onyphe.net
@@ -99,9 +98,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 teddy.probe.onyphe.net
 unn-169-150-252-179.datapacket.com
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
