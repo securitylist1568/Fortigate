@@ -32,7 +32,10 @@
 207.149.216.162.bc.googleusercontent.com
 211.176.22.34.bc.googleusercontent.com
 229.89.62.34.bc.googleusercontent.com
+236.22.14.34.bc.googleusercontent.com
+36.174.38.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+50.15.175.207.bc.googleusercontent.com
 52.69.62.34.bc.googleusercontent.com
 64.95.175.207.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
