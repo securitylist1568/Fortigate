@@ -21,6 +21,7 @@
 120.143.83.5.hosted-by.vpslayer.net
 124.149.216.162.bc.googleusercontent.com
 127.143.83.5.hosted-by.vpslayer.net
+144.92.74.97.host.secureserver.net
 157.149.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
