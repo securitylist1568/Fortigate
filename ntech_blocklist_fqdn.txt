@@ -32,6 +32,7 @@
 20.26.189.107.static.cloudzy.com
 211.176.22.34.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
+229.89.62.34.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 236.22.14.34.bc.googleusercontent.com
 245.243.189.35.bc.googleusercontent.com
@@ -41,6 +42,7 @@
 50.15.175.207.bc.googleusercontent.com
 56.88.26.94.tbc.bg
 62.150.216.162.bc.googleusercontent.com
+64.95.175.207.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
 70.50.21.34.bc.googleusercontent.com
 95.219.156.34.bc.googleusercontent.com
