@@ -20,12 +20,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-236.dynamic-ip.hinet.net
 139.82.38.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 151.120.76.34.bc.googleusercontent.com
 166.253.62.34.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.210.203.35.bc.googleusercontent.com
+192.248.150.180.vultrusercontent.com
 2.191.12.34.bc.googleusercontent.com
 20.26.189.107.static.cloudzy.com
 207.149.216.162.bc.googleusercontent.com
@@ -44,6 +46,7 @@
 66.210.203.35.bc.googleusercontent.com
 70.50.21.34.bc.googleusercontent.com
 95.219.156.34.bc.googleusercontent.com
+alc.safekeep.online
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
