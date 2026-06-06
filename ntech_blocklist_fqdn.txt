@@ -18,12 +18,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-236.dynamic-ip.hinet.net
+124.149.216.162.bc.googleusercontent.com
 136.150.216.162.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
+168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.211.203.35.bc.googleusercontent.com
 2.191.12.34.bc.googleusercontent.com
-204.76.203.30.ptr.pfcloud.network
 205.149.216.162.bc.googleusercontent.com
 236.22.14.34.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
@@ -40,9 +41,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ib.systems
-ip245.ip-5-39-49.eu
 ip29.sudolio.io
-ip54.ip-15-204-165.us
 ip60.ip-72-251-5.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -51,9 +50,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.org
 scan-14h.shadowserver.org
-scan-47k.shadowserver.org
 scan-56a.shadowserver.org
-scan-63-13.shadowserver.org
 scan-63-2.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
