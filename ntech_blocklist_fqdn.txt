@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+112.143.83.5.hosted-by.vpslayer.net
 124.149.216.162.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
