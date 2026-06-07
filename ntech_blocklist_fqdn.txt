@@ -20,7 +20,6 @@
 118-168-225-236.dynamic-ip.hinet.net
 123.211.203.35.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
-144.92.74.97.host.secureserver.net
 161.210.203.35.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -68,14 +67,12 @@ azpdwsayyn3f.stretchoid.com
 azpdwsmvd288.stretchoid.com
 azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
-car142.careercorejourney.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-18.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
