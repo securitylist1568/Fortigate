@@ -60,6 +60,7 @@ scan-45o.shadowserver.org
 scan-74-07.shadowserver.org
 scan-75-05.shadowserver.org
 scan-80-9.shadowserver.org
+scan-86-0.shadowserver.org
 scan-87-7.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
