@@ -37,6 +37,7 @@
 54.149.216.162.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 71.149.216.162.bc.googleusercontent.com
+71.150.216.162.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
 97-107-140-125.ip.linodeusercontent.com
 amz.unixwiz.net
