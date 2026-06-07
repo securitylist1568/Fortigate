@@ -47,6 +47,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip72.ip-54-36-18.eu
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 peters.probe.onyphe.net
@@ -60,6 +61,7 @@ scan-45o.shadowserver.org
 scan-74-07.shadowserver.org
 scan-75-05.shadowserver.org
 scan-80-9.shadowserver.org
+scan-85-3.shadowserver.org
 scan-86-0.shadowserver.org
 scan-87-7.shadowserver.org
 scan-89-5.shadowserver.org
@@ -67,4 +69,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-251.sea02.us.misaka.io
+user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
