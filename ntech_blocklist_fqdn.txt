@@ -30,6 +30,7 @@
 192.248.150.180.vultrusercontent.com
 205.105.156.34.bc.googleusercontent.com
 213.232.125.34.bc.googleusercontent.com
+214.149.216.162.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 36.159.34.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
