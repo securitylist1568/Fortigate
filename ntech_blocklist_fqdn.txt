@@ -21,7 +21,6 @@
 115.243.118.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-192.248.150.180.vultrusercontent.com
 213.232.125.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 45.63.4.69.vultrusercontent.com
@@ -30,9 +29,9 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler203.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 ec2-18-217-41-93.us-east-2.compute.amazonaws.com
 ec2-18-217-41-95.us-east-2.compute.amazonaws.com
 ec2-3-139-136-156.us-east-2.compute.amazonaws.com
@@ -44,9 +43,9 @@ ec2-3-19-147-64.us-east-2.compute.amazonaws.com
 exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip54.ip-15-204-165.us
 linda.probe.onyphe.net
 lisbon.portugal.com
 mfyabgec.musicpda.com
