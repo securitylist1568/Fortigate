@@ -19,8 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-236.dynamic-ip.hinet.net
 123.211.203.35.bc.googleusercontent.com
+130.123.38.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 161.210.203.35.bc.googleusercontent.com
+164.176.205.35.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 224.149.216.162.bc.googleusercontent.com
@@ -76,7 +78,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ns3027750.ip-51-255-66.eu
+ns3133441.ip-51-75-53.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
