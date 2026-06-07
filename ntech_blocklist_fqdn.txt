@@ -17,13 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.18.205.35.bc.googleusercontent.com
 115.243.118.34.bc.googleusercontent.com
-179.210.203.35.bc.googleusercontent.com
-184.149.216.162.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
-213.232.125.34.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 amz.unixwiz.net
@@ -36,7 +33,6 @@ dns12.online.tj.cn
 exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
