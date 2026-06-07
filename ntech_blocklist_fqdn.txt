@@ -53,6 +53,7 @@ peters.probe.onyphe.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
 scan-45o.shadowserver.org
