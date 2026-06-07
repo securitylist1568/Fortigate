@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+130.123.38.34.bc.googleusercontent.com
 145.210.203.35.bc.googleusercontent.com
 164.176.205.35.bc.googleusercontent.com
 172-236-0-215.ip.linodeusercontent.com
@@ -51,6 +52,7 @@ ip72.ip-54-36-18.eu
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
+peters.probe.onyphe.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
