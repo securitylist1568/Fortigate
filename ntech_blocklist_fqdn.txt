@@ -22,6 +22,7 @@
 179.210.203.35.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 213.232.125.34.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
@@ -38,6 +39,7 @@ hn.kd.ny.adsl
 hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip54.ip-15-204-165.us
 li1873-236.members.linode.com
 mail.kaniskasoft.com
 mfyabgec.musicpda.com
