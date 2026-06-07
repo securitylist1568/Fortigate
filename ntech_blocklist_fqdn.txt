@@ -17,17 +17,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.143.83.5.hosted-by.vpslayer.net
 118-168-225-236.dynamic-ip.hinet.net
-120.143.83.5.hosted-by.vpslayer.net
 123.211.203.35.bc.googleusercontent.com
-127.143.83.5.hosted-by.vpslayer.net
 138.226.123.103.jnpl.jeebr.net
 144.92.74.97.host.secureserver.net
 161.210.203.35.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-212.149.216.162.bc.googleusercontent.com
 236.149.216.162.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 54.149.216.162.bc.googleusercontent.com
@@ -89,6 +85,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
+spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
 teddy.probe.onyphe.net
 users219.vip.heteml.jp
