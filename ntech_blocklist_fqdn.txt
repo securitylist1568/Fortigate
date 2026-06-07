@@ -34,7 +34,6 @@
 209-33-37-101.neshcmtc01.res.dyn.suddenlink.net
 213.232.125.34.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
-224.149.216.162.bc.googleusercontent.com
 36.159.34.34.bc.googleusercontent.com
 62-210-131-8.rev.poneytelecom.eu
 71.149.216.162.bc.googleusercontent.com
@@ -88,11 +87,8 @@ recyber.net
 rootevidence.com
 scan-12f.shadowserver.org
 scan-52k.shadowserver.org
-scan-61-9.shadowserver.org
 scan-71-09.shadowserver.org
 scan-73-02.shadowserver.org
-scan-76-02.shadowserver.org
-scan-85-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
