@@ -24,6 +24,7 @@
 192.248.150.180.vultrusercontent.com
 213.232.125.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
+45.63.4.69.vultrusercontent.com
 96-126-108-55.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -48,6 +49,7 @@ ip54.ip-15-204-165.us
 linda.probe.onyphe.net
 mail.kaniskasoft.com
 mfyabgec.musicpda.com
+n.ryakhovsky.fvds.ru
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
