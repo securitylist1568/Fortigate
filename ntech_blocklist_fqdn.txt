@@ -22,7 +22,7 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
-214.149.216.162.bc.googleusercontent.com
+213.232.125.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 45.63.4.69.vultrusercontent.com
 amz.unixwiz.net
@@ -48,7 +48,6 @@ recyber.net
 rootevidence.com
 scan-40e.shadowserver.org
 scan-42i.shadowserver.org
-scan-74-07.shadowserver.org
 scan-85-3.shadowserver.org
 scan-86-0.shadowserver.org
 scan-89-5.shadowserver.org
