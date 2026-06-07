@@ -33,6 +33,7 @@
 224.149.216.162.bc.googleusercontent.com
 36.159.34.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+62-210-131-8.rev.poneytelecom.eu
 71.149.216.162.bc.googleusercontent.com
 71.150.216.162.bc.googleusercontent.com
 72.60.78.34.bc.googleusercontent.com
