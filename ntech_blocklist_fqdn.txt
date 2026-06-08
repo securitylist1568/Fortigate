@@ -56,7 +56,16 @@
 79.126.118.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgkm3iag.stretchoid.com
+azpdsg3ry68v.stretchoid.com
+azpdsgdthnqp.stretchoid.com
+azpdsge43nsk.stretchoid.com
+azpdss1xwgc0.stretchoid.com
 azpdss2sy749.stretchoid.com
+azpdssfkcbom.stretchoid.com
+azpdssk480wi.stretchoid.com
+azpdssxq24h7.stretchoid.com
+azpdssy9gjfn.stretchoid.com
+azpdws0frgb6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler020.deepfield.net
@@ -95,6 +104,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
 scan-09n.shadowserver.org
+scan-15k.shadowserver.org
 scan-53j.shadowserver.org
 scan-85-3.shadowserver.org
 scan-89-0.shadowserver.org
