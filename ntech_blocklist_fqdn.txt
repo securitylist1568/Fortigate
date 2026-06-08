@@ -27,6 +27,7 @@
 172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
 188.28.79.34.bc.googleusercontent.com
+192.248.150.180.vultrusercontent.com
 198.89.79.34.bc.googleusercontent.com
 200.211.62.34.bc.googleusercontent.com
 219.91.76.34.bc.googleusercontent.com
