@@ -28,6 +28,7 @@
 42.123.243.83.in-addr.arpa
 45-79-162-73.ip.linodeusercontent.com
 62-210-131-8.rev.poneytelecom.eu
+69.172.195.35.bc.googleusercontent.com
 74.120.79.34.bc.googleusercontent.com
 79.126.118.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -58,4 +59,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
+user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
