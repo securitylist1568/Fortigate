@@ -34,6 +34,7 @@
 229.83.195.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45-79-162-73.ip.linodeusercontent.com
+62-210-131-8.rev.poneytelecom.eu
 69.172.195.35.bc.googleusercontent.com
 74.120.79.34.bc.googleusercontent.com
 79.126.118.34.bc.googleusercontent.com
