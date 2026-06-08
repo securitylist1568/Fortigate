@@ -66,6 +66,7 @@ recyber.net
 scan-06g.shadowserver.org
 scan-10g.shadowserver.org
 scan-14l.shadowserver.org
+scan-43h.shadowserver.org
 scan-86-0.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
