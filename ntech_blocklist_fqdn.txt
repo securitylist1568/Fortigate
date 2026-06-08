@@ -31,7 +31,6 @@
 200.211.62.34.bc.googleusercontent.com
 219.91.76.34.bc.googleusercontent.com
 229.83.195.35.bc.googleusercontent.com
-36-232-183-156.dynamic-ip.hinet.net
 42.123.243.83.in-addr.arpa
 45-79-162-73.ip.linodeusercontent.com
 69.172.195.35.bc.googleusercontent.com
@@ -52,12 +51,13 @@ out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r297-pr-guacu.ibys.com.br
 recyber.net
 rootevidence.com
-scan-06g.shadowserver.org
 scan-10g.shadowserver.org
 scan-14l.shadowserver.org
 scan-43h.shadowserver.org
+scan-60.security.ipip.net
 scan-76-02.shadowserver.org
 scan-86-0.shadowserver.org
 scanner-info.rootevidence.com
