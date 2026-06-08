@@ -26,7 +26,6 @@
 141.65.205.35.bc.googleusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
-144.92.74.97.host.secureserver.net
 147.237.156.34.bc.googleusercontent.com
 149.32.175.207.bc.googleusercontent.com
 154.187.38.34.bc.googleusercontent.com
@@ -43,12 +42,12 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 222.68.14.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 252.187.205.35.bc.googleusercontent.com
 34.91.155.104.bc.googleusercontent.com
 35.0.155.104.bc.googleusercontent.com
+36.94.177.195.in-addr.arpa
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -58,10 +57,8 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler015.deepfield.net
 crawler020.deepfield.net
 crawler122.deepfield.net
-crawler192.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-27-190-243.compute-1.amazonaws.com
@@ -85,6 +82,7 @@ ec2-98-93-104-4.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mail.dargah.net
 mfyabgec.musicpda.com
@@ -95,7 +93,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
-scan-08g.shadowserver.org
 scan-09n.shadowserver.org
 scan-53j.shadowserver.org
 scan-85-3.shadowserver.org
