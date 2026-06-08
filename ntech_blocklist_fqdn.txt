@@ -24,7 +24,6 @@
 159.122.14.34.bc.googleusercontent.com
 164.212.156.34.bc.googleusercontent.com
 172-104-151-240.ip.linodeusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
 188.28.79.34.bc.googleusercontent.com
@@ -48,7 +47,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
-out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
