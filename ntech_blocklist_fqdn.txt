@@ -1,4 +1,3 @@
-1-162-251-62.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -18,8 +17,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.243.118.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 36-232-183-156.dynamic-ip.hinet.net
 36.94.177.195.in-addr.arpa
@@ -68,6 +67,7 @@ ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
+out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -76,10 +76,8 @@ rping.ipip.net
 scan-06g.shadowserver.org
 scan-15k.shadowserver.org
 scan-41m.shadowserver.org
-scan-53j.shadowserver.org
 scan-89-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-toro.itapizaco.edu.mx
 users219.vip.heteml.jp
