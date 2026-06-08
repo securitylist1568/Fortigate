@@ -20,12 +20,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.110.155.104.bc.googleusercontent.com
 138.198.232.8.bc.googleusercontent.com
-172-104-151-240.ip.linodeusercontent.com
 172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 204.76.203.64.ptr.pfcloud.network
-45-79-162-73.ip.linodeusercontent.com
 62-210-131-8.rev.poneytelecom.eu
 69.172.195.35.bc.googleusercontent.com
 79.126.118.34.bc.googleusercontent.com
@@ -46,14 +44,11 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r297-pr-guacu.ibys.com.br
 recyber.net
 rootevidence.com
 scan-56.security.ipip.net
-scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-tiago.probe.onyphe.net
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
