@@ -25,6 +25,7 @@
 164.212.156.34.bc.googleusercontent.com
 172-104-151-240.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
+172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
 188.28.79.34.bc.googleusercontent.com
 198.89.79.34.bc.googleusercontent.com
