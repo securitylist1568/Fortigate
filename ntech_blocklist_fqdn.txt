@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 188.28.79.34.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
+204.76.203.64.ptr.pfcloud.network
 219.91.76.34.bc.googleusercontent.com
 229.83.195.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
@@ -31,6 +32,7 @@
 69.172.195.35.bc.googleusercontent.com
 74.120.79.34.bc.googleusercontent.com
 79.126.118.34.bc.googleusercontent.com
+92.176.53.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 car142.careercorejourney.com
