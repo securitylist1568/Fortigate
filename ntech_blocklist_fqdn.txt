@@ -21,6 +21,7 @@
 115.243.118.34.bc.googleusercontent.com
 128.52.240.35.bc.googleusercontent.com
 134.234.53.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 141.180.241.35.bc.googleusercontent.com
 141.65.205.35.bc.googleusercontent.com
 143-42-1-44.ip.linodeusercontent.com
@@ -96,6 +97,7 @@ scan-08g.shadowserver.org
 scan-09n.shadowserver.org
 scan-53j.shadowserver.org
 scan-85-3.shadowserver.org
+scan-89-0.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
