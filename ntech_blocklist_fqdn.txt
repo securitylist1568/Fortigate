@@ -50,8 +50,8 @@
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
-62-210-125-62.rev.poneytelecom.eu
 64.211.62.34.bc.googleusercontent.com
+79.126.118.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -61,7 +61,6 @@ crawler122.deepfield.net
 crawler192.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-100-27-190-243.compute-1.amazonaws.com
 ec2-13-220-210-60.compute-1.amazonaws.com
 ec2-18-212-68-99.compute-1.amazonaws.com
@@ -82,10 +81,9 @@ ec2-54-90-143-165.compute-1.amazonaws.com
 ec2-98-93-104-4.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-lisbon.portugal.com
+mail.dargah.net
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 pc112.cses.ilc.edu.tw
@@ -100,3 +98,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+www.internet-albedo.net
