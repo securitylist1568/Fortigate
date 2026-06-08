@@ -23,6 +23,7 @@
 148.148.181.34.bc.googleusercontent.com
 159.122.14.34.bc.googleusercontent.com
 164.212.156.34.bc.googleusercontent.com
+172-104-151-240.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188.28.79.34.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 229.83.195.35.bc.googleusercontent.com
 36-232-183-156.dynamic-ip.hinet.net
 42.123.243.83.in-addr.arpa
+45-79-162-73.ip.linodeusercontent.com
 69.172.195.35.bc.googleusercontent.com
 74.120.79.34.bc.googleusercontent.com
 92.176.53.34.bc.googleusercontent.com
@@ -51,6 +53,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-06g.shadowserver.org
 scan-10g.shadowserver.org
 scan-14l.shadowserver.org
