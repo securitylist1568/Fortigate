@@ -55,6 +55,8 @@
 64.211.62.34.bc.googleusercontent.com
 79.126.118.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgkm3iag.stretchoid.com
+azpdss2sy749.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler020.deepfield.net
@@ -96,6 +98,7 @@ scan-09n.shadowserver.org
 scan-53j.shadowserver.org
 scan-85-3.shadowserver.org
 scan-89-0.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
