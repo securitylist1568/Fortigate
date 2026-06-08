@@ -50,7 +50,6 @@
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
-45.63.4.69.vultrusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 64.211.62.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -66,9 +65,6 @@ dynamic-ip-adsl.viettel.vn
 ec2-100-27-190-243.compute-1.amazonaws.com
 ec2-13-220-210-60.compute-1.amazonaws.com
 ec2-18-212-68-99.compute-1.amazonaws.com
-ec2-3-139-136-156.us-east-2.compute.amazonaws.com
-ec2-3-19-147-116.us-east-2.compute.amazonaws.com
-ec2-3-19-147-121.us-east-2.compute.amazonaws.com
 ec2-3-88-130-95.compute-1.amazonaws.com
 ec2-3-90-36-252.compute-1.amazonaws.com
 ec2-34-201-134-68.compute-1.amazonaws.com
@@ -91,7 +87,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
-n.ryakhovsky.fvds.ru
 new-ubuntu20223240.aspadmin.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -99,6 +94,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-08g.shadowserver.org
 scan-09n.shadowserver.org
+scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
