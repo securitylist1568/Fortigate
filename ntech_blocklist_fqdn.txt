@@ -95,6 +95,7 @@ scan-09n.shadowserver.org
 scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+toro.itapizaco.edu.mx
 user-209-209-59-230.lax02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
