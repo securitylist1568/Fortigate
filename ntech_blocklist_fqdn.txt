@@ -68,7 +68,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-04i.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-70-00.shadowserver.org
@@ -78,7 +77,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unassigned.psychz.net
-user-38-175-113-245.ist01.tr.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vm15289029.example.com
