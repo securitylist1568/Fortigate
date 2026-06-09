@@ -52,6 +52,7 @@ azpdssu8seh3.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdws0frgb6.stretchoid.com
 azpdws4uku7j.stretchoid.com
+azpdwsayyn3f.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -68,6 +69,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-05j.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-70-00.shadowserver.org
