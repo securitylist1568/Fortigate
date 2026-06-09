@@ -20,6 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 118.80.187.35.bc.googleusercontent.com
 131.214.53.34.bc.googleusercontent.com
+142.141.53.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
@@ -30,7 +32,10 @@ azpdcgfwv02q.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg0p0xel.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
+azpdsge43nsk.stretchoid.com
 azpdsgebcoxy.stretchoid.com
+azpdsgens699.stretchoid.com
+azpdsggpb2c0.stretchoid.com
 azpdss0yrzr0.stretchoid.com
 azpdss33l1a5.stretchoid.com
 azpdss5zo5ld.stretchoid.com
@@ -70,4 +75,5 @@ user-38-175-113-245.ist01.tr.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vm15289029.example.com
+www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
