@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.80.187.35.bc.googleusercontent.com
+142.141.53.34.bc.googleusercontent.com
 148.148.181.34.bc.googleusercontent.com
 153.215.195.35.bc.googleusercontent.com
 153.218.220.35.bc.googleusercontent.com
@@ -29,6 +30,7 @@
 237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
 33.94.172.144.static.cloudzy.com
+55.189.205.35.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 70.87.62.34.bc.googleusercontent.com
 amz.unixwiz.net
