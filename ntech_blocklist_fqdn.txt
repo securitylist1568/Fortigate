@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 204.76.203.64.ptr.pfcloud.network
 229.83.195.35.bc.googleusercontent.com
+237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
 33.94.172.144.static.cloudzy.com
 62-210-125-62.rev.poneytelecom.eu
@@ -35,10 +36,15 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-204-217-245.compute-1.amazonaws.com
+ec2-18-212-169-132.compute-1.amazonaws.com
 ec2-3-85-50-214.compute-1.amazonaws.com
+ec2-3-88-219-42.compute-1.amazonaws.com
 ec2-3-88-220-252.compute-1.amazonaws.com
+ec2-3-94-98-124.compute-1.amazonaws.com
 ec2-34-201-52-232.compute-1.amazonaws.com
 ec2-34-227-14-106.compute-1.amazonaws.com
+ec2-44-202-93-230.compute-1.amazonaws.com
 ec2-54-158-28-114.compute-1.amazonaws.com
 ec2-54-159-122-66.compute-1.amazonaws.com
 ec2-54-162-56-149.compute-1.amazonaws.com
