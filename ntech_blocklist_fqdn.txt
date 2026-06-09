@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+118-168-221-218.dynamic-ip.hinet.net
 123.143.83.5.hosted-by.vpslayer.net
 144.202.92.17.vultrusercontent.com
 153.218.220.35.bc.googleusercontent.com
@@ -25,6 +26,7 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 204.76.203.64.ptr.pfcloud.network
+27.102.28.117.broad.xm.fj.dynamic.163data.com.cn
 36.38.118.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
