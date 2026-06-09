@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+123.143.83.5.hosted-by.vpslayer.net
 144.202.92.17.vultrusercontent.com
 153.218.220.35.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
