@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.80.187.35.bc.googleusercontent.com
+125-227-34-167.hinet-ip.hinet.net
 142.141.53.34.bc.googleusercontent.com
 148.148.181.34.bc.googleusercontent.com
 153.215.195.35.bc.googleusercontent.com
@@ -61,6 +62,7 @@ fwnvyxu.top
 hn.kd.ny.adsl
 hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip217-154-95-139.pbiaas.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
@@ -72,6 +74,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.org
 scan-56a.shadowserver.org
+scan-58.security.ipip.net
 scan-71-09.shadowserver.org
 scan-79-09.shadowserver.org
 security.criminalip.com
@@ -79,3 +82,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi2936459.contaboserver.net
+www.internet-albedo.net
