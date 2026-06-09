@@ -43,8 +43,10 @@ cutco.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+h88-150-227-107.host.redstation.co.uk
 hn.kd.ny.adsl
 host232.net162-226-38.enatrel.ni
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
@@ -66,5 +68,6 @@ security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
