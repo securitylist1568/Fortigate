@@ -50,6 +50,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-56.security.ipip.net
+scan-71-09.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-57-134.sjc10.us.misaka.io
