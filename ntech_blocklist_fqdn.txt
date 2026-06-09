@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.80.187.35.bc.googleusercontent.com
-125-227-34-167.hinet-ip.hinet.net
 131.214.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 237.241.156.34.bc.googleusercontent.com
@@ -32,8 +31,14 @@ azpdesxe24x7.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
 azpdsgebcoxy.stretchoid.com
 azpdss0yrzr0.stretchoid.com
+azpdss33l1a5.stretchoid.com
+azpdss5zo5ld.stretchoid.com
+azpdsshab2op.stretchoid.com
+azpdsskf5buy.stretchoid.com
 azpdsslt2dou.stretchoid.com
+azpdssswzf3x.stretchoid.com
 azpdssu8seh3.stretchoid.com
+azpdssyzibct.stretchoid.com
 azpdws4uku7j.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -42,8 +47,9 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217-154-95-139.pbiaas.com
+ip105.ip-15-204-184.us
 ip29.sudolio.io
+li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -52,7 +58,7 @@ recyber.net
 rootevidence.com
 scan-04i.shadowserver.org
 scan-53j.shadowserver.org
-scan-58.security.ipip.net
+scan-61-4.shadowserver.org
 scan-70-00.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
@@ -60,7 +66,7 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unassigned.psychz.net
 user-38-175-113-245.ist01.tr.misaka.io
+user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vm15289029.example.com
-www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
