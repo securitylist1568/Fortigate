@@ -32,6 +32,7 @@ azpdcgfwv02q.stretchoid.com
 azpdcs19ivb5.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg0p0xel.stretchoid.com
+azpdsgbfmbi3.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
 azpdsge43nsk.stretchoid.com
 azpdsgebcoxy.stretchoid.com
@@ -42,11 +43,14 @@ azpdss0yrzr0.stretchoid.com
 azpdss33l1a5.stretchoid.com
 azpdss5zo5ld.stretchoid.com
 azpdsshab2op.stretchoid.com
+azpdssjnwdgv.stretchoid.com
+azpdssk480wi.stretchoid.com
 azpdsskf5buy.stretchoid.com
 azpdsslt2dou.stretchoid.com
 azpdssswzf3x.stretchoid.com
 azpdssu8seh3.stretchoid.com
 azpdssyzibct.stretchoid.com
+azpdws0frgb6.stretchoid.com
 azpdws4uku7j.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -68,6 +72,7 @@ scan-04i.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-70-00.shadowserver.org
+scan-80-9.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
