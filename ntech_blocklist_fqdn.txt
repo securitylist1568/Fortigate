@@ -21,11 +21,8 @@
 125-227-34-167.hinet-ip.hinet.net
 131.214.53.34.bc.googleusercontent.com
 142.141.53.34.bc.googleusercontent.com
-148.148.181.34.bc.googleusercontent.com
-153.218.220.35.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
-226.160.38.34.bc.googleusercontent.com
+237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
 55.189.205.35.bc.googleusercontent.com
 70.87.62.34.bc.googleusercontent.com
@@ -46,11 +43,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.org
-scan-41f.shadowserver.org
-scan-56a.shadowserver.org
 scan-58.security.ipip.net
 scan-70-00.shadowserver.org
-scan-79-09.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
