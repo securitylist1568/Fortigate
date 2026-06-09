@@ -20,10 +20,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.110.155.104.bc.googleusercontent.com
 138.198.232.8.bc.googleusercontent.com
-172-245-148-204-host.colocrossing.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 204.76.203.64.ptr.pfcloud.network
+62-210-125-62.rev.poneytelecom.eu
 62-210-131-8.rev.poneytelecom.eu
 69.172.195.35.bc.googleusercontent.com
 79.126.118.34.bc.googleusercontent.com
@@ -40,6 +40,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-18.4vendeta.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
