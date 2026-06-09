@@ -27,10 +27,8 @@
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 226.160.38.34.bc.googleusercontent.com
-229.83.195.35.bc.googleusercontent.com
 237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
-33.94.172.144.static.cloudzy.com
 55.189.205.35.bc.googleusercontent.com
 70.87.62.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -59,12 +57,9 @@ ec2-98-88-251-176.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fwnvyxu.top
 hn.kd.ny.adsl
-hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
-ip245.ip-5-39-49.eu
 ip29.sudolio.io
-linkis.ecopsy.ru
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
