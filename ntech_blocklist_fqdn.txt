@@ -22,6 +22,8 @@
 118.80.187.35.bc.googleusercontent.com
 119.110.155.104.bc.googleusercontent.com
 138.198.232.8.bc.googleusercontent.com
+153.215.195.35.bc.googleusercontent.com
+168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 204.76.203.64.ptr.pfcloud.network
 229.83.195.35.bc.googleusercontent.com
@@ -30,6 +32,7 @@
 33.94.172.144.static.cloudzy.com
 62-210-125-62.rev.poneytelecom.eu
 69.172.195.35.bc.googleusercontent.com
+70.87.62.34.bc.googleusercontent.com
 92.176.53.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -61,7 +64,6 @@ hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
-ip54.ip-15-204-165.us
 li1873-236.members.linode.com
 linkis.ecopsy.ru
 mfyabgec.musicpda.com
