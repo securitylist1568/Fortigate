@@ -22,8 +22,10 @@
 142.141.53.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
+55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.87.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgfwv02q.stretchoid.com
