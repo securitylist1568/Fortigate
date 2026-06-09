@@ -70,9 +70,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-05j.shadowserver.org
+scan-07e.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
 scan-70-00.shadowserver.org
+scan-73-00.shadowserver.org
+scan-77-02.shadowserver.org
 scan-80-9.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
@@ -83,4 +86,3 @@ user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vm15289029.example.com
 www.internet-albedo.net
-zhangyuan3.virtuaserver.com.br
