@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118.80.187.35.bc.googleusercontent.com
 125-227-34-167.hinet-ip.hinet.net
 131.214.53.34.bc.googleusercontent.com
 142.141.53.34.bc.googleusercontent.com
@@ -25,6 +26,7 @@
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 226.160.38.34.bc.googleusercontent.com
+30.183.22.34.bc.googleusercontent.com
 55.189.205.35.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
