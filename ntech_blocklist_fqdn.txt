@@ -18,15 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118.80.187.35.bc.googleusercontent.com
 142.141.53.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
-237.241.156.34.bc.googleusercontent.com
-30.183.22.34.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-70.87.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgfwv02q.stretchoid.com
 azpdcs19ivb5.stretchoid.com
@@ -88,5 +84,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unassigned.psychz.net
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
-vm15289029.example.com
 www.internet-albedo.net
