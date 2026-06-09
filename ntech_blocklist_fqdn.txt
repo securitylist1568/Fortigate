@@ -32,7 +32,6 @@
 30.183.22.34.bc.googleusercontent.com
 33.94.172.144.static.cloudzy.com
 55.189.205.35.bc.googleusercontent.com
-62-210-125-62.rev.poneytelecom.eu
 70.87.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -65,13 +64,13 @@ htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
-li1873-236.members.linode.com
 linkis.ecopsy.ru
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04i.shadowserver.org
 scan-41f.shadowserver.org
 scan-56a.shadowserver.org
 scan-58.security.ipip.net
@@ -80,6 +79,7 @@ scan-79-09.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
 vmi2936459.contaboserver.net
 www.internet-albedo.net
