@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 194-195-122-95.ip.linodeusercontent.com
+204.76.203.64.ptr.pfcloud.network
 36.38.118.34.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 60-249-14-121.hinet-ip.hinet.net
