@@ -19,14 +19,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.80.187.35.bc.googleusercontent.com
-131.214.53.34.bc.googleusercontent.com
 142.141.53.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 237.241.156.34.bc.googleusercontent.com
 30.183.22.34.bc.googleusercontent.com
 70.87.62.34.bc.googleusercontent.com
-adventure.yatano.com
 amz.unixwiz.net
 azpdcgfwv02q.stretchoid.com
 azpdcs19ivb5.stretchoid.com
@@ -75,9 +73,9 @@ scan-40g.shadowserver.org
 scan-52k.shadowserver.org
 scan-53j.shadowserver.org
 scan-61-4.shadowserver.org
-scan-70-00.shadowserver.org
 scan-73-00.shadowserver.org
 scan-77-02.shadowserver.org
+scan-78-08.shadowserver.org
 scan-80-9.shadowserver.org
 scan-84-0.shadowserver.org
 scan-87-7.shadowserver.org
