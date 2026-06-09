@@ -21,12 +21,10 @@
 119.110.155.104.bc.googleusercontent.com
 138.198.232.8.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192.248.150.180.vultrusercontent.com
 204.76.203.64.ptr.pfcloud.network
 229.83.195.35.bc.googleusercontent.com
 33.94.172.144.static.cloudzy.com
 62-210-125-62.rev.poneytelecom.eu
-62-210-131-8.rev.poneytelecom.eu
 69.172.195.35.bc.googleusercontent.com
 92.176.53.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -35,6 +33,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+fwnvyxu.top
 hn.kd.ny.adsl
 hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
@@ -48,10 +47,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-scan-56.security.ipip.net
 scan-71-09.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
+vmi2936459.contaboserver.net
