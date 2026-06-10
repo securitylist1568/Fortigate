@@ -24,7 +24,6 @@
 23.204.212.35.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 45-79-181-90.ip.linodeusercontent.com
-5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 6.241.109.202.broad.xm.fj.dynamic.163data.com.cn
 62-210-131-8.rev.poneytelecom.eu
 87.71.130.34.bc.googleusercontent.com
@@ -69,6 +68,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-18.4vendeta.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -83,8 +83,7 @@ scan-60-12.shadowserver.org
 scan-71-05.shadowserver.org
 scan-76-02.shadowserver.org
 scan-77-06.shadowserver.org
-scan-79-08.shadowserver.org
-security.criminalip.com
+sharp.atid.cloud
 smtp1.telemach.net
 spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
