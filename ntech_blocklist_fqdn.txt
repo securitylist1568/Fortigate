@@ -18,11 +18,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+116.112.78.34.bc.googleusercontent.com
 118-168-221-218.dynamic-ip.hinet.net
 123.143.83.5.hosted-by.vpslayer.net
 185-45-195-15.hostsailor.com
 204.76.203.64.ptr.pfcloud.network
 224.2.233.35.bc.googleusercontent.com
+23.204.212.35.bc.googleusercontent.com
+255.111.205.35.bc.googleusercontent.com
 27.102.28.117.broad.xm.fj.dynamic.163data.com.cn
 36.38.118.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
