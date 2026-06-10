@@ -19,6 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 138.130.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+205.20.77.34.bc.googleusercontent.com
+255.111.205.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 82.111.163.124.adsl-pool.sx.cn
 amz.unixwiz.net
