@@ -34,10 +34,9 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-h88-150-227-107.host.redstation.co.uk
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 ip73.ip-51-178-251.eu
@@ -50,5 +49,4 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-undefined.hostname.localhost
 users219.vip.heteml.jp
