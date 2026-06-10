@@ -50,6 +50,7 @@ ec2-54-226-193-192.compute-1.amazonaws.com
 ec2-54-236-21-43.compute-1.amazonaws.com
 federationchilla.site
 festa04.jcatransporte.com.br
+g13-63.user.cosmostv.jp
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-216-36-113-133.sea.megapath.net
@@ -63,10 +64,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.org
+scan-45g.shadowserver.org
 scan-61-7.shadowserver.org
 scan-67-1.shadowserver.org
 scan-69-05.shadowserver.org
 scan-74-02.shadowserver.org
+scan-80-9.shadowserver.org
 scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
