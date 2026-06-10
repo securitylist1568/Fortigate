@@ -21,6 +21,7 @@
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
+23.204.212.35.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 45-79-181-90.ip.linodeusercontent.com
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -70,10 +71,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
-ititanhosting.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o602.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
