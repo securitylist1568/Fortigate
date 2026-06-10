@@ -27,6 +27,7 @@
 27.102.28.117.broad.xm.fj.dynamic.163data.com.cn
 36.38.118.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
+62-210-125-62.rev.poneytelecom.eu
 87.71.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -46,6 +47,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-74-02.shadowserver.org
+scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
