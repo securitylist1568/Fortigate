@@ -56,6 +56,7 @@ scan-14l.shadowserver.org
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
 scan-45g.shadowserver.org
+scan-79-08.shadowserver.org
 scan-80-9.shadowserver.org
 scan-86-0.shadowserver.org
 security.criminalip.com
