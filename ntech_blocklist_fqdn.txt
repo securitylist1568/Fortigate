@@ -17,12 +17,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+116.112.78.34.bc.googleusercontent.com
 130.103.79.34.bc.googleusercontent.com
 138.130.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.20.77.34.bc.googleusercontent.com
 209.8.62.34.bc.googleusercontent.com
 224.2.233.35.bc.googleusercontent.com
+246.183.134.34.bc.googleusercontent.com
 255.111.205.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -39,6 +41,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
+li1537-121.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -49,6 +52,8 @@ recyber.net
 scan-04f.shadowserver.org
 scan-14h.shadowserver.org
 scan-14l.shadowserver.org
+scan-40e.shadowserver.org
+scan-41f.shadowserver.org
 scan-45g.shadowserver.org
 scan-80-9.shadowserver.org
 scan-86-0.shadowserver.org
