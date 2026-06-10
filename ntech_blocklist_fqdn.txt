@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 116.112.78.34.bc.googleusercontent.com
 118-168-221-218.dynamic-ip.hinet.net
-123.143.83.5.hosted-by.vpslayer.net
 130.103.79.34.bc.googleusercontent.com
 144.146.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -59,7 +58,6 @@ ip245.ip-5-39-49.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o056.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
