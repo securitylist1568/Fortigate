@@ -17,12 +17,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+130.103.79.34.bc.googleusercontent.com
 138.130.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.20.77.34.bc.googleusercontent.com
 209.8.62.34.bc.googleusercontent.com
 224.2.233.35.bc.googleusercontent.com
 255.111.205.35.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 82.111.163.124.adsl-pool.sx.cn
 amz.unixwiz.net
@@ -30,7 +32,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-federationchilla.site
 festa04.jcatransporte.com.br
 g13-63.user.cosmostv.jp
 hn.kd.ny.adsl
@@ -44,13 +45,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02m.shadowserver.org
 scan-04f.shadowserver.org
 scan-14h.shadowserver.org
 scan-14l.shadowserver.org
 scan-45g.shadowserver.org
-scan-61-7.shadowserver.org
-scan-69-05.shadowserver.org
 scan-80-9.shadowserver.org
 scan-86-0.shadowserver.org
 security.criminalip.com
