@@ -20,6 +20,8 @@
 138.130.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.20.77.34.bc.googleusercontent.com
+209.8.62.34.bc.googleusercontent.com
+224.2.233.35.bc.googleusercontent.com
 255.111.205.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 82.111.163.124.adsl-pool.sx.cn
