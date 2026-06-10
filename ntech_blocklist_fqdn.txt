@@ -30,7 +30,6 @@
 61-231-197-46.dynamic-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 82.111.163.124.adsl-pool.sx.cn
-87.71.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -64,6 +63,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.org
+scan-14h.shadowserver.org
 scan-45g.shadowserver.org
 scan-61-7.shadowserver.org
 scan-67-1.shadowserver.org
