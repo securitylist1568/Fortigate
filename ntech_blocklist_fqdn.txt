@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.112.78.34.bc.googleusercontent.com
-118-168-221-218.dynamic-ip.hinet.net
 130.103.79.34.bc.googleusercontent.com
 144.146.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -28,7 +27,6 @@
 23.204.212.35.bc.googleusercontent.com
 254.16.187.35.bc.googleusercontent.com
 255.111.205.35.bc.googleusercontent.com
-27.102.28.117.broad.xm.fj.dynamic.163data.com.cn
 61-231-197-46.dynamic-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 82.111.163.124.adsl-pool.sx.cn
