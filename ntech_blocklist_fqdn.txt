@@ -87,5 +87,6 @@ scan-79-08.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
