@@ -29,7 +29,6 @@
 255.111.205.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 61-231-197-46.dynamic-ip.hinet.net
-62-210-125-62.rev.poneytelecom.eu
 82.111.163.124.adsl-pool.sx.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -55,7 +54,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-216-36-113-133.sea.megapath.net
 ip217-154-95-139.pbiaas.com
-ip245.ip-5-39-49.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -67,13 +65,9 @@ scan-02m.shadowserver.org
 scan-14h.shadowserver.org
 scan-45g.shadowserver.org
 scan-61-7.shadowserver.org
-scan-67-1.shadowserver.org
 scan-69-05.shadowserver.org
-scan-74-02.shadowserver.org
 scan-80-9.shadowserver.org
-scan-86-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi3344783.contaboserver.net
