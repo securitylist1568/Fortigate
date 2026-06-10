@@ -21,10 +21,8 @@
 118-168-221-218.dynamic-ip.hinet.net
 123.143.83.5.hosted-by.vpslayer.net
 144.202.92.17.vultrusercontent.com
-153.218.220.35.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-194-195-122-95.ip.linodeusercontent.com
 204.76.203.64.ptr.pfcloud.network
 27.102.28.117.broad.xm.fj.dynamic.163data.com.cn
 36.38.118.34.bc.googleusercontent.com
@@ -37,10 +35,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 h88-150-227-107.host.redstation.co.uk
 hn.kd.ny.adsl
-host232.net162-226-38.enatrel.ni
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
-ip236.ip-5-135-71.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 ip73.ip-51-178-251.eu
@@ -52,7 +48,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
