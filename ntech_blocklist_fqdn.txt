@@ -68,6 +68,7 @@ recyber.net
 rootevidence.com
 scan-60-12.shadowserver.org
 scanner-info.rootevidence.com
+security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
 spafollow.kwai.com
