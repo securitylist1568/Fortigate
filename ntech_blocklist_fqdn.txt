@@ -28,6 +28,7 @@
 255.111.205.35.bc.googleusercontent.com
 33.94.172.144.static.cloudzy.com
 45.63.4.69.vultrusercontent.com
+5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 50-116-23-150.ip.linodeusercontent.com
 66-175-213-253.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -36,10 +37,8 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-g13-63.user.cosmostv.jp
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 ititanhosting.com
 li1537-121.members.linode.com
@@ -51,13 +50,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.org
-scan-14h.shadowserver.org
 scan-14l.shadowserver.org
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
-scan-45g.shadowserver.org
 scan-79-08.shadowserver.org
-scan-80-9.shadowserver.org
 scan-86-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
