@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.112.78.34.bc.googleusercontent.com
-118-168-221-218.dynamic-ip.hinet.net
 130.103.79.34.bc.googleusercontent.com
 138.130.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,7 +30,6 @@
 45.63.4.69.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 66-175-213-253.ip.linodeusercontent.com
-82.111.163.124.adsl-pool.sx.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
