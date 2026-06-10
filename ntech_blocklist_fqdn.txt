@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.112.78.34.bc.googleusercontent.com
+118-168-221-218.dynamic-ip.hinet.net
 130.103.79.34.bc.googleusercontent.com
 138.130.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -26,6 +27,7 @@
 224.2.233.35.bc.googleusercontent.com
 246.183.134.34.bc.googleusercontent.com
 255.111.205.35.bc.googleusercontent.com
+33.94.172.144.static.cloudzy.com
 45.63.4.69.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 66-175-213-253.ip.linodeusercontent.com
@@ -44,7 +46,7 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
+o602.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
