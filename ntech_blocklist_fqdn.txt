@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.112.78.34.bc.googleusercontent.com
+122.23.24.34.bc.googleusercontent.com
 130.103.79.34.bc.googleusercontent.com
 138.130.53.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
@@ -31,8 +32,8 @@
 33.94.172.144.static.cloudzy.com
 45.63.4.69.vultrusercontent.com
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
-50-116-23-150.ip.linodeusercontent.com
 6.241.109.202.broad.xm.fj.dynamic.163data.com.cn
+62-210-131-8.rev.poneytelecom.eu
 66-175-213-253.ip.linodeusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -56,6 +57,8 @@ scan-04f.shadowserver.org
 scan-14l.shadowserver.org
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
+scan-52c.shadowserver.org
+scan-76-02.shadowserver.org
 scan-79-08.shadowserver.org
 scan-86-0.shadowserver.org
 security.criminalip.com
