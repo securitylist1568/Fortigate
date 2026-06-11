@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.211.246.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 149.149.216.162.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
@@ -31,11 +32,13 @@
 197.210.203.35.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
+227.150.216.162.bc.googleusercontent.com
 233.241.104.34.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 247.143.62.34.bc.googleusercontent.com
 45.19.14.34.bc.googleusercontent.com
+57.149.216.162.bc.googleusercontent.com
 60.6.175.207.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 62.149.216.162.bc.googleusercontent.com
@@ -63,7 +66,9 @@ rootevidence.com
 scan-02m.shadowserver.org
 scan-04i.shadowserver.org
 scan-08g.shadowserver.org
+scan-71-05.shadowserver.org
 scan-73-02.shadowserver.org
+scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
