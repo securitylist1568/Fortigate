@@ -105,5 +105,6 @@ static.199.85.8.144.hostname.com
 static.kpn.net
 user-146-19-3-141.sto02.se.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
