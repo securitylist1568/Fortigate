@@ -36,7 +36,6 @@
 191.149.216.162.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 193.180.62.34.bc.googleusercontent.com
-194.150.216.162.bc.googleusercontent.com
 195-154-41-69.rev.poneytelecom.eu
 204.211.203.35.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
@@ -65,14 +64,11 @@
 71.149.216.162.bc.googleusercontent.com
 71.219.77.34.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
-80.149.216.162.bc.googleusercontent.com
-80.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 bicommae.store
 client.yota.ru
-customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
@@ -96,10 +92,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
-scan-41m.shadowserver.org
+scan-08g.shadowserver.org
 scan-45g.shadowserver.org
-scan-69-00.shadowserver.org
-scan-78-08.shadowserver.org
 scan-79-09.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
@@ -107,7 +101,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 static.kpn.net
-user-45-131-71-129.ber02.de.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
