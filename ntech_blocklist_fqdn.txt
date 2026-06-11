@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
@@ -26,14 +25,12 @@
 179.179.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193.180.62.34.bc.googleusercontent.com
-204.211.203.35.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 233.241.104.34.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 247.143.62.34.bc.googleusercontent.com
-27.150.216.162.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 45.19.14.34.bc.googleusercontent.com
 60.6.175.207.bc.googleusercontent.com
@@ -46,15 +43,14 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
-ip31-70-86-135.pbiaas.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -70,5 +66,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sul-con.ta-147.consultvanta.com
 trafo.kz
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
