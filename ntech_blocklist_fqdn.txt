@@ -31,6 +31,7 @@
 188.210.203.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 229.149.216.162.bc.googleusercontent.com
+23.209.255.172.hosted.by.hostdzire.com
 239.210.203.35.bc.googleusercontent.com
 252.178.109.136.bc.googleusercontent.com
 45-79-150-171.ip.linodeusercontent.com
