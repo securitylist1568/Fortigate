@@ -26,7 +26,6 @@
 20.26.189.107.static.cloudzy.com
 205.149.216.162.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
-23.204.212.35.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -43,7 +42,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
-ip-58-18.4vendeta.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 mail.kaniskasoft.com
@@ -60,9 +58,7 @@ scan-69-00.shadowserver.org
 scan-78-08.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
-sharp.atid.cloud
 smtp1.telemach.net
-ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
