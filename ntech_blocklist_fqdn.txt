@@ -31,11 +31,13 @@
 188.210.203.35.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 197.210.203.35.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 212.150.216.162.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
+252.178.109.136.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 71.219.77.34.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
@@ -54,6 +56,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 mx1.abestgame.com
 o008.scanner.modat.io
@@ -67,6 +70,7 @@ scan-12f.shadowserver.org
 scan-59g.shadowserver.org
 scan-69-05.shadowserver.org
 scan-71-05.shadowserver.org
+scan-79-08.shadowserver.org
 scan-85-3.shadowserver.org
 scan-87-7.shadowserver.org
 scan-89-5.shadowserver.org
