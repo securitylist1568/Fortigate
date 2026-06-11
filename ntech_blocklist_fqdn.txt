@@ -42,6 +42,11 @@
 78.211.203.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
+azpdsg5u7uqc.stretchoid.com
+azpdsg6fplrv.stretchoid.com
+azpdsg7aw2ot.stretchoid.com
+azpdsgbmp5gp.stretchoid.com
+azpdssc7ge2h.stretchoid.com
 azpdssml72hw.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -50,6 +55,7 @@ division.newoilreliefpain.us
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host232.net162-226-38.enatrel.ni
 htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
 ip158.ip-72-251-5.net
