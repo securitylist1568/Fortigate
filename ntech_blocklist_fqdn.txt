@@ -22,6 +22,7 @@
 115.211.203.35.bc.googleusercontent.com
 142.8.187.35.bc.googleusercontent.com
 143-42-1-44.ip.linodeusercontent.com
+158.149.216.162.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -42,6 +43,7 @@
 214.150.216.162.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+236.210.203.35.bc.googleusercontent.com
 236.221.78.34.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 247.143.62.34.bc.googleusercontent.com
@@ -58,6 +60,7 @@
 45-79-225-32.ip.linodeusercontent.com
 45.19.14.34.bc.googleusercontent.com
 65.183.34.34.bc.googleusercontent.com
+67.210.203.35.bc.googleusercontent.com
 71.149.216.162.bc.googleusercontent.com
 71.219.77.34.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
