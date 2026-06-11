@@ -45,6 +45,7 @@
 23-92-27-179.ip.linodeusercontent.com
 236.210.203.35.bc.googleusercontent.com
 236.221.78.34.bc.googleusercontent.com
+238.210.203.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 247.143.62.34.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
@@ -59,6 +60,7 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.19.14.34.bc.googleusercontent.com
+60.6.175.207.bc.googleusercontent.com
 65.183.34.34.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
 71.149.216.162.bc.googleusercontent.com
@@ -92,8 +94,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
+scan-04i.shadowserver.org
 scan-08g.shadowserver.org
 scan-45g.shadowserver.org
+scan-73-02.shadowserver.org
 scan-79-09.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
