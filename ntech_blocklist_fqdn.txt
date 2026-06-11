@@ -30,6 +30,7 @@
 188.210.203.35.bc.googleusercontent.com
 189.150.216.162.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
+227.210.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 252.178.109.136.bc.googleusercontent.com
 45-79-150-171.ip.linodeusercontent.com
@@ -87,6 +88,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
 ip158.ip-72-251-5.net
 ip29.sudolio.io
+ip54.ip-15-204-165.us
 li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
