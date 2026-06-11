@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.211.203.35.bc.googleusercontent.com
+137.211.203.35.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 172.35.240.35.bc.googleusercontent.com
@@ -40,6 +41,7 @@
 62.149.216.162.bc.googleusercontent.com
 65.183.34.34.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
+80.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -50,6 +52,7 @@ ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip245.ip-5-39-49.eu
 ip29.sudolio.io
 ip31-70-86-135.pbiaas.com
 mfyabgec.musicpda.com
