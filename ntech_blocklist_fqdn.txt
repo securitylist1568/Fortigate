@@ -21,18 +21,14 @@
 135.149.216.162.bc.googleusercontent.com
 139-162-128-252.ip.linodeusercontent.com
 153.150.216.162.bc.googleusercontent.com
-158.150.216.162.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 160.150.216.162.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 172.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
-229.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
-239.210.203.35.bc.googleusercontent.com
 252.178.109.136.bc.googleusercontent.com
 45-79-150-171.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
@@ -91,7 +87,6 @@ ip29.sudolio.io
 li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-mx1.abestgame.com
 o005.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
