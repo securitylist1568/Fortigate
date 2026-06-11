@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+115.149.216.162.bc.googleusercontent.com
 142.8.187.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
@@ -36,7 +37,9 @@
 243.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 45.19.14.34.bc.googleusercontent.com
+65.183.34.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
+76.211.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
