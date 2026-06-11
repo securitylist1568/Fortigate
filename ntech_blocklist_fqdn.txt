@@ -53,6 +53,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+45.19.14.34.bc.googleusercontent.com
 60.6.175.207.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
@@ -67,6 +68,7 @@ dal215.hawkhost.com
 dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
