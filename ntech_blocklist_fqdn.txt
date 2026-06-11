@@ -22,6 +22,7 @@
 153.149.216.162.bc.googleusercontent.com
 172-104-151-240.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+194.150.216.162.bc.googleusercontent.com
 20.26.189.107.static.cloudzy.com
 205.149.216.162.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -53,6 +55,9 @@ proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
 rootevidence.com
+scan-41m.shadowserver.org
+scan-69-00.shadowserver.org
+scan-78-08.shadowserver.org
 scanner-info.rootevidence.com
 security.criminalip.com
 sharp.atid.cloud
@@ -60,4 +65,5 @@ smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
+user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
