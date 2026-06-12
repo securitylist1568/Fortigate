@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -30,7 +31,9 @@
 activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+broadband.actcorp.in
 client.yota.ru
+crawler153.deepfield.net
 dal215.hawkhost.com
 division.newoilreliefpain.us
 dns12.online.tj.cn
