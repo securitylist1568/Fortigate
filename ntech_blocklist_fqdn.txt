@@ -32,7 +32,6 @@
 237.210.203.35.bc.googleusercontent.com
 24.157.195.35.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
-253.149.216.162.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
 3.220.62.34.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
@@ -44,9 +43,7 @@
 62-210-142-148.rev.poneytelecom.eu
 65.173.34.34.bc.googleusercontent.com
 67.149.216.162.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
 89.39.205.35.bc.googleusercontent.com
-97.227.88.34.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -54,7 +51,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-gtra.gov.af
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
@@ -63,6 +59,7 @@ ip-58-106.4vendeta.com
 ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip29.sudolio.io
+li1972-67.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o017.scanner.modat.io
@@ -72,15 +69,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40e.shadowserver.org
-scan-41f.shadowserver.org
 scan-42i.shadowserver.org
 scan-52k.shadowserver.org
 scan-71-05.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
-srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
