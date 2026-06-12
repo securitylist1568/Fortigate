@@ -25,7 +25,6 @@
 147.163.205.35.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
-170.203.53.34.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.250.42.217.dsl.dyn.telnor.net
@@ -39,10 +38,8 @@
 3.220.62.34.bc.googleusercontent.com
 32.23.14.34.bc.googleusercontent.com
 32.85.62.34.bc.googleusercontent.com
-43.149.216.162.bc.googleusercontent.com
 45.77.243.200.vultrusercontent.com
 62-210-131-8.rev.poneytelecom.eu
-62-210-142-148.rev.poneytelecom.eu
 63.150.216.162.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 73.70.156.34.bc.googleusercontent.com
@@ -74,6 +71,7 @@ r2004.compute.nrt2.edc.strln.net
 rcrsv1.twtpe1.prod.ultradns.net
 recyber.net
 scan-73-02.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
