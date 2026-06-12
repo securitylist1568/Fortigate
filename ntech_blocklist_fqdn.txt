@@ -31,14 +31,12 @@
 196.210.203.35.bc.googleusercontent.com
 202.150.216.162.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
-221.210.203.35.bc.googleusercontent.com
 24.157.195.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 3.220.62.34.bc.googleusercontent.com
 32.23.14.34.bc.googleusercontent.com
 32.85.62.34.bc.googleusercontent.com
-45.77.243.200.vultrusercontent.com
 62-210-131-8.rev.poneytelecom.eu
 63.150.216.162.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
@@ -68,10 +66,7 @@ o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r1002.compute.nrt2.edc.strln.net
 r2.ams.opendns.com
-r2004.compute.nrt2.edc.strln.net
-rcrsv1.twtpe1.prod.ultradns.net
 recyber.net
 scan-73-02.shadowserver.org
 scan-85-3.shadowserver.org
