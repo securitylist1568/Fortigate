@@ -66,6 +66,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r1002.compute.nrt2.edc.strln.net
+r2.ams.opendns.com
 r2004.compute.nrt2.edc.strln.net
 rcrsv1.twtpe1.prod.ultradns.net
 recyber.net
