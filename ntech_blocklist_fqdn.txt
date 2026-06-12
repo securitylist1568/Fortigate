@@ -44,6 +44,7 @@
 66.149.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
 89.39.205.35.bc.googleusercontent.com
+activity189.numbercombative.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -58,6 +59,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 o601.scanner.modat.io
 o602.scanner.modat.io
+o618.scanner.modat.io
 o621.scanner.modat.io
 o626.scanner.modat.io
 o631.scanner.modat.io
