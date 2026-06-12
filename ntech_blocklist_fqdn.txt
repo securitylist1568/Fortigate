@@ -18,13 +18,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-149.149.216.162.bc.googleusercontent.com
 157-250-207-node-rep-us.worldip.io
 161.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 199.149.216.162.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 23-94-204-22-host.colocrossing.com
-251.211.203.35.bc.googleusercontent.com
+32.210.203.35.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 97.227.88.34.bc.googleusercontent.com
 activity189.numbercombative.com
@@ -50,7 +50,6 @@ proxy-ca002-ext2.a.ahrefs.com
 r2.ams.opendns.com
 recyber.net
 scan-61-4.shadowserver.org
-scan-85-3.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sul-con.ta-147.consultvanta.com
