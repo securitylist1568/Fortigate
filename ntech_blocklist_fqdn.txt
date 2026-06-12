@@ -30,6 +30,7 @@
 233.241.104.34.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
 24.157.195.35.bc.googleusercontent.com
+250.149.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
 3.220.62.34.bc.googleusercontent.com
@@ -72,6 +73,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.org
 scan-41f.shadowserver.org
+scan-42i.shadowserver.org
 scan-52k.shadowserver.org
 scan-71-05.shadowserver.org
 security.criminalip.com
