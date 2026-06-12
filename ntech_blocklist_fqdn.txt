@@ -26,6 +26,7 @@
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 202.150.216.162.bc.googleusercontent.com
+23-94-204-22-host.colocrossing.com
 24.157.195.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 32.23.14.34.bc.googleusercontent.com
