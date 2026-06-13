@@ -29,6 +29,7 @@
 190.150.216.162.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 207.150.216.162.bc.googleusercontent.com
+209.150.216.162.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 250.157.53.34.bc.googleusercontent.com
@@ -46,6 +47,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler242.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -63,9 +65,12 @@ recyber.net
 scan-55c.shadowserver.org
 scan-61-7.shadowserver.org
 scan-69-00.shadowserver.org
+scan-69-05.shadowserver.org
 scan-71-05.shadowserver.org
 scan-80-9.shadowserver.org
+scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
