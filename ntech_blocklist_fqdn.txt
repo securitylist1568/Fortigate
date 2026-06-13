@@ -20,21 +20,15 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-128.149.216.162.bc.googleusercontent.com
-157.149.216.162.bc.googleusercontent.com
+136.149.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 18.140.130.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.150.216.162.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
-250.157.53.34.bc.googleusercontent.com
-253.150.216.162.bc.googleusercontent.com
-41.149.216.162.bc.googleusercontent.com
 43-254-16-48.static.ip.net.tw
 5.210.203.35.bc.googleusercontent.com
-59-120-132-195.hinet-ip.hinet.net
-61-231-63-137.dynamic-ip.hinet.net
 62-210-131-8.rev.poneytelecom.eu
 9.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -46,8 +40,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-117-241-static.velo.net.id
-ip-60-234-static.velo.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -56,6 +48,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-10g.shadowserver.org
 scan-61-7.shadowserver.org
 scan-69-05.shadowserver.org
 scan-89-5.shadowserver.org
@@ -63,5 +56,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-209-85-233.mow01.ru.misaka.io
+user-185-234-213-135.zrh01.ch.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
