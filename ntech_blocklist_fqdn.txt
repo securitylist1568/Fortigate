@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+128.149.216.162.bc.googleusercontent.com
 132.146.241.35.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
 138.82.175.207.bc.googleusercontent.com
@@ -33,10 +34,13 @@
 231.149.216.162.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
+250.157.53.34.bc.googleusercontent.com
 251.50.156.34.bc.googleusercontent.com
+253.150.216.162.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 3.209.16.34.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
+59-120-132-195.hinet-ip.hinet.net
 61-231-63-137.dynamic-ip.hinet.net
 62.149.216.162.bc.googleusercontent.com
 70.210.203.35.bc.googleusercontent.com
@@ -53,6 +57,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-117-241-static.velo.net.id
+ip-60-234-static.velo.net.id
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
