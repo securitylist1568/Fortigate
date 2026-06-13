@@ -25,12 +25,13 @@
 18.140.130.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-207.150.216.162.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
 3.209.16.34.bc.googleusercontent.com
 43-254-16-48.static.ip.net.tw
 62-210-131-8.rev.poneytelecom.eu
 66.210.203.35.bc.googleusercontent.com
+68.210.203.35.bc.googleusercontent.com
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 9.149.216.162.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -58,6 +59,7 @@ scan-69-05.shadowserver.org
 scan-89-5.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+srv61627.dus4.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 user-185-209-85-233.mow01.ru.misaka.io
