@@ -1,6 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-106.149.216.162.bc.googleusercontent.com
-107-173-85-94-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-136.149.216.162.bc.googleusercontent.com
 168.121.124.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,7 +28,6 @@
 66.210.203.35.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-9.149.216.162.bc.googleusercontent.com
 97.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -46,14 +42,11 @@ ip105.ip-15-204-184.us
 ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
-o614.scanner.modat.io
 o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-10g.shadowserver.org
 scan-68-08.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
@@ -61,6 +54,5 @@ srv61627.dus4.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 unn-207-211-210-83.datapacket.com
-user-185-234-213-135.zrh01.ch.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
