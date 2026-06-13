@@ -88,7 +88,11 @@ scan-05j.shadowserver.org
 scan-40e.shadowserver.org
 scan-43h.shadowserver.org
 scan-45o.shadowserver.org
+scan-55c.shadowserver.org
 scan-56f.shadowserver.org
+scan-69-00.shadowserver.org
+scan-71-05.shadowserver.org
+scan-80-9.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
