@@ -27,7 +27,6 @@
 171.40.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
-195-154-41-69.rev.poneytelecom.eu
 204.76.203.30.ptr.pfcloud.network
 207.150.216.162.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
@@ -41,7 +40,6 @@
 61-231-63-137.dynamic-ip.hinet.net
 62.149.216.162.bc.googleusercontent.com
 71.11.156.34.bc.googleusercontent.com
-79.10.24.34.bc.googleusercontent.com
 96.210.203.35.bc.googleusercontent.com
 97.133.76.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -62,6 +60,7 @@ proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
 scan-55c.shadowserver.org
+scan-61-7.shadowserver.org
 scan-69-00.shadowserver.org
 scan-71-05.shadowserver.org
 scan-80-9.shadowserver.org
