@@ -21,7 +21,6 @@
 135.211.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
 159.211.203.35.bc.googleusercontent.com
-161.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
@@ -29,8 +28,9 @@
 229.150.216.162.bc.googleusercontent.com
 3.209.16.34.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
-84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
+azpdsghq7jpi.stretchoid.com
+azpdss0yrzr0.stretchoid.com
 b2.org.afilias-nst.org
 broadband.actcorp.in
 client.yota.ru
@@ -52,10 +52,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-61-4.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
-sul-con.ta-147.consultvanta.com
 users219.vip.heteml.jp
