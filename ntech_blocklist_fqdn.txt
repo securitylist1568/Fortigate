@@ -23,7 +23,6 @@
 185-45-195-15.hostsailor.com
 189.132.162.34.bc.googleusercontent.com
 249.210.146.34.bc.googleusercontent.com
-76-231-26-138.lightspeed.sntcca.sbcglobal.net
 8.52.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -40,8 +39,10 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 o601.scanner.modat.io
 o626.scanner.modat.io
+o631.scanner.modat.io
 o633.scanner.modat.io
 o636.scanner.modat.io
+o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
