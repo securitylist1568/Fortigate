@@ -33,6 +33,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 214.249.77.34.bc.googleusercontent.com
@@ -68,6 +69,8 @@ o601.scanner.modat.io
 o609.scanner.modat.io
 o612.scanner.modat.io
 o616.scanner.modat.io
+o628.scanner.modat.io
+o631.scanner.modat.io
 o636.scanner.modat.io
 o639.scanner.modat.io
 o640.scanner.modat.io
@@ -79,6 +82,8 @@ recyber.net
 scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-45g.shadowserver.org
+scan-69-05.shadowserver.org
+scan-86-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
