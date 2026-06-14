@@ -17,8 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.181.151.34.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
@@ -35,9 +33,10 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-254.4vendeta.com
+ip-59-22.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o601.scanner.modat.io
 o631.scanner.modat.io
 o633.scanner.modat.io
