@@ -46,6 +46,7 @@ monet-22.crawler.deepfield.net
 o609.scanner.modat.io
 o612.scanner.modat.io
 o618.scanner.modat.io
+o626.scanner.modat.io
 o628.scanner.modat.io
 o633.scanner.modat.io
 o636.scanner.modat.io
