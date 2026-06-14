@@ -23,6 +23,7 @@
 220-136-162-232.dynamic-ip.hinet.net
 249.210.146.34.bc.googleusercontent.com
 37.21.131.34.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 8.52.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
