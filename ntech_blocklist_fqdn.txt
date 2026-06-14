@@ -21,7 +21,9 @@
 168-113-158-51.instances.scw.cloud
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+195-154-41-69.rev.poneytelecom.eu
 249.210.146.34.bc.googleusercontent.com
+37.21.131.34.bc.googleusercontent.com
 8.52.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
