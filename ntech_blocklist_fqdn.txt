@@ -25,11 +25,9 @@
 199.149.216.162.bc.googleusercontent.com
 202.51.150.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
-204.76.203.30.ptr.pfcloud.network
 214.249.77.34.bc.googleusercontent.com
 226.147.53.34.bc.googleusercontent.com
 28.70.174.34.bc.googleusercontent.com
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 86.98.77.34.bc.googleusercontent.com
 95.185.77.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -60,14 +58,9 @@ scan-53j.shadowserver.org
 scan-55c.shadowserver.org
 scan-56f.shadowserver.org
 scan-63-9.shadowserver.org
-scan-71-00.shadowserver.org
 scan-71-05.shadowserver.org
-scan-74-02.shadowserver.org
 scan-76-02.shadowserver.org
-scan-87-7.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vps.lowesthosting.com
