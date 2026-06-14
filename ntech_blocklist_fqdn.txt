@@ -27,6 +27,7 @@
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
 214.249.77.34.bc.googleusercontent.com
+226.147.53.34.bc.googleusercontent.com
 23-168-136-153.rev.circlevps.net
 28.70.174.34.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
