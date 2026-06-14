@@ -20,17 +20,14 @@
 112.194.151.34.bc.googleusercontent.com
 128.52.155.104.bc.googleusercontent.com
 151.149.216.162.bc.googleusercontent.com
-165.201.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.132.162.34.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 202.51.150.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
-214.249.77.34.bc.googleusercontent.com
 226.147.53.34.bc.googleusercontent.com
 28.70.174.34.bc.googleusercontent.com
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
-86.98.77.34.bc.googleusercontent.com
 95.185.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
