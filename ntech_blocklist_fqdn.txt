@@ -36,7 +36,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-monet-22.crawler.deepfield.net
 no-mans-land.m247.com
 o601.scanner.modat.io
 o626.scanner.modat.io
@@ -46,10 +45,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-52k.shadowserver.org
-scan-53j.shadowserver.org
-scan-55c.shadowserver.org
-scan-63-9.shadowserver.org
 scan-77-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
