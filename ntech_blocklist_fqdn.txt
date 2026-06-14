@@ -47,9 +47,12 @@
 55.159.79.34.bc.googleusercontent.com
 58.158.52.34.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
+8.52.130.34.bc.googleusercontent.com
 86.98.77.34.bc.googleusercontent.com
 95.185.77.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdssc7ge2h.stretchoid.com
+azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -61,8 +64,10 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-102.4vendeta.com
 ip-58-250.4vendeta.com
+ip217-154-95-139.pbiaas.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
+ip54.ip-15-204-165.us
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 o601.scanner.modat.io
