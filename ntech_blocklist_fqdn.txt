@@ -56,9 +56,13 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
+o609.scanner.modat.io
 o612.scanner.modat.io
 o614.scanner.modat.io
+o618.scanner.modat.io
+o628.scanner.modat.io
 o633.scanner.modat.io
 o638.scanner.modat.io
 o640.scanner.modat.io
