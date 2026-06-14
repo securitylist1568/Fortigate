@@ -36,10 +36,12 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 monet-22.crawler.deepfield.net
 no-mans-land.m247.com
+o601.scanner.modat.io
 o609.scanner.modat.io
 o618.scanner.modat.io
 o626.scanner.modat.io
 o628.scanner.modat.io
+o633.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
