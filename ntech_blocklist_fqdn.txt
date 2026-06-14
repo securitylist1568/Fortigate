@@ -35,13 +35,12 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-208.165.14.34.bc.googleusercontent.com
 214.249.77.34.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
+220-136-162-232.dynamic-ip.hinet.net
 23-92-27-179.ip.linodeusercontent.com
 230.1.175.207.bc.googleusercontent.com
 246.162.18.34.bc.googleusercontent.com
-28.211.203.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 55.159.79.34.bc.googleusercontent.com
@@ -83,7 +82,7 @@ scan-45g.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-210-83.datapacket.com
+user-45-131-70-129.led02.ru.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
