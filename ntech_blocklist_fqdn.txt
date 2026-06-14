@@ -22,6 +22,7 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
+165.201.62.34.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -32,6 +33,7 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 204.76.203.30.ptr.pfcloud.network
+214.249.77.34.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
 220-136-162-232.dynamic-ip.hinet.net
 23-168-136-153.rev.circlevps.net
@@ -42,6 +44,7 @@
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 62-210-125-62.rev.poneytelecom.eu
 8.52.130.34.bc.googleusercontent.com
+86.98.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgf6ljqc.stretchoid.com
