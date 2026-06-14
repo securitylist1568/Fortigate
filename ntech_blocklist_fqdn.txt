@@ -21,7 +21,6 @@
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 189.132.162.34.bc.googleusercontent.com
-226.147.53.34.bc.googleusercontent.com
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -32,15 +31,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 monet-22.crawler.deepfield.net
 no-mans-land.m247.com
 o601.scanner.modat.io
-o609.scanner.modat.io
-o618.scanner.modat.io
 o626.scanner.modat.io
-o628.scanner.modat.io
 o633.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
