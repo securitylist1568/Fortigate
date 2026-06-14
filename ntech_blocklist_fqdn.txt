@@ -122,6 +122,7 @@ scan-86-0.shadowserver.org
 scan-87-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
+soclab.csie.ntu.edu.tw
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
 user-45-131-70-129.led02.ru.misaka.io
