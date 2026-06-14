@@ -21,11 +21,7 @@
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 189.132.162.34.bc.googleusercontent.com
-199.149.216.162.bc.googleusercontent.com
-202.51.150.34.bc.googleusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 226.147.53.34.bc.googleusercontent.com
-28.70.174.34.bc.googleusercontent.com
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -52,9 +48,8 @@ recyber.net
 scan-52k.shadowserver.org
 scan-53j.shadowserver.org
 scan-55c.shadowserver.org
-scan-56f.shadowserver.org
 scan-63-9.shadowserver.org
-scan-71-05.shadowserver.org
+scan-77-02.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
