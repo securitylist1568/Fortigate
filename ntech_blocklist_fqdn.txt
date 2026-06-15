@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 249.210.146.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
+adventure.yatano.com
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
 azpdcgdroqxu.stretchoid.com
