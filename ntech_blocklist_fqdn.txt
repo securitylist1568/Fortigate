@@ -17,8 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
-175.60.131.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 37.21.131.34.bc.googleusercontent.com
@@ -29,14 +27,12 @@ client.yota.ru
 dal215.hawkhost.com
 dedicated.sollutium.com
 dns12.online.tj.cn
-dsl081-115-187.dfw1.dsl.speakeasy.net
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
 ip-49-126.4vendeta.com
-ip-49-142.web1.bg
 ip-49-226.4vendeta.com
 ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
@@ -46,7 +42,6 @@ mail.mailenstein-ulm.de
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
-o601.scanner.modat.io
 o609.scanner.modat.io
 o616.scanner.modat.io
 o626.scanner.modat.io
@@ -58,7 +53,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.org
-scan-58.security.ipip.net
 scan-63-9.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
