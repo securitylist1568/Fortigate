@@ -50,6 +50,7 @@ ip-59-22.4vendeta.com
 ip29.sudolio.io
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
+o602.scanner.modat.io
 o614.scanner.modat.io
 o616.scanner.modat.io
 o626.scanner.modat.io
