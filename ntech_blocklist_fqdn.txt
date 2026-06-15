@@ -29,6 +29,7 @@ amz.unixwiz.net
 azpdcgkm3iag.stretchoid.com
 azpdcsmatos4.stretchoid.com
 azpdespq7q3k.stretchoid.com
+azpdsg41vonp.stretchoid.com
 azpdsg56zpoo.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
 azpdsga05mgt.stretchoid.com
@@ -57,6 +58,7 @@ no-mans-land.m247.com
 o609.scanner.modat.io
 o612.scanner.modat.io
 o614.scanner.modat.io
+o618.scanner.modat.io
 o626.scanner.modat.io
 o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
