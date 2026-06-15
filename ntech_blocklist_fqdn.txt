@@ -73,6 +73,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
+ip-49-142.web1.bg
 ip-49-174.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
