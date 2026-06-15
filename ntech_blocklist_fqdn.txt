@@ -56,6 +56,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-06g.shadowserver.org
 scan-12f.shadowserver.org
 scan-43b.shadowserver.org
 scan-43h.shadowserver.org
