@@ -25,12 +25,11 @@
 166.248.205.35.bc.googleusercontent.com
 171.162.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-195-154-41-69.rev.poneytelecom.eu
 213.169.205.35.bc.googleusercontent.com
 220-136-162-232.dynamic-ip.hinet.net
+232.230.140.34.bc.googleusercontent.com
 248.120.77.34.bc.googleusercontent.com
 253.140.62.34.bc.googleusercontent.com
-37.21.131.34.bc.googleusercontent.com
 5.236.52.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
@@ -45,9 +44,7 @@ festa04.jcatransporte.com.br
 gtra.gov.af
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-254.4vendeta.com
 ip-58-18.4vendeta.com
-ip-59-22.4vendeta.com
 ip29.sudolio.io
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
