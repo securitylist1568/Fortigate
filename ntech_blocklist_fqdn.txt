@@ -72,7 +72,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
 ip-49-174.4vendeta.com
-ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o612.scanner.modat.io
@@ -85,7 +84,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-06g.shadowserver.org
 scan-52c.shadowserver.org
 scan-71-09.shadowserver.org
 scan-81-7.shadowserver.org
