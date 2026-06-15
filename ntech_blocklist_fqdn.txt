@@ -69,6 +69,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
 ip-49-174.4vendeta.com
 ip217-154-95-139.pbiaas.com
@@ -85,7 +86,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.org
+scan-52c.shadowserver.org
+scan-71-09.shadowserver.org
 scan-81-7.shadowserver.org
+scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
