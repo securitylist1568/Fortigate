@@ -21,8 +21,6 @@
 178-79-182-237.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 19.245.186.35.bc.googleusercontent.com
-249.210.146.34.bc.googleusercontent.com
-60-249-14-121.hinet-ip.hinet.net
 adventure.yatano.com
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
@@ -78,11 +76,7 @@ ip-49-174.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o601.scanner.modat.io
-o612.scanner.modat.io
-o614.scanner.modat.io
 o618.scanner.modat.io
-o626.scanner.modat.io
-o633.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -93,7 +87,6 @@ scan-58.security.ipip.net
 scan-71-09.shadowserver.org
 scan-81-7.shadowserver.org
 scan-88-6.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
