@@ -36,7 +36,6 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler035.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-116-205-224-138.compute.hwclouds-dns.com
@@ -53,8 +52,6 @@ mfyabgec.musicpda.com
 o614.scanner.modat.io
 o616.scanner.modat.io
 o626.scanner.modat.io
-o631.scanner.modat.io
-o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -64,7 +61,6 @@ scan-43h.shadowserver.org
 scan-47k.shadowserver.org
 scan-56.security.ipip.net
 scan-85-0.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.181.192.225.46.clients.your-server.de
