@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 175.60.131.34.bc.googleusercontent.com
-178-79-182-237.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 19.245.186.35.bc.googleusercontent.com
 adventure.yatano.com
@@ -38,7 +37,6 @@ azpdsg56zpoo.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsg6i54lg.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
-azpdsga05mgt.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdsgimpili.stretchoid.com
 azpdsglq54br.stretchoid.com
@@ -58,7 +56,6 @@ azpdsst75set.stretchoid.com
 azpdssxq24h7.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdws28galu.stretchoid.com
-azpdws89w8v2.stretchoid.com
 azpdwsmvd288.stretchoid.com
 azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
@@ -71,9 +68,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
-ip-49-122.4vendeta.com
 ip-49-142.web1.bg
-ip-49-174.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o601.scanner.modat.io
@@ -83,14 +78,15 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-09n.shadowserver.org
 scan-52c.shadowserver.org
 scan-58.security.ipip.net
 scan-71-09.shadowserver.org
 scan-81-7.shadowserver.org
 scan-88-6.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-169-150-252-179.datapacket.com
 user-38-175-113-245.ist01.tr.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
