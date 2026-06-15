@@ -24,6 +24,7 @@
 249.210.146.34.bc.googleusercontent.com
 37.21.131.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+76-231-26-138.lightspeed.sntcca.sbcglobal.net
 8.52.130.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -41,6 +42,7 @@ ip-59-22.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o601.scanner.modat.io
+o616.scanner.modat.io
 o626.scanner.modat.io
 o631.scanner.modat.io
 o633.scanner.modat.io
@@ -49,6 +51,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-56.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
