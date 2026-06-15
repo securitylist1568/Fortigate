@@ -41,6 +41,8 @@ azpdsga05mgt.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdsgimpili.stretchoid.com
 azpdsglq54br.stretchoid.com
+azpdsglvqiiq.stretchoid.com
+azpdsgo2stos.stretchoid.com
 azpdsgocdz87.stretchoid.com
 azpdsgv1yi6q.stretchoid.com
 azpdss4lc1pe.stretchoid.com
@@ -55,6 +57,7 @@ azpdssxq24h7.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdws28galu.stretchoid.com
 azpdws89w8v2.stretchoid.com
+azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
