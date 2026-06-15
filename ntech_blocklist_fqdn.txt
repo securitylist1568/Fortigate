@@ -38,14 +38,11 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-116-205-224-138.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-gtra.gov.af
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 no-mans-land.m247.com
@@ -58,11 +55,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.org
 scan-12f.shadowserver.org
-scan-43b.shadowserver.org
-scan-43h.shadowserver.org
 scan-45o.shadowserver.org
 scan-47k.shadowserver.org
-scan-85-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
