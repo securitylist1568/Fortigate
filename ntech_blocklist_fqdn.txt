@@ -33,6 +33,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-122.4vendeta.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -55,5 +56,6 @@ scan-45o.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
