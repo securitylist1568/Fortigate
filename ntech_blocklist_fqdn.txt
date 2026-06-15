@@ -82,6 +82,7 @@ recyber.net
 scan-09n.shadowserver.org
 scan-52c.shadowserver.org
 scan-58.security.ipip.net
+scan-63-9.shadowserver.org
 scan-71-09.shadowserver.org
 scan-81-7.shadowserver.org
 scan-88-6.shadowserver.org
