@@ -50,6 +50,7 @@ ip-59-22.4vendeta.com
 ip29.sudolio.io
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o602.scanner.modat.io
 o614.scanner.modat.io
 o616.scanner.modat.io
@@ -60,9 +61,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.org
 scan-43h.shadowserver.org
+scan-45o.shadowserver.org
 scan-47k.shadowserver.org
 scan-56.security.ipip.net
 scan-85-0.shadowserver.org
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.181.192.225.46.clients.your-server.de
