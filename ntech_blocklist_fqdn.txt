@@ -41,12 +41,10 @@ ip-58-18.4vendeta.com
 ip-59-22.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o601.scanner.modat.io
 o614.scanner.modat.io
 o616.scanner.modat.io
 o626.scanner.modat.io
 o631.scanner.modat.io
-o633.scanner.modat.io
 o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
