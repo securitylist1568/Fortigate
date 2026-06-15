@@ -45,6 +45,7 @@ no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 o609.scanner.modat.io
 o616.scanner.modat.io
+o618.scanner.modat.io
 o626.scanner.modat.io
 o628.scanner.modat.io
 o636.scanner.modat.io
