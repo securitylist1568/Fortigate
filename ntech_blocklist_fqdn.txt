@@ -33,6 +33,7 @@ crawler035.deepfield.net
 crawler132.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-116-205-224-138.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 gtra.gov.af
 hn.kd.ny.adsl
@@ -51,6 +52,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43b.shadowserver.org
 scan-43h.shadowserver.org
 scan-56.security.ipip.net
 scan-85-0.shadowserver.org
