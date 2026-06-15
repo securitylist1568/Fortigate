@@ -33,6 +33,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
 ip-49-126.4vendeta.com
+ip-49-142.web1.bg
 ip-49-226.4vendeta.com
 ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
