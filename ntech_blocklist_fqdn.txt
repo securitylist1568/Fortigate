@@ -32,7 +32,6 @@
 248.120.77.34.bc.googleusercontent.com
 253.140.62.34.bc.googleusercontent.com
 5.236.52.34.bc.googleusercontent.com
-76-231-26-138.lightspeed.sntcca.sbcglobal.net
 99.121.78.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -51,11 +50,9 @@ niall.probe.onyphe.net
 no-mans-land.m247.com
 o602.scanner.modat.io
 o609.scanner.modat.io
-o614.scanner.modat.io
-o616.scanner.modat.io
-o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-12f.shadowserver.org
@@ -63,12 +60,10 @@ scan-43b.shadowserver.org
 scan-43h.shadowserver.org
 scan-45o.shadowserver.org
 scan-47k.shadowserver.org
-scan-56.security.ipip.net
 scan-85-0.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.181.192.225.46.clients.your-server.de
-user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
