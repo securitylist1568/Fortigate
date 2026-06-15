@@ -21,6 +21,7 @@
 175.60.131.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
+37.21.131.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,6 +48,7 @@ o609.scanner.modat.io
 o616.scanner.modat.io
 o626.scanner.modat.io
 o628.scanner.modat.io
+o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
