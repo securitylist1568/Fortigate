@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 178-79-182-237.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+19.245.186.35.bc.googleusercontent.com
 249.210.146.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 adventure.yatano.com
