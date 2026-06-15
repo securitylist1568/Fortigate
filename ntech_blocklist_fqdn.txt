@@ -21,14 +21,9 @@
 175.60.131.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.245.186.35.bc.googleusercontent.com
+194-195-122-95.ip.linodeusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
-azpdes7t6661.stretchoid.com
-azpdsglvqiiq.stretchoid.com
-azpdsgo2stos.stretchoid.com
-azpdsse6bn8p.stretchoid.com
-azpdwsmvd288.stretchoid.com
-azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 customer.sntochl1.isp.starlink.com
@@ -48,7 +43,7 @@ mail.mailenstein-ulm.de
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o601.scanner.modat.io
-o640.scanner.modat.io
+o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -58,10 +53,8 @@ scan-52c.shadowserver.org
 scan-58.security.ipip.net
 scan-63-9.shadowserver.org
 scan-71-09.shadowserver.org
-scan-81-7.shadowserver.org
 scan-88-6.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
