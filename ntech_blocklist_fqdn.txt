@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.194.151.34.bc.googleusercontent.com
 125.20.189.107.static.cloudzy.com
 166.248.205.35.bc.googleusercontent.com
 178-79-182-237.ip.linodeusercontent.com
@@ -27,6 +26,12 @@
 249.210.146.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
+azpdcsmatos4.stretchoid.com
+azpdsg7aw2ot.stretchoid.com
+azpdsga05mgt.stretchoid.com
+azpdsgv1yi6q.stretchoid.com
+azpdss8hh31k.stretchoid.com
+azpdws89w8v2.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -41,7 +46,6 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 no-mans-land.m247.com
-o602.scanner.modat.io
 o609.scanner.modat.io
 o612.scanner.modat.io
 o614.scanner.modat.io
