@@ -19,10 +19,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.20.189.107.static.cloudzy.com
-166.248.205.35.bc.googleusercontent.com
 178-79-182-237.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-232.230.140.34.bc.googleusercontent.com
 249.210.146.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
@@ -52,6 +50,7 @@ azpdssc2clde.stretchoid.com
 azpdsshab2op.stretchoid.com
 azpdssjnwdgv.stretchoid.com
 azpdssp7vjwc.stretchoid.com
+azpdsst75set.stretchoid.com
 azpdssxq24h7.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdws28galu.stretchoid.com
@@ -69,7 +68,6 @@ ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
-no-mans-land.m247.com
 o609.scanner.modat.io
 o612.scanner.modat.io
 o614.scanner.modat.io
@@ -82,8 +80,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.org
-scan-12f.shadowserver.org
-scan-45o.shadowserver.org
+scan-81-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
