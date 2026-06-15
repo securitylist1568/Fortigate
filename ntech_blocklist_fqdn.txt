@@ -74,7 +74,6 @@ ip-49-174.4vendeta.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o609.scanner.modat.io
 o612.scanner.modat.io
 o614.scanner.modat.io
 o618.scanner.modat.io
@@ -83,7 +82,6 @@ o633.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.org
