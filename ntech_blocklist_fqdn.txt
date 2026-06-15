@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.11.14.34.bc.googleusercontent.com
 112.194.151.34.bc.googleusercontent.com
+125.20.189.107.static.cloudzy.com
 130.134.79.34.bc.googleusercontent.com
 135.57.62.34.bc.googleusercontent.com
 153.2.77.34.bc.googleusercontent.com
@@ -27,12 +28,10 @@
 171.162.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 213.169.205.35.bc.googleusercontent.com
-220-136-162-232.dynamic-ip.hinet.net
 232.230.140.34.bc.googleusercontent.com
 248.120.77.34.bc.googleusercontent.com
 253.140.62.34.bc.googleusercontent.com
 5.236.52.34.bc.googleusercontent.com
-53.26.71.192.in-addr.arpa
 76-231-26-138.lightspeed.sntcca.sbcglobal.net
 99.121.78.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -45,7 +44,6 @@ festa04.jcatransporte.com.br
 gtra.gov.af
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-18.4vendeta.com
 ip29.sudolio.io
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
