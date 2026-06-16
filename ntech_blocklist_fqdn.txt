@@ -27,6 +27,7 @@
 178.69.64.34.bc.googleusercontent.com
 18.175-34-38.rdns.scalabledns.com
 185-45-195-15.hostsailor.com
+19.175-34-38.rdns.scalabledns.com
 194-195-253-86.ip.linodeusercontent.com
 20.175-34-38.rdns.scalabledns.com
 204.76.203.30.ptr.pfcloud.network
@@ -72,7 +73,6 @@ o600.scanner.modat.io
 o611.scanner.modat.io
 o614.scanner.modat.io
 o616.scanner.modat.io
-o626.scanner.modat.io
 o636.scanner.modat.io
 o638.scanner.modat.io
 o639.scanner.modat.io
