@@ -56,9 +56,12 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04c.shadowserver.org
+scan-06g.shadowserver.org
 scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-43h.shadowserver.org
+scan-80-9.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
