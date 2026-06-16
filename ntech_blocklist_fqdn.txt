@@ -51,6 +51,7 @@ ip-49-126.4vendeta.com
 ip-49-142.web1.bg
 ip-49-174.4vendeta.com
 ip-49-226.4vendeta.com
+ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 l998.scanner.modat.io
 li641-246.members.linode.com
