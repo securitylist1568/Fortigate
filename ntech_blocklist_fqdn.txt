@@ -18,10 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
+153.172-34-38.rdns.scalabledns.com
 178.69.64.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 239.104.172.144.static.cloudzy.com
 86.175-34-38.rdns.scalabledns.com
+88.175-34-38.rdns.scalabledns.com
 acceso-189.224.142.33.prod-infinitum.com.mx
 amz.unixwiz.net
 azpdcgmv4rzj.stretchoid.com
