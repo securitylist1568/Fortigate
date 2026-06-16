@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124.52.211.130.bc.googleusercontent.com
+143.239.156.34.bc.googleusercontent.com
 144.145.76.34.bc.googleusercontent.com
 175.60.131.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -47,8 +48,8 @@ freddy.probe.onyphe.net
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
-ip-49-142.web1.bg
 ip-49-174.4vendeta.com
 ip-49-226.4vendeta.com
 ip-56-138.4vendeta.com
@@ -60,7 +61,6 @@ li1972-67.members.linode.com
 li641-246.members.linode.com
 mfyabgec.musicpda.com
 o012.scanner.modat.io
-o618.scanner.modat.io
 o638.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
