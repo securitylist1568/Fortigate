@@ -47,10 +47,7 @@ gtra.gov.af
 hn.kd.ny.adsl
 host.sindad.cloud
 htb-h9b8tjwfph.htb-cloud.com
-ip-117-241-static.velo.net.id
-ip-60-234-static.velo.net.id
 ip105.ip-15-204-184.us
-ip217-154-95-139.pbiaas.com
 ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
