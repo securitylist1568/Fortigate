@@ -43,6 +43,7 @@ ip-56-138.4vendeta.com
 ip-58-18.4vendeta.com
 ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
+l998.scanner.modat.io
 li1873-236.members.linode.com
 li1972-67.members.linode.com
 li1992-217.members.linode.com
