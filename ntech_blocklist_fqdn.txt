@@ -64,6 +64,7 @@ o624.scanner.modat.io
 o626.scanner.modat.io
 o633.scanner.modat.io
 o636.scanner.modat.io
+o639.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
