@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 195-154-41-69.rev.poneytelecom.eu
 210.154.194.104.static.cloudzy.com
-37.21.131.34.bc.googleusercontent.com
 39.224.186.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 amz.unixwiz.net
@@ -48,10 +47,8 @@ li1972-67.members.linode.com
 li641-246.members.linode.com
 mfyabgec.musicpda.com
 o012.scanner.modat.io
-o609.scanner.modat.io
 o618.scanner.modat.io
 o636.scanner.modat.io
-o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -63,10 +60,10 @@ scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-43h.shadowserver.org
 scan-80-9.shadowserver.org
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tiago.probe.onyphe.net
 unn-207-211-214-162.datapacket.com
 user-45-131-70-134.led02.ru.misaka.io
 users219.vip.heteml.jp
+virginia.probe.onyphe.net
