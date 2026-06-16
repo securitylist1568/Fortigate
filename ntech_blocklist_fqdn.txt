@@ -61,6 +61,7 @@ pinkytales.com
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-42i.shadowserver.org
 scan-43h.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
