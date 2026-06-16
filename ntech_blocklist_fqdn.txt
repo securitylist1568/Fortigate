@@ -30,6 +30,7 @@
 79.240.220.35.bc.googleusercontent.com
 86.175-34-38.rdns.scalabledns.com
 88.175-34-38.rdns.scalabledns.com
+89.175-34-38.rdns.scalabledns.com
 acceso-189.224.142.33.prod-infinitum.com.mx
 amz.unixwiz.net
 azpdcgmv4rzj.stretchoid.com
