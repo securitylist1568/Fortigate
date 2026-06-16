@@ -52,6 +52,7 @@ ip-49-174.4vendeta.com
 ip-49-226.4vendeta.com
 ip-60-234-static.velo.net.id
 ip217-154-95-139.pbiaas.com
+ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
 l998.scanner.modat.io
 mfyabgec.musicpda.com
