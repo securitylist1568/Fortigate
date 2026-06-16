@@ -52,6 +52,7 @@ ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
+nk218-187-98-69.adsl.dynamic.apol.com.tw
 ns3027750.ip-51-255-66.eu
 o600.scanner.modat.io
 o611.scanner.modat.io
