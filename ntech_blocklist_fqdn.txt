@@ -50,6 +50,7 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
 ip-49-122.4vendeta.com
+ip-49-126.4vendeta.com
 ip-49-142.web1.bg
 ip-49-174.4vendeta.com
 ip-49-226.4vendeta.com
@@ -78,6 +79,7 @@ scan-60.security.ipip.net
 scan-80-9.shadowserver.org
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.225.215.12.49.clients.your-server.de
 tiago.probe.onyphe.net
 unn-207-211-214-162.datapacket.com
 user-146-19-3-141.sto02.se.misaka.io
