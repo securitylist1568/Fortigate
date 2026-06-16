@@ -32,8 +32,8 @@
 246.24.38.34.bc.googleusercontent.com
 251.166.187.35.bc.googleusercontent.com
 38.216.38.34.bc.googleusercontent.com
-39.224.186.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
+50-116-23-150.ip.linodeusercontent.com
 57.243.78.34.bc.googleusercontent.com
 91.77.78.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -47,13 +47,11 @@ freddy.probe.onyphe.net
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-118.4vendeta.com
-ip-49-126.4vendeta.com
+ip-49-122.4vendeta.com
 ip-49-142.web1.bg
 ip-49-226.4vendeta.com
 ip-56-138.4vendeta.com
 ip-58-18.4vendeta.com
-ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
 l998.scanner.modat.io
 li1873-236.members.linode.com
@@ -62,8 +60,8 @@ li641-246.members.linode.com
 mfyabgec.musicpda.com
 o012.scanner.modat.io
 o618.scanner.modat.io
-o636.scanner.modat.io
 o638.scanner.modat.io
+o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
