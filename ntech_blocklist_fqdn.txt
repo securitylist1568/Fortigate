@@ -27,12 +27,11 @@
 194-195-253-86.ip.linodeusercontent.com
 20.175-34-38.rdns.scalabledns.com
 204.76.203.30.ptr.pfcloud.network
-209-215-15-51.instances.scw.cloud
 219.175-34-38.rdns.scalabledns.com
+239.104.172.144.static.cloudzy.com
 48.175-34-38.rdns.scalabledns.com
 56.175-34-38.rdns.scalabledns.com
 59.175-34-38.rdns.scalabledns.com
-62-210-125-62.rev.poneytelecom.eu
 79.240.220.35.bc.googleusercontent.com
 86.175-34-38.rdns.scalabledns.com
 88.175-34-38.rdns.scalabledns.com
@@ -61,8 +60,8 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-124-243-137-124.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-gtra.gov.af
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
@@ -72,7 +71,6 @@ mfyabgec.musicpda.com
 nk218-187-98-69.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
 o609.scanner.modat.io
-o614.scanner.modat.io
 o616.scanner.modat.io
 o623.scanner.modat.io
 o624.scanner.modat.io
