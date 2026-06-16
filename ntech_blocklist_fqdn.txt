@@ -46,14 +46,17 @@ li1873-236.members.linode.com
 li1972-67.members.linode.com
 li641-246.members.linode.com
 mfyabgec.musicpda.com
+o012.scanner.modat.io
 o609.scanner.modat.io
 o618.scanner.modat.io
 o636.scanner.modat.io
 o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40g.shadowserver.org
 scan-42i.shadowserver.org
 scan-43h.shadowserver.org
 security.criminalip.com
