@@ -47,10 +47,14 @@
 74-50-113-81.static.hvvc.us
 79.240.220.35.bc.googleusercontent.com
 82.174.240.35.bc.googleusercontent.com
+86.175-34-38.rdns.scalabledns.com
 88.175-34-38.rdns.scalabledns.com
 89.175-34-38.rdns.scalabledns.com
 91.77.78.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdssk480wi.stretchoid.com
+azpdssp7vjwc.stretchoid.com
+azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -91,3 +95,4 @@ users219.vip.heteml.jp
 vmi1565604.contaboserver.net
 vmi3326567.contaboserver.net
 www.internet-albedo.net
+zhangyuan3.virtuaserver.com.br
