@@ -42,6 +42,7 @@
 89.175-34-38.rdns.scalabledns.com
 amz.unixwiz.net
 azpdcgmv4rzj.stretchoid.com
+azpdcslejnig.stretchoid.com
 azpdesrind7l.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
@@ -81,6 +82,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-77-06.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
