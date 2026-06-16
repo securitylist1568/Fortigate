@@ -23,6 +23,7 @@
 210.154.194.104.static.cloudzy.com
 37.21.131.34.bc.googleusercontent.com
 39.224.186.35.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 amz.unixwiz.net
 b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
