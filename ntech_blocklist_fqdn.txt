@@ -83,3 +83,4 @@ user-146-19-3-141.sto02.se.misaka.io
 user-45-131-70-134.led02.ru.misaka.io
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
+vpresscentre.ru
