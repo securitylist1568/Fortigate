@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 13.175-34-38.rdns.scalabledns.com
+138.226.123.103.jnpl.jeebr.net
 146.175-34-38.rdns.scalabledns.com
 153.172-34-38.rdns.scalabledns.com
 18.175-34-38.rdns.scalabledns.com
@@ -70,6 +71,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 nk218-187-98-69.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
+o601.scanner.modat.io
 o609.scanner.modat.io
 o616.scanner.modat.io
 o623.scanner.modat.io
