@@ -23,6 +23,7 @@
 172-104-46-73.ip.linodeusercontent.com
 178.69.64.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+209-215-15-51.instances.scw.cloud
 225.242.22.34.bc.googleusercontent.com
 24.28.148.146.bc.googleusercontent.com
 241.158.62.34.bc.googleusercontent.com
@@ -45,8 +46,6 @@ hn.kd.ny.adsl
 host.sindad.cloud
 htb-h9b8tjwfph.htb-cloud.com
 ip-117-241-static.velo.net.id
-ip-49-126.4vendeta.com
-ip-49-142.web1.bg
 ip-60-234-static.velo.net.id
 ip105.ip-15-204-184.us
 ip217-154-95-139.pbiaas.com
@@ -68,17 +67,13 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-71-00.shadowserver.org
-scan-71-05.shadowserver.org
-scan-74-02.shadowserver.org
 scan-85-3.shadowserver.org
 scan-87-7.shadowserver.org
-scan-89-5.shadowserver.org
 security.criminalip.com
 server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.202.73.4.156.orangevps.com
-static.225.215.12.49.clients.your-server.de
 users219.vip.heteml.jp
 vmi3326567.contaboserver.net
 www.internet-albedo.net
