@@ -65,7 +65,6 @@ dns12.online.tj.cn
 ecs-124-243-137-124.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
