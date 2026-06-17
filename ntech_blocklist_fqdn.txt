@@ -21,9 +21,11 @@
 116.94.62.34.bc.googleusercontent.com
 123.237.78.34.bc.googleusercontent.com
 125.20.189.107.static.cloudzy.com
+13.175-34-38.rdns.scalabledns.com
 143-42-1-44.ip.linodeusercontent.com
 148.80.240.35.bc.googleusercontent.com
 151.192.79.34.bc.googleusercontent.com
+153.172-34-38.rdns.scalabledns.com
 16.161.62.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
@@ -32,6 +34,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+19.175-34-38.rdns.scalabledns.com
 192-155-81-124.ip.linodeusercontent.com
 213.211.241.35.bc.googleusercontent.com
 230.136.78.34.bc.googleusercontent.com
@@ -46,6 +49,7 @@
 59-124-69-124.hinet-ip.hinet.net
 59.215.76.34.bc.googleusercontent.com
 86.175-34-38.rdns.scalabledns.com
+88.175-34-38.rdns.scalabledns.com
 97.118.233.35.bc.googleusercontent.com
 amz.unixwiz.net
 arsenalhost.net
