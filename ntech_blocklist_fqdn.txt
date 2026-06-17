@@ -28,6 +28,10 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-22.4vendeta.com
+ip-58-74.4vendeta.com
+ip-58-98.4vendeta.com
+ip-59-10.superbit.host
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
 l609.scanner.modat.io
