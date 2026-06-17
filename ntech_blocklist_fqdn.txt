@@ -56,7 +56,6 @@
 93.189.79.34.bc.googleusercontent.com
 97.118.233.35.bc.googleusercontent.com
 amz.unixwiz.net
-arsenalhost.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -73,10 +72,8 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 o005.scanner.modat.io
 o043.scanner.modat.io
-o609.scanner.modat.io
 o614.scanner.modat.io
 o622.scanner.modat.io
-o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -86,10 +83,7 @@ scan-52k.shadowserver.org
 scan-73-02.shadowserver.org
 scan-74-02.shadowserver.org
 scan-80-9.shadowserver.org
-scan-83-7.shadowserver.org
 smbc-carn.tk
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.ill.117.250.115.194.bsnl.co.in
-unassigned.psychz.net
 users219.vip.heteml.jp
