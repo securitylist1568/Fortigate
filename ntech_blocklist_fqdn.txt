@@ -31,6 +31,7 @@
 49.251.7.34.bc.googleusercontent.com
 59.175-34-38.rdns.scalabledns.com
 62-210-125-62.rev.poneytelecom.eu
+70.34.247.48.vultrusercontent.com
 88.175-34-38.rdns.scalabledns.com
 89.175-34-38.rdns.scalabledns.com
 amz.unixwiz.net
