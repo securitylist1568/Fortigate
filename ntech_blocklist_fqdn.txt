@@ -71,6 +71,7 @@ li1817-110.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o005.scanner.modat.io
 o043.scanner.modat.io
 o609.scanner.modat.io
 o614.scanner.modat.io
