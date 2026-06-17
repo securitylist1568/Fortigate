@@ -50,6 +50,7 @@ scan-71-00.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 user-170-39-224-220.iad03.us.misaka.io
