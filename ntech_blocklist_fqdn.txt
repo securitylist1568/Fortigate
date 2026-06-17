@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-100.78.205.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,16 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111-249-203-96.dynamic-ip.hinet.net
-123.237.78.34.bc.googleusercontent.com
 13.175-34-38.rdns.scalabledns.com
-151.192.79.34.bc.googleusercontent.com
 153.172-34-38.rdns.scalabledns.com
 158.31.232.180.dsl.inet.static.certaincyber.net
 185-45-195-15.hostsailor.com
-213.211.241.35.bc.googleusercontent.com
 241.226.220.35.bc.googleusercontent.com
-33.225.205.35.bc.googleusercontent.com
 49.251.7.34.bc.googleusercontent.com
 59.175-34-38.rdns.scalabledns.com
 62-210-125-62.rev.poneytelecom.eu
@@ -47,8 +41,6 @@ ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o614.scanner.modat.io
-o622.scanner.modat.io
-o633.scanner.modat.io
 o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
