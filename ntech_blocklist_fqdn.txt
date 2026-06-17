@@ -50,6 +50,7 @@
 59-124-69-124.hinet-ip.hinet.net
 59.175-34-38.rdns.scalabledns.com
 59.215.76.34.bc.googleusercontent.com
+74-50-97-90.static.hvvc.us
 86.175-34-38.rdns.scalabledns.com
 88.175-34-38.rdns.scalabledns.com
 89.175-34-38.rdns.scalabledns.com
@@ -60,13 +61,16 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+f6b7df9839.research-scanner.com
 festa04.jcatransporte.com.br
+gtra.gov.af
 hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 li1817-110.members.linode.com
+li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
