@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.94.62.34.bc.googleusercontent.com
+123.237.78.34.bc.googleusercontent.com
 125.20.189.107.static.cloudzy.com
 13.175-34-38.rdns.scalabledns.com
 148.80.240.35.bc.googleusercontent.com
@@ -36,6 +37,7 @@
 241.226.220.35.bc.googleusercontent.com
 25.13.38.34.bc.googleusercontent.com
 33.225.205.35.bc.googleusercontent.com
+47-148-191-31.fdr02.ontr.ca.ip.frontiernet.net
 59.175-34-38.rdns.scalabledns.com
 59.215.76.34.bc.googleusercontent.com
 79.240.220.35.bc.googleusercontent.com
