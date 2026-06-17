@@ -20,14 +20,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 116.94.62.34.bc.googleusercontent.com
 123.237.78.34.bc.googleusercontent.com
-125.20.189.107.static.cloudzy.com
 13.175-34-38.rdns.scalabledns.com
 143-42-1-44.ip.linodeusercontent.com
 148.80.240.35.bc.googleusercontent.com
 151.192.79.34.bc.googleusercontent.com
 153.172-34-38.rdns.scalabledns.com
 16.161.62.34.bc.googleusercontent.com
-172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
@@ -44,6 +42,7 @@
 25.13.38.34.bc.googleusercontent.com
 252.175.79.34.bc.googleusercontent.com
 33.225.205.35.bc.googleusercontent.com
+36.94.177.195.in-addr.arpa
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 47-148-191-31.fdr02.ontr.ca.ip.frontiernet.net
@@ -51,6 +50,7 @@
 59-124-69-124.hinet-ip.hinet.net
 59.175-34-38.rdns.scalabledns.com
 59.215.76.34.bc.googleusercontent.com
+86.175-34-38.rdns.scalabledns.com
 88.175-34-38.rdns.scalabledns.com
 89.175-34-38.rdns.scalabledns.com
 93.189.79.34.bc.googleusercontent.com
@@ -69,13 +69,13 @@ htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 li1817-110.members.linode.com
+lisbon.portugal.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o609.scanner.modat.io
+o614.scanner.modat.io
 o622.scanner.modat.io
-o623.scanner.modat.io
 o628.scanner.modat.io
-o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
