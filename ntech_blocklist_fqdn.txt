@@ -47,8 +47,10 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o071.scanner.modat.io
+o609.scanner.modat.io
 o614.scanner.modat.io
 o623.scanner.modat.io
+o628.scanner.modat.io
 o636.scanner.modat.io
 o638.scanner.modat.io
 o639.scanner.modat.io
@@ -60,4 +62,5 @@ scan-43b.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unassigned.psychz.net
 users219.vip.heteml.jp
