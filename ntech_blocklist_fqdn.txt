@@ -27,7 +27,6 @@
 185-45-195-15.hostsailor.com
 19.175-34-38.rdns.scalabledns.com
 20.175-34-38.rdns.scalabledns.com
-239.104.172.144.static.cloudzy.com
 59.175-34-38.rdns.scalabledns.com
 79.240.220.35.bc.googleusercontent.com
 86.175-34-38.rdns.scalabledns.com
@@ -40,7 +39,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-217-95-0.compute-1.amazonaws.com
-ecs-124-243-137-124.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -51,16 +49,13 @@ o071.scanner.modat.io
 o601.scanner.modat.io
 o614.scanner.modat.io
 o623.scanner.modat.io
-o626.scanner.modat.io
 o636.scanner.modat.io
 o638.scanner.modat.io
 o639.scanner.modat.io
-o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-71-09.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
