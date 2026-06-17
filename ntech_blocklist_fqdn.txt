@@ -23,6 +23,7 @@
 13.175-34-38.rdns.scalabledns.com
 151.192.79.34.bc.googleusercontent.com
 153.172-34-38.rdns.scalabledns.com
+158.31.232.180.dsl.inet.static.certaincyber.net
 185-45-195-15.hostsailor.com
 213.211.241.35.bc.googleusercontent.com
 241.226.220.35.bc.googleusercontent.com
@@ -58,6 +59,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
+scan-71-00.shadowserver.org
 scan-78-08.shadowserver.org
 scan-83-7.shadowserver.org
 scan-86-7.shadowserver.org
