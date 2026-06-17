@@ -25,6 +25,7 @@
 153.172-34-38.rdns.scalabledns.com
 185-45-195-15.hostsailor.com
 213.211.241.35.bc.googleusercontent.com
+241.226.220.35.bc.googleusercontent.com
 33.225.205.35.bc.googleusercontent.com
 49.251.7.34.bc.googleusercontent.com
 59.175-34-38.rdns.scalabledns.com
