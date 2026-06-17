@@ -20,10 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 125.20.189.107.static.cloudzy.com
 13.175-34-38.rdns.scalabledns.com
-138.226.123.103.jnpl.jeebr.net
 153.172-34-38.rdns.scalabledns.com
 172-232-121-108.ip.linodeusercontent.com
-178.69.64.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.175-34-38.rdns.scalabledns.com
 20.175-34-38.rdns.scalabledns.com
@@ -35,6 +33,7 @@
 89.175-34-38.rdns.scalabledns.com
 acceso-189.224.142.33.prod-infinitum.com.mx
 amz.unixwiz.net
+arsenalhost.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -47,9 +46,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o071.scanner.modat.io
-o601.scanner.modat.io
 o614.scanner.modat.io
 o623.scanner.modat.io
 o636.scanner.modat.io
@@ -62,6 +59,5 @@ recyber.net
 scan-43b.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
