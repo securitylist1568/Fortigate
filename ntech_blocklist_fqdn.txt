@@ -22,8 +22,6 @@
 1638295.cloudwaysapps.com
 185-45-195-15.hostsailor.com
 241.226.220.35.bc.googleusercontent.com
-49.251.7.34.bc.googleusercontent.com
-62-210-125-62.rev.poneytelecom.eu
 70.34.247.48.vultrusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -35,7 +33,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip236.ip-5-135-71.eu
 ip29.sudolio.io
-ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o601.scanner.modat.io
@@ -50,7 +47,6 @@ recyber.net
 rping.ipip.net
 scan-06g.shadowserver.org
 scan-71-00.shadowserver.org
-scan-78-08.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
