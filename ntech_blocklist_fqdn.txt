@@ -85,6 +85,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.org
 scan-43b.shadowserver.org
+scan-52k.shadowserver.org
+scan-74-02.shadowserver.org
+scan-80-9.shadowserver.org
 scan-83-7.shadowserver.org
 security.criminalip.com
 smbc-carn.tk
