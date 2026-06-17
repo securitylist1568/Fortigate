@@ -31,7 +31,6 @@
 86.175-34-38.rdns.scalabledns.com
 88.175-34-38.rdns.scalabledns.com
 89.175-34-38.rdns.scalabledns.com
-acceso-189.224.142.33.prod-infinitum.com.mx
 amz.unixwiz.net
 arsenalhost.net
 b2.org.afilias-nst.org
@@ -59,8 +58,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.org
+scan-83-7.shadowserver.org
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.ill.117.250.115.194.bsnl.co.in
 unassigned.psychz.net
 users219.vip.heteml.jp
