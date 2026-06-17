@@ -19,9 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
-70.34.247.48.vultrusercontent.com
 amz.unixwiz.net
+azpdcgmv4rzj.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
+azpdsgu2vs9r.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
