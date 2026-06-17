@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 70.34.247.48.vultrusercontent.com
 amz.unixwiz.net
+azpdsg5jlcj1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -28,7 +29,9 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-106.4vendeta.com
 ip-58-22.4vendeta.com
+ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
@@ -38,6 +41,7 @@ l609.scanner.modat.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 n.ryakhovsky.fvds.ru
+o052.scanner.modat.io
 o601.scanner.modat.io
 o633.scanner.modat.io
 o636.scanner.modat.io
