@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 186.45.231.5.hostbrr.com
+210.154.194.104.static.cloudzy.com
 251.149.216.162.bc.googleusercontent.com
 49.251.7.34.bc.googleusercontent.com
 78.135.66.249.pendns.net
@@ -71,6 +72,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-60-10.shadowserver.org
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
@@ -78,5 +80,7 @@ ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 user-170-39-227-143.sea02.us.misaka.io
+user-170-39-227-251.sea02.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
+www.internet-albedo.net
