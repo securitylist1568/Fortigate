@@ -31,10 +31,12 @@
 210.154.194.104.static.cloudzy.com
 211.144.79.34.bc.googleusercontent.com
 212.69.187.35.bc.googleusercontent.com
+217.210.203.35.bc.googleusercontent.com
 248.119.156.34.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
 36.141.34.34.bc.googleusercontent.com
 36.46.240.35.bc.googleusercontent.com
+45.149.216.162.bc.googleusercontent.com
 49.251.7.34.bc.googleusercontent.com
 56.97.38.34.bc.googleusercontent.com
 78.135.66.249.pendns.net
@@ -84,6 +86,7 @@ o052.scanner.modat.io
 o626.scanner.modat.io
 o638.scanner.modat.io
 ogjl138.discover.onlygreatjobslive.com
+out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
