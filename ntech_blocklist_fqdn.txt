@@ -20,10 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 129.150.216.162.bc.googleusercontent.com
 148.191.52.34.bc.googleusercontent.com
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 17.149.216.162.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
-18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.45.231.5.hostbrr.com
 198.19.38.34.bc.googleusercontent.com
@@ -58,11 +56,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
 ip119.ip-72-251-8.net
-ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o601.scanner.modat.io
-o622.scanner.modat.io
 o626.scanner.modat.io
 o633.scanner.modat.io
 o639.scanner.modat.io
@@ -71,9 +66,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-05j.shadowserver.org
 scan-43h.shadowserver.io
-scan-47k.shadowserver.io
 scan-52k.shadowserver.io
 scan-61-7.shadowserver.io
 scan-74-07.shadowserver.io
