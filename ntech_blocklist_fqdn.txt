@@ -41,6 +41,7 @@
 212.211.203.35.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
+47.149.216.162.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 6682-315a.jnb01.za.misaka.io
