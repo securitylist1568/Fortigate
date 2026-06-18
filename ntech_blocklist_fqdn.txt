@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+106.211.203.35.bc.googleusercontent.com
 109-248-43-169.skylon.cloud
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -50,7 +51,7 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-59-22.4vendeta.com
-ip236.ip-5-135-71.eu
+ip245.ip-5-39-49.eu
 ip29.sudolio.io
 l609.scanner.modat.io
 l998.scanner.modat.io
@@ -61,8 +62,8 @@ ns3027750.ip-51-255-66.eu
 o052.scanner.modat.io
 o601.scanner.modat.io
 o626.scanner.modat.io
-o636.scanner.modat.io
 o640.scanner.modat.io
+ogjl138.discover.onlygreatjobslive.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
