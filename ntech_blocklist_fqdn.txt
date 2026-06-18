@@ -23,7 +23,9 @@
 117.209-183-91.adsl-static.isp.belgacom.be
 125.20.189.107.static.cloudzy.com
 13.149.216.162.bc.googleusercontent.com
+145.149.216.162.bc.googleusercontent.com
 148.31.77.34.bc.googleusercontent.com
+176.65.148.184.ptr.pfcloud.network
 180.150.216.162.bc.googleusercontent.com
 182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -72,9 +74,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60-10.shadowserver.io
 scan-61-7.shadowserver.io
+scan-63-13.shadowserver.io
 scan-70-00.shadowserver.io
 scan-87-7.shadowserver.io
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
