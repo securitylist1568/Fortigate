@@ -46,14 +46,11 @@
 78.135.66.249.pendns.net
 amz.unixwiz.net
 azpdcgkm3iag.stretchoid.com
-azpdcgmv4rzj.stretchoid.com
 azpdcgngane9.stretchoid.com
 azpdesdfn5lp.stretchoid.com
 azpdsg1j90qs.stretchoid.com
 azpdsg3ry68v.stretchoid.com
-azpdsg5jlcj1.stretchoid.com
 azpdsgo34xwr.stretchoid.com
-azpdsgu2vs9r.stretchoid.com
 azpdssk480wi.stretchoid.com
 azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
@@ -67,13 +64,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-126.4vendeta.com
 ip-40-158.4vendeta.com
 ip-56-254.4vendeta.com
-ip-58-106.4vendeta.com
 ip-58-18.4vendeta.com
-ip-58-22.4vendeta.com
-ip-58-250.4vendeta.com
-ip-58-74.4vendeta.com
-ip-58-98.4vendeta.com
-ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip146.ip-72-251-5.net
 ip158.ip-72-251-5.net
@@ -84,7 +75,6 @@ l998.scanner.modat.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns3027750.ip-51-255-66.eu
-o052.scanner.modat.io
 o072.scanner.modat.io
 o626.scanner.modat.io
 o638.scanner.modat.io
@@ -99,6 +89,7 @@ scan-45o.shadowserver.io
 scan-60-10.shadowserver.org
 scan-63-13.shadowserver.io
 scan-77-06.shadowserver.io
+scan-79-00.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 sharp.atid.cloud
