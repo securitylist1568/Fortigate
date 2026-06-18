@@ -25,6 +25,7 @@
 148.31.77.34.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
+182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.45.231.5.hostbrr.com
 198.19.38.34.bc.googleusercontent.com
@@ -63,6 +64,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -75,6 +77,7 @@ mfyabgec.musicpda.com
 o612.scanner.modat.io
 o626.scanner.modat.io
 o633.scanner.modat.io
+o638.scanner.modat.io
 o639.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
