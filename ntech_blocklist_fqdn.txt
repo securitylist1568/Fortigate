@@ -21,6 +21,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
+186.45.231.5.hostbrr.com
+251.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgkm3iag.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
@@ -37,6 +39,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -53,6 +56,7 @@ ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
+kub002.idyschool.de.com
 l609.scanner.modat.io
 l998.scanner.modat.io
 li1972-67.members.linode.com
