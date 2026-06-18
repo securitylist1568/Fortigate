@@ -27,6 +27,7 @@
 185-45-195-15.hostsailor.com
 186.45.231.5.hostbrr.com
 198.19.38.34.bc.googleusercontent.com
+205.253.53.34.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
 211.193.150.34.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
@@ -37,6 +38,8 @@
 248.119.156.34.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
+36.141.34.34.bc.googleusercontent.com
+36.46.240.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 56.97.38.34.bc.googleusercontent.com
 62-210-131-8.rev.poneytelecom.eu
