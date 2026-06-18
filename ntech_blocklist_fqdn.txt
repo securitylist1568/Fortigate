@@ -72,6 +72,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-52k.shadowserver.io
 scan-60-10.shadowserver.io
+scan-61-7.shadowserver.io
 scan-70-00.shadowserver.io
 scan-87-7.shadowserver.io
 smtp1.telemach.net
