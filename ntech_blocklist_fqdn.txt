@@ -37,6 +37,7 @@
 251.149.216.162.bc.googleusercontent.com
 36.141.34.34.bc.googleusercontent.com
 36.46.240.35.bc.googleusercontent.com
+37.149.216.162.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
 49.251.7.34.bc.googleusercontent.com
 56.97.38.34.bc.googleusercontent.com
@@ -83,6 +84,7 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns3027750.ip-51-255-66.eu
 o052.scanner.modat.io
+o072.scanner.modat.io
 o626.scanner.modat.io
 o638.scanner.modat.io
 ogjl138.discover.onlygreatjobslive.com
