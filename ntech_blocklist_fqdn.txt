@@ -78,12 +78,16 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-52k.shadowserver.io
+scan-60-10.shadowserver.io
 scan-61-7.shadowserver.io
+scan-70-00.shadowserver.io
 scan-74-07.shadowserver.io
+scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
 unn-138-199-53-212.datapacket.com
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
