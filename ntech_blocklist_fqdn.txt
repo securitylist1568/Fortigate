@@ -76,6 +76,7 @@ ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip146.ip-72-251-5.net
+ip158.ip-72-251-5.net
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 kub002.idyschool.de.com
@@ -94,6 +95,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.io
+scan-45o.shadowserver.io
 scan-60-10.shadowserver.org
 scan-63-13.shadowserver.io
 scan-77-06.shadowserver.io
