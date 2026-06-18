@@ -1,7 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 106.211.203.35.bc.googleusercontent.com
 106.98.205.35.bc.googleusercontent.com
-109-248-43-169.skylon.cloud
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -25,6 +24,7 @@
 148.191.52.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 168.149.216.162.bc.googleusercontent.com
+18.149.216.162.bc.googleusercontent.com
 182.34.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.45.231.5.hostbrr.com
@@ -46,14 +46,6 @@
 65.210.203.35.bc.googleusercontent.com
 78.135.66.249.pendns.net
 amz.unixwiz.net
-azpdcgkm3iag.stretchoid.com
-azpdcgngane9.stretchoid.com
-azpdesdfn5lp.stretchoid.com
-azpdsg1j90qs.stretchoid.com
-azpdsg3ry68v.stretchoid.com
-azpdsgo34xwr.stretchoid.com
-azpdssk480wi.stretchoid.com
-azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -62,7 +54,6 @@ dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-126.4vendeta.com
 ip-40-158.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-18.4vendeta.com
@@ -80,7 +71,6 @@ ns3027750.ip-51-255-66.eu
 o072.scanner.modat.io
 o601.scanner.modat.io
 o622.scanner.modat.io
-o626.scanner.modat.io
 o638.scanner.modat.io
 ogjl138.discover.onlygreatjobslive.com
 out-athlete.winningbells.com
