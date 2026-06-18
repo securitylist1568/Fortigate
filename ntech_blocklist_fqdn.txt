@@ -50,11 +50,13 @@
 50.222.156.34.bc.googleusercontent.com
 54.157.195.35.bc.googleusercontent.com
 56.97.38.34.bc.googleusercontent.com
+62-210-125-62.rev.poneytelecom.eu
 63.149.216.162.bc.googleusercontent.com
 74.149.216.162.bc.googleusercontent.com
 78.135.66.249.pendns.net
 80.149.216.162.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
+94.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
