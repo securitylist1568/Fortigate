@@ -32,7 +32,9 @@
 210.154.194.104.static.cloudzy.com
 210.211.203.35.bc.googleusercontent.com
 211.144.79.34.bc.googleusercontent.com
+211.193.150.34.bc.googleusercontent.com
 212.69.187.35.bc.googleusercontent.com
+215.210.203.35.bc.googleusercontent.com
 217.210.203.35.bc.googleusercontent.com
 23.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
@@ -47,6 +49,7 @@
 64.149.216.162.bc.googleusercontent.com
 65.170.151.34.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
+74.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -80,7 +83,9 @@ scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-60-10.shadowserver.org
+scan-61-7.shadowserver.io
 scan-63-13.shadowserver.io
+scan-74-07.shadowserver.io
 scan-75-05.shadowserver.io
 scan-79-00.shadowserver.io
 scan-79-08.shadowserver.io
@@ -88,6 +93,7 @@ security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-138-199-53-212.datapacket.com
 user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
