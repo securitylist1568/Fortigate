@@ -65,6 +65,7 @@ o072.scanner.modat.io
 o601.scanner.modat.io
 o622.scanner.modat.io
 o638.scanner.modat.io
+o639.scanner.modat.io
 out-athlete.winningbells.com
 pause-mail-wi0.metashort.net
 pc112.cses.ilc.edu.tw
@@ -73,6 +74,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.org
 scan-43b.shadowserver.io
+scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-60-10.shadowserver.org
