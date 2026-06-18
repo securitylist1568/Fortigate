@@ -28,11 +28,9 @@
 182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200.150.216.162.bc.googleusercontent.com
-216-244-83-58-reverse.wowrack.com
 231.144.156.34.bc.googleusercontent.com
 232.196.79.34.bc.googleusercontent.com
 232.213.76.34.bc.googleusercontent.com
-242.150.216.162.bc.googleusercontent.com
 242.56.38.34.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 34.244.38.34.bc.googleusercontent.com
@@ -40,6 +38,7 @@
 45.185.79.34.bc.googleusercontent.com
 50.222.156.34.bc.googleusercontent.com
 54.157.195.35.bc.googleusercontent.com
+55.150.216.162.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 63.149.216.162.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
@@ -60,20 +59,17 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-102.superbithost.com
 ip-56-138.4vendeta.com
-ip119.ip-72-251-8.net
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 o612.scanner.modat.io
 o626.scanner.modat.io
-o633.scanner.modat.io
 o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-52k.shadowserver.io
 scan-60-10.shadowserver.io
 scan-61-7.shadowserver.io
 scan-70-00.shadowserver.io
@@ -82,5 +78,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
-v2202604348631447293.hotsrv.de
 vmi3326567.contaboserver.net
