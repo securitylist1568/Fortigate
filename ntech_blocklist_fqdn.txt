@@ -22,6 +22,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 115.178.22.34.bc.googleusercontent.com
 125.20.189.107.static.cloudzy.com
+13.149.216.162.bc.googleusercontent.com
 148.191.52.34.bc.googleusercontent.com
 148.31.77.34.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
@@ -49,6 +50,7 @@
 75.150.216.162.bc.googleusercontent.com
 78.135.66.249.pendns.net
 80.149.216.162.bc.googleusercontent.com
+94.149.216.162.bc.googleusercontent.com
 94.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
