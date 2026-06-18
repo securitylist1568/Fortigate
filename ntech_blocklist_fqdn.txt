@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+120.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 148.191.52.34.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
@@ -39,6 +40,8 @@
 45.149.216.162.bc.googleusercontent.com
 49.251.7.34.bc.googleusercontent.com
 56.97.38.34.bc.googleusercontent.com
+65.170.151.34.bc.googleusercontent.com
+65.210.203.35.bc.googleusercontent.com
 78.135.66.249.pendns.net
 amz.unixwiz.net
 azpdcgkm3iag.stretchoid.com
@@ -75,11 +78,8 @@ ip146.ip-72-251-5.net
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 kub002.idyschool.de.com
-l609.scanner.modat.io
 l998.scanner.modat.io
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
-n.ryakhovsky.fvds.ru
 no-mans-land.m247.com
 ns3027750.ip-51-255-66.eu
 o052.scanner.modat.io
@@ -102,6 +102,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
 user-170-39-227-251.sea02.us.misaka.io
-user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
 www.internet-albedo.net
