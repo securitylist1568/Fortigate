@@ -36,6 +36,7 @@
 216-244-83-58-reverse.wowrack.com
 23.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
+242.150.216.162.bc.googleusercontent.com
 248.119.156.34.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
@@ -73,6 +74,7 @@ recyber.net
 scan-05j.shadowserver.org
 scan-43h.shadowserver.io
 scan-47k.shadowserver.io
+scan-52k.shadowserver.io
 scan-61-7.shadowserver.io
 scan-74-07.shadowserver.io
 scan-75-05.shadowserver.io
