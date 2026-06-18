@@ -21,11 +21,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.178.22.34.bc.googleusercontent.com
+117.209-183-91.adsl-static.isp.belgacom.be
 125.20.189.107.static.cloudzy.com
 13.149.216.162.bc.googleusercontent.com
 148.191.52.34.bc.googleusercontent.com
 148.31.77.34.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
+180.150.216.162.bc.googleusercontent.com
 182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.253.53.34.bc.googleusercontent.com
