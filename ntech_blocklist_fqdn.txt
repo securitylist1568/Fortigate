@@ -20,6 +20,7 @@
 111-241-204-158.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
+169.149.216.162.bc.googleusercontent.com
 172.150.216.162.bc.googleusercontent.com
 176.65.148.135.ptr.pfcloud.network
 176.65.148.172.ptr.pfcloud.network
@@ -32,6 +33,7 @@
 44.149.216.162.bc.googleusercontent.com
 61-228-160-74.dynamic-ip.hinet.net
 74-50-97-90.static.hvvc.us
+91.197.234.8.bc.googleusercontent.com
 94-190-218-025.static.imsbiz.com
 94.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -47,6 +49,7 @@ ip-56-210.4vendeta.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
+o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
