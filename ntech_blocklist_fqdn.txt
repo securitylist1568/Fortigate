@@ -36,7 +36,6 @@
 204.76.203.49.ptr.pfcloud.network
 215.149.216.162.bc.googleusercontent.com
 220.85.199.104.bc.googleusercontent.com
-226.210.203.35.bc.googleusercontent.com
 24.243.38.34.bc.googleusercontent.com
 24.43.77.34.bc.googleusercontent.com
 248.34.14.34.bc.googleusercontent.com
@@ -52,7 +51,6 @@
 72.72.77.34.bc.googleusercontent.com
 8.69.187.35.bc.googleusercontent.com
 80.83.76.34.bc.googleusercontent.com
-91.197.234.8.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
