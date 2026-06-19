@@ -25,8 +25,6 @@
 196.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 220.149.216.162.bc.googleusercontent.com
-250.150.216.162.bc.googleusercontent.com
-41.143.83.5.hosted-by.vpslayer.net
 44.149.216.162.bc.googleusercontent.com
 61-228-160-74.dynamic-ip.hinet.net
 74-50-97-90.static.hvvc.us
@@ -40,12 +38,9 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip-56-210.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o601.scanner.modat.io
-o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -54,13 +49,11 @@ r3.ams.opendns.com
 recyber.net
 rootevidence.com
 scan-71-05.shadowserver.io
-scan-74-07.shadowserver.io
 scan-77-02.shadowserver.io
-scan-77-06.shadowserver.io
 scan-79-08.shadowserver.io
+scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi3375811.contaboserver.net
 vmi3382939.contaboserver.net
