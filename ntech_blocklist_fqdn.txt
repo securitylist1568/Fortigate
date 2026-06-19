@@ -17,8 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111-241-204-158.dynamic-ip.hinet.net
-114.149.216.162.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
 168-113-158-51.instances.scw.cloud
 169.149.216.162.bc.googleusercontent.com
@@ -32,9 +30,9 @@
 196.210.203.35.bc.googleusercontent.com
 220.149.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
+43.149.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 45.135.193.105.ptr.pfcloud.network
-61-228-160-74.dynamic-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 91.197.234.8.bc.googleusercontent.com
 94.150.216.162.bc.googleusercontent.com
@@ -60,6 +58,7 @@ ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
 ns3116753.ip-51-38-52.eu
 o601.scanner.modat.io
+o614.scanner.modat.io
 o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
