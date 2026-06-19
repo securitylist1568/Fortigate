@@ -18,16 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.150.216.162.bc.googleusercontent.com
-119.149.216.162.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
 124.210.203.35.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
-131.210.203.35.bc.googleusercontent.com
-144.202.92.17.vultrusercontent.com
-146.150.216.162.bc.googleusercontent.com
-156.150.216.162.bc.googleusercontent.com
-160-119-71-129.ptr.as49870.net
 168.149.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 175.150.216.162.bc.googleusercontent.com
@@ -35,6 +29,7 @@
 186.150.216.162.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
 194-213-3-105.as212027.host
+196.149.216.162.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
 216-244-95-154-reverse.wowrack.com
 228.211.203.35.bc.googleusercontent.com
@@ -44,8 +39,8 @@
 61.150.216.162.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
-6682-315a.jnb01.za.misaka.io
 74-50-113-81.static.hvvc.us
+78.135.66.249.pendns.net
 9.149.216.162.bc.googleusercontent.com
 91-208-92-198.as212027.host
 amz.unixwiz.net
@@ -62,12 +57,11 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-254.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
+ip-58-18.4vendeta.com
 ip-58-250.4vendeta.com
 ip-59-22.4vendeta.com
 ip152.ip-51-38-165.eu
 ip29.sudolio.io
-li1625-135.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o602.scanner.modat.io
 o614.scanner.modat.io
@@ -82,3 +76,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.225.215.12.49.clients.your-server.de
 unn-37-19-221-156.datapacket.com
 users219.vip.heteml.jp
+vps-35c8b800.vps.ovh.net
