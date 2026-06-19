@@ -31,6 +31,7 @@
 220.149.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
+45.135.193.105.ptr.pfcloud.network
 61-228-160-74.dynamic-ip.hinet.net
 62-210-125-62.rev.poneytelecom.eu
 91.197.234.8.bc.googleusercontent.com
@@ -45,6 +46,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-226.4vendeta.com
 ip-56-210.4vendeta.com
 ip146.ip-72-251-5.net
 ip29.sudolio.io
@@ -64,6 +66,7 @@ scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.150.241.85.180.msk.sh
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi3382939.contaboserver.net
