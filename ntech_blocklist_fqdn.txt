@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 196.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
+220.149.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 41.143.83.5.hosted-by.vpslayer.net
 61-228-160-74.dynamic-ip.hinet.net
@@ -49,6 +50,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r2002.compute.ams1.edc.strln.net
 r3.ams.opendns.com
 recyber.net
+rootevidence.com
 scan-71-05.shadowserver.io
 scan-74-07.shadowserver.io
 scan-77-02.shadowserver.io
