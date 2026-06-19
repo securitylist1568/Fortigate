@@ -71,7 +71,9 @@ proxy-ca002-ext2.a.ahrefs.com
 r2002.compute.ams1.edc.strln.net
 r3.ams.opendns.com
 recyber.net
+scan-71-05.shadowserver.io
 scan-74-07.shadowserver.io
+scan-77-02.shadowserver.io
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
