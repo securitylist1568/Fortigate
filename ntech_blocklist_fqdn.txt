@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-243-70-228.dynamic-ip.hinet.net
+114.149.216.162.bc.googleusercontent.com
 12.16.233.35.bc.googleusercontent.com
 124.212.53.34.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
@@ -32,9 +33,7 @@
 18.207.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.70.175.207.bc.googleusercontent.com
-204.211.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
-215.149.216.162.bc.googleusercontent.com
 220.85.199.104.bc.googleusercontent.com
 24.243.38.34.bc.googleusercontent.com
 24.43.77.34.bc.googleusercontent.com
@@ -46,7 +45,6 @@
 41.143.83.5.hosted-by.vpslayer.net
 47.151.79.34.bc.googleusercontent.com
 47.81.38.34.bc.googleusercontent.com
-61-216-248-31.hinet-ip.hinet.net
 66.135.76.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 8.69.187.35.bc.googleusercontent.com
