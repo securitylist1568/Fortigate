@@ -20,11 +20,14 @@
 111-241-204-158.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
+176.65.148.135.ptr.pfcloud.network
+176.65.148.172.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 196.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 220.149.216.162.bc.googleusercontent.com
+247.149.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 61-228-160-74.dynamic-ip.hinet.net
 74-50-97-90.static.hvvc.us
@@ -40,6 +43,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
 ip29.sudolio.io
+ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
