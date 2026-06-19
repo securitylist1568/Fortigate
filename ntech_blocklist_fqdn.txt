@@ -19,9 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.150.216.162.bc.googleusercontent.com
 122.149.216.162.bc.googleusercontent.com
-124.210.203.35.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
-168.149.216.162.bc.googleusercontent.com
+135.59.195.35.bc.googleusercontent.com
+154.150.216.162.bc.googleusercontent.com
+174.59.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 188.70.175.207.bc.googleusercontent.com
@@ -31,8 +32,6 @@
 216-244-95-154-reverse.wowrack.com
 228.211.203.35.bc.googleusercontent.com
 33.89.156.34.bc.googleusercontent.com
-45.210.203.35.bc.googleusercontent.com
-47.149.216.162.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
 66.135.76.34.bc.googleusercontent.com
@@ -47,7 +46,6 @@ cheaptaximalaga.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-121-36-108-5.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 h210-66-128-248.host-dial.seed.net.tw
 hn.kd.ny.adsl
@@ -65,7 +63,6 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
 o602.scanner.modat.io
-o614.scanner.modat.io
 o633.scanner.modat.io
 o639.scanner.modat.io
 pc112.cses.ilc.edu.tw
