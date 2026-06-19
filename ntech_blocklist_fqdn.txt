@@ -52,10 +52,14 @@
 activity189.numbercombative.com
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
+azpdcsmatos4.stretchoid.com
 azpdcsuk863a.stretchoid.com
 azpdesdfn5lp.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
+azpdsgo34xwr.stretchoid.com
 azpdsgxl6zu7.stretchoid.com
+azpdssumseh6.stretchoid.com
+azpdsszhqwse.stretchoid.com
 azpdws28galu.stretchoid.com
 azpdwsayyn3f.stretchoid.com
 b2.org.afilias-nst.org
@@ -74,6 +78,7 @@ ip-58-18.4vendeta.com
 ip-59-22.4vendeta.com
 ip152.ip-51-38-165.eu
 ip158.ip-72-251-5.net
+ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3027750.ip-51-255-66.eu
