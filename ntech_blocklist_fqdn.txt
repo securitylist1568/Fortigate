@@ -41,9 +41,11 @@
 24.243.38.34.bc.googleusercontent.com
 24.43.77.34.bc.googleusercontent.com
 248.34.14.34.bc.googleusercontent.com
+250.150.216.162.bc.googleusercontent.com
 254.184.78.34.bc.googleusercontent.com
 30.28.156.34.bc.googleusercontent.com
 33.89.156.34.bc.googleusercontent.com
+41.143.83.5.hosted-by.vpslayer.net
 47.151.79.34.bc.googleusercontent.com
 47.81.38.34.bc.googleusercontent.com
 61-216-248-31.hinet-ip.hinet.net
@@ -62,10 +64,13 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip29.sudolio.io
 l609.scanner.modat.io
 mfyabgec.musicpda.com
+o601.scanner.modat.io
 o602.scanner.modat.io
+o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
