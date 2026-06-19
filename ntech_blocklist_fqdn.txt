@@ -24,6 +24,7 @@
 176.65.148.135.ptr.pfcloud.network
 176.65.148.172.ptr.pfcloud.network
 176.65.148.229.ptr.pfcloud.network
+181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
@@ -31,6 +32,7 @@
 196.210.203.35.bc.googleusercontent.com
 213-250-47-212.rev.scw.cloud
 220.149.216.162.bc.googleusercontent.com
+23-227-175-62.static.hvvc.us
 247.149.216.162.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
@@ -54,6 +56,7 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip146.ip-72-251-5.net
+ip212.ip-5-135-173.eu
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
@@ -62,6 +65,7 @@ o601.scanner.modat.io
 o614.scanner.modat.io
 o626.scanner.modat.io
 o633.scanner.modat.io
+o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
