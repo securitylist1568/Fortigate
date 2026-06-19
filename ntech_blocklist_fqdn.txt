@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-243-70-228.dynamic-ip.hinet.net
-113.149.216.162.bc.googleusercontent.com
 12.16.233.35.bc.googleusercontent.com
 124.212.53.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
@@ -33,7 +32,6 @@
 18.207.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.70.175.207.bc.googleusercontent.com
-194.34.77.34.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
 220.85.199.104.bc.googleusercontent.com
@@ -55,8 +53,6 @@
 80.83.76.34.bc.googleusercontent.com
 91.197.234.8.bc.googleusercontent.com
 amz.unixwiz.net
-azpdsge43nsk.stretchoid.com
-azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -66,7 +62,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
-l609.scanner.modat.io
 mfyabgec.musicpda.com
 o601.scanner.modat.io
 o602.scanner.modat.io
