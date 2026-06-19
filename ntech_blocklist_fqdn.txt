@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.149.216.162.bc.googleusercontent.com
 113.150.216.162.bc.googleusercontent.com
 115.149.216.162.bc.googleusercontent.com
 123-194-161-165.dynamic.kbronet.com.tw
@@ -27,6 +28,7 @@
 185-45-195-15.hostsailor.com
 188.70.175.207.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
+194.34.77.34.bc.googleusercontent.com
 196.149.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
@@ -51,6 +53,7 @@ azpdcsuk863a.stretchoid.com
 azpdesdfn5lp.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
+azpdsge43nsk.stretchoid.com
 azpdsgo34xwr.stretchoid.com
 azpdsgxl6zu7.stretchoid.com
 azpdssumseh6.stretchoid.com
