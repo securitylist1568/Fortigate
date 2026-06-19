@@ -20,12 +20,13 @@
 111-241-204-158.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
+172.150.216.162.bc.googleusercontent.com
 176.65.148.135.ptr.pfcloud.network
 176.65.148.172.ptr.pfcloud.network
+176.65.148.229.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 196.210.203.35.bc.googleusercontent.com
-204.76.203.49.ptr.pfcloud.network
 220.149.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
@@ -36,6 +37,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
