@@ -28,6 +28,7 @@
 192-210-243-12-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
 196.210.203.35.bc.googleusercontent.com
+213-250-47-212.rev.scw.cloud
 220.149.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
@@ -59,6 +60,7 @@ mfyabgec.musicpda.com
 ns3116753.ip-51-38-52.eu
 o601.scanner.modat.io
 o614.scanner.modat.io
+o626.scanner.modat.io
 o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
