@@ -38,6 +38,7 @@
 64.149.216.162.bc.googleusercontent.com
 66.135.76.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
+72.72.77.34.bc.googleusercontent.com
 89.145.76.34.bc.googleusercontent.com
 91.197.234.8.bc.googleusercontent.com
 activity189.numbercombative.com
@@ -57,7 +58,6 @@ azpdws28galu.stretchoid.com
 azpdwsayyn3f.stretchoid.com
 azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
-cheaptaximalaga.com
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -79,8 +79,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-07e.shadowserver.io
+scan-43b.shadowserver.io
 scan-45o.shadowserver.io
-scan-70-00.shadowserver.io
 scan-79-09.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
@@ -89,4 +89,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-185-234-213-135.zrh01.ch.misaka.io
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
-vps-35c8b800.vps.ovh.net
