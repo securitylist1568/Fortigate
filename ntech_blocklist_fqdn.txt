@@ -21,11 +21,13 @@
 114.149.216.162.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 196.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 220.149.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 41.143.83.5.hosted-by.vpslayer.net
+44.149.216.162.bc.googleusercontent.com
 61-228-160-74.dynamic-ip.hinet.net
 74-50-97-90.static.hvvc.us
 94-190-218-025.static.imsbiz.com
@@ -55,6 +57,7 @@ scan-71-05.shadowserver.io
 scan-74-07.shadowserver.io
 scan-77-02.shadowserver.io
 scan-77-06.shadowserver.io
+scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
