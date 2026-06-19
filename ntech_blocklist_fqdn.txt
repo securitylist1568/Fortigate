@@ -22,6 +22,7 @@
 111-243-70-228.dynamic-ip.hinet.net
 12.16.233.35.bc.googleusercontent.com
 124.212.53.34.bc.googleusercontent.com
+135.150.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 148.222.78.34.bc.googleusercontent.com
 148.239.79.34.bc.googleusercontent.com
@@ -49,6 +50,7 @@
 61-216-248-31.hinet-ip.hinet.net
 66.135.76.34.bc.googleusercontent.com
 72.72.77.34.bc.googleusercontent.com
+74-50-97-90.static.hvvc.us
 8.69.187.35.bc.googleusercontent.com
 80.83.76.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -68,6 +70,8 @@ o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r2002.compute.ams1.edc.strln.net
+r3.ams.opendns.com
 recyber.net
 scan-43b.shadowserver.io
 scan-74-07.shadowserver.io
