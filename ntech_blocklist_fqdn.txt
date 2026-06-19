@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -31,6 +32,7 @@
 196.149.216.162.bc.googleusercontent.com
 216-244-95-154-reverse.wowrack.com
 228.211.203.35.bc.googleusercontent.com
+233.24.148.146.bc.googleusercontent.com
 33.89.156.34.bc.googleusercontent.com
 48.92.172.144.static.cloudzy.com
 61.150.216.162.bc.googleusercontent.com
