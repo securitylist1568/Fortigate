@@ -24,6 +24,7 @@
 168.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
+188.70.175.207.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
 194-213-3-105.as212027.host
 196.149.216.162.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 45.210.203.35.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
+64.149.216.162.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
 74-50-113-81.static.hvvc.us
 78.135.66.249.pendns.net
@@ -58,6 +60,7 @@ ip-59-22.4vendeta.com
 ip152.ip-51-38-165.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+ns3027750.ip-51-255-66.eu
 o602.scanner.modat.io
 o614.scanner.modat.io
 o633.scanner.modat.io
