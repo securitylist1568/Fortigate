@@ -1,3 +1,4 @@
+1-162-10-154.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 105.152.156.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
@@ -35,9 +36,7 @@
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-194-213-3-105.as212027.host
 20.82.78.34.bc.googleusercontent.com
-213-250-47-212.rev.scw.cloud
 220.0.77.34.bc.googleusercontent.com
 23-227-175-62.static.hvvc.us
 32.19.240.35.bc.googleusercontent.com
@@ -47,8 +46,9 @@
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 57.8.187.35.bc.googleusercontent.com
+61-223-181-130.dynamic-ip.hinet.net
+74.66.199.104.bc.googleusercontent.com
 88.211.112.136.bc.googleusercontent.com
-91-208-92-198.as212027.host
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
 azpdsg1j90qs.stretchoid.com
@@ -67,12 +67,12 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o626.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04f.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-55c.shadowserver.io
