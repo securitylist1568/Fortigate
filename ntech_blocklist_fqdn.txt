@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
+120.149.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
 172-104-134-182.ip.linodeusercontent.com
@@ -45,6 +46,7 @@ hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o334.scanner.modat.io
 o602.scanner.modat.io
 o614.scanner.modat.io
