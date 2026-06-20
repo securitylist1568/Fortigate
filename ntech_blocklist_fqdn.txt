@@ -1,4 +1,3 @@
-1-175-215-166.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -26,6 +25,7 @@
 193.26.115.213.powered.by.rdp.sh
 27.150.216.162.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
+67.149.216.162.bc.googleusercontent.com
 74.151.92.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -45,7 +45,6 @@ o334.scanner.modat.io
 o614.scanner.modat.io
 o622.scanner.modat.io
 o631.scanner.modat.io
-o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
