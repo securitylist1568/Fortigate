@@ -25,9 +25,11 @@
 193.26.115.213.powered.by.rdp.sh
 227.211.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
+62-210-125-62.rev.poneytelecom.eu
 66.149.216.162.bc.googleusercontent.com
 67.149.216.162.bc.googleusercontent.com
 74.151.92.34.bc.googleusercontent.com
+82.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
