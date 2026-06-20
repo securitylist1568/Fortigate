@@ -29,6 +29,7 @@
 43.149.216.162.bc.googleusercontent.com
 45.135.193.105.ptr.pfcloud.network
 62-210-125-62.rev.poneytelecom.eu
+88.211.112.136.bc.googleusercontent.com
 91-208-92-198.as212027.host
 91.197.234.8.bc.googleusercontent.com
 amz.unixwiz.net
@@ -59,6 +60,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
