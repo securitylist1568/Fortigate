@@ -69,6 +69,7 @@ mfyabgec.musicpda.com
 monet-13.crawler.deepfield.net
 no-mans-land.m247.com
 o601.scanner.modat.io
+o614.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -77,6 +78,7 @@ rootevidence.com
 scan-04f.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
+scan-59g.shadowserver.io
 scan-60-12.shadowserver.io
 scanner-info.rootevidence.com
 smtp1.telemach.net
