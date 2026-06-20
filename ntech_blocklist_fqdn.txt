@@ -23,6 +23,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 169.94.177.195.in-addr.arpa
 17.113.76.34.bc.googleusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 181.124.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201-249-192-202.chc-00.rai.cantv.net
@@ -42,7 +43,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -58,12 +58,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-04f.shadowserver.io
-scan-45g.shadowserver.io
 scan-59g.shadowserver.io
 scan-60-12.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.225.215.12.49.clients.your-server.de
 users219.vip.heteml.jp
