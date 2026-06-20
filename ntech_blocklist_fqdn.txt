@@ -45,6 +45,7 @@ hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o334.scanner.modat.io
@@ -56,6 +57,7 @@ o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+radamelfalcao.xyz
 recyber.net
 rootevidence.com
 sac6.br-mail101.com
