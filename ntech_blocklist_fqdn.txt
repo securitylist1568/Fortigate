@@ -73,6 +73,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-55c.shadowserver.io
 scan-83-7.shadowserver.io
