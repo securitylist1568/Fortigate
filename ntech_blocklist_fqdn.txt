@@ -1,4 +1,3 @@
-1-162-10-154.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 101.210.203.35.bc.googleusercontent.com
 104-200-30-79.ip.linodeusercontent.com
@@ -28,14 +27,14 @@
 177.211.203.35.bc.googleusercontent.com
 181.124.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+196.150.216.162.bc.googleusercontent.com
 201-249-192-202.chc-00.rai.cantv.net
 206.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
 37.225.140.34.bc.googleusercontent.com
 45-79-175-9.ip.linodeusercontent.com
 57.8.187.35.bc.googleusercontent.com
-61-223-181-130.dynamic-ip.hinet.net
-74.66.199.104.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 77.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -48,7 +47,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-monet-13.crawler.deepfield.net
 no-mans-land.m247.com
 o601.scanner.modat.io
 o614.scanner.modat.io
@@ -59,7 +57,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-04f.shadowserver.io
 scan-59g.shadowserver.io
 scan-60-12.shadowserver.io
 scanner-info.rootevidence.com
