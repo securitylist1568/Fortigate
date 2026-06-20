@@ -21,13 +21,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 123.150.216.162.bc.googleusercontent.com
-124.211.203.35.bc.googleusercontent.com
-127.240.91.34.bc.googleusercontent.com
 134.128.53.34.bc.googleusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 144.202.92.17.vultrusercontent.com
 166.211.203.35.bc.googleusercontent.com
 168.196.195.35.bc.googleusercontent.com
+169.94.177.195.in-addr.arpa
 17.113.76.34.bc.googleusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
@@ -37,6 +36,7 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 20.82.78.34.bc.googleusercontent.com
+201-249-192-202.chc-00.rai.cantv.net
 206.150.216.162.bc.googleusercontent.com
 220.0.77.34.bc.googleusercontent.com
 32.19.240.35.bc.googleusercontent.com
@@ -49,7 +49,7 @@
 57.8.187.35.bc.googleusercontent.com
 61-223-181-130.dynamic-ip.hinet.net
 74.66.199.104.bc.googleusercontent.com
-88.211.112.136.bc.googleusercontent.com
+77.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
 azpdsg1j90qs.stretchoid.com
@@ -77,10 +77,8 @@ rootevidence.com
 scan-04f.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
-scan-55c.shadowserver.io
-scan-83-7.shadowserver.io
+scan-60-12.shadowserver.io
 scanner-info.rootevidence.com
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
