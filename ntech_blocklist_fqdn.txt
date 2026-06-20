@@ -29,6 +29,8 @@
 239.104.172.144.static.cloudzy.com
 27.150.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
+66.149.216.162.bc.googleusercontent.com
+74.151.92.34.bc.googleusercontent.com
 88.211.112.136.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
