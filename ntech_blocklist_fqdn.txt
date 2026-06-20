@@ -21,6 +21,7 @@
 124.211.203.35.bc.googleusercontent.com
 127.240.91.34.bc.googleusercontent.com
 134.128.53.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 160-119-71-129.ptr.as49870.net
 168-113-158-51.instances.scw.cloud
 168.196.195.35.bc.googleusercontent.com
