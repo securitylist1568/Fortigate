@@ -18,12 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124.211.203.35.bc.googleusercontent.com
+127.240.91.34.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
 168-113-158-51.instances.scw.cloud
-169.149.216.162.bc.googleusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192-210-243-12-host.colocrossing.com
 194-213-3-105.as212027.host
 213-250-47-212.rev.scw.cloud
 23-227-175-62.static.hvvc.us
@@ -32,8 +31,8 @@
 62-210-125-62.rev.poneytelecom.eu
 88.211.112.136.bc.googleusercontent.com
 91-208-92-198.as212027.host
-91.197.234.8.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgngane9.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler122.deepfield.net
@@ -47,7 +46,6 @@ ip-58-22.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
-ip146.ip-72-251-5.net
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -55,7 +53,6 @@ ns3116753.ip-51-38-52.eu
 o601.scanner.modat.io
 o614.scanner.modat.io
 o626.scanner.modat.io
-o633.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -69,5 +66,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.150.241.85.180.msk.sh
 user-209-209-59-230.lax02.us.misaka.io
 user-45-131-70-129.led02.ru.misaka.io
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
