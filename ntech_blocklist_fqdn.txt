@@ -20,9 +20,12 @@
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 120.149.216.162.bc.googleusercontent.com
 138.150.216.162.bc.googleusercontent.com
+151.150.216.162.bc.googleusercontent.com
+160-119-71-129.ptr.as49870.net
 172-104-134-182.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 193.26.115.213.powered.by.rdp.sh
+217.150.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
@@ -39,7 +42,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
+ip146.ip-72-251-5.net
 ip29.sudolio.io
+ip54.ip-15-204-165.us
 li1537-121.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
@@ -63,7 +68,7 @@ scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-225-147.mci01.us.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 users219.vip.heteml.jp
 vmi2972511.contaboserver.net
+vpsw4614.publiccloud.com.br
