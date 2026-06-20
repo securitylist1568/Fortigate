@@ -20,17 +20,12 @@
 160-119-71-129.ptr.as49870.net
 168-113-158-51.instances.scw.cloud
 169.149.216.162.bc.googleusercontent.com
-172.150.216.162.bc.googleusercontent.com
-176.65.148.135.ptr.pfcloud.network
-176.65.148.172.ptr.pfcloud.network
-176.65.148.229.ptr.pfcloud.network
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
 194-213-3-105.as212027.host
 213-250-47-212.rev.scw.cloud
 23-227-175-62.static.hvvc.us
-247.149.216.162.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
 45.135.193.105.ptr.pfcloud.network
 62-210-125-62.rev.poneytelecom.eu
@@ -39,7 +34,6 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-cohogs.usienspire.com
 crawler122.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -54,7 +48,6 @@ ip-59-10.superbit.host
 ip146.ip-72-251-5.net
 ip212.ip-5-135-173.eu
 ip29.sudolio.io
-ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
 ns3116753.ip-51-38-52.eu
 o601.scanner.modat.io
