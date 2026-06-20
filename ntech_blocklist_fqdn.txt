@@ -45,6 +45,7 @@ lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o334.scanner.modat.io
+o601.scanner.modat.io
 o614.scanner.modat.io
 o622.scanner.modat.io
 o631.scanner.modat.io
