@@ -33,12 +33,10 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 181.124.205.35.bc.googleusercontent.com
-181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 20.82.78.34.bc.googleusercontent.com
 220.0.77.34.bc.googleusercontent.com
-23-227-175-62.static.hvvc.us
 32.19.240.35.bc.googleusercontent.com
 35.37.167.72.host.secureserver.net
 37.225.140.34.bc.googleusercontent.com
@@ -62,12 +60,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
-ip212.ip-5-135-173.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+monet-13.crawler.deepfield.net
 no-mans-land.m247.com
-o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
