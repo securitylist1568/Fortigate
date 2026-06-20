@@ -24,6 +24,7 @@
 143-42-1-44.ip.linodeusercontent.com
 144.202.92.17.vultrusercontent.com
 160-119-71-129.ptr.as49870.net
+166.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 168.196.195.35.bc.googleusercontent.com
 17.113.76.34.bc.googleusercontent.com
@@ -52,6 +53,7 @@
 91-208-92-198.as212027.host
 amz.unixwiz.net
 azpdcgngane9.stretchoid.com
+azpdsg1j90qs.stretchoid.com
 azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
@@ -83,4 +85,5 @@ scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.203-174-22-152.hostbet.in
 users219.vip.heteml.jp
