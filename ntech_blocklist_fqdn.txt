@@ -27,7 +27,10 @@
 194-213-3-105.as212027.host
 210.192.53.34.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
+219.153.79.34.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
+235.215.52.34.bc.googleusercontent.com
+255.69.62.34.bc.googleusercontent.com
 29.80.233.35.bc.googleusercontent.com
 35.117.62.34.bc.googleusercontent.com
 38.13.148.146.bc.googleusercontent.com
@@ -58,6 +61,7 @@ mfyabgec.musicpda.com
 o601.scanner.modat.io
 o610.scanner.modat.io
 o626.scanner.modat.io
+o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
