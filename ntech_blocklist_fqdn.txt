@@ -69,6 +69,7 @@ scan-81-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vmi2968376.contaboserver.net
