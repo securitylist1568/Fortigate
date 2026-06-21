@@ -21,8 +21,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
+143.72.150.34.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
 172-104-28-130.ip.linodeusercontent.com
+175.202.87.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.223.156.34.bc.googleusercontent.com
@@ -39,7 +41,6 @@
 57.104.233.35.bc.googleusercontent.com
 66-228-37-205.ip.linodeusercontent.com
 74.151.92.34.bc.googleusercontent.com
-85.211.203.35.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
@@ -66,8 +67,6 @@ recyber.net
 rootevidence.com
 scan-04c.shadowserver.io
 scan-40e.shadowserver.io
-scan-41m.shadowserver.io
-scan-42i.shadowserver.io
 scan-45o.shadowserver.io
 scan-69-05.shadowserver.io
 scan-71-09.shadowserver.io
@@ -79,6 +78,8 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.ill.117.250.115.194.bsnl.co.in
 static.vnpt.vn
+user-146-19-3-141.sto02.se.misaka.io
 user-38-175-113-245.ist01.tr.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+vmi2968376.contaboserver.net
