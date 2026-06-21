@@ -24,13 +24,16 @@
 23-92-21-234.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 50-116-55-15.ip.linodeusercontent.com
+53.26.71.192.in-addr.arpa
 66-228-40-242.ip.linodeusercontent.com
 97-107-129-118.ip.linodeusercontent.com
+abts-north-dynamic-189.215.176.122.airtelbroadband.in
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
