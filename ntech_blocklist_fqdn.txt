@@ -26,6 +26,7 @@
 175.202.87.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+187.223.156.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 205.149.216.162.bc.googleusercontent.com
 210.192.53.34.bc.googleusercontent.com
@@ -41,6 +42,7 @@ adventure.yatano.com
 amz.unixwiz.net
 azpdcsmatos4.stretchoid.com
 azpdesrind7l.stretchoid.com
+azpdsszhqwse.stretchoid.com
 azpdws28galu.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
