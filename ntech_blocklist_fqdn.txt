@@ -47,12 +47,12 @@ adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler104.deepfield.net
 crawler106.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-102.4vendeta.com
 ip29.sudolio.io
@@ -80,7 +80,8 @@ scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.ill.117.250.115.194.bsnl.co.in
+static.vnpt.vn
 user-38-175-113-245.ist01.tr.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
-vmi3327057.contaboserver.net
