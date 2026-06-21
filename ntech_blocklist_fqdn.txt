@@ -22,8 +22,9 @@
 176.65.148.71.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
+204.76.203.30.ptr.pfcloud.network
+23-92-21-234.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-74-50-97-90.static.hvvc.us
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -42,13 +43,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-60.security.ipip.net
 scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
-static-102-45-53-103.ebonenet.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
-static.vnpt.vn
 users219.vip.heteml.jp
