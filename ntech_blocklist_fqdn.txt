@@ -46,6 +46,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 c-73-66-155-246.hsd1.ca.comcast.net
 client.yota.ru
+crawler106.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
@@ -74,6 +75,7 @@ scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-38-175-113-245.ist01.tr.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
