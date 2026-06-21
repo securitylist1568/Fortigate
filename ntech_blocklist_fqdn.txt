@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 143.72.150.34.bc.googleusercontent.com
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 23-92-21-234.ip.linodeusercontent.com
@@ -37,7 +36,6 @@ federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-210.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-10.superbit.host
 ip29.sudolio.io
@@ -54,7 +52,6 @@ security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt-hanoi.com.vn
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
