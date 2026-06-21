@@ -21,7 +21,6 @@
 176.65.148.176.ptr.pfcloud.network
 176.65.148.71.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-194-195-253-86.ip.linodeusercontent.com
 204.76.203.30.ptr.pfcloud.network
 23-92-21-234.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -31,14 +30,13 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-fwnvyxu.top
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
+o614.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
