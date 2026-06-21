@@ -28,6 +28,7 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 205.149.216.162.bc.googleusercontent.com
+210.192.53.34.bc.googleusercontent.com
 219.153.79.34.bc.googleusercontent.com
 235.215.52.34.bc.googleusercontent.com
 255.69.62.34.bc.googleusercontent.com
@@ -38,6 +39,9 @@
 97.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
+azpdcsmatos4.stretchoid.com
+azpdesrind7l.stretchoid.com
+azpdws28galu.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler104.deepfield.net
@@ -63,6 +67,7 @@ s4850.vps.hosting
 scan-04c.shadowserver.io
 scan-40e.shadowserver.io
 scan-45o.shadowserver.io
+scan-68-08.shadowserver.io
 scan-69-05.shadowserver.io
 scan-71-09.shadowserver.io
 scan-73-02.shadowserver.io
