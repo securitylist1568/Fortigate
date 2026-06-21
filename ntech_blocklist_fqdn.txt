@@ -29,6 +29,7 @@
 203-74-130-205.hinet-ip.hinet.net
 205.149.216.162.bc.googleusercontent.com
 210.192.53.34.bc.googleusercontent.com
+219.153.79.34.bc.googleusercontent.com
 30.47.195.35.bc.googleusercontent.com
 35.117.62.34.bc.googleusercontent.com
 74.151.92.34.bc.googleusercontent.com
@@ -37,9 +38,12 @@ adventure.yatano.com
 amz.unixwiz.net
 azpdcsmatos4.stretchoid.com
 azpdes7t6661.stretchoid.com
+azpdesdfn5lp.stretchoid.com
 azpdesrind7l.stretchoid.com
+azpdssfs3wsw.stretchoid.com
 azpdsszhqwse.stretchoid.com
 azpdws28galu.stretchoid.com
+azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler104.deepfield.net
