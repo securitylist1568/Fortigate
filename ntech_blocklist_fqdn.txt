@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 143.72.150.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
-176.65.148.71.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 23-92-21-234.ip.linodeusercontent.com
@@ -46,7 +45,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-60.security.ipip.net
-scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
