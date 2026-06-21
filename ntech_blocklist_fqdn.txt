@@ -37,7 +37,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-10.superbit.host
-ip245.ip-5-39-49.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o614.scanner.modat.io
