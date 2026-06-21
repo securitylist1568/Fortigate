@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 143.72.150.34.bc.googleusercontent.com
 175.202.87.34.bc.googleusercontent.com
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.223.156.34.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
@@ -47,7 +46,6 @@ azpdws28galu.stretchoid.com
 azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler104.deepfield.net
 dal215.hawkhost.com
 division.newoilreliefpain.us
 dns12.online.tj.cn
@@ -65,17 +63,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
-scan-04c.shadowserver.io
 scan-58.security.ipip.net
 scan-68-08.shadowserver.io
-scan-69-05.shadowserver.io
-scan-71-09.shadowserver.io
 scan-81-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.ill.117.250.115.194.bsnl.co.in
-static.vnpt.vn
 user-146-19-3-141.sto02.se.misaka.io
 users219.vip.heteml.jp
 vmi2968376.contaboserver.net
