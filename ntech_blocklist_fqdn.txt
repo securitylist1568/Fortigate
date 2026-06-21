@@ -17,13 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 120.149.216.162.bc.googleusercontent.com
 138.150.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
-193.26.115.213.powered.by.rdp.sh
 194-213-3-105.as212027.host
 217.150.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
@@ -53,13 +51,11 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 o601.scanner.modat.io
 o622.scanner.modat.io
-o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-scan-07e.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
