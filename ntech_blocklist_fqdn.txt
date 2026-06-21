@@ -53,6 +53,7 @@ scan-60.security.ipip.net
 scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-102-45-53-103.ebonenet.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
