@@ -17,10 +17,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 123.213.116.34.bc.googleusercontent.com
 125.253.62.34.bc.googleusercontent.com
-140-20-196-131.cybertelecom.net.br
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 36-231-92-145.dynamic-ip.hinet.net
@@ -47,11 +45,9 @@ ec2-3-238-207-44.compute-1.amazonaws.com
 ec2-3-238-209-129.compute-1.amazonaws.com
 ec2-3-238-209-242.compute-1.amazonaws.com
 ec2-3-238-209-85.compute-1.amazonaws.com
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-210.4vendeta.com
 ip10.ip-15-204-157.us
 ip146.ip-72-251-5.net
 ip156.ip-72-251-5.net
@@ -68,12 +64,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
-r2004.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
-scan-12f.shadowserver.io
-scan-56a.shadowserver.io
-scan-63-8.shadowserver.io
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
