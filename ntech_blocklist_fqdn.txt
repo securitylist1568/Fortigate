@@ -29,16 +29,14 @@
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.26.ptr.pfcloud.network
-204.76.203.49.ptr.pfcloud.network
-243.164.88.167.static.cloudzy.com
 251.238.79.34.bc.googleusercontent.com
 254.121.148.146.bc.googleusercontent.com
 255.175.228.35.bc.googleusercontent.com
 27.5.62.34.bc.googleusercontent.com
-3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 36-231-92-145.dynamic-ip.hinet.net
 36.245.79.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
+43-254-16-48.static.ip.net.tw
 45-79-139-7.ip.linodeusercontent.com
 49.63.129.34.bc.googleusercontent.com
 65.165.140.34.bc.googleusercontent.com
@@ -66,7 +64,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
 ip10.ip-15-204-157.us
+ip146.ip-72-251-5.net
 ip158.ip-72-251-5.net
+ip224.ip-72-251-13.net
 ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
@@ -83,6 +83,7 @@ scan-12f.shadowserver.io
 scan-56a.shadowserver.io
 scan-59g.shadowserver.io
 scan-63-8.shadowserver.io
+scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
