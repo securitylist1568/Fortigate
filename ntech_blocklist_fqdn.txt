@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 222.73.195.35.bc.googleusercontent.com
 236.46.76.34.bc.googleusercontent.com
+29.16.195.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 62-210-113-113.rev.poneytelecom.eu
 abts-north-dynamic-189.215.176.122.airtelbroadband.in
