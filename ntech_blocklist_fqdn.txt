@@ -23,17 +23,13 @@
 118-166-93-60.dynamic-ip.hinet.net
 120.146.205.35.bc.googleusercontent.com
 120.236.76.34.bc.googleusercontent.com
-128.113.156.34.bc.googleusercontent.com
-128.231.195.35.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
 140-20-196-131.cybertelecom.net.br
 158.16.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.26.ptr.pfcloud.network
 204.76.203.49.ptr.pfcloud.network
-222.73.195.35.bc.googleusercontent.com
 225.81.187.35.bc.googleusercontent.com
-236.46.76.34.bc.googleusercontent.com
 243.164.88.167.static.cloudzy.com
 251.238.79.34.bc.googleusercontent.com
 254.121.148.146.bc.googleusercontent.com
@@ -58,7 +54,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
 ip29.sudolio.io
-li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -66,8 +61,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r2004.compute.ams1.edc.strln.net
 recyber.net
+scan-12f.shadowserver.io
+scan-56a.shadowserver.io
 scan-59g.shadowserver.io
-scan-76-03.shadowserver.io
+scan-63-8.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
