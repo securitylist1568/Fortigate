@@ -33,6 +33,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler089.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -57,3 +58,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
 users219.vip.heteml.jp
 v2202601331484426940.powersrv.de
+v4.dns.slt.lk
