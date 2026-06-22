@@ -37,14 +37,11 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-158.4vendeta.com
-ip-56-254.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
-ip-59-22.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -55,7 +52,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41f.shadowserver.io
 scan-43h.shadowserver.io
 scan-63-2.shadowserver.io
 scan-76-03.shadowserver.io
@@ -63,6 +59,7 @@ scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt-hanoi.com.vn
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 v2202601331484426940.powersrv.de
