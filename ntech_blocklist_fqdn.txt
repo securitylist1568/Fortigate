@@ -19,11 +19,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.254.38.34.bc.googleusercontent.com
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
-118-166-93-60.dynamic-ip.hinet.net
 120.146.205.35.bc.googleusercontent.com
 120.236.76.34.bc.googleusercontent.com
 125.253.62.34.bc.googleusercontent.com
-14.171.broad.ha.dynamic.163data.com.cn
 140-20-196-131.cybertelecom.net.br
 158.16.156.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
@@ -31,7 +29,6 @@
 204.76.203.26.ptr.pfcloud.network
 251.238.79.34.bc.googleusercontent.com
 254.121.148.146.bc.googleusercontent.com
-255.175.228.35.bc.googleusercontent.com
 27.5.62.34.bc.googleusercontent.com
 36-231-92-145.dynamic-ip.hinet.net
 36.245.79.34.bc.googleusercontent.com
@@ -41,7 +38,6 @@
 49.63.129.34.bc.googleusercontent.com
 65.165.140.34.bc.googleusercontent.com
 72.232.53.34.bc.googleusercontent.com
-76.153.156.34.bc.googleusercontent.com
 92.20.240.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcsuk863a.stretchoid.com
@@ -58,6 +54,10 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-238-207-44.compute-1.amazonaws.com
+ec2-3-238-209-129.compute-1.amazonaws.com
+ec2-3-238-209-242.compute-1.amazonaws.com
+ec2-3-238-209-85.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -75,13 +75,13 @@ o601.scanner.modat.io
 o612.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 r2004.compute.ams1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-12f.shadowserver.io
 scan-56a.shadowserver.io
-scan-59g.shadowserver.io
 scan-63-8.shadowserver.io
 scan-77-06.shadowserver.io
 security.criminalip.com
