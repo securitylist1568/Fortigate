@@ -48,6 +48,7 @@ ec2-3-238-209-85.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-210.4vendeta.com
 ip10.ip-15-204-157.us
 ip146.ip-72-251-5.net
 ip156.ip-72-251-5.net
@@ -56,6 +57,7 @@ ip224.ip-72-251-13.net
 ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
+moduit-prod-warehouse-1-9c50f328.mongo.ondigitalocean.com
 n.ryakhovsky.fvds.ru
 no-mans-land.m247.com
 o601.scanner.modat.io
