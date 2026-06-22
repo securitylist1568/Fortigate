@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-23-92-21-234.ip.linodeusercontent.com
 50-116-55-15.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
 62-210-113-113.rev.poneytelecom.eu
@@ -55,5 +54,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
+user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
