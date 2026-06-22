@@ -22,6 +22,7 @@
 175.202.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
+222.73.195.35.bc.googleusercontent.com
 225.81.187.35.bc.googleusercontent.com
 29.16.195.35.bc.googleusercontent.com
 49.63.129.34.bc.googleusercontent.com
@@ -40,6 +41,7 @@ ip-58-106.4vendeta.com
 ip-58-250.4vendeta.com
 ip152.ip-51-38-165.eu
 ip29.sudolio.io
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 o614.scanner.modat.io
 o631.scanner.modat.io
@@ -51,6 +53,7 @@ recyber.net
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
 scan-63-2.shadowserver.io
+scan-76-03.shadowserver.io
 scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
