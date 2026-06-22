@@ -22,9 +22,11 @@
 128.231.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
+204.76.203.49.ptr.pfcloud.network
 222.73.195.35.bc.googleusercontent.com
 225.81.187.35.bc.googleusercontent.com
 236.46.76.34.bc.googleusercontent.com
+243.164.88.167.static.cloudzy.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 49.63.129.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
@@ -42,7 +44,6 @@ ip152.ip-51-38-165.eu
 ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
-o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -54,5 +55,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
 users219.vip.heteml.jp
-v2202601331484426940.powersrv.de
 v4.dns.slt.lk
