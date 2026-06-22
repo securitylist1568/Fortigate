@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.254.38.34.bc.googleusercontent.com
+115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 116.164.187.35.bc.googleusercontent.com
 118-166-93-60.dynamic-ip.hinet.net
 120.146.205.35.bc.googleusercontent.com
@@ -53,6 +54,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-210.4vendeta.com
 ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
