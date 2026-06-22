@@ -26,6 +26,7 @@
 14.171.broad.ha.dynamic.163data.com.cn
 140-20-196-131.cybertelecom.net.br
 158.16.156.34.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.26.ptr.pfcloud.network
 204.76.203.49.ptr.pfcloud.network
@@ -65,6 +66,7 @@ scan-12f.shadowserver.io
 scan-56a.shadowserver.io
 scan-59g.shadowserver.io
 scan-63-8.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
