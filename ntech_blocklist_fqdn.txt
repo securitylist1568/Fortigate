@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-143.72.150.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
 23-92-21-234.ip.linodeusercontent.com
 50-116-55-15.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
@@ -36,8 +34,11 @@ federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-158.4vendeta.com
+ip-56-254.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-10.superbit.host
+ip-59-22.4vendeta.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
 mfyabgec.musicpda.com
