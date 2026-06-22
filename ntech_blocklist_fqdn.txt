@@ -22,6 +22,7 @@
 128.231.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 222.73.195.35.bc.googleusercontent.com
+225.81.187.35.bc.googleusercontent.com
 236.46.76.34.bc.googleusercontent.com
 29.16.195.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
@@ -40,11 +41,9 @@ ip-40-158.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
-ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
-ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip29.sudolio.io
 ip54.ip-15-204-165.us
@@ -54,7 +53,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02m.shadowserver.io
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
 scan-76-03.shadowserver.io
