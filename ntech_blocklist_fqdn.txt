@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-25-10-130.dynamic-ip.hinet.net
 140.134.156.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 146.245.156.34.bc.googleusercontent.com
@@ -39,12 +38,8 @@ crawler044.deepfield.net
 crawler076.deepfield.net
 crawler099.deepfield.net
 crawler117.deepfield.net
-crawler134.deepfield.net
-crawler149.deepfield.net
 crawler153.deepfield.net
 crawler162.deepfield.net
-crawler197.deepfield.net
-crawler218.deepfield.net
 crawler250.deepfield.net
 dal215.hawkhost.com
 db-mongodb-sgp1-presensi-rails-d30b6dc5.mongo.ondigitalocean.com
@@ -64,8 +59,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-09n.shadowserver.io
 scan-12f.shadowserver.io
+scan-53j.shadowserver.io
 scan-60-10.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
@@ -74,6 +69,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 user-170-39-224-220.iad03.us.misaka.io
 user-170-39-227-143.sea02.us.misaka.io
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vmi3375811.contaboserver.net
