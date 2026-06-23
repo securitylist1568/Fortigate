@@ -20,7 +20,6 @@
 123.213.116.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 255.175.228.35.bc.googleusercontent.com
-43-254-16-48.static.ip.net.tw
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -36,9 +35,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-210.4vendeta.com
 ip-56-254.4vendeta.com
-ip146.ip-72-251-5.net
 ip156.ip-72-251-5.net
-ip224.ip-72-251-13.net
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -51,7 +48,6 @@ recyber.net
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-45o.shadowserver.io
-scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
