@@ -19,9 +19,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-25-10-130.dynamic-ip.hinet.net
+172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-53.109.172.144.static.cloudzy.com
-62-210-113-113.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -29,7 +28,6 @@ crawler082.deepfield.net
 crawler083.deepfield.net
 crawler089.deepfield.net
 crawler122.deepfield.net
-crawler125.deepfield.net
 crawler134.deepfield.net
 crawler140.deepfield.net
 crawler141.deepfield.net
@@ -50,13 +48,12 @@ ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 monet-27.crawler.deepfield.net
-o614.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-09n.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
