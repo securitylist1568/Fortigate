@@ -38,6 +38,7 @@ crawler162.deepfield.net
 crawler197.deepfield.net
 crawler204.deepfield.net
 crawler218.deepfield.net
+crawler250.deepfield.net
 dal215.hawkhost.com
 division.newoilreliefpain.us
 dns12.online.tj.cn
