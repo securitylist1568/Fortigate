@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 123.213.116.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 140.134.156.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 146.245.156.34.bc.googleusercontent.com
