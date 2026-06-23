@@ -33,6 +33,7 @@
 7.201.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+cheaptaximalaga.com
 client.yota.ru
 crawler044.deepfield.net
 crawler076.deepfield.net
@@ -62,6 +63,7 @@ rootevidence.com
 scan-12f.shadowserver.io
 scan-53j.shadowserver.io
 scan-60-10.shadowserver.io
+scan-74-02.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
