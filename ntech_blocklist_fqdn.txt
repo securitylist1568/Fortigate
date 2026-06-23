@@ -37,16 +37,13 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler044.deepfield.net
 crawler076.deepfield.net
-crawler083.deepfield.net
 crawler099.deepfield.net
 crawler117.deepfield.net
 crawler134.deepfield.net
 crawler149.deepfield.net
 crawler153.deepfield.net
-crawler155.deepfield.net
 crawler162.deepfield.net
 crawler197.deepfield.net
-crawler204.deepfield.net
 crawler218.deepfield.net
 crawler250.deepfield.net
 dal215.hawkhost.com
@@ -60,7 +57,6 @@ ip11.ip-15-204-157.us
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o604.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -80,4 +76,3 @@ user-170-39-227-143.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vmi3375811.contaboserver.net
-zhangyuan3.virtuaserver.com.br
