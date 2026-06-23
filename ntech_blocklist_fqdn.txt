@@ -20,6 +20,7 @@
 123.213.116.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 146.245.156.34.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 221.104.119.136.bc.googleusercontent.com
 233.15.156.34.bc.googleusercontent.com
@@ -32,6 +33,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 cheaptaximalaga.com
 client.yota.ru
+crawler130.deepfield.net
 crawler235.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
