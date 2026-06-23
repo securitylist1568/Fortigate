@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 114-25-10-130.dynamic-ip.hinet.net
 140.134.156.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 146.245.156.34.bc.googleusercontent.com
 170.230.156.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
@@ -55,6 +56,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
+ip11.ip-15-204-157.us
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
