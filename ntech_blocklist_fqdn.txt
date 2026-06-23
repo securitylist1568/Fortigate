@@ -21,12 +21,14 @@
 114-25-10-130.dynamic-ip.hinet.net
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+222.147.221.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler082.deepfield.net
 crawler083.deepfield.net
 crawler089.deepfield.net
+crawler099.deepfield.net
 crawler122.deepfield.net
 crawler134.deepfield.net
 crawler140.deepfield.net
@@ -45,6 +47,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1625-135.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 monet-27.crawler.deepfield.net
@@ -54,8 +57,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-09n.shadowserver.io
+scan-60-10.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-169-150-252-179.datapacket.com
 unn-207-211-214-162.datapacket.com
 user-170-39-227-143.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
