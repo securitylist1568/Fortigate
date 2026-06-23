@@ -21,12 +21,10 @@
 114-25-10-130.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 53.109.172.144.static.cloudzy.com
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 62-210-113-113.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler020.deepfield.net
 crawler082.deepfield.net
 crawler083.deepfield.net
 crawler089.deepfield.net
