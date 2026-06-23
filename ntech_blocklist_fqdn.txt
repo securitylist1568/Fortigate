@@ -33,7 +33,9 @@ ec2-3-238-209-85.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-158.4vendeta.com
 ip-56-210.4vendeta.com
+ip-56-254.4vendeta.com
 ip146.ip-72-251-5.net
 ip156.ip-72-251-5.net
 ip224.ip-72-251-13.net
