@@ -33,7 +33,12 @@ b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
 crawler020.deepfield.net
+crawler082.deepfield.net
+crawler089.deepfield.net
 crawler125.deepfield.net
+crawler140.deepfield.net
+crawler157.deepfield.net
+crawler208.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
