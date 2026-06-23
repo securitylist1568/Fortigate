@@ -25,6 +25,10 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 222.147.221.35.bc.googleusercontent.com
+233.15.156.34.bc.googleusercontent.com
+239.177.187.35.bc.googleusercontent.com
+240.152.34.34.bc.googleusercontent.com
+38.16.140.34.bc.googleusercontent.com
 7.201.62.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -61,10 +65,12 @@ recyber.net
 rootevidence.com
 scan-09n.shadowserver.io
 scan-60-10.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 user-170-39-227-143.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
+vmi3375811.contaboserver.net
 zhangyuan3.virtuaserver.com.br
