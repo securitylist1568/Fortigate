@@ -23,16 +23,17 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-255.175.228.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 53.109.172.144.static.cloudzy.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
+62-210-113-113.rev.poneytelecom.eu
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
 crawler020.deepfield.net
+crawler125.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -45,7 +46,6 @@ ip-56-254.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o614.scanner.modat.io
@@ -60,5 +60,6 @@ scan-45o.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-214-162.datapacket.com
 user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
