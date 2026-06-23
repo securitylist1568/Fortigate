@@ -26,11 +26,13 @@
 255.175.228.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
+53.109.172.144.static.cloudzy.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
+crawler020.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -39,7 +41,6 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
-ip-56-210.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
@@ -47,6 +48,7 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o614.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
