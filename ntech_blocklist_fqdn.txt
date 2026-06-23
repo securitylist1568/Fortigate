@@ -22,7 +22,6 @@
 255.175.228.35.bc.googleusercontent.com
 43-254-16-48.static.ip.net.tw
 amz.unixwiz.net
-azpdcsuk863a.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -37,11 +36,9 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
 ip146.ip-72-251-5.net
 ip156.ip-72-251-5.net
-ip158.ip-72-251-5.net
 ip224.ip-72-251-13.net
 ip29.sudolio.io
 li1873-236.members.linode.com
-lisbon.portugal.com
 mfyabgec.musicpda.com
 n.ryakhovsky.fvds.ru
 pc112.cses.ilc.edu.tw
@@ -49,9 +46,11 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40g.shadowserver.io
 scan-45o.shadowserver.io
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
