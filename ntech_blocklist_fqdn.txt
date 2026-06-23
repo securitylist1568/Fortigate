@@ -52,6 +52,7 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+monet-27.crawler.deepfield.net
 no-mans-land.m247.com
 o614.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -60,11 +61,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-40e.shadowserver.io
-scan-40g.shadowserver.io
-scan-45o.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
-user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
