@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -40,7 +39,6 @@ crawler076.deepfield.net
 crawler083.deepfield.net
 crawler099.deepfield.net
 crawler117.deepfield.net
-crawler122.deepfield.net
 crawler134.deepfield.net
 crawler149.deepfield.net
 crawler153.deepfield.net
@@ -51,6 +49,7 @@ crawler204.deepfield.net
 crawler218.deepfield.net
 crawler250.deepfield.net
 dal215.hawkhost.com
+db-mongodb-sgp1-presensi-rails-d30b6dc5.mongo.ondigitalocean.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -61,6 +60,7 @@ ip29.sudolio.io
 li1625-135.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+o604.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -68,6 +68,7 @@ recyber.net
 rootevidence.com
 scan-09n.shadowserver.io
 scan-60-10.shadowserver.io
+scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
