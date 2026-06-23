@@ -47,13 +47,12 @@ ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o627.scanner.modat.io
+partclient.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s-bdb79363d0fe580a.sg.vpnshieldapp.com
-scan-12f.shadowserver.io
-scan-53j.shadowserver.io
 scan-74-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
