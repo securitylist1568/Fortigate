@@ -48,6 +48,7 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-45o.shadowserver.io
 scan-77-06.shadowserver.io
