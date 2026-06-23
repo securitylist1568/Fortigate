@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-143-42-1-44.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
@@ -41,6 +40,7 @@ crawler125.deepfield.net
 crawler140.deepfield.net
 crawler141.deepfield.net
 crawler157.deepfield.net
+crawler204.deepfield.net
 crawler208.deepfield.net
 dal215.hawkhost.com
 division.newoilreliefpain.us
@@ -48,14 +48,12 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 monet-27.crawler.deepfield.net
-no-mans-land.m247.com
 o614.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
