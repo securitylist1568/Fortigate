@@ -55,6 +55,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip245.ip-5-39-49.eu
 ip29.sudolio.io
 li1625-135.members.linode.com
 li1972-67.members.linode.com
