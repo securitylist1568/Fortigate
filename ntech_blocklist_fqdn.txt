@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 114-40-210-66.dynamic-ip.hinet.net
 136.20.156.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 156.125.22.34.bc.googleusercontent.com
 165.119.240.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
@@ -53,7 +54,6 @@ ip-56-254.4vendeta.com
 ip-58-18.4vendeta.com
 ip-59-22.4vendeta.com
 ip105.ip-15-204-184.us
-ip162.ip-15-204-158.us
 ip224.ip-72-251-13.net
 ip29.sudolio.io
 linda.probe.onyphe.net
@@ -69,11 +69,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-04c.shadowserver.io
-scan-63-13.shadowserver.io
-scan-71-09.shadowserver.io
 scan-83-7.shadowserver.io
 scan.f6.security
 security.criminalip.com
+server.hostdel.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
