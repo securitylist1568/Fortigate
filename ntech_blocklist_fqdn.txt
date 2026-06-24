@@ -63,6 +63,8 @@ rootevidence.com
 scan-04i.shadowserver.io
 scan-08g.shadowserver.io
 scan-13n.shadowserver.io
+scan-63-13.shadowserver.io
+scan-71-09.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.225.215.12.49.clients.your-server.de
