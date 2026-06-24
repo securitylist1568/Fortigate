@@ -22,6 +22,7 @@
 151.182.151.34.bc.googleusercontent.com
 165.119.240.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
+172-104-214-145.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
 208.78.175.207.bc.googleusercontent.com
@@ -51,8 +52,10 @@ mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
 o604.scanner.modat.io
 o612.scanner.modat.io
+o614.scanner.modat.io
 o626.scanner.modat.io
 o636.scanner.modat.io
+o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -62,6 +65,7 @@ scan-02m.shadowserver.io
 scan-04c.shadowserver.io
 scan-83-7.shadowserver.io
 scan.f6.security
+scanner-info.rootevidence.com
 security.criminalip.com
 server.hostdel.com
 smtp1.telemach.net
