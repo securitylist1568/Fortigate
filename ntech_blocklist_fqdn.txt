@@ -23,9 +23,11 @@
 156.10.76.34.bc.googleusercontent.com
 171.224.52.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
+176.65.148.176.ptr.pfcloud.network
 184.159.77.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.77.34.bc.googleusercontent.com
+239.177.187.35.bc.googleusercontent.com
 240.152.34.34.bc.googleusercontent.com
 27.57.205.35.bc.googleusercontent.com
 45-33-84-218.ip.linodeusercontent.com
