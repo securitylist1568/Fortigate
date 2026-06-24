@@ -18,11 +18,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+143.58.112.45.mipl.com
 144.92.74.97.host.secureserver.net
 160-119-71-129.ptr.as49870.net
 163.34.79.202.wlink.com.np
 17.6.79.34.bc.googleusercontent.com
 171.224.52.34.bc.googleusercontent.com
+176.65.148.176.ptr.pfcloud.network
 184.159.77.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.77.34.bc.googleusercontent.com
