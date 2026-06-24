@@ -56,6 +56,7 @@ o607.scanner.modat.io
 o610.scanner.modat.io
 o612.scanner.modat.io
 o614.scanner.modat.io
+o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
