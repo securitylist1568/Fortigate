@@ -34,7 +34,6 @@
 36-229-24-180.dynamic-ip.hinet.net
 45-56-108-101.ip.linodeusercontent.com
 45-79-183-157.ip.linodeusercontent.com
-49.63.129.34.bc.googleusercontent.com
 7.201.62.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -51,11 +50,8 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mail.inveb.ru
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o604.scanner.modat.io
 o607.scanner.modat.io
-o610.scanner.modat.io
-o612.scanner.modat.io
 o614.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -66,7 +62,6 @@ rootevidence.com
 scan-04i.shadowserver.io
 scan-08g.shadowserver.io
 scan-13n.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.225.215.12.49.clients.your-server.de
