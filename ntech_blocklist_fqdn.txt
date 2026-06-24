@@ -28,7 +28,6 @@
 185-45-195-15.hostsailor.com
 192.150.77.34.bc.googleusercontent.com
 239.177.187.35.bc.googleusercontent.com
-240.152.34.34.bc.googleusercontent.com
 27.57.205.35.bc.googleusercontent.com
 45-33-84-218.ip.linodeusercontent.com
 60.55.199.104.bc.googleusercontent.com
@@ -73,7 +72,6 @@ azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler130.deepfield.net
-crawler235.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -92,9 +90,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-40e.shadowserver.io
+scan-41f.shadowserver.io
 scan-41m.shadowserver.io
 scan-79-09.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
