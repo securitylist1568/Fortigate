@@ -21,11 +21,9 @@
 114-40-210-66.dynamic-ip.hinet.net
 136.20.156.34.bc.googleusercontent.com
 140-20-196-131.cybertelecom.net.br
-143.58.112.45.mipl.com
 156.125.22.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 165.119.240.35.bc.googleusercontent.com
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 208.78.175.207.bc.googleusercontent.com
 221.104.119.136.bc.googleusercontent.com
@@ -66,6 +64,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
+scan-04c.shadowserver.io
 scan-63-13.shadowserver.io
 scan-71-09.shadowserver.io
 scan-83-7.shadowserver.io
