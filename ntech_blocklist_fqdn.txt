@@ -20,15 +20,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 143.58.112.45.mipl.com
 144.92.74.97.host.secureserver.net
-160-119-71-129.ptr.as49870.net
+159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.34.79.202.wlink.com.np
-17.6.79.34.bc.googleusercontent.com
 171.224.52.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 184.159.77.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.77.34.bc.googleusercontent.com
-240.152.34.34.bc.googleusercontent.com
 249.116.233.35.bc.googleusercontent.com
 27.57.205.35.bc.googleusercontent.com
 36-224-142-240.dynamic-ip.hinet.net
@@ -36,7 +34,6 @@
 45-56-108-101.ip.linodeusercontent.com
 45-79-183-157.ip.linodeusercontent.com
 49.63.129.34.bc.googleusercontent.com
-59-125-215-95.hinet-ip.hinet.net
 7.201.62.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -44,7 +41,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -52,6 +48,7 @@ ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
+mail.inveb.ru
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o604.scanner.modat.io
@@ -67,7 +64,6 @@ rootevidence.com
 scan-04i.shadowserver.io
 scan-08g.shadowserver.io
 scan-13n.shadowserver.io
-scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
