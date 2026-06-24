@@ -48,6 +48,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-210.4vendeta.com
+ip-56-250.venom-dc.com
 ip-56-254.4vendeta.com
 ip-58-18.4vendeta.com
 ip-59-22.4vendeta.com
@@ -74,6 +75,7 @@ scan-83-7.shadowserver.io
 scan.f6.security
 security.criminalip.com
 smtp1.telemach.net
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.45.164.202.116.clients.your-server.de
 users219.vip.heteml.jp
