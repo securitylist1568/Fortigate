@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123.213.116.34.bc.googleusercontent.com
 125-227-237-177.hinet-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
 14.171.broad.ha.dynamic.163data.com.cn
@@ -32,8 +31,15 @@
 62-210-125-62.rev.poneytelecom.eu
 7.201.62.34.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgkm3iag.stretchoid.com
+azpdes7t6661.stretchoid.com
+azpdsg0jbem4.stretchoid.com
+azpdsgo34xwr.stretchoid.com
+azpdss1xwgc0.stretchoid.com
+azpdssc7ge2h.stretchoid.com
+azpdsskf5buy.stretchoid.com
+azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
-cheaptaximalaga.com
 client.yota.ru
 crawler130.deepfield.net
 crawler235.deepfield.net
@@ -53,12 +59,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s-bdb79363d0fe580a.sg.vpnshieldapp.com
-scan-74-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
-srv63019.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
