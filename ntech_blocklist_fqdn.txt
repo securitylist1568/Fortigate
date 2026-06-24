@@ -43,7 +43,6 @@
 45-56-108-101.ip.linodeusercontent.com
 45-79-183-157.ip.linodeusercontent.com
 6.74.199.104.bc.googleusercontent.com
-7.201.62.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 72.10.76.34.bc.googleusercontent.com
 78.84.211.130.bc.googleusercontent.com
@@ -55,11 +54,11 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip105.ip-15-204-184.us
 ip162.ip-15-204-158.us
 ip217-154-95-139.pbiaas.com
 ip224.ip-72-251-13.net
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1873-236.members.linode.com
 mail.inveb.ru
 mfyabgec.musicpda.com
@@ -78,7 +77,6 @@ scan-63-13.shadowserver.io
 scan-71-09.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.225.215.12.49.clients.your-server.de
 user-185-234-213-135.zrh01.ch.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
