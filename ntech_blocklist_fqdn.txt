@@ -68,6 +68,7 @@ recyber.net
 scan-02m.shadowserver.io
 scan-63-13.shadowserver.io
 scan-71-09.shadowserver.io
+scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
