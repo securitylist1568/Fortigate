@@ -21,6 +21,7 @@
 115.149.216.162.bc.googleusercontent.com
 118.150.216.162.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 14.150.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 162.211.203.35.bc.googleusercontent.com
@@ -28,11 +29,9 @@
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.103.34.34.bc.googleusercontent.com
-206.150.216.162.bc.googleusercontent.com
 209.36.50.34.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
-229.211.203.35.bc.googleusercontent.com
 237.108.172.144.static.cloudzy.com
 238.236.42.34.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
@@ -57,11 +56,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-18.4vendeta.com
+ip-58-22.4vendeta.com
+ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
