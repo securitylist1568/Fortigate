@@ -42,6 +42,7 @@
 66.149.216.162.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
+95.150.216.162.bc.googleusercontent.com
 97-107-129-66.ip.linodeusercontent.com
 97-107-134-126.ip.linodeusercontent.com
 amz.unixwiz.net
