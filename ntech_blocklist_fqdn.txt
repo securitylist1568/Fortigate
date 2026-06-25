@@ -28,6 +28,7 @@
 172-104-214-145.ip.linodeusercontent.com
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+189.150.216.162.bc.googleusercontent.com
 189.58.80.217.dynamic.adsl.gvt.net.br
 192-210-243-12-host.colocrossing.com
 205.150.216.162.bc.googleusercontent.com
@@ -35,8 +36,10 @@
 219.211.203.35.bc.googleusercontent.com
 253.12.205.35.bc.googleusercontent.com
 253.140.205.35.bc.googleusercontent.com
+38.119.86.172.static.cloudzy.com
 45-143-198-140.as212027.host
 49.63.129.34.bc.googleusercontent.com
+53.109.172.144.static.cloudzy.com
 62-210-125-62.rev.poneytelecom.eu
 72.10.76.34.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
@@ -55,6 +58,7 @@ ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
 monet-27.crawler.deepfield.net
+no-mans-land.m247.com
 o602.scanner.modat.io
 o604.scanner.modat.io
 o614.scanner.modat.io
