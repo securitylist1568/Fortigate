@@ -1,6 +1,5 @@
 1-172-31-186.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
-104-237-150-211.ip.linodeusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,6 +22,7 @@
 118.150.216.162.bc.googleusercontent.com
 119.211.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 162.211.203.35.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
@@ -43,8 +43,6 @@
 68.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
-97-107-129-66.ip.linodeusercontent.com
-97-107-134-126.ip.linodeusercontent.com
 amz.unixwiz.net
 api.anygrade.net
 b2.org.afilias-nst.org
@@ -67,7 +65,6 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pivotsudo-leang.outreachratio.com
