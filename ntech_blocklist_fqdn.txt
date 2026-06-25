@@ -28,10 +28,10 @@
 185-45-195-15.hostsailor.com
 189.58.80.217.dynamic.adsl.gvt.net.br
 192-210-243-12-host.colocrossing.com
+205.150.216.162.bc.googleusercontent.com
 208.78.175.207.bc.googleusercontent.com
 253.12.205.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
-62-210-113-113.rev.poneytelecom.eu
 62-210-125-62.rev.poneytelecom.eu
 72.10.76.34.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
@@ -50,7 +50,6 @@ ip-58-18.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-22.4vendeta.com
 ip29.sudolio.io
-linda.probe.onyphe.net
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
 o604.scanner.modat.io
@@ -61,8 +60,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-04c.shadowserver.io
-scan-83-7.shadowserver.io
 scan.f6.security
 scanner-info.rootevidence.com
 security.criminalip.com
