@@ -42,8 +42,10 @@
 49.63.129.34.bc.googleusercontent.com
 53.109.172.144.static.cloudzy.com
 62-210-125-62.rev.poneytelecom.eu
+70.85.155.104.bc.googleusercontent.com
 72.10.76.34.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
+95.66.140.34.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
