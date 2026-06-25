@@ -20,9 +20,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
+144.202.92.17.vultrusercontent.com
 151.182.151.34.bc.googleusercontent.com
+153.149.216.162.bc.googleusercontent.com
 165.119.240.35.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 172-104-214-145.ip.linodeusercontent.com
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,7 +32,6 @@
 205.150.216.162.bc.googleusercontent.com
 208.78.175.207.bc.googleusercontent.com
 253.12.205.35.bc.googleusercontent.com
-45.63.4.69.vultrusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 72.10.76.34.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
@@ -43,17 +43,13 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-158.4vendeta.com
 ip-56-250.venom-dc.com
-ip-56-254.4vendeta.com
-ip-58-18.4vendeta.com
 ip-58-22.4vendeta.com
-ip-59-22.4vendeta.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
-ns574789.ip-51-222-40.net
 o604.scanner.modat.io
 o614.scanner.modat.io
 o641.scanner.modat.io
@@ -62,7 +58,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan.f6.security
 scanner-info.rootevidence.com
 security.criminalip.com
 server.hostdel.com
