@@ -31,8 +31,10 @@
 195.149.216.162.bc.googleusercontent.com
 196.115.195.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
+227.213.53.34.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 242.232.78.34.bc.googleusercontent.com
+253.185.52.34.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 28.149.216.162.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
@@ -44,6 +46,8 @@
 70.85.155.104.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
+95.66.140.34.bc.googleusercontent.com
+96-126-107-224.ip.linodeusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgagzb8p.stretchoid.com
