@@ -23,6 +23,7 @@
 144.202.92.17.vultrusercontent.com
 153.149.216.162.bc.googleusercontent.com
 153.89.205.35.bc.googleusercontent.com
+161.150.216.162.bc.googleusercontent.com
 165.150.216.162.bc.googleusercontent.com
 172.71.79.34.bc.googleusercontent.com
 179.106.172.144.static.cloudzy.com
@@ -40,6 +41,7 @@
 28.149.216.162.bc.googleusercontent.com
 34.79.211.130.bc.googleusercontent.com
 38.119.86.172.static.cloudzy.com
+40.211.203.35.bc.googleusercontent.com
 45-143-198-140.as212027.host
 49.63.129.34.bc.googleusercontent.com
 51-158-248-122.rev.poneytelecom.eu
@@ -50,9 +52,24 @@
 95.66.140.34.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
+azpdcgagzb8p.stretchoid.com
+azpdcgngane9.stretchoid.com
+azpdcs19ivb5.stretchoid.com
+azpdcs9aqpkl.stretchoid.com
+azpdcsbq2pb3.stretchoid.com
+azpdcsmatos4.stretchoid.com
+azpdes7t6661.stretchoid.com
+azpdsgens699.stretchoid.com
+azpdsgrvz4jx.stretchoid.com
+azpdsskp8muf.stretchoid.com
+azpdsst75set.stretchoid.com
+azpdssteiqpy.stretchoid.com
+azpdssxq24h7.stretchoid.com
+azpdsszhqwse.stretchoid.com
 b2.org.afilias-nst.org
 bba-83-110-91-55.alshamil.net.ae
 client.yota.ru
+crawler136.deepfield.net
 crawler143.deepfield.net
 crawler194.deepfield.net
 dal215.hawkhost.com
@@ -92,4 +109,5 @@ sharp.atid.cloud
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 users219.vip.heteml.jp
