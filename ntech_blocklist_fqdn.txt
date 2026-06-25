@@ -35,6 +35,7 @@
 62-210-125-62.rev.poneytelecom.eu
 72.10.76.34.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
+99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -49,6 +50,7 @@ ip-56-254.4vendeta.com
 ip-58-18.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-22.4vendeta.com
+ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
