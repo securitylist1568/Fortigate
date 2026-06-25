@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 138.226.123.103.jnpl.jeebr.net
 144.202.92.17.vultrusercontent.com
 151.182.151.34.bc.googleusercontent.com
@@ -31,7 +32,10 @@
 192-210-243-12-host.colocrossing.com
 205.150.216.162.bc.googleusercontent.com
 208.78.175.207.bc.googleusercontent.com
+219.211.203.35.bc.googleusercontent.com
 253.12.205.35.bc.googleusercontent.com
+253.140.205.35.bc.googleusercontent.com
+49.63.129.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 72.10.76.34.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
@@ -50,6 +54,8 @@ ip-58-22.4vendeta.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
+monet-27.crawler.deepfield.net
+o602.scanner.modat.io
 o604.scanner.modat.io
 o614.scanner.modat.io
 o641.scanner.modat.io
