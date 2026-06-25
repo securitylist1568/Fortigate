@@ -29,6 +29,7 @@
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 206.150.216.162.bc.googleusercontent.com
+209.36.50.34.bc.googleusercontent.com
 229.149.216.162.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
@@ -68,6 +69,7 @@ no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
