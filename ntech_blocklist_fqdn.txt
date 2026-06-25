@@ -31,6 +31,7 @@
 186.149.216.162.bc.googleusercontent.com
 196.115.195.35.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
+206.150.216.162.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 227.213.53.34.bc.googleusercontent.com
@@ -60,7 +61,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip245.ip-5-39-49.eu
 ip29.sudolio.io
-li1570-11.members.linode.com
 mail.inveb.ru
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
@@ -77,7 +77,6 @@ scan-74-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.225.215.12.49.clients.your-server.de
 user-209-209-59-230.lax02.us.misaka.io
 user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
