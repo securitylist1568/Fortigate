@@ -54,7 +54,9 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bba-83-110-91-55.alshamil.net.ae
 client.yota.ru
+crawler143.deepfield.net
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
