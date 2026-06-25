@@ -59,12 +59,14 @@ monet-27.crawler.deepfield.net
 o602.scanner.modat.io
 o604.scanner.modat.io
 o614.scanner.modat.io
+o626.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-41m.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 server.hostdel.com
