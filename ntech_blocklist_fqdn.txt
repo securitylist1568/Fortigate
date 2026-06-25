@@ -21,6 +21,7 @@
 131.210.203.35.bc.googleusercontent.com
 135.211.203.35.bc.googleusercontent.com
 138.133.21.34.bc.googleusercontent.com
+151.182.151.34.bc.googleusercontent.com
 153.89.205.35.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
@@ -45,8 +46,10 @@
 70.210.203.35.bc.googleusercontent.com
 70.85.155.104.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
+85.211.203.35.bc.googleusercontent.com
 95.66.140.34.bc.googleusercontent.com
 96-126-107-224.ip.linodeusercontent.com
+activity189.numbercombative.com
 amz.unixwiz.net
 azpdcsuk863a.stretchoid.com
 azpdsg25ie9q.stretchoid.com
