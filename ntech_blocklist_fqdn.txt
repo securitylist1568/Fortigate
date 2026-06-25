@@ -55,6 +55,7 @@ b2.org.afilias-nst.org
 bba-83-110-91-55.alshamil.net.ae
 client.yota.ru
 crawler143.deepfield.net
+crawler194.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
@@ -78,6 +79,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-41m.shadowserver.io
 scan-79-09.shadowserver.io
