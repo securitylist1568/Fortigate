@@ -109,6 +109,7 @@ scan-15i.shadowserver.io
 scan-42i.shadowserver.io
 scan-63-13.shadowserver.io
 scan-67-1.shadowserver.io
+scan-74-02.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
