@@ -20,10 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
-118.150.216.162.bc.googleusercontent.com
-119.211.203.35.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
-14.150.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 162.211.203.35.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
@@ -34,7 +31,6 @@
 212.149.216.162.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
 237.108.172.144.static.cloudzy.com
-238.236.42.34.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
@@ -42,14 +38,15 @@
 66.149.216.162.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
+8.22.50.34.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 api.anygrade.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler197.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 fpb6ab348f.ap.nuro.jp
 hn.kd.ny.adsl
@@ -62,7 +59,6 @@ ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
-li1537-121.members.linode.com
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -74,7 +70,6 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
