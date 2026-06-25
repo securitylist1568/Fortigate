@@ -27,6 +27,8 @@
 153.89.205.35.bc.googleusercontent.com
 165.150.216.162.bc.googleusercontent.com
 172-104-214-145.ip.linodeusercontent.com
+172.71.79.34.bc.googleusercontent.com
+179.106.172.144.static.cloudzy.com
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.150.216.162.bc.googleusercontent.com
@@ -42,6 +44,7 @@
 38.119.86.172.static.cloudzy.com
 45-143-198-140.as212027.host
 49.63.129.34.bc.googleusercontent.com
+51-158-248-122.rev.poneytelecom.eu
 53.109.172.144.static.cloudzy.com
 70.85.155.104.bc.googleusercontent.com
 79.238.189.35.bc.googleusercontent.com
@@ -61,6 +64,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-102.4vendeta.com
+ip-58-106.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-74.4vendeta.com
+ip-58-98.4vendeta.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
@@ -69,6 +77,7 @@ no-mans-land.m247.com
 o602.scanner.modat.io
 o614.scanner.modat.io
 o626.scanner.modat.io
+o640.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -78,6 +87,7 @@ rootevidence.com
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-41m.shadowserver.io
+scan-42i.shadowserver.io
 scan-79-08.shadowserver.io
 scan-79-09.shadowserver.io
 scanner-info.rootevidence.com
