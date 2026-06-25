@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
-138.226.123.103.jnpl.jeebr.net
 144.202.92.17.vultrusercontent.com
 151.182.151.34.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
@@ -36,6 +35,7 @@
 219.211.203.35.bc.googleusercontent.com
 253.12.205.35.bc.googleusercontent.com
 253.140.205.35.bc.googleusercontent.com
+45-143-198-140.as212027.host
 49.63.129.34.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 72.10.76.34.bc.googleusercontent.com
@@ -50,7 +50,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-250.venom-dc.com
 ip-58-22.4vendeta.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
@@ -71,8 +70,8 @@ scan-79-09.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 server.hostdel.com
+sharp.atid.cloud
 smtp1.telemach.net
-ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
