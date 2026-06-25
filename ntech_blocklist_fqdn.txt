@@ -32,6 +32,7 @@
 229.150.216.162.bc.googleusercontent.com
 237.108.172.144.static.cloudzy.com
 240.211.203.35.bc.googleusercontent.com
+47.150.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 64.210.203.35.bc.googleusercontent.com
