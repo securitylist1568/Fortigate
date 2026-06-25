@@ -30,6 +30,7 @@
 204.76.203.30.ptr.pfcloud.network
 227.213.53.34.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
+242.232.78.34.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 28.149.216.162.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
