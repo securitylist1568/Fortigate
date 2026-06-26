@@ -48,6 +48,7 @@
 23-92-27-179.ip.linodeusercontent.com
 252.150.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
+31.211.203.35.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 44.198.241.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -67,6 +68,7 @@ client.yota.ru
 cohogs.usienspire.com
 customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
+division.newoilreliefpain.us
 dns12.online.tj.cn
 federationchilla.site
 festa04.jcatransporte.com.br
@@ -87,10 +89,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
+s4850.vps.hosting
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
+scan-56.security.ipip.net
 scan-80-9.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
