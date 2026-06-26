@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-250-68-103.dynamic-ip.hinet.net
 14.253.195.35.bc.googleusercontent.com
+154.210.203.35.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 171.172.53.34.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 211.150.216.162.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 38.119.86.172.static.cloudzy.com
 42.149.216.162.bc.googleusercontent.com
 44.198.241.35.bc.googleusercontent.com
