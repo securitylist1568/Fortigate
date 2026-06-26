@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125-227-34-167.hinet-ip.hinet.net
+137.211.203.35.bc.googleusercontent.com
 141.74.175.207.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
@@ -43,11 +44,11 @@
 214.150.216.162.bc.googleusercontent.com
 215.219.22.34.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
-226.210.203.35.bc.googleusercontent.com
 227.32.14.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 252.150.216.162.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
+35.210.203.35.bc.googleusercontent.com
 44.198.241.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -58,7 +59,7 @@
 45.179.195.35.bc.googleusercontent.com
 53.150.216.162.bc.googleusercontent.com
 63.87.76.34.bc.googleusercontent.com
-84.149.216.162.bc.googleusercontent.com
+80.158.140.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
@@ -67,6 +68,7 @@ cohogs.usienspire.com
 customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
+federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -74,11 +76,11 @@ ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
+ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o332.scanner.modat.io
-o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
