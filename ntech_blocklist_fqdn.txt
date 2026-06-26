@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
+141.74.175.207.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -88,6 +89,7 @@ scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-80-9.shadowserver.io
+scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
