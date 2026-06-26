@@ -25,6 +25,7 @@
 154.210.203.35.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
+173.150.216.162.bc.googleusercontent.com
 177.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
@@ -33,6 +34,7 @@
 211.150.216.162.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
 23.149.216.162.bc.googleusercontent.com
+25.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 38.119.86.172.static.cloudzy.com
 42.149.216.162.bc.googleusercontent.com
