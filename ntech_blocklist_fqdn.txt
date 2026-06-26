@@ -22,7 +22,7 @@
 124.112.229.35.bc.googleusercontent.com
 125-227-34-167.hinet-ip.hinet.net
 137.211.203.35.bc.googleusercontent.com
-141.74.175.207.bc.googleusercontent.com
+14.253.195.35.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 169.94.177.195.in-addr.arpa
 171.172.53.34.bc.googleusercontent.com
@@ -36,8 +36,10 @@
 31.211.203.35.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
+38.119.86.172.static.cloudzy.com
 44.198.241.35.bc.googleusercontent.com
 45.179.195.35.bc.googleusercontent.com
+5.210.203.35.bc.googleusercontent.com
 53.150.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -57,10 +59,6 @@ federationchilla.site
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-102.4vendeta.com
-ip-58-106.4vendeta.com
-ip-58-74.4vendeta.com
-ip-58-98.4vendeta.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -70,7 +68,6 @@ o044.scanner.modat.io
 o054.scanner.modat.io
 o071.scanner.modat.io
 o323.scanner.modat.io
-o332.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -79,9 +76,8 @@ recyber.net
 rootevidence.com
 s4850.vps.hosting
 scan-40e.shadowserver.io
-scan-40g.shadowserver.io
 scan-56.security.ipip.net
-scan-83-7.shadowserver.io
+scanner05-eu-pl.worldip.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
