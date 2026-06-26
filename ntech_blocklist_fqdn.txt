@@ -33,6 +33,7 @@
 180.149.216.162.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+190.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 197.211.203.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
@@ -63,6 +64,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
+customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -73,6 +75,7 @@ ip-58-106.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o332.scanner.modat.io
 o640.scanner.modat.io
