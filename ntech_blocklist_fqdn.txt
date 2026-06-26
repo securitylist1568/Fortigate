@@ -29,6 +29,7 @@
 21.210.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
+22.41.187.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 227.32.14.34.bc.googleusercontent.com
 237.108.172.144.static.cloudzy.com
@@ -60,7 +61,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 rping.ipip.net
+scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
