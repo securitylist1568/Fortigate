@@ -32,12 +32,14 @@
 194-195-253-86.ip.linodeusercontent.com
 199.149.216.162.bc.googleusercontent.com
 205.149.216.162.bc.googleusercontent.com
+211.150.216.162.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 38.119.86.172.static.cloudzy.com
+42.149.216.162.bc.googleusercontent.com
 44.198.241.35.bc.googleusercontent.com
 45.179.195.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
@@ -107,7 +109,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
+scan-04f.shadowserver.io
 scan-56.security.ipip.net
+scan-63-8.shadowserver.io
 scanner05-eu-pl.worldip.io
 security.criminalip.com
 smtp1.telemach.net
