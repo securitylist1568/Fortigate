@@ -22,6 +22,7 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+163.150.216.162.bc.googleusercontent.com
 171.172.53.34.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 172-237-155-29.ip.linodeusercontent.com
@@ -35,9 +36,9 @@
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
+196.150.216.162.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
-202.150.216.162.bc.googleusercontent.com
 21.210.203.35.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
 215.219.22.34.bc.googleusercontent.com
@@ -55,15 +56,14 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.179.195.35.bc.googleusercontent.com
-47.150.216.162.bc.googleusercontent.com
-62-210-125-62.rev.poneytelecom.eu
+53.150.216.162.bc.googleusercontent.com
 63.87.76.34.bc.googleusercontent.com
-8.22.50.34.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
+cohogs.usienspire.com
 customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -85,6 +85,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
+scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
@@ -93,4 +94,6 @@ scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-146-19-3-141.sto02.se.misaka.io
+user-170-39-225-147.mci01.us.misaka.io
 users219.vip.heteml.jp
