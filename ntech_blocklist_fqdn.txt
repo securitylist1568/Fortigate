@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,7 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-138.226.123.103.jnpl.jeebr.net
+125-227-34-167.hinet-ip.hinet.net
 141.74.175.207.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
@@ -66,7 +65,6 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -75,9 +73,8 @@ ip-58-106.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
-node-115-187-37-171.alliancebroadband.in
+o332.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -93,5 +90,4 @@ scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
