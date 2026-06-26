@@ -20,8 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-250-68-103.dynamic-ip.hinet.net
-123.176.36.186.actcorp.in
-124.112.229.35.bc.googleusercontent.com
 14.253.195.35.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
@@ -31,7 +29,6 @@
 194-195-253-86.ip.linodeusercontent.com
 195.103.34.34.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
-205.149.216.162.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
@@ -41,11 +38,8 @@
 45.179.195.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
-8.22.50.34.bc.googleusercontent.com
 95.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
-api.anygrade.net
 azpdcg1tehht.stretchoid.com
 azpdcgf6ljqc.stretchoid.com
 azpdcgkm3iag.stretchoid.com
@@ -111,6 +105,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 static.68.86.42.77.clients.your-server.de
-user-209-209-57-134.sjc10.us.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
