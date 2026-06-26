@@ -37,6 +37,8 @@
 29.149.216.162.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
+53.109.172.144.static.cloudzy.com
+62-210-113-113.rev.poneytelecom.eu
 95.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
@@ -104,4 +106,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 static.68.86.42.77.clients.your-server.de
 static.vnpt.vn
+user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
