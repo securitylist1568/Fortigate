@@ -22,12 +22,14 @@
 14.253.195.35.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
+156.150.216.162.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 173.150.216.162.bc.googleusercontent.com
 177.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
+194-213-3-105.as212027.host
 195.103.34.34.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
@@ -39,6 +41,7 @@
 5.210.203.35.bc.googleusercontent.com
 53.109.172.144.static.cloudzy.com
 62-210-113-113.rev.poneytelecom.eu
+91-208-92-198.as212027.host
 95.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
