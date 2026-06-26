@@ -21,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.176.36.186.actcorp.in
 124.112.229.35.bc.googleusercontent.com
-125-227-34-167.hinet-ip.hinet.net
 137.211.203.35.bc.googleusercontent.com
 14.253.195.35.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
@@ -29,7 +28,6 @@
 171.172.53.34.bc.googleusercontent.com
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.210.203.35.bc.googleusercontent.com
 196.150.216.162.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 205.149.216.162.bc.googleusercontent.com
@@ -42,7 +40,6 @@
 44.198.241.35.bc.googleusercontent.com
 45.179.195.35.bc.googleusercontent.com
 5.210.203.35.bc.googleusercontent.com
-53.150.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 8.22.50.34.bc.googleusercontent.com
@@ -53,7 +50,6 @@ b2.org.afilias-nst.org
 cheaptaximalaga.com
 client.yota.ru
 cohogs.usienspire.com
-customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 division.newoilreliefpain.us
 dns12.online.tj.cn
@@ -63,7 +59,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o011.scanner.modat.io
 o044.scanner.modat.io
@@ -83,7 +78,6 @@ scanner05-eu-pl.worldip.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-146-19-3-141.sto02.se.misaka.io
 user-170-39-225-147.mci01.us.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
