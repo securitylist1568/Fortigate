@@ -40,10 +40,7 @@
 190.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 196.150.216.162.bc.googleusercontent.com
-197.211.203.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
-21.210.203.35.bc.googleusercontent.com
-214.150.216.162.bc.googleusercontent.com
 215.219.22.34.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
 227.32.14.34.bc.googleusercontent.com
@@ -92,14 +89,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-rping.ipip.net
 s4850.vps.hosting
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-56.security.ipip.net
-scan-80-9.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
