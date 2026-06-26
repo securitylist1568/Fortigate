@@ -39,6 +39,7 @@
 230.150.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
+44.210.203.35.bc.googleusercontent.com
 53.109.172.144.static.cloudzy.com
 54.149.216.162.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
@@ -49,6 +50,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
+ecs-115-120-31-157.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
