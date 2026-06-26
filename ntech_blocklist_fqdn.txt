@@ -32,6 +32,7 @@
 199.149.216.162.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
 22.41.187.35.bc.googleusercontent.com
+23.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 38.119.86.172.static.cloudzy.com
 42.149.216.162.bc.googleusercontent.com
@@ -99,6 +100,7 @@ scan-04f.shadowserver.io
 scan-63-8.shadowserver.io
 scan-63-9.shadowserver.io
 scanner05-eu-pl.worldip.io
+scanner06-eu-pl.worldip.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
