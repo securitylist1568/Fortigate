@@ -25,7 +25,10 @@
 157.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 173.150.216.162.bc.googleusercontent.com
+177.149.216.162.bc.googleusercontent.com
 177.211.203.35.bc.googleusercontent.com
+179.210.203.35.bc.googleusercontent.com
+182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 194-213-3-105.as212027.host
@@ -33,6 +36,7 @@
 211.150.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 23.149.216.162.bc.googleusercontent.com
+230.150.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
@@ -80,6 +84,7 @@ b2.org.afilias-nst.org
 c-76-126-86-135.hsd1.ca.comcast.net
 client.yota.ru
 dal215.hawkhost.com
+dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
