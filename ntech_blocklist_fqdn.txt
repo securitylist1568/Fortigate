@@ -21,6 +21,7 @@
 138.226.123.103.jnpl.jeebr.net
 144.202.92.17.vultrusercontent.com
 171.172.53.34.bc.googleusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 195.103.34.34.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
@@ -29,8 +30,10 @@
 212.149.216.162.bc.googleusercontent.com
 214.150.216.162.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
+227.32.14.34.bc.googleusercontent.com
 237.108.172.144.static.cloudzy.com
 252.150.216.162.bc.googleusercontent.com
+45.179.195.35.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
 62-210-125-62.rev.poneytelecom.eu
 63.87.76.34.bc.googleusercontent.com
