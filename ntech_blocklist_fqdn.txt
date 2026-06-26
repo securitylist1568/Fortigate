@@ -28,6 +28,7 @@
 171.172.53.34.bc.googleusercontent.com
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 196.150.216.162.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 205.149.216.162.bc.googleusercontent.com
@@ -46,7 +47,13 @@
 80.158.140.34.bc.googleusercontent.com
 amz.unixwiz.net
 api.anygrade.net
+azpdcslejnig.stretchoid.com
+azpdsg09h0rw.stretchoid.com
+azpdss8hh31k.stretchoid.com
+azpdsskf5buy.stretchoid.com
+azpdssteiqpy.stretchoid.com
 b2.org.afilias-nst.org
+c-76-126-86-135.hsd1.ca.comcast.net
 cheaptaximalaga.com
 client.yota.ru
 cohogs.usienspire.com
@@ -59,6 +66,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o011.scanner.modat.io
 o044.scanner.modat.io
