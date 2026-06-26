@@ -39,6 +39,7 @@
 247.149.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
+43-254-16-48.static.ip.net.tw
 44.210.203.35.bc.googleusercontent.com
 53.109.172.144.static.cloudzy.com
 54.149.216.162.bc.googleusercontent.com
