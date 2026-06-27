@@ -24,10 +24,7 @@
 144.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
-193.210.203.35.bc.googleusercontent.com
-194-195-122-95.ip.linodeusercontent.com
 194.211.203.35.bc.googleusercontent.com
-205.150.216.162.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 amz.unixwiz.net
@@ -58,4 +55,3 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
