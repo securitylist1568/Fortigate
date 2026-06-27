@@ -20,19 +20,16 @@
 113.149.216.162.bc.googleusercontent.com
 129.150.216.162.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
-170.211.203.35.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 194-213-3-105.as212027.host
 204.76.203.30.ptr.pfcloud.network
-205.21.80.34.bc.googleusercontent.com
 211-23-49-247.hinet-ip.hinet.net
 224.211.203.35.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
-239.104.172.144.static.cloudzy.com
 239.210.203.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
@@ -43,10 +40,14 @@ azpdcgdroqxu.stretchoid.com
 azpdcgngane9.stretchoid.com
 azpdcs19ivb5.stretchoid.com
 azpdcsuk863a.stretchoid.com
+azpdes7t6661.stretchoid.com
+azpdsg0p0xel.stretchoid.com
+azpdsg1j90qs.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsg492br4.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsga05mgt.stretchoid.com
+azpdsgbhg8mp.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
 azpdsgdthnqp.stretchoid.com
@@ -77,7 +78,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -93,7 +93,6 @@ r3003.compute.pao1.edc.strln.net
 r3004.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
-scan-05j.shadowserver.io
 scan-74-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
@@ -102,5 +101,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
-v2202509280616384536.hotsrv.de
 vps-4a5e790c.vps.ovh.net
