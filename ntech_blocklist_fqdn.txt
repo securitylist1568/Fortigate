@@ -18,18 +18,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.149.216.162.bc.googleusercontent.com
 129.150.216.162.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
-180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
 194-213-3-105.as212027.host
-204.76.203.30.ptr.pfcloud.network
-211-23-49-247.hinet-ip.hinet.net
 219.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
@@ -37,6 +33,7 @@
 47.149.216.162.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 56.150.216.162.bc.googleusercontent.com
+61.142.129.34.bc.googleusercontent.com
 91-208-92-198.as212027.host
 99.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -89,7 +86,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 mx1.economicalytrustfunds.com
-o626.scanner.modat.io
+o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
