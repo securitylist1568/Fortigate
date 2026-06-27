@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.210.203.35.bc.googleusercontent.com
-120.210.203.35.bc.googleusercontent.com
 124.112.229.35.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 138.211.203.35.bc.googleusercontent.com
@@ -37,8 +36,6 @@
 238.121.187.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 248.211.203.35.bc.googleusercontent.com
-35.37.167.72.host.secureserver.net
-43-254-16-48.static.ip.net.tw
 51.4.205.35.bc.googleusercontent.com
 59-120-224-182.hinet-ip.hinet.net
 6.150.216.162.bc.googleusercontent.com
@@ -65,9 +62,9 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l609.scanner.modat.io
 li1570-11.members.linode.com
-lnxsr12.cwp.webr.net.za
 mail.inveb.ru
 mfyabgec.musicpda.com
+o601.scanner.modat.io
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
