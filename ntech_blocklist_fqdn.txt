@@ -23,12 +23,10 @@
 124.112.229.35.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 138.211.203.35.bc.googleusercontent.com
-169.211.203.35.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 197.211.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
-205.21.80.34.bc.googleusercontent.com
 216.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
@@ -37,7 +35,6 @@
 35.37.167.72.host.secureserver.net
 43-254-16-48.static.ip.net.tw
 44.210.203.35.bc.googleusercontent.com
-54.149.216.162.bc.googleusercontent.com
 59-120-224-182.hinet-ip.hinet.net
 60.210.203.35.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
@@ -53,13 +50,10 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip105.ip-15-204-184.us
 ip29.sudolio.io
-li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mail.inveb.ru
 mfyabgec.musicpda.com
-o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
