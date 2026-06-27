@@ -50,5 +50,6 @@ scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 v2202509280616384536.hotsrv.de
