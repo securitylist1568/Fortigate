@@ -22,6 +22,7 @@
 120.210.203.35.bc.googleusercontent.com
 124.112.229.35.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
+138.211.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
@@ -63,7 +64,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-58.security.ipip.net
+scan-78-08.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
