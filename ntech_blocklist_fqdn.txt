@@ -25,8 +25,6 @@
 138.226.123.103.jnpl.jeebr.net
 144.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
-15.194.78.34.bc.googleusercontent.com
-162.2.79.34.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
@@ -36,20 +34,10 @@
 194.211.203.35.bc.googleusercontent.com
 205.150.216.162.bc.googleusercontent.com
 215.201.77.34.bc.googleusercontent.com
-216-244-95-154-reverse.wowrack.com
-238.121.187.35.bc.googleusercontent.com
-248.211.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-51.4.205.35.bc.googleusercontent.com
-6.150.216.162.bc.googleusercontent.com
-60.230.79.34.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
-66.94.62.34.bc.googleusercontent.com
-71.52.199.104.bc.googleusercontent.com
 71.62.77.34.bc.googleusercontent.com
 88.149.216.162.bc.googleusercontent.com
-93.178.156.34.bc.googleusercontent.com
-98.224.53.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -73,7 +61,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41m.shadowserver.io
 scan-43h.shadowserver.io
 scan-60-10.shadowserver.io
 scan-60.security.ipip.net
