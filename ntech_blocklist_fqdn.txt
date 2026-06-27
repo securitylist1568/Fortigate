@@ -19,12 +19,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-249-231-19.dynamic-ip.hinet.net
+113.149.216.162.bc.googleusercontent.com
 115.150.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
+204.76.203.30.ptr.pfcloud.network
 205.21.80.34.bc.googleusercontent.com
-222.210.203.35.bc.googleusercontent.com
 224.211.203.35.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
@@ -42,6 +43,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o626.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -52,6 +54,7 @@ scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.203-174-22-152.hostbet.in
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 v2202509280616384536.hotsrv.de
