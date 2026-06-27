@@ -21,8 +21,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
-138.211.203.35.bc.googleusercontent.com
+122.149.216.162.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+144.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 15.194.78.34.bc.googleusercontent.com
 162.2.79.34.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 190.31.158.192.bc.googleusercontent.com
 193.210.203.35.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
+194.211.203.35.bc.googleusercontent.com
 205.150.216.162.bc.googleusercontent.com
 215.201.77.34.bc.googleusercontent.com
 216-244-95-154-reverse.wowrack.com
@@ -71,16 +73,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-41m.shadowserver.io
 scan-43h.shadowserver.io
+scan-60-10.shadowserver.io
 scan-60.security.ipip.net
-scan-78-08.shadowserver.io
-scan-79-08.shadowserver.io
 scan-79-09.shadowserver.io
 scan-83-7.shadowserver.io
 scan-88-6.shadowserver.io
-scan.f6.security
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
