@@ -24,16 +24,16 @@
 178.150.216.162.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192-3-154-48-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
 194-213-3-105.as212027.host
 204.76.203.30.ptr.pfcloud.network
 211-23-49-247.hinet-ip.hinet.net
-224.211.203.35.bc.googleusercontent.com
-23.210.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
+47.149.216.162.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 56.150.216.162.bc.googleusercontent.com
 91-208-92-198.as212027.host
@@ -101,6 +101,5 @@ smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.203-174-22-152.hostbet.in
-user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
 vps-4a5e790c.vps.ovh.net
