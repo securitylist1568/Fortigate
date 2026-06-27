@@ -22,6 +22,7 @@
 114-27-107-6.dynamic-ip.hinet.net
 120.210.203.35.bc.googleusercontent.com
 124.112.229.35.bc.googleusercontent.com
+136.211.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 177.149.216.162.bc.googleusercontent.com
@@ -41,6 +42,7 @@
 44.210.203.35.bc.googleusercontent.com
 54.149.216.162.bc.googleusercontent.com
 59-120-224-182.hinet-ip.hinet.net
+60.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
