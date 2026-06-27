@@ -68,6 +68,7 @@ rootevidence.com
 scan-58.security.ipip.net
 scan-78-08.shadowserver.io
 scan-79-08.shadowserver.io
+scan.f6.security
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
