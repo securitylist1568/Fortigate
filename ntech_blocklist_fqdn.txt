@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+105.79.130.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -29,14 +30,15 @@
 194-213-3-105.as212027.host
 204.76.203.30.ptr.pfcloud.network
 211-23-49-247.hinet-ip.hinet.net
+219.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
-3.210.203.35.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 56.150.216.162.bc.googleusercontent.com
 91-208-92-198.as212027.host
+99.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcgngane9.stretchoid.com
@@ -100,6 +102,6 @@ security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.203-174-22-152.hostbet.in
+static.ill.117.250.115.194.bsnl.co.in
 users219.vip.heteml.jp
 vps-4a5e790c.vps.ovh.net
