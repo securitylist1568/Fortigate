@@ -26,6 +26,7 @@
 15.194.78.34.bc.googleusercontent.com
 162.2.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+190.31.158.192.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 215.201.77.34.bc.googleusercontent.com
@@ -44,7 +45,9 @@
 60.230.79.34.bc.googleusercontent.com
 66.94.62.34.bc.googleusercontent.com
 71.52.199.104.bc.googleusercontent.com
+71.62.77.34.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
+88.149.216.162.bc.googleusercontent.com
 93.178.156.34.bc.googleusercontent.com
 98.224.53.34.bc.googleusercontent.com
 adventure.yatano.com
@@ -59,9 +62,11 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mail.inveb.ru
 mfyabgec.musicpda.com
+out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
