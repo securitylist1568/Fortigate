@@ -24,10 +24,13 @@
 122.149.216.162.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
+170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
 194.211.203.35.bc.googleusercontent.com
+205.21.80.34.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
+239.104.172.144.static.cloudzy.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -35,6 +38,7 @@ d24-50-57-215.commercial.cgocable.net
 dal215.hawkhost.com
 division.newoilreliefpain.us
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
