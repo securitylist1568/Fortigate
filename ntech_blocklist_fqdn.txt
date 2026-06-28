@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-144.92.74.97.host.secureserver.net
 152-44-39-73.us-chi1.upcloud.host
 185-45-195-15.hostsailor.com
 194-213-3-105.as212027.host
@@ -31,6 +30,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.host-palace.com
@@ -45,12 +45,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-14h.shadowserver.io
 scan-78-08.shadowserver.io
-scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-214-162.datapacket.com
 user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
