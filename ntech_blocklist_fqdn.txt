@@ -23,12 +23,15 @@
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
+194-213-3-105.as212027.host
+203-74-130-205.hinet-ip.hinet.net
 45.154.98.82.powered.by.rdp.sh
 53.26.71.192.in-addr.arpa
 62-210-136-16.rev.poneytelecom.eu
 7.210.203.35.bc.googleusercontent.com
 70-35-37-12.static.wiline.com
 74-50-97-90.static.hvvc.us
+91-208-92-198.as212027.host
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -49,6 +52,7 @@ recyber.net
 scan-14h.shadowserver.io
 scan-63-13.shadowserver.io
 scan-71-09.shadowserver.io
+scan-78-08.shadowserver.io
 scan-79-08.shadowserver.io
 scan-83-7.shadowserver.io
 scan.f6.security
