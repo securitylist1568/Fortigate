@@ -28,7 +28,6 @@
 203-74-130-205.hinet-ip.hinet.net
 222.66.235.8.bc.googleusercontent.com
 62-210-136-16.rev.poneytelecom.eu
-7.210.203.35.bc.googleusercontent.com
 70-35-37-12.static.wiline.com
 91-208-92-198.as212027.host
 amz.unixwiz.net
@@ -52,10 +51,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-14h.shadowserver.io
-scan-63-13.shadowserver.io
-scan-71-09.shadowserver.io
 scan-78-08.shadowserver.io
-scan-79-08.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
