@@ -23,12 +23,10 @@
 152-44-39-73.us-chi1.upcloud.host
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-192.150.216.162.bc.googleusercontent.com
 194-213-3-105.as212027.host
 203-74-130-205.hinet-ip.hinet.net
 222.66.235.8.bc.googleusercontent.com
 62-210-136-16.rev.poneytelecom.eu
-70-35-37-12.static.wiline.com
 91-208-92-198.as212027.host
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -39,10 +37,8 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.host-palace.com
 htb-h9b8tjwfph.htb-cloud.com
-iafrssh.cn
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
