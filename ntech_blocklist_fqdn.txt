@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
+152-44-39-73.us-chi1.upcloud.host
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
