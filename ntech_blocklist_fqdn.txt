@@ -32,10 +32,11 @@
 43.210.203.35.bc.googleusercontent.com
 44.88.38.34.bc.googleusercontent.com
 45.154.98.82.powered.by.rdp.sh
+53.26.71.192.in-addr.arpa
 61.142.129.34.bc.googleusercontent.com
 70-35-37-12.static.wiline.com
 72.221.156.34.bc.googleusercontent.com
-73.149.216.162.bc.googleusercontent.com
+74-50-97-90.static.hvvc.us
 97.35.240.35.bc.googleusercontent.com
 abts-tn-static-015.124.165.122.airtelbroadband.in
 amz.unixwiz.net
@@ -43,7 +44,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -58,10 +58,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan.f6.security
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
