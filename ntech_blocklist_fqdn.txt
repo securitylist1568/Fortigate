@@ -25,7 +25,6 @@
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.118.79.34.bc.googleusercontent.com
-222.66.235.8.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
 27.169.53.34.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
@@ -35,6 +34,7 @@
 45.154.98.82.powered.by.rdp.sh
 53.26.71.192.in-addr.arpa
 61.142.129.34.bc.googleusercontent.com
+7.210.203.35.bc.googleusercontent.com
 70-35-37-12.static.wiline.com
 72.221.156.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -48,7 +48,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-177-77-158-202.user.vivozap.com.br
 ip29.sudolio.io
 li1570-11.members.linode.com
 lisbon.portugal.com
@@ -59,6 +58,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-71-09.shadowserver.io
 scan.f6.security
 scanner-info.rootevidence.com
 security.criminalip.com
