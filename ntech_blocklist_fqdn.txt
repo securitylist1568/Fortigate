@@ -52,6 +52,7 @@ li1570-11.members.linode.com
 li1625-135.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
+o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
