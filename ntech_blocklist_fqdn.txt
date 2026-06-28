@@ -25,7 +25,6 @@
 192.150.216.162.bc.googleusercontent.com
 45.154.98.82.powered.by.rdp.sh
 53.26.71.192.in-addr.arpa
-61.142.129.34.bc.googleusercontent.com
 62-210-136-16.rev.poneytelecom.eu
 7.210.203.35.bc.googleusercontent.com
 70-35-37-12.static.wiline.com
@@ -40,9 +39,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -58,4 +57,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
+user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
