@@ -25,11 +25,7 @@
 178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
-192.248.150.180.vultrusercontent.com
 219.211.203.35.bc.googleusercontent.com
-231.149.216.162.bc.googleusercontent.com
-239.210.203.35.bc.googleusercontent.com
-39.149.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 56.150.216.162.bc.googleusercontent.com
 61.142.129.34.bc.googleusercontent.com
@@ -53,11 +49,8 @@ azpdsgdthnqp.stretchoid.com
 azpdsge43nsk.stretchoid.com
 azpdsgebcoxy.stretchoid.com
 azpdsghmx647.stretchoid.com
-azpdsgigumtz.stretchoid.com
 azpdsgokg9kc.stretchoid.com
-azpdsgqi8wxn.stretchoid.com
 azpdsgrmaulj.stretchoid.com
-azpdss0yrzr0.stretchoid.com
 azpdss33l1a5.stretchoid.com
 azpdss4lc1pe.stretchoid.com
 azpdssbshtjx.stretchoid.com
@@ -68,7 +61,6 @@ azpdsskp8muf.stretchoid.com
 azpdssle59pd.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdssvyb6fc.stretchoid.com
-azpdssxq24h7.stretchoid.com
 azpdssy2j4f1.stretchoid.com
 azpdssy9gjfn.stretchoid.com
 azpdws28galu.stretchoid.com
@@ -82,7 +74,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o601.scanner.modat.io
 o636.scanner.modat.io
@@ -93,7 +84,10 @@ r3003.compute.pao1.edc.strln.net
 r3004.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
-scan-74-02.shadowserver.io
+scan-13l.shadowserver.io
+scan-41f.shadowserver.io
+scan-53j.shadowserver.io
+scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
