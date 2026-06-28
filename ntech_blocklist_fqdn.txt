@@ -20,7 +20,6 @@
 139.92.187.35.bc.googleusercontent.com
 143.147.140.34.bc.googleusercontent.com
 15.251.53.34.bc.googleusercontent.com
-158.210.203.35.bc.googleusercontent.com
 168.20.240.35.bc.googleusercontent.com
 171.149.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
@@ -33,8 +32,8 @@
 27.169.53.34.bc.googleusercontent.com
 4.7.62.34.bc.googleusercontent.com
 44.88.38.34.bc.googleusercontent.com
-61.142.129.34.bc.googleusercontent.com
 72.221.156.34.bc.googleusercontent.com
+73.149.216.162.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 97.35.240.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -46,14 +45,11 @@ ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip105.ip-15-204-184.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o601.scanner.modat.io
-o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -69,4 +65,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-251.sea02.us.misaka.io
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
