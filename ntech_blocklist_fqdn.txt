@@ -21,12 +21,10 @@
 139.92.187.35.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
 168.20.240.35.bc.googleusercontent.com
-173-255-233-9.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.118.79.34.bc.googleusercontent.com
 222.66.235.8.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
-244.150.216.162.bc.googleusercontent.com
 27.169.53.34.bc.googleusercontent.com
 3.210.203.35.bc.googleusercontent.com
 4.7.62.34.bc.googleusercontent.com
@@ -50,7 +48,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-177-77-158-202.user.vivozap.com.br
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1625-135.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 o601.scanner.modat.io
@@ -59,7 +56,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-68-08.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
