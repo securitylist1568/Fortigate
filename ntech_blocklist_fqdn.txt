@@ -21,7 +21,6 @@
 143.147.140.34.bc.googleusercontent.com
 15.251.53.34.bc.googleusercontent.com
 168.20.240.35.bc.googleusercontent.com
-171.149.216.162.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 173-255-233-9.ip.linodeusercontent.com
 175.138.156.34.bc.googleusercontent.com
@@ -52,6 +51,7 @@ ip-177-77-158-202.user.vivozap.com.br
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
+lisbon.portugal.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -60,10 +60,8 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-13l.shadowserver.io
-scan-53j.shadowserver.io
 scan-68-08.shadowserver.io
-scan-85-3.shadowserver.io
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
