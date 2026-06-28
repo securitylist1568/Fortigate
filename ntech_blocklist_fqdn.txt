@@ -48,6 +48,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o601.scanner.modat.io
@@ -61,6 +62,7 @@ rootevidence.com
 scan-13l.shadowserver.io
 scan-41f.shadowserver.io
 scan-53j.shadowserver.io
+scan-68-08.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
