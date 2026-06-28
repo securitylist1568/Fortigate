@@ -21,6 +21,7 @@
 139.92.187.35.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
 168.20.240.35.bc.googleusercontent.com
+172-104-20-14.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.118.79.34.bc.googleusercontent.com
 222.66.235.8.bc.googleusercontent.com
@@ -30,6 +31,7 @@
 4.7.62.34.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 44.88.38.34.bc.googleusercontent.com
+45.154.98.82.powered.by.rdp.sh
 61.142.129.34.bc.googleusercontent.com
 70-35-37-12.static.wiline.com
 72.221.156.34.bc.googleusercontent.com
