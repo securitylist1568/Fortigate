@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+138.226.123.103.jnpl.jeebr.net
 150.191.52.34.bc.googleusercontent.com
 157.254.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -48,6 +49,7 @@ scan-13l.shadowserver.io
 scan-40e.shadowserver.io
 scan-43b.shadowserver.io
 scan-45g.shadowserver.io
+scan-61-4.shadowserver.io
 scan-68-00.shadowserver.io
 scan-73-00.shadowserver.io
 scan-81-0.shadowserver.io
