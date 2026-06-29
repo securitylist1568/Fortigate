@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-214-111.dynamic-ip.hinet.net
 144.202.92.17.vultrusercontent.com
 144.92.74.97.host.secureserver.net
 166.123.155.104.bc.googleusercontent.com
@@ -43,12 +44,8 @@ ecs-124-243-137-124.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-90.4vendeta.com
-ip-56-214.4vendeta.com
 ip29.sudolio.io
-knowfax.org.uk
 l606.scanner.modat.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o057.scanner.modat.io
@@ -67,5 +64,6 @@ smtp.energy-visiongain.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unassigned.psychz.net
+unn-207-211-210-83.datapacket.com
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
