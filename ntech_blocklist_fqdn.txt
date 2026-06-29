@@ -22,7 +22,6 @@
 152-44-39-73.us-chi1.upcloud.host
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-222.66.235.8.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -30,14 +29,18 @@ crawler062.deepfield.net
 crawler162.deepfield.net
 crawler220.deepfield.net
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
 e2e-dbaas-mongodb-ci4ts-b5995c22.mongo.ondigitalocean.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 hosted-by.host-palace.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-59-22.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
