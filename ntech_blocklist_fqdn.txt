@@ -47,6 +47,7 @@
 27.96.66.34.bc.googleusercontent.com
 28.63.140.34.bc.googleusercontent.com
 3.189.34.34.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -102,7 +103,6 @@ crawler220.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
-dynamic-adsl.viettel.vn
 e2e-dbaas-mongodb-ci4ts-b5995c22.mongo.ondigitalocean.com
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
@@ -112,7 +112,6 @@ ip-59-22.4vendeta.com
 ip105.ip-15-204-184.us
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1972-67.members.linode.com
 m10602.contaboserver.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -121,11 +120,14 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-13l.shadowserver.io
+scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
+scan-45g.shadowserver.io
 scan-73-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-227-143.sea02.us.misaka.io
+user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
