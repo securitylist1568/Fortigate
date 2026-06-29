@@ -38,6 +38,7 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 203.154.77.34.bc.googleusercontent.com
+216-244-95-154-reverse.wowrack.com
 222.66.235.8.bc.googleusercontent.com
 228.69.89.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
@@ -118,6 +119,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
