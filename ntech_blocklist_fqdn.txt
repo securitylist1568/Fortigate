@@ -97,7 +97,6 @@ b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
-db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hkhdc.laws.ms
@@ -105,8 +104,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-59-22.4vendeta.com
 ip105.ip-15-204-184.us
+ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
-li1570-11.members.linode.com
+m10564.contaboserver.net
 m10602.contaboserver.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
