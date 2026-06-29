@@ -19,9 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-138.226.123.103.jnpl.jeebr.net
-150.191.52.34.bc.googleusercontent.com
-157.254.79.34.bc.googleusercontent.com
 166.123.155.104.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 178.210.77.34.bc.googleusercontent.com
@@ -30,11 +27,11 @@
 191.58.62.34.bc.googleusercontent.com
 206.149.38.34.bc.googleusercontent.com
 219.58.cetus.link3.net
+222.119.86.172.static.cloudzy.com
 223.40.195.35.bc.googleusercontent.com
 28.185.77.34.bc.googleusercontent.com
 3.189.34.34.bc.googleusercontent.com
 46.113.156.34.bc.googleusercontent.com
-54.16.14.34.bc.googleusercontent.com
 69.58.156.34.bc.googleusercontent.com
 78.65.175.207.bc.googleusercontent.com
 8.22.50.34.bc.googleusercontent.com
@@ -84,7 +81,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-58a.shadowserver.io
-scan-61-4.shadowserver.io
 scan-63-2.shadowserver.io
 scan-76-02.shadowserver.io
 security.criminalip.com
