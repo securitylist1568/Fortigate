@@ -21,8 +21,7 @@
 150.191.52.34.bc.googleusercontent.com
 157.254.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.81.ptr.pfcloud.network
-239.104.172.144.static.cloudzy.com
+3.189.34.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 54.16.14.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -45,13 +44,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-13l.shadowserver.io
 scan-40e.shadowserver.io
-scan-43b.shadowserver.io
 scan-45g.shadowserver.io
 scan-61-4.shadowserver.io
 scan-68-00.shadowserver.io
-scan-73-00.shadowserver.io
 scan-81-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
