@@ -23,7 +23,6 @@
 157.254.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 3.189.34.34.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 54.16.14.34.bc.googleusercontent.com
 8.22.50.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -69,8 +68,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40e.shadowserver.io
-scan-45g.shadowserver.io
 scan-61-4.shadowserver.io
 scan-68-00.shadowserver.io
 scan-81-0.shadowserver.io
@@ -78,5 +75,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-224-220.iad03.us.misaka.io
-user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
