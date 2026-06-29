@@ -27,7 +27,6 @@
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 194-213-3-105.as212027.host
-222.119.86.172.static.cloudzy.com
 228.69.89.34.bc.googleusercontent.com
 28.185.77.34.bc.googleusercontent.com
 4.zlabs.dev
@@ -47,7 +46,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l606.scanner.modat.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o057.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -57,7 +55,6 @@ rootevidence.com
 s49309.vps.hosting
 scan-07e.shadowserver.io
 scan-61-4.shadowserver.io
-scan-76-02.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp.energy-visiongain.com
