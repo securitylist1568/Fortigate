@@ -33,6 +33,8 @@
 223.40.195.35.bc.googleusercontent.com
 228.69.89.34.bc.googleusercontent.com
 28.185.77.34.bc.googleusercontent.com
+4.zlabs.dev
+45-79-167-47.ip.linodeusercontent.com
 46.113.156.34.bc.googleusercontent.com
 69.58.156.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -62,10 +64,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+s49309.vps.hosting
 scan-07e.shadowserver.io
-scan-58a.shadowserver.io
 scan-61-4.shadowserver.io
-scan-63-2.shadowserver.io
 scan-76-02.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
