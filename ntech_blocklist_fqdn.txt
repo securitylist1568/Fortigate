@@ -58,8 +58,6 @@ ec2-98-93-250-212.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-158.4vendeta.com
-ip-58-98.4vendeta.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 l611.scanner.modat.io
@@ -69,12 +67,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-58a.shadowserver.io
 scan-61-4.shadowserver.io
 scan-63-2.shadowserver.io
-scan-68-00.shadowserver.io
-scan-81-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-224-220.iad03.us.misaka.io
 users219.vip.heteml.jp
