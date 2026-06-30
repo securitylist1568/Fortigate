@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 12.109.131.34.bc.googleusercontent.com
 12.38.14.34.bc.googleusercontent.com
-127.136.196.104.bc.googleusercontent.com
 140.117.233.35.bc.googleusercontent.com
 146.122.205.35.bc.googleusercontent.com
 153.190.241.35.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 187.189.62.34.bc.googleusercontent.com
 31.190.195.35.bc.googleusercontent.com
 45.75.14.34.bc.googleusercontent.com
-50-114-113-128.ips.acedatacenter.com
 51.200.14.34.bc.googleusercontent.com
 60.139.62.34.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
@@ -86,7 +84,6 @@ crawler127.deepfield.net
 crawler139.deepfield.net
 crawler145.deepfield.net
 crawler151.deepfield.net
-crawler167.deepfield.net
 crawler188.deepfield.net
 crawler205.deepfield.net
 crawler231.deepfield.net
@@ -109,8 +106,6 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s49309.vps.hosting
-scan-41f.shadowserver.io
 scan-45g.shadowserver.io
 scan-52c.shadowserver.io
 scan-58a.shadowserver.io
