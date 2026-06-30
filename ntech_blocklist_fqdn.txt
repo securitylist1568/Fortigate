@@ -59,4 +59,5 @@ srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 tor-exit.freedoml.ink
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
