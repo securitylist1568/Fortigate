@@ -82,6 +82,7 @@ crawler055.deepfield.net
 crawler070.deepfield.net
 crawler074.deepfield.net
 crawler119.deepfield.net
+crawler127.deepfield.net
 crawler139.deepfield.net
 crawler145.deepfield.net
 crawler151.deepfield.net
@@ -116,6 +117,8 @@ scan-41f.shadowserver.io
 scan-45g.shadowserver.io
 scan-52c.shadowserver.io
 scan-58a.shadowserver.io
+scan-60-10.shadowserver.io
+scan-76-03.shadowserver.io
 scan-77-02.shadowserver.io
 scan-78-08.shadowserver.io
 security.criminalip.com
