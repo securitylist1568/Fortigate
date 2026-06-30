@@ -24,7 +24,6 @@
 45.75.14.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 60.139.62.34.bc.googleusercontent.com
-62-210-113-113.rev.poneytelecom.eu
 83.141.52.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -39,7 +38,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o001.scanner.modat.io
