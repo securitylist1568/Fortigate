@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-214-111.dynamic-ip.hinet.net
 153.190.241.35.bc.googleusercontent.com
+159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 194-213-3-105.as212027.host
 45.75.14.34.bc.googleusercontent.com
@@ -59,5 +60,6 @@ static-190-25-75-206.etb.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 tor-exit.freedoml.ink
+user-45-142-244-217.lon07.gb.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
