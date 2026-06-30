@@ -21,6 +21,7 @@
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194-213-3-105.as212027.host
+60.139.62.34.bc.googleusercontent.com
 9.241.125.34.bc.googleusercontent.com
 91-208-92-198.as212027.host
 aim.sba-research.org
@@ -32,6 +33,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-22.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
