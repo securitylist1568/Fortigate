@@ -34,6 +34,7 @@
 50-114-113-128.ips.acedatacenter.com
 51.200.14.34.bc.googleusercontent.com
 60.139.62.34.bc.googleusercontent.com
+62-210-113-113.rev.poneytelecom.eu
 83.141.52.34.bc.googleusercontent.com
 9.241.125.34.bc.googleusercontent.com
 93.25.196.35.bc.googleusercontent.com
@@ -81,13 +82,11 @@ crawler053.deepfield.net
 crawler055.deepfield.net
 crawler070.deepfield.net
 crawler074.deepfield.net
-crawler119.deepfield.net
 crawler127.deepfield.net
 crawler139.deepfield.net
 crawler145.deepfield.net
 crawler151.deepfield.net
 crawler167.deepfield.net
-crawler183.deepfield.net
 crawler188.deepfield.net
 crawler205.deepfield.net
 crawler231.deepfield.net
@@ -95,11 +94,8 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
-ip-58-250.4vendeta.com
-ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -119,7 +115,6 @@ scan-52c.shadowserver.io
 scan-58a.shadowserver.io
 scan-60-10.shadowserver.io
 scan-76-03.shadowserver.io
-scan-77-02.shadowserver.io
 scan-78-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
