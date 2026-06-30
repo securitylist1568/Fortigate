@@ -49,8 +49,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-190-25-75-206.etb.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
-tor-exit.freedoml.ink
 user-102-130-49-90.jnb01.za.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
