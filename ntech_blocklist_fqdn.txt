@@ -17,8 +17,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-12.109.131.34.bc.googleusercontent.com
 12.38.14.34.bc.googleusercontent.com
+138.226.123.103.jnpl.jeebr.net
 140.117.233.35.bc.googleusercontent.com
 146.122.205.35.bc.googleusercontent.com
 153.190.241.35.bc.googleusercontent.com
@@ -37,7 +37,6 @@
 83.141.52.34.bc.googleusercontent.com
 9.241.125.34.bc.googleusercontent.com
 93.25.196.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcgf6ljqc.stretchoid.com
@@ -75,10 +74,7 @@ client.yota.ru
 crawler017.deepfield.net
 crawler034.deepfield.net
 crawler037.deepfield.net
-crawler040.deepfield.net
 crawler041.deepfield.net
-crawler053.deepfield.net
-crawler055.deepfield.net
 crawler070.deepfield.net
 crawler074.deepfield.net
 crawler127.deepfield.net
@@ -98,10 +94,8 @@ ip-40-158.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 monet-22.crawler.deepfield.net
-no-mans-land.m247.com
 o601.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
