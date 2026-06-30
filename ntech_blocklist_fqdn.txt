@@ -20,6 +20,7 @@
 12.109.131.34.bc.googleusercontent.com
 12.38.14.34.bc.googleusercontent.com
 127.136.196.104.bc.googleusercontent.com
+140.117.233.35.bc.googleusercontent.com
 146.122.205.35.bc.googleusercontent.com
 153.190.241.35.bc.googleusercontent.com
 164.75.14.34.bc.googleusercontent.com
@@ -33,6 +34,7 @@
 51.200.14.34.bc.googleusercontent.com
 60.139.62.34.bc.googleusercontent.com
 83.141.52.34.bc.googleusercontent.com
+9.241.125.34.bc.googleusercontent.com
 93.25.196.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -69,6 +71,7 @@ azpdwsayyn3f.stretchoid.com
 azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler017.deepfield.net
 crawler034.deepfield.net
 crawler037.deepfield.net
 crawler040.deepfield.net
