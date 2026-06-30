@@ -61,6 +61,7 @@ crawler151.deepfield.net
 crawler188.deepfield.net
 customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
+ded122468.smartservers.com.au
 ded122469.smartservers.com.au
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -77,10 +78,12 @@ pinkytales.com
 pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s49309.vps.hosting
 scan-60-10.shadowserver.io
 scan-67-1.shadowserver.io
 scan-76-03.shadowserver.io
 smtp1.telemach.net
+srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
 users219.vip.heteml.jp
