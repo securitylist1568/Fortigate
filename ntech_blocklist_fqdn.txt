@@ -50,6 +50,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s49309.vps.hosting
+scan-02k.shadowserver.io
 scan-04i.shadowserver.io
 scan-67-1.shadowserver.io
 scanner-info.rootevidence.com
