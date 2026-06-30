@@ -25,6 +25,7 @@
 153.190.241.35.bc.googleusercontent.com
 164.75.14.34.bc.googleusercontent.com
 165.190.140.34.bc.googleusercontent.com
+169.94.177.195.in-addr.arpa
 18.91.14.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.189.62.34.bc.googleusercontent.com
@@ -107,6 +108,7 @@ no-mans-land.m247.com
 o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s49309.vps.hosting
