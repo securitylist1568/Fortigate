@@ -31,6 +31,7 @@
 31.190.195.35.bc.googleusercontent.com
 45.75.14.34.bc.googleusercontent.com
 51.200.14.34.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 60.139.62.34.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 83.141.52.34.bc.googleusercontent.com
@@ -88,6 +89,7 @@ crawler188.deepfield.net
 crawler205.deepfield.net
 crawler231.deepfield.net
 dal215.hawkhost.com
+ded122469.smartservers.com.au
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
