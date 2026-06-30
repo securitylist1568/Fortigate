@@ -26,7 +26,6 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 28.185.77.34.bc.googleusercontent.com
-4.zlabs.dev
 51.200.14.34.bc.googleusercontent.com
 69.58.156.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -73,7 +72,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-s49309.vps.hosting
 scan-08g.shadowserver.io
 scan-47k.shadowserver.io
 scan-71-09.shadowserver.io
