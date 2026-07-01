@@ -18,13 +18,16 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122-121-222-44.dynamic-ip.hinet.net
+148.150.216.162.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-213-3-105.as212027.host
 198-134-107-73.rev.unlimitednet.us
 204.76.203.30.ptr.pfcloud.network
 212.211.203.35.bc.googleusercontent.com
+252.210.203.35.bc.googleusercontent.com
 56.212.126.34.bc.googleusercontent.com
+77.211.203.35.bc.googleusercontent.com
 91-208-92-198.as212027.host
 activity189.numbercombative.com
 aim.sba-research.org
@@ -47,6 +50,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s49309.vps.hosting
 scan-61-7.shadowserver.io
+scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 scanner5.labs.rapid7.com
 security.criminalip.com
