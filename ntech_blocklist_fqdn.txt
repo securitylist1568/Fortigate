@@ -25,6 +25,7 @@
 210-59-205-224.hinet-ip.hinet.net
 23-95-186-175-host.colocrossing.com
 79.33.26.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg1tehht.stretchoid.com
 azpdcgf6ljqc.stretchoid.com
@@ -77,6 +78,7 @@ scan-89-5.shadowserver.io
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
+spafollow.kwai.com
 srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
