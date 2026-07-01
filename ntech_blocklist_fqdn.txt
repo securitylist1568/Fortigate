@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.202.92.17.vultrusercontent.com
-158.31.232.180.dsl.inet.static.certaincyber.net
 173.110.240.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
@@ -40,6 +39,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-139-159-185-158.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -58,6 +58,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-15i.shadowserver.io
 scan-61-7.shadowserver.io
 scan-69-05.shadowserver.io
