@@ -22,6 +22,7 @@
 185-45-195-15.hostsailor.com
 45.63.4.69.vultrusercontent.com
 60.139.62.34.bc.googleusercontent.com
+79.124.56.142.superbit.host
 9.241.125.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -32,6 +33,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-214.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-22.4vendeta.com
