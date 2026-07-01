@@ -18,11 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.226.123.103.jnpl.jeebr.net
+172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-213-3-105.as212027.host
 198-134-107-73.rev.unlimitednet.us
 204.76.203.30.ptr.pfcloud.network
-210-59-205-224.hinet-ip.hinet.net
 23-95-186-175-host.colocrossing.com
 79.33.26.34.bc.googleusercontent.com
 91-208-92-198.as212027.host
@@ -65,13 +65,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 new-ubuntu20223240.aspadmin.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-pug.ipip.net
 recyber.net
 scan-04f.shadowserver.io
 scan-61-7.shadowserver.io
