@@ -24,12 +24,15 @@
 251.217.140.34.bc.googleusercontent.com
 42.252.62.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+51.165.76.34.bc.googleusercontent.com
 60.139.62.34.bc.googleusercontent.com
+61.185.62.34.bc.googleusercontent.com
 76.6.77.34.bc.googleusercontent.com
 79.124.56.142.superbit.host
 81.209.52.34.bc.googleusercontent.com
 9.241.125.34.bc.googleusercontent.com
 97.185.241.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
