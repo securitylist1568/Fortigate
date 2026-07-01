@@ -23,9 +23,9 @@
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-213-3-105.as212027.host
-198-134-107-73.rev.unlimitednet.us
 204.76.203.30.ptr.pfcloud.network
 212.211.203.35.bc.googleusercontent.com
+25.211.203.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 56.212.126.34.bc.googleusercontent.com
 77.211.203.35.bc.googleusercontent.com
@@ -56,7 +56,6 @@ scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 scanner5.labs.rapid7.com
 security.criminalip.com
-sharp.atid.cloud
 smtp1.telemach.net
 spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
