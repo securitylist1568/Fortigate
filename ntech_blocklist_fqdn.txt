@@ -45,10 +45,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-214.4vendeta.com
-ip-56-254.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
-ip-59-22.4vendeta.com
 ip29.sudolio.io
 ip88.ip-51-81-22.us
 li1570-11.members.linode.com
@@ -60,11 +58,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-15i.shadowserver.io
-scan-61-7.shadowserver.io
+scan-43h.shadowserver.io
 scan-63-13.shadowserver.io
 scan-69-05.shadowserver.io
-scan-71-09.shadowserver.io
 scan-74-02.shadowserver.io
 scan-86-7.shadowserver.io
 scan-88-6.shadowserver.io
@@ -72,7 +68,5 @@ security.criminalip.com
 server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-146-19-3-141.sto02.se.misaka.io
-user-209-209-59-230.lax02.us.misaka.io
 user-45-131-70-129.led02.ru.misaka.io
 users219.vip.heteml.jp
