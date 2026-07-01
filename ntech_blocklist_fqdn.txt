@@ -68,6 +68,7 @@ scan-74-02.shadowserver.io
 scan-86-7.shadowserver.io
 scan-88-6.shadowserver.io
 security.criminalip.com
+server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
