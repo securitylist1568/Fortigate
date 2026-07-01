@@ -40,7 +40,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-158.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
@@ -55,11 +54,12 @@ pug.ipip.net
 recyber.net
 s49309.vps.hosting
 scan-15i.shadowserver.io
-scan-43h.shadowserver.io
-scan-63-13.shadowserver.io
+scan-73-02.shadowserver.io
 scan-87-7.shadowserver.io
+scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv-141-98-10-167.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 unn-169-150-252-179.datapacket.com
