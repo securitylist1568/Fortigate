@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 114-36-130-170.dynamic-ip.hinet.net
 118-168-199-12.dynamic-ip.hinet.net
 173.110.240.35.bc.googleusercontent.com
@@ -36,13 +35,14 @@ b2.org.afilias-nst.org
 bicommae.store
 client.yota.ru
 dal215.hawkhost.com
+ded122469.smartservers.com.au
 dns12.online.tj.cn
-ecs-139-159-185-158.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns5037865.ip-148-113-228.net
@@ -51,8 +51,8 @@ o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+pug.ipip.net
 recyber.net
-s4850.vps.hosting
 s49309.vps.hosting
 scan-15i.shadowserver.io
 scan-43h.shadowserver.io
@@ -62,5 +62,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
+unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
 www.internet-albedo.net
