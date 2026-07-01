@@ -18,13 +18,18 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 158.31.232.180.dsl.inet.static.certaincyber.net
-176.65.148.176.ptr.pfcloud.network
+173.110.240.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
+251.217.140.34.bc.googleusercontent.com
+42.252.62.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 60.139.62.34.bc.googleusercontent.com
+76.6.77.34.bc.googleusercontent.com
 79.124.56.142.superbit.host
+81.209.52.34.bc.googleusercontent.com
 9.241.125.34.bc.googleusercontent.com
-aim.sba-research.org
+97.185.241.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -38,6 +43,7 @@ ip-56-254.4vendeta.com
 ip-58-22.4vendeta.com
 ip-59-22.4vendeta.com
 ip29.sudolio.io
+ip88.ip-51-81-22.us
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -53,7 +59,6 @@ scan-71-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-102-130-49-90.jnb01.za.misaka.io
 user-146-19-3-141.sto02.se.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
