@@ -31,7 +31,6 @@
 76.6.77.34.bc.googleusercontent.com
 79.124.56.142.superbit.host
 81.209.52.34.bc.googleusercontent.com
-9.241.125.34.bc.googleusercontent.com
 97.185.241.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -48,18 +47,17 @@ ip-58-22.4vendeta.com
 ip-59-22.4vendeta.com
 ip29.sudolio.io
 ip88.ip-51-81-22.us
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-reverse.bluelotus.109.109.103.in-addr.arpa
 s49309.vps.hosting
 scan-15i.shadowserver.io
 scan-61-7.shadowserver.io
 scan-71-09.shadowserver.io
+scan-74-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
