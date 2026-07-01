@@ -61,7 +61,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 ded122468.smartservers.com.au
-ded122469.smartservers.com.au
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -76,15 +75,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.io
 scan-61-7.shadowserver.io
-scan-73-02.shadowserver.io
-scan-89-5.shadowserver.io
 security.criminalip.com
 sharp.atid.cloud
 smtp1.telemach.net
 spafollow.kwai.com
-srv-141-98-10-167.serveroffer.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
-unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
