@@ -21,11 +21,9 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-194-213-3-105.as212027.host
 45.63.4.69.vultrusercontent.com
 60.139.62.34.bc.googleusercontent.com
 9.241.125.34.bc.googleusercontent.com
-91-208-92-198.as212027.host
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -45,7 +43,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reverse.bluelotus.109.109.103.in-addr.arpa
 s49309.vps.hosting
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-102-130-49-90.jnb01.za.misaka.io
