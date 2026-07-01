@@ -27,7 +27,6 @@
 28.112.62.34.bc.googleusercontent.com
 3.116.22.34.bc.googleusercontent.com
 42.252.62.34.bc.googleusercontent.com
-45.63.4.69.vultrusercontent.com
 51.165.76.34.bc.googleusercontent.com
 61.185.62.34.bc.googleusercontent.com
 76.6.77.34.bc.googleusercontent.com
@@ -59,7 +58,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s49309.vps.hosting
 scan-15i.shadowserver.io
 scan-61-7.shadowserver.io
 scan-69-05.shadowserver.io
