@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 158.31.232.180.dsl.inet.static.certaincyber.net
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 45.63.4.69.vultrusercontent.com
@@ -45,11 +44,14 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reverse.bluelotus.109.109.103.in-addr.arpa
 s49309.vps.hosting
+scan-15i.shadowserver.io
+scan-61-7.shadowserver.io
 scan-71-09.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-102-130-49-90.jnb01.za.misaka.io
+user-146-19-3-141.sto02.se.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 user-45-131-71-129.ber02.de.misaka.io
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
