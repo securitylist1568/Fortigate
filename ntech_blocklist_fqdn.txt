@@ -76,6 +76,7 @@ spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
+user-170-39-225-147.mci01.us.misaka.io
 user-209-209-57-134.sjc10.us.misaka.io
 user-45-131-69-60.mow01.ru.misaka.io
 users219.vip.heteml.jp
