@@ -28,7 +28,6 @@
 42.252.62.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 51.165.76.34.bc.googleusercontent.com
-60.139.62.34.bc.googleusercontent.com
 61.185.62.34.bc.googleusercontent.com
 76.6.77.34.bc.googleusercontent.com
 79.124.56.142.superbit.host
@@ -45,7 +44,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-214.4vendeta.com
 ip-56-254.4vendeta.com
-ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-59-22.4vendeta.com
@@ -71,5 +69,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-146-19-3-141.sto02.se.misaka.io
 user-209-209-59-230.lax02.us.misaka.io
 user-45-131-70-129.led02.ru.misaka.io
-user-45-131-71-129.ber02.de.misaka.io
 users219.vip.heteml.jp
