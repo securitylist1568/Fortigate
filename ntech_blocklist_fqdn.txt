@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-109.13.76.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,11 +22,11 @@
 118-168-199-12.dynamic-ip.hinet.net
 173.110.240.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 251.217.140.34.bc.googleusercontent.com
 42.252.62.34.bc.googleusercontent.com
 61.185.62.34.bc.googleusercontent.com
 7.154.179.34.bc.googleusercontent.com
-79.33.26.34.bc.googleusercontent.com
 96.68.10.185.ro.ovo.sc
 97.185.241.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -43,11 +42,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns5037865.ip-148-113-228.net
-o320.scanner.modat.io
 o601.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -61,8 +58,8 @@ scan-43h.shadowserver.io
 scan-63-13.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
-server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
+www.internet-albedo.net
