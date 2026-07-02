@@ -36,6 +36,7 @@
 199.150.216.162.bc.googleusercontent.com
 22.100.211.130.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
+23.209.255.172.hosted.by.hostdzire.com
 234.149.216.162.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
 36-239-252-44.dynamic-ip.hinet.net
@@ -43,6 +44,7 @@
 48.146.230.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 57.109.156.34.bc.googleusercontent.com
+83.150.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
