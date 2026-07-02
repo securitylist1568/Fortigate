@@ -24,6 +24,7 @@
 144.211.203.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
 159.132.34.34.bc.googleusercontent.com
+164.149.216.162.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 170.144.78.34.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
@@ -72,6 +73,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
 scan-04i.shadowserver.io
+scan-08g.shadowserver.io
 scan-70-00.shadowserver.io
 scan-79-00.shadowserver.io
 scan-79-08.shadowserver.io
