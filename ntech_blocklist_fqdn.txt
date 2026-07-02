@@ -28,6 +28,7 @@
 25.211.203.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
+56.149.216.162.bc.googleusercontent.com
 56.212.126.34.bc.googleusercontent.com
 77.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -40,6 +41,8 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-254.4vendeta.com
+ip-59-22.4vendeta.com
 ip29.sudolio.io
 l606.scanner.modat.io
 li1570-11.members.linode.com
@@ -50,7 +53,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s49309.vps.hosting
+scan-13n.shadowserver.io
 scan-56.security.ipip.net
+scan-73-02.shadowserver.io
 scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 scanner5.labs.rapid7.com
