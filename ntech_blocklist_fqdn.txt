@@ -38,7 +38,6 @@
 188.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 194.139.156.34.bc.googleusercontent.com
-197.211.203.35.bc.googleusercontent.com
 217.5.77.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 232.85.205.35.bc.googleusercontent.com
@@ -57,7 +56,6 @@
 65.122.156.34.bc.googleusercontent.com
 71.150.216.162.bc.googleusercontent.com
 99.243.53.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
@@ -362,6 +360,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
-trafo.kz
 user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
