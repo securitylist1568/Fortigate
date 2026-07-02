@@ -19,8 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.149.216.162.bc.googleusercontent.com
 114-33-53-60.hinet-ip.hinet.net
+118-168-199-12.dynamic-ip.hinet.net
 136.149.216.162.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+144.92.74.97.host.secureserver.net
 164.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
@@ -38,10 +40,8 @@
 43.149.216.162.bc.googleusercontent.com
 48.146.230.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
+82.149.216.162.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
-87.150.216.162.bc.googleusercontent.com
-95.150.216.162.bc.googleusercontent.com
-adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -58,6 +58,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1625-135.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -75,4 +76,5 @@ smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
+user-170-39-227-251.sea02.us.misaka.io
 users219.vip.heteml.jp
