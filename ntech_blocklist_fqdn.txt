@@ -39,11 +39,7 @@
 217.5.77.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 232.85.205.35.bc.googleusercontent.com
-236.149.216.162.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
-25.149.216.162.bc.googleusercontent.com
-25.211.203.35.bc.googleusercontent.com
-37.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 43.157.76.34.bc.googleusercontent.com
 44.63.240.35.bc.googleusercontent.com
@@ -350,10 +346,8 @@ prod-xenon-ap-southeast-0.li.binaryedge.ninja
 prod-xenon-syd1-0.do.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-13n.shadowserver.io
 scan-40g.shadowserver.io
-scan-56.security.ipip.net
 scan-61-4.shadowserver.io
 scan-69-05.shadowserver.io
 scan-73-02.shadowserver.io
