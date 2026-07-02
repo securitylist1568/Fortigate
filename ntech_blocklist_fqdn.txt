@@ -32,6 +32,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+188.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 194.139.156.34.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
@@ -39,9 +40,11 @@
 23-92-27-179.ip.linodeusercontent.com
 232.85.205.35.bc.googleusercontent.com
 236.149.216.162.bc.googleusercontent.com
+245.149.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
+37.150.216.162.bc.googleusercontent.com
 43.157.76.34.bc.googleusercontent.com
 44.63.240.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -62,12 +65,15 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-26-102-117.compute-1.amazonaws.com
 ec2-100-26-98-21.compute-1.amazonaws.com
 ec2-13-220-253-111.compute-1.amazonaws.com
 ec2-13-221-244-98.compute-1.amazonaws.com
 ec2-13-222-171-239.compute-1.amazonaws.com
+ec2-3-85-57-190.compute-1.amazonaws.com
 ec2-3-88-155-51.compute-1.amazonaws.com
 ec2-3-89-113-104.compute-1.amazonaws.com
+ec2-3-94-186-181.compute-1.amazonaws.com
 ec2-34-228-63-7.compute-1.amazonaws.com
 ec2-34-239-130-59.compute-1.amazonaws.com
 ec2-35-172-134-248.compute-1.amazonaws.com
@@ -76,8 +82,10 @@ ec2-52-7-83-29.compute-1.amazonaws.com
 ec2-54-146-217-235.compute-1.amazonaws.com
 ec2-54-147-51-34.compute-1.amazonaws.com
 ec2-54-163-40-36.compute-1.amazonaws.com
+ec2-54-165-130-174.compute-1.amazonaws.com
 ec2-54-167-95-180.compute-1.amazonaws.com
 ec2-54-172-52-31.compute-1.amazonaws.com
+ec2-54-234-67-238.compute-1.amazonaws.com
 ec2-54-237-223-62.compute-1.amazonaws.com
 ec2-54-82-54-204.compute-1.amazonaws.com
 ec2-54-89-101-241.compute-1.amazonaws.com
@@ -93,6 +101,7 @@ knowfax.org.uk
 li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
+o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -352,6 +361,7 @@ scan-76-03.shadowserver.io
 scan-87-7.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.199.85.8.144.hostname.com
 trafo.kz
 user-38-175-113-245.ist01.tr.misaka.io
 users219.vip.heteml.jp
