@@ -85,10 +85,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s49309.vps.hosting
+scan-02k.shadowserver.io
 scan-13l.shadowserver.io
 scan-40e.shadowserver.io
 scan-58.security.ipip.net
 scan-74-02.shadowserver.io
+scan-79-08.shadowserver.io
 scan-81-0.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
