@@ -55,6 +55,7 @@ rootevidence.com
 s49309.vps.hosting
 scan-13n.shadowserver.io
 scan-56.security.ipip.net
+scan-61-4.shadowserver.io
 scan-73-02.shadowserver.io
 scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
