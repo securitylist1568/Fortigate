@@ -70,6 +70,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.io
 scan-08g.shadowserver.io
+scan-60.security.ipip.net
 scan-70-00.shadowserver.io
 scan-79-00.shadowserver.io
 scan-85-0.shadowserver.io
