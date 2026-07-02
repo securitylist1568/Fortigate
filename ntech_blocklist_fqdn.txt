@@ -34,7 +34,6 @@
 175.68.199.104.bc.googleusercontent.com
 176.31.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-188.210.203.35.bc.googleusercontent.com
 189.150.216.162.bc.googleusercontent.com
 192-3-154-48-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
@@ -46,11 +45,9 @@
 22.100.211.130.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
-245.149.216.162.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 29.141.156.34.bc.googleusercontent.com
 36-233-247-127.dynamic-ip.hinet.net
-37.150.216.162.bc.googleusercontent.com
 38.123.195.35.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 41.189.116.34.bc.googleusercontent.com
@@ -69,11 +66,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-100-26-102-117.compute-1.amazonaws.com
-ec2-3-85-57-190.compute-1.amazonaws.com
-ec2-3-94-186-181.compute-1.amazonaws.com
-ec2-54-165-130-174.compute-1.amazonaws.com
-ec2-54-234-67-238.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host232.net162-226-38.enatrel.ni
@@ -86,7 +78,6 @@ li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o031.scanner.modat.io
-o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -103,5 +94,4 @@ scan-84-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
