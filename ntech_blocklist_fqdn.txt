@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.149.216.162.bc.googleusercontent.com
-114-33-53-60.hinet-ip.hinet.net
 118-168-199-12.dynamic-ip.hinet.net
 125.149.216.162.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
@@ -27,7 +26,6 @@
 164.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
-173.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
@@ -36,7 +34,6 @@
 221.211.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 234.149.216.162.bc.googleusercontent.com
-31.150.216.162.bc.googleusercontent.com
 36-239-252-44.dynamic-ip.hinet.net
 43.149.216.162.bc.googleusercontent.com
 48.146.230.35.bc.googleusercontent.com
@@ -50,13 +47,11 @@ client.yota.ru
 cohogs.usienspire.com
 crawler250.deepfield.net
 dal215.hawkhost.com
-ded122469.smartservers.com.au
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-138.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
@@ -70,7 +65,6 @@ scan-04i.shadowserver.io
 scan-08g.shadowserver.io
 scan-60.security.ipip.net
 scan-70-00.shadowserver.io
-scan-79-00.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
@@ -78,4 +72,5 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
 user-170-39-227-251.sea02.us.misaka.io
+user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
