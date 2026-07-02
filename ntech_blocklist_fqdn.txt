@@ -17,11 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+111.149.216.162.bc.googleusercontent.com
 114-33-53-60.hinet-ip.hinet.net
 124.101.156.34.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 144.202.92.17.vultrusercontent.com
-144.211.203.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
 159.132.34.34.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
@@ -38,13 +38,10 @@
 234.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
-36-231-82-20.dynamic-ip.hinet.net
 48.146.230.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 56.212.126.34.bc.googleusercontent.com
 57.109.156.34.bc.googleusercontent.com
-65.150.216.162.bc.googleusercontent.com
-77.149.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
@@ -61,8 +58,9 @@ hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
-ip244.ip-46-105-160.eu
 ip29.sudolio.io
+li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
