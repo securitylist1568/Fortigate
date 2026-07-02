@@ -25,7 +25,6 @@
 144.211.203.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
 159.132.34.34.bc.googleusercontent.com
-17.210.203.35.bc.googleusercontent.com
 170.144.78.34.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-104-21-133.ip.linodeusercontent.com
@@ -35,7 +34,6 @@
 192-3-154-48-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
 194.139.156.34.bc.googleusercontent.com
-195.180.187.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 205.210.203.35.bc.googleusercontent.com
 214.40.62.34.bc.googleusercontent.com
@@ -47,7 +45,6 @@
 36-231-82-20.dynamic-ip.hinet.net
 36-233-247-127.dynamic-ip.hinet.net
 38.123.195.35.bc.googleusercontent.com
-40.210.203.35.bc.googleusercontent.com
 43.157.76.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 56.167.76.34.bc.googleusercontent.com
@@ -55,8 +52,7 @@
 57.109.156.34.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
-87.149.216.162.bc.googleusercontent.com
-91.211.203.35.bc.googleusercontent.com
+87.150.216.162.bc.googleusercontent.com
 99.243.53.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -68,13 +64,11 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host232.net162-226-38.enatrel.ni
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-22.4vendeta.com
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-o031.scanner.modat.io
 o601.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
