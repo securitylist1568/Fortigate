@@ -34,6 +34,7 @@
 176.31.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
+189.150.216.162.bc.googleusercontent.com
 194.139.156.34.bc.googleusercontent.com
 195.180.187.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
@@ -123,6 +124,7 @@ s49309.vps.hosting
 scan-13l.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
+scan-58.security.ipip.net
 scan-69-05.shadowserver.io
 scan-76-03.shadowserver.io
 scan-81-0.shadowserver.io
