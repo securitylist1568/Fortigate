@@ -29,6 +29,7 @@
 16.68.79.34.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 170.144.78.34.bc.googleusercontent.com
+170.150.216.162.bc.googleusercontent.com
 172-104-21-133.ip.linodeusercontent.com
 175.68.199.104.bc.googleusercontent.com
 176.31.156.34.bc.googleusercontent.com
@@ -95,6 +96,7 @@ scan-74-02.shadowserver.io
 scan-79-08.shadowserver.io
 scan-81-0.shadowserver.io
 scan-84-0.shadowserver.io
+scan-85-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
