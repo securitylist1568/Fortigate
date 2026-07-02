@@ -56,6 +56,8 @@
 45.63.4.69.vultrusercontent.com
 56.167.76.34.bc.googleusercontent.com
 57.109.156.34.bc.googleusercontent.com
+65.150.216.162.bc.googleusercontent.com
+77.149.216.162.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
