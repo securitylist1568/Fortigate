@@ -40,8 +40,14 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
+azpdesrind7l.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
+azpdsglq54br.stretchoid.com
+azpdss1xstrn.stretchoid.com
 azpdss5q5gjp.stretchoid.com
+azpdsskp8muf.stretchoid.com
+azpdsst75set.stretchoid.com
+azpdwsayyn3f.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
@@ -68,6 +74,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
+ur732opwjulj.cloud.instance
 user-170-39-227-251.sea02.us.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
