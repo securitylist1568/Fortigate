@@ -28,12 +28,15 @@
 192-3-154-48-host.colocrossing.com
 194-195-122-95.ip.linodeusercontent.com
 198.210.203.35.bc.googleusercontent.com
+225.23.76.34.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
+239.65.240.35.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
+90.150.38.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
