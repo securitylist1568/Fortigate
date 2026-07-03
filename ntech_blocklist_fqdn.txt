@@ -41,14 +41,13 @@
 225.23.76.34.bc.googleusercontent.com
 241.84.62.34.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
-29.150.216.162.bc.googleusercontent.com
+252.210.203.35.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 48.146.230.35.bc.googleusercontent.com
 57.29.76.34.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
-68.210.203.35.bc.googleusercontent.com
 82.245.53.34.bc.googleusercontent.com
 86.245.78.34.bc.googleusercontent.com
 90.150.38.34.bc.googleusercontent.com
@@ -70,6 +69,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+proxy-12.default-host.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
