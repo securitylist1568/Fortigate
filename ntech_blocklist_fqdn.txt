@@ -32,6 +32,7 @@
 199.149.216.162.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
+249.210.203.35.bc.googleusercontent.com
 36-239-252-44.dynamic-ip.hinet.net
 43.149.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
@@ -87,6 +88,7 @@ pinkytales.com
 prod-neon-ap-southeast-0.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-04f.shadowserver.io
 scan-45o.shadowserver.io
 scan-63-13.shadowserver.io
@@ -101,3 +103,4 @@ user-170-39-227-251.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
+www.internet-albedo.net
