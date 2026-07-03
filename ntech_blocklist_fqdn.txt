@@ -20,7 +20,6 @@
 118-168-199-12.dynamic-ip.hinet.net
 120.149.216.162.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
-136.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,12 +28,8 @@
 192-3-154-48-host.colocrossing.com
 194-195-122-95.ip.linodeusercontent.com
 198.210.203.35.bc.googleusercontent.com
-199.149.216.162.bc.googleusercontent.com
-199.150.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 249.210.203.35.bc.googleusercontent.com
-36-239-252-44.dynamic-ip.hinet.net
-43.149.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
@@ -71,7 +66,6 @@ azpdws0frgb6.stretchoid.com
 azpdwsayyn3f.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler250.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -79,7 +73,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-106.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1625-135.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
@@ -97,7 +90,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
-toro.itapizaco.edu.mx
 ur732opwjulj.cloud.instance
 user-170-39-227-251.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
