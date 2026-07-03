@@ -45,6 +45,7 @@
 61-221-145-123.hinet-ip.hinet.net
 63.150.216.162.bc.googleusercontent.com
 67.210.203.35.bc.googleusercontent.com
+68.210.203.35.bc.googleusercontent.com
 90.150.38.34.bc.googleusercontent.com
 90.43.140.34.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
