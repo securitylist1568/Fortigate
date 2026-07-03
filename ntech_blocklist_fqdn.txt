@@ -20,6 +20,7 @@
 118-168-199-12.dynamic-ip.hinet.net
 120.149.216.162.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
+13.31.38.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -76,9 +77,11 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-106.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1625-135.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
+ns5037865.ip-148-113-228.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-neon-ap-southeast-0.li.binaryedge.ninja
