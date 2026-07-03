@@ -70,5 +70,7 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.181.149.98.91.clients.your-server.de
+static.243.161.233.167.clients.your-server.de
 static.35.36.42.77.clients.your-server.de
 users219.vip.heteml.jp
