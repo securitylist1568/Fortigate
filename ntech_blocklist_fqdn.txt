@@ -28,6 +28,7 @@
 198.211.203.35.bc.googleusercontent.com
 21.210.203.35.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
+225.23.76.34.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
 241.24.189.107.static.cloudzy.com
 241.92.140.34.bc.googleusercontent.com
@@ -43,6 +44,7 @@
 63.150.216.162.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 86.245.78.34.bc.googleusercontent.com
+90.150.38.34.bc.googleusercontent.com
 90.43.140.34.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
