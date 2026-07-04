@@ -21,9 +21,10 @@
 123.211.203.35.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
+155.149.216.162.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
-176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+185.150.216.162.bc.googleusercontent.com
 192-3-154-48-host.colocrossing.com
 216-244-76-74-reverse.wowrack.com
 252.150.216.162.bc.googleusercontent.com
@@ -41,6 +42,8 @@ fi-3289.hosted-by.shinomiya-hosting.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip88.ip-51-81-22.us
+l608.scanner.modat.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 mx1.songxuange.cc
@@ -49,12 +52,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14l.shadowserver.io
-scan-52k.shadowserver.io
 scan-58a.shadowserver.io
 scan-70-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
 vmi3177928.contaboserver.net
