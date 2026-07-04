@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-223-4.dynamic-ip.hinet.net
+12.172.156.34.bc.googleusercontent.com
 123.149.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 128.162.62.34.bc.googleusercontent.com
@@ -48,6 +49,7 @@
 246.150.241.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
+42.64.87.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 56.210.203.35.bc.googleusercontent.com
 74.35.156.34.bc.googleusercontent.com
@@ -90,6 +92,8 @@ static.51.156.34.188.clients.your-server.de
 static.73.141.62.46.clients.your-server.de
 static.74.171.233.167.clients.your-server.de
 static.80.234.233.167.clients.your-server.de
+static.vnpt-hanoi.com.vn
 undefined.hostname.localhost
+unn-207-211-214-162.datapacket.com
 user-38-175-113-237.ist01.tr.misaka.io
 users219.vip.heteml.jp
