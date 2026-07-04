@@ -60,6 +60,17 @@ dal215.hawkhost.com
 dedicated.vsys.host
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-100-58-116-226.compute-1.amazonaws.com
+ec2-18-212-229-32.compute-1.amazonaws.com
+ec2-18-234-140-213.compute-1.amazonaws.com
+ec2-184-72-64-42.compute-1.amazonaws.com
+ec2-3-82-209-93.compute-1.amazonaws.com
+ec2-34-205-72-252.compute-1.amazonaws.com
+ec2-44-201-107-251.compute-1.amazonaws.com
+ec2-52-91-204-84.compute-1.amazonaws.com
+ec2-52-91-228-25.compute-1.amazonaws.com
+ec2-54-159-49-205.compute-1.amazonaws.com
+ec2-54-237-223-62.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
