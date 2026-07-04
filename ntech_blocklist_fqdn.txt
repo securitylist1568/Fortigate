@@ -21,6 +21,7 @@
 130.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
 143.130.62.34.bc.googleusercontent.com
+149.210.203.35.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 169.94.177.195.in-addr.arpa
@@ -85,6 +86,7 @@ crawler088.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+fi-3289.hosted-by.shinomiya-hosting.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
@@ -107,6 +109,7 @@ scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-52c.shadowserver.io
 scan-52k.shadowserver.io
+scan-58a.shadowserver.io
 scan-61-4.shadowserver.io
 scanner-771-6.zern.io
 security.criminalip.com
