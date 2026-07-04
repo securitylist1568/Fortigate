@@ -33,6 +33,7 @@
 186.149.216.162.bc.googleusercontent.com
 189.150.216.162.bc.googleusercontent.com
 201134.ip-ptr.tech
+203.149.216.162.bc.googleusercontent.com
 208.210.203.35.bc.googleusercontent.com
 209.116.195.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
@@ -47,6 +48,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+customer-hmo-83-15.megared.net.mx
 dal215.hawkhost.com
 dedicated.vsys.host
 dns12.online.tj.cn
