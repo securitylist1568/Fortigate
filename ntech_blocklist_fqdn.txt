@@ -22,11 +22,8 @@
 185-45-195-15.hostsailor.com
 185.150.216.162.bc.googleusercontent.com
 19.129.196.104.bc.googleusercontent.com
-192-3-154-48-host.colocrossing.com
 194.211.203.35.bc.googleusercontent.com
-216-244-76-74-reverse.wowrack.com
 248.211.203.35.bc.googleusercontent.com
-58.150.216.162.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
 65.219.41.34.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
@@ -43,7 +40,6 @@ ip244.ip-46-105-160.eu
 ip29.sudolio.io
 ip88.ip-51-81-22.us
 l608.scanner.modat.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
