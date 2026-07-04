@@ -27,16 +27,13 @@
 142.199.38.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 144.92.74.97.host.secureserver.net
-16.150.216.162.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
 192-3-154-48-host.colocrossing.com
-204.211.203.35.bc.googleusercontent.com
 208.150.216.162.bc.googleusercontent.com
 208.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
-227.150.216.162.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
@@ -47,7 +44,6 @@
 82.150.216.162.bc.googleusercontent.com
 82.245.53.34.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -59,7 +55,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-lisbon.portugal.com
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
@@ -70,6 +65,7 @@ r4006.compute.pao1.edc.strln.net
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
+srv63019.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.181.149.98.91.clients.your-server.de
 static.208.170.225.46.clients.your-server.de
@@ -80,4 +76,5 @@ static.35.36.42.77.clients.your-server.de
 static.51.156.34.188.clients.your-server.de
 static.73.141.62.46.clients.your-server.de
 static.74.171.233.167.clients.your-server.de
+static.80.234.233.167.clients.your-server.de
 users219.vip.heteml.jp
