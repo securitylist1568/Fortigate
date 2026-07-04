@@ -39,6 +39,7 @@
 42.64.87.34.bc.googleusercontent.com
 45-143-198-140.as212027.host
 74.35.156.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
 azpdcgkm3iag.stretchoid.com
@@ -122,6 +123,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-07e.shadowserver.io
+scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-61-7.shadowserver.io
 scan-79-09.shadowserver.io
