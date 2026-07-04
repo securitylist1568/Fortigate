@@ -24,6 +24,7 @@
 143.130.62.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 150.128.156.34.bc.googleusercontent.com
+169.94.177.195.in-addr.arpa
 172-104-100-28.ip.linodeusercontent.com
 173.124.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
