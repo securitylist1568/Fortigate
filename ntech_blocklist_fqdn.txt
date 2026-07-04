@@ -26,7 +26,9 @@
 157.149.216.162.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+192-3-154-48-host.colocrossing.com
 204.76.203.30.ptr.pfcloud.network
+216-244-76-74-reverse.wowrack.com
 252.150.216.162.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
 65.219.41.34.bc.googleusercontent.com
