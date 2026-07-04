@@ -23,7 +23,7 @@
 137.211.203.35.bc.googleusercontent.com
 143.130.62.34.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
-166.211.203.35.bc.googleusercontent.com
+157.149.216.162.bc.googleusercontent.com
 173.124.38.34.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
@@ -35,7 +35,6 @@
 65.219.41.34.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -50,8 +49,6 @@ ip-56-254.4vendeta.com
 ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 mx1.songxuange.cc
@@ -62,8 +59,6 @@ recyber.net
 rping.ipip.net
 scan-14l.shadowserver.io
 scan-15i.shadowserver.io
-scan-45o.shadowserver.io
-scan-47k.shadowserver.io
 scan-52c.shadowserver.io
 scan-52k.shadowserver.io
 scan-58a.shadowserver.io
@@ -73,7 +68,6 @@ scanner-771-6.zern.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.103.244.168.204.clients.your-server.de
 undefined.hostname.localhost
 user-170-39-227-143.sea02.us.misaka.io
 users219.vip.heteml.jp
