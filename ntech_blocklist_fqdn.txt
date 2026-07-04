@@ -19,8 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-223-4.dynamic-ip.hinet.net
 123.211.203.35.bc.googleusercontent.com
-130.211.203.35.bc.googleusercontent.com
-149.210.203.35.bc.googleusercontent.com
+136.150.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,7 +28,6 @@
 216-244-76-74-reverse.wowrack.com
 252.150.216.162.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
-7.210.203.35.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -38,7 +36,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-fi-3289.hosted-by.shinomiya-hosting.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -52,7 +49,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14l.shadowserver.io
-scan-58a.shadowserver.io
 scan-70-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
