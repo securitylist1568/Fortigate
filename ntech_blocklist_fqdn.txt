@@ -22,8 +22,10 @@
 128.150.216.162.bc.googleusercontent.com
 128.162.62.34.bc.googleusercontent.com
 130.134.81.34.bc.googleusercontent.com
+131.150.216.162.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 142.199.38.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 144.92.74.97.host.secureserver.net
 16.150.216.162.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
@@ -33,6 +35,7 @@
 204.211.203.35.bc.googleusercontent.com
 208.150.216.162.bc.googleusercontent.com
 208.210.203.35.bc.googleusercontent.com
+214.149.216.162.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
@@ -69,6 +72,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.181.149.98.91.clients.your-server.de
+static.208.170.225.46.clients.your-server.de
 static.243.161.233.167.clients.your-server.de
 static.31.160.233.167.clients.your-server.de
 static.34.205.105.178.clients.your-server.de
