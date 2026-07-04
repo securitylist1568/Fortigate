@@ -18,16 +18,17 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 12.172.156.34.bc.googleusercontent.com
+130.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
 143.130.62.34.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 169.94.177.195.in-addr.arpa
 173.124.38.34.bc.googleusercontent.com
+176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
 195.103.34.34.bc.googleusercontent.com
-203.149.216.162.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 209.116.195.35.bc.googleusercontent.com
 218.27.79.34.bc.googleusercontent.com
@@ -81,7 +82,6 @@ azpdwspg5atk.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler088.deepfield.net
-customer-hmo-83-15.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -106,6 +106,7 @@ scan-15i.shadowserver.io
 scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-52c.shadowserver.io
+scan-52k.shadowserver.io
 scan-61-4.shadowserver.io
 scanner-771-6.zern.io
 security.criminalip.com
