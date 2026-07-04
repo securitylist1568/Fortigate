@@ -19,10 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-223-4.dynamic-ip.hinet.net
 12.172.156.34.bc.googleusercontent.com
-128.150.216.162.bc.googleusercontent.com
-130.134.81.34.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
 142.199.38.34.bc.googleusercontent.com
 143.130.62.34.bc.googleusercontent.com
@@ -35,7 +32,6 @@
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 189.150.216.162.bc.googleusercontent.com
-192-3-154-48-host.colocrossing.com
 201134.ip-ptr.tech
 208.210.203.35.bc.googleusercontent.com
 209.116.195.35.bc.googleusercontent.com
@@ -44,7 +40,6 @@
 232.231.76.34.bc.googleusercontent.com
 246.150.241.35.bc.googleusercontent.com
 42.64.87.34.bc.googleusercontent.com
-45.63.4.69.vultrusercontent.com
 56.210.203.35.bc.googleusercontent.com
 74.35.156.34.bc.googleusercontent.com
 82.245.53.34.bc.googleusercontent.com
@@ -55,7 +50,6 @@ client.yota.ru
 dal215.hawkhost.com
 dedicated.vsys.host
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-100-58-116-226.compute-1.amazonaws.com
 ec2-13-218-201-98.compute-1.amazonaws.com
 ec2-13-222-142-21.compute-1.amazonaws.com
@@ -89,8 +83,6 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r2005.compute.pao1.edc.strln.net
-r4006.compute.pao1.edc.strln.net
 recyber.net
 scan-06g.shadowserver.io
 scan-07e.shadowserver.io
@@ -110,7 +102,6 @@ static.208.170.225.46.clients.your-server.de
 static.243.161.233.167.clients.your-server.de
 static.31.160.233.167.clients.your-server.de
 static.34.205.105.178.clients.your-server.de
-static.35.36.42.77.clients.your-server.de
 static.51.156.34.188.clients.your-server.de
 static.73.141.62.46.clients.your-server.de
 static.74.171.233.167.clients.your-server.de
