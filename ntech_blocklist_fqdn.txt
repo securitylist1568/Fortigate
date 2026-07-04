@@ -23,7 +23,6 @@
 12.172.156.34.bc.googleusercontent.com
 123.149.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
-128.162.62.34.bc.googleusercontent.com
 130.134.81.34.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
 142.199.38.34.bc.googleusercontent.com
@@ -43,7 +42,6 @@
 209.116.195.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 218.27.79.34.bc.googleusercontent.com
-228.149.216.162.bc.googleusercontent.com
 232.231.76.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 246.150.241.35.bc.googleusercontent.com
@@ -65,7 +63,10 @@ dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-90.4vendeta.com
+ip-56-214.4vendeta.com
 ip29.sudolio.io
+knowfax.org.uk
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
