@@ -63,6 +63,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+fi-3289.hosted-by.shinomiya-hosting.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-114.4vendeta.com
