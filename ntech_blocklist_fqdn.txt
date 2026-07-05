@@ -50,5 +50,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-170-39-224-220.iad03.us.misaka.io
+user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
