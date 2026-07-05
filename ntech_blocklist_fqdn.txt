@@ -33,6 +33,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
