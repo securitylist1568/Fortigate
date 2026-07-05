@@ -78,6 +78,7 @@ client.yota.ru
 crawler127.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dsl-198-0-167-189-dynamic.prod-infinitum.com.mx
 ec2-100-58-171-235.compute-1.amazonaws.com
 ec2-107-21-135-85.compute-1.amazonaws.com
 ec2-13-218-224-41.compute-1.amazonaws.com
@@ -106,6 +107,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 knowfax.org.uk
+li1537-121.members.linode.com
+li1570-11.members.linode.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
