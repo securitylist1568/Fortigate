@@ -62,6 +62,7 @@
 62-210-113-113.rev.poneytelecom.eu
 7.34.77.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
+71.149.216.162.bc.googleusercontent.com
 72.174.173.34.bc.googleusercontent.com
 72.85.140.34.bc.googleusercontent.com
 79.124.56.142.superbit.host
