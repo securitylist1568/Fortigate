@@ -28,7 +28,6 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 157.211.203.35.bc.googleusercontent.com
-160-119-71-129.ptr.as49870.net
 166.211.203.35.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -43,6 +42,7 @@
 202.139.198.104.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 21.39.113.136.bc.googleusercontent.com
+212.211.203.35.bc.googleusercontent.com
 212.78.130.34.bc.googleusercontent.com
 216.255.156.34.bc.googleusercontent.com
 219.15.240.35.bc.googleusercontent.com
@@ -76,7 +76,6 @@ babylon.scan.bufferover.run
 client.yota.ru
 crawler127.deepfield.net
 dal215.hawkhost.com
-dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 ec2-100-58-171-235.compute-1.amazonaws.com
 ec2-107-21-135-85.compute-1.amazonaws.com
@@ -125,6 +124,6 @@ scan-76-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-170-39-224-220.iad03.us.misaka.io
+toro.itapizaco.edu.mx
 user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
