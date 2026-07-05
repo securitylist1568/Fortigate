@@ -50,6 +50,7 @@ dsl-198-0-167-189-dynamic.prod-infinitum.com.mx
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-114.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-22.4vendeta.com
 ip-58-74.4vendeta.com
@@ -58,6 +59,7 @@ ip-59-22.4vendeta.com
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
+mail.camtel.cm
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -71,6 +73,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
+user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 vmi2561107.contaboserver.net
 xds5yhgv8.inventionmarkets.info
