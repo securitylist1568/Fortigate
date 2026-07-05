@@ -80,6 +80,7 @@ ip-58-74.4vendeta.com
 ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.camtel.cm
 mfyabgec.musicpda.com
@@ -94,6 +95,7 @@ scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-95.serveroffer.net
+srv51224.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.144.150.217.95.clients.your-server.de
 user-45-150-242-95.tpe01.tw.misaka.io
