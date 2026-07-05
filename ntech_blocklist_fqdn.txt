@@ -28,7 +28,7 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 157.211.203.35.bc.googleusercontent.com
-166.211.203.35.bc.googleusercontent.com
+172-105-95-83.ip.linodeusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -52,6 +52,7 @@
 247.149.216.162.bc.googleusercontent.com
 25.159.114.136.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
+255.187.195.35.bc.googleusercontent.com
 34.33.175.207.bc.googleusercontent.com
 43.39.64.136.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -69,7 +70,6 @@
 79.124.56.142.superbit.host
 84.118.119.136.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
-88.211.203.35.bc.googleusercontent.com
 99.83.155.104.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -118,17 +118,14 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-02k.shadowserver.io
-scan-40e.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
-scan-45o.shadowserver.io
 scan-58a.shadowserver.io
-scan-68-08.shadowserver.io
-scan-76-02.shadowserver.io
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
-user-185-234-213-135.zrh01.ch.misaka.io
 users219.vip.heteml.jp
