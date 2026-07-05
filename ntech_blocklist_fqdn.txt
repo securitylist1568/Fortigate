@@ -20,8 +20,8 @@
 136.150.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-185.150.216.162.bc.googleusercontent.com
 19.129.196.104.bc.googleusercontent.com
+192-3-154-48-host.colocrossing.com
 194.211.203.35.bc.googleusercontent.com
 248.211.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
@@ -39,8 +39,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
-ip88.ip-51-81-22.us
-l608.scanner.modat.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
