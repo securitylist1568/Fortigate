@@ -23,11 +23,9 @@
 128.211.22.34.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 14.89.211.130.bc.googleusercontent.com
-172-105-95-83.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 212.78.130.34.bc.googleusercontent.com
 219.15.240.35.bc.googleusercontent.com
-224.211.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 255.187.195.35.bc.googleusercontent.com
 34.33.175.207.bc.googleusercontent.com
@@ -37,15 +35,16 @@
 66-175-214-69.ip.linodeusercontent.com
 69-164-210-20.ip.linodeusercontent.com
 7.34.77.34.bc.googleusercontent.com
-71.149.216.162.bc.googleusercontent.com
 72.85.140.34.bc.googleusercontent.com
 99.83.155.104.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+azpdcgagzb8p.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
 azpdcgrbfvbu.stretchoid.com
 azpdcs19ivb5.stretchoid.com
 azpdesrind7l.stretchoid.com
+azpdesxe24x7.stretchoid.com
 azpdsg0jbem4.stretchoid.com
 azpdsg56zpoo.stretchoid.com
 azpdsg58gbbx.stretchoid.com
@@ -70,7 +69,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dsl-198-0-167-189-dynamic.prod-infinitum.com.mx
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -81,8 +79,7 @@ ip-58-74.4vendeta.com
 ip-59-10.superbit.host
 ip-59-22.4vendeta.com
 ip29.sudolio.io
-li1537-121.members.linode.com
-li1570-11.members.linode.com
+li1873-236.members.linode.com
 mail.camtel.cm
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -93,7 +90,6 @@ rootevidence.com
 scan-73-02.shadowserver.io
 scan-79-08.shadowserver.io
 scan-85-3.shadowserver.io
-scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-95.serveroffer.net
