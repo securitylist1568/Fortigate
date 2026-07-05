@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 136.150.216.162.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
+166.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.129.196.104.bc.googleusercontent.com
 192-3-154-48-host.colocrossing.com
@@ -28,6 +29,7 @@
 65.149.216.162.bc.googleusercontent.com
 65.219.41.34.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
+88.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -46,6 +48,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40e.shadowserver.io
+scan-68-08.shadowserver.io
+scan-76-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
