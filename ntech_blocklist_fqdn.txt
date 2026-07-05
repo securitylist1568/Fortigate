@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 136.150.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
+160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
 19.129.196.104.bc.googleusercontent.com
 192-3-154-48-host.colocrossing.com
