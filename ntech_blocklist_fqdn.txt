@@ -123,6 +123,7 @@ scan-02k.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
 scan-58a.shadowserver.io
+scan-85-3.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
