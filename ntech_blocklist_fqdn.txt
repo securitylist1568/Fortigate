@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-223-4.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+192-3-154-48-host.colocrossing.com
 4.zlabs.dev
 aim.sba-research.org
 amz.unixwiz.net
