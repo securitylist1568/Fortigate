@@ -23,13 +23,14 @@
 128.211.22.34.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 14.89.211.130.bc.googleusercontent.com
+153.167.220.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 212.78.130.34.bc.googleusercontent.com
 219.15.240.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
-255.187.195.35.bc.googleusercontent.com
 34.33.175.207.bc.googleusercontent.com
 36-232-3-120.dynamic-ip.hinet.net
+42.123.243.83.in-addr.arpa
 45-33-64-217.ip.linodeusercontent.com
 45-79-143-43.ip.linodeusercontent.com
 60-249-14-121.hinet-ip.hinet.net
@@ -91,7 +92,6 @@ recyber.net
 rootevidence.com
 scan-73-02.shadowserver.io
 scan-79-08.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-91-224-92-95.serveroffer.net
