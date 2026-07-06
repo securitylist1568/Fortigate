@@ -18,15 +18,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-173.244.210.34.static.midphase.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
 197.195.189.35.bc.googleusercontent.com
-216.240.156.34.bc.googleusercontent.com
 4.zlabs.dev
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 74.3.180.34.bc.googleusercontent.com
-99.203.76.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
@@ -75,7 +72,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-102.4vendeta.com
 ip29.sudolio.io
 ip88.ip-51-81-22.us
-juiceside.net
 li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
