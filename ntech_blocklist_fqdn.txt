@@ -35,7 +35,9 @@
 197.195.189.35.bc.googleusercontent.com
 201134.ip-ptr.tech
 207.148.156.34.bc.googleusercontent.com
+212.122.195.35.bc.googleusercontent.com
 216.240.156.34.bc.googleusercontent.com
+220.125.140.34.bc.googleusercontent.com
 224.48.14.34.bc.googleusercontent.com
 249.80.76.34.bc.googleusercontent.com
 254.32.140.34.bc.googleusercontent.com
@@ -75,8 +77,10 @@ scan-81-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spk.laws.ms
+srv-91-224-92-95.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
+user-102-130-49-90.jnb01.za.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi3406700.contaboserver.net
