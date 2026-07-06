@@ -48,6 +48,7 @@
 80.240.25.142.vultrusercontent.com
 97-107-129-7.ip.linodeusercontent.com
 99.203.76.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
