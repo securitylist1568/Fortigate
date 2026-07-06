@@ -20,12 +20,17 @@
 115.231.111.136.bc.googleusercontent.com
 118-168-223-4.dynamic-ip.hinet.net
 153.167.220.35.bc.googleusercontent.com
+160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
+20.14.42.34.bc.googleusercontent.com
+21.158.27.34.bc.googleusercontent.com
 212.122.195.35.bc.googleusercontent.com
 22.238.156.34.bc.googleusercontent.com
 220.125.140.34.bc.googleusercontent.com
+54.79.65.136.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
+75.107.240.35.bc.googleusercontent.com
 89.254.118.34.bc.googleusercontent.com
 97-107-135-252.ip.linodeusercontent.com
 aim.sba-research.org
@@ -73,6 +78,7 @@ scan-15i.shadowserver.io
 scan-40e.shadowserver.io
 scan-60-12.shadowserver.io
 scan-83-7.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
