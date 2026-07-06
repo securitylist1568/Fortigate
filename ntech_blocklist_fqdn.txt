@@ -24,7 +24,6 @@
 156.50.156.34.bc.googleusercontent.com
 160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
-192-3-154-48-host.colocrossing.com
 20.14.42.34.bc.googleusercontent.com
 21.158.27.34.bc.googleusercontent.com
 212.122.195.35.bc.googleusercontent.com
@@ -69,7 +68,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip31-70-78-114.pbiaas.com
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 out-athlete.winningbells.com
 pc112.cses.ilc.edu.tw
@@ -77,6 +75,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-15i.shadowserver.io
 scan-40e.shadowserver.io
 scan-60-12.shadowserver.io
