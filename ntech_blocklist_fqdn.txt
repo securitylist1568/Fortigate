@@ -29,6 +29,7 @@
 183.210.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.209.156.34.bc.googleusercontent.com
+194-195-253-86.ip.linodeusercontent.com
 197.195.189.35.bc.googleusercontent.com
 201134.ip-ptr.tech
 207.148.156.34.bc.googleusercontent.com
@@ -44,6 +45,7 @@
 49.16.155.104.bc.googleusercontent.com
 60.79.140.34.bc.googleusercontent.com
 69.130.251.23.bc.googleusercontent.com
+74.3.180.34.bc.googleusercontent.com
 80.240.25.142.vultrusercontent.com
 97-107-129-7.ip.linodeusercontent.com
 99.203.76.34.bc.googleusercontent.com
@@ -54,6 +56,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -71,6 +74,7 @@ scan-71-05.shadowserver.io
 scan-81-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spk.laws.ms
 srv-91-224-92-95.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
@@ -79,3 +83,4 @@ user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi3406700.contaboserver.net
 www.internet-albedo.net
+zhangyuan3.virtuaserver.com.br
