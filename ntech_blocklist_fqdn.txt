@@ -21,12 +21,8 @@
 173.244.210.34.static.midphase.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
-197.195.189.35.bc.googleusercontent.com
-207.148.156.34.bc.googleusercontent.com
 216.240.156.34.bc.googleusercontent.com
-254.32.140.34.bc.googleusercontent.com
 4.zlabs.dev
-62-210-113-113.rev.poneytelecom.eu
 99.203.76.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -42,6 +38,7 @@ azpdespq7q3k.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg0p0xel.stretchoid.com
 azpdsg41vonp.stretchoid.com
+azpdsg492br4.stretchoid.com
 azpdsg56zpoo.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
