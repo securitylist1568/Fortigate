@@ -28,7 +28,6 @@
 182.11.14.34.bc.googleusercontent.com
 183.210.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-185.209.156.34.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 197.195.189.35.bc.googleusercontent.com
 201134.ip-ptr.tech
@@ -36,13 +35,13 @@
 212.122.195.35.bc.googleusercontent.com
 216.240.156.34.bc.googleusercontent.com
 220.125.140.34.bc.googleusercontent.com
-224.48.14.34.bc.googleusercontent.com
 249.80.76.34.bc.googleusercontent.com
 254.32.140.34.bc.googleusercontent.com
 33.111.205.35.bc.googleusercontent.com
 35.3.38.34.bc.googleusercontent.com
 43.48.175.207.bc.googleusercontent.com
 49.16.155.104.bc.googleusercontent.com
+54.79.65.136.bc.googleusercontent.com
 60.79.140.34.bc.googleusercontent.com
 69.130.251.23.bc.googleusercontent.com
 74.3.180.34.bc.googleusercontent.com
@@ -60,15 +59,12 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rogers.probe.onyphe.net
 rootevidence.com
-s4850.vps.hosting
 scan-56f.shadowserver.io
 scan-70-00.shadowserver.io
 scan-71-05.shadowserver.io
@@ -84,5 +80,4 @@ undefined.hostname.localhost
 user-102-130-49-90.jnb01.za.misaka.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
-vmi3406700.contaboserver.net
 zhangyuan3.virtuaserver.com.br
