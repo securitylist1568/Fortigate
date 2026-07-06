@@ -20,6 +20,7 @@
 172-232-121-108.ip.linodeusercontent.com
 173.244.210.34.static.midphase.com
 185-45-195-15.hostsailor.com
+192-3-154-48-host.colocrossing.com
 197.195.189.35.bc.googleusercontent.com
 207.148.156.34.bc.googleusercontent.com
 216.240.156.34.bc.googleusercontent.com
