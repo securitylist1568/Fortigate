@@ -23,7 +23,9 @@
 140-20-196-131.cybertelecom.net.br
 140.202.62.34.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
+164.27.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 208.87.199.104.bc.googleusercontent.com
 218.0.38.34.bc.googleusercontent.com
 233.62.40.34.bc.googleusercontent.com
