@@ -37,6 +37,7 @@
 69-164-215-116.ip.linodeusercontent.com
 7.134.77.34.bc.googleusercontent.com
 70.223.241.35.bc.googleusercontent.com
+85.225.107.89.in-addr.arpa.dgntek.com
 98.151.52.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -49,7 +50,15 @@ ecs-139-9-203-120.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
+hn.ly.kd.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-158.4vendeta.com
+ip-56-254.4vendeta.com
+ip-58-22.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-74.4vendeta.com
+ip-59-10.superbit.host
+ip-59-22.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
