@@ -72,7 +72,6 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-102.4vendeta.com
 ip29.sudolio.io
 ip88.ip-51-81-22.us
 li1570-11.members.linode.com
@@ -93,4 +92,3 @@ smtp1.telemach.net
 srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vm15289029.example.com
