@@ -62,9 +62,11 @@ recyber.net
 scan-02m.shadowserver.io
 scan-14h.shadowserver.io
 scan-53j.shadowserver.io
+scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
+user-170-39-227-251.sea02.us.misaka.io
 user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
