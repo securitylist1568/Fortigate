@@ -27,6 +27,7 @@
 208.87.199.104.bc.googleusercontent.com
 218.0.38.34.bc.googleusercontent.com
 233.62.40.34.bc.googleusercontent.com
+31.247.53.34.bc.googleusercontent.com
 49.207.40.34.bc.googleusercontent.com
 61.99.199.104.bc.googleusercontent.com
 7.134.77.34.bc.googleusercontent.com
