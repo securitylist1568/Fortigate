@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-223-4.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-192-3-154-48-host.colocrossing.com
 197.195.189.35.bc.googleusercontent.com
 216.240.156.34.bc.googleusercontent.com
 4.zlabs.dev
@@ -65,7 +64,6 @@ azpdwskkdiex.stretchoid.com
 azpdwsmvd288.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
-church.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -84,13 +82,13 @@ mail.camtel.cm
 mfyabgec.musicpda.com
 miller.mastersocialize.org.uk
 new-ubuntu20223240.aspadmin.net
+ns3183647.ip-146-59-252.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vm15289029.example.com
