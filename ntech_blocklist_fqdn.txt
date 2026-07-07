@@ -27,6 +27,7 @@
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
+204.76.203.77.ptr.pfcloud.network
 223.105.79.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 31.247.53.34.bc.googleusercontent.com
