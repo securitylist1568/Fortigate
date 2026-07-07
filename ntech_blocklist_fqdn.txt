@@ -72,6 +72,8 @@ scan-02m.shadowserver.io
 scan-55c.shadowserver.io
 scan-56f.shadowserver.io
 scan-63-9.shadowserver.io
+scan-70-00.shadowserver.io
+scan-77-06.shadowserver.io
 scan-79-08.shadowserver.io
 scan-79-09.shadowserver.io
 security.criminalip.com
