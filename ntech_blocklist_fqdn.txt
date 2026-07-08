@@ -64,10 +64,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-07e.shadowserver.io
 scan-42i.shadowserver.io
 scan-45o.shadowserver.io
 scan-58.security.ipip.net
 scan-76-02.shadowserver.io
+scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
