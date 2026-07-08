@@ -70,15 +70,19 @@ azpdsg41vonp.stretchoid.com
 azpdsg492br4.stretchoid.com
 azpdsg52g7h9.stretchoid.com
 azpdsg5u7uqc.stretchoid.com
+azpdsg8708op.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
+azpdsse1zlrx.stretchoid.com
 azpdssee30ij.stretchoid.com
 azpdsshab2op.stretchoid.com
 azpdssm71sbu.stretchoid.com
 azpdssml72hw.stretchoid.com
 azpdssp7vjwc.stretchoid.com
+azpdssumseh6.stretchoid.com
 azpdssxq24h7.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 azpdws89w8v2.stretchoid.com
+azpdwsdsncxt.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler013.deepfield.net
@@ -133,6 +137,7 @@ security.criminalip.com
 smtp1.telemach.net
 spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 toro.itapizaco.edu.mx
 users219.vip.heteml.jp
 xds5yhgv8.inventionmarkets.info
