@@ -19,6 +19,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 115.231.111.136.bc.googleusercontent.com
 118-168-248-204.dynamic-ip.hinet.net
+132.129.116.136.bc.googleusercontent.com
+132.189.116.136.bc.googleusercontent.com
 137.195.119.136.bc.googleusercontent.com
 173-255-236-47.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -55,6 +57,7 @@ ip158.ip-72-251-5.net
 ip29.sudolio.io
 ip88.ip-51-81-22.us
 li1570-11.members.linode.com
+lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -64,12 +67,12 @@ rootevidence.com
 scan-42i.shadowserver.io
 scan-45o.shadowserver.io
 scan-58.security.ipip.net
+scan-76-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 toro.itapizaco.edu.mx
 unn-138-199-53-212.datapacket.com
 user-170-39-227-251.sea02.us.misaka.io
-user-45-150-242-95.tpe01.tw.misaka.io
 users219.vip.heteml.jp
 xds5yhgv8.inventionmarkets.info
