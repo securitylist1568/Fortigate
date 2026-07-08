@@ -32,6 +32,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 gponuser38255-18.wateen.net
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
@@ -57,6 +58,5 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.109.175.107.91.clients.your-server.de
 trafo.kz
-user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
 vps3414078.trouble-free.net
