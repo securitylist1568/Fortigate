@@ -59,6 +59,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-58a.shadowserver.io
+scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
@@ -66,3 +67,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
 user-185-209-85-233.mow01.ru.misaka.io
 users219.vip.heteml.jp
+vps3414078.trouble-free.net
