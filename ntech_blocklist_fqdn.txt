@@ -21,7 +21,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.150.216.162.bc.googleusercontent.com
+118-168-248-204.dynamic-ip.hinet.net
 151.149.216.162.bc.googleusercontent.com
+171.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 194-195-122-95.ip.linodeusercontent.com
@@ -61,6 +63,7 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
+srv-91-224-92-95.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.109.175.107.91.clients.your-server.de
 trafo.kz
