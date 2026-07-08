@@ -37,7 +37,6 @@
 200.160.125.34.bc.googleusercontent.com
 205.114.205.35.bc.googleusercontent.com
 209.40.14.34.bc.googleusercontent.com
-212.0.44.34.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 238.159.205.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -50,7 +49,6 @@
 59-127-154-149.hinet-ip.hinet.net
 62-210-113-113.rev.poneytelecom.eu
 66.206.124.34.bc.googleusercontent.com
-71.198.28.34.bc.googleusercontent.com
 96.101.156.34.bc.googleusercontent.com
 98.218.22.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -126,10 +124,8 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-210.4vendeta.com
-ip158.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
-lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -137,13 +133,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-07e.shadowserver.io
-scan-42i.shadowserver.io
 scan-43h.shadowserver.io
-scan-45o.shadowserver.io
 scan-60.security.ipip.net
 scan-61-7.shadowserver.io
 scan-73-02.shadowserver.io
-scan-76-02.shadowserver.io
 scan-80-9.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
