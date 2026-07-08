@@ -22,7 +22,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 115.7.155.104.bc.googleusercontent.com
 118-160-71-48.dynamic-ip.hinet.net
-118-163-18-153.hinet-ip.hinet.net
 123.156.76.34.bc.googleusercontent.com
 13.76.62.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
@@ -33,7 +32,6 @@
 186-24-11-164.static.telcel.net.ve
 186-24-11-165.static.telcel.net.ve
 186-24-11-166.static.telcel.net.ve
-200.160.125.34.bc.googleusercontent.com
 233.36.76.34.bc.googleusercontent.com
 238.159.205.35.bc.googleusercontent.com
 241.178.62.34.bc.googleusercontent.com
@@ -45,7 +43,6 @@
 87.24.205.35.bc.googleusercontent.com
 98.218.22.34.bc.googleusercontent.com
 adventure.yatano.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -67,9 +64,7 @@ recyber.net
 scan-58a.shadowserver.io
 scan-71-09.shadowserver.io
 security.criminalip.com
-sharp.atid.cloud
 smtp1.telemach.net
-srv-91-224-92-95.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-150-243-128.iev01.ua.misaka.io
 users219.vip.heteml.jp
