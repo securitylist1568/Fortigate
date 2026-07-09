@@ -27,12 +27,10 @@
 206.150.216.162.bc.googleusercontent.com
 211.150.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
-236.210.203.35.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
-91.208.53.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -47,7 +45,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 mx3.mwsmtp.com
-nk218-187-97-5.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -65,8 +62,6 @@ spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.154.107.91.clients.your-server.de
-unn-169-150-252-179.datapacket.com
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 vm11627.akenai.wtf
 vm11802.akenai.wtf
