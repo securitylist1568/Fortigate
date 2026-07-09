@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122.150.216.162.bc.googleusercontent.com
+134.211.203.35.bc.googleusercontent.com
 172-104-27-135.ip.linodeusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -42,6 +43,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-254.4vendeta.com
+ip-58-102.4vendeta.com
+ip-58-106.4vendeta.com
+ip-58-98.4vendeta.com
 ip-59-22.4vendeta.com
 ip29.sudolio.io
 knowfax.org.uk
