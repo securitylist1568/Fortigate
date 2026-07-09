@@ -38,6 +38,7 @@
 40.149.216.162.bc.googleusercontent.com
 46.226.78.34.bc.googleusercontent.com
 60-250-1-89.hinet-ip.hinet.net
+76.210.203.35.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
 91.208.53.34.bc.googleusercontent.com
@@ -80,6 +81,7 @@ r3004.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-58a.shadowserver.io
+scan-60-12.shadowserver.io
 scan-71-09.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
