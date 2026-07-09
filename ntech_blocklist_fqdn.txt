@@ -61,6 +61,7 @@ scan-71-09.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.208.154.107.91.clients.your-server.de
