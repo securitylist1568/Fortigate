@@ -35,7 +35,9 @@
 185-45-195-15.hostsailor.com
 20.14.42.34.bc.googleusercontent.com
 202.139.198.104.bc.googleusercontent.com
+202.204.140.34.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
+207-182-143-9.xlhdns.com
 21.158.27.34.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 211.135.173.34.bc.googleusercontent.com
@@ -48,6 +50,7 @@
 25.149.216.162.bc.googleusercontent.com
 25.159.114.136.bc.googleusercontent.com
 30.41.116.136.bc.googleusercontent.com
+40.149.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 60-250-1-89.hinet-ip.hinet.net
 67.210.203.35.bc.googleusercontent.com
@@ -95,6 +98,7 @@ client.yota.ru
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-58-114-220-98.dynamic.kbtelecom.net
