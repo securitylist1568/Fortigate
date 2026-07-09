@@ -30,6 +30,7 @@
 142.37.65.136.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
 169.94.177.195.in-addr.arpa
+180.234.79.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 20.14.42.34.bc.googleusercontent.com
@@ -48,6 +49,7 @@
 25.159.114.136.bc.googleusercontent.com
 30.41.116.136.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
+60-250-1-89.hinet-ip.hinet.net
 67.210.203.35.bc.googleusercontent.com
 71.198.28.34.bc.googleusercontent.com
 72.174.173.34.bc.googleusercontent.com
@@ -57,8 +59,10 @@
 84.118.119.136.bc.googleusercontent.com
 84.47.173.34.bc.googleusercontent.com
 91.208.53.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
+azpdcgfwv02q.stretchoid.com
 azpdcgrbfvbu.stretchoid.com
 azpdcsguyw0e.stretchoid.com
 azpdcsmatos4.stretchoid.com
@@ -71,7 +75,9 @@ azpdsgbhg8mp.stretchoid.com
 azpdsge43nsk.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsglck6ef.stretchoid.com
+azpdsgo34xwr.stretchoid.com
 azpdsgor4bdz.stretchoid.com
+azpdsgqi8wxn.stretchoid.com
 azpdsgrvz4jx.stretchoid.com
 azpdsgwinodf.stretchoid.com
 azpdss797c8p.stretchoid.com
@@ -83,6 +89,7 @@ azpdsskp8muf.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdws6b5q5j.stretchoid.com
 azpdwskkdiex.stretchoid.com
+azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
