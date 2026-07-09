@@ -97,11 +97,13 @@ recyber.net
 rootevidence.com
 scan-04f.shadowserver.io
 scan-10g.shadowserver.io
+scan-40g.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv-141-98-10-170.serveroffer.net
 srv-91-224-92-95.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
