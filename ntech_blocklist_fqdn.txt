@@ -19,9 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.150.216.162.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 172-104-27-135.ip.linodeusercontent.com
-176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 198.211.203.35.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
@@ -30,7 +31,7 @@
 33.150.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
-78.211.203.35.bc.googleusercontent.com
+abts-tn-static-015.124.165.122.airtelbroadband.in
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -58,11 +59,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-58a.shadowserver.io
 scan-59g.shadowserver.io
 scan-60-12.shadowserver.io
-scan-71-09.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
