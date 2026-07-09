@@ -19,7 +19,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
+115.231.111.136.bc.googleusercontent.com
 118-168-248-204.dynamic-ip.hinet.net
+132.129.116.136.bc.googleusercontent.com
 138.219.241.35.bc.googleusercontent.com
 141.168.131.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
@@ -31,6 +33,7 @@
 180.234.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-3-154-48-host.colocrossing.com
+202.139.198.104.bc.googleusercontent.com
 202.204.140.34.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
 207-182-143-9.xlhdns.com
@@ -38,9 +41,12 @@
 213.63.14.34.bc.googleusercontent.com
 222.149.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
+225.244.122.34.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
 247.99.140.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
+25.159.114.136.bc.googleusercontent.com
+30.41.116.136.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
 43.41.199.104.bc.googleusercontent.com
 46.226.78.34.bc.googleusercontent.com
