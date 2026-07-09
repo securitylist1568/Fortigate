@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.149.216.162.bc.googleusercontent.com
 115.231.111.136.bc.googleusercontent.com
 118-168-248-204.dynamic-ip.hinet.net
 123.150.216.162.bc.googleusercontent.com
@@ -29,12 +28,10 @@
 138.219.241.35.bc.googleusercontent.com
 141.168.131.34.bc.googleusercontent.com
 142.37.65.136.bc.googleusercontent.com
-143.149.216.162.bc.googleusercontent.com
 156.209.62.34.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 169.94.177.195.in-addr.arpa
-172-104-100-28.ip.linodeusercontent.com
 180.234.79.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -43,13 +40,11 @@
 202.139.198.104.bc.googleusercontent.com
 202.204.140.34.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
-207-182-143-9.xlhdns.com
 21.158.27.34.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 211.135.173.34.bc.googleusercontent.com
 212.0.44.34.bc.googleusercontent.com
 213.63.14.34.bc.googleusercontent.com
-222.149.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 225.244.122.34.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
@@ -101,9 +96,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-58-114-220-98.dynamic.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
-ip158.ip-72-251-5.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 mx3.mwsmtp.com
@@ -120,7 +113,6 @@ scan-40g.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
 scan-75-05.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-170.serveroffer.net
@@ -129,4 +121,3 @@ static.185-165-44-168.rackgenius.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
 vps-8692ec24.vps.ovh.ca
-www.internet-albedo.net
