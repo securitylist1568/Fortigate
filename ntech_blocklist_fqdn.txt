@@ -81,6 +81,7 @@ r3004.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-58a.shadowserver.io
+scan-59g.shadowserver.io
 scan-60-12.shadowserver.io
 scan-71-09.shadowserver.io
 scan-85-3.shadowserver.io
@@ -88,6 +89,7 @@ security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
+static.208.154.107.91.clients.your-server.de
 static.vnpt.vn
 unn-169-150-252-179.datapacket.com
 unn-207-211-214-162.datapacket.com
