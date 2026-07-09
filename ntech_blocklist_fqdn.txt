@@ -25,10 +25,12 @@
 118-168-248-204.dynamic-ip.hinet.net
 143.149.216.162.bc.googleusercontent.com
 151.149.216.162.bc.googleusercontent.com
+168-113-158-51.instances.scw.cloud
 171.149.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192-3-154-48-host.colocrossing.com
 192.248.150.180.vultrusercontent.com
 195.149.216.162.bc.googleusercontent.com
 196.150.216.162.bc.googleusercontent.com
