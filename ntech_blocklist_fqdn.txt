@@ -20,6 +20,7 @@
 115.149.216.162.bc.googleusercontent.com
 115.231.111.136.bc.googleusercontent.com
 118-168-248-204.dynamic-ip.hinet.net
+123.150.216.162.bc.googleusercontent.com
 128.211.203.35.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 132.189.116.136.bc.googleusercontent.com
@@ -61,6 +62,7 @@
 67.210.203.35.bc.googleusercontent.com
 71.198.28.34.bc.googleusercontent.com
 72.174.173.34.bc.googleusercontent.com
+78.51.14.34.bc.googleusercontent.com
 84.118.119.136.bc.googleusercontent.com
 84.47.173.34.bc.googleusercontent.com
 91.208.53.34.bc.googleusercontent.com
@@ -113,6 +115,7 @@ scan-10g.shadowserver.io
 scan-40g.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
+scan-75-05.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
