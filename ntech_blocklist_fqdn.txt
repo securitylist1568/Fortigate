@@ -36,11 +36,13 @@
 248.149.216.162.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
+40.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 45-143-198-140.as212027.host
 5.91.80.34.bc.googleusercontent.com
 53.149.216.162.bc.googleusercontent.com
 67.149.216.162.bc.googleusercontent.com
+70.149.216.162.bc.googleusercontent.com
 82-112-46-29.k-telecom.org
 85.211.203.35.bc.googleusercontent.com
 91-208-92-199.as212027.host
