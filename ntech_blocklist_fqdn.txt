@@ -23,6 +23,7 @@
 153.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
+182.149.216.162.bc.googleusercontent.com
 183.189.89.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 20.149.216.162.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 207.149.216.162.bc.googleusercontent.com
 211.205.199.104.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
+243.210.203.35.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 251.149.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
@@ -96,8 +98,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
-scan-06g.shadowserver.io
-scan-14h.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv63019.dus8.dedicated.server-hosting.expert
