@@ -30,6 +30,7 @@
 183.246.52.34.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+186.149.216.162.bc.googleusercontent.com
 187.15.14.34.bc.googleusercontent.com
 190.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
@@ -52,6 +53,7 @@
 5.244.62.34.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
+85.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -91,6 +93,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
+scan-02k.shadowserver.io
 scan-12f.shadowserver.io
 scan-42i.shadowserver.io
 scan-43b.shadowserver.io
