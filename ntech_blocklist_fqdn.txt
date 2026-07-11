@@ -20,7 +20,6 @@
 132.150.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 16.210.203.35.bc.googleusercontent.com
-166.150.216.162.bc.googleusercontent.com
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 199.150.216.162.bc.googleusercontent.com
@@ -55,7 +54,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-69-00.shadowserver.io
 scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
@@ -64,4 +62,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
-vulcan.charlieandco.co.nz
