@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
+144.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 149.210.203.35.bc.googleusercontent.com
 154.211.203.35.bc.googleusercontent.com
@@ -33,6 +34,9 @@
 204.76.203.81.ptr.pfcloud.network
 236.171.156.34.bc.googleusercontent.com
 241.225.52.34.bc.googleusercontent.com
+27.133.34.34.bc.googleusercontent.com
+29.206.78.34.bc.googleusercontent.com
+5.130.97.34.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -46,6 +50,10 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-22.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-74.4vendeta.com
+ip-59-10.superbit.host
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
