@@ -45,6 +45,7 @@ dedicated.vsys.host
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-254.4vendeta.com
