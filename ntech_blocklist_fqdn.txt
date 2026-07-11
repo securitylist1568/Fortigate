@@ -38,14 +38,12 @@
 219.211.203.35.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-233.150.216.162.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 241.225.52.34.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 27.133.34.34.bc.googleusercontent.com
 29.206.78.34.bc.googleusercontent.com
 34.65.175.207.bc.googleusercontent.com
-40.210.203.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
@@ -53,7 +51,6 @@
 45-79-225-32.ip.linodeusercontent.com
 5.244.62.34.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
-70.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -86,7 +83,6 @@ hocvienseller.com
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
