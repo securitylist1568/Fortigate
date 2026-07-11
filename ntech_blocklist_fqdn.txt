@@ -95,6 +95,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-12f.shadowserver.io
+scan-42i.shadowserver.io
 scan-43b.shadowserver.io
 scan-45o.shadowserver.io
 scan-73-02.shadowserver.io
