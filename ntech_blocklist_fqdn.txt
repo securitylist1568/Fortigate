@@ -20,6 +20,7 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+144.202.92.17.vultrusercontent.com
 153.52.195.35.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 162.113.62.34.bc.googleusercontent.com
@@ -35,6 +36,7 @@
 192.248.150.180.vultrusercontent.com
 195.150.216.162.bc.googleusercontent.com
 197.22.199.104.bc.googleusercontent.com
+204.76.203.81.ptr.pfcloud.network
 219.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 240.211.203.35.bc.googleusercontent.com
