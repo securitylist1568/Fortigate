@@ -21,11 +21,9 @@
 111-249-226-47.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
-144.202.92.17.vultrusercontent.com
 149.210.203.35.bc.googleusercontent.com
 153.52.195.35.bc.googleusercontent.com
 154.211.203.35.bc.googleusercontent.com
-168.150.216.162.bc.googleusercontent.com
 183.246.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
@@ -33,7 +31,6 @@
 194-195-253-86.ip.linodeusercontent.com
 197.22.199.104.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
-204.76.203.81.ptr.pfcloud.network
 230.150.216.162.bc.googleusercontent.com
 236.171.156.34.bc.googleusercontent.com
 27.133.34.34.bc.googleusercontent.com
@@ -41,7 +38,6 @@
 36-229-140-100.dynamic-ip.hinet.net
 5.130.97.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
-80.149.216.162.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -65,8 +61,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
-scan-77-02.shadowserver.io
-scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
