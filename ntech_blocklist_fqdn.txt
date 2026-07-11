@@ -23,6 +23,7 @@
 176.65.148.176.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 199.150.216.162.bc.googleusercontent.com
+222.211.203.35.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
@@ -42,6 +43,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+iafrssh.cn
 ip-114-102.superbithost.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
