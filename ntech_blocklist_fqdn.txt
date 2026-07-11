@@ -65,6 +65,7 @@ r297-pr-guacu.ibys.com.br
 recyber.net
 scan-43b.shadowserver.io
 scan-45o.shadowserver.io
+scan-73-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv63019.dus8.dedicated.server-hosting.expert
