@@ -21,6 +21,7 @@
 135.210.203.35.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
 182.149.216.162.bc.googleusercontent.com
+184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.150.216.162.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
@@ -62,6 +63,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
+scan-43b.shadowserver.io
 scan-45o.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
