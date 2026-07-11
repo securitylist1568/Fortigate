@@ -34,9 +34,7 @@
 192.248.150.180.vultrusercontent.com
 195.150.216.162.bc.googleusercontent.com
 197.22.199.104.bc.googleusercontent.com
-205.210.203.35.bc.googleusercontent.com
 219.211.203.35.bc.googleusercontent.com
-222.210.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 240.211.203.35.bc.googleusercontent.com
 241.225.52.34.bc.googleusercontent.com
@@ -86,7 +84,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-niall.probe.onyphe.net
 no-mans-land.m247.com
 os3-376-21223.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
