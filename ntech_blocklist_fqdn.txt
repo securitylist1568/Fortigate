@@ -33,6 +33,7 @@
 230.150.216.162.bc.googleusercontent.com
 236.171.156.34.bc.googleusercontent.com
 27.133.34.34.bc.googleusercontent.com
+28.149.216.162.bc.googleusercontent.com
 29.206.78.34.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
 5.130.97.34.bc.googleusercontent.com
@@ -61,6 +62,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.io
+scan-12f.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
