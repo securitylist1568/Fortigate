@@ -22,6 +22,7 @@
 144.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 153.52.195.35.bc.googleusercontent.com
+166.150.216.162.bc.googleusercontent.com
 183.246.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.15.14.34.bc.googleusercontent.com
@@ -58,6 +59,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.io
 scan-12f.shadowserver.io
+scan-69-00.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
