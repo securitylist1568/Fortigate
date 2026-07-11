@@ -17,8 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-122.150.216.162.bc.googleusercontent.com
-138.226.123.103.jnpl.jeebr.net
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -26,7 +24,6 @@
 162.113.62.34.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
-182.149.216.162.bc.googleusercontent.com
 183.246.52.34.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -43,7 +40,6 @@
 233.150.216.162.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 241.225.52.34.bc.googleusercontent.com
-243.210.203.35.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 27.133.34.34.bc.googleusercontent.com
 29.206.78.34.bc.googleusercontent.com
