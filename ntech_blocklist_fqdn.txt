@@ -31,6 +31,7 @@
 228.149.216.162.bc.googleusercontent.com
 231.110.156.34.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 39.19.199.104.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 60.149.216.162.bc.googleusercontent.com
@@ -41,12 +42,6 @@
 97.227.124.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdcsycgcyf.stretchoid.com
-azpdsga05mgt.stretchoid.com
-azpdssfs3wsw.stretchoid.com
-azpdssjnwdgv.stretchoid.com
-azpdssteiqpy.stretchoid.com
-azpdsswwm226.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -92,7 +87,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
