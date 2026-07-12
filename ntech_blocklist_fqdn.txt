@@ -37,6 +37,7 @@ dedicated.vsys.host
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip244.ip-46-105-160.eu
