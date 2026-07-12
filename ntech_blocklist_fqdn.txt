@@ -20,10 +20,8 @@
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 190.153.186.34.bc.googleusercontent.com
-194-116-17-164-static.bbbell.com
+198-134-107-73.rev.unlimitednet.us
 2d83453c.mow.customer.misaka.io
-2d96f25f.customer.misaka.taipei
-93.107.39.34.bc.googleusercontent.com
 97.227.124.34.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
@@ -38,11 +36,8 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
-ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -50,7 +45,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rping.ipip.net
-scan-08g.shadowserver.io
 scan-13n.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
