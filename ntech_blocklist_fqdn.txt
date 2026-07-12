@@ -27,6 +27,7 @@
 192.240.62.34.bc.googleusercontent.com
 193.253.52.34.bc.googleusercontent.com
 194-116-17-164-static.bbbell.com
+196.155.156.34.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 220.124.155.104.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
@@ -35,6 +36,7 @@
 243.150.216.162.bc.googleusercontent.com
 39.19.199.104.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
+60.149.216.162.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
 85.211.203.35.bc.googleusercontent.com
@@ -94,6 +96,7 @@ ec2-13-218-231-196.compute-1.amazonaws.com
 ec2-13-218-56-216.compute-1.amazonaws.com
 ec2-13-222-2-197.compute-1.amazonaws.com
 ec2-18-205-245-90.compute-1.amazonaws.com
+ec2-18-236-134-158.us-west-2.compute.amazonaws.com
 ec2-18-246-245-83.us-west-2.compute.amazonaws.com
 ec2-3-80-225-254.compute-1.amazonaws.com
 ec2-3-86-114-186.compute-1.amazonaws.com
@@ -101,8 +104,10 @@ ec2-3-93-81-46.compute-1.amazonaws.com
 ec2-3-94-186-181.compute-1.amazonaws.com
 ec2-34-208-164-237.us-west-2.compute.amazonaws.com
 ec2-34-211-68-165.us-west-2.compute.amazonaws.com
+ec2-34-219-166-79.us-west-2.compute.amazonaws.com
 ec2-34-229-166-45.compute-1.amazonaws.com
 ec2-35-160-12-204.us-west-2.compute.amazonaws.com
+ec2-35-87-28-78.us-west-2.compute.amazonaws.com
 ec2-35-87-49-107.us-west-2.compute.amazonaws.com
 ec2-35-91-102-78.us-west-2.compute.amazonaws.com
 ec2-44-203-125-226.compute-1.amazonaws.com
