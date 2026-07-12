@@ -22,14 +22,9 @@
 144.202.92.17.vultrusercontent.com
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
-19.37.175.207.bc.googleusercontent.com
-192.240.62.34.bc.googleusercontent.com
-192.248.150.180.vultrusercontent.com
 194-116-17-164-static.bbbell.com
-196.155.156.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 2d96f25f.customer.misaka.taipei
-39.19.199.104.bc.googleusercontent.com
 91.42.195.35.bc.googleusercontent.com
 93.107.39.34.bc.googleusercontent.com
 97.227.124.34.bc.googleusercontent.com
@@ -56,7 +51,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-08g.shadowserver.io
 scan-13n.shadowserver.io
-scan-56a.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
