@@ -24,10 +24,10 @@
 185-45-195-15.hostsailor.com
 199.150.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
-238.210.203.35.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 5.130.97.34.bc.googleusercontent.com
+62-210-113-113.rev.poneytelecom.eu
 62.150.216.162.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 93.107.39.34.bc.googleusercontent.com
@@ -46,8 +46,11 @@ azpdsg5u7l7d.stretchoid.com
 azpdsg5u7uqc.stretchoid.com
 azpdsg6fplrv.stretchoid.com
 azpdsg8708op.stretchoid.com
+azpdsga05mgt.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdsgdthnqp.stretchoid.com
+azpdsge43nsk.stretchoid.com
+azpdsghq7jpi.stretchoid.com
 azpdsglck6ef.stretchoid.com
 azpdsgokg9kc.stretchoid.com
 azpdsgv1yi6q.stretchoid.com
@@ -56,10 +59,13 @@ azpdss1xwgc0.stretchoid.com
 azpdss2sy749.stretchoid.com
 azpdss8hh31k.stretchoid.com
 azpdssbshtjx.stretchoid.com
+azpdssguw7ri.stretchoid.com
 azpdsshab2op.stretchoid.com
 azpdsslt2dou.stretchoid.com
+azpdssml72hw.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssu8seh3.stretchoid.com
+azpdssvyb6fc.stretchoid.com
 azpdssw3j3o8.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 azpdws4uku7j.stretchoid.com
@@ -69,7 +75,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 customer.bgtacol1.isp.starlink.com
 dal215.hawkhost.com
-ddos-guard.net
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -91,8 +96,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
+xds5yhgv8.inventionmarkets.info
