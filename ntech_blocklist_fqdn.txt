@@ -27,7 +27,6 @@
 194-116-17-164-static.bbbell.com
 195-154-246-251.rev.poneytelecom.eu
 196.155.156.34.bc.googleusercontent.com
-27.205.6.200.static.intelnet.net.gt
 2d96f25f.customer.misaka.taipei
 39.19.199.104.bc.googleusercontent.com
 91.42.195.35.bc.googleusercontent.com
@@ -51,7 +50,6 @@ ip-59-10.superbit.host
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1625-135.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -63,6 +61,5 @@ scan-56a.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.173.108.27.37.clients.your-server.de
 users219.vip.heteml.jp
 www.internet-albedo.net
