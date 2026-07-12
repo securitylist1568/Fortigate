@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 194-116-17-164-static.bbbell.com
@@ -33,7 +32,6 @@ client.yota.ru
 cloud1.steel.gr
 d214e39804.research-scanner.com
 dal215.hawkhost.com
-dedicated.vsys.host
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
