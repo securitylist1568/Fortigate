@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.153.186.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
@@ -27,11 +28,13 @@ b1b10df5.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 cloud1.steel.gr
+crawler044.deepfield.net
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.as49870.net
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
