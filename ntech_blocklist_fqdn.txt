@@ -35,6 +35,7 @@
 42.123.243.83.in-addr.arpa
 60.149.216.162.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
+85.255.62.34.bc.googleusercontent.com
 91.42.195.35.bc.googleusercontent.com
 93.107.39.34.bc.googleusercontent.com
 97.227.124.34.bc.googleusercontent.com
@@ -100,6 +101,7 @@ scan-05j.shadowserver.io
 scan-06g.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 security.criminalip.com
