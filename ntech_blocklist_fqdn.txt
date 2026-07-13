@@ -34,6 +34,7 @@ c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 crawler026.deepfield.net
 crawler092.deepfield.net
+crawler189.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
