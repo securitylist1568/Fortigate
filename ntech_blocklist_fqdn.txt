@@ -47,7 +47,6 @@
 43.39.64.136.bc.googleusercontent.com
 64.233.65.136.bc.googleusercontent.com
 71.198.28.34.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
 84.118.119.136.bc.googleusercontent.com
 84.47.173.34.bc.googleusercontent.com
 95.242.208.222.broad.nc.sc.dynamic.163data.com.cn
@@ -73,7 +72,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-07e.shadowserver.io
 scan-60-12.shadowserver.io
-scan-77-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
