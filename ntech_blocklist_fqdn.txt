@@ -34,6 +34,8 @@
 225.244.122.34.bc.googleusercontent.com
 237.48.64.136.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
+282821.ip-ptr.tech
+2d834781.kunde.misaka.berlin
 2d96f380.kbp.customer.misaka.io
 30.41.116.136.bc.googleusercontent.com
 37.33.173.34.bc.googleusercontent.com
@@ -48,8 +50,8 @@ amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
+c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
-cloud1.steel.gr
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -58,7 +60,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-114.4vendeta.com
 ip-49-174.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o608.scanner.modat.io
@@ -69,7 +70,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-06g.shadowserver.io
-scan-07e.shadowserver.io
 scan-60-12.shadowserver.io
 scan-60.security.ipip.net
 scan-87-7.shadowserver.io
@@ -80,4 +80,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.99.131.27.37.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
-www.internet-albedo.net
