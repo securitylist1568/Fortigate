@@ -38,6 +38,7 @@
 30.41.116.136.bc.googleusercontent.com
 37.33.173.34.bc.googleusercontent.com
 43.39.64.136.bc.googleusercontent.com
+50-116-23-150.ip.linodeusercontent.com
 64.233.65.136.bc.googleusercontent.com
 71.198.28.34.bc.googleusercontent.com
 84.118.119.136.bc.googleusercontent.com
@@ -66,8 +67,12 @@ pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02m.shadowserver.io
+scan-06g.shadowserver.io
 scan-07e.shadowserver.io
 scan-60-12.shadowserver.io
+scan-60.security.ipip.net
+scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
