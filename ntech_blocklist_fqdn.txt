@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.231.111.136.bc.googleusercontent.com
-117.209-183-91.adsl-static.isp.belgacom.be
 12.33.171.34.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 132.189.116.136.bc.googleusercontent.com
@@ -34,7 +33,6 @@
 21.39.113.136.bc.googleusercontent.com
 211.135.173.34.bc.googleusercontent.com
 212.0.44.34.bc.googleusercontent.com
-220-134-48-197.hinet-ip.hinet.net
 223.21.41.34.bc.googleusercontent.com
 225.244.122.34.bc.googleusercontent.com
 237.48.64.136.bc.googleusercontent.com
@@ -80,7 +78,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.99.131.27.37.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
-vps-26cb6cd4.vps.ovh.net
-vps-80b84497.vps.ovh.net
-vps-d8c3c58d.vps.ovh.us
 www.internet-albedo.net
