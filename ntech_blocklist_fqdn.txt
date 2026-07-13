@@ -36,6 +36,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-124-243-137-124.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-114.4vendeta.com
