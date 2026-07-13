@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-248-204.dynamic-ip.hinet.net
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.153.186.34.bc.googleusercontent.com
@@ -27,7 +28,6 @@ amz.unixwiz.net
 b1b10df5.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
-cloud1.steel.gr
 crawler044.deepfield.net
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
@@ -49,7 +49,6 @@ recyber.net
 rping.ipip.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi3402282.contaboserver.net
