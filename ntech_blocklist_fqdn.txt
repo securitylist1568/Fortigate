@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 282821.ip-ptr.tech
 2d834781.kunde.misaka.berlin
 2d96f380.kbp.customer.misaka.io
