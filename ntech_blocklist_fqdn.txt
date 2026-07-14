@@ -54,6 +54,7 @@ azpdsslt2dou.stretchoid.com
 azpdssp7vjwc.stretchoid.com
 azpdssvyb6fc.stretchoid.com
 b2.org.afilias-nst.org
+centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
