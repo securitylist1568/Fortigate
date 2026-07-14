@@ -72,5 +72,6 @@ recyber.net
 scan-15k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
