@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-249-1-35.dynamic-ip.hinet.net
+172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 205.73.234.35.bc.googleusercontent.com
@@ -36,8 +37,6 @@ b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 church.probe.onyphe.net
 client.yota.ru
-crawler026.deepfield.net
-crawler092.deepfield.net
 crawler147.deepfield.net
 crawler189.deepfield.net
 dal215.hawkhost.com
