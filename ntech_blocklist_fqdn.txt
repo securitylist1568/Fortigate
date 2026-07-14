@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-249-1-35.dynamic-ip.hinet.net
 132.25.187.35.bc.googleusercontent.com
-151-115-112-17.rev.poneytelecom.eu
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.116.76.34.bc.googleusercontent.com
@@ -64,11 +63,9 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
-pb.nphuonha.id.vn
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
