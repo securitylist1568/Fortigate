@@ -23,12 +23,16 @@
 132.25.187.35.bc.googleusercontent.com
 139-162-156-181.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
+143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 144.202.92.17.vultrusercontent.com
 144.96.14.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-104-100-28.ip.linodeusercontent.com
+172-237-155-29.ip.linodeusercontent.com
+172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
+173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -60,6 +64,7 @@ amz.unixwiz.net
 arraccgoo2.fvds.ru
 azpdss4lc1pe.stretchoid.com
 b2.org.afilias-nst.org
+babylon.scan.bufferover.run
 church.probe.onyphe.net
 client.yota.ru
 crawler147.deepfield.net
