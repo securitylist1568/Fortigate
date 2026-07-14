@@ -18,12 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-249-1-35.dynamic-ip.hinet.net
-172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-195-154-246-251.rev.poneytelecom.eu
 21.39.113.136.bc.googleusercontent.com
 234.73.252.35.bc.googleusercontent.com
 25.160.24.34.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 36-228-209-24.dynamic-ip.hinet.net
 36-228-210-66.dynamic-ip.hinet.net
 36-228-215-238.dynamic-ip.hinet.net
@@ -63,7 +62,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
-o603.scanner.modat.io
 o608.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
