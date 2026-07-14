@@ -23,6 +23,7 @@
 151-115-112-17.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 192.116.76.34.bc.googleusercontent.com
+194-195-122-95.ip.linodeusercontent.com
 210-59-205-224.hinet-ip.hinet.net
 223.154.38.34.bc.googleusercontent.com
 244.214.190.35.bc.googleusercontent.com
@@ -48,8 +49,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.io
+scan-53j.shadowserver.io
 scan-61-7.shadowserver.io
 scan-63-13.shadowserver.io
+scan-89-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
