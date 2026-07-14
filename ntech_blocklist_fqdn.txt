@@ -28,10 +28,13 @@
 195-154-246-251.rev.poneytelecom.eu
 210-59-205-224.hinet-ip.hinet.net
 223.154.38.34.bc.googleusercontent.com
+234.73.252.35.bc.googleusercontent.com
 244.214.190.35.bc.googleusercontent.com
 89.37.233.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+azpdesrind7l.stretchoid.com
+azpdss9nwu1g.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
