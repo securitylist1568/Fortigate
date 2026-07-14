@@ -45,6 +45,7 @@
 244.214.190.35.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
 4.139.53.34.bc.googleusercontent.com
+4.zlabs.dev
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
