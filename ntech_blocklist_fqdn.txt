@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-144.92.74.97.host.secureserver.net
 160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
@@ -79,7 +78,6 @@ hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 m29563.contaboserver.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -88,7 +86,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-02k.shadowserver.io
-scan-60-12.shadowserver.io
 scan-68-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
