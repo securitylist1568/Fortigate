@@ -20,6 +20,7 @@
 119.72.211.130.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+144.202.92.17.vultrusercontent.com
 150.77.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 215.212.24.34.bc.googleusercontent.com
