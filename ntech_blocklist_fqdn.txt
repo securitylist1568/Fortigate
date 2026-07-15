@@ -21,10 +21,12 @@
 119.72.211.130.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
+160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
 215.212.24.34.bc.googleusercontent.com
+216-244-76-74-reverse.wowrack.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 9213038d.customer.misaka.se
@@ -36,6 +38,7 @@ azpdcsguyw0e.stretchoid.com
 azpdsg3ry68v.stretchoid.com
 azpdsg56zpoo.stretchoid.com
 azpdsg5u7uqc.stretchoid.com
+azpdsg8p4zv4.stretchoid.com
 azpdsga05mgt.stretchoid.com
 azpdsgbhg8mp.stretchoid.com
 azpdsggecxkm.stretchoid.com
@@ -46,6 +49,9 @@ azpdssee30ij.stretchoid.com
 azpdsskp8muf.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssu8seh3.stretchoid.com
+azpdsswwm226.stretchoid.com
+azpdsszhqwse.stretchoid.com
+azpdwscoks7c.stretchoid.com
 azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
