@@ -24,10 +24,13 @@
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
+215.212.24.34.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 9213038d.customer.misaka.se
 aim.sba-research.org
 amz.unixwiz.net
+azpdsgbhg8mp.stretchoid.com
+azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
@@ -36,7 +39,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fwnvyxu.top
-h-46-59-77-212.na.cust.bahnhof.se
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
