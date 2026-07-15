@@ -17,9 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-218-252.dynamic-ip.hinet.net
-119.72.211.130.bc.googleusercontent.com
-132.129.116.136.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
@@ -29,7 +26,6 @@
 216-244-76-74-reverse.wowrack.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-9213038d.customer.misaka.se
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
@@ -46,6 +42,7 @@ azpdsgo34xwr.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
 azpdsse1zlrx.stretchoid.com
 azpdssee30ij.stretchoid.com
+azpdsshab2op.stretchoid.com
 azpdsskp8muf.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssu8seh3.stretchoid.com
@@ -72,8 +69,6 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r2008.pao.opendns.com
-r4003.compute.pao1.edc.strln.net
 recyber.net
 scan-02k.shadowserver.io
 scan-60-12.shadowserver.io
