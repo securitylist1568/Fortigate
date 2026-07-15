@@ -29,6 +29,7 @@
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 60-249-14-121.hinet-ip.hinet.net
 91-208-92-199.as212027.host
+9213038d.customer.misaka.se
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -52,6 +53,8 @@ ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r2008.pao.opendns.com
+r4003.compute.pao1.edc.strln.net
 recyber.net
 scan-41m.shadowserver.io
 scan-42i.shadowserver.io
