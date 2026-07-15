@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-249-1-35.dynamic-ip.hinet.net
+177.249.60.149-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
