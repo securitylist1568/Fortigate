@@ -32,6 +32,7 @@
 249.46.140.34.bc.googleusercontent.com
 25.160.24.34.bc.googleusercontent.com
 29.251.78.34.bc.googleusercontent.com
+4.zlabs.dev
 56.56.205.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 96.74.14.34.bc.googleusercontent.com
