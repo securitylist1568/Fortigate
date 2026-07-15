@@ -20,9 +20,11 @@
 119.72.211.130.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 138.226.123.103.jnpl.jeebr.net
+150.77.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 205.177.62.34.bc.googleusercontent.com
 215.212.24.34.bc.googleusercontent.com
+249.46.140.34.bc.googleusercontent.com
 4.zlabs.dev
 60-249-14-121.hinet-ip.hinet.net
 aamiens-653-1-44-186.w83-192.abo.wanadoo.fr
@@ -37,6 +39,7 @@ ecs-116-204-86-30.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-138.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
