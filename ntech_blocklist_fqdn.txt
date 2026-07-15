@@ -23,6 +23,7 @@
 144.202.92.17.vultrusercontent.com
 150.77.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+204.76.203.49.ptr.pfcloud.network
 215.212.24.34.bc.googleusercontent.com
 249.46.140.34.bc.googleusercontent.com
 25.160.24.34.bc.googleusercontent.com
