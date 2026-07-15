@@ -29,7 +29,7 @@
 188.236.62.34.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
 205.160.22.34.bc.googleusercontent.com
-21.39.113.136.bc.googleusercontent.com
+205.177.62.34.bc.googleusercontent.com
 249.46.140.34.bc.googleusercontent.com
 25.160.24.34.bc.googleusercontent.com
 282821.ip-ptr.tech
@@ -90,4 +90,3 @@ unknown.itsidc.com
 unn-207-211-210-83.datapacket.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
-vps3221942.trouble-free.net
