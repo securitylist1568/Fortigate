@@ -25,10 +25,8 @@
 150.77.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
-215.212.24.34.bc.googleusercontent.com
 249.46.140.34.bc.googleusercontent.com
 25.160.24.34.bc.googleusercontent.com
-4.zlabs.dev
 56.56.205.35.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 91-208-92-199.as212027.host
@@ -49,7 +47,6 @@ ip-56-138.4vendeta.com
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
