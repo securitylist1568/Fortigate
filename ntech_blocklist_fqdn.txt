@@ -35,6 +35,7 @@
 25.160.24.34.bc.googleusercontent.com
 29.251.78.34.bc.googleusercontent.com
 56.56.205.35.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 96.74.14.34.bc.googleusercontent.com
 aamiens-653-1-44-186.w83-192.abo.wanadoo.fr
 aim.sba-research.org
@@ -58,6 +59,7 @@ ec2-54-146-217-235.compute-1.amazonaws.com
 ec2-54-167-87-227.compute-1.amazonaws.com
 ec2-54-167-96-173.compute-1.amazonaws.com
 ec2-54-172-145-72.compute-1.amazonaws.com
+ecs-116-204-86-30.compute.hwclouds-dns.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -71,6 +73,8 @@ prod-neon-ap-southeast-0.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.io
+scan-41m.shadowserver.io
+scan-42i.shadowserver.io
 scan-43b.shadowserver.io
 scan-75-05.shadowserver.io
 scan-89-5.shadowserver.io
