@@ -21,10 +21,8 @@
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
-21.39.113.136.bc.googleusercontent.com
 215.212.24.34.bc.googleusercontent.com
 216-244-76-74-reverse.wowrack.com
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
@@ -73,12 +71,12 @@ dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-fwnvyxu.top
 hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
+li1570-11.members.linode.com
 m29563.contaboserver.net
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
