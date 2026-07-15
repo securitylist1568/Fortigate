@@ -41,6 +41,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-49-64-181.eu-north-1.compute.amazonaws.com
 festa04.jcatransporte.com.br
+fwnvyxu.top
 h-46-59-77-212.na.cust.bahnhof.se
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
