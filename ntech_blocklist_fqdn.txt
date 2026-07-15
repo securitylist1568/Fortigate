@@ -22,7 +22,6 @@
 185-45-195-15.hostsailor.com
 21.39.113.136.bc.googleusercontent.com
 282821.ip-ptr.tech
-2d0b6ab5.ams.customer.misaka.io
 2d96f25f.customer.misaka.taipei
 36-228-209-24.dynamic-ip.hinet.net
 36-228-210-66.dynamic-ip.hinet.net
