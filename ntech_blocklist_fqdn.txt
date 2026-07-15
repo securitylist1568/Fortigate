@@ -47,7 +47,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
@@ -58,9 +57,6 @@ proxy-ca002-ext2.a.ahrefs.com
 r2008.pao.opendns.com
 r4003.compute.pao1.edc.strln.net
 recyber.net
-scan-52k.shadowserver.io
-scan-63-8.shadowserver.io
-scan-67-1.shadowserver.io
 scan-76-02.shadowserver.io
 scan-76-03.shadowserver.io
 scan-89-5.shadowserver.io
