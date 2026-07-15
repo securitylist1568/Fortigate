@@ -69,12 +69,11 @@ azpdws28galu.stretchoid.com
 azpdwscoks7c.stretchoid.com
 azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
-b9ead587.zrh.customer.misaka.io
 client.yota.ru
-cohogs.usienspire.com
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hocvienseller.com
@@ -82,7 +81,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
-m29563.contaboserver.net
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -90,8 +88,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-02k.shadowserver.io
-scan-68-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
