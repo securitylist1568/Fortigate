@@ -21,6 +21,7 @@
 119.72.211.130.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
+144.92.74.97.host.secureserver.net
 150.77.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
@@ -47,6 +48,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-138.4vendeta.com
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
