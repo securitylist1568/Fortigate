@@ -20,13 +20,11 @@
 144.92.74.97.host.secureserver.net
 160-119-71-129.ptr.as49870.net
 185-45-195-15.hostsailor.com
-204.76.203.49.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
 215.212.24.34.bc.googleusercontent.com
 216-244-76-74-reverse.wowrack.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-aim.sba-research.org
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
 azpdcsbq2pb3.stretchoid.com
@@ -42,6 +40,7 @@ azpdsga05mgt.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
 azpdsgbhg8mp.stretchoid.com
 azpdsggecxkm.stretchoid.com
+azpdsghmx647.stretchoid.com
 azpdsgo34xwr.stretchoid.com
 azpdsgor4bdz.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
@@ -76,7 +75,6 @@ hn.kd.ny.adsl
 hocvienseller.com
 htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
-ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 m29563.contaboserver.net
@@ -89,8 +87,6 @@ rootevidence.com
 scan-02k.shadowserver.io
 scan-60-12.shadowserver.io
 scan-68-08.shadowserver.io
-scan-76-02.shadowserver.io
-scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
