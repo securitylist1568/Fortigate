@@ -20,15 +20,12 @@
 118-168-218-252.dynamic-ip.hinet.net
 119.72.211.130.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
-144.202.92.17.vultrusercontent.com
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-91-208-92-199.as212027.host
 9213038d.customer.misaka.se
-aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -47,7 +44,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 m29563.contaboserver.net
 mfyabgec.musicpda.com
-ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -58,10 +54,8 @@ scan-02k.shadowserver.io
 scan-60-12.shadowserver.io
 scan-68-08.shadowserver.io
 scan-76-02.shadowserver.io
-scan-76-03.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-xds5yhgv8.inventionmarkets.info
