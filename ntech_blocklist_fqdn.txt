@@ -59,6 +59,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r2008.pao.opendns.com
 r4003.compute.pao1.edc.strln.net
 recyber.net
+scan-60-12.shadowserver.io
 scan-76-02.shadowserver.io
 scan-76-03.shadowserver.io
 scan-89-5.shadowserver.io
