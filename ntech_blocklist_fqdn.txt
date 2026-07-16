@@ -23,14 +23,13 @@
 144.153.241.35.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
-160.149.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 179.180.187.35.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
-183.150.216.162.bc.googleusercontent.com
 184.49.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201.140.38.34.bc.googleusercontent.com
+209.210.203.35.bc.googleusercontent.com
 220.27.175.207.bc.googleusercontent.com
 222.214.140.34.bc.googleusercontent.com
 222.89.187.35.bc.googleusercontent.com
@@ -39,7 +38,6 @@
 253.150.216.162.bc.googleusercontent.com
 28.27.14.34.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
-34.99.172.144.static.cloudzy.com
 34.dk-h6.at.emf.camp
 36.177.34.34.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
@@ -66,7 +64,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-reserved-by-avm.ptr.network
 scan-05j.shadowserver.io
 scan-14h.shadowserver.io
 scan-53j.shadowserver.io
