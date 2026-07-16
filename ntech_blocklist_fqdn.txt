@@ -32,6 +32,7 @@
 228.210.203.35.bc.googleusercontent.com
 229.44.156.34.bc.googleusercontent.com
 24.135.62.34.bc.googleusercontent.com
+34.99.172.144.static.cloudzy.com
 36.26.95.34.bc.googleusercontent.com
 4.zlabs.dev
 40.210.203.35.bc.googleusercontent.com
