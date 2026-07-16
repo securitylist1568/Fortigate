@@ -32,6 +32,7 @@
 192.150.216.162.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 247.149.216.162.bc.googleusercontent.com
+253.150.216.162.bc.googleusercontent.com
 34.99.172.144.static.cloudzy.com
 4.zlabs.dev
 40.210.203.35.bc.googleusercontent.com
@@ -51,6 +52,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-44-222-161-50.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
