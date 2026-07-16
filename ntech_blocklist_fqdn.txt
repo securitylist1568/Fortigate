@@ -1,5 +1,6 @@
 1-34-10-216.hinet-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
+100.30.187.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -42,6 +43,8 @@
 73.210.203.35.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
+aa27e0dc.iad.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
