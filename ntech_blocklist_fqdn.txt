@@ -31,6 +31,7 @@
 200.210.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 229.211.203.35.bc.googleusercontent.com
+229.44.156.34.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 28.149.216.162.bc.googleusercontent.com
 30.211.203.35.bc.googleusercontent.com
@@ -79,6 +80,7 @@ s4850.vps.hosting
 scan-41f.shadowserver.io
 scan-41m.shadowserver.io
 scan-42i.shadowserver.io
+scan-43b.shadowserver.io
 scan-71-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
