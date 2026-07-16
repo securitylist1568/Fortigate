@@ -22,6 +22,7 @@
 132.129.116.136.bc.googleusercontent.com
 134.48.240.35.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
+148.150.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
@@ -62,6 +63,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reserved-by-avm.ptr.network
 scan-15i.shadowserver.io
+scan-89-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
