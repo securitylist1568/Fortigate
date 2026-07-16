@@ -19,17 +19,15 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-132.129.116.136.bc.googleusercontent.com
 134.48.240.35.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
+160.149.216.162.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
-20.231.156.34.bc.googleusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 228.210.203.35.bc.googleusercontent.com
 229.44.156.34.bc.googleusercontent.com
 24.135.62.34.bc.googleusercontent.com
@@ -41,7 +39,6 @@
 51.91.77.34.bc.googleusercontent.com
 53.240.53.34.bc.googleusercontent.com
 54.106.172.144.static.cloudzy.com
-62.149.216.162.bc.googleusercontent.com
 63.87.79.34.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -59,7 +56,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kub002.idyschool.de.com
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -74,4 +70,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
-vmi1763516.contaboserver.net
