@@ -42,6 +42,7 @@
 34.dk-h6.at.emf.camp
 36.177.34.34.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
+47.150.216.162.bc.googleusercontent.com
 63.87.79.34.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
@@ -59,6 +60,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1817-110.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
