@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.210.203.35.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 134.48.240.35.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
@@ -33,11 +32,11 @@
 228.210.203.35.bc.googleusercontent.com
 229.44.156.34.bc.googleusercontent.com
 24.135.62.34.bc.googleusercontent.com
-28.149.216.162.bc.googleusercontent.com
 36.26.95.34.bc.googleusercontent.com
 4.zlabs.dev
 40.210.203.35.bc.googleusercontent.com
 49.47.187.35.bc.googleusercontent.com
+51.91.77.34.bc.googleusercontent.com
 53.240.53.34.bc.googleusercontent.com
 54.106.172.144.static.cloudzy.com
 62.149.216.162.bc.googleusercontent.com
@@ -65,9 +64,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-15i.shadowserver.io
-scan-41f.shadowserver.io
 scan-43b.shadowserver.io
-scan-71-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
