@@ -23,10 +23,8 @@
 131.210.203.35.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
-168.149.216.162.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
 179.180.187.35.bc.googleusercontent.com
-180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 201.140.38.34.bc.googleusercontent.com
@@ -40,7 +38,6 @@
 252.206.78.34.bc.googleusercontent.com
 36.26.95.34.bc.googleusercontent.com
 39.dk-h6.at.emf.camp
-45.210.203.35.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
@@ -65,11 +62,8 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-radamelfalcao.xyz
 recyber.net
-scan-14h.shadowserver.io
 scan-74-07.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
