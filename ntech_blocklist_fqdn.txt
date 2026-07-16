@@ -29,11 +29,8 @@
 186.210.203.35.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
-228.210.203.35.bc.googleusercontent.com
-229.44.156.34.bc.googleusercontent.com
-24.135.62.34.bc.googleusercontent.com
+247.149.216.162.bc.googleusercontent.com
 34.99.172.144.static.cloudzy.com
-36.26.95.34.bc.googleusercontent.com
 4.zlabs.dev
 40.210.203.35.bc.googleusercontent.com
 49.47.187.35.bc.googleusercontent.com
@@ -44,7 +41,6 @@
 73.210.203.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 76.211.203.35.bc.googleusercontent.com
-90.149.216.162.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
@@ -58,6 +54,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kub002.idyschool.de.com
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -65,10 +62,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reserved-by-avm.ptr.network
 scan-15i.shadowserver.io
-scan-43b.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
+vdsglobal.com
