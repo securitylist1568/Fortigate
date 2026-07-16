@@ -29,11 +29,14 @@
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 201.140.38.34.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
 209.210.203.35.bc.googleusercontent.com
 220.27.175.207.bc.googleusercontent.com
 221.197.186.34.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
+222.214.140.34.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
+252.206.78.34.bc.googleusercontent.com
 36.26.95.34.bc.googleusercontent.com
 39.dk-h6.at.emf.camp
 45.210.203.35.bc.googleusercontent.com
