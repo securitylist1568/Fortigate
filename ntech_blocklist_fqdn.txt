@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 200.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
+229.211.203.35.bc.googleusercontent.com
 30.211.203.35.bc.googleusercontent.com
 49.47.187.35.bc.googleusercontent.com
 53.240.53.34.bc.googleusercontent.com
@@ -53,6 +54,7 @@ dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 ec2-100-55-74-174.compute-1.amazonaws.com
 ec2-13-218-231-196.compute-1.amazonaws.com
+ec2-13-220-253-111.compute-1.amazonaws.com
 ec2-18-215-153-3.compute-1.amazonaws.com
 ec2-3-82-139-248.compute-1.amazonaws.com
 ec2-44-201-252-11.compute-1.amazonaws.com
