@@ -39,8 +39,10 @@
 247.149.216.162.bc.googleusercontent.com
 252.206.78.34.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
+28.27.14.34.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
 34.99.172.144.static.cloudzy.com
+34.dk-h6.at.emf.camp
 36.177.34.34.bc.googleusercontent.com
 4.zlabs.dev
 40.210.203.35.bc.googleusercontent.com
