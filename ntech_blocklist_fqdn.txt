@@ -22,6 +22,7 @@
 132.129.116.136.bc.googleusercontent.com
 144.153.241.35.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
+16.150.216.162.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 179.180.187.35.bc.googleusercontent.com
@@ -69,11 +70,13 @@ scan-05j.shadowserver.io
 scan-14h.shadowserver.io
 scan-53j.shadowserver.io
 scan-63-8.shadowserver.io
+scan-74-07.shadowserver.io
 scan-85-0.shadowserver.io
 scan-85-3.shadowserver.io
 scan-89-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vdsglobal.com
