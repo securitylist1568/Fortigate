@@ -23,6 +23,7 @@
 132.129.116.136.bc.googleusercontent.com
 134.48.240.35.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
+155.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
@@ -38,6 +39,7 @@
 40.210.203.35.bc.googleusercontent.com
 49.47.187.35.bc.googleusercontent.com
 53.240.53.34.bc.googleusercontent.com
+54.106.172.144.static.cloudzy.com
 62.149.216.162.bc.googleusercontent.com
 63.87.79.34.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
@@ -62,6 +64,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-15i.shadowserver.io
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-71-00.shadowserver.io
