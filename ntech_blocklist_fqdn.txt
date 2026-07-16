@@ -63,6 +63,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+reserved-by-avm.ptr.network
 scan-15i.shadowserver.io
 scan-43b.shadowserver.io
 security.criminalip.com
