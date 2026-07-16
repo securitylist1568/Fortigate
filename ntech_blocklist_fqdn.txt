@@ -25,6 +25,7 @@
 148.150.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
+168.149.216.162.bc.googleusercontent.com
 179.180.187.35.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
@@ -72,6 +73,7 @@ radamelfalcao.xyz
 recyber.net
 reserved-by-avm.ptr.network
 scan-05j.shadowserver.io
+scan-14h.shadowserver.io
 scan-15i.shadowserver.io
 scan-53j.shadowserver.io
 scan-63-8.shadowserver.io
