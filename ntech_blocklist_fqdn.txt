@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.129.116.136.bc.googleusercontent.com
+140.197.62.34.bc.googleusercontent.com
 15.210.203.35.bc.googleusercontent.com
 160.150.216.162.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
@@ -26,6 +27,7 @@
 184.49.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.118.204.35.bc.googleusercontent.com
+231.117.76.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 32.210.203.35.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
@@ -55,6 +57,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.io
 scan-15k.shadowserver.io
+scan-63-2.shadowserver.io
 scan-63-8.shadowserver.io
 scan-68-08.shadowserver.io
 scan-74-02.shadowserver.io
