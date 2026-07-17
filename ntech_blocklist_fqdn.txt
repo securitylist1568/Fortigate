@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+132.129.116.136.bc.googleusercontent.com
 140.197.62.34.bc.googleusercontent.com
 160.150.216.162.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
@@ -56,6 +57,7 @@ scan-02k.shadowserver.io
 scan-04f.shadowserver.io
 scan-15k.shadowserver.io
 scan-63-2.shadowserver.io
+scan-67-1.shadowserver.io
 scan-68-08.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
