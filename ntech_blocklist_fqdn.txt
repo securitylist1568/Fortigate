@@ -22,6 +22,7 @@
 140.197.62.34.bc.googleusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+15.210.203.35.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 173-255-223-89.ip.linodeusercontent.com
@@ -63,6 +64,8 @@
 61-63-30-host11.kbtelecom.net.tw
 62-210-113-113.rev.poneytelecom.eu
 69.192.195.35.bc.googleusercontent.com
+81.59.62.34.bc.googleusercontent.com
+83.226.156.34.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -137,9 +140,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-42i.shadowserver.io
 scan-43h.shadowserver.io
+scan-63-8.shadowserver.io
 scan-67-1.shadowserver.io
 scan-74-02.shadowserver.io
 scan-76-03.shadowserver.io
+scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
