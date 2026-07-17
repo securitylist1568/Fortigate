@@ -44,6 +44,7 @@
 231.117.76.34.bc.googleusercontent.com
 233.67.62.34.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
+245.149.216.162.bc.googleusercontent.com
 252.206.78.34.bc.googleusercontent.com
 39.dk-h6.at.emf.camp
 43-251-161-77.rltx.net
@@ -72,6 +73,7 @@ azpdsg0p0xel.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
 azpdsg8708op.stretchoid.com
+azpdsga05mgt.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdsgocdz87.stretchoid.com
 azpdss0yrzr0.stretchoid.com
