@@ -58,6 +58,8 @@ scan-63-2.shadowserver.io
 scan-67-1.shadowserver.io
 scan-80-9.shadowserver.io
 scanner3.labs.rapid7.com
+scanner4.labs.rapid7.com
+scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
