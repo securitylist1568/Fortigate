@@ -26,6 +26,8 @@
 184.49.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
+190.118.204.35.bc.googleusercontent.com
+221.197.186.34.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 231.117.76.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
