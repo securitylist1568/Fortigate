@@ -23,7 +23,6 @@
 111.149.216.162.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
 125.150.216.162.bc.googleusercontent.com
-132.129.116.136.bc.googleusercontent.com
 140.82.45.210.vultrusercontent.com
 176.65.148.58.ptr.pfcloud.network
 180.150.216.162.bc.googleusercontent.com
@@ -53,16 +52,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-multidesk.multinet.no
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-02k.shadowserver.io
 scan-02m.shadowserver.io
-scan-67-1.shadowserver.io
-scan-80-9.shadowserver.io
 scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 scanner5.labs.rapid7.com
