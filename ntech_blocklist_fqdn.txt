@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 213.109.255.35.bc.googleusercontent.com
+215.149.216.162.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
 36-229-212-163.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
@@ -42,6 +43,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+cust-201-55-196-82.ipnettelecom.com.br
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -49,6 +51,7 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 multidesk.multinet.no
 pc112.cses.ilc.edu.tw
