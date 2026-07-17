@@ -31,13 +31,11 @@
 224.150.216.162.bc.googleusercontent.com
 231.117.76.34.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
-37.149.216.162.bc.googleusercontent.com
 59.93.175.207.bc.googleusercontent.com
 6.102.140.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 76.211.203.35.bc.googleusercontent.com
 81.59.62.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -55,11 +53,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
-scan-04f.shadowserver.io
-scan-15k.shadowserver.io
 scan-63-2.shadowserver.io
 scan-67-1.shadowserver.io
-scan-68-08.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
