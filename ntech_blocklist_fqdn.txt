@@ -23,9 +23,7 @@
 140.197.62.34.bc.googleusercontent.com
 140.82.45.210.vultrusercontent.com
 160.150.216.162.bc.googleusercontent.com
-161.150.216.162.bc.googleusercontent.com
 176.65.148.58.ptr.pfcloud.network
-178.201.190.35.bc.googleusercontent.com
 180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
@@ -35,8 +33,6 @@
 231.117.76.34.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
 49.207.176.2.actcorp.in
-59.93.175.207.bc.googleusercontent.com
-6.102.140.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 76.211.203.35.bc.googleusercontent.com
 81.59.62.34.bc.googleusercontent.com
@@ -72,4 +68,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
