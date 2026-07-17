@@ -10,7 +10,6 @@
 111-240-213-147.dynamic-ip.hinet.net
 111-240-213-65.dynamic-ip.hinet.net
 111-240-22-89.dynamic-ip.hinet.net
-111-240-230-186.dynamic-ip.hinet.net
 111-240-24-222.dynamic-ip.hinet.net
 111-240-26-247.dynamic-ip.hinet.net
 111-240-31-108.dynamic-ip.hinet.net
@@ -21,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.149.216.162.bc.googleusercontent.com
-117.149.216.162.bc.googleusercontent.com
 125.150.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 157.211.203.35.bc.googleusercontent.com
@@ -30,7 +28,6 @@
 192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
-213.109.255.35.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
