@@ -31,7 +31,7 @@
 224.150.216.162.bc.googleusercontent.com
 231.117.76.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
-36-228-2-214.dynamic-ip.hinet.net
+36-229-140-100.dynamic-ip.hinet.net
 37.149.216.162.bc.googleusercontent.com
 59.93.175.207.bc.googleusercontent.com
 6.102.140.34.bc.googleusercontent.com
@@ -62,5 +62,4 @@ scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
