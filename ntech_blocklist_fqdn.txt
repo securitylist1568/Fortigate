@@ -26,6 +26,7 @@
 161.210.203.35.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 179.180.187.35.bc.googleusercontent.com
+182.211.203.35.bc.googleusercontent.com
 184.49.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ azpdssee30ij.stretchoid.com
 azpdssfkcbom.stretchoid.com
 azpdssfs3wsw.stretchoid.com
 azpdssjnwdgv.stretchoid.com
+azpdssrw6qko.stretchoid.com
 azpdssw3j3o8.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
