@@ -32,6 +32,7 @@
 213.109.255.35.bc.googleusercontent.com
 36-229-140-100.dynamic-ip.hinet.net
 36-229-212-163.dynamic-ip.hinet.net
+45.63.4.69.vultrusercontent.com
 49.207.176.2.actcorp.in
 57.210.203.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
