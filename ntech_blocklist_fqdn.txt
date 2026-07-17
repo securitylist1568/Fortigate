@@ -46,6 +46,8 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 47.132.175.207.bc.googleusercontent.com
+59.93.175.207.bc.googleusercontent.com
+6.102.140.34.bc.googleusercontent.com
 61-63-30-host11.kbtelecom.net.tw
 62-210-113-113.rev.poneytelecom.eu
 63.150.216.162.bc.googleusercontent.com
