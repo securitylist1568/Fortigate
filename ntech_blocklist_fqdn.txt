@@ -1,7 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 10.150.216.162.bc.googleusercontent.com
 101.149.216.162.bc.googleusercontent.com
-104.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-218-252.dynamic-ip.hinet.net
-119.149.216.162.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 178.201.190.35.bc.googleusercontent.com
@@ -29,14 +27,12 @@
 182.211.203.35.bc.googleusercontent.com
 184.49.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-186.150.216.162.bc.googleusercontent.com
 201.140.38.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 215.210.203.35.bc.googleusercontent.com
 220.27.175.207.bc.googleusercontent.com
 221.197.186.34.bc.googleusercontent.com
 222.214.140.34.bc.googleusercontent.com
-233.150.216.162.bc.googleusercontent.com
 233.67.62.34.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
 252.206.78.34.bc.googleusercontent.com
@@ -56,6 +52,7 @@ azpdcgkm3iag.stretchoid.com
 azpdcgmv4rzj.stretchoid.com
 azpdcgngane9.stretchoid.com
 azpdes6tt1mc.stretchoid.com
+azpdsg09h0rw.stretchoid.com
 azpdsg0p0xel.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsg8708op.stretchoid.com
@@ -99,14 +96,12 @@ ec2-54-89-226-110.compute-1.amazonaws.com
 ec2-98-81-160-178.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-ho.probe.onyphe.net
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
 ip192.ip-51-77-82.eu
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
