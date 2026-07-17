@@ -45,6 +45,7 @@ client.yota.ru
 cust-201-55-196-82.ipnettelecom.com.br
 dal215.hawkhost.com
 dns12.online.tj.cn
+dns87.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
