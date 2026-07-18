@@ -30,6 +30,7 @@
 204.76.203.49.ptr.pfcloud.network
 215.211.203.35.bc.googleusercontent.com
 219.149.216.162.bc.googleusercontent.com
+22.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
 245.100.76.34.bc.googleusercontent.com
@@ -101,6 +102,7 @@ mfyabgec.musicpda.com
 ns5036797.ip-15-235-228.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
