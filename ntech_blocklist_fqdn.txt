@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 127.157.76.34.bc.googleusercontent.com
 129.73.195.35.bc.googleusercontent.com
+135.237.53.34.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
 144.202.92.17.vultrusercontent.com
 157.211.203.35.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 231.188.34.34.bc.googleusercontent.com
 232.177.34.34.bc.googleusercontent.com
 245.100.76.34.bc.googleusercontent.com
+2d83453c.mow.customer.misaka.io
 2d834681.led.customer.misaka.io
 38.147.140.34.bc.googleusercontent.com
 44.64.14.34.bc.googleusercontent.com
