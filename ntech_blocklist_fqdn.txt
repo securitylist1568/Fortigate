@@ -26,9 +26,7 @@
 144.202.92.17.vultrusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192.248.150.180.vultrusercontent.com
 204.76.203.49.ptr.pfcloud.network
-21.39.113.136.bc.googleusercontent.com
 219.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
@@ -97,7 +95,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns5036797.ip-15-235-228.net
 pc112.cses.ilc.edu.tw
@@ -109,6 +106,5 @@ scan-15k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
-ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
