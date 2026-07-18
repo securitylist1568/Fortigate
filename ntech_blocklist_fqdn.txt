@@ -53,10 +53,12 @@ azpdsgdthnqp.stretchoid.com
 azpdsge43nsk.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdss33l1a5.stretchoid.com
+azpdss8hh31k.stretchoid.com
 azpdss9nwu1g.stretchoid.com
 azpdssm71sbu.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssumseh6.stretchoid.com
+azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -80,6 +82,7 @@ ec2-98-94-81-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip150.ip-51-81-37.us
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
