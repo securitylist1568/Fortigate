@@ -30,6 +30,7 @@
 215.211.203.35.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
+229.87.177.34.bc.googleusercontent.com
 23-95-191-204-host.colocrossing.com
 37.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
@@ -63,6 +64,7 @@ recyber.net
 rootevidence.com
 scan-53j.shadowserver.io
 scan-58.security.ipip.net
+scan-59g.shadowserver.io
 scan-71-09.shadowserver.io
 scan-74-02.shadowserver.io
 scan-75-05.shadowserver.io
