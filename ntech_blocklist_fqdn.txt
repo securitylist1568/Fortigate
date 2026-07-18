@@ -19,8 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111.149.216.162.bc.googleusercontent.com
-125.150.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 157.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -32,11 +30,9 @@
 216.150.216.162.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
-36-229-212-163.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 53.26.71.192.in-addr.arpa
-57.210.203.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
