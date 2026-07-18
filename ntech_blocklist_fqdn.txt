@@ -1,6 +1,7 @@
 1-34-13-89.hinet-ip.hinet.net
 104-237-144-174.ip.linodeusercontent.com
 106.105.229.135.adsl.dynamic.seed.net.tw
+11.42.78.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+127.157.76.34.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 181.149.216.162.bc.googleusercontent.com
@@ -29,6 +31,8 @@
 219.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
+245.100.76.34.bc.googleusercontent.com
+44.64.14.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 64.149.216.162.bc.googleusercontent.com
@@ -36,6 +40,7 @@
 71.150.216.162.bc.googleusercontent.com
 79.124.56.142.superbit.host
 80.211.203.35.bc.googleusercontent.com
+89.92.38.34.bc.googleusercontent.com
 93.115.175.207.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 97-107-135-252.ip.linodeusercontent.com
