@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 134.149.216.162.bc.googleusercontent.com
+151.96.34.89.baremetal.zare.com
 158.149.216.162.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -52,6 +53,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip-49-226.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -59,6 +61,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-53j.shadowserver.io
+scan-56.security.ipip.net
 scan-58.security.ipip.net
 scan-59g.shadowserver.io
 scan-71-09.shadowserver.io
