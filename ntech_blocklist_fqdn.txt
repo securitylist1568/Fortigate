@@ -24,6 +24,7 @@
 129.73.195.35.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 135.237.53.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
@@ -82,6 +83,7 @@ azpdssml72hw.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdssw3j3o8.stretchoid.com
+azpdssw6luqc.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdwscoks7c.stretchoid.com
 azpdwskkdiex.stretchoid.com
