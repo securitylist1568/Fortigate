@@ -47,6 +47,7 @@ dns87.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip244.ip-46-105-160.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -54,6 +55,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.io
+scan-60-10.shadowserver.io
+scan-71-00.shadowserver.io
+scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
