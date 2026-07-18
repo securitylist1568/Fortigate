@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 104-237-144-174.ip.linodeusercontent.com
+106.105.229.135.adsl.dynamic.seed.net.tw
 11.42.78.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -23,11 +24,8 @@
 129.73.195.35.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 135.237.53.34.bc.googleusercontent.com
-14.171.broad.ha.dynamic.163data.com.cn
-158.210.203.35.bc.googleusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-186.210.203.35.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
 231.188.34.34.bc.googleusercontent.com
@@ -62,6 +60,7 @@ azpdsg3ry68v.stretchoid.com
 azpdsg49032m.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
+azpdsg8p4zv4.stretchoid.com
 azpdsga05mgt.stretchoid.com
 azpdsgdthnqp.stretchoid.com
 azpdsge43nsk.stretchoid.com
@@ -111,7 +110,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
-ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
@@ -122,15 +120,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-04f.shadowserver.io
 scan-15k.shadowserver.io
-scan-60-10.shadowserver.io
-scan-71-00.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi3446099.contaboserver.net
