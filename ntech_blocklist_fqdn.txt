@@ -25,8 +25,6 @@
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 190.211.203.35.bc.googleusercontent.com
-21.39.113.136.bc.googleusercontent.com
-212.149.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
 229.87.177.34.bc.googleusercontent.com
@@ -43,7 +41,6 @@ client.yota.ru
 dal215.hawkhost.com
 dedicated.vsys.host
 dns12.online.tj.cn
-dns87.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -62,5 +59,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
 vmi3446099.contaboserver.net
