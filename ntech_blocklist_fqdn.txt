@@ -23,6 +23,7 @@
 129.73.195.35.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
+162.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
@@ -36,6 +37,7 @@
 245.100.76.34.bc.googleusercontent.com
 37.210.203.35.bc.googleusercontent.com
 44.64.14.34.bc.googleusercontent.com
+45-33-78-176.ip.linodeusercontent.com
 45.77.61.56.vultrusercontent.com
 58.211.203.35.bc.googleusercontent.com
 64.149.216.162.bc.googleusercontent.com
@@ -93,6 +95,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-78-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
