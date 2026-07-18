@@ -26,6 +26,7 @@
 144.202.92.17.vultrusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+198-134-107-73.rev.unlimitednet.us
 204.76.203.49.ptr.pfcloud.network
 219.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
@@ -103,6 +104,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-15k.shadowserver.io
+scan-78-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-167.serveroffer.net
