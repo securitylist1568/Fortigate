@@ -23,7 +23,6 @@
 129.73.195.35.bc.googleusercontent.com
 135.237.53.34.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
-144.202.92.17.vultrusercontent.com
 158.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
@@ -34,15 +33,14 @@
 232.177.34.34.bc.googleusercontent.com
 245.100.76.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
-2d834681.led.customer.misaka.io
 38.147.140.34.bc.googleusercontent.com
 44.64.14.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 51.186.79.34.bc.googleusercontent.com
+80.211.203.35.bc.googleusercontent.com
 89.92.38.34.bc.googleusercontent.com
 97-107-135-252.ip.linodeusercontent.com
-aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
