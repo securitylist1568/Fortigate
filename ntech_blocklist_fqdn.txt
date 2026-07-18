@@ -23,10 +23,8 @@
 151.96.34.89.baremetal.zare.com
 153.149.216.162.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
-172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-199.149.216.162.bc.googleusercontent.com
-227.211.203.35.bc.googleusercontent.com
+192-155-90-222.ip.linodeusercontent.com
 229.87.177.34.bc.googleusercontent.com
 23-95-191-204-host.colocrossing.com
 45.77.61.56.vultrusercontent.com
@@ -50,6 +48,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-53j.shadowserver.io
 scan-56.security.ipip.net
 scan-58.security.ipip.net
