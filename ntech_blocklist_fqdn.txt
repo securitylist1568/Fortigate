@@ -31,6 +31,7 @@
 21.39.113.136.bc.googleusercontent.com
 231.188.34.34.bc.googleusercontent.com
 232.177.34.34.bc.googleusercontent.com
+233.150.216.162.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
 245.100.76.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -44,6 +45,7 @@
 79.124.56.142.superbit.host
 80.211.203.35.bc.googleusercontent.com
 89.92.38.34.bc.googleusercontent.com
+93.115.175.207.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 97-107-135-252.ip.linodeusercontent.com
 aim.sba-research.org
@@ -71,6 +73,7 @@ azpdss4lc1pe.stretchoid.com
 azpdss5zo5ld.stretchoid.com
 azpdss8hh31k.stretchoid.com
 azpdss9nwu1g.stretchoid.com
+azpdssfkcbom.stretchoid.com
 azpdssjnwdgv.stretchoid.com
 azpdssm71sbu.stretchoid.com
 azpdssml72hw.stretchoid.com
