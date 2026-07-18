@@ -29,6 +29,7 @@
 219.210.203.35.bc.googleusercontent.com
 229.87.177.34.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
+44.64.14.34.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 53.26.71.192.in-addr.arpa
@@ -41,11 +42,16 @@ client.yota.ru
 dal215.hawkhost.com
 dedicated.vsys.host
 dns12.online.tj.cn
+ec2-107-23-10-184.compute-1.amazonaws.com
+ec2-34-203-202-222.compute-1.amazonaws.com
+ec2-98-88-249-38.compute-1.amazonaws.com
+ec2-98-94-81-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
