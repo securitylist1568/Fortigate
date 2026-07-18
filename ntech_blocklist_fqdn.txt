@@ -19,7 +19,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.211.203.35.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
+144.92.74.97.host.secureserver.net
 151.96.34.89.baremetal.zare.com
+153.149.216.162.bc.googleusercontent.com
+168-113-158-51.instances.scw.cloud
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 199.149.216.162.bc.googleusercontent.com
