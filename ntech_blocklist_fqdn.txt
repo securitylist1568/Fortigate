@@ -29,6 +29,7 @@
 21.39.113.136.bc.googleusercontent.com
 229.87.177.34.bc.googleusercontent.com
 23-95-191-204-host.colocrossing.com
+233.128.35.171.adsl-pool.jx.chinaunicom.com
 45.77.61.56.vultrusercontent.com
 91.149.216.162.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -37,6 +38,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
