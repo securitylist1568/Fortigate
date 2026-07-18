@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 127.157.76.34.bc.googleusercontent.com
 129.73.195.35.bc.googleusercontent.com
+132.129.116.136.bc.googleusercontent.com
 135.237.53.34.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
 158.210.203.35.bc.googleusercontent.com
@@ -66,6 +67,7 @@ azpdsgdthnqp.stretchoid.com
 azpdsge43nsk.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsgqpucw1.stretchoid.com
+azpdsgs6gf0i.stretchoid.com
 azpdsgu2vs9r.stretchoid.com
 azpdsgwinodf.stretchoid.com
 azpdss33l1a5.stretchoid.com
@@ -81,6 +83,7 @@ azpdssml72hw.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssumseh6.stretchoid.com
 azpdssw3j3o8.stretchoid.com
+azpdssyzibct.stretchoid.com
 azpdwscoks7c.stretchoid.com
 azpdwskkdiex.stretchoid.com
 azpdwspg5atk.stretchoid.com
