@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 246.200.59.34.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 36-232-17-89.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 97-107-131-221.ip.linodeusercontent.com
@@ -41,6 +42,7 @@ clientezavaz-181-191-4-22.zavaz.net.br
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
