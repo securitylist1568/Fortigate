@@ -24,6 +24,7 @@
 204.76.203.30.ptr.pfcloud.network
 246.200.59.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
+35.174.246.35.bc.googleusercontent.com
 36-232-17-89.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
