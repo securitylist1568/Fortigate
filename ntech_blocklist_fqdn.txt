@@ -32,7 +32,6 @@
 248.242.38.34.bc.googleusercontent.com
 45-56-100-23.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-67.218.77.34.bc.googleusercontent.com
 69-164-211-190.ip.linodeusercontent.com
 79.124.56.142.superbit.host
 91-208-92-199.as212027.host
@@ -59,7 +58,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-08g.shadowserver.io
-scan-13l.shadowserver.io
 scan-60.security.ipip.net
 scan-68-00.shadowserver.io
 scan-74-02.shadowserver.io
