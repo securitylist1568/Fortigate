@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-206-225.dynamic-ip.hinet.net
+136.153.53.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 153.149.216.162.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
@@ -28,6 +29,7 @@
 192.248.150.180.vultrusercontent.com
 198.111.230.35.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
+22.127.156.34.bc.googleusercontent.com
 233.128.35.171.adsl-pool.jx.chinaunicom.com
 2d96f380.kbp.customer.misaka.io
 63.210.203.35.bc.googleusercontent.com
@@ -42,6 +44,10 @@ dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-18-234-140-213.compute-1.amazonaws.com
+ec2-18-234-52-162.compute-1.amazonaws.com
+ec2-52-91-252-11.compute-1.amazonaws.com
+ec2-54-242-30-216.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
