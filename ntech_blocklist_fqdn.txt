@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-206-225.dynamic-ip.hinet.net
 123.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 153.149.216.162.bc.googleusercontent.com
