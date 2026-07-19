@@ -37,6 +37,7 @@
 248.242.38.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 38.232.156.34.bc.googleusercontent.com
+45.77.61.56.vultrusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 63.210.203.35.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
@@ -74,6 +75,7 @@ hosted-by.quicksrv.io
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
