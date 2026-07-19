@@ -66,6 +66,7 @@ ec2-54-234-67-238.compute-1.amazonaws.com
 ec2-54-242-30-216.compute-1.amazonaws.com
 ec2-54-91-134-82.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+ghost-mongo-d4944b6f.mongo.ondigitalocean.com
 hn.kd.ny.adsl
 hosted-by.quicksrv.io
 htb-h9b8tjwfph.htb-cloud.com
