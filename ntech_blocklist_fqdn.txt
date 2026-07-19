@@ -23,6 +23,7 @@
 132.129.116.136.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 162.153.156.34.bc.googleusercontent.com
 169.81.62.34.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
@@ -36,6 +37,7 @@
 91-208-92-199.as212027.host
 aim.sba-research.org
 amz.unixwiz.net
+azpdcgf6ljqc.stretchoid.com
 azpdcs19ivb5.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsghq7jpi.stretchoid.com
