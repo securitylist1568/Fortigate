@@ -20,6 +20,7 @@
 118-168-206-225.dynamic-ip.hinet.net
 118.81.38.34.bc.googleusercontent.com
 136.153.53.34.bc.googleusercontent.com
+147.136.130.34.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
 169.81.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -68,6 +69,7 @@ ec2-54-242-30-216.compute-1.amazonaws.com
 ec2-54-91-134-82.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hosted-by.quicksrv.io
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
