@@ -36,6 +36,7 @@
 2d96f380.kbp.customer.misaka.io
 38.232.156.34.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
+50-116-23-150.ip.linodeusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 67.218.77.34.bc.googleusercontent.com
 79.124.56.142.superbit.host
@@ -82,6 +83,7 @@ rootevidence.com
 scan-13l.shadowserver.io
 scan-14h.shadowserver.io
 scan-47k.shadowserver.io
+scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
