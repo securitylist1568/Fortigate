@@ -31,8 +31,11 @@
 192.248.150.180.vultrusercontent.com
 198.111.230.35.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
+219.206.195.35.bc.googleusercontent.com
 22.127.156.34.bc.googleusercontent.com
+220.51.78.34.bc.googleusercontent.com
 233.128.35.171.adsl-pool.jx.chinaunicom.com
+248.242.38.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 62-210-113-113.rev.poneytelecom.eu
 63.210.203.35.bc.googleusercontent.com
