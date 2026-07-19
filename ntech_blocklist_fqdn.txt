@@ -23,10 +23,13 @@
 144.202.92.17.vultrusercontent.com
 147.136.130.34.bc.googleusercontent.com
 162.153.156.34.bc.googleusercontent.com
+169.81.62.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+187.20.76.34.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 22.127.156.34.bc.googleusercontent.com
+248.242.38.34.bc.googleusercontent.com
 45-56-100-23.ip.linodeusercontent.com
 45.77.61.56.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
