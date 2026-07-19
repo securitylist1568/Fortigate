@@ -27,11 +27,13 @@
 192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
 233.128.35.171.adsl-pool.jx.chinaunicom.com
+2d96f380.kbp.customer.misaka.io
 63.210.203.35.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
