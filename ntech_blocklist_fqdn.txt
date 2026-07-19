@@ -37,6 +37,7 @@
 233.128.35.171.adsl-pool.jx.chinaunicom.com
 248.242.38.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
+38.232.156.34.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 63.210.203.35.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
@@ -46,6 +47,7 @@ b1b10ded.customer.misaka.ist
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
+crawler055.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
