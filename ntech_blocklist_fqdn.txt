@@ -24,9 +24,9 @@
 142.210.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
-162.153.156.34.bc.googleusercontent.com
 169.81.62.34.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
+172-232-121-108.ip.linodeusercontent.com
 183178240191.ctinets.com
 185-45-195-15.hostsailor.com
 187.20.76.34.bc.googleusercontent.com
@@ -61,16 +61,12 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 linda.probe.onyphe.net
 mfyabgec.musicpda.com
-ns5036797.ip-15-235-228.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
-please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
-scan-08g.shadowserver.io
 scan-68-00.shadowserver.io
-scan-74-02.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
