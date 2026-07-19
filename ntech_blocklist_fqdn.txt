@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.129.116.136.bc.googleusercontent.com
-144.202.92.17.vultrusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 159261.landvps.online
 172-232-121-108.ip.linodeusercontent.com
@@ -33,11 +32,8 @@
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdcgf6ljqc.stretchoid.com
-azpdss5q5gjp.stretchoid.com
 azpdsslt2dou.stretchoid.com
 azpdws28galu.stretchoid.com
-azpdwscoks7c.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 clientezavaz-181-191-4-22.zavaz.net.br
@@ -50,7 +46,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns3269709.ip-51-89-11.eu
 ns5036797.ip-15-235-228.net
@@ -61,7 +56,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
 rootevidence.com
-scan-02k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
