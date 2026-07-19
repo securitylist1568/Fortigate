@@ -17,11 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 159261.landvps.online
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
+23-92-21-204.ip.linodeusercontent.com
 246.200.59.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 35.174.246.35.bc.googleusercontent.com
@@ -52,6 +52,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
