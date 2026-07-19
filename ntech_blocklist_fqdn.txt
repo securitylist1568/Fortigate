@@ -20,6 +20,7 @@
 118-168-206-225.dynamic-ip.hinet.net
 118.81.38.34.bc.googleusercontent.com
 125-209-88-139.multi.net.pk
+132.129.116.136.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
