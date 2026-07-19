@@ -24,16 +24,10 @@
 142.210.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
-169.81.62.34.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 183178240191.ctinets.com
 185-45-195-15.hostsailor.com
-187.20.76.34.bc.googleusercontent.com
-219.206.195.35.bc.googleusercontent.com
-22.127.156.34.bc.googleusercontent.com
-220.51.78.34.bc.googleusercontent.com
-248.242.38.34.bc.googleusercontent.com
 91-208-92-199.as212027.host
 97-107-131-221.ip.linodeusercontent.com
 aim.sba-research.org
@@ -63,7 +57,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
-linda.probe.onyphe.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
