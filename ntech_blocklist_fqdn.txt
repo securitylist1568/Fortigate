@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+11.197.22.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,14 +22,23 @@
 118-168-206-225.dynamic-ip.hinet.net
 144.202.92.17.vultrusercontent.com
 172-232-32-15.ip.linodeusercontent.com
+172.148.195.35.bc.googleusercontent.com
+173.131.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.20.76.34.bc.googleusercontent.com
 194-116-17-164-static.bbbell.com
 194-195-122-95.ip.linodeusercontent.com
 21.39.113.136.bc.googleusercontent.com
 23-92-21-204.ip.linodeusercontent.com
+240.87.187.35.bc.googleusercontent.com
+253.39.205.35.bc.googleusercontent.com
+31.28.240.35.bc.googleusercontent.com
 35.174.246.35.bc.googleusercontent.com
 61.59.239.221.broad.tj.tj.dynamic.163data.com.cn
+68.52.62.34.bc.googleusercontent.com
+69.146.62.34.bc.googleusercontent.com
 94-229-64-108.as42831.net
+96.238.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -50,6 +60,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-41m.shadowserver.io
 scan-52k.shadowserver.io
 scan-63-8.shadowserver.io
 scan-76-03.shadowserver.io
