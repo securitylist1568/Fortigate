@@ -31,6 +31,7 @@
 81.7.140.34.bc.googleusercontent.com
 91.178.205.92.host.secureserver.net
 92.208.140.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgmv4rzj.stretchoid.com
 azpdcs19ivb5.stretchoid.com
@@ -45,6 +46,8 @@ azpdsgbhg8mp.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdsgigumtz.stretchoid.com
 azpdsgocdz87.stretchoid.com
+azpdsgt866ai.stretchoid.com
+azpdsgv1yi6q.stretchoid.com
 azpdsgwinodf.stretchoid.com
 azpdsgxl6zu7.stretchoid.com
 azpdss5q5gjp.stretchoid.com
@@ -69,6 +72,7 @@ ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-214.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
