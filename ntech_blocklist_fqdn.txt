@@ -44,7 +44,9 @@
 23-92-27-179.ip.linodeusercontent.com
 240.87.187.35.bc.googleusercontent.com
 253.39.205.35.bc.googleusercontent.com
+2d834781.kunde.misaka.berlin
 31.28.240.35.bc.googleusercontent.com
+32.202.195.35.bc.googleusercontent.com
 35.174.246.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 61.59.239.221.broad.tj.tj.dynamic.163data.com.cn
@@ -90,6 +92,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-52k.shadowserver.io
