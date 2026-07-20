@@ -25,7 +25,6 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 144.202.92.17.vultrusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -48,7 +47,6 @@
 2d834781.kunde.misaka.berlin
 31.28.240.35.bc.googleusercontent.com
 32.202.195.35.bc.googleusercontent.com
-35.174.246.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 61.59.239.221.broad.tj.tj.dynamic.163data.com.cn
 68.52.62.34.bc.googleusercontent.com
@@ -90,6 +88,7 @@ li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
