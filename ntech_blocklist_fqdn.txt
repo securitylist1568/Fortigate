@@ -49,6 +49,7 @@
 60-249-14-121.hinet-ip.hinet.net
 68.52.62.34.bc.googleusercontent.com
 69.146.62.34.bc.googleusercontent.com
+9213038d.customer.misaka.se
 96.238.77.34.bc.googleusercontent.com
 activity189.numbercombative.com
 aim.sba-research.org
@@ -60,6 +61,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-53-92-177.compute-1.amazonaws.com
 ec2-13-222-61-160.compute-1.amazonaws.com
+ec2-18-191-58-47.us-east-2.compute.amazonaws.com
 ec2-18-205-245-90.compute-1.amazonaws.com
 ec2-18-215-183-116.compute-1.amazonaws.com
 ec2-3-95-169-233.compute-1.amazonaws.com
