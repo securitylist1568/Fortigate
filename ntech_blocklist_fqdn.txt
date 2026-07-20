@@ -26,6 +26,7 @@
 187.20.76.34.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 233.128.35.171.adsl-pool.jx.chinaunicom.com
+36-229-140-100.dynamic-ip.hinet.net
 38.143.65.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
