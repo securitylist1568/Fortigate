@@ -22,6 +22,7 @@
 179.92.240.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201.216.189.35.bc.googleusercontent.com
+246.200.59.34.bc.googleusercontent.com
 38.143.65.34.bc.googleusercontent.com
 50.97.78.34.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
@@ -75,7 +76,6 @@ azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -91,7 +91,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-53j.shadowserver.io
-scan-63-8.shadowserver.io
 scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
