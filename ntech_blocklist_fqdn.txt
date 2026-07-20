@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-105.152.195.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,19 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-139-162-156-226.ip.linodeusercontent.com
-160.222.241.35.bc.googleusercontent.com
-167.211.76.34.bc.googleusercontent.com
-179.92.240.35.bc.googleusercontent.com
-181.216.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-201.216.189.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
-244.98.77.34.bc.googleusercontent.com
-50.97.78.34.bc.googleusercontent.com
-81.7.140.34.bc.googleusercontent.com
 91.178.205.92.host.secureserver.net
-92.208.140.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
@@ -58,6 +47,7 @@ azpdsgxl6zu7.stretchoid.com
 azpdss5q5gjp.stretchoid.com
 azpdssaj95k7.stretchoid.com
 azpdssbshtjx.stretchoid.com
+azpdssc2clde.stretchoid.com
 azpdssfs3wsw.stretchoid.com
 azpdssguw7ri.stretchoid.com
 azpdsskf5buy.stretchoid.com
