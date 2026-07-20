@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-165-104-104.dynamic-ip.hinet.net
 135.0.156.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
@@ -35,8 +34,6 @@
 173.131.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.20.76.34.bc.googleusercontent.com
-194-116-17-164-static.bbbell.com
-194-195-122-95.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 240.87.187.35.bc.googleusercontent.com
 246.200.59.34.bc.googleusercontent.com
@@ -61,7 +58,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-53-92-177.compute-1.amazonaws.com
 ec2-13-222-61-160.compute-1.amazonaws.com
-ec2-18-191-58-47.us-east-2.compute.amazonaws.com
 ec2-18-205-245-90.compute-1.amazonaws.com
 ec2-18-215-183-116.compute-1.amazonaws.com
 ec2-3-95-169-233.compute-1.amazonaws.com
@@ -81,7 +77,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
-ip244.ip-46-105-160.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1992-217.members.linode.com
