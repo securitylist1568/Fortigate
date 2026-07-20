@@ -19,12 +19,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-165-104-104.dynamic-ip.hinet.net
-118-168-206-225.dynamic-ip.hinet.net
 135.0.156.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
-144.202.92.17.vultrusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
@@ -38,7 +36,6 @@
 187.20.76.34.bc.googleusercontent.com
 194-116-17-164-static.bbbell.com
 194-195-122-95.ip.linodeusercontent.com
-21.39.113.136.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 240.87.187.35.bc.googleusercontent.com
 246.200.59.34.bc.googleusercontent.com
@@ -79,12 +76,10 @@ ec2-54-91-68-68.compute-1.amazonaws.com
 ec2-98-82-1-192.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip158.ip-72-251-5.net
 ip244.ip-46-105-160.eu
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
