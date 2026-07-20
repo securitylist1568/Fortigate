@@ -80,7 +80,7 @@ ec2-98-82-1-192.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip158.ip-72-251-5.net
+ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1992-217.members.linode.com
@@ -96,16 +96,10 @@ recyber.net
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
-scan-52k.shadowserver.io
 scan-59g.shadowserver.io
-scan-63-8.shadowserver.io
 scan-69-05.shadowserver.io
 scan-71-05.shadowserver.io
 scan-75-05.shadowserver.io
-scan-76-03.shadowserver.io
-scan-78-08.shadowserver.io
-scan-84-0.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
