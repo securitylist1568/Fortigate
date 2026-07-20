@@ -46,6 +46,7 @@
 32.202.195.35.bc.googleusercontent.com
 38.143.65.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
+45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 68.52.62.34.bc.googleusercontent.com
 69.146.62.34.bc.googleusercontent.com
