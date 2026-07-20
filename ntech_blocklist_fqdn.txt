@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.209-183-91.adsl-static.isp.belgacom.be
-132.129.116.136.bc.googleusercontent.com
 139-162-156-226.ip.linodeusercontent.com
 149.28.57.153.vultrusercontent.com
 160.222.241.35.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 201.216.189.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 244.98.77.34.bc.googleusercontent.com
-36-229-140-100.dynamic-ip.hinet.net
 50.97.78.34.bc.googleusercontent.com
 81.7.140.34.bc.googleusercontent.com
 92.208.140.34.bc.googleusercontent.com
@@ -56,7 +54,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-61-4.shadowserver.io
+scan-53j.shadowserver.io
 scan-63-8.shadowserver.io
 scan-69-05.shadowserver.io
 security.criminalip.com
