@@ -34,6 +34,7 @@
 173.131.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.20.76.34.bc.googleusercontent.com
+21.39.113.136.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 240.87.187.35.bc.googleusercontent.com
 246.200.59.34.bc.googleusercontent.com
@@ -93,6 +94,7 @@ scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-52k.shadowserver.io
+scan-59g.shadowserver.io
 scan-63-8.shadowserver.io
 scan-69-05.shadowserver.io
 scan-71-05.shadowserver.io
