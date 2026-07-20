@@ -22,7 +22,6 @@
 159261.landvps.online
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
 23-92-21-204.ip.linodeusercontent.com
 246.200.59.34.bc.googleusercontent.com
@@ -46,7 +45,6 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns3269709.ip-51-89-11.eu
