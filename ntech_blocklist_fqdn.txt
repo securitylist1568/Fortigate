@@ -36,7 +36,6 @@
 59.129.195.35.bc.googleusercontent.com
 81.7.140.34.bc.googleusercontent.com
 92.208.140.34.bc.googleusercontent.com
-aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 alt2.mail-worker2.infonet.hr
 alt5.ns1.mojsite.com
@@ -71,11 +70,11 @@ garden.plusvps.com
 hiphiphour2.crohost.net
 hn.kd.ny.adsl
 hns.plusvps.com
+hr-marvin.dhh.company
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ivancica1.plusvps.com
 kuz.plusvps.com
-li1873-236.members.linode.com
 lin123.mojsite.com
 linker-lb.plusvps.com
 manifestiranje2.plusvps.com
