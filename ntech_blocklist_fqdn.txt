@@ -31,10 +31,8 @@
 21.39.113.136.bc.googleusercontent.com
 22.104.195.35.bc.googleusercontent.com
 221.70.78.34.bc.googleusercontent.com
-246.200.59.34.bc.googleusercontent.com
 45-79-187-153.ip.linodeusercontent.com
 59.129.195.35.bc.googleusercontent.com
-62-210-209-229.rev.poneytelecom.eu
 81.7.140.34.bc.googleusercontent.com
 92.208.140.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
@@ -73,9 +71,7 @@ hns.plusvps.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kuz.plusvps.com
-li1570-11.members.linode.com
 li1873-236.members.linode.com
-li1972-67.members.linode.com
 lin123.mojsite.com
 manifestiranje2.plusvps.com
 mcweb03oc.mail2world.com
@@ -100,10 +96,13 @@ scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-58a.shadowserver.io
 scan-60-10.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.hostforweb.net
 users219.vip.heteml.jp
 vps-bokic.s4w.com.hr
+vps-hagio.infonet.hr
 vps-kovacfitness.s4w.com.hr
+vps-mirakul.plusvps.com
 vsc-dev.mojsite.com
