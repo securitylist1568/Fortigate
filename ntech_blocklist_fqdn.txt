@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-166-91-26.dynamic-ip.hinet.net
-118-166-96-215.dynamic-ip.hinet.net
 12.8.14.34.bc.googleusercontent.com
 143.23.175.207.bc.googleusercontent.com
 152.252.156.34.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 185-45-195-15.hostsailor.com
 186.248.52.34.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
-21.39.113.136.bc.googleusercontent.com
 22.104.195.35.bc.googleusercontent.com
 221.70.78.34.bc.googleusercontent.com
 45-79-187-153.ip.linodeusercontent.com
@@ -105,9 +103,7 @@ rping.ipip.net
 s4850.vps.hosting
 scan-04f.shadowserver.io
 scan-05j.shadowserver.io
-scan-45g.shadowserver.io
 scan-45o.shadowserver.io
-scan-58a.shadowserver.io
 scan-60-10.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
