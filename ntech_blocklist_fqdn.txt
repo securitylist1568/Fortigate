@@ -38,6 +38,7 @@
 92.208.140.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
+alt2.mail-worker2.infonet.hr
 alt5.ns1.mojsite.com
 amz.unixwiz.net
 argument2.crohost.net
@@ -75,6 +76,7 @@ ip29.sudolio.io
 kuz.plusvps.com
 li1873-236.members.linode.com
 lin123.mojsite.com
+linker-lb.plusvps.com
 manifestiranje2.plusvps.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
