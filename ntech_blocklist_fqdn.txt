@@ -80,6 +80,7 @@ recyber.net
 rogers.probe.onyphe.net
 s4850.vps.hosting
 scan-05j.shadowserver.io
+scan-08g.shadowserver.io
 scan-60-10.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
