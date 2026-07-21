@@ -23,7 +23,6 @@
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 229.9.47.34.bc.googleusercontent.com
-246.200.59.34.bc.googleusercontent.com
 35.174.246.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 aim.sba-research.org
