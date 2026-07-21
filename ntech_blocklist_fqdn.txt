@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-166-96-215.dynamic-ip.hinet.net
-118-168-206-225.dynamic-ip.hinet.net
 12.8.14.34.bc.googleusercontent.com
 143.23.175.207.bc.googleusercontent.com
 152.252.156.34.bc.googleusercontent.com
@@ -39,12 +38,12 @@
 81.7.140.34.bc.googleusercontent.com
 92.208.140.34.bc.googleusercontent.com
 aim.sba-research.org
+alt1.vps-bplanet-ignis112-dr.controlpanel.si
 alt2.mail-worker2.infonet.hr
 alt5.ns1.mojsite.com
 amz.unixwiz.net
 argument2.crohost.net
 b2.org.afilias-nst.org
-b9ead587.zrh.customer.misaka.io
 client.yota.ru
 creditpoint2.mojsite.com
 dal215.hawkhost.com
@@ -79,6 +78,7 @@ ip29.sudolio.io
 ivancica1.plusvps.com
 kuz.plusvps.com
 li1570-11.members.linode.com
+lin108.mojsite.com
 lin123.mojsite.com
 linker-lb.plusvps.com
 manifestiranje2.plusvps.com
