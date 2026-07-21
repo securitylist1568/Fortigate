@@ -22,6 +22,7 @@
 143.23.175.207.bc.googleusercontent.com
 152.252.156.34.bc.googleusercontent.com
 159.48.77.34.bc.googleusercontent.com
+164.213.53.34.bc.googleusercontent.com
 18.16.62.34.bc.googleusercontent.com
 180.64.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,6 +35,7 @@
 62-210-209-229.rev.poneytelecom.eu
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
+alt5.ns1.mojsite.com
 amz.unixwiz.net
 argument2.crohost.net
 b2.org.afilias-nst.org
@@ -81,6 +83,7 @@ rootevidence.com
 rovinj2.mojsite.com
 rping.ipip.net
 scan-04f.shadowserver.io
+scan-05j.shadowserver.io
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-45g.shadowserver.io
@@ -91,4 +94,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.hostforweb.net
 users219.vip.heteml.jp
+vps-kovacfitness.s4w.com.hr
 vsc-dev.mojsite.com
