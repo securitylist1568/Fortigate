@@ -48,6 +48,7 @@ b9ead587.zrh.customer.misaka.io
 client.yota.ru
 creditpoint2.mojsite.com
 dal215.hawkhost.com
+dcp5.mojsite.com
 dns12.online.tj.cn
 ec2-107-23-159-32.compute-1.amazonaws.com
 ec2-13-220-107-9.compute-1.amazonaws.com
