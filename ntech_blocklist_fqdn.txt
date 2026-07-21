@@ -18,11 +18,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.129.116.136.bc.googleusercontent.com
-1651879.cloudwaysapps.com
 172-245-208-150-host.colocrossing.com
 177.249.60.149-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
 204.76.203.49.ptr.pfcloud.network
 229.9.47.34.bc.googleusercontent.com
 246.200.59.34.bc.googleusercontent.com
@@ -33,7 +31,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -41,7 +38,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip102.ip-5-196-154.eu
 ip158.ip-72-251-5.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -50,7 +46,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-06g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
