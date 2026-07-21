@@ -44,6 +44,7 @@ argument2.crohost.net
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
+creditpoint2.mojsite.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-107-23-159-32.compute-1.amazonaws.com
@@ -80,6 +81,7 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1.plusvps.com
 pc112.cses.ilc.edu.tw
+pdcscan5.scanning.cybcube.com
 pinkytales.com
 prohost21.crohost.net
 prohost31.crohost.net
@@ -106,5 +108,6 @@ users219.vip.heteml.jp
 vps-bokic.s4w.com.hr
 vps-hagio.infonet.hr
 vps-kovacfitness.s4w.com.hr
+vps-megatrans2.s4w.com.hr
 vps-mirakul.plusvps.com
 vsc-dev.mojsite.com
