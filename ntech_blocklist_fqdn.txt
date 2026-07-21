@@ -29,10 +29,12 @@
 195-154-246-253.rev.poneytelecom.eu
 21.39.113.136.bc.googleusercontent.com
 22.104.195.35.bc.googleusercontent.com
+221.70.78.34.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 81.7.140.34.bc.googleusercontent.com
 92.208.140.34.bc.googleusercontent.com
+aim.sba-research.org
 alt1.vps-bplanet-ignis112-dr.controlpanel.si
 alt2.mail-worker2.infonet.hr
 alt5.ns1.mojsite.com
@@ -43,15 +45,18 @@ creditpoint2.mojsite.com
 dal215.hawkhost.com
 dcp5.mojsite.com
 dns12.online.tj.cn
+fazana.mojsite.com
 festa04.jcatransporte.com.br
 hiphiphour2.crohost.net
 hn.kd.ny.adsl
 hns.plusvps.com
+hosted-by.host-palace.com
 hr-marvin.dhh.company
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ivancica1.plusvps.com
 li1570-11.members.linode.com
+li1817-110.members.linode.com
 lin108.mojsite.com
 lin123.mojsite.com
 linker-lb.plusvps.com
@@ -96,3 +101,4 @@ vps-mirakul.plusvps.com
 vps-travelin.s4w.com.hr
 vps-umag.s4w.com.hr
 win15.mojsite.com
+www.internet-albedo.net
