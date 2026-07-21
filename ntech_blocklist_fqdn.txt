@@ -75,6 +75,7 @@ kuz.plusvps.com
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 li1972-67.members.linode.com
+lin123.mojsite.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -82,6 +83,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 prohost21.crohost.net
 prohost31.crohost.net
+proteka.plusvps.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
