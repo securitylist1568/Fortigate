@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-166-91-26.dynamic-ip.hinet.net
+118-168-206-225.dynamic-ip.hinet.net
 159261.landvps.online
 182.25.125.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -27,6 +28,7 @@
 21.39.113.136.bc.googleusercontent.com
 221.70.78.34.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
+61-216-185-248.hinet-ip.hinet.net
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
 alt1.vps-bplanet-ignis112-dr.controlpanel.si
