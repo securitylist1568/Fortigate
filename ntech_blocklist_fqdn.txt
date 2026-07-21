@@ -117,7 +117,9 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.hostforweb.net
 users219.vip.heteml.jp
+vap-holistera.plusvps.com
 vps-1762766510267.plusvps.com
+vps-1764632771896.plusvps.com
 vps-bokic.s4w.com.hr
 vps-dlt.plusvps.com
 vps-hagio.infonet.hr
