@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-163-18-153.hinet-ip.hinet.net
-118-166-91-26.dynamic-ip.hinet.net
 118-168-206-225.dynamic-ip.hinet.net
 143.23.175.207.bc.googleusercontent.com
 155.67.232.180.dsl.static.inet
@@ -49,8 +48,6 @@ ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1817-110.members.linode.com
-lin108.mojsite.com
-mail-worker3.infonet.hr
 mfyabgec.musicpda.com
 ns2.freedns.dhh.company
 p-hr2.biscience.com
@@ -59,7 +56,6 @@ pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rogers.probe.onyphe.net
 scan-06g.shadowserver.io
 scan-08g.shadowserver.io
 scan-60-10.shadowserver.io
@@ -72,10 +68,7 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-vap-holistera.plusvps.com
 vmi3446029.contaboserver.net
-vps-1762766510267.plusvps.com
-vps-1764632771896.plusvps.com
 vps-in-portal2.infonet.hr
 vps-travelin.s4w.com.hr
 vps-umag.s4w.com.hr
