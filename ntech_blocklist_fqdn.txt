@@ -92,6 +92,7 @@ no-mans-land.m247.com
 ns1.plusvps.com
 p-hr2.biscience.com
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pdcscan5.scanning.cybcube.com
 pinkytales.com
 prohost21.crohost.net
@@ -129,5 +130,6 @@ vps-hagio.infonet.hr
 vps-kovacfitness.s4w.com.hr
 vps-megatrans2.s4w.com.hr
 vps-mirakul.plusvps.com
+vps-travelin.s4w.com.hr
 vsc-dev.mojsite.com
 win15.mojsite.com
