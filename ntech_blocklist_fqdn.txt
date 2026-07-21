@@ -29,6 +29,7 @@
 180.64.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.248.52.34.bc.googleusercontent.com
+194-195-253-86.ip.linodeusercontent.com
 21.39.113.136.bc.googleusercontent.com
 22.104.195.35.bc.googleusercontent.com
 221.70.78.34.bc.googleusercontent.com
@@ -75,6 +76,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ivancica1.plusvps.com
 kuz.plusvps.com
+li1570-11.members.linode.com
 lin123.mojsite.com
 linker-lb.plusvps.com
 manifestiranje2.plusvps.com
@@ -95,6 +97,7 @@ recyber.net
 rootevidence.com
 rovinj2.mojsite.com
 rping.ipip.net
+s4850.vps.hosting
 scan-04f.shadowserver.io
 scan-05j.shadowserver.io
 scan-41m.shadowserver.io
