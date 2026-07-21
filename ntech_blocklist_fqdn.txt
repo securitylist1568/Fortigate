@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-166-96-215.dynamic-ip.hinet.net
 118-168-206-225.dynamic-ip.hinet.net
+12.8.14.34.bc.googleusercontent.com
 143.23.175.207.bc.googleusercontent.com
 152.252.156.34.bc.googleusercontent.com
 159.48.77.34.bc.googleusercontent.com
@@ -76,6 +77,7 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 li1972-67.members.linode.com
 lin123.mojsite.com
+manifestiranje2.plusvps.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -101,5 +103,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.hostforweb.net
 users219.vip.heteml.jp
+vps-bokic.s4w.com.hr
 vps-kovacfitness.s4w.com.hr
 vsc-dev.mojsite.com
