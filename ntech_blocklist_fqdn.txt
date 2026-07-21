@@ -69,6 +69,7 @@ ec2-54-237-223-62.compute-1.amazonaws.com
 ec2-54-242-53-224.compute-1.amazonaws.com
 ec2-54-82-246-86.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+garden.plusvps.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -89,9 +90,11 @@ rping.ipip.net
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-45g.shadowserver.io
+scan-45o.shadowserver.io
 scan-58a.shadowserver.io
 scan-60-10.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.hostforweb.net
 users219.vip.heteml.jp
+vsc-dev.mojsite.com
