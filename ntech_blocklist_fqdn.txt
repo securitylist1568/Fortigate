@@ -109,13 +109,17 @@ scan-45o.shadowserver.io
 scan-58a.shadowserver.io
 scan-60-10.shadowserver.io
 security.criminalip.com
+server-65-9-180-35.tpe53.r.cloudfront.net
+smtp-vip.plusvps.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.hostforweb.net
 users219.vip.heteml.jp
 vps-bokic.s4w.com.hr
+vps-dlt.plusvps.com
 vps-hagio.infonet.hr
 vps-kovacfitness.s4w.com.hr
 vps-megatrans2.s4w.com.hr
 vps-mirakul.plusvps.com
 vsc-dev.mojsite.com
+win15.mojsite.com
