@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -33,6 +34,7 @@
 21.39.113.136.bc.googleusercontent.com
 22.104.195.35.bc.googleusercontent.com
 221.70.78.34.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 45-79-187-153.ip.linodeusercontent.com
 59.129.195.35.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -110,6 +112,7 @@ scan-60-10.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 server-65-9-180-124.tpe53.r.cloudfront.net
+server-65-9-180-128.tpe53.r.cloudfront.net
 server-65-9-180-35.tpe53.r.cloudfront.net
 smtp-vip.plusvps.com
 smtp1.telemach.net
