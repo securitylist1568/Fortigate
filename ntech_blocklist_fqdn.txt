@@ -90,6 +90,7 @@ mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1.plusvps.com
+p-hr2.biscience.com
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
 pinkytales.com
@@ -114,6 +115,7 @@ security.criminalip.com
 server-65-9-180-124.tpe53.r.cloudfront.net
 server-65-9-180-128.tpe53.r.cloudfront.net
 server-65-9-180-35.tpe53.r.cloudfront.net
+server-65-9-180-41.tpe53.r.cloudfront.net
 smtp-vip.plusvps.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
