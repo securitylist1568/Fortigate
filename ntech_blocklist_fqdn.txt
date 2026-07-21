@@ -37,7 +37,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip102.ip-5-196-154.eu
-ip158.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
@@ -49,10 +48,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.126.121.167.89.clients.your-server.de
 users219.vip.heteml.jp
-vps-bc177a19.vps.ovh.net
