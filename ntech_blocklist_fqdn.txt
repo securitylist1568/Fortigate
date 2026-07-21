@@ -65,6 +65,7 @@ manifestiranje2.plusvps.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 ns1.plusvps.com
+ns2.freedns.dhh.company
 p-hr2.biscience.com
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
@@ -88,6 +89,7 @@ server-65-9-180-41.tpe53.r.cloudfront.net
 smtp-vip.plusvps.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 vap-holistera.plusvps.com
 vps-1762766510267.plusvps.com
@@ -95,6 +97,7 @@ vps-1764632771896.plusvps.com
 vps-bokic.s4w.com.hr
 vps-dlt.plusvps.com
 vps-hagio.infonet.hr
+vps-in-portal2.infonet.hr
 vps-kovacfitness.s4w.com.hr
 vps-megatrans2.s4w.com.hr
 vps-mirakul.plusvps.com
