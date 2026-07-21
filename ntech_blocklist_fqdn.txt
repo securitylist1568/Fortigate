@@ -70,6 +70,7 @@ recyber.net
 rootevidence.com
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
+scan-45g.shadowserver.io
 scan-58a.shadowserver.io
 scan-60-10.shadowserver.io
 security.criminalip.com
