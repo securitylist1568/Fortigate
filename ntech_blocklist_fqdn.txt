@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 118-168-211-182.dynamic-ip.hinet.net
 173-255-236-33.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -37,7 +36,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip150.ip-51-81-37.us
 ip158.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -266,7 +264,6 @@ recyber.net
 rootevidence.com
 scan-56f.shadowserver.io
 scan-58a.shadowserver.io
-scan-59g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
