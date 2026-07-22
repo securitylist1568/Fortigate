@@ -18,10 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
-173-255-234-34.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.30.ptr.pfcloud.network
-21.39.113.136.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
@@ -259,7 +256,6 @@ prod-xenon-us-southeast-8.li.binaryedge.ninja
 prod-xenon-us-west-6.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-56f.shadowserver.io
 scan-58a.shadowserver.io
 scan-59g.shadowserver.io
