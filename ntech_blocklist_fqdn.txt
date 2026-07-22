@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 124-8-168-189.dynamic.tfn.net.tw
+132.129.116.136.bc.googleusercontent.com
 134.169.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.235.52.34.bc.googleusercontent.com
