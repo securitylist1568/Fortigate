@@ -28,6 +28,8 @@
 229.9.47.34.bc.googleusercontent.com
 240.61.175.207.bc.googleusercontent.com
 245.50.233.35.bc.googleusercontent.com
+28.150.38.185.baremetal.zare.com
+2d96f25f.customer.misaka.taipei
 39.102.79.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 73.252.53.34.bc.googleusercontent.com
