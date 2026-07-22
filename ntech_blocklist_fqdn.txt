@@ -29,6 +29,7 @@
 245.50.233.35.bc.googleusercontent.com
 28.150.38.185.baremetal.zare.com
 2d96f25f.customer.misaka.taipei
+31.162.52.34.bc.googleusercontent.com
 39.102.79.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 62-210-209-229.rev.poneytelecom.eu
@@ -102,6 +103,7 @@ node-115-187-59-168.alliancebroadband.in
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-barium-us-west-46.li.binaryedge.ninja
+prod-boron-sfo2-45.do.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
