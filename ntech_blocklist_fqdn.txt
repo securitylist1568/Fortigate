@@ -260,6 +260,7 @@ prod-xenon-us-west-6.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-58a.shadowserver.io
 scan-59g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
