@@ -24,14 +24,9 @@
 204.76.203.30.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler139.deepfield.net
-crawler147.deepfield.net
-crawler192.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -42,7 +37,6 @@ ip158.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-monet-21.crawler.deepfield.net
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
