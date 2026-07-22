@@ -25,8 +25,6 @@
 21.39.113.136.bc.googleusercontent.com
 240.61.175.207.bc.googleusercontent.com
 245.50.233.35.bc.googleusercontent.com
-28.150.38.185.baremetal.zare.com
-2d96f25f.customer.misaka.taipei
 31.162.52.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 62-210-209-229.rev.poneytelecom.eu
@@ -50,7 +48,6 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-astatine-nyc1-0.do.binaryedge.ninja
-prod-barium-us-west-46.li.binaryedge.ninja
 prod-boron-nyc1-90.do.binaryedge.ninja
 prod-boron-sfo2-45.do.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
