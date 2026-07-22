@@ -57,6 +57,7 @@ prod-boron-nyc1-90.do.binaryedge.ninja
 prod-boron-sfo2-45.do.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13n.shadowserver.io
 scan-43h.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
