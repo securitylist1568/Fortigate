@@ -20,10 +20,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 124-8-168-189.dynamic.tfn.net.tw
 132.83.195.35.bc.googleusercontent.com
+134.169.156.34.bc.googleusercontent.com
 170.0.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.235.52.34.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
+240.61.175.207.bc.googleusercontent.com
 28.150.38.185.baremetal.zare.com
 2d96f25f.customer.misaka.taipei
 31.162.52.34.bc.googleusercontent.com
