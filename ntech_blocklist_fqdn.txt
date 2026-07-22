@@ -21,8 +21,6 @@
 185-45-195-15.hostsailor.com
 192-155-90-44.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
-204.76.203.49.ptr.pfcloud.network
-35.174.246.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -35,14 +33,13 @@ exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip102.ip-5-196-154.eu
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 lisbon.portugal.com
+mail.nichias.co.th
 mfyabgec.musicpda.com
 o606.scanner.modat.io
-o607.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
