@@ -19,16 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 132.120.78.34.bc.googleusercontent.com
 132.129.116.136.bc.googleusercontent.com
-134.169.156.34.bc.googleusercontent.com
 173-255-234-34.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-196.235.52.34.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
-240.61.175.207.bc.googleusercontent.com
-245.50.233.35.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-73.252.53.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -41,6 +36,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -51,10 +47,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-13n.shadowserver.io
+scan-59g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-trafo.kz
 users219.vip.heteml.jp
-www.internet-albedo.net
