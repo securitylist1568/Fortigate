@@ -23,7 +23,6 @@
 134.169.156.34.bc.googleusercontent.com
 170.0.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192-155-90-44.ip.linodeusercontent.com
 196.235.52.34.bc.googleusercontent.com
 229.9.47.34.bc.googleusercontent.com
 240.61.175.207.bc.googleusercontent.com
@@ -91,11 +90,9 @@ ec2-44-204-28-166.compute-1.amazonaws.com
 ec2-54-163-60-25.compute-1.amazonaws.com
 ec2-54-242-193-14.compute-1.amazonaws.com
 ec2-98-80-77-204.compute-1.amazonaws.com
-exhibitionists.legendskit.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mail.nichias.co.th
@@ -106,8 +103,6 @@ pinkytales.com
 prod-barium-us-west-46.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-scan-10g.shadowserver.io
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
 security.criminalip.com
