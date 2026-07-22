@@ -20,6 +20,7 @@
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 197.150.216.162.bc.googleusercontent.com
+252.150.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 aa27e3fb.sea.customer.misaka.io
