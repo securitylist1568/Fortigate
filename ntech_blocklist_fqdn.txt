@@ -27,10 +27,8 @@
 245.50.233.35.bc.googleusercontent.com
 31.162.52.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
-62-210-209-229.rev.poneytelecom.eu
 73.252.53.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
-79.124.56.142.superbit.host
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
