@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.120.78.34.bc.googleusercontent.com
-132.129.116.136.bc.googleusercontent.com
 173-255-234-34.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
@@ -43,7 +42,6 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 monet-21.crawler.deepfield.net
 no-mans-land.m247.com
-o613.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-astatine-ca-central-3.li.binaryedge.ninja
