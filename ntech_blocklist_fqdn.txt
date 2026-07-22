@@ -18,6 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+118-168-211-182.dynamic-ip.hinet.net
+173-255-236-33.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 197.150.216.162.bc.googleusercontent.com
 220.211.203.35.bc.googleusercontent.com
@@ -261,6 +263,7 @@ prod-xenon-us-southeast-8.li.binaryedge.ninja
 prod-xenon-us-west-6.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-56f.shadowserver.io
 scan-58a.shadowserver.io
 scan-59g.shadowserver.io
