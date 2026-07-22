@@ -32,6 +32,7 @@
 2d96f25f.customer.misaka.taipei
 39.102.79.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+62-210-209-229.rev.poneytelecom.eu
 73.252.53.34.bc.googleusercontent.com
 90.248.205.35.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
