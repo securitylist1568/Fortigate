@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-182.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+192-155-90-44.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.49.ptr.pfcloud.network
 35.174.246.35.bc.googleusercontent.com
@@ -46,6 +47,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-10g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
