@@ -26,6 +26,7 @@
 240.61.175.207.bc.googleusercontent.com
 245.50.233.35.bc.googleusercontent.com
 31.162.52.34.bc.googleusercontent.com
+55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 73.252.53.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 aim.sba-research.org
@@ -33,6 +34,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
+crawler139.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 federationchilla.site
