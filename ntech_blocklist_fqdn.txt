@@ -99,6 +99,8 @@ proxy-ca002-ext2.a.ahrefs.com
 r91.mailtpsv.com
 recyber.net
 reverse.anonet.in
+scan-02k.shadowserver.io
+scan-14h.shadowserver.io
 scan-42i.shadowserver.io
 scan-52k.shadowserver.io
 scan-53j.shadowserver.io
