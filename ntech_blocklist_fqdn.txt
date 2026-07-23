@@ -21,8 +21,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-182.dynamic-ip.hinet.net
 125.224.53.34.bc.googleusercontent.com
+143-42-173-60.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
 15.210.203.35.bc.googleusercontent.com
+172-237-155-29.ip.linodeusercontent.com
+173-255-223-89.ip.linodeusercontent.com
 173-255-236-33.ip.linodeusercontent.com
 175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -37,6 +40,9 @@
 251.63.187.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
+45-33-40-18.ip.linodeusercontent.com
+45-56-83-149.ip.linodeusercontent.com
+45-79-109-4.ip.linodeusercontent.com
 45.77.61.56.vultrusercontent.com
 6682315a.customer.misaka.joburg
 76.211.203.35.bc.googleusercontent.com
@@ -46,6 +52,7 @@
 92.150.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
