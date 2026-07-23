@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.224.53.34.bc.googleusercontent.com
+126.39.62.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -46,6 +47,7 @@
 251.63.187.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 255.138.175.207.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
 4.zlabs.dev
 45-33-40-18.ip.linodeusercontent.com
