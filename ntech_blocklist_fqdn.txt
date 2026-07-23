@@ -25,12 +25,15 @@
 167.211.203.35.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+200.89.172.144.static.cloudzy.com
 202.150.216.162.bc.googleusercontent.com
+209.150.216.162.bc.googleusercontent.com
 212.19.38.34.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 25.41.156.34.bc.googleusercontent.com
 255.138.175.207.bc.googleusercontent.com
+2d83453c.mow.customer.misaka.io
 2d834681.led.customer.misaka.io
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
@@ -41,6 +44,7 @@
 8.210.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
+87.150.216.162.bc.googleusercontent.com
 89.3.240.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
