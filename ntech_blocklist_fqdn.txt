@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.138.79.34.bc.googleusercontent.com
 125.224.53.34.bc.googleusercontent.com
+132.129.116.136.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
@@ -30,7 +31,10 @@
 209.150.216.162.bc.googleusercontent.com
 212.19.38.34.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
+221.239.126.216.static.cloudzy.com
 232.211.203.35.bc.googleusercontent.com
+234.97.172.144.static.cloudzy.com
+235.150.216.162.bc.googleusercontent.com
 25.41.156.34.bc.googleusercontent.com
 255.138.175.207.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -93,6 +97,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 r91.mailtpsv.com
 recyber.net
