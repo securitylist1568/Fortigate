@@ -28,6 +28,7 @@
 202.150.216.162.bc.googleusercontent.com
 204.44.67.238.static.quadranet.com
 209.150.216.162.bc.googleusercontent.com
+217.19.92.34.bc.googleusercontent.com
 221.239.126.216.static.cloudzy.com
 234.97.172.144.static.cloudzy.com
 235.150.216.162.bc.googleusercontent.com
@@ -50,6 +51,7 @@ c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dx-now.com
 festa04.jcatransporte.com.br
 fwnvyxu.top
 hn.kd.ny.adsl
@@ -68,6 +70,7 @@ scan-07e.shadowserver.io
 scan-14h.shadowserver.io
 scan-52k.shadowserver.io
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
