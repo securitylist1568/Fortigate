@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-182.dynamic-ip.hinet.net
+125.224.53.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 15.210.203.35.bc.googleusercontent.com
 173-255-236-33.ip.linodeusercontent.com
@@ -39,6 +40,7 @@
 76.211.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 86.255.93.34.bc.googleusercontent.com
+89.3.240.35.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
@@ -48,8 +50,10 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-107-21-191-211.compute-1.amazonaws.com
 ec2-13-218-224-41.compute-1.amazonaws.com
 ec2-32-199-173-55.compute-1.amazonaws.com
+ec2-34-205-18-102.compute-1.amazonaws.com
 ec2-44-211-148-114.compute-1.amazonaws.com
 ec2-52-87-218-9.compute-1.amazonaws.com
 ec2-54-160-214-80.compute-1.amazonaws.com
