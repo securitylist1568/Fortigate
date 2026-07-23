@@ -31,6 +31,9 @@
 213.211.203.35.bc.googleusercontent.com
 217.19.92.34.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
+80.210.203.35.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 abts-mum-static-100.13.170.122.airtelbroadband.in
 aim.sba-research.org
