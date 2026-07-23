@@ -23,14 +23,12 @@
 143.150.216.162.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
 156.31.232.180.dsl.inet.static.certaincyber.net
-168-113-158-51.instances.scw.cloud
 172-104-252-207.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198.211.203.35.bc.googleusercontent.com
 204.44.67.238.static.quadranet.com
 213.211.203.35.bc.googleusercontent.com
 217.19.92.34.bc.googleusercontent.com
-241.149.216.162.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 abts-mum-static-100.13.170.122.airtelbroadband.in
