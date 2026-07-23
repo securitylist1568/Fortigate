@@ -51,6 +51,7 @@
 62-210-209-229.rev.poneytelecom.eu
 68.210.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
+73.210.203.35.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -60,9 +61,12 @@ azpdsgqpucw1.stretchoid.com
 azpdsgt866ai.stretchoid.com
 azpdsgv1yi6q.stretchoid.com
 azpdsgw3iszc.stretchoid.com
+azpdss4lc1pe.stretchoid.com
 azpdss797c8p.stretchoid.com
 azpdsse6bn8p.stretchoid.com
 azpdssle59pd.stretchoid.com
+azpdssp7vjwc.stretchoid.com
+azpdssy2j4f1.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdws89w8v2.stretchoid.com
 b2.org.afilias-nst.org
