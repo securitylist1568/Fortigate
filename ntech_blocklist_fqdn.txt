@@ -32,9 +32,11 @@
 217.19.92.34.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
+23-239-9-174.ip.linodeusercontent.com
 29.149.216.162.bc.googleusercontent.com
 45-33-72-10.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
+45.77.61.56.vultrusercontent.com
 80.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
