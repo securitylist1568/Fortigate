@@ -40,6 +40,7 @@
 53.150.216.162.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 68.210.203.35.bc.googleusercontent.com
+7.211.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
@@ -74,6 +75,7 @@ azpdssy2j4f1.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdws0frgb6.stretchoid.com
 azpdws89w8v2.stretchoid.com
+azpdwsmvd288.stretchoid.com
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 centos7223208.aspadmin.net
