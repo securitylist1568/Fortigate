@@ -39,6 +39,7 @@
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 53.150.216.162.bc.googleusercontent.com
+61.150.216.162.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 68.210.203.35.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
