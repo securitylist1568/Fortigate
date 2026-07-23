@@ -20,12 +20,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.138.79.34.bc.googleusercontent.com
 125.224.53.34.bc.googleusercontent.com
-126.39.62.34.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+202.150.216.162.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 212.19.38.34.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
@@ -33,8 +33,6 @@
 243.150.216.162.bc.googleusercontent.com
 25.41.156.34.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
-29.149.216.162.bc.googleusercontent.com
-4.zlabs.dev
 45.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
@@ -45,6 +43,7 @@
 7.211.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
+8.210.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
 89.3.240.35.bc.googleusercontent.com
@@ -92,7 +91,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-ns3269709.ip-51-89-11.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -104,6 +102,5 @@ scan-53j.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.185-165-44-168.rackgenius.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
