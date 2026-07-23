@@ -22,6 +22,7 @@
 175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.150.216.162.bc.googleusercontent.com
+205.169.167.190.d.dyn.codetel.net.do
 220.211.203.35.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
@@ -47,8 +48,10 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-astatine-ap-southeast-0.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+remote.streamingsb24.com
 rootevidence.com
 scan-56f.shadowserver.io
 scan-58a.shadowserver.io
