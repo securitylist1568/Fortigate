@@ -39,9 +39,7 @@
 241.149.216.162.bc.googleusercontent.com
 246.97.172.144.static.cloudzy.com
 25.211.203.35.bc.googleusercontent.com
-255.138.175.207.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
-2d834681.led.customer.misaka.io
 87.150.216.162.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 abts-mum-static-100.13.170.122.airtelbroadband.in
@@ -69,10 +67,7 @@ pivotsudo-leang.outreachratio.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-02k.shadowserver.io
 scan-07e.shadowserver.io
-scan-14h.shadowserver.io
-scan-52k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
