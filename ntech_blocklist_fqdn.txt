@@ -36,12 +36,10 @@
 187.65.195.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 193.150.216.162.bc.googleusercontent.com
-205.169.167.190.d.dyn.codetel.net.do
 21.210.203.35.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 212.19.38.34.bc.googleusercontent.com
 217.19.92.34.bc.googleusercontent.com
-221.211.203.35.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 25.41.156.34.bc.googleusercontent.com
@@ -56,6 +54,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+45.149.216.162.bc.googleusercontent.com
 53.150.216.162.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
@@ -63,7 +62,6 @@
 76.211.203.35.bc.googleusercontent.com
 86.255.93.34.bc.googleusercontent.com
 89.3.240.35.bc.googleusercontent.com
-99.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -93,12 +91,10 @@ mfyabgec.musicpda.com
 ns3269709.ip-51-89-11.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
-prod-astatine-ap-southeast-0.li.binaryedge.ninja
 prod-barium-nyc1-66.do.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-remote.streamingsb24.com
 scan-02m.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
