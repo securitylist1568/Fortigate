@@ -26,13 +26,10 @@
 167.211.203.35.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187.65.195.35.bc.googleusercontent.com
-21.210.203.35.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
 212.19.38.34.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
-241.211.203.35.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 25.41.156.34.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
@@ -100,7 +97,6 @@ proxy-ca002-ext2.a.ahrefs.com
 r91.mailtpsv.com
 recyber.net
 reverse.anonet.in
-scan-02m.shadowserver.io
 scan-42i.shadowserver.io
 scan-53j.shadowserver.io
 security.criminalip.com
