@@ -37,6 +37,7 @@
 4.zlabs.dev
 45.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+45.77.61.56.vultrusercontent.com
 53.150.216.162.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 68.210.203.35.bc.googleusercontent.com
@@ -103,4 +104,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
