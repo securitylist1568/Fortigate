@@ -26,6 +26,7 @@
 220.211.203.35.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
+38.211.203.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 8.210.203.35.bc.googleusercontent.com
@@ -41,11 +42,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip158.ip-72-251-5.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-astatine-ap-southeast-0.li.binaryedge.ninja
