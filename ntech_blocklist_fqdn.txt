@@ -43,6 +43,7 @@
 217.19.92.34.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
+243.150.216.162.bc.googleusercontent.com
 25.41.156.34.bc.googleusercontent.com
 251.63.187.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
@@ -55,6 +56,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+53.150.216.162.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
 76.211.203.35.bc.googleusercontent.com
