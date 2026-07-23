@@ -22,6 +22,7 @@
 125.224.53.34.bc.googleusercontent.com
 126.39.62.34.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
+162.211.203.35.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -45,6 +46,7 @@
 7.211.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
+80.149.216.162.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
 89.3.240.35.bc.googleusercontent.com
 aim.sba-research.org
