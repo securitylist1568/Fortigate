@@ -38,6 +38,7 @@
 193.150.216.162.bc.googleusercontent.com
 205.169.167.190.d.dyn.codetel.net.do
 21.210.203.35.bc.googleusercontent.com
+21.39.113.136.bc.googleusercontent.com
 212.19.38.34.bc.googleusercontent.com
 217.19.92.34.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
@@ -54,6 +55,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+62-210-209-229.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
 76.211.203.35.bc.googleusercontent.com
 86.255.93.34.bc.googleusercontent.com
@@ -95,6 +97,7 @@ radamelfalcao.xyz
 recyber.net
 remote.streamingsb24.com
 scan-02m.shadowserver.io
+scan-42i.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 smtp1.telemach.net
