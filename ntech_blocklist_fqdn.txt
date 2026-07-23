@@ -34,6 +34,7 @@
 25.41.156.34.bc.googleusercontent.com
 255.138.175.207.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 45.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
@@ -99,6 +100,7 @@ r91.mailtpsv.com
 recyber.net
 reverse.anonet.in
 scan-42i.shadowserver.io
+scan-52k.shadowserver.io
 scan-53j.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
