@@ -52,6 +52,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 remote.streamingsb24.com
 rootevidence.com
+scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-56f.shadowserver.io
 scan-58a.shadowserver.io
