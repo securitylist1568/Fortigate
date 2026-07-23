@@ -59,6 +59,7 @@
 53.150.216.162.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
+70.149.216.162.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 86.255.93.34.bc.googleusercontent.com
 89.3.240.35.bc.googleusercontent.com
@@ -102,6 +103,7 @@ scan-02m.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
