@@ -28,6 +28,7 @@
 168.250.79.34.bc.googleusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+193.26.115.78.powered.by.rdp.sh
 195.240.195.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
 210.150.216.162.bc.googleusercontent.com
@@ -37,6 +38,7 @@
 23-239-9-174.ip.linodeusercontent.com
 243.13.187.35.bc.googleusercontent.com
 248.123.140.34.bc.googleusercontent.com
+250.149.216.162.bc.googleusercontent.com
 282821.ip-ptr.tech
 33.150.216.162.bc.googleusercontent.com
 33.87.205.35.bc.googleusercontent.com
@@ -85,6 +87,7 @@ rootevidence.com
 scan-13n.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
+scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-58.security.ipip.net
 scan-85-3.shadowserver.io
