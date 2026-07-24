@@ -28,6 +28,7 @@
 163-172-221-175.rev.poneytelecom.eu
 168.250.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+195.240.195.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
 213.211.203.35.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
@@ -55,9 +56,11 @@ dns12.online.tj.cn
 ec2-18-206-124-95.compute-1.amazonaws.com
 ec2-18-215-153-3.compute-1.amazonaws.com
 ec2-184-73-137-109.compute-1.amazonaws.com
+ec2-3-85-51-81.compute-1.amazonaws.com
 ec2-3-87-52-46.compute-1.amazonaws.com
 ec2-34-205-154-127.compute-1.amazonaws.com
 ec2-52-23-168-237.compute-1.amazonaws.com
+ec2-52-91-228-25.compute-1.amazonaws.com
 ec2-52-91-97-115.compute-1.amazonaws.com
 ec2-54-146-156-132.compute-1.amazonaws.com
 ec2-54-165-130-174.compute-1.amazonaws.com
@@ -71,6 +74,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+ns1.cloudzone.com.br
 os3-391-28661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -78,6 +82,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-13n.shadowserver.io
+scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-58.security.ipip.net
 smtp1.telemach.net
