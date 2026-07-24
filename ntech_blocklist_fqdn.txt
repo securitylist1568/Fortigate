@@ -34,13 +34,10 @@
 250.210.203.35.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
-2d96f380.kbp.customer.misaka.io
 33.87.205.35.bc.googleusercontent.com
 42-70-125-222.emome-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 53.26.71.192.in-addr.arpa
-59-120-224-182.hinet-ip.hinet.net
-66.150.216.162.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
 95.154.34.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -79,7 +76,6 @@ azpdwsayyn3f.stretchoid.com
 azpdwsowi27o.stretchoid.com
 azpdwspg5atk.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
-b1b10ded.customer.misaka.ist
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
@@ -92,7 +88,6 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns3369735.ip-37-187-91.eu
 pc112.cses.ilc.edu.tw
