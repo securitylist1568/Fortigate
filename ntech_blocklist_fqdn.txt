@@ -42,6 +42,7 @@
 29.149.216.162.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
 33.87.205.35.bc.googleusercontent.com
+41.26.76.34.bc.googleusercontent.com
 45-33-72-10.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
@@ -52,6 +53,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+dedi-kund-ips.vmheaven.io
 dns12.online.tj.cn
 ec2-18-206-124-95.compute-1.amazonaws.com
 ec2-18-215-153-3.compute-1.amazonaws.com
