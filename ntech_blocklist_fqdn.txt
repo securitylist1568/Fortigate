@@ -30,7 +30,6 @@
 4.zlabs.dev
 40.149.216.162.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
-45.63.4.69.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 58.211.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
@@ -42,6 +41,7 @@ client.yota.ru
 crawler003.deepfield.net
 crawler040.deepfield.net
 crawler041.deepfield.net
+crawler049.deepfield.net
 crawler052.deepfield.net
 crawler053.deepfield.net
 crawler076.deepfield.net
@@ -56,7 +56,6 @@ crawler167.deepfield.net
 crawler198.deepfield.net
 crawler245.deepfield.net
 dal215.hawkhost.com
-db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
@@ -80,5 +79,4 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.99.131.27.37.clients.your-server.de
 users219.vip.heteml.jp
-vmi2536279.contaboserver.net
 vps-0f045a2b.vps.ovh.net
