@@ -28,6 +28,7 @@
 253.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
+40.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 58.211.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
@@ -76,6 +77,8 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-90.4vendeta.com
+ip-56-214.4vendeta.com
 ip217-154-13-82.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
