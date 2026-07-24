@@ -24,6 +24,7 @@
 173.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 213.77.22.34.bc.googleusercontent.com
+234.150.216.162.bc.googleusercontent.com
 246.183.62.50.host.secureserver.net
 2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 58.211.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
+85.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -47,6 +49,7 @@ crawler053.deepfield.net
 crawler076.deepfield.net
 crawler080.deepfield.net
 crawler090.deepfield.net
+crawler092.deepfield.net
 crawler094.deepfield.net
 crawler099.deepfield.net
 crawler113.deepfield.net
