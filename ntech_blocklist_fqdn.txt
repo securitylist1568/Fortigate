@@ -33,6 +33,7 @@
 193.26.115.78.powered.by.rdp.sh
 195.240.195.35.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
 210.150.216.162.bc.googleusercontent.com
 213.77.22.34.bc.googleusercontent.com
 221.200.76.34.bc.googleusercontent.com
