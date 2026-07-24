@@ -41,6 +41,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler076.deepfield.net
 crawler090.deepfield.net
+crawler094.deepfield.net
 crawler099.deepfield.net
 crawler157.deepfield.net
 crawler167.deepfield.net
