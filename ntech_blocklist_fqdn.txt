@@ -32,6 +32,7 @@
 224.211.203.35.bc.googleusercontent.com
 243.13.187.35.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
+253.149.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 33.87.205.35.bc.googleusercontent.com
@@ -56,11 +57,13 @@ azpdsgdthnqp.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsgocdz87.stretchoid.com
 azpdss33l1a5.stretchoid.com
+azpdss5zo5ld.stretchoid.com
 azpdss797c8p.stretchoid.com
 azpdss9nwu1g.stretchoid.com
 azpdsse1zlrx.stretchoid.com
 azpdsskf5buy.stretchoid.com
 azpdssle59pd.stretchoid.com
+azpdssswzf3x.stretchoid.com
 azpdssteiqpy.stretchoid.com
 azpdssvyb6fc.stretchoid.com
 azpdssw6luqc.stretchoid.com
