@@ -41,6 +41,7 @@
 41.26.76.34.bc.googleusercontent.com
 45-33-72-10.ip.linodeusercontent.com
 45.77.61.56.vultrusercontent.com
+59-125-215-95.hinet-ip.hinet.net
 64.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 95.154.34.34.bc.googleusercontent.com
@@ -82,6 +83,7 @@ rootevidence.com
 scan-13n.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
+scan-43h.shadowserver.io
 scan-58.security.ipip.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
