@@ -52,11 +52,13 @@
 59-120-224-182.hinet-ip.hinet.net
 59-125-215-95.hinet-ip.hinet.net
 62-210-209-229.rev.poneytelecom.eu
+66.150.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 95.154.34.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
