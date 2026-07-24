@@ -40,12 +40,16 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler003.deepfield.net
+crawler040.deepfield.net
+crawler041.deepfield.net
 crawler052.deepfield.net
 crawler053.deepfield.net
 crawler076.deepfield.net
+crawler080.deepfield.net
 crawler090.deepfield.net
 crawler094.deepfield.net
 crawler099.deepfield.net
+crawler130.deepfield.net
 crawler157.deepfield.net
 crawler167.deepfield.net
 crawler198.deepfield.net
