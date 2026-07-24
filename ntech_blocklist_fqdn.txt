@@ -44,6 +44,7 @@
 33.150.216.162.bc.googleusercontent.com
 33.87.205.35.bc.googleusercontent.com
 41.26.76.34.bc.googleusercontent.com
+45.77.61.56.vultrusercontent.com
 59-125-215-95.hinet-ip.hinet.net
 64.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
@@ -53,6 +54,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
+d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dedi-kund-ips.vmheaven.io
 dns12.online.tj.cn
@@ -78,6 +80,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1.cloudzone.com.br
+os3-391-28661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
