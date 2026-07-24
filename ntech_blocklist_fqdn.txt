@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.107.79.34.bc.googleusercontent.com
+136.244.97.65.vultrusercontent.com
 138.241.247.35.bc.googleusercontent.com
 152.37.155.104.bc.googleusercontent.com
 157.233.189.35.bc.googleusercontent.com
@@ -35,7 +36,6 @@
 210.150.216.162.bc.googleusercontent.com
 221.200.76.34.bc.googleusercontent.com
 226.110.199.104.bc.googleusercontent.com
-23-239-9-174.ip.linodeusercontent.com
 243.13.187.35.bc.googleusercontent.com
 248.123.140.34.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
@@ -43,7 +43,6 @@
 33.150.216.162.bc.googleusercontent.com
 33.87.205.35.bc.googleusercontent.com
 41.26.76.34.bc.googleusercontent.com
-45.77.61.56.vultrusercontent.com
 59-125-215-95.hinet-ip.hinet.net
 64.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
@@ -82,7 +81,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r48.mailtpsv.com
 recyber.net
-rootevidence.com
 scan-13n.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
