@@ -21,7 +21,6 @@
 118.107.79.34.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 138.150.216.162.bc.googleusercontent.com
-138.241.247.35.bc.googleusercontent.com
 152.37.155.104.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
 159.64.62.34.bc.googleusercontent.com
@@ -30,7 +29,6 @@
 185-45-195-15.hostsailor.com
 195.240.195.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
-213.211.203.35.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
 221.200.76.34.bc.googleusercontent.com
 226.110.199.104.bc.googleusercontent.com
@@ -51,6 +49,7 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dedi-kund-ips.vmheaven.io
@@ -71,7 +70,6 @@ ec2-54-242-53-224.compute-1.amazonaws.com
 ec2-98-80-77-204.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -89,6 +87,5 @@ scan-41m.shadowserver.io
 scan-58.security.ipip.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.99.131.27.37.clients.your-server.de
 users219.vip.heteml.jp
 www.internet-albedo.net
