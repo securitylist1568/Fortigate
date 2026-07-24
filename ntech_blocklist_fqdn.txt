@@ -29,8 +29,11 @@
 159.64.62.34.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 168.250.79.34.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+189.150.216.162.bc.googleusercontent.com
 193.26.115.78.powered.by.rdp.sh
 195.240.195.35.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
