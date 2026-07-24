@@ -39,6 +39,7 @@
 243.13.187.35.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
+33.87.205.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 53.26.71.192.in-addr.arpa
