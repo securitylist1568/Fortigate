@@ -24,10 +24,10 @@
 136.244.97.65.vultrusercontent.com
 138.241.247.35.bc.googleusercontent.com
 152.37.155.104.bc.googleusercontent.com
+155-94-241-32-host.colocrossing.com
 157.233.189.35.bc.googleusercontent.com
 157.95.146.217.baremetal.zare.com
 159.64.62.34.bc.googleusercontent.com
-163-172-221-175.rev.poneytelecom.eu
 168.250.79.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -46,7 +46,6 @@
 248.123.140.34.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 282821.ip-ptr.tech
-33.150.216.162.bc.googleusercontent.com
 33.87.205.35.bc.googleusercontent.com
 41.26.76.34.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
@@ -93,12 +92,10 @@ proxy-ca002-ext2.a.ahrefs.com
 r48.mailtpsv.com
 recyber.net
 reverse.anonet.in
-scan-13n.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
-scan-58.security.ipip.net
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
