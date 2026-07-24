@@ -22,16 +22,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.150.216.162.bc.googleusercontent.com
 136.244.97.65.vultrusercontent.com
-138.241.247.35.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 155-94-241-32-host.colocrossing.com
-157.95.146.217.baremetal.zare.com
 159.64.62.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 189.150.216.162.bc.googleusercontent.com
-193.26.115.78.powered.by.rdp.sh
 195.240.195.35.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
@@ -39,7 +36,6 @@
 221.200.76.34.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 243.13.187.35.bc.googleusercontent.com
-250.149.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 33.87.205.35.bc.googleusercontent.com
@@ -47,7 +43,6 @@
 45.77.61.56.vultrusercontent.com
 53.26.71.192.in-addr.arpa
 59-120-224-182.hinet-ip.hinet.net
-59-125-215-95.hinet-ip.hinet.net
 62-210-209-229.rev.poneytelecom.eu
 66.150.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
@@ -77,12 +72,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reverse.anonet.in
-scan-43b.shadowserver.io
-scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-56.security.ipip.net
 scan-56f.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
