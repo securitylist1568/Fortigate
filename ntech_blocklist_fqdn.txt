@@ -24,12 +24,10 @@
 161.150.216.162.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-217.150.216.162.bc.googleusercontent.com
 224.211.203.35.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
-42-70-125-222.emome-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 58.211.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
@@ -44,10 +42,8 @@ azpdcs9aqpkl.stretchoid.com
 azpdcsguyw0e.stretchoid.com
 azpdcsycgcyf.stretchoid.com
 azpdesdfn5lp.stretchoid.com
-azpdesrind7l.stretchoid.com
 azpdsgbhg8mp.stretchoid.com
 azpdsgd9sbi1.stretchoid.com
-azpdsgdthnqp.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsgocdz87.stretchoid.com
 azpdss33l1a5.stretchoid.com
@@ -62,12 +58,10 @@ azpdssswzf3x.stretchoid.com
 azpdsst75set.stretchoid.com
 azpdssteiqpy.stretchoid.com
 azpdssvyb6fc.stretchoid.com
-azpdssw6luqc.stretchoid.com
 azpdssy9gjfn.stretchoid.com
 azpdssyzibct.stretchoid.com
 azpdwsayyn3f.stretchoid.com
 azpdwsowi27o.stretchoid.com
-azpdwspg5atk.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -84,7 +78,6 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-13-82.pbiaas.com
 ip29.sudolio.io
-li1537-121.members.linode.com
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
