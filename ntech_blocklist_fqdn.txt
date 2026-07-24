@@ -91,6 +91,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
 rootevidence.com
+scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
