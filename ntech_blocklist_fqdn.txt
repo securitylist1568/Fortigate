@@ -19,10 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.107.79.34.bc.googleusercontent.com
-130.211.203.35.bc.googleusercontent.com
-138.150.216.162.bc.googleusercontent.com
 152.37.155.104.bc.googleusercontent.com
-157.149.216.162.bc.googleusercontent.com
 157.233.189.35.bc.googleusercontent.com
 159.64.62.34.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
@@ -31,7 +28,7 @@
 185-45-195-15.hostsailor.com
 195.240.195.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
-218.210.203.35.bc.googleusercontent.com
+210.150.216.162.bc.googleusercontent.com
 221.200.76.34.bc.googleusercontent.com
 226.110.199.104.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
@@ -39,15 +36,13 @@
 243.13.187.35.bc.googleusercontent.com
 248.123.140.34.bc.googleusercontent.com
 282821.ip-ptr.tech
-29.149.216.162.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
 33.87.205.35.bc.googleusercontent.com
 41.26.76.34.bc.googleusercontent.com
 45-33-72-10.ip.linodeusercontent.com
-45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 64.210.203.35.bc.googleusercontent.com
-80.210.203.35.bc.googleusercontent.com
+8.210.203.35.bc.googleusercontent.com
 95.154.34.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -78,7 +73,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns1.cloudzone.com.br
-os3-391-28661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
