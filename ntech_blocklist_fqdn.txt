@@ -52,6 +52,7 @@
 45.77.61.56.vultrusercontent.com
 59-125-215-95.hinet-ip.hinet.net
 62-210-209-229.rev.poneytelecom.eu
+67.150.216.162.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 95.154.34.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -81,6 +82,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1.cloudzone.com.br
