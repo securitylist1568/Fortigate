@@ -22,6 +22,7 @@
 138.241.247.35.bc.googleusercontent.com
 152.37.155.104.bc.googleusercontent.com
 157.233.189.35.bc.googleusercontent.com
+157.95.146.217.baremetal.zare.com
 159.64.62.34.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 168.250.79.34.bc.googleusercontent.com
