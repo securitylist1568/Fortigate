@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+119.149.216.162.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 157.233.189.35.bc.googleusercontent.com
 159.64.62.34.bc.googleusercontent.com
@@ -96,6 +97,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r2004.compute.ams1.edc.strln.net
 r3003.compute.ams1.edc.strln.net
 recyber.net
+rootevidence.com
 scan-56.security.ipip.net
 scan-56f.shadowserver.io
 security.criminalip.com
