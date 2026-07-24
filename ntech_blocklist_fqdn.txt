@@ -69,6 +69,7 @@ azpdwspg5atk.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler076.deepfield.net
 crawler099.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
@@ -79,6 +80,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip217-154-13-82.pbiaas.com
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
