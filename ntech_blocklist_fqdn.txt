@@ -24,6 +24,7 @@
 136.244.97.65.vultrusercontent.com
 154.210.203.35.bc.googleusercontent.com
 155-94-241-32-host.colocrossing.com
+157.233.189.35.bc.googleusercontent.com
 159.64.62.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
