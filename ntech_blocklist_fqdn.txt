@@ -43,6 +43,7 @@ crawler076.deepfield.net
 crawler090.deepfield.net
 crawler099.deepfield.net
 crawler157.deepfield.net
+crawler167.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
