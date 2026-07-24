@@ -23,9 +23,11 @@
 138.150.216.162.bc.googleusercontent.com
 152.37.155.104.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
+157.233.189.35.bc.googleusercontent.com
 159.64.62.34.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 168.250.79.34.bc.googleusercontent.com
+179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.240.195.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
@@ -80,6 +82,7 @@ os3-391-28661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r48.mailtpsv.com
 recyber.net
 rootevidence.com
 scan-13n.shadowserver.io
