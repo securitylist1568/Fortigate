@@ -47,6 +47,7 @@ crawler080.deepfield.net
 crawler090.deepfield.net
 crawler092.deepfield.net
 crawler094.deepfield.net
+crawler109.deepfield.net
 crawler113.deepfield.net
 crawler130.deepfield.net
 crawler133.deepfield.net
@@ -56,6 +57,11 @@ crawler198.deepfield.net
 crawler245.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-218-56-216.compute-1.amazonaws.com
+ec2-44-201-163-116.compute-1.amazonaws.com
+ec2-44-203-253-5.compute-1.amazonaws.com
+ec2-54-82-58-124.compute-1.amazonaws.com
+ec2-98-94-61-21.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
@@ -71,6 +77,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.io
 scan-43h.shadowserver.io
+scan-45o.shadowserver.io
 scan-52k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
