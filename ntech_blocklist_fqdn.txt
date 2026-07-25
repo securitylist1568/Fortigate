@@ -30,8 +30,10 @@ amz.unixwiz.net
 azpdsg41vonp.stretchoid.com
 azpdsgigumtz.stretchoid.com
 azpdsgo34xwr.stretchoid.com
+azpdsgokg9kc.stretchoid.com
 azpdsgs49ai2.stretchoid.com
 azpdsse6bn8p.stretchoid.com
+azpdssml72hw.stretchoid.com
 azpdssw3j3o8.stretchoid.com
 azpdssy2j4f1.stretchoid.com
 b2.org.afilias-nst.org
@@ -40,6 +42,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 federationchilla.site
 festa04.jcatransporte.com.br
+fixed-148-230-212-87.totalplay.net
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -55,7 +58,6 @@ recyber.net
 rootevidence.com
 scan-52k.shadowserver.io
 scan-56f.shadowserver.io
-scan-63-13.shadowserver.io
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
