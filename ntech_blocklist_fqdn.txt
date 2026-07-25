@@ -40,9 +40,7 @@
 28.211.203.35.bc.googleusercontent.com
 282821.ip-ptr.tech
 36.149.216.162.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 45.63.4.69.vultrusercontent.com
-51.210.203.35.bc.googleusercontent.com
 52.98.175.207.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
@@ -56,7 +54,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 clients42-krd-nat-253.freedom1.ru
 crawler016.deepfield.net
-crawler034.deepfield.net
 crawler109.deepfield.net
 crawler133.deepfield.net
 crawler144.deepfield.net
@@ -89,14 +86,12 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.io
 scan-45o.shadowserver.io
-scan-52k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
