@@ -20,6 +20,7 @@
 150.210.203.35.bc.googleusercontent.com
 151.233.96.34.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
+17.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 204.76.203.30.ptr.pfcloud.network
@@ -53,4 +54,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
+unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
