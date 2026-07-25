@@ -39,7 +39,6 @@
 52.98.175.207.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
-66-165-227-70.static.hvvc.us
 69-164-215-116.ip.linodeusercontent.com
 75.150.216.162.bc.googleusercontent.com
 8.4.62.34.bc.googleusercontent.com
@@ -54,6 +53,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -67,6 +67,5 @@ scan-63-13.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.124.38.50.185.clients.irandns.com
 users219.vip.heteml.jp
 vmi2558074.contaboserver.net
