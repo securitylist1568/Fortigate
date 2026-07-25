@@ -22,6 +22,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-211-182.dynamic-ip.hinet.net
 118.65.77.34.bc.googleusercontent.com
+141.0.14.34.bc.googleusercontent.com
+142.210.203.35.bc.googleusercontent.com
 154.147.78.34.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 167.63.76.34.bc.googleusercontent.com
@@ -29,9 +31,11 @@
 212.139.181.34.bc.googleusercontent.com
 213.77.22.34.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
+235.86.211.130.bc.googleusercontent.com
 246.183.62.50.host.secureserver.net
 28.211.203.35.bc.googleusercontent.com
 282821.ip-ptr.tech
+36.149.216.162.bc.googleusercontent.com
 4.zlabs.dev
 42.123.243.83.in-addr.arpa
 45.210.203.35.bc.googleusercontent.com
@@ -90,6 +94,7 @@ ip102.ip-5-196-154.eu
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
