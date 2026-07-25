@@ -26,7 +26,6 @@
 234.150.216.162.bc.googleusercontent.com
 246.183.62.50.host.secureserver.net
 4.zlabs.dev
-40.149.216.162.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45.210.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -60,8 +59,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-90.4vendeta.com
-ip-56-214.4vendeta.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -74,7 +71,6 @@ recyber.net
 scan-04f.shadowserver.io
 scan-43h.shadowserver.io
 scan-52k.shadowserver.io
-scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
