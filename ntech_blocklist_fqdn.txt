@@ -52,7 +52,6 @@ dns12.online.tj.cn
 federationchilla.site
 festa04.jcatransporte.com.br
 fixed-148-230-212-87.totalplay.net
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -66,8 +65,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-52k.shadowserver.io
-scan-56f.shadowserver.io
-scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
