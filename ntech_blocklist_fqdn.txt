@@ -108,5 +108,6 @@ scan-52k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.139.230.78.5.clients.your-server.de
 users219.vip.heteml.jp
 vmi3402939.contaboserver.net
