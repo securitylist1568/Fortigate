@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-127.149.216.162.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 161.150.216.162.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
@@ -32,7 +31,6 @@
 40.149.216.162.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-58.211.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
@@ -51,7 +49,6 @@ crawler080.deepfield.net
 crawler090.deepfield.net
 crawler092.deepfield.net
 crawler094.deepfield.net
-crawler099.deepfield.net
 crawler113.deepfield.net
 crawler130.deepfield.net
 crawler157.deepfield.net
@@ -61,15 +58,14 @@ crawler245.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-90.4vendeta.com
 ip-56-214.4vendeta.com
+ip106.ip-5-135-10.eu
 ip217-154-13-82.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -79,7 +75,6 @@ rogers.probe.onyphe.net
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.99.131.27.37.clients.your-server.de
 users219.vip.heteml.jp
