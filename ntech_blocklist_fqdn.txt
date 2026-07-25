@@ -49,6 +49,7 @@ crawler092.deepfield.net
 crawler094.deepfield.net
 crawler113.deepfield.net
 crawler130.deepfield.net
+crawler133.deepfield.net
 crawler157.deepfield.net
 crawler167.deepfield.net
 crawler198.deepfield.net
