@@ -47,6 +47,7 @@
 8.4.62.34.bc.googleusercontent.com
 85.210.203.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -64,6 +65,7 @@ crawler113.deepfield.net
 crawler130.deepfield.net
 crawler133.deepfield.net
 crawler144.deepfield.net
+crawler170.deepfield.net
 crawler198.deepfield.net
 crawler202.deepfield.net
 crawler214.deepfield.net
@@ -93,6 +95,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
