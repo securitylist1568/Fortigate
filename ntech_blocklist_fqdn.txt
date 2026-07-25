@@ -45,7 +45,9 @@
 63.150.216.162.bc.googleusercontent.com
 66-165-227-70.static.hvvc.us
 69-164-215-116.ip.linodeusercontent.com
+75.150.216.162.bc.googleusercontent.com
 8.4.62.34.bc.googleusercontent.com
+adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
