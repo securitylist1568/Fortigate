@@ -25,8 +25,6 @@
 157.211.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 167.63.76.34.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
-176.65.148.250.ptr.pfcloud.network
 184.42.240.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
@@ -51,6 +49,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
