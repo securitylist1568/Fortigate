@@ -37,10 +37,12 @@
 234.150.216.162.bc.googleusercontent.com
 235.86.211.130.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
+242.211.203.35.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
 282821.ip-ptr.tech
 36.149.216.162.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
+45.63.4.69.vultrusercontent.com
 51.210.203.35.bc.googleusercontent.com
 52.98.175.207.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
