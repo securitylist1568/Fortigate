@@ -53,6 +53,7 @@ li1570-11.members.linode.com
 li1625-135.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+partclient.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
