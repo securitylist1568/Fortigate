@@ -17,12 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-215-230.dynamic-ip.hinet.net
-129.98.50.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 21.39.113.136.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
-39968751.grabercloud.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
@@ -37,7 +34,6 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
