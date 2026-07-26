@@ -43,6 +43,8 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45.77.147.104.vultrusercontent.com
+50.49.199.104.bc.googleusercontent.com
+52.30.175.207.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 93.102.240.35.bc.googleusercontent.com
