@@ -31,7 +31,6 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 194-195-253-86.ip.linodeusercontent.com
-200.210.203.35.bc.googleusercontent.com
 201.177.38.34.bc.googleusercontent.com
 205.41.38.34.bc.googleusercontent.com
 220.202.195.35.bc.googleusercontent.com
@@ -43,7 +42,6 @@
 50.49.199.104.bc.googleusercontent.com
 52.30.175.207.bc.googleusercontent.com
 93.102.240.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
@@ -71,7 +69,6 @@ ec2-98-94-22-227.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
-hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -83,14 +80,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rogers.probe.onyphe.net
+s4850.vps.hosting
 scan-04c.shadowserver.io
-scan-09n.shadowserver.io
 scan-40g.shadowserver.io
-scan-43h.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-zhangyuan3.virtuaserver.com.br
