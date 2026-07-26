@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-21.39.113.136.bc.googleusercontent.com
 212-83-186-8.rev.poneytelecom.eu
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
@@ -29,7 +28,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 h172-12.trustednetwork.net
 hn.kd.ny.adsl
 hostedby.privatelayer.com
@@ -37,16 +35,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-scan-14h.shadowserver.io
 security.criminalip.com
 server.walaoyea.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.99.131.27.37.clients.your-server.de
 users219.vip.heteml.jp
