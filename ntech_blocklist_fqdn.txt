@@ -79,6 +79,7 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1817-110.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -87,10 +88,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
 rootevidence.com
+scan-04c.shadowserver.io
 scan-09n.shadowserver.io
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
+scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
