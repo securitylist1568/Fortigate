@@ -19,16 +19,15 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-129.98.50.34.bc.googleusercontent.com
 136-49-190-152.googlefiber.net
 145.198.195.35.bc.googleusercontent.com
-146.211.203.35.bc.googleusercontent.com
 16.180.156.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 173-255-229-83.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 201.177.38.34.bc.googleusercontent.com
 205.41.38.34.bc.googleusercontent.com
+220.202.195.35.bc.googleusercontent.com
 45-79-190-34.ip.linodeusercontent.com
 50.49.199.104.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
@@ -42,7 +41,6 @@ b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
-dns.adguard-dns.com
 dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
@@ -53,7 +51,6 @@ ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
-li1817-110.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -62,8 +59,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
-scan-04c.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
