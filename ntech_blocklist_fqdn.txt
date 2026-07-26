@@ -54,6 +54,7 @@ dynamic-ip-adsl.viettel.vn
 federationchilla.site
 festa04.jcatransporte.com.br
 fixed-148-230-212-87.totalplay.net
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -64,6 +65,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
