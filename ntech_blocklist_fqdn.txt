@@ -72,6 +72,7 @@ ec2-54-172-145-72.compute-1.amazonaws.com
 ec2-54-175-149-14.compute-1.amazonaws.com
 ec2-54-242-243-244.compute-1.amazonaws.com
 ec2-98-94-22-227.compute-1.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hkhdc.laws.ms
