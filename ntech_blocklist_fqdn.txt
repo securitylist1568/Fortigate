@@ -18,12 +18,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+131.223.52.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 161.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.149.216.162.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
 200.210.203.35.bc.googleusercontent.com
+201.177.38.34.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 45.77.147.104.vultrusercontent.com
 60.150.216.162.bc.googleusercontent.com
