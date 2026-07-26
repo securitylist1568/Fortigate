@@ -22,6 +22,7 @@
 129.98.50.34.bc.googleusercontent.com
 136-49-190-152.googlefiber.net
 146.211.203.35.bc.googleusercontent.com
+16.180.156.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 173-255-229-83.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -45,6 +46,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
