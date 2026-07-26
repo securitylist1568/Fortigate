@@ -47,7 +47,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip102.ip-5-196-154.eu
@@ -64,7 +63,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-s4850.vps.hosting
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
