@@ -25,7 +25,9 @@
 138-94-58-182.jasec.go.cr
 147.83.140.34.bc.googleusercontent.com
 162-120-186-83.v4.fetch.tunnel.googlezip.net
+163-172-221-175.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
+228.110.76.34.bc.googleusercontent.com
 62.106.38.34.bc.googleusercontent.com
 94.114.110.136.bc.googleusercontent.com
 aim.sba-research.org
