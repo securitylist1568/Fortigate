@@ -24,6 +24,7 @@
 144.92.74.97.host.secureserver.net
 147.83.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+62.106.38.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdesxe24x7.stretchoid.com
@@ -49,6 +50,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
+o609.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pinkytales.com
