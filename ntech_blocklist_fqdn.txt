@@ -21,6 +21,7 @@
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
+21.39.113.136.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 45-143-198-140.as212027.host
 45.77.61.56.vultrusercontent.com
