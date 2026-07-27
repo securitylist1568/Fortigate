@@ -113,6 +113,7 @@ recyber.net
 scan-05j.shadowserver.io
 scan-43b.shadowserver.io
 scan-68-00.shadowserver.io
+scan-68-08.shadowserver.io
 scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
