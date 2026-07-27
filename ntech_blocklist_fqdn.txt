@@ -17,13 +17,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+123-192-192-150.dynamic.kbronet.com.tw
 144.202.92.17.vultrusercontent.com
 181.190.97.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
-6297893-pz751741.twc1.net
+aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -38,7 +39,6 @@ ip-49-142.web1.bg
 ip-49-90.4vendeta.com
 ip-56-214.4vendeta.com
 ip102.ip-5-196-154.eu
-ip208.ip-46-105-54.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -51,10 +51,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.io
 scan-06g.shadowserver.io
-scan-61-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-vmi3264526.contaboserver.net
