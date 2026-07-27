@@ -23,6 +23,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 139.178.22.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
+144.92.74.97.host.secureserver.net
 147.83.140.34.bc.googleusercontent.com
 152-244-215-92.user.vivozap.com.br
 170.29.205.35.bc.googleusercontent.com
