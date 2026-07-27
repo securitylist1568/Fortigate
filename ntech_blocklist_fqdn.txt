@@ -27,6 +27,7 @@
 162-120-186-83.v4.fetch.tunnel.googlezip.net
 163-172-221-175.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
+203-74-130-205.hinet-ip.hinet.net
 228.110.76.34.bc.googleusercontent.com
 62.106.38.34.bc.googleusercontent.com
 94.114.110.136.bc.googleusercontent.com
@@ -43,6 +44,7 @@ get174.ingetitin.com
 h172-12.trustednetwork.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-102.superbithost.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
