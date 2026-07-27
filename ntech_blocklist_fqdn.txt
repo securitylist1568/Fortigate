@@ -36,6 +36,7 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+klnorrx.cn
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
