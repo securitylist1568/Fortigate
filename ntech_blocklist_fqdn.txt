@@ -77,6 +77,7 @@ azpdws6b5q5j.stretchoid.com
 azpdwsdsncxt.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
+cgw-211-24-78-174.bbrtl.time.net.my
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -109,6 +110,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.io
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 scan-68-00.shadowserver.io
 scan-88-6.shadowserver.io
 security.criminalip.com
