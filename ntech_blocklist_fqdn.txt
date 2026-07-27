@@ -24,6 +24,7 @@
 163-172-221-175.rev.poneytelecom.eu
 181.190.97.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 198-74-57-124.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 21.39.113.136.bc.googleusercontent.com
