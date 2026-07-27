@@ -24,6 +24,7 @@
 139.178.22.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 147.83.140.34.bc.googleusercontent.com
+152-244-215-92.user.vivozap.com.br
 170.29.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201.232.140.34.bc.googleusercontent.com
@@ -55,6 +56,8 @@ azpdsghmx647.stretchoid.com
 azpdsgocdz87.stretchoid.com
 azpdsgqpucw1.stretchoid.com
 azpdsgu2vs9r.stretchoid.com
+azpdsgxl6zu7.stretchoid.com
+azpdss0yrzr0.stretchoid.com
 azpdss4lc1pe.stretchoid.com
 azpdss797c8p.stretchoid.com
 azpdssaj95k7.stretchoid.com
