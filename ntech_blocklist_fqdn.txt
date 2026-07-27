@@ -109,6 +109,7 @@ pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-05j.shadowserver.io
 scan-40g.shadowserver.io
 scan-68-00.shadowserver.io
 scan-88-6.shadowserver.io
