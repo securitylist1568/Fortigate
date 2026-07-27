@@ -35,6 +35,8 @@ h172-12.trustednetwork.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
+ip-49-90.4vendeta.com
+ip-56-214.4vendeta.com
 ip102.ip-5-196-154.eu
 ip208.ip-46-105-54.eu
 ip29.sudolio.io
