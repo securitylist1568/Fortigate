@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 123-192-192-150.dynamic.kbronet.com.tw
 144.202.92.17.vultrusercontent.com
-181.190.97.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
@@ -38,14 +37,11 @@ festa04.jcatransporte.com.br
 h172-12.trustednetwork.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip-49-90.4vendeta.com
 ip-56-214.4vendeta.com
-ip102.ip-5-196-154.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns1025813.ip-15-204-101.us
 o620.scanner.modat.io
 pc112.cses.ilc.edu.tw
