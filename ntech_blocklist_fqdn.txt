@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-250-116-206.dynamic-ip.hinet.net
 122-121-94-247.dynamic-ip.hinet.net
+138-94-58-182.jasec.go.cr
 144.92.74.97.host.secureserver.net
 147.83.140.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
