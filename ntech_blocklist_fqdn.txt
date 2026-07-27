@@ -20,7 +20,6 @@
 123-192-192-150.dynamic.kbronet.com.tw
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
-192.248.150.180.vultrusercontent.com
 21.39.113.136.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 45-143-198-140.as212027.host
@@ -45,6 +44,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns1025813.ip-15-204-101.us
+o612.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
