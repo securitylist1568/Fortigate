@@ -29,7 +29,6 @@
 185-45-195-15.hostsailor.com
 201.232.140.34.bc.googleusercontent.com
 21.39.113.136.bc.googleusercontent.com
-212-83-186-8.rev.poneytelecom.eu
 228.110.76.34.bc.googleusercontent.com
 233.128.35.171.adsl-pool.jx.chinaunicom.com
 2d96f25f.customer.misaka.taipei
@@ -44,9 +43,11 @@ azpdcs9aqpkl.stretchoid.com
 azpdcslejnig.stretchoid.com
 azpdes63bdu5.stretchoid.com
 azpdesdfn5lp.stretchoid.com
+azpdesxe24x7.stretchoid.com
 azpdsg0jbem4.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsg5jlcj1.stretchoid.com
+azpdsg5u7l7d.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
 azpdsg8708op.stretchoid.com
 azpdsgbfmbi3.stretchoid.com
@@ -92,11 +93,9 @@ ec2-98-94-61-21.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 h172-12.trustednetwork.net
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 klnorrx.cn
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
