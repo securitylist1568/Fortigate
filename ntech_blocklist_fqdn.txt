@@ -21,7 +21,6 @@
 144.202.92.17.vultrusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
-21.39.113.136.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 45-143-198-140.as212027.host
 45.77.61.56.vultrusercontent.com
@@ -36,7 +35,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-h172-12.trustednetwork.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-90.4vendeta.com
@@ -45,13 +43,10 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns1025813.ip-15-204-101.us
-o620.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-05j.shadowserver.io
-scan-06g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
