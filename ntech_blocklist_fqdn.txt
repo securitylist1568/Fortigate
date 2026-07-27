@@ -53,10 +53,12 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o609.scanner.modat.io
+o620.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-05j.shadowserver.io
 scan-61-7.shadowserver.io
 scan-63-2.shadowserver.io
 scan01.cyberscan.io
