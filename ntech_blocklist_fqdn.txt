@@ -41,7 +41,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-102.superbithost.com
@@ -57,7 +56,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-61-7.shadowserver.io
 scan-63-2.shadowserver.io
-scan-68-08.shadowserver.io
 scan01.cyberscan.io
 security.criminalip.com
 smtp1.telemach.net
