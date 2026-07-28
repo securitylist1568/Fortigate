@@ -18,7 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 123-192-192-150.dynamic.kbronet.com.tw
-144.202.92.17.vultrusercontent.com
+149.28.72.72.vultrusercontent.com
 185-45-195-15.hostsailor.com
 21.39.113.136.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
@@ -41,7 +41,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-90.4vendeta.com
 ip-56-214.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o605.scanner.modat.io
@@ -49,9 +48,10 @@ o612.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r3004.compute.pao1.edc.strln.net
+r4002.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.11.75.235.167.clients.your-server.de
