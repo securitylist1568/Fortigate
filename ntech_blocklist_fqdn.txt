@@ -31,11 +31,9 @@
 233.181.77.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 255.93.187.35.bc.googleusercontent.com
-2d0b6ab5.ams.customer.misaka.io
 42.135.52.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 61-63-30-host10.kbtelecom.net.tw
-62-210-209-229.rev.poneytelecom.eu
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
