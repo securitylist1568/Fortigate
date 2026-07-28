@@ -21,7 +21,6 @@
 112-104-89-117.adsl.dynamic.seed.net.tw
 116.199.77.34.bc.googleusercontent.com
 118-169-25-49.dynamic-ip.hinet.net
-124.218.78.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 161.115.22.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
@@ -31,9 +30,7 @@
 204.76.203.49.ptr.pfcloud.network
 206-42-8-132-tmp.static.brisanet.net.br
 21.39.113.136.bc.googleusercontent.com
-225.121.22.34.bc.googleusercontent.com
 233.181.77.34.bc.googleusercontent.com
-246.15.199.104.bc.googleusercontent.com
 25.176.141.34.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
 96.237.126.216.static.cloudzy.com
@@ -75,7 +72,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -86,11 +82,8 @@ pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02m.shadowserver.io
-scan-45o.shadowserver.io
 scan-63-13.shadowserver.io
 scan-67-1.shadowserver.io
-scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-190-25-75-206.etb.net.co
