@@ -22,6 +22,7 @@
 149.28.72.72.vultrusercontent.com
 185-45-195-15.hostsailor.com
 21.39.113.136.bc.googleusercontent.com
+239.104.172.144.static.cloudzy.com
 2d0b6ab5.ams.customer.misaka.io
 45-143-198-140.as212027.host
 45.63.4.69.vultrusercontent.com
@@ -37,6 +38,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-90.4vendeta.com
