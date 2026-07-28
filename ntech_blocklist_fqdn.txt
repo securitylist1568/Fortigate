@@ -24,7 +24,6 @@
 2d0b6ab5.ams.customer.misaka.io
 45-143-198-140.as212027.host
 45.63.4.69.vultrusercontent.com
-45.77.61.56.vultrusercontent.com
 61-63-30-host10.kbtelecom.net.tw
 62-210-209-229.rev.poneytelecom.eu
 94.114.110.136.bc.googleusercontent.com
@@ -45,7 +44,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-ns1025813.ip-15-204-101.us
 o612.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
