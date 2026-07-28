@@ -20,6 +20,7 @@
 144.92.74.97.host.secureserver.net
 169.127.106.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+220-136-152-65.dynamic-ip.hinet.net
 239.221.198.35.bc.googleusercontent.com
 25.176.141.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
