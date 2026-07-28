@@ -23,7 +23,6 @@
 118-169-25-49.dynamic-ip.hinet.net
 124.218.78.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
-149.28.72.72.vultrusercontent.com
 161.115.22.34.bc.googleusercontent.com
 17.190.52.34.bc.googleusercontent.com
 174.229.78.34.bc.googleusercontent.com
@@ -69,16 +68,12 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
-o605.scanner.modat.io
 o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r3004.compute.pao1.edc.strln.net
-r4002.compute.pao1.edc.strln.net
 recyber.net
-rootevidence.com
 scan-02m.shadowserver.io
 scan-15i.shadowserver.io
 scan-43h.shadowserver.io
