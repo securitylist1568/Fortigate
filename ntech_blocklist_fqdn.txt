@@ -56,3 +56,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
 vps-1776709335797.plusvps.com
+vps-promo2.infonet.hr
