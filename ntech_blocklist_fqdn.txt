@@ -53,6 +53,9 @@ r3004.compute.pao1.edc.strln.net
 r4002.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-15i.shadowserver.io
+scan-56f.shadowserver.io
+scan-74-07.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.11.75.235.167.clients.your-server.de
