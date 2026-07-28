@@ -30,8 +30,10 @@
 204.76.203.49.ptr.pfcloud.network
 206-42-8-132-tmp.static.brisanet.net.br
 21.39.113.136.bc.googleusercontent.com
+225.121.22.34.bc.googleusercontent.com
 233.181.77.34.bc.googleusercontent.com
 25.176.141.34.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 96.237.126.216.static.cloudzy.com
 97-107-129-207.ip.linodeusercontent.com
