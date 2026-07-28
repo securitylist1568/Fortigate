@@ -46,6 +46,7 @@ recyber.net
 scan-73-00.shadowserver.io
 scan01.cyberscan.io
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.88-198-70-24.clients.your-server.de
 undefined.hostname.localhost
