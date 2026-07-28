@@ -83,6 +83,7 @@ scan-74-07.shadowserver.io
 scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+static-190-25-75-206.etb.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
 static.171.48.9.5.clients.your-server.de
 time.cloudflare.com
