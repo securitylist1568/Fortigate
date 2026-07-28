@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.199.77.34.bc.googleusercontent.com
+124.218.78.34.bc.googleusercontent.com
 149.28.72.72.vultrusercontent.com
 161.115.22.34.bc.googleusercontent.com
 17.190.52.34.bc.googleusercontent.com
@@ -28,8 +29,10 @@
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 21.39.113.136.bc.googleusercontent.com
+225.121.22.34.bc.googleusercontent.com
 233.181.77.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
+246.15.199.104.bc.googleusercontent.com
 255.93.187.35.bc.googleusercontent.com
 42.135.52.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
@@ -72,10 +75,13 @@ r3004.compute.pao1.edc.strln.net
 r4002.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-02m.shadowserver.io
 scan-15i.shadowserver.io
 scan-43h.shadowserver.io
+scan-45o.shadowserver.io
 scan-56f.shadowserver.io
 scan-74-07.shadowserver.io
+scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
