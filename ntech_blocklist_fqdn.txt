@@ -74,6 +74,7 @@ r4002.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-15i.shadowserver.io
+scan-43h.shadowserver.io
 scan-56f.shadowserver.io
 scan-74-07.shadowserver.io
 security.criminalip.com
