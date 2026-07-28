@@ -17,11 +17,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-215-230.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
-169.127.106.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-21.39.113.136.bc.googleusercontent.com
 239.221.198.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 aim.sba-research.org
@@ -47,13 +44,11 @@ proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
 scan-74-07.shadowserver.io
-scan01.cyberscan.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 srv62003.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
-undefined.hostname.localhost
 users219.vip.heteml.jp
 vps-1776709335797.plusvps.com
 vps-promo2.infonet.hr
