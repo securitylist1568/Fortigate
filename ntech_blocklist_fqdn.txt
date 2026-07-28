@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 206-42-8-132-tmp.static.brisanet.net.br
+21.39.113.136.bc.googleusercontent.com
 225.121.22.34.bc.googleusercontent.com
 233.181.77.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
