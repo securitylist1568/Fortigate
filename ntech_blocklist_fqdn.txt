@@ -21,6 +21,7 @@
 111.189.189.35.bc.googleusercontent.com
 112-104-89-117.adsl.dynamic.seed.net.tw
 116.199.77.34.bc.googleusercontent.com
+118-168-215-230.dynamic-ip.hinet.net
 161.115.22.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 174.229.78.34.bc.googleusercontent.com
