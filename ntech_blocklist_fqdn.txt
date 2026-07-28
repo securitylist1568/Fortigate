@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.199.77.34.bc.googleusercontent.com
+118-169-25-49.dynamic-ip.hinet.net
 124.218.78.34.bc.googleusercontent.com
 144.202.92.17.vultrusercontent.com
 149.28.72.72.vultrusercontent.com
@@ -29,13 +30,14 @@
 182.187.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
+206-42-8-132-tmp.static.brisanet.net.br
 225.121.22.34.bc.googleusercontent.com
 233.181.77.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 246.15.199.104.bc.googleusercontent.com
 255.93.187.35.bc.googleusercontent.com
 42.135.52.34.bc.googleusercontent.com
-61-63-30-host10.kbtelecom.net.tw
+45.77.61.56.vultrusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -62,13 +64,13 @@ htb-h9b8tjwfph.htb-cloud.com
 ip217-154-95-139.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
 o605.scanner.modat.io
 o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r3004.compute.pao1.edc.strln.net
@@ -85,7 +87,6 @@ scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.11.75.235.167.clients.your-server.de
 time.cloudflare.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
