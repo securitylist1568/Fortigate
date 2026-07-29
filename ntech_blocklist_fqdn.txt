@@ -17,10 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+124.236.22.34.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 169.127.106.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 220-136-152-65.dynamic-ip.hinet.net
+25.150.156.34.bc.googleusercontent.com
 25.176.141.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -30,6 +32,7 @@
 62.163.175.207.bc.googleusercontent.com
 91-191-210-50.cprapid.com
 96.237.126.216.static.cloudzy.com
+99.142.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
