@@ -57,6 +57,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
+scan-52k.shadowserver.io
 scan-58.security.ipip.net
 scan-85-3.shadowserver.io
 security.criminalip.com
