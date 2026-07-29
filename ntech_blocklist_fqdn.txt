@@ -33,6 +33,7 @@
 23-92-27-179.ip.linodeusercontent.com
 25.150.156.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
+28.72.221.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 36-229-110-230.dynamic-ip.hinet.net
 4.169.79.34.bc.googleusercontent.com
@@ -70,6 +71,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+mail.quickstartseo.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
