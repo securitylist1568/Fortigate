@@ -21,9 +21,7 @@
 111-243-187-247.dynamic-ip.hinet.net
 118-170-92-98.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-194-164-96-163.as212027.host
 198-134-107-73.rev.unlimitednet.us
-204.76.203.30.ptr.pfcloud.network
 246.183.62.50.host.secureserver.net
 2d96f25f.customer.misaka.taipei
 2d96f380.kbp.customer.misaka.io
@@ -68,7 +66,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip-58-254.4vendeta.com
-ip-60-194.4vendeta.com
 ip106.ip-5-135-10.eu
 ip150.ip-51-81-37.us
 ip29.sudolio.io
@@ -80,7 +77,6 @@ pmg.atisicloud.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-rping.ipip.net
 scan-13l.shadowserver.io
 scan-15k.shadowserver.io
 scan-52k.shadowserver.io
