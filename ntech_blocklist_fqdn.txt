@@ -22,6 +22,7 @@
 172-104-100-28.ip.linodeusercontent.com
 172-104-151-240.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+194-164-96-163.as212027.host
 204.76.203.30.ptr.pfcloud.network
 25.150.156.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
