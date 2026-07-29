@@ -25,8 +25,10 @@
 228.150.216.162.bc.googleusercontent.com
 28.72.221.35.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
+36-232-56-30.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 74-50-97-90.static.hvvc.us
+82-112-46-29.k-telecom.org
 9213038d.customer.misaka.se
 98.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -66,6 +68,7 @@ ip-58-254.4vendeta.com
 ip106.ip-5-135-10.eu
 ip150.ip-51-81-37.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
