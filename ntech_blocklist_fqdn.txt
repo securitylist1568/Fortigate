@@ -41,7 +41,6 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
-45.63.4.69.vultrusercontent.com
 62.163.175.207.bc.googleusercontent.com
 74.130.175.207.bc.googleusercontent.com
 96.237.126.216.static.cloudzy.com
@@ -71,7 +70,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -79,12 +77,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
 scan-14h.shadowserver.io
-scan-41m.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-63-13.shadowserver.io
 scan-73-00.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tp-in-f108.1e100.net
