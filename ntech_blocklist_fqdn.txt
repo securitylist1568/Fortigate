@@ -34,7 +34,6 @@
 220-136-152-65.dynamic-ip.hinet.net
 23-92-27-179.ip.linodeusercontent.com
 25.150.156.34.bc.googleusercontent.com
-28.113.136.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 2d834681.led.customer.misaka.io
 36-229-110-230.dynamic-ip.hinet.net
@@ -47,7 +46,6 @@
 45.63.4.69.vultrusercontent.com
 62.163.175.207.bc.googleusercontent.com
 74.130.175.207.bc.googleusercontent.com
-91-191-210-50.cprapid.com
 96.237.126.216.static.cloudzy.com
 99.142.77.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -59,7 +57,6 @@ crawler235.deepfield.net
 customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-18-208-214-137.compute-1.amazonaws.com
 ec2-3-87-186-57.compute-1.amazonaws.com
 ec2-32-199-191-214.compute-1.amazonaws.com
