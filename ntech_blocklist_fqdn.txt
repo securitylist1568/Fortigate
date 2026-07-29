@@ -30,6 +30,7 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
+204.76.203.49.ptr.pfcloud.network
 220-136-152-65.dynamic-ip.hinet.net
 23-92-27-179.ip.linodeusercontent.com
 25.150.156.34.bc.googleusercontent.com
@@ -80,6 +81,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02k.shadowserver.io
 scan-14h.shadowserver.io
 scan-41m.shadowserver.io
 scan-43h.shadowserver.io
