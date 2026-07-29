@@ -23,7 +23,9 @@
 25.176.141.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
+4.169.79.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+62.163.175.207.bc.googleusercontent.com
 91-191-210-50.cprapid.com
 96.237.126.216.static.cloudzy.com
 aim.sba-research.org
@@ -36,6 +38,10 @@ customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-32-199-191-214.compute-1.amazonaws.com
+ec2-34-205-72-252.compute-1.amazonaws.com
+ec2-54-175-254-254.compute-1.amazonaws.com
+ec2-98-94-22-227.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
