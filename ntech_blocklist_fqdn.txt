@@ -40,6 +40,9 @@ azpdes63bdu5.stretchoid.com
 azpdes6tt1mc.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
 azpdsg8708op.stretchoid.com
+azpdsgrmaulj.stretchoid.com
+azpdsgrvz4jx.stretchoid.com
+azpdsgs6gf0i.stretchoid.com
 azpdsgwinodf.stretchoid.com
 azpdss5zo5ld.stretchoid.com
 azpdssya3d1q.stretchoid.com
@@ -57,6 +60,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-254.4vendeta.com
 ip-60-194.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
