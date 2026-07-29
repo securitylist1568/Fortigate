@@ -37,6 +37,7 @@ d214e39804.research-scanner.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hn.kd.pix
 htb-h9b8tjwfph.htb-cloud.com
@@ -55,6 +56,7 @@ scan-02k.shadowserver.io
 scan-45o.shadowserver.io
 scan-63-13.shadowserver.io
 scan-85-3.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
