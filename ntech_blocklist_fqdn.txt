@@ -68,6 +68,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip-58-254.4vendeta.com
 ip-60-194.4vendeta.com
+ip106.ip-5-135-10.eu
 ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
