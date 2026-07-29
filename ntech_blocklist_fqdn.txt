@@ -17,12 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111-243-184-193.dynamic-ip.hinet.net
 111-243-187-247.dynamic-ip.hinet.net
 118-170-92-98.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 194-164-96-163.as212027.host
-198-134-107-73.rev.unlimitednet.us
 204.76.203.77.ptr.pfcloud.network
 28.72.221.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -82,9 +80,7 @@ pmg.atisicloud.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-scan-13l.shadowserver.io
 scan-15k.shadowserver.io
-scan-52k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
