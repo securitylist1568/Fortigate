@@ -24,12 +24,14 @@
 185-45-195-15.hostsailor.com
 194-164-96-163.as212027.host
 204.76.203.30.ptr.pfcloud.network
+246.183.62.50.host.secureserver.net
 25.150.156.34.bc.googleusercontent.com
 28.72.221.35.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 62.163.175.207.bc.googleusercontent.com
 74.130.175.207.bc.googleusercontent.com
 99.142.77.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
