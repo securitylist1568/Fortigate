@@ -54,7 +54,9 @@ pinkytales.com
 plus-db1.mojsite.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-14h.shadowserver.io
 scan-41m.shadowserver.io
+scan-43h.shadowserver.io
 scan-73-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
