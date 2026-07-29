@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-243-184-193.dynamic-ip.hinet.net
+111-243-187-247.dynamic-ip.hinet.net
 124.236.22.34.bc.googleusercontent.com
 153.150.175.207.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
@@ -28,6 +29,9 @@
 204.76.203.30.ptr.pfcloud.network
 246.183.62.50.host.secureserver.net
 25.150.156.34.bc.googleusercontent.com
+36-228-223-53.dynamic-ip.hinet.net
+36-228-235-140.dynamic-ip.hinet.net
+36-228-237-108.dynamic-ip.hinet.net
 36-228-253-108.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 62-210-209-229.rev.poneytelecom.eu
