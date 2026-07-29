@@ -53,6 +53,7 @@ plus-db1.mojsite.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
+scan-41m.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv62003.dus8.dedicated.server-hosting.expert
