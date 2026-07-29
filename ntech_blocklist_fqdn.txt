@@ -45,6 +45,7 @@
 45-79-225-32.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
 62.163.175.207.bc.googleusercontent.com
+74.130.175.207.bc.googleusercontent.com
 91-191-210-50.cprapid.com
 96.237.126.216.static.cloudzy.com
 99.142.77.34.bc.googleusercontent.com
@@ -73,7 +74,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip49.ip-15-235-122.net
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
