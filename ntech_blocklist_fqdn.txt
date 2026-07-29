@@ -22,6 +22,7 @@
 172-104-100-28.ip.linodeusercontent.com
 172-104-151-240.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+204.76.203.30.ptr.pfcloud.network
 25.150.156.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
 28.72.221.35.bc.googleusercontent.com
@@ -56,6 +57,7 @@ pmg.atisicloud.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scan-58.security.ipip.net
 scan-85-3.shadowserver.io
 security.criminalip.com
