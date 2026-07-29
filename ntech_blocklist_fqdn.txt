@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 194-164-96-163.as212027.host
 198-134-107-73.rev.unlimitednet.us
+204.76.203.77.ptr.pfcloud.network
 28.72.221.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 2d96f380.kbp.customer.misaka.io
@@ -58,6 +59,7 @@ azpdwscoks7c.stretchoid.com
 azpdwsdsncxt.stretchoid.com
 azpdwspg5atk.stretchoid.com
 b1b10ded.customer.misaka.ist
+b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
