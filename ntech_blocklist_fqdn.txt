@@ -21,13 +21,11 @@
 153.150.175.207.bc.googleusercontent.com
 172-104-151-240.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.49.ptr.pfcloud.network
 25.150.156.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
 28.72.221.35.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 62.163.175.207.bc.googleusercontent.com
-74.130.175.207.bc.googleusercontent.com
 99.142.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -52,9 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-02k.shadowserver.io
 scan-45o.shadowserver.io
-scan-63-13.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
