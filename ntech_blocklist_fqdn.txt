@@ -36,6 +36,7 @@
 28.113.136.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 2d834681.led.customer.misaka.io
+36-229-110-230.dynamic-ip.hinet.net
 4.169.79.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -87,5 +88,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tp-in-f108.1e100.net
+trafo.kz
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
