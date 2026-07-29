@@ -21,6 +21,7 @@
 111-243-187-247.dynamic-ip.hinet.net
 118-170-92-98.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+194-164-96-163.as212027.host
 198-134-107-73.rev.unlimitednet.us
 246.183.62.50.host.secureserver.net
 2d96f25f.customer.misaka.taipei
