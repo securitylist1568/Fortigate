@@ -26,7 +26,6 @@
 204.76.203.30.ptr.pfcloud.network
 246.183.62.50.host.secureserver.net
 25.150.156.34.bc.googleusercontent.com
-28.72.221.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 62.163.175.207.bc.googleusercontent.com
@@ -49,10 +48,7 @@ hn.kd.pix
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-194.4vendeta.com
 ip29.sudolio.io
-li1537-121.members.linode.com
-li1570-11.members.linode.com
 li1873-236.members.linode.com
-mail.quickstartseo.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
