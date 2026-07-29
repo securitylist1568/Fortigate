@@ -29,6 +29,7 @@
 204.76.203.30.ptr.pfcloud.network
 246.183.62.50.host.secureserver.net
 25.150.156.34.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 36-228-223-53.dynamic-ip.hinet.net
 36-228-235-140.dynamic-ip.hinet.net
 36-228-237-108.dynamic-ip.hinet.net
@@ -55,6 +56,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-194.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
