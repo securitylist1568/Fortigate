@@ -24,6 +24,7 @@
 194-164-96-163.as212027.host
 198-134-107-73.rev.unlimitednet.us
 246.183.62.50.host.secureserver.net
+28.72.221.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 2d96f380.kbp.customer.misaka.io
 36-228-223-53.dynamic-ip.hinet.net
@@ -84,6 +85,7 @@ scan-15k.shadowserver.io
 scan-52k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
