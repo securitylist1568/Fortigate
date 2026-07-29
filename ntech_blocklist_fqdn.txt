@@ -21,7 +21,6 @@
 169.127.106.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 220-136-152-65.dynamic-ip.hinet.net
-239.221.198.35.bc.googleusercontent.com
 25.176.141.34.bc.googleusercontent.com
 28.113.136.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -33,6 +32,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
 cp35.infonet.hr
+customer.sntochl1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -51,12 +51,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 plus-db1.mojsite.com
 proxy-ca002-ext2.a.ahrefs.com
-prqn.talonted.eu.com
 recyber.net
 scan-41m.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv62003.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vps-1776709335797.plusvps.com
