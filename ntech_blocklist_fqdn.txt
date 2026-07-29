@@ -23,6 +23,7 @@
 172-104-151-240.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-164-96-163.as212027.host
+198-134-107-73.rev.unlimitednet.us
 204.76.203.30.ptr.pfcloud.network
 246.183.62.50.host.secureserver.net
 25.150.156.34.bc.googleusercontent.com
@@ -57,6 +58,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rping.ipip.net
+scan-13l.shadowserver.io
 scan-52k.shadowserver.io
 scan-58.security.ipip.net
 scan-85-3.shadowserver.io
