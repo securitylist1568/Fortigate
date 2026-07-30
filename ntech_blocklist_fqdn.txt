@@ -19,13 +19,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-170-92-98.dynamic-ip.hinet.net
 131.210.203.35.bc.googleusercontent.com
+149.204.237.35.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-164-96-163.as212027.host
 204.76.203.77.ptr.pfcloud.network
 228.150.216.162.bc.googleusercontent.com
 28.72.221.35.bc.googleusercontent.com
-2d96f380.kbp.customer.misaka.io
 36-232-56-30.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 74-50-97-90.static.hvvc.us
@@ -34,8 +34,6 @@
 98.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdsgv1yi6q.stretchoid.com
-azpdwsayyn3f.stretchoid.com
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,7 +45,6 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip-49-226.4vendeta.com
 ip106.ip-5-135-10.eu
 ip150.ip-51-81-37.us
@@ -65,4 +62,3 @@ ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi3209390.contaboserver.net
-vmi3365127.contaboserver.net
