@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.169.241.35.bc.googleusercontent.com
+113.149.216.162.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
 130.170.156.34.bc.googleusercontent.com
 149.204.237.35.bc.googleusercontent.com
@@ -41,6 +42,7 @@
 38.150.216.162.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 64.104.175.207.bc.googleusercontent.com
+69.181.140.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
