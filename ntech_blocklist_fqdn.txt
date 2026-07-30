@@ -81,6 +81,7 @@ scan-60.security.ipip.net
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-217-79-116-168.datapacket.com
 users219.vip.heteml.jp
