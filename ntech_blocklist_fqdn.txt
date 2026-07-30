@@ -32,6 +32,7 @@
 230.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
+242.115.205.35.bc.googleusercontent.com
 36-233-213-241.dynamic-ip.hinet.net
 50-116-23-150.ip.linodeusercontent.com
 69.181.140.34.bc.googleusercontent.com
