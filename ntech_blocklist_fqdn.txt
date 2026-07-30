@@ -1,6 +1,8 @@
+1-164-48-173.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 104-237-150-192.ip.linodeusercontent.com
 104.149.216.162.bc.googleusercontent.com
+109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -25,7 +27,6 @@
 130.170.156.34.bc.googleusercontent.com
 139-162-128-180.ip.linodeusercontent.com
 149.204.237.35.bc.googleusercontent.com
-153.149.216.162.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 165.132.23.34.bc.googleusercontent.com
 165.46.175.207.bc.googleusercontent.com
@@ -37,12 +38,11 @@
 204.76.203.91.ptr.pfcloud.network
 206.150.216.162.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
-230.211.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 242.115.205.35.bc.googleusercontent.com
 244.15.140.34.bc.googleusercontent.com
+252.150.216.162.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
-36-233-213-241.dynamic-ip.hinet.net
 38.150.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -66,7 +66,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mail.quickstartseo.com
-mbl-109-44-234.dsl.net.pk
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
 os3-391-28661.vs.sakura.ne.jp
@@ -82,7 +81,6 @@ scan-09n.shadowserver.io
 scan-40e.shadowserver.io
 scan-45g.shadowserver.io
 scan-47k.shadowserver.io
-scan-56.security.ipip.net
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
