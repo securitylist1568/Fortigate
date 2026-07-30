@@ -40,6 +40,7 @@
 60.210.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 64.104.175.207.bc.googleusercontent.com
+64.114.172.144.static.cloudzy.com
 64.176.212.154.vultrusercontent.com
 66-175-213-104.ip.linodeusercontent.com
 69.181.140.34.bc.googleusercontent.com
