@@ -69,6 +69,7 @@ scan-05j.shadowserver.io
 scan-07e.shadowserver.io
 scan-09n.shadowserver.io
 scan-40e.shadowserver.io
+scan-45g.shadowserver.io
 scan-47k.shadowserver.io
 scan-56.security.ipip.net
 scan-71-05.shadowserver.io
