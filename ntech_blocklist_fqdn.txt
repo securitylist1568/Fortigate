@@ -21,6 +21,7 @@
 112.169.241.35.bc.googleusercontent.com
 113.180.140.34.bc.googleusercontent.com
 130.170.156.34.bc.googleusercontent.com
+149.204.237.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 165.132.23.34.bc.googleusercontent.com
 165.46.175.207.bc.googleusercontent.com
@@ -58,6 +59,7 @@ lnxsr12.cwp.webr.net.za
 mbl-109-44-234.dsl.net.pk
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
+os3-391-28661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
