@@ -41,6 +41,7 @@
 32.210.203.35.bc.googleusercontent.com
 36-233-213-241.dynamic-ip.hinet.net
 38.150.216.162.bc.googleusercontent.com
+45.211.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 64.104.175.207.bc.googleusercontent.com
 69.181.140.34.bc.googleusercontent.com
@@ -58,6 +59,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
+mail.quickstartseo.com
 mbl-109-44-234.dsl.net.pk
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
