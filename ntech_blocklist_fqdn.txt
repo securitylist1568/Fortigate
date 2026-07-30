@@ -55,6 +55,7 @@ ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kub002.idyschool.de.com
+li1570-11.members.linode.com
 mbl-109-44-234.dsl.net.pk
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -62,6 +63,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.io
+scan-47k.shadowserver.io
 scan-56.security.ipip.net
 scan-71-05.shadowserver.io
 security.criminalip.com
