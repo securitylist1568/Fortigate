@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.169.241.35.bc.googleusercontent.com
 113.180.140.34.bc.googleusercontent.com
+130.170.156.34.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 165.132.23.34.bc.googleusercontent.com
 165.46.175.207.bc.googleusercontent.com
@@ -29,6 +30,8 @@
 192.150.216.162.bc.googleusercontent.com
 194-164-96-83.as212027.host
 200.35.62.34.bc.googleusercontent.com
+206.150.216.162.bc.googleusercontent.com
+230.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 244.15.140.34.bc.googleusercontent.com
@@ -63,6 +66,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.io
+scan-07e.shadowserver.io
+scan-09n.shadowserver.io
 scan-40e.shadowserver.io
 scan-47k.shadowserver.io
 scan-56.security.ipip.net
