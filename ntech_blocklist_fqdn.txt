@@ -43,6 +43,7 @@
 32.210.203.35.bc.googleusercontent.com
 38.150.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
+45.77.14.156.vultrusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 60.210.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
@@ -68,6 +69,7 @@ ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
 mail.quickstartseo.com
 mfyabgec.musicpda.com
+ns1.cloudzone.com.br
 ns1004398.ip-40-160-62.us
 os3-391-28661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
