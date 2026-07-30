@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+112.169.241.35.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
 130.170.156.34.bc.googleusercontent.com
 149.204.237.35.bc.googleusercontent.com
@@ -36,7 +37,9 @@
 234.150.216.162.bc.googleusercontent.com
 242.115.205.35.bc.googleusercontent.com
 244.15.140.34.bc.googleusercontent.com
+32.210.203.35.bc.googleusercontent.com
 36-233-213-241.dynamic-ip.hinet.net
+38.150.216.162.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 64.104.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -74,5 +77,6 @@ scan-71-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-217-79-116-168.datapacket.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
