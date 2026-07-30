@@ -36,6 +36,7 @@
 63.150.216.162.bc.googleusercontent.com
 64.114.172.144.static.cloudzy.com
 85.150.216.162.bc.googleusercontent.com
+85.211.203.35.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
 96.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -46,6 +47,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
+h3073392.stratoserver.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
