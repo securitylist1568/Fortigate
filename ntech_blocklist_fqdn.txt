@@ -21,6 +21,7 @@
 114-37-203-173.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
 13.149.216.162.bc.googleusercontent.com
+146.211.203.35.bc.googleusercontent.com
 165.132.23.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,10 +32,10 @@
 40.210.203.35.bc.googleusercontent.com
 45.135.193.212.ptr.pfcloud.network
 45.210.203.35.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
 53.26.71.192.in-addr.arpa
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 62-210-209-229.rev.poneytelecom.eu
-64.114.172.144.static.cloudzy.com
 70.211.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
@@ -44,6 +45,7 @@ amz.unixwiz.net
 azpdes63bdu5.stretchoid.com
 azpdespq7q3k.stretchoid.com
 azpdsg0jbem4.stretchoid.com
+azpdsgbhg8mp.stretchoid.com
 azpdsgigumtz.stretchoid.com
 azpdsglq54br.stretchoid.com
 azpdsgocdz87.stretchoid.com
