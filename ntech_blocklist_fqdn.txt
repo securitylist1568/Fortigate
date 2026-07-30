@@ -24,6 +24,7 @@
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 208.150.216.162.bc.googleusercontent.com
+23.209.255.172.hosted.by.hostdzire.com
 251.150.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 45.135.193.212.ptr.pfcloud.network
@@ -55,6 +56,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scanner3.labs.rapid7.com
+scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
