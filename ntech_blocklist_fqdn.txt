@@ -27,7 +27,6 @@
 177.211.203.35.bc.googleusercontent.com
 180.136.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192.150.216.162.bc.googleusercontent.com
 194-164-96-83.as212027.host
 200.35.62.34.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
@@ -35,9 +34,7 @@
 230.211.203.35.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 244.15.140.34.bc.googleusercontent.com
-245.149.216.162.bc.googleusercontent.com
 36-233-213-241.dynamic-ip.hinet.net
-62.150.216.162.bc.googleusercontent.com
 64.104.175.207.bc.googleusercontent.com
 69.181.140.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -54,10 +51,8 @@ ec2-54-175-149-14.compute-1.amazonaws.com
 ec2-54-90-247-162.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-kub002.idyschool.de.com
 li1570-11.members.linode.com
 mbl-109-44-234.dsl.net.pk
 mfyabgec.musicpda.com
