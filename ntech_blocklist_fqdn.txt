@@ -23,15 +23,12 @@
 177.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
-194-164-96-163.as212027.host
 204.76.203.77.ptr.pfcloud.network
 228.150.216.162.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
-28.72.221.35.bc.googleusercontent.com
 36-232-56-30.dynamic-ip.hinet.net
 45.63.4.69.vultrusercontent.com
 62.150.216.162.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
 82-112-46-29.k-telecom.org
 9213038d.customer.misaka.se
 98.211.203.35.bc.googleusercontent.com
@@ -46,11 +43,9 @@ d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-226.4vendeta.com
 ip29.sudolio.io
 kub002.idyschool.de.com
 li1570-11.members.linode.com
@@ -62,7 +57,6 @@ recyber.net
 scan-05j.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
