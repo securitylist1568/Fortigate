@@ -19,9 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.169.241.35.bc.googleusercontent.com
 113.180.140.34.bc.googleusercontent.com
-149.204.237.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
-158.149.216.162.bc.googleusercontent.com
 165.132.23.34.bc.googleusercontent.com
 165.46.175.207.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -72,4 +70,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
-vmi3209390.contaboserver.net
