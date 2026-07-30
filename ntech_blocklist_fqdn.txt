@@ -25,6 +25,7 @@
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 208.150.216.162.bc.googleusercontent.com
+218.210.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 251.150.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
@@ -41,9 +42,12 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdes63bdu5.stretchoid.com
+azpdespq7q3k.stretchoid.com
 azpdsglq54br.stretchoid.com
+azpdsgocdz87.stretchoid.com
 azpdss2sy749.stretchoid.com
 azpdssml72hw.stretchoid.com
+azpdssumseh6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
