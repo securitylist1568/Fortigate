@@ -24,6 +24,7 @@
 162017.ip-ptr.tech
 165.139.241.35.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
+179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.178.53.34.bc.googleusercontent.com
 200.217.62.34.bc.googleusercontent.com
@@ -49,6 +50,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
+hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
