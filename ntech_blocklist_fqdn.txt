@@ -40,7 +40,9 @@
 90.149.216.162.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
+azpdsghmx647.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -84,5 +86,6 @@ security.criminalip.com
 server.bslpackers.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.147.218.4.46.clients.your-server.de
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
