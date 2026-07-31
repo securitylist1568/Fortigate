@@ -35,10 +35,9 @@
 220-136-152-65.dynamic-ip.hinet.net
 225.211.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
-40.210.203.35.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
-53.26.71.192.in-addr.arpa
 62-210-209-229.rev.poneytelecom.eu
+70.238.241.35.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
