@@ -38,6 +38,7 @@
 218.160.62.34.bc.googleusercontent.com
 220-136-152-65.dynamic-ip.hinet.net
 225.211.203.35.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
 70.238.241.35.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
