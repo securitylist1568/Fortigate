@@ -28,7 +28,6 @@
 185-45-195-15.hostsailor.com
 193.210.203.35.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
-194-195-253-86.ip.linodeusercontent.com
 195.178.53.34.bc.googleusercontent.com
 200.217.62.34.bc.googleusercontent.com
 207.112.175.207.bc.googleusercontent.com
@@ -83,7 +82,6 @@ recyber.net
 research.esrg.stanford.edu
 scan-02m.shadowserver.io
 scan-06g.shadowserver.io
-scan-14l.shadowserver.io
 scan-41m.shadowserver.io
 security.criminalip.com
 server.bslpackers.com
