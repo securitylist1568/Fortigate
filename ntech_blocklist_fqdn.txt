@@ -24,11 +24,13 @@
 165.132.23.34.bc.googleusercontent.com
 165.139.241.35.bc.googleusercontent.com
 165.6.92.136.bc.googleusercontent.com
+179.103.38.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 195.178.53.34.bc.googleusercontent.com
 200.217.62.34.bc.googleusercontent.com
+207.112.175.207.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
 220-136-152-65.dynamic-ip.hinet.net
 225.211.203.35.bc.googleusercontent.com
@@ -37,6 +39,7 @@
 45.63.4.69.vultrusercontent.com
 53.26.71.192.in-addr.arpa
 62-210-209-229.rev.poneytelecom.eu
+79.211.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 83.150.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
