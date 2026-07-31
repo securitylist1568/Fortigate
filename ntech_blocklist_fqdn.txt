@@ -20,6 +20,7 @@
 111.149.216.162.bc.googleusercontent.com
 112.184.22.34.bc.googleusercontent.com
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+162017.ip-ptr.tech
 163.150.216.162.bc.googleusercontent.com
 165.139.241.35.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
@@ -41,6 +42,7 @@ amz.unixwiz.net
 azpdsghmx647.stretchoid.com
 b2.org.afilias-nst.org
 blynkprm.ptr.network
+c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
