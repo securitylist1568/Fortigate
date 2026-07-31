@@ -24,7 +24,6 @@
 152-244-215-92.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 215.210.203.35.bc.googleusercontent.com
-233.128.35.171.adsl-pool.jx.chinaunicom.com
 26.210.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -63,7 +62,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
