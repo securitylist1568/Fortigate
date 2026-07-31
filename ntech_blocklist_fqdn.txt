@@ -19,14 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.149.216.162.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
-138.211.203.35.bc.googleusercontent.com
 152-244-215-92.user.vivozap.com.br
 165.6.92.136.bc.googleusercontent.com
 171.87.88.34.bc.googleusercontent.com
-179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 233.128.35.171.adsl-pool.jx.chinaunicom.com
-24.150.216.162.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
@@ -45,7 +42,6 @@ dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
-hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -65,5 +61,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
 users219.vip.heteml.jp
-v2202410198761290741.nicesrv.de
-www.internet-albedo.net
