@@ -25,6 +25,8 @@
 233.128.35.171.adsl-pool.jx.chinaunicom.com
 26.210.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
+31-210-42-73.hostlab.net.tr
 43.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
