@@ -42,6 +42,7 @@ c-73-212-14-186.hsd1.md.comcast.net
 church.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
@@ -52,6 +53,7 @@ ip29.sudolio.io
 klnorrx.cn
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
