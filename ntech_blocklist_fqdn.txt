@@ -24,6 +24,7 @@
 124.149.216.162.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
+167.34.78.34.bc.googleusercontent.com
 177.249.60.149-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 208.167.53.34.bc.googleusercontent.com
