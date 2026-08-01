@@ -20,14 +20,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.43.199.104.bc.googleusercontent.com
 130.161.19.34.bc.googleusercontent.com
+138.149.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
-163-172-221-175.rev.poneytelecom.eu
 167.34.78.34.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
-177.249.60.149-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 208.167.53.34.bc.googleusercontent.com
 22.211.203.35.bc.googleusercontent.com
@@ -44,7 +43,6 @@
 62-210-209-229.rev.poneytelecom.eu
 62-210-220-46.rev.poneytelecom.eu
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
-80.211.203.35.bc.googleusercontent.com
 93.57.76.34.bc.googleusercontent.com
 99.37.199.104.bc.googleusercontent.com
 aim.sba-research.org
@@ -85,7 +83,6 @@ azpdssumseh6.stretchoid.com
 azpdssxq24h7.stretchoid.com
 azpdssya3d1q.stretchoid.com
 b2.org.afilias-nst.org
-c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
