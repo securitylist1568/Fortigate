@@ -84,6 +84,7 @@ azpdssumseh6.stretchoid.com
 azpdssxq24h7.stretchoid.com
 azpdssya3d1q.stretchoid.com
 b2.org.afilias-nst.org
+c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -110,6 +111,7 @@ host-238-7-56-103.cloudsigma.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-102.superbithost.com
 ip29.sudolio.io
+klnorrx.cn
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 li1992-217.members.linode.com
