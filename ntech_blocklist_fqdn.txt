@@ -25,6 +25,7 @@
 153.150.216.162.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 167.34.78.34.bc.googleusercontent.com
+176.150.216.162.bc.googleusercontent.com
 177.249.60.149-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 208.167.53.34.bc.googleusercontent.com
@@ -49,6 +50,7 @@
 76.150.216.162.bc.googleusercontent.com
 80.211.203.35.bc.googleusercontent.com
 93.57.76.34.bc.googleusercontent.com
+99.37.199.104.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
