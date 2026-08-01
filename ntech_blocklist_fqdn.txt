@@ -20,10 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.149.216.162.bc.googleusercontent.com
 113.43.199.104.bc.googleusercontent.com
-130.161.19.34.bc.googleusercontent.com
-138.149.216.162.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
+169.149.216.162.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 203.149.216.162.bc.googleusercontent.com
@@ -54,7 +52,6 @@ ip29.sudolio.io
 klnorrx.cn
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
