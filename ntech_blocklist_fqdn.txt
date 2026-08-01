@@ -32,6 +32,7 @@
 237.150.216.162.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 24.185.186.34.bc.googleusercontent.com
+254.213.38.34.bc.googleusercontent.com
 254.67.156.34.bc.googleusercontent.com
 62-210-209-229.rev.poneytelecom.eu
 75.150.216.162.bc.googleusercontent.com
@@ -68,6 +69,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.mobinhost.com
 htb-h9b8tjwfph.htb-cloud.com
