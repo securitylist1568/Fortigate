@@ -24,10 +24,11 @@
 197.149.216.162.bc.googleusercontent.com
 220-136-152-65.dynamic-ip.hinet.net
 240.210.203.35.bc.googleusercontent.com
-248.149.216.162.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
 33-83-58-199.reverse.tachanka.org
+41.149.216.162.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
 56.211.203.35.bc.googleusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 80.210.203.35.bc.googleusercontent.com
@@ -44,6 +45,8 @@ dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
+hn.kd.jz.adsl
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-158.4vendeta.com
@@ -57,12 +60,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scanner3.labs.rapid7.com
 scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-thornton.thespontaneity.org.uk
 users219.vip.heteml.jp
+vmi3142244.contaboserver.net
 vmi3365127.contaboserver.net
 zhangyuan3.virtuaserver.com.br
