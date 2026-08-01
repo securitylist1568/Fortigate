@@ -43,6 +43,7 @@ get174.ingetitin.com
 hn.kd.jz.adsl
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-110.4vendeta.com
 ip-58-158.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
