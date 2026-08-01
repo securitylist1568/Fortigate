@@ -40,6 +40,7 @@
 40.174.175.207.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
+62-210-209-229.rev.poneytelecom.eu
 62-210-220-46.rev.poneytelecom.eu
 62.149.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
