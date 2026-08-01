@@ -34,6 +34,7 @@
 43.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
+57.149.216.162.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
@@ -58,6 +59,7 @@ li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 newtrack.rapidns.com
+ns3140438.ip-51-77-217.eu
 o604.scanner.modat.io
 o608.scanner.modat.io
 o627.scanner.modat.io
