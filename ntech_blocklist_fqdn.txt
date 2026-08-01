@@ -32,7 +32,6 @@
 31-210-42-73.hostlab.net.tr
 37.210.203.35.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
-43.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
@@ -51,21 +50,15 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 newtrack.rapidns.com
 ns3140438.ip-51-77-217.eu
-o604.scanner.modat.io
-o627.scanner.modat.io
-o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -74,6 +67,5 @@ security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
-thornton.thespontaneity.org.uk
 users219.vip.heteml.jp
 v2202410198761290741.nicesrv.de
