@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.149.216.162.bc.googleusercontent.com
 113.43.199.104.bc.googleusercontent.com
+130.161.19.34.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 24.185.186.34.bc.googleusercontent.com
 240.134.156.34.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
+252.150.216.162.bc.googleusercontent.com
 254.213.38.34.bc.googleusercontent.com
 254.67.156.34.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
