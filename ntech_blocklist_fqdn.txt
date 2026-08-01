@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.149.216.162.bc.googleusercontent.com
 113.43.199.104.bc.googleusercontent.com
 130.161.19.34.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
@@ -36,12 +35,10 @@
 252.150.216.162.bc.googleusercontent.com
 254.213.38.34.bc.googleusercontent.com
 254.67.156.34.bc.googleusercontent.com
-75.150.216.162.bc.googleusercontent.com
 99.37.199.104.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-c-73-212-14-186.hsd1.md.comcast.net
 church.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
@@ -53,7 +50,6 @@ hn.kd.ny.adsl
 hosted-by.mobinhost.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-klnorrx.cn
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
