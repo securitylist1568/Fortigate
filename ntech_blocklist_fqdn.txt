@@ -62,6 +62,7 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
+75-127-6-2-host.colocrossing.com
 80.150.216.162.bc.googleusercontent.com
 94.251.140.34.bc.googleusercontent.com
 95526344.grabercloud.com
