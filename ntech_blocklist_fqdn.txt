@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.111.62.34.bc.googleusercontent.com
-12.149.216.162.bc.googleusercontent.com
 127.97.50.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -49,6 +48,7 @@
 225.120.38.34.bc.googleusercontent.com
 229.red-83-46-89.dynamicip.rima-tde.net
 23-92-27-179.ip.linodeusercontent.com
+240.210.203.35.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 30.216.52.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
@@ -86,12 +86,11 @@ ec2-54-172-145-28.compute-1.amazonaws.com
 ec2-54-221-75-112.compute-1.amazonaws.com
 ec2-54-86-27-243.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip106.ip-5-135-10.eu
 ip29.sudolio.io
-lag-30-323-99.ear1.austin1.level3.net
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
