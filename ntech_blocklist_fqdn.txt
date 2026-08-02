@@ -22,9 +22,7 @@
 187.102.36.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 2d834781.kunde.misaka.berlin
-41.149.216.162.bc.googleusercontent.com
 45-79-130-82.ip.linodeusercontent.com
-45.63.4.69.vultrusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 75.240.92.34.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
