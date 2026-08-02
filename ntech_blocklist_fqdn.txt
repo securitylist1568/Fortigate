@@ -37,8 +37,8 @@
 177.249.60.149-clientes-zap-izzi.mx
 180-176-85-124.dynamic.kbronet.com.tw
 180.150.216.162.bc.googleusercontent.com
+184.155.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187.102.36.34.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 192.205.22.34.bc.googleusercontent.com
 196.150.216.162.bc.googleusercontent.com
@@ -52,7 +52,6 @@
 229.red-83-46-89.dynamicip.rima-tde.net
 23-92-27-179.ip.linodeusercontent.com
 240.210.203.35.bc.googleusercontent.com
-2d834781.kunde.misaka.berlin
 30.216.52.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -62,8 +61,6 @@
 45-79-130-82.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
-62-210-220-46.rev.poneytelecom.eu
-75.240.92.34.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 94.251.140.34.bc.googleusercontent.com
