@@ -29,7 +29,6 @@
 83.149.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 97-107-140-125.ip.linodeusercontent.com
-aa27e0dc.iad.customer.misaka.io
 acceso-189.224.51.245.prod-infinitum.com.mx
 aim.sba-research.org
 amz.unixwiz.net
