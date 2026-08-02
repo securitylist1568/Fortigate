@@ -55,8 +55,6 @@ ec2-54-172-145-28.compute-1.amazonaws.com
 ec2-54-221-75-112.compute-1.amazonaws.com
 ec2-54-86-27-243.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-get174.ingetitin.com
-hn.kd.jz.adsl
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
@@ -74,7 +72,5 @@ rootevidence.com
 scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi3142244.contaboserver.net
