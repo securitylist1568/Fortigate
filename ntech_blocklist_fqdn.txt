@@ -19,8 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.111.62.34.bc.googleusercontent.com
-145.149.216.162.bc.googleusercontent.com
-153.150.62.34.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 167.149.216.162.bc.googleusercontent.com
@@ -37,7 +35,6 @@
 227.211.203.35.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 30.216.52.34.bc.googleusercontent.com
-33.211.203.35.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 80.150.216.162.bc.googleusercontent.com
 94.251.140.34.bc.googleusercontent.com
@@ -61,7 +58,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14h.shadowserver.io
-scan-41m.shadowserver.io
 scan-85-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
