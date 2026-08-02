@@ -20,17 +20,13 @@
 12.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.102.36.34.bc.googleusercontent.com
-197.149.216.162.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 41.149.216.162.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 75.240.92.34.bc.googleusercontent.com
-aa27e3fb.sea.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-blackburn.probe.onyphe.net
 c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
@@ -44,8 +40,6 @@ ip-58-110.4vendeta.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 lag-30-323-99.ear1.austin1.level3.net
-li1570-11.members.linode.com
-lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
