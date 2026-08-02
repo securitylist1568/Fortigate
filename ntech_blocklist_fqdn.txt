@@ -37,6 +37,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
+crawler069.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-58-113-108.compute-1.amazonaws.com
@@ -68,6 +69,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
