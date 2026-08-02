@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.111.62.34.bc.googleusercontent.com
+118-160-71-44.dynamic-ip.hinet.net
 163-172-221-175.rev.poneytelecom.eu
 175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -27,9 +28,11 @@
 227.211.203.35.bc.googleusercontent.com
 23-95-202-54-host.colocrossing.com
 30.216.52.34.bc.googleusercontent.com
+45-79-184-131.ip.linodeusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 75-127-6-2-host.colocrossing.com
 94.251.140.34.bc.googleusercontent.com
+97-107-140-125.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -88,6 +91,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-02k.shadowserver.io
 scan-14h.shadowserver.io
 scan-85-0.shadowserver.io
