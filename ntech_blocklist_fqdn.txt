@@ -83,6 +83,7 @@ hn.kd.ny.adsl
 ho.probe.onyphe.net
 htb-h9b8tjwfph.htb-cloud.com
 intermediate.venturamg.com
+ip-49-142.web1.bg
 ip-58-158.4vendeta.com
 ip-58-254.4vendeta.com
 ip29.sudolio.io
