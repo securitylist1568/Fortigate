@@ -20,9 +20,13 @@
 12.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.102.36.34.bc.googleusercontent.com
+192.205.22.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+222.47.62.34.bc.googleusercontent.com
+225.120.38.34.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 45-79-130-82.ip.linodeusercontent.com
+45.63.4.69.vultrusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 75.240.92.34.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
@@ -33,6 +37,11 @@ c-73-212-14-186.hsd1.md.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-58-113-108.compute-1.amazonaws.com
+ec2-3-91-61-197.compute-1.amazonaws.com
+ec2-34-233-122-45.compute-1.amazonaws.com
+ec2-44-212-74-78.compute-1.amazonaws.com
+ec2-54-172-133-72.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.jz.adsl
