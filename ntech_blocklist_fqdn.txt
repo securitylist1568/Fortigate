@@ -59,6 +59,7 @@
 45.63.4.69.vultrusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 75.240.92.34.bc.googleusercontent.com
+80.150.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
 94.251.140.34.bc.googleusercontent.com
 95526344.grabercloud.com
