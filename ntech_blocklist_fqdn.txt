@@ -22,6 +22,7 @@
 153.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
+45.135.193.207.ptr.pfcloud.network
 62-210-209-229.rev.poneytelecom.eu
 75.240.92.34.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
@@ -34,6 +35,7 @@ client.yota.ru
 dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
@@ -47,6 +49,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
+ns1004398.ip-40-160-62.us
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
