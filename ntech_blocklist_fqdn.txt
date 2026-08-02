@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -25,6 +26,7 @@
 45-79-184-131.ip.linodeusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 83.149.216.162.bc.googleusercontent.com
+84.149.216.162.bc.googleusercontent.com
 97-107-140-125.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
 acceso-189.224.51.245.prod-infinitum.com.mx
