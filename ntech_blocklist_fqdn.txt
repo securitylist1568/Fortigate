@@ -24,7 +24,6 @@
 75.240.92.34.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 car146.careercorejourney.com
@@ -50,7 +49,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-15i.shadowserver.io
 security.criminalip.com
 server.bslpackers.com
 smtp1.telemach.net
@@ -58,6 +56,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.81.108.40.188.clients.your-server.de
 thornton.thespontaneity.org.uk
 unn-138-199-53-212.datapacket.com
-unn-169-150-252-179.datapacket.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
