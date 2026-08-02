@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 12.149.216.162.bc.googleusercontent.com
+180-176-85-124.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 187.102.36.34.bc.googleusercontent.com
 192.205.22.34.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 62-210-220-46.rev.poneytelecom.eu
 75.240.92.34.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
+94.251.140.34.bc.googleusercontent.com
 95526344.grabercloud.com
 aim.sba-research.org
 amz.unixwiz.net
