@@ -24,6 +24,8 @@
 127.97.50.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+145.149.216.162.bc.googleusercontent.com
+153.150.62.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -47,6 +49,7 @@
 23-92-27-179.ip.linodeusercontent.com
 2d834781.kunde.misaka.berlin
 30.216.52.34.bc.googleusercontent.com
+33.211.203.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
