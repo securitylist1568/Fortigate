@@ -59,7 +59,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
 ns574789.ip-51-222-40.net
@@ -73,7 +72,6 @@ scan-84-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.81.108.40.188.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
 virginia.probe.onyphe.net
