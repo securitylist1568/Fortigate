@@ -26,12 +26,10 @@
 190.20.14.34.bc.googleusercontent.com
 203-222-24-237.veetime.com
 203.118.124.34.bc.googleusercontent.com
-206.189.199.104.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 2d83453c.mow.customer.misaka.io
 2d96f25f.customer.misaka.taipei
 59-125-215-95.hinet-ip.hinet.net
-62-210-220-46.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
 aim.sba-research.org
 amz.unixwiz.net
@@ -44,7 +42,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -54,13 +51,8 @@ pinkytales.com
 prod-iodine-us-east-15.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
-scan-45o.shadowserver.io
 scan-53j.shadowserver.io
 scan-56f.shadowserver.io
-scan-74-07.shadowserver.io
-scan-80-9.shadowserver.io
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
