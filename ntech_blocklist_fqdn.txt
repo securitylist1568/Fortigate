@@ -32,6 +32,7 @@ dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hn.ly.kd.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -47,8 +48,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-40e.shadowserver.io
+scan-84-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.81.108.40.188.clients.your-server.de
+static.vnpt.vn
 users219.vip.heteml.jp
