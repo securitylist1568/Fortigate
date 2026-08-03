@@ -27,7 +27,6 @@
 185-45-195-15.hostsailor.com
 187.197.77.34.bc.googleusercontent.com
 190.20.14.34.bc.googleusercontent.com
-194-164-96-83.as212027.host
 206.189.199.104.bc.googleusercontent.com
 215.159.22.34.bc.googleusercontent.com
 234.240.62.34.bc.googleusercontent.com
@@ -40,7 +39,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 ec2-100-59-195-187.compute-1.amazonaws.com
 ec2-13-222-2-197.compute-1.amazonaws.com
