@@ -31,6 +31,7 @@
 215.159.22.34.bc.googleusercontent.com
 234.240.62.34.bc.googleusercontent.com
 254.7.156.34.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 62-210-220-46.rev.poneytelecom.eu
 6682315a.customer.misaka.joburg
 aim.sba-research.org
