@@ -59,6 +59,7 @@ hn.ly.kd.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
+li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
@@ -72,6 +73,7 @@ scan-45g.shadowserver.io
 scan-47k.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
+server-65-9-180-129.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
