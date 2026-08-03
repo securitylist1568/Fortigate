@@ -26,6 +26,7 @@
 190.20.14.34.bc.googleusercontent.com
 203-222-24-237.veetime.com
 203.118.124.34.bc.googleusercontent.com
+206.189.199.104.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 2d83453c.mow.customer.misaka.io
 2d96f25f.customer.misaka.taipei
@@ -44,7 +45,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pinkytales.com
