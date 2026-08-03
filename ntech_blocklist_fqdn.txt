@@ -76,7 +76,9 @@ scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-74-07.shadowserver.io
+scan-80-9.shadowserver.io
 scan-84-0.shadowserver.io
+scan-85-3.shadowserver.io
 security.criminalip.com
 server-65-9-180-129.tpe53.r.cloudfront.net
 smtp1.telemach.net
