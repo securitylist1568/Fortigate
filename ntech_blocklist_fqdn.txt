@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 187.197.77.34.bc.googleusercontent.com
 190.20.14.34.bc.googleusercontent.com
+203-222-24-237.veetime.com
 206.189.199.104.bc.googleusercontent.com
 215.159.22.34.bc.googleusercontent.com
 234.240.62.34.bc.googleusercontent.com
@@ -59,6 +60,7 @@ no-mans-land.m247.com
 ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-iodine-us-east-15.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
