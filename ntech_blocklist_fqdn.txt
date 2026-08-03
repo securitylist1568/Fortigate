@@ -23,7 +23,6 @@
 168.114.38.34.bc.googleusercontent.com
 168.52.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.20.14.34.bc.googleusercontent.com
 203-222-24-237.veetime.com
 203.118.124.34.bc.googleusercontent.com
 206.189.199.104.bc.googleusercontent.com
@@ -53,7 +52,6 @@ prod-iodine-us-east-15.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-53j.shadowserver.io
 scan-56f.shadowserver.io
@@ -61,7 +59,6 @@ scan-74-07.shadowserver.io
 scan-80-9.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
-server-65-9-180-129.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
