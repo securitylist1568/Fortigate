@@ -20,6 +20,7 @@
 113.143.175.207.bc.googleusercontent.com
 114-36-207-247.dynamic-ip.hinet.net
 120.195.205.35.bc.googleusercontent.com
+139-162-172-20.ip.linodeusercontent.com
 168.114.38.34.bc.googleusercontent.com
 168.52.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -52,9 +53,12 @@ pinkytales.com
 prod-iodine-us-east-15.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-04f.shadowserver.io
 scan-53j.shadowserver.io
 scan-56f.shadowserver.io
 scan-88-6.shadowserver.io
+scan.visionheight.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
