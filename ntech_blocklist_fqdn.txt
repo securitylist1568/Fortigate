@@ -21,6 +21,7 @@
 114-36-207-247.dynamic-ip.hinet.net
 120.195.205.35.bc.googleusercontent.com
 139-162-172-20.ip.linodeusercontent.com
+139-177-207-107.ip.linodeusercontent.com
 168.52.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.20.14.34.bc.googleusercontent.com
@@ -44,6 +45,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+net-2-40-99-114.cust.vodafonedsl.it
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
