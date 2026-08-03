@@ -62,6 +62,7 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
 ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
@@ -70,6 +71,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.io
 scan-45g.shadowserver.io
+scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
