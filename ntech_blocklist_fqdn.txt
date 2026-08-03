@@ -39,12 +39,14 @@
 198.211.203.35.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
+242.150.216.162.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 32.150.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 45-33-91-85.ip.linodeusercontent.com
 45-79-168-38.ip.linodeusercontent.com
+45.149.216.162.bc.googleusercontent.com
 62-210-220-46.rev.poneytelecom.eu
 9213038d.customer.misaka.se
 96-126-108-235.ip.linodeusercontent.com
