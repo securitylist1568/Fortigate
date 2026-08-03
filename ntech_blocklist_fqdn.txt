@@ -47,7 +47,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-40e.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
