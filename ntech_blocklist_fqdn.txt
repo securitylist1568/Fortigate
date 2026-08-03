@@ -26,6 +26,7 @@
 168.52.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.197.77.34.bc.googleusercontent.com
+190.20.14.34.bc.googleusercontent.com
 194-164-96-83.as212027.host
 215.159.22.34.bc.googleusercontent.com
 234.240.62.34.bc.googleusercontent.com
