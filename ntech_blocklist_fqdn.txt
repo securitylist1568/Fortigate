@@ -38,6 +38,7 @@
 192.248.150.180.vultrusercontent.com
 194.149.216.162.bc.googleusercontent.com
 198.211.203.35.bc.googleusercontent.com
+217.210.203.35.bc.googleusercontent.com
 222.210.203.35.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
