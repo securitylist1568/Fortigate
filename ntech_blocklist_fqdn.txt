@@ -96,6 +96,7 @@ client.yota.ru
 crawler186.deepfield.net
 dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
+dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
