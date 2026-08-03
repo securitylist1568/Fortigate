@@ -17,10 +17,16 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+12.169.78.34.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
 144.92.74.97.host.secureserver.net
+162.134.156.34.bc.googleusercontent.com
+168.52.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.197.77.34.bc.googleusercontent.com
 194-164-96-83.as212027.host
+215.159.22.34.bc.googleusercontent.com
+254.7.156.34.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 43-254-16-48.static.ip.net.tw
 45.135.193.207.ptr.pfcloud.network
@@ -32,6 +38,9 @@ dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-34-204-53-150.compute-1.amazonaws.com
+ec2-44-203-253-5.compute-1.amazonaws.com
+ec2-54-242-53-224.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fwnvyxu.top
 get174.ingetitin.com
@@ -49,6 +58,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.io
+scan-47k.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
