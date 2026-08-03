@@ -28,6 +28,7 @@
 187.197.77.34.bc.googleusercontent.com
 194-164-96-83.as212027.host
 215.159.22.34.bc.googleusercontent.com
+234.240.62.34.bc.googleusercontent.com
 254.7.156.34.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 43-254-16-48.static.ip.net.tw
@@ -61,6 +62,7 @@ li1570-11.members.linode.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
+ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
