@@ -21,7 +21,6 @@
 114-36-223-242.dynamic-ip.hinet.net
 12.169.78.34.bc.googleusercontent.com
 120.195.205.35.bc.googleusercontent.com
-144.92.74.97.host.secureserver.net
 162.134.156.34.bc.googleusercontent.com
 168.52.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -50,7 +49,6 @@ ec2-54-242-53-224.compute-1.amazonaws.com
 ec2-54-82-246-86.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fwnvyxu.top
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -64,20 +62,16 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-40e.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-47k.shadowserver.io
 scan-74-07.shadowserver.io
 scan-80-9.shadowserver.io
-scan-84-0.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 server-65-9-180-129.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 thornton.thespontaneity.org.uk
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-virginia.probe.onyphe.net
