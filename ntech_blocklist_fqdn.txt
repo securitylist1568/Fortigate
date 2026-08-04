@@ -43,6 +43,7 @@
 249.210.203.35.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
+33.150.216.162.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
 45-33-91-85.ip.linodeusercontent.com
 45.149.216.162.bc.googleusercontent.com
@@ -110,6 +111,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-43b.shadowserver.io
 scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
