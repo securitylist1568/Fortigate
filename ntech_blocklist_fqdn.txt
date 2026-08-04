@@ -51,6 +51,7 @@
 45.149.216.162.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
+6229717.ds-b.had.pm
 89.152.79.34.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
 adaptlink.186-219-126-150-bgp.adaptlink.com.br
@@ -79,6 +80,7 @@ ec2-54-159-49-205.compute-1.amazonaws.com
 ec2-54-165-219-52.compute-1.amazonaws.com
 ec2-54-242-30-216.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-174.4vendeta.com
