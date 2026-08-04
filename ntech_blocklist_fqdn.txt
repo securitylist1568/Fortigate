@@ -23,6 +23,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 12.224.78.34.bc.googleusercontent.com
 121.206.76.34.bc.googleusercontent.com
+123.149.216.162.bc.googleusercontent.com
 123.196.156.34.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 125-231-10-58.dynamic-ip.hinet.net
@@ -31,13 +32,17 @@
 168.210.203.35.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+186.150.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
+205.210.203.35.bc.googleusercontent.com
 210.211.203.35.bc.googleusercontent.com
+213.211.203.35.bc.googleusercontent.com
 32.165.34.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 69.210.203.35.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
+81.150.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 92-68-83-35.biz.kpn.net
 aim.sba-research.org
