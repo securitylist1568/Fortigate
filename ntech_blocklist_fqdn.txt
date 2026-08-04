@@ -21,7 +21,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-119.149.216.162.bc.googleusercontent.com
 12.224.78.34.bc.googleusercontent.com
 121.206.76.34.bc.googleusercontent.com
 123.196.156.34.bc.googleusercontent.com
@@ -30,7 +29,6 @@
 158.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 166.149.216.162.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 173.149.216.162.bc.googleusercontent.com
 18.72.albatros.uz
 185-45-195-15.hostsailor.com
@@ -38,7 +36,6 @@
 191.149.216.162.bc.googleusercontent.com
 193.9.14.34.bc.googleusercontent.com
 200.210.203.35.bc.googleusercontent.com
-217.210.203.35.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 250.143.140.34.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
@@ -46,7 +43,6 @@
 2d96f380.kbp.customer.misaka.io
 32.165.34.34.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
-43.149.216.162.bc.googleusercontent.com
 47.150.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 6229717.ds-b.had.pm
@@ -93,7 +89,6 @@ recyber.net
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-58.security.ipip.net
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static-tosham.160.191.137.56.tosham
