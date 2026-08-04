@@ -24,6 +24,7 @@
 121.206.76.34.bc.googleusercontent.com
 123.176.36.186.actcorp.in
 123.196.156.34.bc.googleusercontent.com
+124.211.203.35.bc.googleusercontent.com
 125-231-10-58.dynamic-ip.hinet.net
 166.150.216.162.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
@@ -65,6 +66,7 @@ scan-02k.shadowserver.io
 scan-43h.shadowserver.io
 scan-53j.shadowserver.io
 scan-61-9.shadowserver.io
+scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
