@@ -34,9 +34,7 @@
 253.211.203.35.bc.googleusercontent.com
 32.165.34.34.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
-59.150.216.162.bc.googleusercontent.com
 69.210.203.35.bc.googleusercontent.com
-87.149.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -55,14 +53,12 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 net-43-183.mtsural.ru
-ns1004398.ip-40-160-62.us
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
 scan-43h.shadowserver.io
-scan-47k.shadowserver.io
 scan-53j.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
