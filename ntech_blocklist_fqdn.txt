@@ -1,7 +1,6 @@
 0.183.53.34.bc.googleusercontent.com
 1-34-13-89.hinet-ip.hinet.net
 101.211.203.35.bc.googleusercontent.com
-103-112-0-32.oneqode.net
 103.70.77.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -24,7 +23,6 @@
 12.224.78.34.bc.googleusercontent.com
 121.206.76.34.bc.googleusercontent.com
 123.196.156.34.bc.googleusercontent.com
-133.149.216.162.bc.googleusercontent.com
 138.250.198.35.bc.googleusercontent.com
 145.210.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
@@ -37,14 +35,12 @@
 191.149.216.162.bc.googleusercontent.com
 193.9.14.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
-249.210.203.35.bc.googleusercontent.com
 250.143.140.34.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 32.165.34.34.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
-47.150.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
 6229717.ds-b.had.pm
@@ -78,10 +74,9 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-174.4vendeta.com
 ip102.ip-5-196-154.eu
 ip29.sudolio.io
-li1873-236.members.linode.com
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
 pc112.cses.ilc.edu.tw
