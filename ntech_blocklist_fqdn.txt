@@ -19,8 +19,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.149.216.162.bc.googleusercontent.com
+136.149.216.162.bc.googleusercontent.com
 138.250.198.35.bc.googleusercontent.com
-142.210.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 146.150.216.162.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
@@ -28,7 +28,6 @@
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 190.149.216.162.bc.googleusercontent.com
-20.210.203.35.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 241.149.216.162.bc.googleusercontent.com
@@ -73,8 +72,6 @@ scan-60.security.ipip.net
 scan-61-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-static-201-151-205-1.alestra.net.mx
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
-www.internet-albedo.net
