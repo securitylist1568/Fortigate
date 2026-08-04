@@ -47,6 +47,7 @@
 6229717.ds-b.had.pm
 71.129.175.207.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
+87.150.216.162.bc.googleusercontent.com
 89.152.79.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 adaptlink.186-219-126-150-bgp.adaptlink.com.br
