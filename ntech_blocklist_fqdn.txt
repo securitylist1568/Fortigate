@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118.149.216.162.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
+137.211.203.35.bc.googleusercontent.com
 138.250.198.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 146.150.216.162.bc.googleusercontent.com
@@ -58,15 +59,9 @@ li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 ns5037865.ip-148-113-228.net
-o608.scanner.modat.io
-o612.scanner.modat.io
 o613.scanner.modat.io
-o615.scanner.modat.io
 o618.scanner.modat.io
-o621.scanner.modat.io
-o624.scanner.modat.io
 o629.scanner.modat.io
-o635.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
