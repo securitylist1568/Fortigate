@@ -34,6 +34,7 @@
 43.150.216.162.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 69.210.203.35.bc.googleusercontent.com
+78.150.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 92-68-83-35.biz.kpn.net
 aim.sba-research.org
@@ -60,8 +61,11 @@ proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
 rootevidence.com
+scan-02k.shadowserver.io
 scan-43h.shadowserver.io
 scan-53j.shadowserver.io
+scan-61-9.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
