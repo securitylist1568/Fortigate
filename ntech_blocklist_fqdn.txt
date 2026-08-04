@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118.149.216.162.bc.googleusercontent.com
 138.250.198.35.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
@@ -47,6 +48,7 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 ns5037865.ip-148-113-228.net
 o608.scanner.modat.io
@@ -64,6 +66,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
+scan-60.security.ipip.net
 scan-61-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
