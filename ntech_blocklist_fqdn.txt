@@ -26,6 +26,7 @@
 123.196.156.34.bc.googleusercontent.com
 133.149.216.162.bc.googleusercontent.com
 138.250.198.35.bc.googleusercontent.com
+145.210.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 166.149.216.162.bc.googleusercontent.com
@@ -35,10 +36,10 @@
 190.151.175.207.bc.googleusercontent.com
 191.149.216.162.bc.googleusercontent.com
 193.9.14.34.bc.googleusercontent.com
-200.210.203.35.bc.googleusercontent.com
+198-134-107-73.rev.unlimitednet.us
 249.210.203.35.bc.googleusercontent.com
 250.143.140.34.bc.googleusercontent.com
-253.149.216.162.bc.googleusercontent.com
+253.211.203.35.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 32.165.34.34.bc.googleusercontent.com
@@ -50,7 +51,6 @@
 71.129.175.207.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
 89.152.79.34.bc.googleusercontent.com
-89.211.203.35.bc.googleusercontent.com
 adaptlink.186-219-126-150-bgp.adaptlink.com.br
 aim.sba-research.org
 amz.unixwiz.net
@@ -60,7 +60,6 @@ client.yota.ru
 crawler186.deepfield.net
 d309gsug6.autoinsure-hq.com
 dal215.hawkhost.com
-dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 ec2-13-218-224-41.compute-1.amazonaws.com
 ec2-13-218-231-196.compute-1.amazonaws.com
@@ -81,7 +80,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-174.4vendeta.com
 ip102.ip-5-196-154.eu
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
@@ -92,8 +90,8 @@ recyber.net
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-47k.shadowserver.io
-scan-58.security.ipip.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static-tosham.160.191.137.56.tosham
+thornton.thespontaneity.org.uk
 users219.vip.heteml.jp
