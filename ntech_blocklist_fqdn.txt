@@ -32,6 +32,7 @@
 166.149.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 173.149.216.162.bc.googleusercontent.com
+18.72.albatros.uz
 185-45-195-15.hostsailor.com
 190.151.175.207.bc.googleusercontent.com
 191.149.216.162.bc.googleusercontent.com
