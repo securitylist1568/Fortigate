@@ -85,6 +85,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
+scan-43h.shadowserver.io
 scan-47k.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
