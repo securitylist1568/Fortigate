@@ -30,6 +30,7 @@
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
+204.76.203.49.ptr.pfcloud.network
 210.211.203.35.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 32.165.34.34.bc.googleusercontent.com
@@ -61,6 +62,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
+rootevidence.com
 scan-43h.shadowserver.io
 scan-53j.shadowserver.io
 smtp1.telemach.net
