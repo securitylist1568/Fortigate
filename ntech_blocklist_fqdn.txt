@@ -29,6 +29,7 @@
 186.210.203.35.bc.googleusercontent.com
 190.149.216.162.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
+220.211.203.35.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 241.149.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
@@ -36,6 +37,7 @@
 55.150.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
+70.149.216.162.bc.googleusercontent.com
 75.240.92.34.bc.googleusercontent.com
 95.211.203.35.bc.googleusercontent.com
 95x79x102x121.static-business.nn.ertelecom.ru
