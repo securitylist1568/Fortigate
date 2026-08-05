@@ -34,6 +34,7 @@
 211.32.84.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 254.3.240.35.bc.googleusercontent.com
+44.78.211.130.bc.googleusercontent.com
 61.198.53.34.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 78.190.22.34.bc.googleusercontent.com
@@ -60,6 +61,7 @@ ip68-100-183-4.dc.dc.cox.net
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+norma.mcarthur.lab.go4labs.net
 ns3082104.ip-145-239-2.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
