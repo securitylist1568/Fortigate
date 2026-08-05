@@ -39,6 +39,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-165-7-56-103.cloudsigma.net
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip-58-18.4vendeta.com
 ip216.ip-51-195-8.eu
 ip219.ip-51-195-8.eu
