@@ -57,6 +57,7 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 61.198.53.34.bc.googleusercontent.com
+62-210-113-113.rev.poneytelecom.eu
 78.190.22.34.bc.googleusercontent.com
 95x79x102x121.static-business.nn.ertelecom.ru
 aim.sba-research.org
@@ -79,6 +80,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip68-100-183-4.dc.dc.cox.net
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
 o067.scanner.modat.io
