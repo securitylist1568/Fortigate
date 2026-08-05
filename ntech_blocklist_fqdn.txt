@@ -46,6 +46,7 @@ knowfax.org.uk
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 norma.mcarthur.lab.go4labs.net
+o352.scanner.modat.io
 o602.scanner.modat.io
 o613.scanner.modat.io
 o621.scanner.modat.io
