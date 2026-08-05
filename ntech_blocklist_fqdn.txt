@@ -50,6 +50,8 @@ mfyabgec.musicpda.com
 norma.mcarthur.lab.go4labs.net
 ns3082104.ip-145-239-2.eu
 o602.scanner.modat.io
+o628.scanner.modat.io
+o629.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
