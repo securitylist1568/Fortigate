@@ -26,6 +26,7 @@
 154.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 167.82.156.34.bc.googleusercontent.com
+172-104-252-207.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 172-237-4-160.ip.linodeusercontent.com
 181.149.216.162.bc.googleusercontent.com
@@ -68,6 +69,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
+rootevidence.com
 scan-45g.shadowserver.io
 scan-56.security.ipip.net
 scan-56f.shadowserver.io
