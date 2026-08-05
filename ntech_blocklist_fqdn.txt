@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 101.149.216.162.bc.googleusercontent.com
+103.149.216.162.bc.googleusercontent.com
 109.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -65,7 +66,9 @@ dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-3-82-209-93.compute-1.amazonaws.com
 ec2-3-93-163-167.compute-1.amazonaws.com
+ec2-32-193-241-45.compute-1.amazonaws.com
 ec2-32-199-173-55.compute-1.amazonaws.com
 ec2-34-207-109-220.compute-1.amazonaws.com
 ec2-44-204-37-191.compute-1.amazonaws.com
