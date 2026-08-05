@@ -56,6 +56,7 @@ o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+prqn.talonted.eu.com
 recyber.net
 rootevidence.com
 scan-04f.shadowserver.io
