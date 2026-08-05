@@ -3,6 +3,7 @@
 101.149.216.162.bc.googleusercontent.com
 103.149.216.162.bc.googleusercontent.com
 109.150.216.162.bc.googleusercontent.com
+11.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -107,10 +108,12 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 red.basirdlom.live
+rootevidence.com
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-55c.shadowserver.io
 scan-61-9.shadowserver.io
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
