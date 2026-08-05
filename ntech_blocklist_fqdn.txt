@@ -23,6 +23,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-167-140-223.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
+123.153.77.34.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 136.236.156.34.bc.googleusercontent.com
 138.7.240.35.bc.googleusercontent.com
@@ -65,10 +66,14 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdsg49032m.stretchoid.com
+azpdsgens699.stretchoid.com
 azpdsghmx647.stretchoid.com
 azpdss0yrzr0.stretchoid.com
+azpdsse6bn8p.stretchoid.com
 azpdssjnwdgv.stretchoid.com
 azpdssk480wi.stretchoid.com
+azpdsst75set.stretchoid.com
+azpdssw3j3o8.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -112,6 +117,7 @@ scan-45g.shadowserver.io
 scan-56.security.ipip.net
 scan-56f.shadowserver.io
 scanner-info.rootevidence.com
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
