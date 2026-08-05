@@ -31,6 +31,7 @@
 197.150.216.162.bc.googleusercontent.com
 220.211.203.35.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
+242.150.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
@@ -67,9 +68,13 @@ dynamic-ip-adsl.viettel.vn
 ec2-3-93-163-167.compute-1.amazonaws.com
 ec2-32-199-173-55.compute-1.amazonaws.com
 ec2-34-207-109-220.compute-1.amazonaws.com
+ec2-44-204-37-191.compute-1.amazonaws.com
+ec2-44-211-197-174.compute-1.amazonaws.com
 ec2-44-212-74-78.compute-1.amazonaws.com
+ec2-52-206-216-57.compute-1.amazonaws.com
 ec2-54-204-71-163.compute-1.amazonaws.com
 ec2-54-226-142-67.compute-1.amazonaws.com
+ec2-54-82-54-204.compute-1.amazonaws.com
 ec2-98-80-120-159.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 free-156-155.mediaworksit.net
