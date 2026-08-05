@@ -27,6 +27,7 @@
 137.211.203.35.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 147.211.203.35.bc.googleusercontent.com
+176.65.148.107.ptr.pfcloud.network
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.150.216.162.bc.googleusercontent.com
@@ -41,6 +42,7 @@
 55.150.216.162.bc.googleusercontent.com
 59.210.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
+75.240.92.34.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 82-223-30-60.plesk.page
 9.149.216.162.bc.googleusercontent.com
@@ -63,6 +65,7 @@ azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+dallas-tx-datacenter.serverpoint.com
 db3-int.qeryz.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -98,6 +101,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 red.basirdlom.live
 scan-41f.shadowserver.io
+scan-43b.shadowserver.io
 scan-55c.shadowserver.io
 scan-60.security.ipip.net
 scan-61-9.shadowserver.io
