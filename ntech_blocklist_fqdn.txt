@@ -22,11 +22,13 @@
 139.180.158.137.vultrusercontent.com
 172-104-252-207.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+204.76.203.30.ptr.pfcloud.network
 204.76.203.49.ptr.pfcloud.network
 209-33-37-101.neshcmtc01.res.dyn.suddenlink.net
 254.3.240.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 44.78.211.130.bc.googleusercontent.com
+49-0-82-0.24.fixed-public.sila1-bcr.myaisfibre.com
 65.62.22.34.bc.googleusercontent.com
 95x79x102x121.static-business.nn.ertelecom.ru
 aim.sba-research.org
