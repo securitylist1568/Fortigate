@@ -25,6 +25,7 @@
 49-0-82-0.24.fixed-public.sila1-bcr.myaisfibre.com
 65.62.22.34.bc.googleusercontent.com
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
