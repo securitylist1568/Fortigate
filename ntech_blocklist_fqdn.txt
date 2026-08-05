@@ -29,6 +29,7 @@
 143-42-1-128.ip.linodeusercontent.com
 147.211.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
+153.150.216.162.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
 167.82.156.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
@@ -49,10 +50,12 @@
 236.149.216.162.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
+254.3.240.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
+44.78.211.130.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
@@ -119,6 +122,7 @@ rootevidence.com
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
+scan-45g.shadowserver.io
 scan-55c.shadowserver.io
 scan-56.security.ipip.net
 scan-61-9.shadowserver.io
