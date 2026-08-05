@@ -35,6 +35,7 @@
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.150.216.162.bc.googleusercontent.com
+204.211.203.35.bc.googleusercontent.com
 211.32.84.34.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
@@ -93,6 +94,7 @@ free-156-155.mediaworksit.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1625-135.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
