@@ -49,8 +49,10 @@ norma.mcarthur.lab.go4labs.net
 ns3082104.ip-145-239-2.eu
 o602.scanner.modat.io
 o613.scanner.modat.io
+o624.scanner.modat.io
 o628.scanner.modat.io
 o629.scanner.modat.io
+o632.scanner.modat.io
 o638.scanner.modat.io
 o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
