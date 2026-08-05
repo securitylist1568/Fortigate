@@ -24,7 +24,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 124.149.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
-137.211.203.35.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 147.211.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
@@ -36,6 +35,7 @@
 176.65.148.107.ptr.pfcloud.network
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 197.150.216.162.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
 211.32.84.34.bc.googleusercontent.com
@@ -75,9 +75,7 @@ babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
-db3-int.qeryz.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-3-82-209-93.compute-1.amazonaws.com
 ec2-3-93-163-167.compute-1.amazonaws.com
 ec2-32-193-241-45.compute-1.amazonaws.com
@@ -98,7 +96,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
-lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o315.scanner.modat.io
 o316.scanner.modat.io
@@ -106,11 +103,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
+radamelfalcao.xyz
 recyber.net
 red.basirdlom.live
 rootevidence.com
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
+scan-43h.shadowserver.io
 scan-55c.shadowserver.io
 scan-61-9.shadowserver.io
 scanner-info.rootevidence.com
