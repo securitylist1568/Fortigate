@@ -25,6 +25,7 @@
 209-33-37-101.neshcmtc01.res.dyn.suddenlink.net
 211.32.84.34.bc.googleusercontent.com
 254.3.240.35.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 44.78.211.130.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 95x79x102x121.static-business.nn.ertelecom.ru
@@ -49,6 +50,7 @@ mfyabgec.musicpda.com
 norma.mcarthur.lab.go4labs.net
 ns3082104.ip-145-239-2.eu
 o602.scanner.modat.io
+o640.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
