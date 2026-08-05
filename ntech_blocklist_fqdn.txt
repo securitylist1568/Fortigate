@@ -21,6 +21,7 @@
 122.149.216.162.bc.googleusercontent.com
 123.153.77.34.bc.googleusercontent.com
 136.236.156.34.bc.googleusercontent.com
+138.7.240.35.bc.googleusercontent.com
 139.180.158.137.vultrusercontent.com
 154.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
@@ -32,9 +33,11 @@
 209-33-37-101.neshcmtc01.res.dyn.suddenlink.net
 211.32.84.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
+254.3.240.35.bc.googleusercontent.com
 61.198.53.34.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 78.190.22.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
 azpdsg1j90qs.stretchoid.com
