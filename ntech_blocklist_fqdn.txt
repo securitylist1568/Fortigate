@@ -23,7 +23,10 @@
 124.149.216.162.bc.googleusercontent.com
 136.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
+143-42-1-128.ip.linodeusercontent.com
 147.211.203.35.bc.googleusercontent.com
+172-239-62-109.ip.linodeusercontent.com
+173-255-243-63.ip.linodeusercontent.com
 176.65.148.107.ptr.pfcloud.network
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,6 +37,10 @@
 26.210.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
+45-33-40-18.ip.linodeusercontent.com
+45-56-83-149.ip.linodeusercontent.com
+45-79-109-4.ip.linodeusercontent.com
+45-79-225-32.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 59.210.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
@@ -58,6 +65,7 @@ azpdssk480wi.stretchoid.com
 azpdsslt2dou.stretchoid.com
 azpdwskkdiex.stretchoid.com
 b2.org.afilias-nst.org
+babylon.scan.bufferover.run
 client.yota.ru
 dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
