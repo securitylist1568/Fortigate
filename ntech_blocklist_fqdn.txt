@@ -46,6 +46,7 @@
 226.32.175.207.bc.googleusercontent.com
 236.149.216.162.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
+25.149.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 254.3.240.35.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
@@ -117,6 +118,7 @@ scan-43h.shadowserver.io
 scan-45g.shadowserver.io
 scan-55c.shadowserver.io
 scan-56.security.ipip.net
+scan-56f.shadowserver.io
 scan-61-9.shadowserver.io
 scanner-info.rootevidence.com
 smtp1.telemach.net
