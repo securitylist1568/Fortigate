@@ -20,6 +20,7 @@
 112.150.216.162.bc.googleusercontent.com
 114.150.216.162.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
+168-113-158-51.instances.scw.cloud
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187-11-73-135.dsl.telesp.net.br
@@ -36,6 +37,7 @@
 45-33-65-238.ip.linodeusercontent.com
 45-33-83-220.ip.linodeusercontent.com
 5.210.203.35.bc.googleusercontent.com
+62-210-113-113.rev.poneytelecom.eu
 66.150.216.162.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
