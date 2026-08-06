@@ -30,6 +30,7 @@
 194-195-122-95.ip.linodeusercontent.com
 196.149.175.207.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
+218.210.203.35.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 252.84.175.207.bc.googleusercontent.com
@@ -86,6 +87,7 @@ scan-67-1.shadowserver.io
 scan-75-05.shadowserver.io
 scan-77-02.shadowserver.io
 scan-80-9.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
