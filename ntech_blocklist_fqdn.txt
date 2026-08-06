@@ -29,6 +29,7 @@
 179.64.uzpak.uz
 185-45-195-15.hostsailor.com
 185.80.155.104.bc.googleusercontent.com
+197-248-89-102.safaricombusiness.co.ke
 206.150.216.162.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
@@ -56,6 +57,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1570-11.members.linode.com
+li1972-67.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 norma.mcarthur.lab.go4labs.net
