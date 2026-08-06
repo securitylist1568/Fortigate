@@ -47,6 +47,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 ec2-13-222-171-239.compute-1.amazonaws.com
 ec2-174-129-71-237.compute-1.amazonaws.com
@@ -76,8 +77,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-08g.shadowserver.io
 scan-43b.shadowserver.io
+scan-43h.shadowserver.io
 scan-45g.shadowserver.io
 scan-67-1.shadowserver.io
 scan-75-05.shadowserver.io
