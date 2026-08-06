@@ -26,6 +26,7 @@
 207.149.216.162.bc.googleusercontent.com
 31.150.216.162.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
+63.210.203.35.bc.googleusercontent.com
 95x79x102x121.static-business.nn.ertelecom.ru
 97.150.216.162.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
@@ -52,7 +53,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
+scan-08g.shadowserver.io
 scan-67-1.shadowserver.io
+scan-75-05.shadowserver.io
 scan-77-02.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
