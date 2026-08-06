@@ -32,6 +32,7 @@
 197-248-89-102.safaricombusiness.co.ke
 204.76.203.49.ptr.pfcloud.network
 206.150.216.162.bc.googleusercontent.com
+212-83-186-8.rev.poneytelecom.eu
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -64,6 +65,7 @@ mail.syncerp.work
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
+o338.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
