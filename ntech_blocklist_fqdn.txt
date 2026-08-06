@@ -54,6 +54,8 @@ proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
 scan-08g.shadowserver.io
+scan-43b.shadowserver.io
+scan-45g.shadowserver.io
 scan-67-1.shadowserver.io
 scan-75-05.shadowserver.io
 scan-77-02.shadowserver.io
