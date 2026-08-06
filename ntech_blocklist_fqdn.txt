@@ -22,14 +22,12 @@
 121.211.203.35.bc.googleusercontent.com
 13.84.67.45.uk.kuroit.com
 138.211.203.35.bc.googleusercontent.com
-143.150.216.162.bc.googleusercontent.com
 155.65.155.104.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 159.224.38.34.bc.googleusercontent.com
 179.64.uzpak.uz
 185-45-195-15.hostsailor.com
 185.80.155.104.bc.googleusercontent.com
-189.211.203.35.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
 196.149.175.207.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
@@ -43,7 +41,6 @@
 81.150.216.162.bc.googleusercontent.com
 89.124.155.104.bc.googleusercontent.com
 95.118.78.34.bc.googleusercontent.com
-98.211.203.35.bc.googleusercontent.com
 99.198.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -75,7 +72,6 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 norma.mcarthur.lab.go4labs.net
 o335.scanner.modat.io
-o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
