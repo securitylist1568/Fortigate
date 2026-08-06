@@ -92,6 +92,7 @@ hn.kd.ny.adsl
 hn.ly.kd.adsl
 htb-h9b8tjwfph.htb-cloud.com
 intermediate.venturamg.com
+ip-166-69.103.117-naratel.net.id
 ip-58-254.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
