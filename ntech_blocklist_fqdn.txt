@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+12.48.195.35.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
 13.84.67.45.uk.kuroit.com
 138.211.203.35.bc.googleusercontent.com
@@ -30,9 +31,11 @@
 31.150.216.162.bc.googleusercontent.com
 56.210.203.35.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
+89.124.155.104.bc.googleusercontent.com
 95x79x102x121.static-business.nn.ertelecom.ru
 97.150.216.162.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
+99.198.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -40,10 +43,15 @@ b9ead587.zrh.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-93-76-26.compute-1.amazonaws.com
+ec2-44-201-252-11.compute-1.amazonaws.com
+ec2-50-19-171-136.compute-1.amazonaws.com
+ec2-54-167-87-227.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+kub002.idyschool.de.com
 mfyabgec.musicpda.com
 o048.scanner.modat.io
 o335.scanner.modat.io
