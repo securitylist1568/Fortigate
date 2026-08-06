@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 185.80.155.104.bc.googleusercontent.com
 197-248-89-102.safaricombusiness.co.ke
+204.76.203.49.ptr.pfcloud.network
 206.150.216.162.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
