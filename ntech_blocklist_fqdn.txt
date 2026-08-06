@@ -20,8 +20,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
 114.150.216.162.bc.googleusercontent.com
+138-94-58-182.jasec.go.cr
 163.150.216.162.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
+168.149.216.162.bc.googleusercontent.com
 183.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187-11-73-135.dsl.telesp.net.br
