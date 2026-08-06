@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 103-224-52-172.ipv4.originbroadband.com.au
+103.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -36,6 +37,7 @@
 252.84.175.207.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
+65.149.216.162.bc.googleusercontent.com
 65.62.22.34.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
@@ -69,11 +71,13 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 kub002.idyschool.de.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 norma.mcarthur.lab.go4labs.net
+ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -92,6 +96,7 @@ scan01.cyberscan.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
 vmi3443673.contaboserver.net
