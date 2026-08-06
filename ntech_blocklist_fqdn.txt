@@ -26,6 +26,7 @@
 155.65.155.104.bc.googleusercontent.com
 159.224.38.34.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
+169.149.216.162.bc.googleusercontent.com
 17.150.216.162.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -36,6 +37,7 @@
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 65.62.22.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 77.149.216.162.bc.googleusercontent.com
