@@ -36,6 +36,8 @@
 95.118.78.34.bc.googleusercontent.com
 96.210.203.35.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
+aa27e3fb.sea.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
 azpdcgf6ljqc.stretchoid.com
