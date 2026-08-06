@@ -22,8 +22,8 @@
 12.149.216.162.bc.googleusercontent.com
 12.48.195.35.bc.googleusercontent.com
 123.149.216.162.bc.googleusercontent.com
-124.211.203.35.bc.googleusercontent.com
 132-ns.datagix.net
+136-49-190-152.googlefiber.net
 155.65.155.104.bc.googleusercontent.com
 159.224.38.34.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
@@ -35,7 +35,6 @@
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
-60.150.216.162.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
 65.62.22.34.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
@@ -49,7 +48,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dedicated.vsys.host
 dns12.online.tj.cn
 ec2-98-88-230-137.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
@@ -63,7 +61,6 @@ li1570-11.members.linode.com
 li1972-67.members.linode.com
 mail.syncerp.work
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
 ns574789.ip-51-222-40.net
 o316.scanner.modat.io
@@ -72,7 +69,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 prqn.talonted.eu.com
 recyber.net
-scan-47k.shadowserver.io
 scan01.cyberscan.io
 security.criminalip.com
 smtp1.telemach.net
