@@ -21,8 +21,6 @@
 12.48.195.35.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
-13.84.67.45.uk.kuroit.com
-138.211.203.35.bc.googleusercontent.com
 155.65.155.104.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 159.224.38.34.bc.googleusercontent.com
@@ -35,7 +33,6 @@
 245.149.216.162.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 252.84.175.207.bc.googleusercontent.com
-56.210.203.35.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 65.62.22.34.bc.googleusercontent.com
@@ -75,7 +72,6 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 norma.mcarthur.lab.go4labs.net
-o335.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -94,5 +90,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-vmi3142244.contaboserver.net
 vmi3443673.contaboserver.net
