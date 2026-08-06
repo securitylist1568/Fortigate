@@ -20,8 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 12.149.216.162.bc.googleusercontent.com
 12.48.195.35.bc.googleusercontent.com
-123.149.216.162.bc.googleusercontent.com
-132-ns.datagix.net
 136-49-190-152.googlefiber.net
 155.65.155.104.bc.googleusercontent.com
 159.224.38.34.bc.googleusercontent.com
@@ -36,7 +34,6 @@
 206.150.216.162.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
-53.26.71.192.in-addr.arpa
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 65.62.22.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -67,11 +64,9 @@ mail.syncerp.work
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
-o316.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-prqn.talonted.eu.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
@@ -79,4 +74,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
 v4.dns.slt.lk
-www.internet-albedo.net
