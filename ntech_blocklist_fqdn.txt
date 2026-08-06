@@ -32,6 +32,7 @@
 204.76.203.49.ptr.pfcloud.network
 212-83-186-8.rev.poneytelecom.eu
 226.210.203.35.bc.googleusercontent.com
+234.150.216.162.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
