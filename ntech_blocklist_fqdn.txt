@@ -28,7 +28,6 @@
 179.64.uzpak.uz
 185-45-195-15.hostsailor.com
 185.80.155.104.bc.googleusercontent.com
-194-195-122-95.ip.linodeusercontent.com
 196.149.175.207.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
@@ -36,7 +35,6 @@
 246.150.216.162.bc.googleusercontent.com
 252.84.175.207.bc.googleusercontent.com
 60.150.216.162.bc.googleusercontent.com
-63.210.203.35.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
 65.62.22.34.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
@@ -83,15 +81,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-08g.shadowserver.io
-scan-43b.shadowserver.io
 scan-43h.shadowserver.io
-scan-45g.shadowserver.io
 scan-47k.shadowserver.io
-scan-67-1.shadowserver.io
-scan-75-05.shadowserver.io
-scan-77-02.shadowserver.io
-scan-80-9.shadowserver.io
 scan01.cyberscan.io
 security.criminalip.com
 smtp1.telemach.net
