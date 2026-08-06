@@ -33,6 +33,8 @@
 197-248-89-102.safaricombusiness.co.ke
 206.150.216.162.bc.googleusercontent.com
 218.210.203.35.bc.googleusercontent.com
+236.211.203.35.bc.googleusercontent.com
+24.210.203.35.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 252.84.175.207.bc.googleusercontent.com
@@ -43,6 +45,7 @@
 8.210.203.35.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 84.149.216.162.bc.googleusercontent.com
+87.210.203.35.bc.googleusercontent.com
 99.198.77.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -55,6 +58,7 @@ dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
