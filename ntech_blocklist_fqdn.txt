@@ -20,15 +20,11 @@
 112.150.216.162.bc.googleusercontent.com
 114.150.216.162.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
-166.150.216.162.bc.googleusercontent.com
-169.149.216.162.bc.googleusercontent.com
-17.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187-11-73-135.dsl.telesp.net.br
 192.150.216.162.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
 194.150.216.162.bc.googleusercontent.com
-204.76.203.49.ptr.pfcloud.network
 212-83-186-8.rev.poneytelecom.eu
 226.210.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
@@ -37,11 +33,8 @@
 245.149.216.162.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-77.149.216.162.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
-96.210.203.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -90,7 +83,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-go.away
 hn.kd.ny.adsl
 hn.ly.kd.adsl
 htb-h9b8tjwfph.htb-cloud.com
