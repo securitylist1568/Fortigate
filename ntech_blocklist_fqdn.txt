@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 12.48.195.35.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
+123.149.216.162.bc.googleusercontent.com
 124.211.203.35.bc.googleusercontent.com
 155.65.155.104.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
@@ -93,3 +94,4 @@ static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
 vmi3443673.contaboserver.net
+www.internet-albedo.net
