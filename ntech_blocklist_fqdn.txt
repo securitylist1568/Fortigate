@@ -31,10 +31,7 @@
 189.211.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 222.210.203.35.bc.googleusercontent.com
-225.87.240.35.bc.googleusercontent.com
-228.210.203.35.bc.googleusercontent.com
 29.143.204.35.bc.googleusercontent.com
-41.149.216.162.bc.googleusercontent.com
 53.107.175.207.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
@@ -44,7 +41,6 @@ b2.org.afilias-nst.org
 bloom.host
 client.yota.ru
 dal215.hawkhost.com
-dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 ebony.probe.onyphe.net
 festa04.jcatransporte.com.br
@@ -57,9 +53,9 @@ li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
-o069.scanner.modat.io
 o333.scanner.modat.io
 o608.scanner.modat.io
+o609.scanner.modat.io
 o613.scanner.modat.io
 o616.scanner.modat.io
 o632.scanner.modat.io
