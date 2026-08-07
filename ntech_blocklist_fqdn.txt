@@ -23,6 +23,7 @@
 125.211.203.35.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
+163.95.146.217.baremetal.zare.com
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
@@ -44,6 +45,7 @@ client.yota.ru
 dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
+ebony.probe.onyphe.net
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
