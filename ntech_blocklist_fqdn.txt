@@ -19,8 +19,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138-94-58-182.jasec.go.cr
+163-172-221-175.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 168.149.216.162.bc.googleusercontent.com
+172-237-95-72.ip.linodeusercontent.com
 172.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 183.211.203.35.bc.googleusercontent.com
