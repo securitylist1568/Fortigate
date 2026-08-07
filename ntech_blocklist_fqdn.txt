@@ -39,7 +39,6 @@
 239.31.199.104.bc.googleusercontent.com
 249.57.156.34.bc.googleusercontent.com
 29.143.204.35.bc.googleusercontent.com
-31.211.203.35.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
@@ -83,7 +82,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o072.scanner.modat.io
-o343.scanner.modat.io
 o350.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
