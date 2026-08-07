@@ -22,6 +22,7 @@
 134.209.190.35.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
 138-94-58-182.jasec.go.cr
+144.92.74.97.host.secureserver.net
 163-172-221-175.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
 168.149.216.162.bc.googleusercontent.com
@@ -93,6 +94,7 @@ scan-43b.shadowserver.io
 scan-47k.shadowserver.io
 scan-74-07.shadowserver.io
 scan.visionheight.com
+scan01.cyberscan.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
