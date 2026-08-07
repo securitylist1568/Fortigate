@@ -53,6 +53,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
+n303.scanner.modat.io
 ns1004398.ip-40-160-62.us
 o333.scanner.modat.io
 o608.scanner.modat.io
@@ -73,6 +74,7 @@ scan-02k.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
