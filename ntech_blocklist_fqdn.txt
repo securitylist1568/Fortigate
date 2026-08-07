@@ -25,8 +25,10 @@
 149.149.216.162.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.95.146.217.baremetal.zare.com
+167.149.216.162.bc.googleusercontent.com
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+189.211.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 222.210.203.35.bc.googleusercontent.com
 225.87.240.35.bc.googleusercontent.com
