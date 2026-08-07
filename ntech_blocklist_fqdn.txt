@@ -99,6 +99,7 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+uaf.edu.pk
 users219.vip.heteml.jp
 v160-251-222-145.mlhh.static.cnode.jp
 www.internet-albedo.net
