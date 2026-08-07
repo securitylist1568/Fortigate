@@ -27,10 +27,13 @@
 187-11-73-135.dsl.telesp.net.br
 19.150.216.162.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
+212.211.203.35.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 237.149.216.162.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
+38.211.203.35.bc.googleusercontent.com
+40.211.203.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45-33-65-238.ip.linodeusercontent.com
 45-33-83-220.ip.linodeusercontent.com
@@ -65,7 +68,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 scan-47k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
