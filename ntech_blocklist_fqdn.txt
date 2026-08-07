@@ -29,8 +29,10 @@
 22.149.216.162.bc.googleusercontent.com
 220-143-23-101.dynamic-ip.hinet.net
 225.87.240.35.bc.googleusercontent.com
+228.210.203.35.bc.googleusercontent.com
 233.91.78.34.bc.googleusercontent.com
 249.57.156.34.bc.googleusercontent.com
+41.149.216.162.bc.googleusercontent.com
 52.46.228.8.bc.googleusercontent.com
 53.107.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -39,6 +41,7 @@ b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
+dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
