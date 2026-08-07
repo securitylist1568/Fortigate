@@ -1,4 +1,3 @@
-1-173-244-116.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 104.120.101.34.bc.googleusercontent.com
 11.210.203.35.bc.googleusercontent.com
@@ -20,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-13.150.216.162.bc.googleusercontent.com
 130.211.203.35.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.95.146.217.baremetal.zare.com
@@ -28,10 +26,8 @@
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.211.203.35.bc.googleusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 204.211.203.35.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
-222.210.203.35.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 29.143.204.35.bc.googleusercontent.com
 80.211.203.35.bc.googleusercontent.com
