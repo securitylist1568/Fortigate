@@ -29,7 +29,6 @@
 19.150.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
-234.150.216.162.bc.googleusercontent.com
 29.143.204.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
@@ -58,7 +57,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o072.scanner.modat.io
 o343.scanner.modat.io
