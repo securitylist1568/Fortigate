@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.149.216.162.bc.googleusercontent.com
 106.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -23,10 +22,8 @@
 134.198.38.34.bc.googleusercontent.com
 134.209.190.35.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
-138-94-58-182.jasec.go.cr
 144.92.74.97.host.secureserver.net
 163-172-221-175.rev.poneytelecom.eu
-168.149.216.162.bc.googleusercontent.com
 172-237-95-72.ip.linodeusercontent.com
 172.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
@@ -34,6 +31,7 @@
 187-11-73-135.dsl.telesp.net.br
 204.211.203.35.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
+214.137.175.207.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 220-143-23-101.dynamic-ip.hinet.net
@@ -46,7 +44,6 @@
 29.143.204.35.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 53.107.175.207.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 aim.sba-research.org
@@ -56,8 +53,6 @@ b9d155e9.mow.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
-ddos-guard.net
-dns.adguard-dns.com
 dns12.online.tj.cn
 ec2-107-21-191-211.compute-1.amazonaws.com
 ec2-18-208-214-137.compute-1.amazonaws.com
@@ -88,6 +83,7 @@ rping.ipip.net
 scan-15i.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
+scan-45g.shadowserver.io
 scan-47k.shadowserver.io
 scan-74-07.shadowserver.io
 scan.visionheight.com
