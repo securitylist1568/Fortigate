@@ -26,12 +26,9 @@
 151.211.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 172-237-95-72.ip.linodeusercontent.com
-176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187-11-73-135.dsl.telesp.net.br
 204.211.203.35.bc.googleusercontent.com
 214.137.175.207.bc.googleusercontent.com
-218.149.216.162.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 220-143-23-101.dynamic-ip.hinet.net
 225.87.240.35.bc.googleusercontent.com
@@ -68,7 +65,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip145.ip-72-251-5.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 lisbon.portugal.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
@@ -76,9 +72,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-15i.shadowserver.io
 scan-45g.shadowserver.io
-scan-74-07.shadowserver.io
 scan.visionheight.com
 scan01.cyberscan.io
 security.criminalip.com
@@ -88,4 +82,3 @@ static.185-165-44-168.rackgenius.com
 uaf.edu.pk
 users219.vip.heteml.jp
 vps-2459c91b.vps.ovh.net
-www.internet-albedo.net
