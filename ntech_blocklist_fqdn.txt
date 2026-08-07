@@ -71,6 +71,8 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 n303.scanner.modat.io
 no-mans-land.m247.com
+o309.scanner.modat.io
+o337.scanner.modat.io
 o350.scanner.modat.io
 o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
