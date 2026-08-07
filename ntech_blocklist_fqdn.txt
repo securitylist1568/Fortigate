@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
 13.47.140.34.bc.googleusercontent.com
-134.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 151.211.203.35.bc.googleusercontent.com
@@ -29,9 +28,10 @@
 214.137.175.207.bc.googleusercontent.com
 22.149.216.162.bc.googleusercontent.com
 220-143-23-101.dynamic-ip.hinet.net
+225.87.240.35.bc.googleusercontent.com
 233.91.78.34.bc.googleusercontent.com
-239.104.172.144.static.cloudzy.com
 249.57.156.34.bc.googleusercontent.com
+52.46.228.8.bc.googleusercontent.com
 53.107.175.207.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -43,7 +43,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip145.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 lisbon.portugal.com
@@ -60,6 +59,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
-uaf.edu.pk
 users219.vip.heteml.jp
 vps-2459c91b.vps.ovh.net
