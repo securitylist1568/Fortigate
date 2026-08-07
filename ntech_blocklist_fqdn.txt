@@ -69,6 +69,7 @@ prod-tennessine-syd1-0.do.binaryedge.ninja
 prod-xenon-us-southeast-4.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s15.cishost.ru
 scan-02k.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
