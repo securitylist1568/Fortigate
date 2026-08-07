@@ -65,5 +65,6 @@ scan-04f.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
