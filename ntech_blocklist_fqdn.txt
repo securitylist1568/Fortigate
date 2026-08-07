@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
+118.149.216.162.bc.googleusercontent.com
 125.211.203.35.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
 151.211.203.35.bc.googleusercontent.com
@@ -29,6 +30,7 @@
 41.149.216.162.bc.googleusercontent.com
 52.46.228.8.bc.googleusercontent.com
 53.107.175.207.bc.googleusercontent.com
+79.124.56.142.superbit.host
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -38,6 +40,7 @@ dal215.hawkhost.com
 dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -49,6 +52,7 @@ ns1004398.ip-40-160-62.us
 o069.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-iodine-sfo2-15.do.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.io
