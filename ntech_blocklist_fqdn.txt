@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+134.209.190.35.bc.googleusercontent.com
 138-94-58-182.jasec.go.cr
 163-172-221-175.rev.poneytelecom.eu
 168-113-158-51.instances.scw.cloud
@@ -42,6 +43,7 @@
 45-33-83-220.ip.linodeusercontent.com
 5.210.203.35.bc.googleusercontent.com
 52.46.228.8.bc.googleusercontent.com
+58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 62-210-113-113.rev.poneytelecom.eu
 66.150.216.162.bc.googleusercontent.com
 95.253.97.34.bc.googleusercontent.com
@@ -56,8 +58,19 @@ ddos-guard.net
 dns.adguard-dns.com
 dns12.online.tj.cn
 ec2-107-21-191-211.compute-1.amazonaws.com
+ec2-18-208-214-137.compute-1.amazonaws.com
 ec2-18-215-183-116.compute-1.amazonaws.com
+ec2-184-72-121-94.compute-1.amazonaws.com
+ec2-34-201-71-24.compute-1.amazonaws.com
+ec2-34-204-52-48.compute-1.amazonaws.com
+ec2-34-205-139-179.compute-1.amazonaws.com
+ec2-54-173-151-250.compute-1.amazonaws.com
+ec2-54-175-149-14.compute-1.amazonaws.com
+ec2-54-234-183-96.compute-1.amazonaws.com
 ec2-54-237-223-62.compute-1.amazonaws.com
+ec2-54-242-30-216.compute-1.amazonaws.com
+ec2-98-82-1-192.compute-1.amazonaws.com
+ec2-98-94-22-227.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -79,6 +92,7 @@ scan-40g.shadowserver.io
 scan-43b.shadowserver.io
 scan-47k.shadowserver.io
 scan-74-07.shadowserver.io
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
