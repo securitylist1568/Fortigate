@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 130.211.203.35.bc.googleusercontent.com
+145.149.216.162.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.211.203.35.bc.googleusercontent.com
@@ -71,6 +72,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 n303.scanner.modat.io
 no-mans-land.m247.com
+o350.scanner.modat.io
 o608.scanner.modat.io
 o609.scanner.modat.io
 pc112.cses.ilc.edu.tw
