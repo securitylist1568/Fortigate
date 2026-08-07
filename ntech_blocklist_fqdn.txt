@@ -28,6 +28,7 @@
 187-11-73-135.dsl.telesp.net.br
 19.150.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
+218.149.216.162.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 29.143.204.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
