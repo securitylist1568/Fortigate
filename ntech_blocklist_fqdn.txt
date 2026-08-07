@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+134.198.38.34.bc.googleusercontent.com
 134.209.190.35.bc.googleusercontent.com
 138-94-58-182.jasec.go.cr
 163-172-221-175.rev.poneytelecom.eu
@@ -34,6 +35,8 @@
 218.149.216.162.bc.googleusercontent.com
 233.91.78.34.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
+239.31.199.104.bc.googleusercontent.com
+249.57.156.34.bc.googleusercontent.com
 29.143.204.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
