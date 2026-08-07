@@ -57,12 +57,15 @@ li1992-217.members.linode.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
 o069.scanner.modat.io
+o333.scanner.modat.io
 o613.scanner.modat.io
 o616.scanner.modat.io
 o632.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+prod-boron-us-west-10.li.binaryedge.ninja
 prod-iodine-sfo2-15.do.binaryedge.ninja
+prod-tennessine-syd1-0.do.binaryedge.ninja
 prod-xenon-us-southeast-4.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
