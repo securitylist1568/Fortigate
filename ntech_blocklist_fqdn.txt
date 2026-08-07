@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.149.216.162.bc.googleusercontent.com
 118.149.216.162.bc.googleusercontent.com
 125.211.203.35.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
@@ -32,10 +31,8 @@
 222.210.203.35.bc.googleusercontent.com
 225.87.240.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
-233.91.78.34.bc.googleusercontent.com
-249.57.156.34.bc.googleusercontent.com
+29.143.204.35.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
-52.46.228.8.bc.googleusercontent.com
 53.107.175.207.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
@@ -50,6 +47,7 @@ dns12.online.tj.cn
 ebony.probe.onyphe.net
 festa04.jcatransporte.com.br
 get174.ingetitin.com
+hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -69,7 +67,6 @@ prod-tennessine-syd1-0.do.binaryedge.ninja
 prod-xenon-us-southeast-4.li.binaryedge.ninja
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04f.shadowserver.io
 scan-79-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
