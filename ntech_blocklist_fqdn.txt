@@ -25,6 +25,7 @@
 203.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 239.239.220.35.bc.googleusercontent.com
+28.211.203.35.bc.googleusercontent.com
 44.114.14.34.bc.googleusercontent.com
 66-232-120-166.static.hvvc.us
 89.236.218.221.static.ip.tps.uz
