@@ -20,10 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.206.195.35.bc.googleusercontent.com
 113.97.77.34.bc.googleusercontent.com
-118.150.216.162.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
-145.149.216.162.bc.googleusercontent.com
 16.213.156.34.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
 172-238-160-104.ip.linodeusercontent.com
@@ -47,14 +45,12 @@
 49.205.182.215.actcorp.in
 54.245.241.35.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
-74.150.216.162.bc.googleusercontent.com
+78.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
 9.150.216.162.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdsgbhg8mp.stretchoid.com
-azpdss2sy749.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -89,8 +85,6 @@ mfyabgec.musicpda.com
 o309.scanner.modat.io
 o337.scanner.modat.io
 o344.scanner.modat.io
-o350.scanner.modat.io
-o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 prod-astatine-fra1-0.do.binaryedge.ninja
