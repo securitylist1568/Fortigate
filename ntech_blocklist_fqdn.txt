@@ -282,6 +282,7 @@ proxy-ca002-ext2.a.ahrefs.com
 pushkarevdv.fvds.ru
 recyber.net
 scan-43b.shadowserver.io
+scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
