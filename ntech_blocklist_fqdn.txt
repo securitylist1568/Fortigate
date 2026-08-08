@@ -27,6 +27,7 @@
 196.178.175.207.bc.googleusercontent.com
 199-176-100-101.myrepublic.com.sg
 2d834781.kunde.misaka.berlin
+35.210.203.35.bc.googleusercontent.com
 41.141.205.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 64.150.216.162.bc.googleusercontent.com
@@ -59,7 +60,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04c.shadowserver.io
 scan-12f.shadowserver.io
+scan-13n.shadowserver.io
 scan-52k.shadowserver.io
+scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
