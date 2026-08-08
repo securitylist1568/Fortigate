@@ -22,6 +22,7 @@
 145.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 218.149.216.162.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 6.150.216.162.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
 79.124.56.142.superbit.host
@@ -61,6 +62,11 @@ crawler092.deepfield.net
 crawler127.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-218-90-220.compute-1.amazonaws.com
+ec2-184-72-64-42.compute-1.amazonaws.com
+ec2-34-228-60-106.compute-1.amazonaws.com
+ec2-34-239-105-156.compute-1.amazonaws.com
+ec2-54-146-156-132.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
