@@ -67,6 +67,7 @@ scan-12f.shadowserver.io
 scan-13n.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
+scan.visionheight.com
 security.criminalip.com
 server-3-169-53-60.tpe54.r.cloudfront.net
 smtp1.telemach.net
