@@ -28,7 +28,6 @@
 185-45-195-15.hostsailor.com
 202.149.216.162.bc.googleusercontent.com
 210.69.109.136.bc.googleusercontent.com
-239.239.220.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -48,15 +47,10 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-l605.scanner.modat.io
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
-o332.scanner.modat.io
 o345.scanner.modat.io
-o607.scanner.modat.io
 o608.scanner.modat.io
-o610.scanner.modat.io
-o616.scanner.modat.io
 o630.scanner.modat.io
 o631.scanner.modat.io
 o632.scanner.modat.io
@@ -65,7 +59,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-13l.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
