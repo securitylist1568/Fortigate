@@ -80,12 +80,14 @@ htb-h9b8tjwfph.htb-cloud.com
 ip145.ip-72-251-5.net
 ip150.ip-51-81-37.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-12f.shadowserver.io
 scan-43h.shadowserver.io
 scan-69-05.shadowserver.io
 security.criminalip.com
