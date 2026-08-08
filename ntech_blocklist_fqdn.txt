@@ -27,12 +27,9 @@
 204.76.203.49.ptr.pfcloud.network
 239.239.220.35.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
-44.114.14.34.bc.googleusercontent.com
-66-232-120-166.static.hvvc.us
 89.236.218.221.static.ip.tps.uz
 9213038d.customer.misaka.se
 95526344.grabercloud.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 car146.careercorejourney.com
@@ -52,7 +49,6 @@ mfyabgec.musicpda.com
 node-115-187-59-168.alliancebroadband.in
 ns1004398.ip-40-160-62.us
 o332.scanner.modat.io
-o346.scanner.modat.io
 o607.scanner.modat.io
 o608.scanner.modat.io
 o610.scanner.modat.io
