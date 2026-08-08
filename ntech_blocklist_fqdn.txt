@@ -36,6 +36,7 @@
 190.149.216.162.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
 196.178.175.207.bc.googleusercontent.com
+199-176-100-101.myrepublic.com.sg
 235.220.76.34.bc.googleusercontent.com
 239.239.220.35.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
@@ -51,6 +52,7 @@
 54.245.241.35.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
+90.150.216.162.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
