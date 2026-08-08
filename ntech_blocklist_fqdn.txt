@@ -52,6 +52,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
 o071.scanner.modat.io
+o318.scanner.modat.io
 o345.scanner.modat.io
 o608.scanner.modat.io
 o630.scanner.modat.io
