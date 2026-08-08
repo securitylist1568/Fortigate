@@ -51,6 +51,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+node-115-187-59-168.alliancebroadband.in
 ns574789.ip-51-222-40.net
 o073.scanner.modat.io
 o311.scanner.modat.io
@@ -67,6 +68,7 @@ scan-13n.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
 security.criminalip.com
+server-3-169-53-60.tpe54.r.cloudfront.net
 smtp1.telemach.net
 srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
