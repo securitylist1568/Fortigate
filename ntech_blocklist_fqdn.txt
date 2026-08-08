@@ -21,7 +21,6 @@
 118.150.216.162.bc.googleusercontent.com
 145.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-209.149.216.162.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 74.150.216.162.bc.googleusercontent.com
@@ -63,7 +62,6 @@ crawler127.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
