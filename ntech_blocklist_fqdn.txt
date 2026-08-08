@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.206.195.35.bc.googleusercontent.com
 113.97.77.34.bc.googleusercontent.com
+114-36-245-189.dynamic-ip.hinet.net
 137.211.203.35.bc.googleusercontent.com
 179.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -56,6 +57,7 @@ o607.scanner.modat.io
 o608.scanner.modat.io
 o610.scanner.modat.io
 o616.scanner.modat.io
+o631.scanner.modat.io
 o632.scanner.modat.io
 o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
