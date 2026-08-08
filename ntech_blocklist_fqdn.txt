@@ -24,8 +24,8 @@
 154.211.203.35.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
 16.213.156.34.bc.googleusercontent.com
+179.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.149.216.162.bc.googleusercontent.com
 199-176-100-101.myrepublic.com.sg
 2d834781.kunde.misaka.berlin
 35.210.203.35.bc.googleusercontent.com
@@ -40,7 +40,6 @@
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
-azpdws0frgb6.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 customer.lgosnga1.isp.starlink.com
@@ -49,10 +48,8 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip145.ip-72-251-5.net
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
 o073.scanner.modat.io
@@ -73,7 +70,5 @@ security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
-www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
