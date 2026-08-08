@@ -23,7 +23,6 @@
 137.211.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 175.150.216.162.bc.googleusercontent.com
-179.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 202.149.216.162.bc.googleusercontent.com
 203.149.216.162.bc.googleusercontent.com
@@ -50,7 +49,6 @@ ip29.sudolio.io
 l605.scanner.modat.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-node-115-187-59-168.alliancebroadband.in
 ns1004398.ip-40-160-62.us
 o332.scanner.modat.io
 o607.scanner.modat.io
@@ -66,9 +64,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
-scan.visionheight.com
 security.criminalip.com
-server-3-169-53-60.tpe54.r.cloudfront.net
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
