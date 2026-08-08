@@ -29,6 +29,7 @@
 204.76.203.49.ptr.pfcloud.network
 239.239.220.35.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
+6682315a.customer.misaka.joburg
 89.236.218.221.static.ip.tps.uz
 9213038d.customer.misaka.se
 95526344.grabercloud.com
