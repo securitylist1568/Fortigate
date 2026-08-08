@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.206.195.35.bc.googleusercontent.com
+113.97.77.34.bc.googleusercontent.com
 118.150.216.162.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -37,6 +38,7 @@
 239.239.220.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 41.141.205.35.bc.googleusercontent.com
+44.114.14.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
