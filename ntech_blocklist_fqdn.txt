@@ -22,18 +22,15 @@
 16.213.156.34.bc.googleusercontent.com
 179.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-199-176-100-101.myrepublic.com.sg
 203.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
-2d834781.kunde.misaka.berlin
+239.239.220.35.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 41.141.205.35.bc.googleusercontent.com
 44.114.14.34.bc.googleusercontent.com
-46-21-153-58.static.hvvc.us
 66-232-120-166.static.hvvc.us
 82.150.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
-90.150.216.162.bc.googleusercontent.com
 9213038d.customer.misaka.se
 95526344.grabercloud.com
 aim.sba-research.org
@@ -53,7 +50,6 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 node-115-187-59-168.alliancebroadband.in
 o073.scanner.modat.io
-o311.scanner.modat.io
 o316.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
