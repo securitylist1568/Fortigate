@@ -50,7 +50,6 @@
 54.245.241.35.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
 78.211.203.35.bc.googleusercontent.com
-79.124.56.142.superbit.host
 96.150.216.162.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
@@ -80,7 +79,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip145.ip-72-251-5.net
-ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
@@ -94,7 +92,6 @@ recyber.net
 scan-12f.shadowserver.io
 scan-43h.shadowserver.io
 scan-52k.shadowserver.io
-scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv1756254.hstgr.cloud
