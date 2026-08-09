@@ -22,6 +22,7 @@
 13.150.216.162.bc.googleusercontent.com
 130.172.78.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
+147.59.26.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
 152.85.14.34.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
@@ -41,6 +42,8 @@
 89.236.218.221.static.ip.tps.uz
 aim.sba-research.org
 amz.unixwiz.net
+azpdsgbmp5gp.stretchoid.com
+azpdwscoks7c.stretchoid.com
 b2.org.afilias-nst.org
 careerorbits.com
 cefliximages.com
@@ -131,4 +134,5 @@ vmi2804451.contaboserver.net
 vmi3426235.contaboserver.net
 vps.tkaworld.com
 web-srv4.mybizniche.com
+www.internet-albedo.net
 xtl-failover.swipetrack.com
