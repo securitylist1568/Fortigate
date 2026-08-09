@@ -22,7 +22,6 @@
 130.172.78.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
-172-232-121-108.ip.linodeusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 20.210.203.35.bc.googleusercontent.com
@@ -41,6 +40,7 @@
 60-249-14-121.hinet-ip.hinet.net
 61-228-178-129.dynamic-ip.hinet.net
 66.149.216.162.bc.googleusercontent.com
+8.211.203.35.bc.googleusercontent.com
 95.112.140.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -55,7 +55,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o304.scanner.modat.io
 o347.scanner.modat.io
@@ -69,6 +68,5 @@ scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-138-199-53-212.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
