@@ -56,6 +56,7 @@ no-mans-land.m247.com
 o066.scanner.modat.io
 o304.scanner.modat.io
 o346.scanner.modat.io
+o611.scanner.modat.io
 o619.scanner.modat.io
 o621.scanner.modat.io
 o626.scanner.modat.io
