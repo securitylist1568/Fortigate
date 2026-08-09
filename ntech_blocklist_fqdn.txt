@@ -30,6 +30,7 @@
 248.245.189.35.bc.googleusercontent.com
 28.174.154.27.broad.xm.fj.dynamic.163data.com.cn
 2d96f380.kbp.customer.misaka.io
+4.120.241.188.baremetal.zare.com
 45.210.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 53.173.175.207.bc.googleusercontent.com
@@ -64,6 +65,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-15k.shadowserver.io
+scan-74-07.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
