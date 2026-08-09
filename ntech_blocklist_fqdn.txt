@@ -25,15 +25,11 @@
 147.59.26.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
 152.85.14.34.bc.googleusercontent.com
-157.210.203.35.bc.googleusercontent.com
 164.211.203.35.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
 208.65.77.34.bc.googleusercontent.com
-210.69.109.136.bc.googleusercontent.com
-240.211.203.35.bc.googleusercontent.com
 248.245.189.35.bc.googleusercontent.com
-2d83453c.mow.customer.misaka.io
 3.149.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 53.173.175.207.bc.googleusercontent.com
@@ -60,7 +56,6 @@ cefliximages.com
 client.yota.ru
 cloudlintas.id
 dal215.hawkhost.com
-dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
 ec2-100-55-74-174.compute-1.amazonaws.com
@@ -101,7 +96,6 @@ o072.scanner.modat.io
 o312.scanner.modat.io
 o318.scanner.modat.io
 o340.scanner.modat.io
-o345.scanner.modat.io
 panel.barbuia.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
