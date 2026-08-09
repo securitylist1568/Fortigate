@@ -50,6 +50,7 @@ ns3082104.ip-145-239-2.eu
 o071.scanner.modat.io
 o312.scanner.modat.io
 o338.scanner.modat.io
+o351.scanner.modat.io
 o352.scanner.modat.io
 o611.scanner.modat.io
 o630.scanner.modat.io
