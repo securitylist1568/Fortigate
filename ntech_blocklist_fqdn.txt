@@ -21,6 +21,7 @@
 13.150.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 157.210.203.35.bc.googleusercontent.com
+164.211.203.35.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 210.69.109.136.bc.googleusercontent.com
@@ -41,6 +42,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-166-69.103.117-naratel.net.id
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
