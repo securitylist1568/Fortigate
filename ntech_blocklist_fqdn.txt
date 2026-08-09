@@ -46,6 +46,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o071.scanner.modat.io
+o072.scanner.modat.io
 o312.scanner.modat.io
 o318.scanner.modat.io
 o345.scanner.modat.io
