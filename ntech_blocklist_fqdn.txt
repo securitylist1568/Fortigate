@@ -116,6 +116,7 @@ scan-18i.shadowserver.io
 scan-21.shadowserver.io
 scan-43h.shadowserver.io
 scan-45g.shadowserver.io
+scan-45o.shadowserver.io
 scan-54c.shadowserver.io
 scan-58b.shadowserver.io
 scan-59k.shadowserver.io
@@ -139,6 +140,7 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unassigned.172-81-62-90.spryt.net
 undefined.hostname.localhost
 unn-138-199-53-212.datapacket.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 vmi2804451.contaboserver.net
 vmi3426235.contaboserver.net
