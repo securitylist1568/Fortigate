@@ -18,11 +18,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-169-20-177.dynamic-ip.hinet.net
 119.211.203.35.bc.googleusercontent.com
-125-227-127-85.hinet-ip.hinet.net
 130.172.78.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 20.210.203.35.bc.googleusercontent.com
 208.65.77.34.bc.googleusercontent.com
@@ -31,14 +30,11 @@
 248.245.189.35.bc.googleusercontent.com
 28.174.154.27.broad.xm.fj.dynamic.163data.com.cn
 2d96f380.kbp.customer.misaka.io
-35.35.62.34.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 53.173.175.207.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
-61-228-178-129.dynamic-ip.hinet.net
 8.211.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
