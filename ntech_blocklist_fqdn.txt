@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-169-20-177.dynamic-ip.hinet.net
 119.211.203.35.bc.googleusercontent.com
+152-244-215-59.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 229.150.216.162.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
