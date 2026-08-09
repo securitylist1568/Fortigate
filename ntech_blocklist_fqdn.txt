@@ -34,6 +34,7 @@
 2d834681.led.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
 35.35.62.34.bc.googleusercontent.com
+45.210.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 53.173.175.207.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
@@ -56,6 +57,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o066.scanner.modat.io
 o304.scanner.modat.io
 o346.scanner.modat.io
 o347.scanner.modat.io
@@ -66,8 +68,10 @@ recyber.net
 scan-15k.shadowserver.io
 scan-45o.shadowserver.io
 scan-58.security.ipip.net
+scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
+static-ip-1815713920.cable.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
