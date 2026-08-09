@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-13.150.216.162.bc.googleusercontent.com
 130.172.78.34.bc.googleusercontent.com
 147.59.26.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
@@ -27,6 +26,7 @@
 172-232-121-108.ip.linodeusercontent.com
 176.150.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
+184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.65.77.34.bc.googleusercontent.com
 210.69.109.136.bc.googleusercontent.com
@@ -99,8 +99,6 @@ mfyabgec.musicpda.com
 motorexpo.co.th
 ns1.dmhospedagem.com.br
 ns2.usotho.co.za
-o072.scanner.modat.io
-o340.scanner.modat.io
 o347.scanner.modat.io
 panel.barbuia.eu
 pc112.cses.ilc.edu.tw
@@ -116,8 +114,6 @@ scan-09i.shadowserver.io
 scan-15c.shadowserver.io
 scan-18i.shadowserver.io
 scan-21.shadowserver.io
-scan-43h.shadowserver.io
-scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-54c.shadowserver.io
 scan-58b.shadowserver.io
