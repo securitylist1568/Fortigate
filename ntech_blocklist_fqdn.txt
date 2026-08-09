@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-169-20-177.dynamic-ip.hinet.net
 119.211.203.35.bc.googleusercontent.com
+147.59.26.34.bc.googleusercontent.com
 152-244-215-59.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
@@ -51,6 +52,7 @@ li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o338.scanner.modat.io
 o611.scanner.modat.io
 o619.scanner.modat.io
 o621.scanner.modat.io
