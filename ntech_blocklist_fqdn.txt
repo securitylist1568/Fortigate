@@ -25,7 +25,6 @@
 229.150.216.162.bc.googleusercontent.com
 28.174.154.27.broad.xm.fj.dynamic.163data.com.cn
 4.120.241.188.baremetal.zare.com
-45.210.203.35.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 aim.sba-research.org
 amz.unixwiz.net
@@ -53,8 +52,6 @@ li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o066.scanner.modat.io
-o346.scanner.modat.io
 o611.scanner.modat.io
 o619.scanner.modat.io
 o621.scanner.modat.io
@@ -65,11 +62,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-74-07.shadowserver.io
-scan.visionheight.com
 security.criminalip.com
 smtp.energy-vg.com
 smtp1.telemach.net
-static-ip-1815713920.cable.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
