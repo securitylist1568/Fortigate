@@ -33,6 +33,7 @@
 210.69.109.136.bc.googleusercontent.com
 23.149.216.162.bc.googleusercontent.com
 248.245.189.35.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 31.211.203.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 53.173.175.207.bc.googleusercontent.com
@@ -118,6 +119,7 @@ scan-18i.shadowserver.io
 scan-21.shadowserver.io
 scan-45o.shadowserver.io
 scan-54c.shadowserver.io
+scan-58.security.ipip.net
 scan-58b.shadowserver.io
 scan-59k.shadowserver.io
 scan-61-5.shadowserver.io
