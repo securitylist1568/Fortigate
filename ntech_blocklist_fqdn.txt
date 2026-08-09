@@ -22,16 +22,12 @@
 152-244-215-59.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 229.150.216.162.bc.googleusercontent.com
-240.211.203.35.bc.googleusercontent.com
 28.174.154.27.broad.xm.fj.dynamic.163data.com.cn
-2d96f380.kbp.customer.misaka.io
 4.120.241.188.baremetal.zare.com
 45.210.203.35.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
-8.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-b1b10ded.customer.misaka.ist
 b1b10df5.customer.misaka.ist
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
@@ -55,7 +51,6 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o066.scanner.modat.io
-o304.scanner.modat.io
 o346.scanner.modat.io
 o611.scanner.modat.io
 o619.scanner.modat.io
