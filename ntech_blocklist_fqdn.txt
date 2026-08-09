@@ -22,8 +22,10 @@
 185-45-195-15.hostsailor.com
 187.250.83.109.dsl.dyn.telnor.net
 198-134-107-73.rev.unlimitednet.us
+4.120.241.188.baremetal.zare.com
 62-210-113-113.rev.poneytelecom.eu
 66.210.203.35.bc.googleusercontent.com
+92.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b1b10df5.customer.misaka.ist
