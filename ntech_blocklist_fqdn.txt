@@ -23,6 +23,7 @@
 147.59.26.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
 152.85.14.34.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 176.150.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
@@ -38,6 +39,7 @@
 35.35.62.34.bc.googleusercontent.com
 53.173.175.207.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
+61-228-178-129.dynamic-ip.hinet.net
 63.204.189.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 86.95.62.34.bc.googleusercontent.com
