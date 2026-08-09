@@ -34,6 +34,7 @@
 31.211.203.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 53.173.175.207.bc.googleusercontent.com
+58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 63.204.189.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 86.95.62.34.bc.googleusercontent.com
@@ -62,6 +63,7 @@ client.yota.ru
 cloudlintas.id
 crawler093.deepfield.net
 dal215.hawkhost.com
+dallas-tx-datacenter.serverpoint.com
 dns12.online.tj.cn
 ec2-100-55-74-174.compute-1.amazonaws.com
 ec2-13-218-73-191.compute-1.amazonaws.com
