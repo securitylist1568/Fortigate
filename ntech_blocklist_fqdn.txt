@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 13.150.216.162.bc.googleusercontent.com
 130.172.78.34.bc.googleusercontent.com
-144.92.74.97.host.secureserver.net
 147.59.26.34.bc.googleusercontent.com
 15.127.205.35.bc.googleusercontent.com
 152.85.14.34.bc.googleusercontent.com
@@ -30,12 +29,13 @@
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
 208.65.77.34.bc.googleusercontent.com
+210.69.109.136.bc.googleusercontent.com
 248.245.189.35.bc.googleusercontent.com
-3.149.216.162.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 53.173.175.207.bc.googleusercontent.com
 63.204.189.35.bc.googleusercontent.com
+66.149.216.162.bc.googleusercontent.com
 86.95.62.34.bc.googleusercontent.com
 89.236.218.221.static.ip.tps.uz
 aim.sba-research.org
