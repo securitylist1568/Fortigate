@@ -22,7 +22,6 @@
 152-244-215-59.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
-229.150.216.162.bc.googleusercontent.com
 28.174.154.27.broad.xm.fj.dynamic.163data.com.cn
 4.120.241.188.baremetal.zare.com
 62-210-113-113.rev.poneytelecom.eu
@@ -48,7 +47,6 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -67,6 +65,5 @@ security.criminalip.com
 smtp.energy-vg.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 ve1178.venus.dedi.server-hosting.expert
