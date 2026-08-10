@@ -38,6 +38,7 @@ ip29.sudolio.io
 l606.scanner.modat.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o342.scanner.modat.io
 o616.scanner.modat.io
 o619.scanner.modat.io
 obuvvl.ru
