@@ -23,13 +23,14 @@
 14.134.77.34.bc.googleusercontent.com
 150.213.78.34.bc.googleusercontent.com
 156.68.205.35.bc.googleusercontent.com
+163-172-71-20.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 196.150.38.34.bc.googleusercontent.com
 197.233.205.35.bc.googleusercontent.com
 208.145.175.207.bc.googleusercontent.com
 215.104.199.104.bc.googleusercontent.com
 3.52.240.35.bc.googleusercontent.com
-45.135.193.43.ptr.pfcloud.network
+36-236-178-148.dynamic-ip.hinet.net
 79.169.62.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
 aim.sba-research.org
@@ -43,7 +44,6 @@ festa04.jcatransporte.com.br
 fwnvyxu.top
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip102.ip-5-196-154.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -71,7 +71,6 @@ ns3368369.ip-37-187-88.eu
 ns3368718.ip-37-187-89.eu
 ns3368772.ip-37-187-89.eu
 ns3368805.ip-37-187-89.eu
-ns3369517.ip-37-187-90.eu
 ns3369721.ip-37-187-91.eu
 ns3370525.ip-37-187-92.eu
 ns3370751.ip-37-187-92.eu
@@ -85,7 +84,6 @@ scan-13n.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
-scan-45o.shadowserver.io
 scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
