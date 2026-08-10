@@ -28,8 +28,6 @@
 208.145.175.207.bc.googleusercontent.com
 210-59-205-224.hinet-ip.hinet.net
 215.104.199.104.bc.googleusercontent.com
-233.197.231.8.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 46-21-153-58.static.hvvc.us
 50-116-23-150.ip.linodeusercontent.com
 79.169.62.34.bc.googleusercontent.com
@@ -62,7 +60,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-15k.shadowserver.io
-scan-60.security.ipip.net
 scan-69-05.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
