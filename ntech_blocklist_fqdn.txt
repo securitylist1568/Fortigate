@@ -27,7 +27,6 @@
 196.150.38.34.bc.googleusercontent.com
 208.145.175.207.bc.googleusercontent.com
 215.104.199.104.bc.googleusercontent.com
-2d0b6ab5.ams.customer.misaka.io
 3.52.240.35.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
 79.169.62.34.bc.googleusercontent.com
@@ -40,7 +39,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fwnvyxu.top
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip102.ip-5-196-154.eu
@@ -48,7 +46,17 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns302789.ip-94-23-199.eu
+ns3050519.ip-188-165-206.eu
+ns3080783.ip-94-23-250.eu
+ns3085374.ip-188-165-238.eu
+ns3096353.ip-94-23-61.eu
+ns309649.ip-188-165-195.eu
+ns3365524.ip-37-187-76.eu
+ns3368718.ip-37-187-89.eu
+ns3368805.ip-37-187-89.eu
 ns3369517.ip-37-187-90.eu
+ns363961.ip-91-121-183.eu
 ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
