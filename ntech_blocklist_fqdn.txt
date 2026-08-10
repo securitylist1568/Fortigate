@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118.102.195.35.bc.googleusercontent.com
+132.230.234.8.bc.googleusercontent.com
 14.134.77.34.bc.googleusercontent.com
 150.213.78.34.bc.googleusercontent.com
 156.68.205.35.bc.googleusercontent.com
@@ -61,6 +62,7 @@ recyber.net
 scan-13n.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
+scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-75-05.shadowserver.io
 security.criminalip.com
