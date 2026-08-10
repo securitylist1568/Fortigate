@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 147.59.26.34.bc.googleusercontent.com
-152-244-215-59.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 187.250.83.109.dsl.dyn.telnor.net
 195.149.216.162.bc.googleusercontent.com
@@ -26,7 +25,6 @@
 4.120.241.188.baremetal.zare.com
 41.210.203.35.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-62-210-113-113.rev.poneytelecom.eu
 66.210.203.35.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -56,7 +54,6 @@ o338.scanner.modat.io
 o350.scanner.modat.io
 o351.scanner.modat.io
 o352.scanner.modat.io
-o611.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
