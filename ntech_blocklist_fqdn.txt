@@ -25,6 +25,7 @@
 192.248.179.181.vultrusercontent.com
 204.76.203.7.ptr.pfcloud.network
 62-210-113-113.rev.poneytelecom.eu
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
