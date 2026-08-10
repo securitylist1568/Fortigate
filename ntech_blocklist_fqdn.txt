@@ -19,14 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-254-241-218.dynamic-ip.hinet.net
 132.230.234.8.bc.googleusercontent.com
-156.68.205.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
 194-195-253-86.ip.linodeusercontent.com
 196.150.38.34.bc.googleusercontent.com
 204.76.203.7.ptr.pfcloud.network
-208.145.175.207.bc.googleusercontent.com
 210-59-205-224.hinet-ip.hinet.net
 215.104.199.104.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
@@ -35,11 +33,8 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgkm3iag.stretchoid.com
-azpdcsmatos4.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
-azpdsgw3iszc.stretchoid.com
 azpdsgwinodf.stretchoid.com
-azpdsshab2op.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -79,4 +74,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
 vmi3498068.contaboserver.net
-vps3375941.trouble-free.net
