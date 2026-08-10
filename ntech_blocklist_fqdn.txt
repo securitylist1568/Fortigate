@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-254-241-218.dynamic-ip.hinet.net
 132.230.234.8.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 191.250.200.35.bc.googleusercontent.com
 204.76.203.7.ptr.pfcloud.network
@@ -42,6 +43,7 @@ ip-58-98.4vendeta.com
 ip-59-22.4vendeta.com
 ip150.ip-51-81-37.us
 ip29.sudolio.io
+l606.scanner.modat.io
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
