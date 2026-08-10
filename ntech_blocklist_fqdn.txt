@@ -23,6 +23,7 @@
 163-172-71-20.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
+194-195-253-86.ip.linodeusercontent.com
 196.150.38.34.bc.googleusercontent.com
 197.233.205.35.bc.googleusercontent.com
 208.145.175.207.bc.googleusercontent.com
@@ -30,7 +31,6 @@
 215.104.199.104.bc.googleusercontent.com
 233.197.231.8.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
-3.52.240.35.bc.googleusercontent.com
 36-236-178-148.dynamic-ip.hinet.net
 46-21-153-58.static.hvvc.us
 79.169.62.34.bc.googleusercontent.com
@@ -51,8 +51,8 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip150.ip-51-81-37.us
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns302789.ip-94-23-199.eu
 ns304533.ip-94-23-208.eu
@@ -87,10 +87,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-13n.shadowserver.io
 scan-43h.shadowserver.io
 scan-60.security.ipip.net
-scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
