@@ -28,6 +28,7 @@
 208.145.175.207.bc.googleusercontent.com
 215.104.199.104.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
+3.52.240.35.bc.googleusercontent.com
 4.120.241.188.baremetal.zare.com
 41.210.203.35.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
