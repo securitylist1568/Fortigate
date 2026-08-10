@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 187.250.83.109.dsl.dyn.telnor.net
 195.149.216.162.bc.googleusercontent.com
-198-134-107-73.rev.unlimitednet.us
 2d0b6ab5.ams.customer.misaka.io
 4.120.241.188.baremetal.zare.com
 41.210.203.35.bc.googleusercontent.com
@@ -34,20 +33,17 @@ b2.org.afilias-nst.org
 client.yota.ru
 d163bc79.nip.io
 dal215.hawkhost.com
-db3-int.qeryz.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
 ns3082104.ip-145-239-2.eu
 o071.scanner.modat.io
@@ -62,7 +58,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
-smtp.energy-vg.com
 smtp1.telemach.net
 srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
