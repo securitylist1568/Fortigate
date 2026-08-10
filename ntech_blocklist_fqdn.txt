@@ -25,6 +25,7 @@
 194-195-253-86.ip.linodeusercontent.com
 196.150.38.34.bc.googleusercontent.com
 197.233.205.35.bc.googleusercontent.com
+204.76.203.7.ptr.pfcloud.network
 208.145.175.207.bc.googleusercontent.com
 210-59-205-224.hinet-ip.hinet.net
 215.104.199.104.bc.googleusercontent.com
@@ -82,7 +83,6 @@ ns3369721.ip-37-187-91.eu
 ns3370525.ip-37-187-92.eu
 ns3370751.ip-37-187-92.eu
 ns363961.ip-91-121-183.eu
-ns574789.ip-51-222-40.net
 o065.scanner.modat.io
 o068.scanner.modat.io
 o304.scanner.modat.io
