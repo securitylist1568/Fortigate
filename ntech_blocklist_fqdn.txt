@@ -29,6 +29,8 @@
 197.233.205.35.bc.googleusercontent.com
 208.145.175.207.bc.googleusercontent.com
 215.104.199.104.bc.googleusercontent.com
+233.197.231.8.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 3.52.240.35.bc.googleusercontent.com
 36-236-178-148.dynamic-ip.hinet.net
 79.169.62.34.bc.googleusercontent.com
@@ -84,6 +86,7 @@ scan-13n.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
+scan-60.security.ipip.net
 scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
