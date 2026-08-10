@@ -21,6 +21,7 @@
 132.230.234.8.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
+191.250.200.35.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
 194-195-253-86.ip.linodeusercontent.com
 196.150.38.34.bc.googleusercontent.com
@@ -62,6 +63,7 @@ o304.scanner.modat.io
 o601.scanner.modat.io
 o609.scanner.modat.io
 o632.scanner.modat.io
+o634.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
