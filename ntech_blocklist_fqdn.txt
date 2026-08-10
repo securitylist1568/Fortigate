@@ -56,6 +56,8 @@ mfyabgec.musicpda.com
 o065.scanner.modat.io
 o068.scanner.modat.io
 o304.scanner.modat.io
+o601.scanner.modat.io
+o609.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
