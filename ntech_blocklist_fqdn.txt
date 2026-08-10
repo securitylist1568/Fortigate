@@ -23,7 +23,6 @@
 150.213.78.34.bc.googleusercontent.com
 156.68.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187.250.83.109.dsl.dyn.telnor.net
 195.149.216.162.bc.googleusercontent.com
 196.150.38.34.bc.googleusercontent.com
 208.145.175.207.bc.googleusercontent.com
@@ -33,7 +32,6 @@
 41.210.203.35.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-66.210.203.35.bc.googleusercontent.com
 79.169.62.34.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -52,17 +50,16 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip102.ip-5-196-154.eu
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
-ns3082104.ip-145-239-2.eu
 ns3369517.ip-37-187-90.eu
 o071.scanner.modat.io
 o312.scanner.modat.io
 o350.scanner.modat.io
 o351.scanner.modat.io
-o352.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -73,7 +70,6 @@ scan-40g.shadowserver.io
 scan-45o.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 staticline-31-183-0-54.toya.net.pl
 users219.vip.heteml.jp
