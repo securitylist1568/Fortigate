@@ -24,6 +24,7 @@
 2d0b6ab5.ams.customer.misaka.io
 4.120.241.188.baremetal.zare.com
 41.210.203.35.bc.googleusercontent.com
+45.135.193.43.ptr.pfcloud.network
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 66.210.203.35.bc.googleusercontent.com
 92.211.203.35.bc.googleusercontent.com
@@ -39,7 +40,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip217-160-3-46.pbiaas.com
+ip102.ip-5-196-154.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
@@ -63,4 +64,5 @@ security.criminalip.com
 smtp1.telemach.net
 srv-141-98-10-109.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
+staticline-31-183-0-54.toya.net.pl
 users219.vip.heteml.jp
