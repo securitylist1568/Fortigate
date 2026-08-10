@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+101.82.175.207.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,10 +21,12 @@
 14.134.77.34.bc.googleusercontent.com
 147.59.26.34.bc.googleusercontent.com
 150.213.78.34.bc.googleusercontent.com
+156.68.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.250.83.109.dsl.dyn.telnor.net
 195.149.216.162.bc.googleusercontent.com
 196.150.38.34.bc.googleusercontent.com
+208.145.175.207.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 4.120.241.188.baremetal.zare.com
 41.210.203.35.bc.googleusercontent.com
@@ -36,6 +39,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 d163bc79.nip.io
+d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -48,6 +52,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ns1004398.ip-40-160-62.us
 ns3082104.ip-145-239-2.eu
 ns3369517.ip-37-187-90.eu
@@ -62,6 +67,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-40g.shadowserver.io
 scan-45o.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
