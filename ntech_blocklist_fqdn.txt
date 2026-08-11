@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.114.175.207.bc.googleusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 173.8.79.34.bc.googleusercontent.com
 174.100.62.34.bc.googleusercontent.com
@@ -55,10 +56,8 @@ ec2-98-94-81-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 m23622.contaboserver.net
 mail.quickstartseo.com
 mfyabgec.musicpda.com
@@ -75,7 +74,6 @@ proxy.satellitestress.st
 recyber.net
 scan-04f.shadowserver.io
 scan-43b.shadowserver.io
-scan-47k.shadowserver.io
 scan-77-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
