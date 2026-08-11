@@ -21,6 +21,7 @@
 159.227.156.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
+204.76.203.49.ptr.pfcloud.network
 45.77.61.56.vultrusercontent.com
 57.218.20.34.bc.googleusercontent.com
 86.92.195.35.bc.googleusercontent.com
@@ -35,6 +36,7 @@ azpdsg09h0rw.stretchoid.com
 azpdsgbmp5gp.stretchoid.com
 azpdss797c8p.stretchoid.com
 azpdsshab2op.stretchoid.com
+azpdssw6luqc.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
@@ -56,6 +58,7 @@ ip-58-98.4vendeta.com
 ip-59-22.4vendeta.com
 ip150.ip-51-81-37.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns107289.ip-51-81-109.us
 o073.scanner.modat.io
@@ -79,6 +82,7 @@ scan-67-1.shadowserver.io
 scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
 users219.vip.heteml.jp
