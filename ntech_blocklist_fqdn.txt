@@ -35,6 +35,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o312.scanner.modat.io
 o342.scanner.modat.io
@@ -44,6 +45,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-47k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
