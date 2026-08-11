@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118s.pstnmizionlablinc.org
 159.227.156.34.bc.googleusercontent.com
+168-113-158-51.instances.scw.cloud
 173.8.79.34.bc.googleusercontent.com
 174.100.62.34.bc.googleusercontent.com
 176.23.78.34.bc.googleusercontent.com
@@ -68,6 +69,7 @@ scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 users219.vip.heteml.jp
 vmi3498068.contaboserver.net
 vpn.aipomogator.ru
