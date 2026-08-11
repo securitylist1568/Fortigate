@@ -18,13 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118s.pstnmizionlablinc.org
-159.227.156.34.bc.googleusercontent.com
+144.202.92.17.vultrusercontent.com
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 45.77.61.56.vultrusercontent.com
 57.218.20.34.bc.googleusercontent.com
-86.92.195.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 adventure.yatano.com
 aim.sba-research.org
@@ -47,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-49-114.4vendeta.com
-ip-49-70.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-158.4vendeta.com
@@ -56,7 +54,6 @@ ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-22.4vendeta.com
-ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -88,4 +85,3 @@ trafo.kz
 undefined.hostname.localhost
 users219.vip.heteml.jp
 vmi3498068.contaboserver.net
-vpn.aipomogator.ru
