@@ -38,11 +38,14 @@ mfyabgec.musicpda.com
 o312.scanner.modat.io
 o342.scanner.modat.io
 o619.scanner.modat.io
+o639.scanner.modat.io
 obuvvl.ru
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+proxy.satellitestress.st
 recyber.net
+scan-43b.shadowserver.io
 scan-47k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
