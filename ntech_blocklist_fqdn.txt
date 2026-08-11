@@ -24,6 +24,7 @@
 174.100.62.34.bc.googleusercontent.com
 176.23.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+213-216-64-253.static.ip.netia.com.pl
 219.196.190.35.bc.googleusercontent.com
 56.196.52.34.bc.googleusercontent.com
 91.19.233.35.bc.googleusercontent.com
