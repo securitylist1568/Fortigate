@@ -29,6 +29,7 @@
 213-216-64-253.static.ip.netia.com.pl
 219.196.190.35.bc.googleusercontent.com
 56.196.52.34.bc.googleusercontent.com
+57.218.20.34.bc.googleusercontent.com
 86.92.195.35.bc.googleusercontent.com
 91.19.233.35.bc.googleusercontent.com
 adventure.yatano.com
