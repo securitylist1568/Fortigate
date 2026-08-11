@@ -45,7 +45,6 @@ ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns574789.ip-51-222-40.net
 o072.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -53,6 +52,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-56.security.ipip.net
+scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
