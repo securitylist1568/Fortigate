@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.202.92.17.vultrusercontent.com
+144.92.74.97.host.secureserver.net
 158.31.232.180.dsl.inet.static.certaincyber.net
 16.30.118.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
