@@ -65,10 +65,12 @@ o348.scanner.modat.io
 o604.scanner.modat.io
 o611.scanner.modat.io
 o612.scanner.modat.io
+o621.scanner.modat.io
 o622.scanner.modat.io
 o626.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 proxy.satellitestress.st
