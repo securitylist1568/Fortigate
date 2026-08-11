@@ -53,6 +53,7 @@ ns107289.ip-51-81-109.us
 o073.scanner.modat.io
 o347.scanner.modat.io
 o348.scanner.modat.io
+o604.scanner.modat.io
 o611.scanner.modat.io
 o612.scanner.modat.io
 o622.scanner.modat.io
