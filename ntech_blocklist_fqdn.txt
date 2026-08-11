@@ -21,6 +21,7 @@
 144.202.92.17.vultrusercontent.com
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
+201134.ip-ptr.tech
 204.76.203.49.ptr.pfcloud.network
 45.77.61.56.vultrusercontent.com
 57.218.20.34.bc.googleusercontent.com
