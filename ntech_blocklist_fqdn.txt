@@ -54,7 +54,6 @@ ec2-98-88-230-137.compute-1.amazonaws.com
 ec2-98-94-81-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip242.ip-51-79-111.net
 ip29.sudolio.io
@@ -64,9 +63,7 @@ m23622.contaboserver.net
 mail.quickstartseo.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
-o312.scanner.modat.io
 o315.scanner.modat.io
-o342.scanner.modat.io
 o350.scanner.modat.io
 o638.scanner.modat.io
 o639.scanner.modat.io
