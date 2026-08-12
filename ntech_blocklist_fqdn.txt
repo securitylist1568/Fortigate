@@ -40,13 +40,11 @@ ec2-54-187-2-163.us-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-254.4vendeta.com
 ip-58-158.4vendeta.com
 ip-58-254.4vendeta.com
 ip150.ip-51-81-37.us
 ip242.ip-51-79-111.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
