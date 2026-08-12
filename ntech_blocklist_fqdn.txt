@@ -22,7 +22,6 @@
 221.225.26.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 53.26.71.192.in-addr.arpa
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 car146.careercorejourney.com
@@ -36,7 +35,6 @@ ip-49-114.4vendeta.com
 ip-56-210.4vendeta.com
 ip-58-158.4vendeta.com
 ip-58-254.4vendeta.com
-ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
@@ -56,7 +54,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-86-7.shadowserver.io
 security.criminalip.com
 server.donungdee.com
 smtp1.telemach.net
