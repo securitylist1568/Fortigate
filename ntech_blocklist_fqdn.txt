@@ -29,6 +29,7 @@
 194-195-122-95.ip.linodeusercontent.com
 203.200.205.35.bc.googleusercontent.com
 22.191.53.34.bc.googleusercontent.com
+238.221.53.34.bc.googleusercontent.com
 50.234.195.35.bc.googleusercontent.com
 57.218.20.34.bc.googleusercontent.com
 6.63.76.34.bc.googleusercontent.com
@@ -41,6 +42,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+dns-udp-scan-0.io.internetdata.io
 dns.google
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
