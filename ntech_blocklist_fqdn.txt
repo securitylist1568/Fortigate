@@ -20,12 +20,10 @@
 111-240-93-35.dynamic-ip.hinet.net
 124-8-175-175.dynamic.tfn.net.tw
 167.230.52.34.bc.googleusercontent.com
-177-172-67-233.user.vivozap.com.br
-178.231.205.35.bc.googleusercontent.com
+182.224.126.216.static.cloudzy.com
 185-45-195-15.hostsailor.com
 185.99.175.207.bc.googleusercontent.com
 190.129.156.34.bc.googleusercontent.com
-203.200.205.35.bc.googleusercontent.com
 221.225.26.34.bc.googleusercontent.com
 238.221.53.34.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
@@ -48,7 +46,6 @@ li1570-11.members.linode.com
 mail.monibco.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
-o340.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -57,7 +54,6 @@ recyber.net
 scan-13n.shadowserver.io
 scan-40g.shadowserver.io
 scan-45o.shadowserver.io
-scan-85-3.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
