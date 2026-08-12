@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 124-8-175-175.dynamic.tfn.net.tw
 163-172-221-175.rev.poneytelecom.eu
 167.230.52.34.bc.googleusercontent.com
@@ -75,10 +74,8 @@ recyber.net
 scan-13n.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
-scan-45g.shadowserver.io
 scan-45o.shadowserver.io
 scan-85-3.shadowserver.io
-scan-86-7.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
