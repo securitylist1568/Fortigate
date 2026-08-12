@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 124-8-175-175.dynamic.tfn.net.tw
 167.230.52.34.bc.googleusercontent.com
+177-172-67-233.user.vivozap.com.br
 182.224.126.216.static.cloudzy.com
 185-45-195-15.hostsailor.com
 185.99.175.207.bc.googleusercontent.com
@@ -43,6 +44,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-254.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mail.monibco.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
