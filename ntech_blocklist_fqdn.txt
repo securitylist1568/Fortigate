@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-106.105.229.135.adsl.dynamic.seed.net.tw
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,11 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 203.200.205.35.bc.googleusercontent.com
 204.76.203.7.ptr.pfcloud.network
 204.76.203.91.ptr.pfcloud.network
+221.225.26.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -41,7 +40,6 @@ ip150.ip-51-81-37.us
 ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 mx1.economicalytrustfunds.com
 ns3007509.ip-5-39-68.eu
