@@ -20,6 +20,7 @@
 172-245-25-166-host.colocrossing.com
 177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
+234.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 53.26.71.192.in-addr.arpa
 73.150.216.162.bc.googleusercontent.com
@@ -36,6 +37,7 @@ host0.nfcsolutions.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
+li1570-11.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
