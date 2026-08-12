@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
-144.92.74.97.host.secureserver.net
 163-172-221-175.rev.poneytelecom.eu
 167.230.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -69,7 +68,6 @@ li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o069.scanner.modat.io
 o312.scanner.modat.io
-o339.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
