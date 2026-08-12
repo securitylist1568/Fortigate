@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 203.200.205.35.bc.googleusercontent.com
 204.76.203.7.ptr.pfcloud.network
