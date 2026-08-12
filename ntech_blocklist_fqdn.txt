@@ -40,9 +40,17 @@ dns.google
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 ec2-107-23-10-184.compute-1.amazonaws.com
+ec2-13-221-242-173.compute-1.amazonaws.com
+ec2-13-222-228-146.compute-1.amazonaws.com
+ec2-13-222-61-160.compute-1.amazonaws.com
+ec2-32-199-191-214.compute-1.amazonaws.com
+ec2-34-203-202-222.compute-1.amazonaws.com
+ec2-34-227-14-187.compute-1.amazonaws.com
 ec2-44-202-7-21.compute-1.amazonaws.com
 ec2-52-91-252-11.compute-1.amazonaws.com
 ec2-54-144-246-4.compute-1.amazonaws.com
+ec2-54-146-178-176.compute-1.amazonaws.com
+ec2-54-167-97-12.compute-1.amazonaws.com
 ec2-54-90-159-174.compute-1.amazonaws.com
 ec2-98-80-119-99.compute-1.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
@@ -63,6 +71,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43h.shadowserver.io
 scan-45g.shadowserver.io
 scan-86-7.shadowserver.io
 smtp1.telemach.net
