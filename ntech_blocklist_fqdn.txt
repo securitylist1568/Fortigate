@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
-204.76.203.91.ptr.pfcloud.network
 221.225.26.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 aim.sba-research.org
@@ -36,7 +35,6 @@ ip-49-114.4vendeta.com
 ip-56-210.4vendeta.com
 ip-58-158.4vendeta.com
 ip-58-254.4vendeta.com
-ip150.ip-51-81-37.us
 ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1537-121.members.linode.com
@@ -44,21 +42,18 @@ li1570-11.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 mx1.economicalytrustfunds.com
+niall.probe.onyphe.net
 ns3007509.ip-5-39-68.eu
 o612.scanner.modat.io
 o619.scanner.modat.io
 o623.scanner.modat.io
 o627.scanner.modat.io
 o628.scanner.modat.io
-o633.scanner.modat.io
 o639.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-14l.shadowserver.io
-scan-74-07.shadowserver.io
-scan-79-09.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
 server.donungdee.com
@@ -67,3 +62,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
+virginia.probe.onyphe.net
