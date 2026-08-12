@@ -20,7 +20,6 @@
 172-245-25-166-host.colocrossing.com
 177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
-221.225.26.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 53.26.71.192.in-addr.arpa
 73.150.216.162.bc.googleusercontent.com
@@ -40,14 +39,11 @@ li1537-121.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
-ns3007509.ip-5-39-68.eu
 o063.scanner.modat.io
 o335.scanner.modat.io
 o348.scanner.modat.io
 o609.scanner.modat.io
 o623.scanner.modat.io
-o627.scanner.modat.io
-o628.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -57,5 +53,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
 virginia.probe.onyphe.net
