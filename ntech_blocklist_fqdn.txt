@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 201134.ip-ptr.tech
+57.218.20.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
@@ -37,6 +38,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
+ip-49-142.web1.bg
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1972-67.members.linode.com
