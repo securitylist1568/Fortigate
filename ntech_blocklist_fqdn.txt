@@ -19,8 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 144.92.74.97.host.secureserver.net
-158.31.232.180.dsl.inet.static.certaincyber.net
-16.30.118.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 57.218.20.34.bc.googleusercontent.com
@@ -40,12 +38,12 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip106.ip-5-135-10.eu
+ip224.ip-72-251-13.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o069.scanner.modat.io
-o071.scanner.modat.io
 o312.scanner.modat.io
 o339.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -54,7 +52,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-45g.shadowserver.io
 scan-86-7.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-190-25-75-206.etb.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
