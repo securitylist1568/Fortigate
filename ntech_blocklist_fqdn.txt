@@ -62,5 +62,6 @@ scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static-ptr.vndata.vn
 thornton.thespontaneity.org.uk
 users219.vip.heteml.jp
