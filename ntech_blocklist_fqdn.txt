@@ -44,9 +44,11 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 mx1.economicalytrustfunds.com
+ns3007509.ip-5-39-68.eu
 ns574789.ip-51-222-40.net
 o612.scanner.modat.io
 o619.scanner.modat.io
+o627.scanner.modat.io
 o628.scanner.modat.io
 o633.scanner.modat.io
 o639.scanner.modat.io
