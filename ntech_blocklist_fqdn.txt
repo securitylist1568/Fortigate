@@ -32,7 +32,6 @@
 238.221.53.34.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 50.234.195.35.bc.googleusercontent.com
-57.218.20.34.bc.googleusercontent.com
 6.63.76.34.bc.googleusercontent.com
 62-210-113-113.rev.poneytelecom.eu
 68.75.140.34.bc.googleusercontent.com
@@ -58,18 +57,14 @@ ec2-54-146-178-176.compute-1.amazonaws.com
 ec2-54-167-97-12.compute-1.amazonaws.com
 ec2-54-90-159-174.compute-1.amazonaws.com
 ec2-98-80-119-99.compute-1.amazonaws.com
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip224.ip-72-251-13.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 mail.monibco.com
 mfyabgec.musicpda.com
 ns1004398.ip-40-160-62.us
-o312.scanner.modat.io
 o340.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -88,4 +83,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
 users219.vip.heteml.jp
-www.internet-albedo.net
