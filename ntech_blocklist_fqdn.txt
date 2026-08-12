@@ -71,6 +71,7 @@ li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o069.scanner.modat.io
 o312.scanner.modat.io
+o340.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
