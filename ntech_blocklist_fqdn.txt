@@ -47,6 +47,7 @@ mx1.economicalytrustfunds.com
 ns574789.ip-51-222-40.net
 o612.scanner.modat.io
 o619.scanner.modat.io
+o628.scanner.modat.io
 o633.scanner.modat.io
 o639.scanner.modat.io
 pc112.cses.ilc.edu.tw
