@@ -36,6 +36,7 @@
 20.149.205.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 228.211.203.35.bc.googleusercontent.com
+237.52.140.34.bc.googleusercontent.com
 254.164.156.34.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
@@ -44,6 +45,7 @@
 71.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
+76.96.175.207.bc.googleusercontent.com
 84.122.88.34.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aim.sba-research.org
