@@ -35,6 +35,7 @@
 228.211.203.35.bc.googleusercontent.com
 237.52.140.34.bc.googleusercontent.com
 254.164.156.34.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 43.210.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 47.149.216.162.bc.googleusercontent.com
@@ -45,6 +46,7 @@
 76.96.175.207.bc.googleusercontent.com
 84.122.88.34.bc.googleusercontent.com
 9213038d.customer.misaka.se
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 church.probe.onyphe.net
@@ -72,6 +74,7 @@ scan-41m.shadowserver.io
 scan-45o.shadowserver.io
 scan-56a.shadowserver.io
 scan-77-02.shadowserver.io
+scan-79-09.shadowserver.io
 scan-80-9.shadowserver.io
 smtp1.telemach.net
 srv.marbellawebs.com
