@@ -24,17 +24,14 @@
 163-172-221-175.rev.poneytelecom.eu
 163.77.101.34.bc.googleusercontent.com
 166.239.145.34.bc.googleusercontent.com
-177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 195.149.216.162.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
-203.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 205.150.216.162.bc.googleusercontent.com
-23.209.255.172.hosted.by.hostdzire.com
+243.149.216.162.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
-66.150.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
@@ -50,9 +47,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
-ip-58-158.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o602.scanner.modat.io
@@ -65,7 +60,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
