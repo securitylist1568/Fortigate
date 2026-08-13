@@ -29,7 +29,6 @@
 185-45-195-15.hostsailor.com
 195.149.216.162.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
-204.76.203.49.ptr.pfcloud.network
 205.150.216.162.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
@@ -62,9 +61,7 @@ li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o304.scanner.modat.io
 o602.scanner.modat.io
-o620.scanner.modat.io
 o628.scanner.modat.io
-o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
