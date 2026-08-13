@@ -116,8 +116,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04i.shadowserver.io
 scan-13l.shadowserver.io
+scan-15k.shadowserver.io
 scan-40g.shadowserver.io
+scan-45o.shadowserver.io
 scan-74-07.shadowserver.io
 security.criminalip.com
 server.bslpackers.com
