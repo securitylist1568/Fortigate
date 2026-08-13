@@ -29,9 +29,11 @@
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 195.149.216.162.bc.googleusercontent.com
+199.149.216.162.bc.googleusercontent.com
 203.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 23.209.255.172.hosted.by.hostdzire.com
+250.150.216.162.bc.googleusercontent.com
 4.155.131.34.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
