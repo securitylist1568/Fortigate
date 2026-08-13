@@ -21,6 +21,7 @@
 117.150.216.162.bc.googleusercontent.com
 120.210.203.35.bc.googleusercontent.com
 132.100.211.130.bc.googleusercontent.com
+134.150.216.162.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
@@ -28,6 +29,7 @@
 168.210.203.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
+177-172-67-233.user.vivozap.com.br
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 20.149.205.35.bc.googleusercontent.com
@@ -117,6 +119,7 @@ scan-15k.shadowserver.io
 scan-41f.shadowserver.io
 scan-41m.shadowserver.io
 scan-45o.shadowserver.io
+scan-56a.shadowserver.io
 scan-74-07.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
