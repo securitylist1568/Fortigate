@@ -24,6 +24,7 @@
 222.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
+67.149.216.162.bc.googleusercontent.com
 73.150.216.162.bc.googleusercontent.com
 84.122.88.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -33,7 +34,9 @@ azpdcsmatos4.stretchoid.com
 azpdes6tt1mc.stretchoid.com
 azpdes7t6661.stretchoid.com
 azpdsg58gbbx.stretchoid.com
+azpdsgu2vs9r.stretchoid.com
 azpdss1xwgc0.stretchoid.com
+azpdsse6bn8p.stretchoid.com
 azpdssml72hw.stretchoid.com
 azpdssp7vjwc.stretchoid.com
 azpdssswzf3x.stretchoid.com
@@ -48,6 +51,7 @@ host0.nfcsolutions.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
 ip29.sudolio.io
+kub002.idyschool.de.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
@@ -59,7 +63,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13l.shadowserver.io
 scan-40g.shadowserver.io
+scan-74-07.shadowserver.io
 security.criminalip.com
 server.bslpackers.com
 smtp1.telemach.net
