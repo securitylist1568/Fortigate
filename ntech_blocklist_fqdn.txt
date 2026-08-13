@@ -112,6 +112,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.io
@@ -119,6 +120,7 @@ scan-13l.shadowserver.io
 scan-15k.shadowserver.io
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
+scan-41m.shadowserver.io
 scan-45o.shadowserver.io
 scan-74-07.shadowserver.io
 scan-80-9.shadowserver.io
