@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 172-245-25-166-host.colocrossing.com
+177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 221.225.26.34.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
