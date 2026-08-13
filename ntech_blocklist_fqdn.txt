@@ -25,6 +25,7 @@
 157.210.203.35.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
+175.150.216.162.bc.googleusercontent.com
 177-172-67-233.user.vivozap.com.br
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -42,6 +43,7 @@
 73.60.205.35.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
 76.96.175.207.bc.googleusercontent.com
+84.122.88.34.bc.googleusercontent.com
 87.74.140.34.bc.googleusercontent.com
 88.24.79.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -107,6 +109,7 @@ ip-49-70.4vendeta.com
 ip29.sudolio.io
 kub002.idyschool.de.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
