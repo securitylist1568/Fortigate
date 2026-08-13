@@ -37,6 +37,7 @@
 44.149.216.162.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
+79.150.216.162.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
@@ -68,6 +69,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rogers.probe.onyphe.net
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
