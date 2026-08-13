@@ -24,7 +24,6 @@
 221.225.26.34.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 67.149.216.162.bc.googleusercontent.com
 73.150.216.162.bc.googleusercontent.com
 84.122.88.34.bc.googleusercontent.com
@@ -62,9 +61,7 @@ ip29.sudolio.io
 kub002.idyschool.de.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-niall.probe.onyphe.net
 o063.scanner.modat.io
-o335.scanner.modat.io
 o348.scanner.modat.io
 o609.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -79,4 +76,3 @@ server.bslpackers.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-virginia.probe.onyphe.net
