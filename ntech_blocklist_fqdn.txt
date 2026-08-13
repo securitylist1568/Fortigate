@@ -71,6 +71,7 @@ recyber.net
 scan-67-1.shadowserver.io
 scan-77-02.shadowserver.io
 scan-79-09.shadowserver.io
+scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
