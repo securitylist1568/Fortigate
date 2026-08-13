@@ -23,6 +23,7 @@
 134.150.216.162.bc.googleusercontent.com
 15.210.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
+153.210.203.35.bc.googleusercontent.com
 163.77.101.34.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-130.web1.bg
 ip150.ip-51-81-37.us
+ip242.ip-51-79-111.net
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o606.scanner.modat.io
@@ -77,3 +79,4 @@ static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
+ve1315.venus.dedi.server-hosting.expert
