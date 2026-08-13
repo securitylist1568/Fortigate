@@ -45,6 +45,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler179.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-54-189-34-14.us-west-2.compute.amazonaws.com
@@ -73,5 +74,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
+to600.scanner.modat.io
 users219.vip.heteml.jp
 ve1315.venus.dedi.server-hosting.expert
