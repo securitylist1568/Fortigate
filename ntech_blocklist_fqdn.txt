@@ -27,6 +27,7 @@
 177-215-66-183.user.vivozap.com.br
 177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
+194.150.216.162.bc.googleusercontent.com
 195.149.216.162.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 205.150.216.162.bc.googleusercontent.com
