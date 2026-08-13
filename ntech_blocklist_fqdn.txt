@@ -41,7 +41,6 @@
 36.218.52.34.bc.googleusercontent.com
 56.97.62.34.bc.googleusercontent.com
 67.149.216.162.bc.googleusercontent.com
-73.150.216.162.bc.googleusercontent.com
 73.60.205.35.bc.googleusercontent.com
 76.96.175.207.bc.googleusercontent.com
 87.74.140.34.bc.googleusercontent.com
@@ -110,9 +109,6 @@ ip29.sudolio.io
 kub002.idyschool.de.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-o063.scanner.modat.io
-o348.scanner.modat.io
-o609.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -121,6 +117,7 @@ scan-04i.shadowserver.io
 scan-13l.shadowserver.io
 scan-15k.shadowserver.io
 scan-40g.shadowserver.io
+scan-41f.shadowserver.io
 scan-45o.shadowserver.io
 scan-74-07.shadowserver.io
 scan-80-9.shadowserver.io
