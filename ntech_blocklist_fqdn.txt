@@ -20,6 +20,7 @@
 172-245-25-166-host.colocrossing.com
 177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
+203-74-130-205.hinet-ip.hinet.net
 221.225.26.34.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
@@ -36,6 +37,8 @@ azpdes7t6661.stretchoid.com
 azpdsg58gbbx.stretchoid.com
 azpdsghmx647.stretchoid.com
 azpdsgo34xwr.stretchoid.com
+azpdsgqi8wxn.stretchoid.com
+azpdsgrvz4jx.stretchoid.com
 azpdsgu2vs9r.stretchoid.com
 azpdsgw3iszc.stretchoid.com
 azpdss1xwgc0.stretchoid.com
