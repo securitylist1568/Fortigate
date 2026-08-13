@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-107-174-189-2-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,10 +19,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.210.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
-153.149.216.162.bc.googleusercontent.com
-153.210.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
+166.239.145.34.bc.googleusercontent.com
 177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 195.149.216.162.bc.googleusercontent.com
@@ -32,7 +30,6 @@
 204.76.203.49.ptr.pfcloud.network
 23.209.255.172.hosted.by.hostdzire.com
 250.150.216.162.bc.googleusercontent.com
-4.155.131.34.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
@@ -46,15 +43,14 @@ client.yota.ru
 crawler179.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-54-189-34-14.us-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
 ip-58-158.4vendeta.com
-ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o602.scanner.modat.io
 o610.scanner.modat.io
@@ -75,4 +71,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
-ve1315.venus.dedi.server-hosting.expert
