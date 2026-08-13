@@ -65,6 +65,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
+rdns-scan.ip-api.dev
 recyber.net
 scan-41m.shadowserver.io
 scan-56a.shadowserver.io
