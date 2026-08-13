@@ -17,10 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+123.150.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
+163.77.101.34.bc.googleusercontent.com
 166.239.145.34.bc.googleusercontent.com
 177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
