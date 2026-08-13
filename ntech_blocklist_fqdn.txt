@@ -33,12 +33,14 @@
 177-172-67-233.user.vivozap.com.br
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+20.149.205.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 228.211.203.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 47.149.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
+71.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 76.150.216.162.bc.googleusercontent.com
 84.122.88.34.bc.googleusercontent.com
