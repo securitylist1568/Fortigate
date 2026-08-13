@@ -71,6 +71,7 @@ scan-77-02.shadowserver.io
 scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
