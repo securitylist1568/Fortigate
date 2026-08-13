@@ -60,6 +60,8 @@ azpdsgt866ai.stretchoid.com
 azpdsgu2vs9r.stretchoid.com
 azpdsgw3iszc.stretchoid.com
 azpdss1xwgc0.stretchoid.com
+azpdss33l1a5.stretchoid.com
+azpdss4lc1pe.stretchoid.com
 azpdsse1zlrx.stretchoid.com
 azpdsse6bn8p.stretchoid.com
 azpdssjnwdgv.stretchoid.com
@@ -87,6 +89,7 @@ ec2-52-91-195-196.compute-1.amazonaws.com
 ec2-52-91-210-202.compute-1.amazonaws.com
 ec2-54-172-145-28.compute-1.amazonaws.com
 ec2-54-90-247-162.compute-1.amazonaws.com
+ec2-54-91-228-244.compute-1.amazonaws.com
 ec2-98-94-81-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
