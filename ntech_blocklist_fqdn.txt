@@ -31,10 +31,7 @@
 20.149.205.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 216.21.156.34.bc.googleusercontent.com
-221.225.26.34.bc.googleusercontent.com
-222.211.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
-234.149.216.162.bc.googleusercontent.com
 237.52.140.34.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 254.164.156.34.bc.googleusercontent.com
@@ -109,7 +106,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
 ip29.sudolio.io
 kub002.idyschool.de.com
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
