@@ -62,6 +62,7 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.io
