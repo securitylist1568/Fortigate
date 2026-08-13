@@ -57,6 +57,7 @@ o606.scanner.modat.io
 o610.scanner.modat.io
 o613.scanner.modat.io
 o620.scanner.modat.io
+o628.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -67,6 +68,7 @@ scan-67-1.shadowserver.io
 scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv10611.dus4.dedicated.server-hosting.expert
 static-71-172-38-43.nwrknj.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
