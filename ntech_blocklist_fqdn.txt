@@ -20,14 +20,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 12.210.203.35.bc.googleusercontent.com
-134.150.216.162.bc.googleusercontent.com
-15.210.203.35.bc.googleusercontent.com
 153.149.216.162.bc.googleusercontent.com
 153.210.203.35.bc.googleusercontent.com
 163.77.101.34.bc.googleusercontent.com
-170.150.216.162.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
-177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 197.210.203.35.bc.googleusercontent.com
@@ -38,7 +34,6 @@
 254.164.156.34.bc.googleusercontent.com
 4.155.131.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
-43.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 47.149.216.162.bc.googleusercontent.com
@@ -46,7 +41,6 @@
 71.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 76.96.175.207.bc.googleusercontent.com
-9213038d.customer.misaka.se
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -69,7 +63,6 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 rdns-scan.ip-api.dev
 recyber.net
-scan-56a.shadowserver.io
 scan-67-1.shadowserver.io
 scan-77-02.shadowserver.io
 scan-79-09.shadowserver.io
