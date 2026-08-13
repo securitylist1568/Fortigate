@@ -24,10 +24,12 @@
 153.210.203.35.bc.googleusercontent.com
 163.77.101.34.bc.googleusercontent.com
 173.149.216.162.bc.googleusercontent.com
+177-172-67-233.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 197.210.203.35.bc.googleusercontent.com
 20.149.205.35.bc.googleusercontent.com
+203.149.216.162.bc.googleusercontent.com
 208.150.216.162.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
 237.52.140.34.bc.googleusercontent.com
@@ -37,6 +39,7 @@
 45.211.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
 47.149.216.162.bc.googleusercontent.com
+66.150.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
 71.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
@@ -52,6 +55,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-130.web1.bg
+ip-58-158.4vendeta.com
 ip150.ip-51-81-37.us
 ip242.ip-51-79-111.net
 ip29.sudolio.io
