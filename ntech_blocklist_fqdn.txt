@@ -50,6 +50,7 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler024.deepfield.net
 crawler062.deepfield.net
 d163bc79.nip.io
 dal215.hawkhost.com
@@ -84,6 +85,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rogers.probe.onyphe.net
 scan-14l.shadowserver.io
+scan-59g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
