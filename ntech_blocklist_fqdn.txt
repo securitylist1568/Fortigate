@@ -23,7 +23,6 @@
 123.149.216.162.bc.googleusercontent.com
 124.211.175.207.bc.googleusercontent.com
 127.6.187.35.bc.googleusercontent.com
-132.150.216.162.bc.googleusercontent.com
 132.182.52.34.bc.googleusercontent.com
 146.147.156.34.bc.googleusercontent.com
 146.183.156.34.bc.googleusercontent.com
@@ -33,10 +32,8 @@
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
 192.208.53.34.bc.googleusercontent.com
-194.150.216.162.bc.googleusercontent.com
 20.210.203.35.bc.googleusercontent.com
 200.253.189.35.bc.googleusercontent.com
-204.210.203.35.bc.googleusercontent.com
 207.99.76.34.bc.googleusercontent.com
 214.22.129.34.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
@@ -44,7 +41,6 @@
 38-201-94-138.wspnp.com.br
 43.173.53.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
-55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 89.211.203.35.bc.googleusercontent.com
 99.237.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -54,6 +50,7 @@ client.yota.ru
 crawler024.deepfield.net
 crawler062.deepfield.net
 d163bc79.nip.io
+d309gsug6.autoinsure-hq.com
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
@@ -78,7 +75,6 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1992-217.members.linode.com
 mail.thelove.wiki
 mfyabgec.musicpda.com
 o632.scanner.modat.io
