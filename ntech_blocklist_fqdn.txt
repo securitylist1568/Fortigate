@@ -67,6 +67,7 @@ li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 o606.scanner.modat.io
+o614.scanner.modat.io
 o628.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
