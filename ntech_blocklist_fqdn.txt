@@ -17,8 +17,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118.209.78.34.bc.googleusercontent.com
+124.211.175.207.bc.googleusercontent.com
+127.6.187.35.bc.googleusercontent.com
+132.182.52.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+146.147.156.34.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
@@ -32,11 +37,13 @@
 190.210.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 20.210.203.35.bc.googleusercontent.com
+207.99.76.34.bc.googleusercontent.com
 214.22.129.34.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 36-224-239-84.dynamic-ip.hinet.net
 38-201-94-138.wspnp.com.br
+43.173.53.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
@@ -62,6 +69,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns107289.ip-51-81-109.us
