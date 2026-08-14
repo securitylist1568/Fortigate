@@ -56,6 +56,7 @@ ip-89-36-231-62.rockhoster.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o604.scanner.modat.io
 o606.scanner.modat.io
 o614.scanner.modat.io
 o628.scanner.modat.io
