@@ -28,6 +28,7 @@
 143-42-173-60.ip.linodeusercontent.com
 146.147.156.34.bc.googleusercontent.com
 146.183.156.34.bc.googleusercontent.com
+151.150.216.162.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 172-237-155-29.ip.linodeusercontent.com
@@ -102,6 +103,7 @@ scan-14l.shadowserver.io
 scan-43h.shadowserver.io
 scan-47k.shadowserver.io
 scan-59g.shadowserver.io
+scan-61-4.shadowserver.io
 scan-77-02.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
