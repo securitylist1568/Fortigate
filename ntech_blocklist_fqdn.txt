@@ -33,6 +33,7 @@
 212.211.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
+289588.ip-ptr.tech
 2d834781.kunde.misaka.berlin
 2d96f380.kbp.customer.misaka.io
 3.150.216.162.bc.googleusercontent.com
@@ -100,6 +101,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 proxy.satellitestress.st
 recyber.net
+rootevidence.com
 scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
