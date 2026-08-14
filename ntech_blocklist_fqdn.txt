@@ -36,6 +36,7 @@
 217.69.2.169.vultrusercontent.com
 227.211.203.35.bc.googleusercontent.com
 237.100.172.144.static.cloudzy.com
+245.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 43.173.53.34.bc.googleusercontent.com
@@ -75,5 +76,6 @@ scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
