@@ -18,9 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 149.149.216.162.bc.googleusercontent.com
+170.150.216.162.bc.googleusercontent.com
 172-104-11-234.ip.linodeusercontent.com
 172-236-103-9.ip.linodeusercontent.com
 172-245-25-166-host.colocrossing.com
+177-215-66-183.user.vivozap.com.br
 177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
@@ -97,6 +99,7 @@ scan-74-07.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
+srv10611.dus4.dedicated.server-hosting.expert
 srv1756254.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
