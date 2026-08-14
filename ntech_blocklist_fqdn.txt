@@ -27,10 +27,8 @@
 132.182.52.34.bc.googleusercontent.com
 146.147.156.34.bc.googleusercontent.com
 146.183.156.34.bc.googleusercontent.com
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 166.150.216.162.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
-177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 192.208.53.34.bc.googleusercontent.com
 194.150.216.162.bc.googleusercontent.com
@@ -45,7 +43,6 @@
 43.173.53.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-79.150.216.162.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
 99.237.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -85,7 +82,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rogers.probe.onyphe.net
 scan-14l.shadowserver.io
 scan-43h.shadowserver.io
 scan-59g.shadowserver.io
