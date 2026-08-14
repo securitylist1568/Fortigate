@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+117.149.216.162.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
@@ -113,3 +114,4 @@ undefined.hostname.localhost
 users219.vip.heteml.jp
 v133-18-162-43.vir.kagoya.net
 vmi3267716.contaboserver.net
+zhangyuan3.virtuaserver.com.br
