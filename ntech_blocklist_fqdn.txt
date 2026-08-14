@@ -41,6 +41,7 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+45.149.216.162.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 62.171.156.34.bc.googleusercontent.com
@@ -67,6 +68,7 @@ ns107289.ip-51-81-109.us
 o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
