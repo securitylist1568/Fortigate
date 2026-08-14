@@ -85,6 +85,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-89-36-231-62.rockhoster.net
 ip150.ip-51-81-37.us
 ip242.ip-51-79-111.net
 ip29.sudolio.io
