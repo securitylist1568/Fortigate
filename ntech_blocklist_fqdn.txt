@@ -71,6 +71,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 ns107289.ip-51-81-109.us
@@ -85,6 +86,7 @@ scan-15i.shadowserver.io
 scan-47k.shadowserver.io
 scan-61-4.shadowserver.io
 scan-77-02.shadowserver.io
+scan-79-09.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
