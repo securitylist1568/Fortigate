@@ -41,6 +41,7 @@
 38-201-94-138.wspnp.com.br
 43.173.53.34.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+59.149.216.162.bc.googleusercontent.com
 62.171.156.34.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
 99.237.175.207.bc.googleusercontent.com
@@ -87,6 +88,7 @@ recyber.net
 rootevidence.com
 scan-14l.shadowserver.io
 scan-43h.shadowserver.io
+scan-47k.shadowserver.io
 scan-59g.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
