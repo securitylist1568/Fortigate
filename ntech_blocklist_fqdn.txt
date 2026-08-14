@@ -29,6 +29,7 @@
 146.183.156.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 166.150.216.162.bc.googleusercontent.com
+168.149.216.162.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
@@ -38,6 +39,7 @@
 200.253.189.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 207.99.76.34.bc.googleusercontent.com
+214.22.129.34.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 43.173.53.34.bc.googleusercontent.com
