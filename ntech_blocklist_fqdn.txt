@@ -26,6 +26,7 @@
 146.147.156.34.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
+194.150.216.162.bc.googleusercontent.com
 20.149.216.162.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
