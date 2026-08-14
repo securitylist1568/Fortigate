@@ -35,11 +35,13 @@
 284316.ip-ptr.tech
 2d834781.kunde.misaka.berlin
 2d96f380.kbp.customer.misaka.io
+3.150.216.162.bc.googleusercontent.com
 38-201-94-138.wspnp.com.br
 38.211.203.35.bc.googleusercontent.com
 45-143-198-130.as212027.host
 63.210.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcsycgcyf.stretchoid.com
 azpdesdfn5lp.stretchoid.com
@@ -86,7 +88,9 @@ ip-89-36-231-62.rockhoster.net
 ip150.ip-51-81-37.us
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1625-135.members.linode.com
 mfyabgec.musicpda.com
+o600.scanner.modat.io
 o603.scanner.modat.io
 o604.scanner.modat.io
 o606.scanner.modat.io
