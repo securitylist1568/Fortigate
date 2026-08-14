@@ -33,6 +33,7 @@
 204.76.203.30.ptr.pfcloud.network
 204.76.203.49.ptr.pfcloud.network
 207.99.76.34.bc.googleusercontent.com
+214.22.129.34.bc.googleusercontent.com
 217.69.2.169.vultrusercontent.com
 227.211.203.35.bc.googleusercontent.com
 237.100.172.144.static.cloudzy.com
@@ -62,7 +63,6 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
-ns107289.ip-51-81-109.us
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
