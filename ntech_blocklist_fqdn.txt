@@ -25,6 +25,7 @@
 133.149.216.162.bc.googleusercontent.com
 146.147.156.34.bc.googleusercontent.com
 172-104-11-234.ip.linodeusercontent.com
+172-245-25-166-host.colocrossing.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
@@ -39,6 +40,7 @@
 237.100.172.144.static.cloudzy.com
 245.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
+284316.ip-ptr.tech
 2d83453c.mow.customer.misaka.io
 43.173.53.34.bc.googleusercontent.com
 45-143-198-130.as212027.host
