@@ -95,9 +95,11 @@ o600.scanner.modat.io
 o603.scanner.modat.io
 o604.scanner.modat.io
 o611.scanner.modat.io
+o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+proxy.satellitestress.st
 recyber.net
 scan-58.security.ipip.net
 security.criminalip.com
