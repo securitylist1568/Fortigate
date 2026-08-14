@@ -32,6 +32,7 @@
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 20.149.216.162.bc.googleusercontent.com
@@ -40,6 +41,7 @@
 207.99.76.34.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+237.100.172.144.static.cloudzy.com
 250.149.216.162.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 43.173.53.34.bc.googleusercontent.com
@@ -75,6 +77,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-15i.shadowserver.io
 scan-47k.shadowserver.io
 scan-61-4.shadowserver.io
 scan-77-02.shadowserver.io
@@ -83,3 +86,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+www.internet-albedo.net
