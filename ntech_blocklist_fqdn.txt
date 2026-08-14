@@ -24,13 +24,16 @@
 132.182.52.34.bc.googleusercontent.com
 133.149.216.162.bc.googleusercontent.com
 146.147.156.34.bc.googleusercontent.com
+172-104-11-234.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
 20.149.216.162.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 204.76.203.30.ptr.pfcloud.network
+204.76.203.49.ptr.pfcloud.network
 207.99.76.34.bc.googleusercontent.com
+217.69.2.169.vultrusercontent.com
 227.211.203.35.bc.googleusercontent.com
 237.100.172.144.static.cloudzy.com
 250.149.216.162.bc.googleusercontent.com
@@ -65,8 +68,10 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-15i.shadowserver.io
 scan-79-09.shadowserver.io
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
