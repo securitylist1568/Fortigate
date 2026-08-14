@@ -29,8 +29,10 @@
 185-206-149-177.as212027.host
 185-45-195-15.hostsailor.com
 196.28.231.5.hostbrr.com
+212-83-176-122.rev.poneytelecom.eu
 212.211.203.35.bc.googleusercontent.com
 214.22.129.34.bc.googleusercontent.com
+230.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 284316.ip-ptr.tech
 2d834781.kunde.misaka.berlin
@@ -107,6 +109,7 @@ security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
 srv1756254.hstgr.cloud
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
 undefined.hostname.localhost
