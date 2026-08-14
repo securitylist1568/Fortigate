@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 117.149.216.162.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
+151.149.216.162.bc.googleusercontent.com
 160.150.216.162.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
@@ -85,6 +86,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-89-36-231-62.rockhoster.net
 ip150.ip-51-81-37.us
+ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
