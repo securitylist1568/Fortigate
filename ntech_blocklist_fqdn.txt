@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -30,13 +29,10 @@
 204.76.203.49.ptr.pfcloud.network
 214.22.129.34.bc.googleusercontent.com
 217.69.2.169.vultrusercontent.com
-227.211.203.35.bc.googleusercontent.com
 237.100.172.144.static.cloudzy.com
 245.150.216.162.bc.googleusercontent.com
-250.149.216.162.bc.googleusercontent.com
 284316.ip-ptr.tech
 2d83453c.mow.customer.misaka.io
-45-143-198-130.as212027.host
 45.135.193.43.ptr.pfcloud.network
 6682315a.customer.misaka.joburg
 75-127-6-2-host.colocrossing.com
@@ -76,4 +72,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
 undefined.hostname.localhost
 users219.vip.heteml.jp
+vmi3267716.contaboserver.net
 www.internet-albedo.net
