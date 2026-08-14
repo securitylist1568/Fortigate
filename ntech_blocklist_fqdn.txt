@@ -31,6 +31,8 @@
 185-45-195-15.hostsailor.com
 212-83-176-122.rev.poneytelecom.eu
 212.211.203.35.bc.googleusercontent.com
+217.69.2.169.vultrusercontent.com
+230.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 289588.ip-ptr.tech
@@ -42,6 +44,7 @@
 45-143-198-130.as212027.host
 63.210.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
+75-127-6-2-host.colocrossing.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcsycgcyf.stretchoid.com
