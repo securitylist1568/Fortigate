@@ -21,6 +21,7 @@
 172-104-11-234.ip.linodeusercontent.com
 172-245-25-166-host.colocrossing.com
 177-215-66-183.user.vivozap.com.br
+177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
 196.28.231.5.hostbrr.com
@@ -33,8 +34,11 @@
 245.150.216.162.bc.googleusercontent.com
 284316.ip-ptr.tech
 2d83453c.mow.customer.misaka.io
+2d834781.kunde.misaka.berlin
 38-201-94-138.wspnp.com.br
+45-143-198-130.as212027.host
 45.135.193.43.ptr.pfcloud.network
+63.210.203.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 75-127-6-2-host.colocrossing.com
 79.124.56.142.superbit.host
