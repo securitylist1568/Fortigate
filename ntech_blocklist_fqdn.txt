@@ -23,7 +23,6 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.77.101.34.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
-166.239.145.34.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
@@ -35,10 +34,8 @@
 45.63.4.69.vultrusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 7.211.203.35.bc.googleusercontent.com
-74.210.203.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
-87.210.203.35.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
