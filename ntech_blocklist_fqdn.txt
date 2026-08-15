@@ -24,7 +24,6 @@
 132.110.211.130.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 147.243.52.34.bc.googleusercontent.com
-151.149.216.162.bc.googleusercontent.com
 151.211.203.35.bc.googleusercontent.com
 173-255-233-109.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
@@ -86,18 +85,14 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-89-36-231-62.rockhoster.net
-ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-niall.probe.onyphe.net
 ns574789.ip-51-222-40.net
 o614.scanner.modat.io
-o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-proxy.satellitestress.st
 recyber.net
 rootevidence.com
 scan-40g.shadowserver.io
