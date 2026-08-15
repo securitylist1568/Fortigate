@@ -21,11 +21,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-122.150.216.162.bc.googleusercontent.com
 124.243.205.35.bc.googleusercontent.com
 132.110.211.130.bc.googleusercontent.com
 147.243.52.34.bc.googleusercontent.com
-151.211.203.35.bc.googleusercontent.com
 173-255-233-109.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 177.182.76.34.bc.googleusercontent.com
@@ -43,8 +41,6 @@
 228.198.62.34.bc.googleusercontent.com
 23-92-21-234.ip.linodeusercontent.com
 244.167.52.34.bc.googleusercontent.com
-28.149.216.162.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 39.149.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
 44.211.203.35.bc.googleusercontent.com
@@ -98,7 +94,6 @@ rootevidence.com
 scan-40g.shadowserver.io
 scan-45g.shadowserver.io
 scan-56f.shadowserver.io
-scan-61-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
