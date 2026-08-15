@@ -25,7 +25,6 @@
 170.210.203.35.bc.googleusercontent.com
 172-245-25-166-host.colocrossing.com
 177-215-66-183.user.vivozap.com.br
-181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.121.195.35.bc.googleusercontent.com
 196.150.216.162.bc.googleusercontent.com
