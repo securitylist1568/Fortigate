@@ -40,6 +40,7 @@
 2d96f380.kbp.customer.misaka.io
 3.150.216.162.bc.googleusercontent.com
 45-143-198-130.as212027.host
+65.150.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 aim.sba-research.org
