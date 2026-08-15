@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 1.237.77.34.bc.googleusercontent.com
-102.235.179.34.bc.googleusercontent.com
 103.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -20,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-117.149.216.162.bc.googleusercontent.com
 122.150.216.162.bc.googleusercontent.com
 124.243.205.35.bc.googleusercontent.com
 132.110.211.130.bc.googleusercontent.com
@@ -29,7 +27,6 @@
 151.149.216.162.bc.googleusercontent.com
 151.211.203.35.bc.googleusercontent.com
 160.150.216.162.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 173-255-233-109.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 177.182.76.34.bc.googleusercontent.com
@@ -57,13 +54,10 @@
 45-143-198-130.as212027.host
 65.150.216.162.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
+89.210.203.35.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdsgo34xwr.stretchoid.com
-azpdssle59pd.stretchoid.com
-azpdssu8seh3.stretchoid.com
-b1b10ded.customer.misaka.ist
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
@@ -92,7 +86,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-89-36-231-62.rockhoster.net
 ip242.ip-51-79-111.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
@@ -111,8 +104,5 @@ smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
-undefined.hostname.localhost
-user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 vmi3498072.contaboserver.net
-zhangyuan3.virtuaserver.com.br
