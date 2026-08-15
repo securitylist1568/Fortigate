@@ -33,13 +33,10 @@
 199.111.240.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
-39.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
-60.149.216.162.bc.googleusercontent.com
 79.77.26.34.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b1b10df5.customer.misaka.ist
 b2.org.afilias-nst.org
@@ -50,7 +47,6 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ielts1984.vn
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -59,12 +55,10 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-45g.shadowserver.io
 scan-52k.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-staticline-31-183-0-54.toya.net.pl
 users219.vip.heteml.jp
 www.internet-albedo.net
