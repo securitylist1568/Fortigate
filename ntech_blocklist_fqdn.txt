@@ -23,6 +23,7 @@
 143.149.216.162.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
+190.150.216.162.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
 79.211.203.35.bc.googleusercontent.com
