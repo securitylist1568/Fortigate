@@ -82,6 +82,7 @@ proxy-ca002-ext2.a.ahrefs.com
 proxy.satellitestress.st
 recyber.net
 rootevidence.com
+scan-61-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
