@@ -36,7 +36,6 @@ azpdsg1j90qs.stretchoid.com
 azpdsg3ry68v.stretchoid.com
 azpdss1xstrn.stretchoid.com
 b2.org.afilias-nst.org
-car146.careercorejourney.com
 client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
@@ -54,7 +53,6 @@ li1570-11.members.linode.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-ns107289.ip-51-81-109.us
 null-91.134.45.bcn.ifog.es
 o610.scanner.modat.io
 o620.scanner.modat.io
@@ -69,14 +67,10 @@ proxy-ca002-ext2.a.ahrefs.com
 rdns100.interdata.vn
 recyber.net
 rootevidence.com
-scan-14l.shadowserver.io
 scan-60.security.ipip.net
-scan-61-9.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.5.210.156.178.clients.your-server.de
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
-ve1315.venus.dedi.server-hosting.expert
 vmi3498075.contaboserver.net
