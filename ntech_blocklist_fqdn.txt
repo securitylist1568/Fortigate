@@ -25,13 +25,11 @@
 160.150.216.162.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
-172-236-103-9.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
-177.249.60.77-clientes-zap-izzi.mx
 185-206-149-177.as212027.host
 185-45-195-15.hostsailor.com
+209.149.216.162.bc.googleusercontent.com
 212-83-176-122.rev.poneytelecom.eu
-212.211.203.35.bc.googleusercontent.com
 214.22.129.34.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
 217.69.2.169.vultrusercontent.com
@@ -39,13 +37,8 @@
 230.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 289588.ip-ptr.tech
-2d834781.kunde.misaka.berlin
 2d96f380.kbp.customer.misaka.io
 3.150.216.162.bc.googleusercontent.com
-38-201-94-138.wspnp.com.br
-38.211.203.35.bc.googleusercontent.com
-45-143-198-130.as212027.host
-63.210.203.35.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 aim.sba-research.org
@@ -82,7 +75,6 @@ azpdssteiqpy.stretchoid.com
 azpdssu8seh3.stretchoid.com
 azpdssvyb6fc.stretchoid.com
 azpdwskkdiex.stretchoid.com
-azpdwsrmv2rv.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
@@ -92,7 +84,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-89-36-231-62.rockhoster.net
-ip150.ip-51-81-37.us
 ip242.ip-51-79-111.net
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -101,7 +92,6 @@ mfyabgec.musicpda.com
 niall.probe.onyphe.net
 o600.scanner.modat.io
 o603.scanner.modat.io
-o611.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -109,7 +99,6 @@ proxy-ca002-ext2.a.ahrefs.com
 proxy.satellitestress.st
 recyber.net
 rootevidence.com
-scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
