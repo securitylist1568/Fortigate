@@ -39,6 +39,7 @@
 289588.ip-ptr.tech
 2d96f380.kbp.customer.misaka.io
 3.150.216.162.bc.googleusercontent.com
+45-143-198-130.as212027.host
 65.210.203.35.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 aim.sba-research.org
@@ -92,6 +93,7 @@ mfyabgec.musicpda.com
 niall.probe.onyphe.net
 o600.scanner.modat.io
 o603.scanner.modat.io
+o614.scanner.modat.io
 o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -105,6 +107,7 @@ srv10611.dus4.dedicated.server-hosting.expert
 srv1756254.hstgr.cloud
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
+to600.scanner.modat.io
 undefined.hostname.localhost
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
