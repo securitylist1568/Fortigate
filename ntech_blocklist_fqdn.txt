@@ -59,6 +59,10 @@ recyber.net
 rootevidence.com
 rping.ipip.net
 scan-52k.shadowserver.io
+scan-63-2.shadowserver.io
+scan-77-06.shadowserver.io
+scan-85-0.shadowserver.io
+scan-86-7.shadowserver.io
 scan-87-7.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
