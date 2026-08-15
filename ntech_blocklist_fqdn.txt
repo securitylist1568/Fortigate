@@ -59,6 +59,7 @@ rootevidence.com
 rping.ipip.net
 scan-14l.shadowserver.io
 scan-52k.shadowserver.io
+scan-61-9.shadowserver.io
 scan-63-2.shadowserver.io
 scan-77-06.shadowserver.io
 scan-85-0.shadowserver.io
