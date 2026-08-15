@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.110.211.130.bc.googleusercontent.com
+170.210.203.35.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -27,6 +28,7 @@
 186.121.195.35.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
 193.150.216.162.bc.googleusercontent.com
+196.150.216.162.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
 199.111.240.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
