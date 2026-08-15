@@ -38,6 +38,7 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+car146.careercorejourney.com
 client.yota.ru
 customer-187-174-162-164.uninet-ide.com.mx
 dal215.hawkhost.com
@@ -48,6 +49,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+ns107289.ip-51-81-109.us
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
