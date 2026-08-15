@@ -52,6 +52,7 @@ l609.scanner.modat.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns107289.ip-51-81-109.us
+o610.scanner.modat.io
 o620.scanner.modat.io
 o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
