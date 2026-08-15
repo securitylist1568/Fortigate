@@ -36,6 +36,7 @@
 186.121.195.35.bc.googleusercontent.com
 190.174.77.34.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
+193.150.216.162.bc.googleusercontent.com
 199.111.240.35.bc.googleusercontent.com
 209.149.216.162.bc.googleusercontent.com
 212-83-176-122.rev.poneytelecom.eu
@@ -47,11 +48,13 @@
 23-92-21-234.ip.linodeusercontent.com
 230.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
+244.167.52.34.bc.googleusercontent.com
 28.149.216.162.bc.googleusercontent.com
 289588.ip-ptr.tech
 2d834681.led.customer.misaka.io
 2d96f25f.customer.misaka.taipei
 3.150.216.162.bc.googleusercontent.com
+39968751.grabercloud.com
 45-143-198-130.as212027.host
 65.150.216.162.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
@@ -99,6 +102,7 @@ proxy-ca002-ext2.a.ahrefs.com
 proxy.satellitestress.st
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-61-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
