@@ -41,6 +41,7 @@ customer-187-174-162-164.uninet-ide.com.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ep7.rbx-ovh.vime.one
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -57,6 +58,7 @@ o633.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+rdns100.interdata.vn
 recyber.net
 rootevidence.com
 rping.ipip.net
