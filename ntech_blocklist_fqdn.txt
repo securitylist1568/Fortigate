@@ -37,6 +37,7 @@
 230.211.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 289588.ip-ptr.tech
+2d834681.led.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
 3.150.216.162.bc.googleusercontent.com
 45-143-198-130.as212027.host
