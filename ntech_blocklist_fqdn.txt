@@ -19,12 +19,16 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+132.110.211.130.bc.googleusercontent.com
+177-215-66-183.user.vivozap.com.br
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.150.216.162.bc.googleusercontent.com
+186.121.195.35.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
 193.150.216.162.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
+199.111.240.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 244.167.52.34.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
@@ -59,6 +63,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.io
 scan-45g.shadowserver.io
+scan-52k.shadowserver.io
 scan-56f.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
