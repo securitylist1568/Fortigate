@@ -56,11 +56,13 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scan-52k.shadowserver.io
 scan-87-7.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+to600.scanner.modat.io
 users219.vip.heteml.jp
 www.internet-albedo.net
