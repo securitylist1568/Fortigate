@@ -54,6 +54,7 @@ mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
+o601.scanner.modat.io
 o610.scanner.modat.io
 o620.scanner.modat.io
 o622.scanner.modat.io
