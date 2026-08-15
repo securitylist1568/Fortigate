@@ -90,6 +90,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-89-36-231-62.rockhoster.net
 ip242.ip-51-79-111.net
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
@@ -104,6 +105,7 @@ proxy.satellitestress.st
 recyber.net
 rootevidence.com
 scan-40g.shadowserver.io
+scan-56f.shadowserver.io
 scan-61-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
