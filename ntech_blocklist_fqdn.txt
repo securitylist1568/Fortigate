@@ -24,6 +24,7 @@
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
+204.76.203.30.ptr.pfcloud.network
 56.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
 79.211.203.35.bc.googleusercontent.com
@@ -75,6 +76,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
+unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 ve1315.venus.dedi.server-hosting.expert
 vmi3498075.contaboserver.net
