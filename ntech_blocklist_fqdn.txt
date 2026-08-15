@@ -54,6 +54,7 @@ mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.io
@@ -64,3 +65,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 staticline-31-183-0-54.toya.net.pl
 users219.vip.heteml.jp
+www.internet-albedo.net
