@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
 132.110.211.130.bc.googleusercontent.com
+140.150.130.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 163-172-221-175.rev.poneytelecom.eu
 170.210.203.35.bc.googleusercontent.com
