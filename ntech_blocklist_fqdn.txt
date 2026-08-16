@@ -41,12 +41,14 @@
 224.150.216.162.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
 241.99.199.104.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 49-159-5-250.dynamic.elinx.com.tw
 74-50-98-193.static.hvvc.us
 79.124.56.142.superbit.host
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
+azpdcgf6ljqc.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg6fplrv.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
@@ -88,6 +90,9 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04i.shadowserver.io
+scan-15k.shadowserver.io
+scan-56a.shadowserver.io
 scan-76-02.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
