@@ -25,6 +25,7 @@
 164.101.156.34.bc.googleusercontent.com
 168.168.62.34.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
+172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 180.30.62.34.bc.googleusercontent.com
