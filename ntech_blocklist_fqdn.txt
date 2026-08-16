@@ -29,6 +29,7 @@
 172-232-32-15.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 180.30.62.34.bc.googleusercontent.com
+183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.5.187.35.bc.googleusercontent.com
 190.182.62.34.bc.googleusercontent.com
