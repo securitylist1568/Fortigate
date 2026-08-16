@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 100.210.203.35.bc.googleusercontent.com
-102.52.140.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -27,7 +26,6 @@
 168.168.62.34.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 180.30.62.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
@@ -41,13 +39,10 @@
 209.84.233.35.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
-236.149.216.162.bc.googleusercontent.com
 241.99.199.104.bc.googleusercontent.com
-38.150.216.162.bc.googleusercontent.com
 49-159-5-250.dynamic.elinx.com.tw
 74-50-98-193.static.hvvc.us
 79.124.56.142.superbit.host
-88.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -55,14 +50,12 @@ client.yota.ru
 d163bc79.nip.io
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-34-229-148-30.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
-mail.quickstartseo.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns574789.ip-51-222-40.net
