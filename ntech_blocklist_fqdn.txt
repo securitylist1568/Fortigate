@@ -21,6 +21,7 @@
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.167.233.17.vultrusercontent.com
+35.150.216.162.bc.googleusercontent.com
 68c8d91a-c338-4521-9b61-da0c183bd5c1.pl-waw-2.baremetal.scw.cloud
 69-164-208-220.ip.linodeusercontent.com
 70.149.216.162.bc.googleusercontent.com
