@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+177-215-66-183.user.vivozap.com.br
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.167.233.17.vultrusercontent.com
@@ -66,4 +67,5 @@ srv62133.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
+v2202605357823458945.luckysrv.de
 vmi3498075.contaboserver.net
