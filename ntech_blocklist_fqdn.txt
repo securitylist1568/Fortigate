@@ -20,11 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 118.149.216.162.bc.googleusercontent.com
 121.2.205.35.bc.googleusercontent.com
-142.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
-168.168.62.34.bc.googleusercontent.com
-172-232-121-108.ip.linodeusercontent.com
 180.30.62.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -33,7 +30,6 @@
 197.160.175.207.bc.googleusercontent.com
 20.78.77.34.bc.googleusercontent.com
 204.76.203.228.ptr.pfcloud.network
-204.76.203.30.ptr.pfcloud.network
 209.84.233.35.bc.googleusercontent.com
 222.45.77.34.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
@@ -96,8 +92,6 @@ recyber.net
 scan-04i.shadowserver.io
 scan-15k.shadowserver.io
 scan-56a.shadowserver.io
-scan-76-02.shadowserver.io
-scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
