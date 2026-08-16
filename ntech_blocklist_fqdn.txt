@@ -20,7 +20,6 @@
 177-215-66-183.user.vivozap.com.br
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.228.ptr.pfcloud.network
 2d0b6ab5.ams.customer.misaka.io
 70.149.216.162.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
@@ -31,10 +30,8 @@ azpdcgf6ljqc.stretchoid.com
 azpdes63bdu5.stretchoid.com
 azpdesxe24x7.stretchoid.com
 azpdsg0jbem4.stretchoid.com
-azpdsg6fplrv.stretchoid.com
 azpdsg7aw2ot.stretchoid.com
 azpdsga05mgt.stretchoid.com
-azpdsgbfmbi3.stretchoid.com
 azpdsgens699.stretchoid.com
 azpdsghq7jpi.stretchoid.com
 azpdsgimpili.stretchoid.com
@@ -45,20 +42,13 @@ azpdsgqi8wxn.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
 azpdsgw3iszc.stretchoid.com
 azpdsgxl6zu7.stretchoid.com
-azpdss9nwu1g.stretchoid.com
 azpdssaj95k7.stretchoid.com
-azpdssbshtjx.stretchoid.com
 azpdssjnwdgv.stretchoid.com
-azpdssk480wi.stretchoid.com
 azpdsslt2dou.stretchoid.com
-azpdssswzf3x.stretchoid.com
-azpdssteiqpy.stretchoid.com
 azpdssu8seh3.stretchoid.com
 azpdsswwm226.stretchoid.com
-azpdssxq24h7.stretchoid.com
 azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
-b9ead587.zrh.customer.misaka.io
 blackburn.probe.onyphe.net
 client.yota.ru
 crawler038.deepfield.net
@@ -96,4 +86,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
-vmar.ink
