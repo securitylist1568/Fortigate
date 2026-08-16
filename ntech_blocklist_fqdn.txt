@@ -21,6 +21,7 @@
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 2d0b6ab5.ams.customer.misaka.io
+68c8d91a-c338-4521-9b61-da0c183bd5c1.pl-waw-2.baremetal.scw.cloud
 70.149.216.162.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
