@@ -73,6 +73,7 @@ ip217-160-3-46.pbiaas.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
+o617.scanner.modat.io
 o619.scanner.modat.io
 o625.scanner.modat.io
 o626.scanner.modat.io
@@ -81,6 +82,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04i.shadowserver.io
+scan-06g.shadowserver.io
 scan-15k.shadowserver.io
 scan-56a.shadowserver.io
 scan-85-3.shadowserver.io
