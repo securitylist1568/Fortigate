@@ -22,6 +22,7 @@
 185-45-195-15.hostsailor.com
 204.76.203.228.ptr.pfcloud.network
 2d0b6ab5.ams.customer.misaka.io
+70.149.216.162.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -58,6 +59,7 @@ azpdssxq24h7.stretchoid.com
 azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
+blackburn.probe.onyphe.net
 client.yota.ru
 crawler038.deepfield.net
 dal215.hawkhost.com
