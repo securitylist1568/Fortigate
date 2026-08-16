@@ -22,6 +22,7 @@
 121.2.205.35.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
+177-215-66-183.user.vivozap.com.br
 180.30.62.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
