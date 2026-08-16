@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-100.210.203.35.bc.googleusercontent.com
 102.52.140.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -22,11 +21,9 @@
 118.149.216.162.bc.googleusercontent.com
 121.2.205.35.bc.googleusercontent.com
 142.149.216.162.bc.googleusercontent.com
-143.149.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 168.168.62.34.bc.googleusercontent.com
-168.210.203.35.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 177-215-66-183.user.vivozap.com.br
 180.30.62.34.bc.googleusercontent.com
@@ -36,6 +33,7 @@
 190.182.62.34.bc.googleusercontent.com
 197.160.175.207.bc.googleusercontent.com
 20.78.77.34.bc.googleusercontent.com
+204.76.203.228.ptr.pfcloud.network
 204.76.203.30.ptr.pfcloud.network
 205.150.216.162.bc.googleusercontent.com
 209.84.233.35.bc.googleusercontent.com
@@ -70,12 +68,11 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-76-02.shadowserver.io
-scan-85-3.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv01.t2hco.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vmar.ink
 vmi3498072.contaboserver.net
 www.internet-albedo.net
