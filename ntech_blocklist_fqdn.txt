@@ -25,7 +25,6 @@
 168-113-158-51.instances.scw.cloud
 168.168.62.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
-177-215-66-183.user.vivozap.com.br
 180.30.62.34.bc.googleusercontent.com
 183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -35,7 +34,6 @@
 20.78.77.34.bc.googleusercontent.com
 204.76.203.228.ptr.pfcloud.network
 204.76.203.30.ptr.pfcloud.network
-205.150.216.162.bc.googleusercontent.com
 209.84.233.35.bc.googleusercontent.com
 222.45.77.34.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
@@ -45,6 +43,7 @@
 49-159-5-250.dynamic.elinx.com.tw
 74-50-98-193.static.hvvc.us
 79.124.56.142.superbit.host
+aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
@@ -68,6 +67,7 @@ azpdssswzf3x.stretchoid.com
 azpdssteiqpy.stretchoid.com
 azpdsswwm226.stretchoid.com
 azpdssxq24h7.stretchoid.com
+azpdssyzibct.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
@@ -80,12 +80,9 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-198.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns574789.ip-51-222-40.net
 o625.scanner.modat.io
-o634.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
@@ -101,4 +98,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmar.ink
-www.internet-albedo.net
