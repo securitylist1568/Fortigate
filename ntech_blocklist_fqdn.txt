@@ -31,7 +31,6 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
-204.76.203.30.ptr.pfcloud.network
 23-92-27-179.ip.linodeusercontent.com
 242.63.77.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -42,7 +41,6 @@
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 74-50-98-193.static.hvvc.us
 aa27e38f.sea.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 azpdsg52g7h9.stretchoid.com
 azpdsgor4bdz.stretchoid.com
