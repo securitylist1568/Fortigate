@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.61.101.34.bc.googleusercontent.com
 120.44.175.207.bc.googleusercontent.com
+127.220.97.34.bc.googleusercontent.com
 137.121.78.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -54,6 +55,7 @@ azpdssya3d1q.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 azpdws6b5q5j.stretchoid.com
 b2.org.afilias-nst.org
+b9d155e9.mow.customer.misaka.io
 babylon.scan.bufferover.run
 client.yota.ru
 d163bc79.nip.io
