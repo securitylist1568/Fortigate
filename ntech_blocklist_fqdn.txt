@@ -24,10 +24,12 @@
 163-172-221-175.rev.poneytelecom.eu
 167.253.22.34.bc.googleusercontent.com
 168.168.62.34.bc.googleusercontent.com
+177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 210.211.203.35.bc.googleusercontent.com
 217.192.53.34.bc.googleusercontent.com
 219.149.216.162.bc.googleusercontent.com
+240.131.34.34.bc.googleusercontent.com
 242.63.77.34.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 68.154.195.35.bc.googleusercontent.com
@@ -71,6 +73,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns107289.ip-51-81-109.us
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
