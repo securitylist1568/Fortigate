@@ -56,6 +56,7 @@ o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r297-pr-guacu.ibys.com.br
 recyber.net
 scan-13n.shadowserver.io
 scan-53j.shadowserver.io
