@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 240.131.34.34.bc.googleusercontent.com
+242.63.77.34.bc.googleusercontent.com
 58.198.74.222.broad.xm.nm.dynamic.163data.com.cn
 69-164-219-60.ip.linodeusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -53,6 +54,7 @@ o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
