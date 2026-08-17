@@ -32,6 +32,7 @@
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
@@ -75,6 +76,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-53j.shadowserver.io
 scan-63-2.shadowserver.io
 scan-67-1.shadowserver.io
 scan-76-02.shadowserver.io
