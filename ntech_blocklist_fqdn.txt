@@ -36,7 +36,6 @@
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 77.211.203.35.bc.googleusercontent.com
 78.204.175.207.bc.googleusercontent.com
-87.149.216.162.bc.googleusercontent.com
 93.61.156.34.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
@@ -70,6 +69,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 mail.quickstartseo.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -82,12 +82,8 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-s4850.vps.hosting
 scan-04f.shadowserver.io
 scan-43b.shadowserver.io
-scan-43h.shadowserver.io
-scan-74-02.shadowserver.io
-scan-80-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
