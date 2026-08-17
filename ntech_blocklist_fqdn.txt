@@ -22,7 +22,6 @@
 163-172-221-175.rev.poneytelecom.eu
 167.253.22.34.bc.googleusercontent.com
 168.168.62.34.bc.googleusercontent.com
-177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 210.211.203.35.bc.googleusercontent.com
 217.192.53.34.bc.googleusercontent.com
@@ -32,6 +31,7 @@
 68.154.195.35.bc.googleusercontent.com
 77.211.203.35.bc.googleusercontent.com
 87.149.216.162.bc.googleusercontent.com
+93.61.156.34.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -81,7 +81,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-v2202605357823458945.luckysrv.de
 vmi3267716.contaboserver.net
-vmi3498075.contaboserver.net
 vps-d39ebf2b.vps.ovh.ca
