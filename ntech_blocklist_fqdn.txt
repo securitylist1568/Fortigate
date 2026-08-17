@@ -44,7 +44,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r4004.sin.opendns.com
 recyber.net
+s4850.vps.hosting
+scan-43h.shadowserver.io
 scan-45g.shadowserver.io
+scan-74-02.shadowserver.io
 scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
