@@ -47,11 +47,13 @@ li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o604.scanner.modat.io
+o612.scanner.modat.io
 o619.scanner.modat.io
 o621.scanner.modat.io
 o625.scanner.modat.io
 o630.scanner.modat.io
 o631.scanner.modat.io
+o632.scanner.modat.io
 o637.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
