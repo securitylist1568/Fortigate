@@ -40,6 +40,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
+rootevidence.com
 scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 scanner5.labs.rapid7.com
