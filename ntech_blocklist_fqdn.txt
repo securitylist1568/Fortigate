@@ -63,6 +63,7 @@ client.yota.ru
 d163bc79.nip.io
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fixed-148-230-212-87.totalplay.net
 hn.kd.ny.adsl
@@ -71,6 +72,8 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+o621.scanner.modat.io
+o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
