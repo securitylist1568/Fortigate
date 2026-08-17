@@ -27,12 +27,10 @@
 35.150.216.162.bc.googleusercontent.com
 68c8d91a-c338-4521-9b61-da0c183bd5c1.pl-waw-2.baremetal.scw.cloud
 69-164-208-220.ip.linodeusercontent.com
-70.149.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-blackburn.probe.onyphe.net
 client.yota.ru
 condor2387.startdedicated.com
 dal215.hawkhost.com
@@ -44,7 +42,6 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
