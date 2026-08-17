@@ -54,10 +54,13 @@ festa04.jcatransporte.com.br
 fixed-148-230-212-87.totalplay.net
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-74.4vendeta.com
 ip29.sudolio.io
 li1537-121.members.linode.com
+li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+o604.scanner.modat.io
 o621.scanner.modat.io
 o625.scanner.modat.io
 o630.scanner.modat.io
