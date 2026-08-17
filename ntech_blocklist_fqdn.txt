@@ -80,6 +80,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13n.shadowserver.io
 scan-53j.shadowserver.io
 scan-56.security.ipip.net
 scan-63-2.shadowserver.io
