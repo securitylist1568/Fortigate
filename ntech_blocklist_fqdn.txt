@@ -21,6 +21,7 @@
 112.61.101.34.bc.googleusercontent.com
 120.44.175.207.bc.googleusercontent.com
 121.2.205.35.bc.googleusercontent.com
+137.121.78.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 150.253.52.34.bc.googleusercontent.com
@@ -44,6 +45,7 @@
 46-21-153-58.static.hvvc.us
 69-164-219-60.ip.linodeusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
+74-50-98-193.static.hvvc.us
 78.204.175.207.bc.googleusercontent.com
 93.61.156.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -60,6 +62,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1972-67.members.linode.com
 mail.quickstartseo.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
