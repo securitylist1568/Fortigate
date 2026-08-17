@@ -18,6 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+112.61.101.34.bc.googleusercontent.com
+120.44.175.207.bc.googleusercontent.com
 121.2.205.35.bc.googleusercontent.com
 150.253.52.34.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
