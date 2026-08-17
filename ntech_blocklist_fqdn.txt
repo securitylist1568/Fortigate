@@ -33,6 +33,7 @@
 192-155-81-124.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 242.63.77.34.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
@@ -46,6 +47,7 @@ azpdsg52g7h9.stretchoid.com
 azpdsgor4bdz.stretchoid.com
 azpdssya3d1q.stretchoid.com
 azpdssyvxjv4.stretchoid.com
+azpdws6b5q5j.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -72,6 +74,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04f.shadowserver.io
+scan-63-2.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
