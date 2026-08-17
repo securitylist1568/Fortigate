@@ -57,6 +57,7 @@ ec2-44-204-37-191.compute-1.amazonaws.com
 ec2-50-16-43-171.compute-1.amazonaws.com
 ec2-52-5-223-188.compute-1.amazonaws.com
 ec2-54-173-150-134.compute-1.amazonaws.com
+ec2-54-189-34-14.us-west-2.compute.amazonaws.com
 ec2-54-208-198-178.compute-1.amazonaws.com
 ec2-54-235-238-14.compute-1.amazonaws.com
 ec2-54-242-243-244.compute-1.amazonaws.com
@@ -76,6 +77,7 @@ o608.scanner.modat.io
 o616.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
