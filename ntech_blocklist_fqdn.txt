@@ -68,7 +68,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip150.ip-51-81-37.us
 ip29.sudolio.io
-li1570-11.members.linode.com
+mail.quickstartseo.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns107289.ip-51-81-109.us
@@ -83,9 +83,7 @@ s4850.vps.hosting
 scan-04f.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
-scan-45g.shadowserver.io
 scan-74-02.shadowserver.io
-scan-75-05.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
