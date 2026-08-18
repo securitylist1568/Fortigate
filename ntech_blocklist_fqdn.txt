@@ -25,7 +25,6 @@
 45-79-184-124.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 45-79-184-204.ip.linodeusercontent.com
-46-21-153-58.static.hvvc.us
 59-125-138-145.hinet-ip.hinet.net
 59-126-121-236.hinet-ip.hinet.net
 aim.sba-research.org
@@ -38,8 +37,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-158.4vendeta.com
-ip-58-254.4vendeta.com
 ip-58-74.4vendeta.com
 ip-de-5.180.252.158.rivehost.com
 ip29.sudolio.io
