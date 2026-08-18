@@ -63,14 +63,10 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip217-154-152-20.pbiaas.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-li1570-11.members.linode.com
-lisbon.portugal.com
 mfyabgec.musicpda.com
 ns107289.ip-51-81-109.us
-ns574789.ip-51-222-40.net
 ntc.167.179.28.142.neocomisp.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
