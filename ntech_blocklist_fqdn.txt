@@ -22,7 +22,6 @@
 159.178.22.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-204.76.203.49.ptr.pfcloud.network
 211.109.76.34.bc.googleusercontent.com
 220-136-161-33.dynamic-ip.hinet.net
 36-229-131-248.dynamic-ip.hinet.net
