@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.61.101.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-122-95.ip.linodeusercontent.com
 204.76.203.49.ptr.pfcloud.network
 220-136-161-33.dynamic-ip.hinet.net
 66-232-120-166.static.hvvc.us
@@ -37,18 +38,12 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
-o612.scanner.modat.io
 o619.scanner.modat.io
-o632.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r297-pr-guacu.ibys.com.br
 recyber.net
 rootevidence.com
-scanner3.labs.rapid7.com
-scanner4.labs.rapid7.com
-scanner5.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
