@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 1.115.187.35.bc.googleusercontent.com
-107.36.175.207.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,11 +22,9 @@
 127.220.97.34.bc.googleusercontent.com
 159.178.22.34.bc.googleusercontent.com
 163.189.175.207.bc.googleusercontent.com
-177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
-220-136-161-33.dynamic-ip.hinet.net
 56.47.78.34.bc.googleusercontent.com
 61-63-30-host1.kbtelecom.net.tw
 61-63-30-host15.kbtelecom.net.tw
@@ -47,14 +44,12 @@ azpdsgimpili.stretchoid.com
 azpdsglq54br.stretchoid.com
 azpdsgocdz87.stretchoid.com
 azpdsgqi8wxn.stretchoid.com
-azpdsgs49ai2.stretchoid.com
 azpdsgw3iszc.stretchoid.com
 azpdss0yrzr0.stretchoid.com
 azpdss2sy749.stretchoid.com
 azpdss4lc1pe.stretchoid.com
 azpdss5q5gjp.stretchoid.com
 azpdss9nwu1g.stretchoid.com
-azpdssbshtjx.stretchoid.com
 azpdssee30ij.stretchoid.com
 azpdsskf5buy.stretchoid.com
 azpdssvyb6fc.stretchoid.com
@@ -68,8 +63,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
-ns107289.ip-51-81-109.us
 ntc.167.179.28.142.neocomisp.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -78,7 +73,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60-12.shadowserver.io
 scan-86-0.shadowserver.io
-scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv01.t2hco.com
