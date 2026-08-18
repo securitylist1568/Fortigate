@@ -21,6 +21,7 @@
 125.50.195.35.bc.googleusercontent.com
 127.220.97.34.bc.googleusercontent.com
 159.178.22.34.bc.googleusercontent.com
+163.189.175.207.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 187.180.62.34.bc.googleusercontent.com
@@ -81,6 +82,7 @@ scan-89-5.shadowserver.io
 security.criminalip.com
 server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
+srv01.t2hco.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 www.internet-albedo.net
