@@ -28,6 +28,8 @@
 195.217.242.35.bc.googleusercontent.com
 220-136-161-33.dynamic-ip.hinet.net
 56.47.78.34.bc.googleusercontent.com
+61-63-30-host1.kbtelecom.net.tw
+61-63-30-host15.kbtelecom.net.tw
 86.220.22.34.bc.googleusercontent.com
 97.20.140.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -47,6 +49,7 @@ azpdsgs49ai2.stretchoid.com
 azpdsgw3iszc.stretchoid.com
 azpdss0yrzr0.stretchoid.com
 azpdss2sy749.stretchoid.com
+azpdss4lc1pe.stretchoid.com
 azpdss5q5gjp.stretchoid.com
 azpdss9nwu1g.stretchoid.com
 azpdssbshtjx.stretchoid.com
