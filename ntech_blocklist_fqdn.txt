@@ -73,10 +73,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-15k.shadowserver.io
+scan-43h.shadowserver.io
 scan-85-3.shadowserver.io
 scan-86-7.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
+server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
