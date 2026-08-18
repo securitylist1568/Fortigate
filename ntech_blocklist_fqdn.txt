@@ -42,6 +42,7 @@ ip-58-74.4vendeta.com
 ip-de-5.180.252.158.rivehost.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+measurements.de-cix.net
 mfyabgec.musicpda.com
 o605.scanner.modat.io
 o606.scanner.modat.io
