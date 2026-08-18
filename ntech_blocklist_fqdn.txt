@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 1.115.187.35.bc.googleusercontent.com
+107.36.175.207.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -24,7 +25,6 @@
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 187.180.62.34.bc.googleusercontent.com
-194-195-122-95.ip.linodeusercontent.com
 195.217.242.35.bc.googleusercontent.com
 211.109.76.34.bc.googleusercontent.com
 220-136-161-33.dynamic-ip.hinet.net
@@ -36,7 +36,10 @@
 9213038d.customer.misaka.se
 aim.sba-research.org
 amz.unixwiz.net
+azpdesrind7l.stretchoid.com
+azpdsgqi8wxn.stretchoid.com
 azpdsgs49ai2.stretchoid.com
+azpdssbshtjx.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -64,7 +67,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip217-154-152-20.pbiaas.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 ns107289.ip-51-81-109.us
@@ -73,14 +75,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-15k.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
-scan-85-3.shadowserver.io
 scan-86-7.shadowserver.io
-scan-87-7.shadowserver.io
 scan-89-5.shadowserver.io
-security.criminalip.com
 server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
