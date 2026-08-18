@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-1.115.187.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-163.189.175.207.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
@@ -39,10 +37,8 @@ ip-58-158.4vendeta.com
 ip-58-254.4vendeta.com
 ip-58-74.4vendeta.com
 ip29.sudolio.io
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-ntc.167.179.28.142.neocomisp.com
 o606.scanner.modat.io
 o608.scanner.modat.io
 o610.scanner.modat.io
@@ -59,7 +55,6 @@ scan-79-08.shadowserver.io
 scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv01.t2hco.com
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
 unn-169-150-252-179.datapacket.com
