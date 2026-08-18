@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-1.115.187.35.bc.googleusercontent.com
 107.36.175.207.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -22,7 +21,6 @@
 125.50.195.35.bc.googleusercontent.com
 127.220.97.34.bc.googleusercontent.com
 159.178.22.34.bc.googleusercontent.com
-163.189.175.207.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 187.180.62.34.bc.googleusercontent.com
@@ -80,6 +78,7 @@ scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-86-7.shadowserver.io
 scan-89-5.shadowserver.io
+security.criminalip.com
 server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
