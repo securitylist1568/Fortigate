@@ -26,7 +26,6 @@
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 187.180.62.34.bc.googleusercontent.com
-195.217.242.35.bc.googleusercontent.com
 220-136-161-33.dynamic-ip.hinet.net
 56.47.78.34.bc.googleusercontent.com
 61-63-30-host1.kbtelecom.net.tw
@@ -80,7 +79,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
-scan-86-7.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
 server-65-9-180-33.tpe53.r.cloudfront.net
@@ -88,5 +86,4 @@ smtp1.telemach.net
 srv01.t2hco.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
 xr-bl9s1.zetservers.com
