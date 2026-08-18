@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
+220-136-161-33.dynamic-ip.hinet.net
 66-232-120-166.static.hvvc.us
 aim.sba-research.org
 amz.unixwiz.net
@@ -34,7 +35,9 @@ ip139.ip-51-81-99.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o603.scanner.modat.io
 o612.scanner.modat.io
+o619.scanner.modat.io
 o632.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
