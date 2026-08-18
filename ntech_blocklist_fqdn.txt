@@ -18,10 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.61.101.34.bc.googleusercontent.com
+125.50.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 204.76.203.49.ptr.pfcloud.network
 220-136-161-33.dynamic-ip.hinet.net
+54.13.62.34.bc.googleusercontent.com
 66-232-120-166.static.hvvc.us
 amz.unixwiz.net
 b2.org.afilias-nst.org
