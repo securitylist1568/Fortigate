@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-112.61.101.34.bc.googleusercontent.com
 125.50.195.35.bc.googleusercontent.com
 159.178.22.34.bc.googleusercontent.com
 163.189.175.207.bc.googleusercontent.com
@@ -27,7 +26,6 @@
 194-195-122-95.ip.linodeusercontent.com
 195.217.242.35.bc.googleusercontent.com
 211.109.76.34.bc.googleusercontent.com
-220-136-161-33.dynamic-ip.hinet.net
 36-229-131-248.dynamic-ip.hinet.net
 54.13.62.34.bc.googleusercontent.com
 56.47.78.34.bc.googleusercontent.com
@@ -66,8 +64,7 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
-o603.scanner.modat.io
-o619.scanner.modat.io
+ns574789.ip-51-222-40.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
