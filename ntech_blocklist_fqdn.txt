@@ -21,6 +21,7 @@
 125.50.195.35.bc.googleusercontent.com
 159.178.22.34.bc.googleusercontent.com
 163.189.175.207.bc.googleusercontent.com
+177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
@@ -48,6 +49,8 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ntc.167.179.28.142.neocomisp.com
+o610.scanner.modat.io
+o625.scanner.modat.io
 o635.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
