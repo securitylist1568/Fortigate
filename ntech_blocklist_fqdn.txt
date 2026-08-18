@@ -62,6 +62,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
+lisbon.portugal.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
 o619.scanner.modat.io
