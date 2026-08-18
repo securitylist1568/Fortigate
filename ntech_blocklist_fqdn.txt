@@ -21,6 +21,8 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.30.ptr.pfcloud.network
+204.76.203.49.ptr.pfcloud.network
+45-79-184-204.ip.linodeusercontent.com
 46-21-153-58.static.hvvc.us
 74-50-98-193.static.hvvc.us
 aim.sba-research.org
@@ -53,6 +55,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-60-12.shadowserver.io
 scan-77-02.shadowserver.io
 scan-79-08.shadowserver.io
