@@ -25,6 +25,7 @@
 163.189.175.207.bc.googleusercontent.com
 177-215-66-183.user.vivozap.com.br
 185-45-195-15.hostsailor.com
+204.76.203.30.ptr.pfcloud.network
 220-136-161-33.dynamic-ip.hinet.net
 56.47.78.34.bc.googleusercontent.com
 61-63-30-host1.kbtelecom.net.tw
