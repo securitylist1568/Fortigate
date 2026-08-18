@@ -60,9 +60,7 @@ ec2-54-90-247-162.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip139.ip-51-81-99.us
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o603.scanner.modat.io
@@ -71,7 +69,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-15k.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
