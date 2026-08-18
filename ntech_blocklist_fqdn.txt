@@ -85,5 +85,6 @@ server-65-9-180-33.tpe53.r.cloudfront.net
 smtp1.telemach.net
 srv01.t2hco.com
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 users219.vip.heteml.jp
 xr-bl9s1.zetservers.com
