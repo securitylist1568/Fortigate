@@ -45,6 +45,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
