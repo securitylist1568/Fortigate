@@ -56,10 +56,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-60-12.shadowserver.io
 scan-77-02.shadowserver.io
 scan-79-08.shadowserver.io
-scan-86-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
@@ -68,5 +66,4 @@ unn-143-244-40-206.datapacket.com
 unn-169-150-252-179.datapacket.com
 unn-89-222-108-203.datapacket.com
 users219.vip.heteml.jp
-vmi3498073.contaboserver.net
 xr-bl9s1.zetservers.com
