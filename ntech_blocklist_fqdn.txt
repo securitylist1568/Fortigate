@@ -26,6 +26,7 @@
 197.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
+43.150.216.162.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 86.107.172.144.static.cloudzy.com
 89.29.228.35.bc.googleusercontent.com
