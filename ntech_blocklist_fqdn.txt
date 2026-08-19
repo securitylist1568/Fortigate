@@ -81,6 +81,7 @@ rootevidence.com
 scan-04i.shadowserver.io
 scan-43h.shadowserver.io
 scan-47k.shadowserver.io
+scan-69-00.shadowserver.io
 scan-71-09.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
