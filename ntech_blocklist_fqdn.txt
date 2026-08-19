@@ -23,6 +23,7 @@
 2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
 86.107.172.144.static.cloudzy.com
+9.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -38,6 +39,7 @@ ip-58-102.4vendeta.com
 ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
 ip29.sudolio.io
+l607.scanner.modat.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
