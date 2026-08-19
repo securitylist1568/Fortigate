@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 124.219.62.34.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
-144.92.74.97.host.secureserver.net
 15.227.78.34.bc.googleusercontent.com
 152.58.175.207.bc.googleusercontent.com
 155.68.243.35.bc.googleusercontent.com
@@ -39,6 +38,7 @@
 60-249-14-121.hinet-ip.hinet.net
 81.117.156.34.bc.googleusercontent.com
 83.208.52.34.bc.googleusercontent.com
+92c4e0e514.research-scanner.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdsgrmaulj.stretchoid.com
@@ -65,12 +65,12 @@ hig162.higherincomenetwork.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
-ip-166-69.103.117-naratel.net.id
 ip-de-5.180.252.158.rivehost.com
 ip106.ip-5-135-10.eu
 ip139.ip-51-81-99.us
 ip29.sudolio.io
 li1570-11.members.linode.com
+measurements.de-cix.net
 mfyabgec.musicpda.com
 o340.scanner.modat.io
 pc112.cses.ilc.edu.tw
