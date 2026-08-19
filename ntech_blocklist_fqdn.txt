@@ -20,10 +20,12 @@
 152.58.175.207.bc.googleusercontent.com
 155.68.243.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+204.76.203.30.ptr.pfcloud.network
 213-134-31-252.poland.vps.ac
 220-136-161-33.dynamic-ip.hinet.net
 220.234.62.34.bc.googleusercontent.com
 255.131.88.34.bc.googleusercontent.com
+50-116-57-254.ip.linodeusercontent.com
 50.120.78.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 60-249-14-121.hinet-ip.hinet.net
