@@ -21,6 +21,7 @@
 152.58.175.207.bc.googleusercontent.com
 155.68.243.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192-3-154-58-host.colocrossing.com
 204.76.203.30.ptr.pfcloud.network
 213-134-31-252.poland.vps.ac
 220-136-161-33.dynamic-ip.hinet.net
