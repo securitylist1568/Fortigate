@@ -21,10 +21,8 @@
 14.171.broad.ha.dynamic.163data.com.cn
 15.227.78.34.bc.googleusercontent.com
 152.58.175.207.bc.googleusercontent.com
-155.68.243.35.bc.googleusercontent.com
 162.201.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.91.ptr.pfcloud.network
 220.234.62.34.bc.googleusercontent.com
 235.3.14.34.bc.googleusercontent.com
 241.231.195.35.bc.googleusercontent.com
