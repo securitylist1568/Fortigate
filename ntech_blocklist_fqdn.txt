@@ -27,6 +27,7 @@
 255.131.88.34.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
+50.120.78.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 60-249-14-121.hinet-ip.hinet.net
 75-127-6-2-host.colocrossing.com
@@ -65,6 +66,7 @@ rootevidence.com
 scan-04i.shadowserver.io
 scan-43h.shadowserver.io
 scan-47k.shadowserver.io
+scan-61-4.shadowserver.io
 scan-69-00.shadowserver.io
 scan-71-09.shadowserver.io
 smtp1.telemach.net
