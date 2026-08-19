@@ -35,6 +35,7 @@
 50.120.78.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 60-249-14-121.hinet-ip.hinet.net
+75-127-6-2-host.colocrossing.com
 81.117.156.34.bc.googleusercontent.com
 83.208.52.34.bc.googleusercontent.com
 92c4e0e514.research-scanner.com
