@@ -29,7 +29,6 @@
 235.3.14.34.bc.googleusercontent.com
 241.231.195.35.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
-49.204.128.101.actcorp.in
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 50-114-113-128.ips.acedatacenter.com
 50.120.78.34.bc.googleusercontent.com
@@ -43,8 +42,6 @@ aim.sba-research.org
 amz.unixwiz.net
 azpdsg58gbbx.stretchoid.com
 azpdsge43nsk.stretchoid.com
-azpdsgrmaulj.stretchoid.com
-azpdssfs3wsw.stretchoid.com
 azpdsshab2op.stretchoid.com
 azpdssk480wi.stretchoid.com
 azpdsssyxvsv.stretchoid.com
@@ -66,7 +63,6 @@ ec2-54-196-150-166.compute-1.amazonaws.com
 ec2-54-234-67-238.compute-1.amazonaws.com
 ec2-54-89-101-241.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-hig162.higherincomenetwork.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-de-5.180.252.158.rivehost.com
@@ -80,18 +76,14 @@ o340.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-radamelfalcao.xyz
 recyber.net
 rootevidence.com
-scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-47k.shadowserver.io
 scan-71-09.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-www.internet-albedo.net
