@@ -36,6 +36,7 @@
 50-114-113-128.ips.acedatacenter.com
 50.120.78.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+60-249-14-121.hinet-ip.hinet.net
 81.117.156.34.bc.googleusercontent.com
 83.208.52.34.bc.googleusercontent.com
 aim.sba-research.org
