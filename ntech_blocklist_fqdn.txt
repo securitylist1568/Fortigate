@@ -40,6 +40,8 @@ ip-58-102.4vendeta.com
 ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
+li1625-135.members.linode.com
 m24270.contaboserver.net
 measurements.de-cix.net
 mfyabgec.musicpda.com
