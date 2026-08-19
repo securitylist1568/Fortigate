@@ -61,6 +61,7 @@ scan-47k.shadowserver.io
 scan-61-4.shadowserver.io
 scan-69-00.shadowserver.io
 scan-74-07.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 thornton.thespontaneity.org.uk
