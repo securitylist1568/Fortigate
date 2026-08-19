@@ -18,8 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
+15.227.78.34.bc.googleusercontent.com
 152.58.175.207.bc.googleusercontent.com
 155.68.243.35.bc.googleusercontent.com
+162.201.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.91.ptr.pfcloud.network
 220-136-161-33.dynamic-ip.hinet.net
@@ -42,8 +44,16 @@ client.yota.ru
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
+ec2-107-22-152-216.compute-1.amazonaws.com
+ec2-3-85-30-112.compute-1.amazonaws.com
+ec2-3-89-113-104.compute-1.amazonaws.com
 ec2-34-204-52-48.compute-1.amazonaws.com
 ec2-34-207-109-220.compute-1.amazonaws.com
+ec2-44-201-107-251.compute-1.amazonaws.com
+ec2-52-73-212-207.compute-1.amazonaws.com
+ec2-54-165-219-52.compute-1.amazonaws.com
+ec2-54-196-150-166.compute-1.amazonaws.com
+ec2-54-234-67-238.compute-1.amazonaws.com
 ec2-54-89-101-241.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hig162.higherincomenetwork.com
