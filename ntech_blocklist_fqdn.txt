@@ -20,8 +20,8 @@
 172-237-83-203.ip.linodeusercontent.com
 173-255-238-141.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-192-3-154-58-host.colocrossing.com
 255.131.88.34.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 66-175-213-253.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
@@ -39,7 +39,6 @@ ip-58-102.4vendeta.com
 ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 m24270.contaboserver.net
 measurements.de-cix.net
 mfyabgec.musicpda.com
@@ -55,8 +54,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-60-12.shadowserver.io
-scan-70-00.shadowserver.io
-scan-73-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
