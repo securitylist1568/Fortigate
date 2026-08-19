@@ -41,9 +41,7 @@ ip-58-250.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
-measurements.de-cix.net
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o603.scanner.modat.io
 o613.scanner.modat.io
 o619.scanner.modat.io
@@ -54,7 +52,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-60-12.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
