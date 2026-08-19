@@ -22,10 +22,8 @@
 185-45-195-15.hostsailor.com
 204.76.203.91.ptr.pfcloud.network
 220-136-161-33.dynamic-ip.hinet.net
-23-95-191-210-host.colocrossing.com
-45-79-184-124.ip.linodeusercontent.com
-45-79-184-131.ip.linodeusercontent.com
 49.204.128.101.actcorp.in
+50-114-113-128.ips.acedatacenter.com
 59-125-138-145.hinet-ip.hinet.net
 59-126-121-236.hinet-ip.hinet.net
 71-208-213-254.ftmy.qwest.net
@@ -48,7 +46,6 @@ ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mail.biggraph.cn
-measurements.de-cix.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
@@ -56,7 +53,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
-rootevidence.com
 scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
