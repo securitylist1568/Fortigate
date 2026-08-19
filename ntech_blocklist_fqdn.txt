@@ -25,9 +25,7 @@
 192-3-154-58-host.colocrossing.com
 204.76.203.30.ptr.pfcloud.network
 213-134-31-252.poland.vps.ac
-220-136-161-33.dynamic-ip.hinet.net
 220.234.62.34.bc.googleusercontent.com
-255.131.88.34.bc.googleusercontent.com
 50-116-57-254.ip.linodeusercontent.com
 50.120.78.34.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
@@ -54,6 +52,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-60-12.shadowserver.io
 scan-61-4.shadowserver.io
 scan-70-00.shadowserver.io
 scan-73-02.shadowserver.io
@@ -63,4 +62,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
 users219.vip.heteml.jp
+vmi3112222.contaboserver.net
 vmi3267716.contaboserver.net
