@@ -32,8 +32,6 @@
 49.204.128.101.actcorp.in
 50-114-113-128.ips.acedatacenter.com
 50.120.78.34.bc.googleusercontent.com
-59-125-138-145.hinet-ip.hinet.net
-59-126-121-236.hinet-ip.hinet.net
 71-208-213-254.ftmy.qwest.net
 81.117.156.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -65,7 +63,6 @@ ip-166-69.103.117-naratel.net.id
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-mail.biggraph.cn
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
