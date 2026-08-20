@@ -29,6 +29,7 @@
 206.130.106.34.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
+23-95-191-210-host.colocrossing.com
 23.209.255.172.hosted.by.hostdzire.com
 237.100.172.144.static.cloudzy.com
 237.149.216.162.bc.googleusercontent.com
