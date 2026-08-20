@@ -61,6 +61,7 @@ client.yota.ru
 crawler036.deepfield.net
 crawler041.deepfield.net
 dal215.hawkhost.com
+dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 ec2-13-38-109-133.eu-west-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
@@ -85,6 +86,7 @@ scan-40e.shadowserver.io
 scan-41m.shadowserver.io
 scan-47k.shadowserver.io
 scan-58.security.ipip.net
+scan-63-8.shadowserver.io
 scan-70-00.shadowserver.io
 scan-74-02.shadowserver.io
 scan-76-02.shadowserver.io
