@@ -28,6 +28,7 @@
 192-210-243-12-host.colocrossing.com
 192.149.216.162.bc.googleusercontent.com
 196.210.203.35.bc.googleusercontent.com
+197.227.126.216.static.cloudzy.com
 198.211.203.35.bc.googleusercontent.com
 204.76.203.228.ptr.pfcloud.network
 204.76.203.91.ptr.pfcloud.network
@@ -62,6 +63,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip139.ip-51-81-99.us
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
+li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 monet-22.crawler.deepfield.net
