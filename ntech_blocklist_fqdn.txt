@@ -52,6 +52,7 @@
 185-45-195-15.hostsailor.com
 187.253.78.34.bc.googleusercontent.com
 192-81-132-226.ip.linodeusercontent.com
+192.149.216.162.bc.googleusercontent.com
 197.150.216.162.bc.googleusercontent.com
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
@@ -67,6 +68,7 @@
 230.150.216.162.bc.googleusercontent.com
 250.144.205.35.bc.googleusercontent.com
 255.207.190.35.bc.googleusercontent.com
+2d83453c.mow.customer.misaka.io
 43.150.216.162.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -146,9 +148,13 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04f.shadowserver.io
 scan-40e.shadowserver.io
 scan-47k.shadowserver.io
 scan-58.security.ipip.net
+scan-70-00.shadowserver.io
+scan-84-0.shadowserver.io
+scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
