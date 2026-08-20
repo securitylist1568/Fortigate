@@ -59,6 +59,7 @@ ip-56-250.venom-dc.com
 ip-58-106.4vendeta.com
 ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
+ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -77,6 +78,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r297-pr-guacu.ibys.com.br
 recyber.net
 rootevidence.com
+s1365388.smartape-vps.com
 scan-15k.shadowserver.io
 scan-79-09.shadowserver.io
 scan-80-9.shadowserver.io
