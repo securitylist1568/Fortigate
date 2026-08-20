@@ -55,9 +55,12 @@ azpdsga05mgt.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
 azpdss797c8p.stretchoid.com
+azpdssle59pd.stretchoid.com
 b2.org.afilias-nst.org
+c-73-249-235-168.hsd1.ma.comcast.net
 client.yota.ru
 d163bc79.nip.io
+d207-135-233-91.allwest.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -108,6 +111,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-71-105-167-170.nycmny.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static-wan-bl3-229-134.rev.webside.pt
 static.vnpt.vn
 syn-047-132-250-206.res.spectrum.com
 syn-068-184-111-145.res.spectrum.com
@@ -116,3 +120,4 @@ syn-076-088-180-068.res.spectrum.com
 syn-107-010-121-144.res.spectrum.com
 syn-137-026-208-210.biz.spectrum.com
 users219.vip.heteml.jp
+www.edsmith.com
