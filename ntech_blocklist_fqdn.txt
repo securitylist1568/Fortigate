@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 142.210.203.35.bc.googleusercontent.com
+148.150.216.162.bc.googleusercontent.com
 150.210.203.35.bc.googleusercontent.com
 172-237-83-203.ip.linodeusercontent.com
 175.150.216.162.bc.googleusercontent.com
@@ -45,16 +46,13 @@ l607.scanner.modat.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
-o603.scanner.modat.io
 o627.scanner.modat.io
-os3-383-24661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.169.125.108.65.clients.your-server.de
 users219.vip.heteml.jp
