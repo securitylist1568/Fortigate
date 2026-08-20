@@ -58,6 +58,7 @@
 198-74-58-45.ip.linodeusercontent.com
 204.76.203.49.ptr.pfcloud.network
 211.150.216.162.bc.googleusercontent.com
+229.149.216.162.bc.googleusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
 23-92-26-28.ip.linodeusercontent.com
@@ -147,6 +148,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.io
+scan-47k.shadowserver.io
+scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
