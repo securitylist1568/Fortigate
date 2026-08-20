@@ -33,7 +33,9 @@
 213.255.38.34.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
+237.149.216.162.bc.googleusercontent.com
 250.144.205.35.bc.googleusercontent.com
+34.150.216.162.bc.googleusercontent.com
 73.113.175.207.bc.googleusercontent.com
 74-50-98-193.static.hvvc.us
 80.211.203.35.bc.googleusercontent.com
@@ -77,4 +79,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 travnik.bbone.utic.net.ba
 unn-154-47-16-122.datapacket.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
