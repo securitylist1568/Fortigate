@@ -27,6 +27,7 @@
 191.210.203.35.bc.googleusercontent.com
 197.227.126.216.static.cloudzy.com
 20.149.216.162.bc.googleusercontent.com
+200.150.216.162.bc.googleusercontent.com
 206.130.106.34.bc.googleusercontent.com
 207.150.216.162.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
@@ -65,6 +66,7 @@ li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 ns3015612.ip-57-128-193.eu
+o611.scanner.modat.io
 o612.scanner.modat.io
 o631.scanner.modat.io
 o637.scanner.modat.io
