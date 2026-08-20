@@ -49,6 +49,7 @@
 173-255-249-14.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 187.253.78.34.bc.googleusercontent.com
+192-210-243-12-host.colocrossing.com
 192-81-132-226.ip.linodeusercontent.com
 192.149.216.162.bc.googleusercontent.com
 198-74-58-157.ip.linodeusercontent.com
@@ -167,6 +168,7 @@ srv62133.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
+travnik.bbone.utic.net.ba
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
 v56628.1blu.de
