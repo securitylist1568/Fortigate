@@ -26,6 +26,7 @@
 144.92.74.97.host.secureserver.net
 167-179-138-5.a7b38a.mel.nbn.aussiebb.net
 168.150.216.162.bc.googleusercontent.com
+18.149.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
 185-86-10-73.fwnetworks.co.uk
@@ -34,7 +35,9 @@
 237.100.172.144.static.cloudzy.com
 240.211.203.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
+42-200-150-157.static.imsbiz.com
 45-79-184-131.ip.linodeusercontent.com
+46.210.203.35.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 66-228-43-120.ip.linodeusercontent.com
 66.149.216.162.bc.googleusercontent.com
@@ -47,6 +50,9 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdcsmatos4.stretchoid.com
+azpdesdfn5lp.stretchoid.com
+azpdsga05mgt.stretchoid.com
+azpdsggecxkm.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
 azpdss797c8p.stretchoid.com
 b2.org.afilias-nst.org
@@ -104,6 +110,7 @@ static-71-105-167-170.nycmny.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 syn-047-132-250-206.res.spectrum.com
+syn-068-184-111-145.res.spectrum.com
 syn-074-073-098-131.res.spectrum.com
 syn-076-088-180-068.res.spectrum.com
 syn-107-010-121-144.res.spectrum.com
