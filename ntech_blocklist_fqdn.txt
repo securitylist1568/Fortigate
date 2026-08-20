@@ -31,6 +31,7 @@
 227.211.203.35.bc.googleusercontent.com
 23-95-191-210-host.colocrossing.com
 237.100.172.144.static.cloudzy.com
+240.211.203.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 34.210.203.35.bc.googleusercontent.com
 36.149.216.162.bc.googleusercontent.com
@@ -62,6 +63,7 @@ ip-58-98.4vendeta.com
 ip29.sudolio.io
 l600.scanner.modat.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 mx1.economicalytrustfunds.com
 o611.scanner.modat.io
