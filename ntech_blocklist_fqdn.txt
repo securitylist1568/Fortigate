@@ -88,6 +88,7 @@
 85.119.14.34.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
 89.13.53.34.bc.googleusercontent.com
+89.29.228.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgf6ljqc.stretchoid.com
@@ -158,6 +159,9 @@ scan-41m.shadowserver.io
 scan-47k.shadowserver.io
 scan-58.security.ipip.net
 scan-70-00.shadowserver.io
+scan-74-02.shadowserver.io
+scan-76-02.shadowserver.io
+scan-77-06.shadowserver.io
 scan-84-0.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
