@@ -64,6 +64,7 @@
 23-92-26-65.ip.linodeusercontent.com
 23-92-26-77.ip.linodeusercontent.com
 230.150.216.162.bc.googleusercontent.com
+250.144.205.35.bc.googleusercontent.com
 255.207.190.35.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -135,6 +136,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kub002.idyschool.de.com
 l607.scanner.modat.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o622.scanner.modat.io
 o627.scanner.modat.io
