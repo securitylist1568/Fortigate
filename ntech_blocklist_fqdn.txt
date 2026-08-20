@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-165-97-213.dynamic-ip.hinet.net
-137.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 140.85.187.35.bc.googleusercontent.com
 143-42-1-201.ip.linodeusercontent.com
@@ -65,7 +64,6 @@
 23-92-26-28.ip.linodeusercontent.com
 23-92-26-65.ip.linodeusercontent.com
 23-92-26-77.ip.linodeusercontent.com
-230.150.216.162.bc.googleusercontent.com
 250.144.205.35.bc.googleusercontent.com
 255.207.190.35.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -82,7 +80,6 @@
 7.211.203.35.bc.googleusercontent.com
 73.113.175.207.bc.googleusercontent.com
 74-50-98-193.static.hvvc.us
-8.210.203.35.bc.googleusercontent.com
 80.211.203.35.bc.googleusercontent.com
 84.236.52.34.bc.googleusercontent.com
 85.119.14.34.bc.googleusercontent.com
@@ -147,7 +144,6 @@ kub002.idyschool.de.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
-o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
