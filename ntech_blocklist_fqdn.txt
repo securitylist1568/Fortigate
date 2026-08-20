@@ -27,13 +27,13 @@
 191.210.203.35.bc.googleusercontent.com
 197.227.126.216.static.cloudzy.com
 20.149.216.162.bc.googleusercontent.com
-204.76.203.228.ptr.pfcloud.network
 206.130.106.34.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 237.149.216.162.bc.googleusercontent.com
 250.144.205.35.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
+36.149.216.162.bc.googleusercontent.com
 55.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 56.210.203.35.bc.googleusercontent.com
 73.113.175.207.bc.googleusercontent.com
@@ -59,7 +59,6 @@ keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
-monet-22.crawler.deepfield.net
 ns3015612.ip-57-128-193.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
