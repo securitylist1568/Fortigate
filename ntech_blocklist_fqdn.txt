@@ -31,6 +31,7 @@
 204.76.203.91.ptr.pfcloud.network
 226.210.203.35.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
+23.209.255.172.hosted.by.hostdzire.com
 237.149.216.162.bc.googleusercontent.com
 250.144.205.35.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ ec2-13-38-109-133.eu-west-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-250.venom-dc.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1570-11.members.linode.com
@@ -76,6 +78,7 @@ scan-63-8.shadowserver.io
 scan-74-02.shadowserver.io
 scan-76-02.shadowserver.io
 scan-77-06.shadowserver.io
+scan-79-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
