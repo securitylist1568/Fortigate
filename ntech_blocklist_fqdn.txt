@@ -21,12 +21,15 @@
 151.184.52.34.bc.googleusercontent.com
 153.83.187.35.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
+169.149.216.162.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.210.203.35.bc.googleusercontent.com
 197.227.126.216.static.cloudzy.com
 20.149.216.162.bc.googleusercontent.com
 204.76.203.228.ptr.pfcloud.network
+206.130.106.34.bc.googleusercontent.com
+227.211.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 237.149.216.162.bc.googleusercontent.com
 250.144.205.35.bc.googleusercontent.com
