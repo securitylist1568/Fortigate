@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+137.211.203.35.bc.googleusercontent.com
 153.83.187.35.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 169.149.216.162.bc.googleusercontent.com
@@ -51,10 +52,18 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-158.4vendeta.com
+ip-49-114.4vendeta.com
+ip-56-210.4vendeta.com
 ip-56-250.venom-dc.com
+ip-58-106.4vendeta.com
+ip-58-22.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-98.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+mx1.economicalytrustfunds.com
 ns3015612.ip-57-128-193.eu
 o611.scanner.modat.io
 o612.scanner.modat.io
