@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-241-53-235.dynamic-ip.hinet.net
+118-107-139-87.snet.net.pk
 128.150.216.162.bc.googleusercontent.com
 139-162-172-20.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
@@ -44,6 +45,8 @@
 74.149.216.162.bc.googleusercontent.com
 75-145-254-197-connecticut.hfc.comcastbusiness.net
 76.210.203.35.bc.googleusercontent.com
+77-221-42-099.pool.isis-com.hu
+77-244-180-59.planetel.it
 82-112-46-29.k-telecom.org
 90.150.216.162.bc.googleusercontent.com
 96-66-174-249-static.hfc.comcastbusiness.net
