@@ -21,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-241-53-235.dynamic-ip.hinet.net
 128.150.216.162.bc.googleusercontent.com
-137.211.203.35.bc.googleusercontent.com
 139-162-172-20.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
 167-179-138-5.a7b38a.mel.nbn.aussiebb.net
@@ -55,6 +54,7 @@ azpdsga05mgt.stretchoid.com
 azpdsggecxkm.stretchoid.com
 azpdsgs6gf0i.stretchoid.com
 azpdss797c8p.stretchoid.com
+azpdsskf5buy.stretchoid.com
 azpdssle59pd.stretchoid.com
 b2.org.afilias-nst.org
 c-73-249-235-168.hsd1.ma.comcast.net
@@ -70,14 +70,6 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 host-88-54-208-82.business.telecomitalia.it
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-158.4vendeta.com
-ip-49-114.4vendeta.com
-ip-56-210.4vendeta.com
-ip-58-106.4vendeta.com
-ip-58-22.4vendeta.com
-ip-58-250.4vendeta.com
-ip-58-74.4vendeta.com
-ip-58-98.4vendeta.com
 ip29.sudolio.io
 ip98-185-237-220.sb.sd.cox.net
 l600.scanner.modat.io
@@ -86,15 +78,11 @@ li1873-236.members.linode.com
 mail.bdveduii.com
 mfyabgec.musicpda.com
 modemcable105.170-20-96.mc.videotron.ca
-mx1.economicalytrustfunds.com
 n219078092163.netvigator.com
 node-ge2.pool-113-53.dynamic.nt-isp.net
-o614.scanner.modat.io
 o615.scanner.modat.io
 o616.scanner.modat.io
 o622.scanner.modat.io
-o625.scanner.modat.io
-o633.scanner.modat.io
 ool-457e9230.dyn.optonline.net
 os3-383-24661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
@@ -103,10 +91,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s010628ac9e0d9110.ed.shawcable.net
-s1365388.smartape-vps.com
-scan-15k.shadowserver.io
-scan-80-9.shadowserver.io
-scan-81-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-71-105-167-170.nycmny.fios.verizon.net
