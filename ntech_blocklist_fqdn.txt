@@ -34,6 +34,7 @@
 213.255.38.34.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
+250.144.205.35.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
 7.211.203.35.bc.googleusercontent.com
@@ -69,6 +70,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
+r297-pr-guacu.ibys.com.br
 recyber.net
 rootevidence.com
 scan-04f.shadowserver.io
