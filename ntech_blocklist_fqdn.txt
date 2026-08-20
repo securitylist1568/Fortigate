@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+137.211.203.35.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 148.150.216.162.bc.googleusercontent.com
 150.210.203.35.bc.googleusercontent.com
@@ -25,6 +26,7 @@
 175.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 197.150.216.162.bc.googleusercontent.com
+230.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
 43.150.216.162.bc.googleusercontent.com
