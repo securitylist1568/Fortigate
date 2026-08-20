@@ -154,6 +154,7 @@ recyber.net
 rootevidence.com
 scan-04f.shadowserver.io
 scan-40e.shadowserver.io
+scan-41m.shadowserver.io
 scan-47k.shadowserver.io
 scan-58.security.ipip.net
 scan-70-00.shadowserver.io
