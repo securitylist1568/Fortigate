@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 185-86-10-73.fwnetworks.co.uk
 198-134-107-73.rev.unlimitednet.us
+206.130.106.34.bc.googleusercontent.com
 23-95-191-210-host.colocrossing.com
 237.100.172.144.static.cloudzy.com
 240.211.203.35.bc.googleusercontent.com
@@ -52,6 +53,7 @@
 96-66-174-249-static.hfc.comcastbusiness.net
 aim.sba-research.org
 amz.unixwiz.net
+azpdcgfwv02q.stretchoid.com
 azpdcsmatos4.stretchoid.com
 azpdesdfn5lp.stretchoid.com
 azpdsga05mgt.stretchoid.com
