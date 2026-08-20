@@ -91,8 +91,11 @@ scan-15k.shadowserver.io
 scan-80-9.shadowserver.io
 scan-81-0.shadowserver.io
 smtp1.telemach.net
+static-71-105-167-170.nycmny.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 syn-047-132-250-206.res.spectrum.com
+syn-074-073-098-131.res.spectrum.com
 syn-076-088-180-068.res.spectrum.com
 syn-107-010-121-144.res.spectrum.com
 users219.vip.heteml.jp
