@@ -57,8 +57,10 @@ ip-49-114.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-22.4vendeta.com
 ip-58-254.4vendeta.com
+ip-58-74.4vendeta.com
 ip139.ip-51-81-99.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o349.scanner.modat.io
 o609.scanner.modat.io
