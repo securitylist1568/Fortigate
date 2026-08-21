@@ -108,7 +108,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s010628ac9e0d9110.ed.shawcable.net
+scan-13n.shadowserver.io
 scan-40g.shadowserver.io
+scan-77-06.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
