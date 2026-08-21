@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 10.149.216.162.bc.googleusercontent.com
+108-166-159-26.client.mchsi.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -94,6 +95,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s010628ac9e0d9110.ed.shawcable.net
+scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-71-105-167-170.nycmny.fios.verizon.net
@@ -102,6 +104,7 @@ static-wan-bl3-229-134.rev.webside.pt
 static.vnpt.vn
 syn-047-132-250-206.res.spectrum.com
 syn-068-184-111-145.res.spectrum.com
+syn-068-205-236-072.res.spectrum.com
 syn-074-073-098-131.res.spectrum.com
 syn-076-088-180-068.res.spectrum.com
 syn-107-010-121-144.res.spectrum.com
