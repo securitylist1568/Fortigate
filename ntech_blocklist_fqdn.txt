@@ -38,6 +38,7 @@
 69-164-215-62.ip.linodeusercontent.com
 71-208-213-254.ftmy.qwest.net
 74.150.216.162.bc.googleusercontent.com
+89.210.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
 aa27e193.mci.customer.misaka.io
 aa27e3fb.sea.customer.misaka.io
@@ -59,6 +60,7 @@ ip-58-74.4vendeta.com
 ip139.ip-51-81-99.us
 ip29.sudolio.io
 li1570-11.members.linode.com
+mail.m-gurman.ru
 mfyabgec.musicpda.com
 o349.scanner.modat.io
 o609.scanner.modat.io
