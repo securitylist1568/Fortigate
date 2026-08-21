@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 138-94-58-182.jasec.go.cr
 139.84.162.169.vultrusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 197.210.203.35.bc.googleusercontent.com
@@ -27,6 +28,7 @@
 205.210.203.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 209-240-111-185.static.as40244.net
+215.149.216.162.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
 218.50.199.104.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
