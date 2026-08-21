@@ -74,6 +74,7 @@ li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mail.m-gurman.ru
 mfyabgec.musicpda.com
+o310.scanner.modat.io
 o349.scanner.modat.io
 o604.scanner.modat.io
 o618.scanner.modat.io
