@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+125.150.216.162.bc.googleusercontent.com
 157.108.234.8.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -41,6 +42,10 @@
 aa27e193.mci.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
+azpdcgmv4rzj.stretchoid.com
+azpdcsycgcyf.stretchoid.com
+azpdsghq7jpi.stretchoid.com
+azpdsgor4bdz.stretchoid.com
 b2.org.afilias-nst.org
 c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
