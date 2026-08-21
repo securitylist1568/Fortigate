@@ -29,7 +29,6 @@
 156.150.216.162.bc.googleusercontent.com
 158.red-83-59-216.dynamicip.rima-tde.net
 167-179-138-5.a7b38a.mel.nbn.aussiebb.net
-168.150.216.162.bc.googleusercontent.com
 176.65.149.217.ptr.pfcloud.network
 18.149.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
@@ -47,9 +46,7 @@
 5.149.216.162.bc.googleusercontent.com
 66-228-43-120.ip.linodeusercontent.com
 69-164-212-166.ip.linodeusercontent.com
-74.149.216.162.bc.googleusercontent.com
 75-145-254-197-connecticut.hfc.comcastbusiness.net
-76.210.203.35.bc.googleusercontent.com
 77-221-42-099.pool.isis-com.hu
 77-244-180-59.planetel.it
 82-112-46-29.k-telecom.org
@@ -75,7 +72,6 @@ b2.org.afilias-nst.org
 c-73-249-235-168.hsd1.ma.comcast.net
 client.yota.ru
 d-24-214-179-163.oh.cpe.breezeline.net
-d163bc79.nip.io
 d207-135-233-91.allwest.net
 dal215.hawkhost.com
 dhcp-198-2-66-6.cable.user.start.ca
@@ -90,7 +86,6 @@ host-88-54-208-82.business.telecomitalia.it
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip98-185-237-220.sb.sd.cox.net
-l600.scanner.modat.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.bdveduii.com
@@ -99,10 +94,8 @@ modemcable105.170-20-96.mc.videotron.ca
 n219078092163.netvigator.com
 node-ge2.pool-113-53.dynamic.nt-isp.net
 o353.scanner.modat.io
-o615.scanner.modat.io
 ool-457e9230.dyn.optonline.net
 ool-ad031a4a.dyn.optonline.net
-os3-383-24661.vs.sakura.ne.jp
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
