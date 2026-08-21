@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138-94-58-182.jasec.go.cr
-139.84.162.169.vultrusercontent.com
 157.108.234.8.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -29,7 +28,6 @@
 199.184.76.34.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
-209-240-111-185.static.as40244.net
 215.149.216.162.bc.googleusercontent.com
 217.150.216.162.bc.googleusercontent.com
 218.50.199.104.bc.googleusercontent.com
@@ -46,9 +44,7 @@
 63.149.216.162.bc.googleusercontent.com
 71-208-213-254.ftmy.qwest.net
 74.150.216.162.bc.googleusercontent.com
-76.210.203.35.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
-94.211.203.35.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
@@ -74,7 +70,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14h.shadowserver.io
 scan-52c.shadowserver.io
-scan-60.security.ipip.net
 scan-63-8.shadowserver.io
 scan-79-00.shadowserver.io
 security.criminalip.com
