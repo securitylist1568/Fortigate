@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 125.150.216.162.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
+132.150.216.162.bc.googleusercontent.com
 157.108.234.8.bc.googleusercontent.com
 170-81.95.130-static.dns-lainer.net.br
 185-45-195-15.hostsailor.com
