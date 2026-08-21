@@ -37,6 +37,7 @@
 185-86-10-73.fwnetworks.co.uk
 198-134-107-73.rev.unlimitednet.us
 206.130.106.34.bc.googleusercontent.com
+223.150.216.162.bc.googleusercontent.com
 228.211.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 36-239-242-5.dynamic-ip.hinet.net
@@ -90,6 +91,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip98-185-237-220.sb.sd.cox.net
 l600.scanner.modat.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.bdveduii.com
 mfyabgec.musicpda.com
