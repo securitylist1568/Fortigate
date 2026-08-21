@@ -53,12 +53,17 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-114.4vendeta.com
+ip-58-106.4vendeta.com
+ip-58-22.4vendeta.com
 ip-58-254.4vendeta.com
 ip139.ip-51-81-99.us
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o349.scanner.modat.io
 o609.scanner.modat.io
 o616.scanner.modat.io
+o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
