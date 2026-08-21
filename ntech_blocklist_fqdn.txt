@@ -75,6 +75,7 @@ li1570-11.members.linode.com
 mail.m-gurman.ru
 mfyabgec.musicpda.com
 o349.scanner.modat.io
+o604.scanner.modat.io
 o609.scanner.modat.io
 o616.scanner.modat.io
 o620.scanner.modat.io
