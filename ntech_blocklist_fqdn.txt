@@ -27,8 +27,10 @@
 205.210.203.35.bc.googleusercontent.com
 209-240-111-185.static.as40244.net
 212.149.216.162.bc.googleusercontent.com
+217.150.216.162.bc.googleusercontent.com
 218.50.199.104.bc.googleusercontent.com
 238.15.78.34.bc.googleusercontent.com
+239.183.205.35.bc.googleusercontent.com
 24.189.52.34.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
@@ -52,6 +54,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-254.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
