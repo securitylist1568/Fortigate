@@ -20,10 +20,12 @@
 125.150.216.162.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 132.150.216.162.bc.googleusercontent.com
+149.28.72.72.vultrusercontent.com
 170-81.95.130-static.dns-lainer.net.br
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
+21.210.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 81-16-177-162.as212027.host
 89.210.203.35.bc.googleusercontent.com
@@ -74,6 +76,8 @@ o618.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r2001.compute.pao1.edc.strln.net
+r2003.compute.pao1.edc.strln.net
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
