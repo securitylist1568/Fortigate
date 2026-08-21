@@ -57,6 +57,7 @@ azpdssvyb6fc.stretchoid.com
 azpdssyvxjv4.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
+c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
 customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
@@ -88,5 +89,6 @@ scan-73-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
+ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
