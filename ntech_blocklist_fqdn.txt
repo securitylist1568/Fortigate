@@ -23,6 +23,7 @@
 170-81.95.130-static.dns-lainer.net.br
 185-45-195-15.hostsailor.com
 191.150.216.162.bc.googleusercontent.com
+222.211.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 66-175-210-233.ip.linodeusercontent.com
