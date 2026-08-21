@@ -42,6 +42,7 @@
 244.234.241.35.bc.googleusercontent.com
 289327.ip-ptr.tech
 2d834781.kunde.misaka.berlin
+32.150.216.162.bc.googleusercontent.com
 36-239-242-5.dynamic-ip.hinet.net
 39.121.38.34.bc.googleusercontent.com
 42-200-150-157.static.imsbiz.com
@@ -106,6 +107,7 @@ mfyabgec.musicpda.com
 modemcable105.170-20-96.mc.videotron.ca
 node-ge2.pool-113-53.dynamic.nt-isp.net
 o353.scanner.modat.io
+o604.scanner.modat.io
 ool-ad031a4a.dyn.optonline.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
