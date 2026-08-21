@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 138-94-58-182.jasec.go.cr
 139.84.162.169.vultrusercontent.com
+157.108.234.8.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
@@ -38,6 +39,7 @@
 24.189.52.34.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
+253.149.216.162.bc.googleusercontent.com
 39.121.38.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 63.149.216.162.bc.googleusercontent.com
@@ -48,8 +50,10 @@
 94.211.203.35.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
 aa27e3fb.sea.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
