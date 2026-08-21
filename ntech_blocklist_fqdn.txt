@@ -26,6 +26,7 @@
 199.186.241.35.bc.googleusercontent.com
 209-240-111-185.static.as40244.net
 212.149.216.162.bc.googleusercontent.com
+218.50.199.104.bc.googleusercontent.com
 238.15.78.34.bc.googleusercontent.com
 24.189.52.34.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
@@ -47,6 +48,7 @@ client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
+embnex.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
