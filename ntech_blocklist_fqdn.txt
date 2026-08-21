@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+139.84.162.169.vultrusercontent.com
 151.157.140.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
@@ -41,6 +42,7 @@
 45.63.4.69.vultrusercontent.com
 76.210.203.35.bc.googleusercontent.com
 77.38.78.34.bc.googleusercontent.com
+94.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
