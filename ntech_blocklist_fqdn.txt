@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 139.84.162.169.vultrusercontent.com
 151.157.140.34.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 185-45-195-15.hostsailor.com
 197.210.203.35.bc.googleusercontent.com
 199.184.76.34.bc.googleusercontent.com
@@ -37,9 +36,7 @@
 39.121.38.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
-45.63.4.69.vultrusercontent.com
 76.210.203.35.bc.googleusercontent.com
-77.38.78.34.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -64,6 +61,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-14h.shadowserver.io
 scan-43h.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
