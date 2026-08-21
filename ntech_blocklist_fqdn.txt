@@ -38,6 +38,7 @@
 36-228-105-239.dynamic-ip.hinet.net
 39.121.38.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
+45.135.193.43.ptr.pfcloud.network
 45.63.4.69.vultrusercontent.com
 77.38.78.34.bc.googleusercontent.com
 aim.sba-research.org
