@@ -27,6 +27,7 @@
 144.92.74.97.host.secureserver.net
 156.150.216.162.bc.googleusercontent.com
 158.red-83-59-216.dynamicip.rima-tde.net
+168-113-158-51.instances.scw.cloud
 176.65.149.217.ptr.pfcloud.network
 18.149.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
@@ -48,6 +49,7 @@
 39.121.38.34.bc.googleusercontent.com
 42-200-150-157.static.imsbiz.com
 45-79-184-131.ip.linodeusercontent.com
+45.63.4.69.vultrusercontent.com
 46.210.203.35.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 66-228-43-120.ip.linodeusercontent.com
