@@ -36,7 +36,6 @@
 243.149.216.162.bc.googleusercontent.com
 36-228-105-239.dynamic-ip.hinet.net
 39.121.38.34.bc.googleusercontent.com
-40.210.203.35.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
 71-208-213-254.ftmy.qwest.net
 74.150.216.162.bc.googleusercontent.com
@@ -62,7 +61,6 @@ ip139.ip-51-81-99.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-ns348703.ip-176-31-232.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
