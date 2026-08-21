@@ -34,6 +34,7 @@
 185-86-10-73.fwnetworks.co.uk
 198-134-107-73.rev.unlimitednet.us
 206.130.106.34.bc.googleusercontent.com
+228.211.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
 42-200-150-157.static.imsbiz.com
 45-79-184-131.ip.linodeusercontent.com
@@ -114,6 +115,7 @@ syn-068-205-236-072.res.spectrum.com
 syn-071-077-152-222.res.spectrum.com
 syn-074-073-098-131.res.spectrum.com
 syn-076-088-180-068.res.spectrum.com
+syn-104-173-140-038.res.spectrum.com
 syn-107-010-121-144.res.spectrum.com
 syn-137-026-208-210.biz.spectrum.com
 users219.vip.heteml.jp
