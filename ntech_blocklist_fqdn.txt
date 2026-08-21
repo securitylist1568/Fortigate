@@ -25,9 +25,11 @@
 128.150.216.162.bc.googleusercontent.com
 139-162-172-20.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
+156.150.216.162.bc.googleusercontent.com
 158.red-83-59-216.dynamicip.rima-tde.net
 167-179-138-5.a7b38a.mel.nbn.aussiebb.net
 168.150.216.162.bc.googleusercontent.com
+176.65.149.217.ptr.pfcloud.network
 18.149.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
@@ -69,6 +71,7 @@ azpdwsowi27o.stretchoid.com
 b2.org.afilias-nst.org
 c-73-249-235-168.hsd1.ma.comcast.net
 client.yota.ru
+d-24-214-179-163.oh.cpe.breezeline.net
 d163bc79.nip.io
 d207-135-233-91.allwest.net
 dal215.hawkhost.com
@@ -76,6 +79,7 @@ dhcp-198-2-66-6.cable.user.start.ca
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
+fttu-66-171-91-127.bvunet.net
 h250.13.162.209.static.ip.windstream.net
 hkhdc.laws.ms
 hn.kd.ny.adsl
@@ -91,6 +95,7 @@ mfyabgec.musicpda.com
 modemcable105.170-20-96.mc.videotron.ca
 n219078092163.netvigator.com
 node-ge2.pool-113-53.dynamic.nt-isp.net
+o353.scanner.modat.io
 o615.scanner.modat.io
 ool-457e9230.dyn.optonline.net
 ool-ad031a4a.dyn.optonline.net
