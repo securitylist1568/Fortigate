@@ -23,14 +23,11 @@
 185-45-195-15.hostsailor.com
 19.150.216.162.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
-205.210.203.35.bc.googleusercontent.com
 208.211.203.35.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
-217.150.216.162.bc.googleusercontent.com
 221.101.40.34.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
 229.211.203.35.bc.googleusercontent.com
-239.183.205.35.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
@@ -49,6 +46,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
+customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -57,7 +55,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-114.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-22.4vendeta.com
-ip-58-254.4vendeta.com
 ip-58-74.4vendeta.com
 ip139.ip-51-81-99.us
 ip29.sudolio.io
@@ -68,12 +65,12 @@ o609.scanner.modat.io
 o616.scanner.modat.io
 o620.scanner.modat.io
 o622.scanner.modat.io
+o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-52c.shadowserver.io
 scan-63-8.shadowserver.io
 scan-73-02.shadowserver.io
 scan-79-00.shadowserver.io
