@@ -56,12 +56,9 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 macvps.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
-ns574789.ip-51-222-40.net
-o066.scanner.modat.io
 o312.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -71,7 +68,6 @@ recyber.net
 rootevidence.com
 s4850.vps.hosting
 scan-13n.shadowserver.io
-scan-45g.shadowserver.io
 scan-52c.shadowserver.io
 scan-52k.shadowserver.io
 scan-63-2.shadowserver.io
