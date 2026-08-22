@@ -27,7 +27,6 @@
 224.150.216.162.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
-39.149.216.162.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 79.217.175.207.bc.googleusercontent.com
@@ -54,7 +53,6 @@ mfyabgec.musicpda.com
 ns.cau.ac.kr
 ns3228814.ip-57-128-140.eu
 ns348703.ip-176-31-232.eu
-o350.scanner.modat.io
 o606.scanner.modat.io
 o616.scanner.modat.io
 o622.scanner.modat.io
