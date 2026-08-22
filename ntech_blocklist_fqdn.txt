@@ -26,6 +26,7 @@
 217.210.203.35.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
+252.149.216.162.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
@@ -49,6 +50,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 macvps.com
 mfyabgec.musicpda.com
+ns.cau.ac.kr
 ns3228814.ip-57-128-140.eu
 o067.scanner.modat.io
 o312.scanner.modat.io
