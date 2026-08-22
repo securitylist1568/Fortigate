@@ -21,6 +21,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.150.216.162.bc.googleusercontent.com
+15.102.14.34.bc.googleusercontent.com
 150.168.156.34.bc.googleusercontent.com
 156.187.187.35.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
@@ -34,18 +35,10 @@
 210.17.78.34.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 221.226.175.207.bc.googleusercontent.com
-245.89.78.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 37.210.203.35.bc.googleusercontent.com
-45-33-91-73.ip.linodeusercontent.com
-45-79-191-193.ip.linodeusercontent.com
-48.105.138.34.bc.googleusercontent.com
-56.150.216.162.bc.googleusercontent.com
 61-216-185-248.hinet-ip.hinet.net
-69-164-212-142.ip.linodeusercontent.com
-69-164-216-182.ip.linodeusercontent.com
-69-164-219-196.ip.linodeusercontent.com
 74-50-97-90.static.hvvc.us
 80.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
