@@ -20,6 +20,7 @@
 125.150.216.162.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 132.150.216.162.bc.googleusercontent.com
+139-162-191-213.ip.linodeusercontent.com
 149.28.72.72.vultrusercontent.com
 170-81.95.130-static.dns-lainer.net.br
 18.149.216.162.bc.googleusercontent.com
@@ -66,6 +67,7 @@ hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o065.scanner.modat.io
@@ -78,6 +80,7 @@ proxy-ca002-ext2.a.ahrefs.com
 r2001.compute.pao1.edc.strln.net
 r2003.compute.pao1.edc.strln.net
 recyber.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
