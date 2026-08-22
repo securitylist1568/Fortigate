@@ -28,6 +28,7 @@
 164.149.216.162.bc.googleusercontent.com
 172-104-5-253.ip.linodeusercontent.com
 181.211.203.35.bc.googleusercontent.com
+185-182-194-239.hosted-by-worldstream.net
 185-45-195-15.hostsailor.com
 189.149.216.162.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
@@ -57,6 +58,7 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
 li1873-236.members.linode.com
+macvps.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 ns574789.ip-51-222-40.net
@@ -67,6 +69,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+s4850.vps.hosting
 scan-13n.shadowserver.io
 scan-45g.shadowserver.io
 scan-52c.shadowserver.io
