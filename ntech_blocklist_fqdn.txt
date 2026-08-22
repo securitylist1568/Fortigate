@@ -26,8 +26,10 @@
 197.150.216.162.bc.googleusercontent.com
 217.210.203.35.bc.googleusercontent.com
 218.234.205.35.bc.googleusercontent.com
+224.150.216.162.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
 48.105.138.34.bc.googleusercontent.com
+77.149.216.162.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 97-107-129-162.ip.linodeusercontent.com
 99.96.14.34.bc.googleusercontent.com
@@ -44,6 +46,7 @@ embnex.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-86.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 macvps.com
