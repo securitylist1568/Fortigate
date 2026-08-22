@@ -48,6 +48,7 @@
 69-164-219-201.ip.linodeusercontent.com
 69-164-219-60.ip.linodeusercontent.com
 99.96.14.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -88,6 +89,7 @@ r2001.compute.pao1.edc.strln.net
 r2003.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-61-4.shadowserver.io
 scan-70-00.shadowserver.io
 scan-74-02.shadowserver.io
 scan-77-06.shadowserver.io
