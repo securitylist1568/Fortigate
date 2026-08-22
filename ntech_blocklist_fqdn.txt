@@ -24,7 +24,6 @@
 185-45-195-15.hostsailor.com
 192-210-198-90-host.colocrossing.com
 197.150.216.162.bc.googleusercontent.com
-217.210.203.35.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
@@ -66,7 +65,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-74-02.shadowserver.io
 scan-74-07.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
