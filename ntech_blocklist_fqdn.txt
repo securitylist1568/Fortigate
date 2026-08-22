@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+121.150.216.162.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
@@ -62,6 +63,7 @@ ns574789.ip-51-222-40.net
 o066.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
