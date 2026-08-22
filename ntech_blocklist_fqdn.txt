@@ -21,6 +21,7 @@
 132.150.216.162.bc.googleusercontent.com
 139-162-191-213.ip.linodeusercontent.com
 149.28.72.72.vultrusercontent.com
+158.18.187.35.bc.googleusercontent.com
 18.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
@@ -42,6 +43,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-98-88-20-39.compute-1.amazonaws.com
 embnex.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -64,6 +66,7 @@ r2003.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-74-02.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
