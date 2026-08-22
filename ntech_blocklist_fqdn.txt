@@ -53,6 +53,7 @@ o067.scanner.modat.io
 o312.scanner.modat.io
 o350.scanner.modat.io
 o616.scanner.modat.io
+o622.scanner.modat.io
 o623.scanner.modat.io
 o625.scanner.modat.io
 o631.scanner.modat.io
