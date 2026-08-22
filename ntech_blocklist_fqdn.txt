@@ -24,6 +24,7 @@
 150.168.156.34.bc.googleusercontent.com
 156.187.187.35.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
+184.149.216.162.bc.googleusercontent.com
 185-182-194-239.hosted-by-worldstream.net
 185-45-195-15.hostsailor.com
 192-210-198-90-host.colocrossing.com
@@ -71,6 +72,7 @@ scan-52c.shadowserver.io
 scan-52k.shadowserver.io
 scan-63-2.shadowserver.io
 scan-74-02.shadowserver.io
+scan-74-07.shadowserver.io
 scan-89-5.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
