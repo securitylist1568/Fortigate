@@ -25,8 +25,10 @@
 156.187.187.35.bc.googleusercontent.com
 158.18.187.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
+172-104-5-253.ip.linodeusercontent.com
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.150.216.162.bc.googleusercontent.com
 202.150.216.162.bc.googleusercontent.com
 210.17.78.34.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
@@ -71,6 +73,7 @@ go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
