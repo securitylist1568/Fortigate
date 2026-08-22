@@ -23,11 +23,9 @@
 15.102.14.34.bc.googleusercontent.com
 150.168.156.34.bc.googleusercontent.com
 156.187.187.35.bc.googleusercontent.com
-157.211.203.35.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 185-182-194-239.hosted-by-worldstream.net
 185-45-195-15.hostsailor.com
-189.149.216.162.bc.googleusercontent.com
 192-210-198-90-host.colocrossing.com
 210.17.78.34.bc.googleusercontent.com
 217.210.203.35.bc.googleusercontent.com
@@ -35,8 +33,6 @@
 221.226.175.207.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
 48.105.138.34.bc.googleusercontent.com
-61-216-185-248.hinet-ip.hinet.net
-74-50-97-90.static.hvvc.us
 80.150.216.162.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 99.96.14.34.bc.googleusercontent.com
@@ -49,12 +45,9 @@ dns12.online.tj.cn
 embnex.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1537-121.members.linode.com
 macvps.com
-mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 o067.scanner.modat.io
 o312.scanner.modat.io
@@ -74,4 +67,3 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
