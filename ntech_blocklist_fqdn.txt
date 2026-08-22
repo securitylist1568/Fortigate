@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-100.106.175.207.bc.googleusercontent.com
 102.69.175.207.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -19,11 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-15.102.14.34.bc.googleusercontent.com
-150.168.156.34.bc.googleusercontent.com
-156.187.187.35.bc.googleusercontent.com
 157.211.203.35.bc.googleusercontent.com
-158.18.187.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
 172-104-5-253.ip.linodeusercontent.com
@@ -31,10 +26,7 @@
 185-45-195-15.hostsailor.com
 189.149.216.162.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
-210.17.78.34.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
-218.234.205.35.bc.googleusercontent.com
-221.226.175.207.bc.googleusercontent.com
 245.89.78.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -48,7 +40,6 @@
 69-164-216-182.ip.linodeusercontent.com
 69-164-219-196.ip.linodeusercontent.com
 74-50-97-90.static.hvvc.us
-99.96.14.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -56,23 +47,8 @@ client.yota.ru
 crawler117.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-100-55-74-174.compute-1.amazonaws.com
-ec2-100-55-80-54.compute-1.amazonaws.com
-ec2-100-59-0-92.compute-1.amazonaws.com
-ec2-107-22-152-216.compute-1.amazonaws.com
-ec2-13-220-113-14.compute-1.amazonaws.com
-ec2-13-222-61-160.compute-1.amazonaws.com
-ec2-18-206-38-153.compute-1.amazonaws.com
-ec2-18-212-208-154.compute-1.amazonaws.com
-ec2-18-234-140-213.compute-1.amazonaws.com
-ec2-3-85-190-121.compute-1.amazonaws.com
-ec2-3-94-102-45.compute-1.amazonaws.com
-ec2-44-212-15-65.compute-1.amazonaws.com
-ec2-98-81-160-178.compute-1.amazonaws.com
-ec2-98-88-20-39.compute-1.amazonaws.com
 embnex.com
 festa04.jcatransporte.com.br
-go.away
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
@@ -82,7 +58,6 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns574789.ip-51-222-40.net
 o066.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -101,6 +76,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 unn-207-211-210-83.datapacket.com
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 www.internet-albedo.net
