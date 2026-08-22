@@ -89,6 +89,7 @@ r2001.compute.pao1.edc.strln.net
 r2003.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-40e.shadowserver.io
 scan-61-4.shadowserver.io
 scan-70-00.shadowserver.io
 scan-74-02.shadowserver.io
