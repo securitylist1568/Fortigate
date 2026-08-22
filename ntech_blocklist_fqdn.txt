@@ -20,10 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 150.210.203.35.bc.googleusercontent.com
-162.211.203.35.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-192-210-198-90-host.colocrossing.com
 197.150.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
@@ -33,7 +31,6 @@
 41.149.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 79.217.175.207.bc.googleusercontent.com
-96.211.203.35.bc.googleusercontent.com
 97-107-129-162.ip.linodeusercontent.com
 adventure.yatano.com
 aim.sba-research.org
@@ -57,7 +54,6 @@ mfyabgec.musicpda.com
 ns.cau.ac.kr
 ns3228814.ip-57-128-140.eu
 ns348703.ip-176-31-232.eu
-o067.scanner.modat.io
 o350.scanner.modat.io
 o606.scanner.modat.io
 o616.scanner.modat.io
