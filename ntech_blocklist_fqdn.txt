@@ -59,6 +59,7 @@ li1570-11.members.linode.com
 macvps.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
+o067.scanner.modat.io
 o312.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
