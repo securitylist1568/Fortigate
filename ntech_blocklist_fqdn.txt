@@ -80,6 +80,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-13n.shadowserver.io
 scan-40e.shadowserver.io
 scan-45g.shadowserver.io
 scan-61-4.shadowserver.io
