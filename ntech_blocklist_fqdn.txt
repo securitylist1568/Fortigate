@@ -30,6 +30,7 @@
 41.149.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 79.217.175.207.bc.googleusercontent.com
+9213038d.customer.misaka.se
 97-107-129-162.ip.linodeusercontent.com
 adventure.yatano.com
 aim.sba-research.org
