@@ -1,7 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 100.106.175.207.bc.googleusercontent.com
 102.69.175.207.bc.googleusercontent.com
-11.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,6 +22,7 @@
 15.102.14.34.bc.googleusercontent.com
 150.168.156.34.bc.googleusercontent.com
 156.187.187.35.bc.googleusercontent.com
+157.211.203.35.bc.googleusercontent.com
 158.18.187.35.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
@@ -30,11 +30,9 @@
 181.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.150.216.162.bc.googleusercontent.com
-202.150.216.162.bc.googleusercontent.com
 210.17.78.34.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 218.234.205.35.bc.googleusercontent.com
-221.101.40.34.bc.googleusercontent.com
 221.226.175.207.bc.googleusercontent.com
 245.89.78.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
@@ -83,7 +81,6 @@ ns574789.ip-51-222-40.net
 o066.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -92,7 +89,6 @@ scan-40e.shadowserver.io
 scan-45g.shadowserver.io
 scan-61-4.shadowserver.io
 scan-70-00.shadowserver.io
-scan-74-02.shadowserver.io
 scan-77-06.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
