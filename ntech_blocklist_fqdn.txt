@@ -48,7 +48,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
+ip-49-90.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns.cau.ac.kr
 ns3228814.ip-57-128-140.eu
