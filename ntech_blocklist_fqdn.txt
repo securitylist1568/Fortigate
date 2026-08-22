@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-15.102.14.34.bc.googleusercontent.com
 162.211.203.35.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-182-194-239.hosted-by-worldstream.net
@@ -25,15 +24,12 @@
 192-210-198-90-host.colocrossing.com
 197.150.216.162.bc.googleusercontent.com
 217.210.203.35.bc.googleusercontent.com
-218.234.205.35.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 249.210.203.35.bc.googleusercontent.com
 39.149.216.162.bc.googleusercontent.com
-48.105.138.34.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 97-107-129-162.ip.linodeusercontent.com
-99.96.14.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -56,6 +52,7 @@ ns3228814.ip-57-128-140.eu
 o067.scanner.modat.io
 o312.scanner.modat.io
 o350.scanner.modat.io
+o616.scanner.modat.io
 o623.scanner.modat.io
 o625.scanner.modat.io
 o631.scanner.modat.io
@@ -66,7 +63,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 s4850.vps.hosting
-scan-63-2.shadowserver.io
 scan-74-02.shadowserver.io
 scan-74-07.shadowserver.io
 scanner-info.rootevidence.com
