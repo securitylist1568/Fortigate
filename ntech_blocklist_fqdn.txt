@@ -31,6 +31,7 @@
 189.149.216.162.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
+221.226.175.207.bc.googleusercontent.com
 245.89.78.34.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -73,6 +74,7 @@ rootevidence.com
 scan-13n.shadowserver.io
 scan-40e.shadowserver.io
 scan-45g.shadowserver.io
+scan-52k.shadowserver.io
 scan-61-4.shadowserver.io
 scan-70-00.shadowserver.io
 scan-77-06.shadowserver.io
