@@ -23,7 +23,6 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
-147.150.216.162.bc.googleusercontent.com
 158.62.79.34.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 172-236-102-190.ip.linodeusercontent.com
@@ -64,7 +63,6 @@
 2d0b6ab5.ams.customer.misaka.io
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
-45-56-111-19.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-103-169.ip.linodeusercontent.com
@@ -73,12 +71,10 @@
 45-79-145-211.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
 45-79-145-254.ip.linodeusercontent.com
-45-79-175-132.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.10.199.104.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 87.70.62.34.bc.googleusercontent.com
-9213038d.customer.misaka.se
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -111,8 +107,8 @@ kathmandu.scan.bufferover.run
 li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+o072.scanner.modat.io
 o073.scanner.modat.io
-o316.scanner.modat.io
 o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -125,7 +121,6 @@ scan-47k.shadowserver.io
 scan-52c.shadowserver.io
 scan-76-03.shadowserver.io
 scan-79-00.shadowserver.io
-scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
