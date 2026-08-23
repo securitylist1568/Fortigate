@@ -20,6 +20,7 @@
 124.211.203.35.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
 139.248.24.117.broad.qz.fj.dynamic.163data.com.cn
+146.211.203.35.bc.googleusercontent.com
 158.62.79.34.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
@@ -45,6 +46,7 @@ ip-56-250.venom-dc.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o064.scanner.modat.io
 o341.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
