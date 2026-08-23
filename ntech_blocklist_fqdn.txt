@@ -17,8 +17,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+123.150.216.162.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
-146.211.203.35.bc.googleusercontent.com
 163.203.158.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -26,7 +26,6 @@
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
 202.182.124.34.vultrusercontent.com
-25.100.172.144.static.cloudzy.com
 45-79-162-245.ip.linodeusercontent.com
 62.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -41,9 +40,9 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip-49-90.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-o064.scanner.modat.io
 o312.scanner.modat.io
 o313.scanner.modat.io
 o343.scanner.modat.io
@@ -58,7 +57,6 @@ recyber.net
 rootevidence.com
 scan-08g.shadowserver.io
 scan-12f.shadowserver.io
-scan-15k.shadowserver.io
 scan-56.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
