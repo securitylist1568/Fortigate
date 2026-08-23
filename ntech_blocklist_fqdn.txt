@@ -23,6 +23,7 @@
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
+157.149.216.162.bc.googleusercontent.com
 158.62.79.34.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 172-236-102-190.ip.linodeusercontent.com
@@ -74,6 +75,7 @@
 45-79-225-32.ip.linodeusercontent.com
 45.10.199.104.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
+59.149.216.162.bc.googleusercontent.com
 87.70.62.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
@@ -117,6 +119,7 @@ r297-pr-guacu.ibys.com.br
 rdns01.ipsyn.net
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-47k.shadowserver.io
 scan-52c.shadowserver.io
 scan-76-03.shadowserver.io
