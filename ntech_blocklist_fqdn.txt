@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 243.226.52.34.bc.googleusercontent.com
 248.211.203.35.bc.googleusercontent.com
+25.100.172.144.static.cloudzy.com
 26.180.79.34.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 87.70.62.34.bc.googleusercontent.com
