@@ -60,6 +60,7 @@ rootevidence.com
 scan-08g.shadowserver.io
 scan-12f.shadowserver.io
 scan-15k.shadowserver.io
+scan-56.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
