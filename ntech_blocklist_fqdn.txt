@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,19 +22,15 @@
 173-255-233-109.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 202.150.216.162.bc.googleusercontent.com
-212.149.216.162.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 45-56-111-19.ip.linodeusercontent.com
 45-79-175-132.ip.linodeusercontent.com
 45.210.203.35.bc.googleusercontent.com
-79.217.175.207.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aa27e38f.sea.customer.misaka.io
-adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-b9d155e9.mow.customer.misaka.io
 c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
 dal215.hawkhost.com
@@ -50,7 +45,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
-ns348703.ip-176-31-232.eu
 o316.scanner.modat.io
 o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
