@@ -20,6 +20,7 @@
 12.212.205.35.bc.googleusercontent.com
 122.150.216.162.bc.googleusercontent.com
 126.48.62.34.bc.googleusercontent.com
+134.149.216.162.bc.googleusercontent.com
 135.148.38.185.baremetal.zare.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
