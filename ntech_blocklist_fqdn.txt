@@ -19,10 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 12.212.205.35.bc.googleusercontent.com
 126.48.62.34.bc.googleusercontent.com
+135.148.38.185.baremetal.zare.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
+143.14.168.0-24.bbhost.com.br
 157.149.216.162.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
 158.62.79.34.bc.googleusercontent.com
@@ -112,6 +114,7 @@ li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o072.scanner.modat.io
 o073.scanner.modat.io
+o315.scanner.modat.io
 o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
