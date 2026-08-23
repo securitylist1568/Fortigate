@@ -62,6 +62,7 @@ r297-pr-guacu.ibys.com.br
 rdns01.ipsyn.net
 recyber.net
 rootevidence.com
+scan-76-03.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
