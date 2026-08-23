@@ -22,6 +22,7 @@
 158.62.79.34.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 178.150.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
