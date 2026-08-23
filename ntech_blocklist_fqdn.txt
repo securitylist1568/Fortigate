@@ -54,6 +54,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.io
+scan-15k.shadowserver.io
 scan-61-4.shadowserver.io
 scan-77-06.shadowserver.io
 scan-86-7.shadowserver.io
