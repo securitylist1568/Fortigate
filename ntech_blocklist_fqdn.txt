@@ -120,6 +120,7 @@ r297-pr-guacu.ibys.com.br
 rdns01.ipsyn.net
 recyber.net
 rootevidence.com
+s1365388.smartape-vps.com
 scan-40g.shadowserver.io
 scan-47k.shadowserver.io
 scan-52c.shadowserver.io
