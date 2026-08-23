@@ -27,7 +27,6 @@
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
 201.216.53.34.bc.googleusercontent.com
-243.226.52.34.bc.googleusercontent.com
 3.149.216.162.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 46-21-153-58.static.hvvc.us
@@ -36,11 +35,11 @@
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 79.217.175.207.bc.googleusercontent.com
 8.151.156.34.bc.googleusercontent.com
-87.70.62.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+d309gsug6.autoinsure-hq.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
@@ -51,8 +50,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o059.scanner.modat.io
-o072.scanner.modat.io
-o073.scanner.modat.io
 o315.scanner.modat.io
 o339.scanner.modat.io
 pc112.cses.ilc.edu.tw
