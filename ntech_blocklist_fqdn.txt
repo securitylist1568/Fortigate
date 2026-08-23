@@ -19,14 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.150.216.162.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
-135.148.38.185.baremetal.zare.com
 139.248.24.117.broad.qz.fj.dynamic.163data.com.cn
-143.14.168.0-24.bbhost.com.br
 158.62.79.34.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.211.203.35.bc.googleusercontent.com
 243.226.52.34.bc.googleusercontent.com
 26.180.79.34.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
@@ -48,8 +45,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-o059.scanner.modat.io
-o315.scanner.modat.io
 o339.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
