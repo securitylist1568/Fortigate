@@ -23,6 +23,7 @@
 158.62.79.34.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
+172-232-121-108.ip.linodeusercontent.com
 178.150.216.162.bc.googleusercontent.com
 18.183.153.103.in-addr.arpa.snthostings.com
 185-45-195-15.hostsailor.com
@@ -47,6 +48,7 @@ ip-49-142.web1.bg
 ip-56-250.venom-dc.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o064.scanner.modat.io
 o341.scanner.modat.io
