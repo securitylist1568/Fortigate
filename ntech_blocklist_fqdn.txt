@@ -101,6 +101,7 @@ ec2-44-212-74-78.compute-1.amazonaws.com
 ec2-54-160-226-127.compute-1.amazonaws.com
 ec2-54-167-96-173.compute-1.amazonaws.com
 ec2-54-221-75-112.compute-1.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
