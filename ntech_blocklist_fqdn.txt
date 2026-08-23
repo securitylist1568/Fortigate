@@ -24,6 +24,7 @@
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 157.149.216.162.bc.googleusercontent.com
+158.150.216.162.bc.googleusercontent.com
 158.62.79.34.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 172-236-102-190.ip.linodeusercontent.com
@@ -43,6 +44,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-233-109.ip.linodeusercontent.com
+176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 192-81-132-226.ip.linodeusercontent.com
@@ -63,6 +65,7 @@
 243.226.52.34.bc.googleusercontent.com
 26.180.79.34.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
+3.149.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -77,6 +80,8 @@
 45.10.199.104.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
+79.217.175.207.bc.googleusercontent.com
 87.70.62.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
