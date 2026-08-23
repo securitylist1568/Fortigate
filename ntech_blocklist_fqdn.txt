@@ -121,6 +121,7 @@ scan-47k.shadowserver.io
 scan-52c.shadowserver.io
 scan-76-03.shadowserver.io
 scan-79-00.shadowserver.io
+scan-84-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
