@@ -22,6 +22,7 @@
 135.148.38.185.baremetal.zare.com
 139.248.24.117.broad.qz.fj.dynamic.163data.com.cn
 143.14.168.0-24.bbhost.com.br
+163.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
