@@ -20,6 +20,7 @@
 122.150.216.162.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
 135.148.38.185.baremetal.zare.com
+139.248.24.117.broad.qz.fj.dynamic.163data.com.cn
 143.14.168.0-24.bbhost.com.br
 157.149.216.162.bc.googleusercontent.com
 158.150.216.162.bc.googleusercontent.com
