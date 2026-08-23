@@ -41,6 +41,7 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
+ip-49-90.4vendeta.com
 ip-56-250.venom-dc.com
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -66,5 +67,6 @@ scan-61-4.shadowserver.io
 scan-77-06.shadowserver.io
 scan-86-7.shadowserver.io
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
