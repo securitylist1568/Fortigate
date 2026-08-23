@@ -44,7 +44,6 @@
 173-255-223-32.ip.linodeusercontent.com
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
-173-255-233-109.ip.linodeusercontent.com
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 190.211.203.35.bc.googleusercontent.com
@@ -55,7 +54,6 @@
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 201.216.53.34.bc.googleusercontent.com
-202.150.216.162.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
@@ -80,7 +78,6 @@
 45-79-145-254.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.10.199.104.bc.googleusercontent.com
-45.210.203.35.bc.googleusercontent.com
 59.149.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 79.217.175.207.bc.googleusercontent.com
@@ -104,27 +101,21 @@ ec2-44-212-74-78.compute-1.amazonaws.com
 ec2-54-160-226-127.compute-1.amazonaws.com
 ec2-54-167-96-173.compute-1.amazonaws.com
 ec2-54-221-75-112.compute-1.amazonaws.com
-embnex.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o059.scanner.modat.io
 o072.scanner.modat.io
 o073.scanner.modat.io
 o315.scanner.modat.io
-o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-r297-pr-guacu.ibys.com.br
 rdns01.ipsyn.net
 recyber.net
-rootevidence.com
 s1365388.smartape-vps.com
 scan-40g.shadowserver.io
 scan-47k.shadowserver.io
@@ -137,5 +128,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 users219.vip.heteml.jp
-v160-251-222-145.mlhh.static.cnode.jp
 www.internet-albedo.net
