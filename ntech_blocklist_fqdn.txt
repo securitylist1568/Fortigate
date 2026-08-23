@@ -118,13 +118,10 @@ o339.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-rdns01.ipsyn.net
 recyber.net
 s1365388.smartape-vps.com
 scan-40g.shadowserver.io
-scan-47k.shadowserver.io
 scan-52c.shadowserver.io
-scan-76-03.shadowserver.io
 scan-79-00.shadowserver.io
 scan-84-0.shadowserver.io
 security.criminalip.com
@@ -132,4 +129,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 users219.vip.heteml.jp
-www.internet-albedo.net
