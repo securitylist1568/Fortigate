@@ -30,6 +30,7 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 213.170.175.207.bc.googleusercontent.com
+230.150.216.162.bc.googleusercontent.com
 238.246.77.34.bc.googleusercontent.com
 239.160.241.35.bc.googleusercontent.com
 4.45.62.34.bc.googleusercontent.com
@@ -99,6 +100,7 @@ rootevidence.com
 rping.ipip.net
 scan-04i.shadowserver.io
 scan-13l.shadowserver.io
+scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-67-1.shadowserver.io
 security.criminalip.com
