@@ -62,6 +62,7 @@ azpdssteiqpy.stretchoid.com
 azpdssy9gjfn.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
+c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -87,6 +88,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-218.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
