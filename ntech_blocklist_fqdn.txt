@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 2-59-169-250.hosted-by-worldstream.net
 213.170.175.207.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 4.45.62.34.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
 46-21-153-58.static.hvvc.us
