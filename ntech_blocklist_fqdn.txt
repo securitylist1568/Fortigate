@@ -35,6 +35,7 @@
 4.45.62.34.bc.googleusercontent.com
 46.95.187.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
+64.158.53.34.bc.googleusercontent.com
 66-175-214-112.ip.linodeusercontent.com
 8.247.79.34.bc.googleusercontent.com
 93.167.38.34.bc.googleusercontent.com
