@@ -20,7 +20,6 @@
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 195x91x217x34.static-business.msk.ertelecom.ru
-204.76.203.49.ptr.pfcloud.network
 79.124.56.142.superbit.host
 83.166.97.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -49,14 +48,12 @@ mx1.economicalytrustfunds.com
 no-mans-land.m247.com
 o605.scanner.modat.io
 o609.scanner.modat.io
-o625.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-58a.shadowserver.io
-scan-88-6.shadowserver.io
 security.criminalip.com
 server.donungdee.com
 smtp1.telemach.net
