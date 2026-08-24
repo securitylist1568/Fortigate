@@ -18,11 +18,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
-123-192-192-150.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 195x91x217x34.static-business.msk.ertelecom.ru
 204.76.203.49.ptr.pfcloud.network
-204.76.203.91.ptr.pfcloud.network
 79.124.56.142.superbit.host
 83.166.97.34.bc.googleusercontent.com
 aim.sba-research.org
