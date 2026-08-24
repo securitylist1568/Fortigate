@@ -45,6 +45,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 nk218-187-87-36.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
+o625.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
@@ -54,6 +55,7 @@ rootevidence.com
 scan-04c.shadowserver.io
 scan-76-02.shadowserver.io
 scan-84-0.shadowserver.io
+scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
