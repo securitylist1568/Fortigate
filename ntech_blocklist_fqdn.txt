@@ -33,7 +33,6 @@ dns12.online.tj.cn
 ec2-13-38-109-133.eu-west-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-56-210.4vendeta.com
@@ -46,7 +45,6 @@ li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 mx1.economicalytrustfunds.com
-nk218-187-87-36.adsl.dynamic.apol.com.tw
 no-mans-land.m247.com
 o605.scanner.modat.io
 o609.scanner.modat.io
@@ -56,9 +54,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-04c.shadowserver.io
 scan-58a.shadowserver.io
-scan-76-02.shadowserver.io
 scan-88-6.shadowserver.io
 security.criminalip.com
 server.donungdee.com
