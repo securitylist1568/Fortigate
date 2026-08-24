@@ -19,17 +19,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.50.38.34.bc.googleusercontent.com
 144.206.175.207.bc.googleusercontent.com
-172-232-231-4.ip.linodeusercontent.com
 179.123.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 2-59-169-250.hosted-by-worldstream.net
 203-74-130-205.hinet-ip.hinet.net
 213.170.175.207.bc.googleusercontent.com
-230.150.216.162.bc.googleusercontent.com
 235.131.7.34.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
-60-249-14-121.hinet-ip.hinet.net
-64.158.53.34.bc.googleusercontent.com
 87.165.230.35.bc.googleusercontent.com
 93.167.38.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -53,7 +49,6 @@ niall.probe.onyphe.net
 ns574789.ip-51-222-40.net
 o058.scanner.modat.io
 o315.scanner.modat.io
-o338.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -61,7 +56,6 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-15i.shadowserver.io
-scan-40g.shadowserver.io
 scan-53j.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
