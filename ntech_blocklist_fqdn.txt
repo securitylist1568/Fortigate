@@ -30,6 +30,7 @@ amz.unixwiz.net
 azpdcgrbfvbu.stretchoid.com
 azpdcs19ivb5.stretchoid.com
 azpdsg1j90qs.stretchoid.com
+azpdsg4lwdz3.stretchoid.com
 azpdsg5u7l7d.stretchoid.com
 azpdsghmx647.stretchoid.com
 azpdsgigumtz.stretchoid.com
@@ -62,7 +63,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 remote.streamingsb24.com
 rootevidence.com
+scan-04i.shadowserver.io
+scan-13l.shadowserver.io
 scan-56.security.ipip.net
+scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
