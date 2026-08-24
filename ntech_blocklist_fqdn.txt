@@ -22,6 +22,7 @@
 123-192-192-150.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 2-59-169-250.hosted-by-worldstream.net
+204.76.203.49.ptr.pfcloud.network
 204.76.203.91.ptr.pfcloud.network
 213.170.175.207.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
