@@ -35,7 +35,6 @@
 238.246.77.34.bc.googleusercontent.com
 239.160.241.35.bc.googleusercontent.com
 4.45.62.34.bc.googleusercontent.com
-46.95.187.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 64.158.53.34.bc.googleusercontent.com
 8.247.79.34.bc.googleusercontent.com
@@ -45,11 +44,7 @@ amz.unixwiz.net
 azpdsg1j90qs.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
 azpdsg58gbbx.stretchoid.com
-azpdsg5u7l7d.stretchoid.com
-azpdsghmx647.stretchoid.com
 azpdsgor4bdz.stretchoid.com
-azpdssaj95k7.stretchoid.com
-azpdssee30ij.stretchoid.com
 azpdssteiqpy.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
@@ -84,6 +79,7 @@ li1817-110.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 no-mans-land.m247.com
+o315.scanner.modat.io
 o338.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
