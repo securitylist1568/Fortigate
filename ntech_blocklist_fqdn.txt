@@ -21,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.50.38.34.bc.googleusercontent.com
 116.137.78.34.bc.googleusercontent.com
-117.149.216.162.bc.googleusercontent.com
 124.190.78.34.bc.googleusercontent.com
 125-227-127-85.hinet-ip.hinet.net
 163.203.158.34.bc.googleusercontent.com
@@ -29,6 +28,7 @@
 172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
+203-74-130-205.hinet-ip.hinet.net
 213.170.175.207.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
 238.246.77.34.bc.googleusercontent.com
@@ -37,7 +37,6 @@
 46.95.187.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 64.158.53.34.bc.googleusercontent.com
-66-175-214-112.ip.linodeusercontent.com
 8.247.79.34.bc.googleusercontent.com
 93.167.38.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -86,17 +85,15 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-218.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns542250.ip-144-217-76.net
+o338.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-remote.streamingsb24.com
-rootevidence.com
 rping.ipip.net
 scan-04i.shadowserver.io
 scan-13l.shadowserver.io
