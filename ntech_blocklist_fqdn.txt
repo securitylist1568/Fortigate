@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.50.38.34.bc.googleusercontent.com
+114-40-29-239.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 2-59-169-250.hosted-by-worldstream.net
 213.170.175.207.bc.googleusercontent.com
