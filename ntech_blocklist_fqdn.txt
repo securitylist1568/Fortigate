@@ -44,8 +44,6 @@ amz.unixwiz.net
 azpdsg1j90qs.stretchoid.com
 azpdsg4lwdz3.stretchoid.com
 azpdsg58gbbx.stretchoid.com
-azpdsgor4bdz.stretchoid.com
-azpdssteiqpy.stretchoid.com
 azpdwsrmv2rv.stretchoid.com
 b2.org.afilias-nst.org
 c-76-104-141-138.hsd1.wa.comcast.net
@@ -71,11 +69,11 @@ ec2-54-242-243-244.compute-1.amazonaws.com
 ec2-54-82-246-179.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-218.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1817-110.members.linode.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 no-mans-land.m247.com
@@ -92,6 +90,7 @@ scan-13l.shadowserver.io
 scan-15i.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
+scan-53j.shadowserver.io
 scan-67-1.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
