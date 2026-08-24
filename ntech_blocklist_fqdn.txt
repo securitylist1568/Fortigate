@@ -23,7 +23,6 @@
 204.76.203.49.ptr.pfcloud.network
 204.76.203.91.ptr.pfcloud.network
 2d96f25f.customer.misaka.taipei
-46-21-153-58.static.hvvc.us
 79.124.56.142.superbit.host
 83.166.97.34.bc.googleusercontent.com
 aim.sba-research.org
