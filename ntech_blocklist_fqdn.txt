@@ -22,16 +22,18 @@
 113.50.38.34.bc.googleusercontent.com
 116.137.78.34.bc.googleusercontent.com
 117.149.216.162.bc.googleusercontent.com
-123.150.216.162.bc.googleusercontent.com
 124.190.78.34.bc.googleusercontent.com
 125-227-127-85.hinet-ip.hinet.net
 163.203.158.34.bc.googleusercontent.com
 167.198.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194-195-122-95.ip.linodeusercontent.com
 213.170.175.207.bc.googleusercontent.com
 238.246.77.34.bc.googleusercontent.com
 239.160.241.35.bc.googleusercontent.com
+4.45.62.34.bc.googleusercontent.com
 46.95.187.35.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 66-175-214-112.ip.linodeusercontent.com
 8.247.79.34.bc.googleusercontent.com
 93.167.38.34.bc.googleusercontent.com
@@ -86,7 +88,6 @@ li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns542250.ip-144-217-76.net
-o313.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
