@@ -25,7 +25,9 @@
 203-74-130-205.hinet-ip.hinet.net
 213.170.175.207.bc.googleusercontent.com
 235.131.7.34.bc.googleusercontent.com
+4.45.62.34.bc.googleusercontent.com
 45.135.193.43.ptr.pfcloud.network
+64.158.53.34.bc.googleusercontent.com
 87.165.230.35.bc.googleusercontent.com
 93.167.38.34.bc.googleusercontent.com
 aim.sba-research.org
