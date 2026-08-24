@@ -44,6 +44,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+monet-17.crawler.deepfield.net
 mx1.economicalytrustfunds.com
 no-mans-land.m247.com
 o605.scanner.modat.io
