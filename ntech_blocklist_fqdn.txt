@@ -23,9 +23,11 @@
 116.137.78.34.bc.googleusercontent.com
 124.190.78.34.bc.googleusercontent.com
 125-227-127-85.hinet-ip.hinet.net
+144.206.175.207.bc.googleusercontent.com
 163.203.158.34.bc.googleusercontent.com
 167.198.175.207.bc.googleusercontent.com
 172-232-231-4.ip.linodeusercontent.com
+179.123.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
@@ -97,6 +99,7 @@ recyber.net
 rping.ipip.net
 scan-04i.shadowserver.io
 scan-13l.shadowserver.io
+scan-15i.shadowserver.io
 scan-40g.shadowserver.io
 scan-43h.shadowserver.io
 scan-67-1.shadowserver.io
