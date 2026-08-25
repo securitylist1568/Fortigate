@@ -130,7 +130,6 @@ azpdwsowi27o.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
-crawler140.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-55-80-54.compute-1.amazonaws.com
@@ -165,7 +164,6 @@ recyber.net
 scan-43b.shadowserver.io
 scan-77-02.shadowserver.io
 scan-79-00.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
