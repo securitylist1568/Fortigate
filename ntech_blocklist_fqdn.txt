@@ -41,6 +41,7 @@ mfyabgec.musicpda.com
 o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.io
