@@ -21,6 +21,7 @@
 13.253.156.34.bc.googleusercontent.com
 163.239.126.216.static.cloudzy.com
 172-104-100-28.ip.linodeusercontent.com
+174.31.152.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 2d83453c.mow.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
