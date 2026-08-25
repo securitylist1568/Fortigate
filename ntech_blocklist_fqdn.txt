@@ -42,6 +42,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mail.nas23.ru
 mfyabgec.musicpda.com
+o310.scanner.modat.io
 o315.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
