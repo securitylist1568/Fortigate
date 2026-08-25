@@ -22,7 +22,6 @@
 174.31.152.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 2d83453c.mow.customer.misaka.io
-2d96f380.kbp.customer.misaka.io
 53.26.71.192.in-addr.arpa
 6682315a.customer.misaka.joburg
 aim.sba-research.org
@@ -41,13 +40,11 @@ ip-58-74.4vendeta.com
 ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-mail.nas23.ru
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1.serversurgeon.com
 o046.scanner.modat.io
 o055.scanner.modat.io
-o310.scanner.modat.io
 o620.scanner.modat.io
 o622.scanner.modat.io
 o623.scanner.modat.io
