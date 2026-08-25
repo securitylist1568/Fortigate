@@ -54,6 +54,7 @@ ec2-54-172-145-28.compute-1.amazonaws.com
 ec2-54-172-52-31.compute-1.amazonaws.com
 ec2-54-173-151-250.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
