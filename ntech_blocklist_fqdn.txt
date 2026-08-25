@@ -22,6 +22,7 @@
 163.239.126.216.static.cloudzy.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+2d83453c.mow.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
 53.26.71.192.in-addr.arpa
 6682315a.customer.misaka.joburg
@@ -42,7 +43,9 @@ li1570-11.members.linode.com
 mail.nas23.ru
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o046.scanner.modat.io
 o310.scanner.modat.io
+o620.scanner.modat.io
 o623.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
