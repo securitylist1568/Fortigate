@@ -44,6 +44,7 @@ ip29.sudolio.io
 mail.nas23.ru
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns1.serversurgeon.com
 o046.scanner.modat.io
 o055.scanner.modat.io
 o310.scanner.modat.io
