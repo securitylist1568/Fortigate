@@ -155,7 +155,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-monet-17.crawler.deepfield.net
 o311.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
