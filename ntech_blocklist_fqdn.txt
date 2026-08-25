@@ -21,6 +21,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 13.253.156.34.bc.googleusercontent.com
+144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 191.34.117.30.dynamic.adsl.gvt.net.br
 203.224.76.34.bc.googleusercontent.com
@@ -130,6 +131,7 @@ azpdwsdsncxt.stretchoid.com
 azpdwsowi27o.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
+c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
