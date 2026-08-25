@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 191.34.117.30.dynamic.adsl.gvt.net.br
 222.255.143.122.adsl-pool.jlccptt.net.cn
-aim.sba-research.org
 amz.unixwiz.net
 azpdcgdroqxu.stretchoid.com
 azpdcgf6ljqc.stretchoid.com
@@ -128,8 +127,6 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
-li1625-135.members.linode.com
 mfyabgec.musicpda.com
 monet-17.crawler.deepfield.net
 o311.scanner.modat.io
@@ -142,6 +139,5 @@ scan-79-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi3494411.contaboserver.net
