@@ -48,6 +48,7 @@ o046.scanner.modat.io
 o055.scanner.modat.io
 o310.scanner.modat.io
 o620.scanner.modat.io
+o622.scanner.modat.io
 o623.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -62,6 +63,7 @@ scan-74-07.shadowserver.io
 scan-79-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
 users219.vip.heteml.jp
