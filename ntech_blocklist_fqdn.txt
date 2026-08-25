@@ -23,10 +23,8 @@
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 219.131.38.34.bc.googleusercontent.com
-222.193.147.219.broad.qq.hl.dynamic.163data.com.cn
 248.146.175.207.bc.googleusercontent.com
 35.101.199.104.bc.googleusercontent.com
-50.55.175.207.bc.googleusercontent.com
 61-230-177-96.dynamic-ip.hinet.net
 83.166.97.34.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
@@ -50,7 +48,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-43b.shadowserver.io
+scan-52c.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
