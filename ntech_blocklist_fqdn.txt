@@ -29,6 +29,7 @@
 222.193.147.219.broad.qq.hl.dynamic.163data.com.cn
 222.255.143.122.adsl-pool.jlccptt.net.cn
 225.205.62.34.bc.googleusercontent.com
+248.146.175.207.bc.googleusercontent.com
 35.101.199.104.bc.googleusercontent.com
 50.55.175.207.bc.googleusercontent.com
 61-230-177-96.dynamic-ip.hinet.net
