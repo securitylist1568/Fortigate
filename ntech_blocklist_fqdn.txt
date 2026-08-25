@@ -25,6 +25,7 @@
 191.34.117.30.dynamic.adsl.gvt.net.br
 203.224.76.34.bc.googleusercontent.com
 219.131.38.34.bc.googleusercontent.com
+222.193.147.219.broad.qq.hl.dynamic.163data.com.cn
 222.255.143.122.adsl-pool.jlccptt.net.cn
 225.205.62.34.bc.googleusercontent.com
 35.101.199.104.bc.googleusercontent.com
@@ -160,6 +161,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43b.shadowserver.io
 scan-77-02.shadowserver.io
 scan-79-00.shadowserver.io
 security.criminalip.com
