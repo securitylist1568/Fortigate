@@ -146,6 +146,7 @@ ec2-54-173-151-250.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fwnvyxu.top
 get174.ingetitin.com
+go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
