@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-136-246-19.emome-ip.hinet.net
 13.253.156.34.bc.googleusercontent.com
 163.239.126.216.static.cloudzy.com
 185-45-195-15.hostsailor.com
@@ -34,7 +33,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-250.venom-dc.com
@@ -44,7 +42,6 @@ li1570-11.members.linode.com
 mail.nas23.ru
 mfyabgec.musicpda.com
 o310.scanner.modat.io
-o315.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
