@@ -45,6 +45,8 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
+net-2-40-99-114.cust.vodafonedsl.it
+o325.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
