@@ -102,6 +102,7 @@ recyber.net
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
+scan-45g.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
 scan-69-00.shadowserver.io
