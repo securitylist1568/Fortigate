@@ -20,17 +20,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.101.175.207.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
-160-119-76-107.ptr.as49870.net
 174.31.152.34.bc.googleusercontent.com
-18.101.40.34.bc.googleusercontent.com
 180.129.251.23.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 204.4.140.34.bc.googleusercontent.com
 233.17.240.35.bc.googleusercontent.com
-2d834681.led.customer.misaka.io
-42.123.243.83.in-addr.arpa
-66-165-247-30.static.hvvc.us
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
