@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 119.101.175.207.bc.googleusercontent.com
+159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 160-119-76-107.ptr.as49870.net
 174.31.152.34.bc.googleusercontent.com
 18.101.40.34.bc.googleusercontent.com
@@ -52,6 +53,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
+publimur.com
 recyber.net
 scan-04i.shadowserver.io
 scan-08g.shadowserver.io
