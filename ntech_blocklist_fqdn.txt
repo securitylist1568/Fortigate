@@ -31,7 +31,6 @@
 42.123.243.83.in-addr.arpa
 66-165-247-30.static.hvvc.us
 aa27e3fb.sea.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 azpdsg8708op.stretchoid.com
 b2.org.afilias-nst.org
@@ -39,18 +38,15 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 net-2-40-99-114.cust.vodafonedsl.it
 o325.scanner.modat.io
-o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
