@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.188.62.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -40,13 +39,11 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-218-126-98.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
-hebei.10.60.in-addr.arpa
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 net-2-40-99-114.cust.vodafonedsl.it
 o325.scanner.modat.io
@@ -60,10 +57,8 @@ scan-04i.shadowserver.io
 scan-08g.shadowserver.io
 scan-69-00.shadowserver.io
 scan-73-02.shadowserver.io
-scan-77-06.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-v133-18-162-43.vir.kagoya.net
