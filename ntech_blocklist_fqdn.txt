@@ -24,8 +24,8 @@
 18.101.40.34.bc.googleusercontent.com
 180.129.251.23.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+204.4.140.34.bc.googleusercontent.com
 233.17.240.35.bc.googleusercontent.com
-243.56.76.34.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 42.123.243.83.in-addr.arpa
 45.87.149.34.bc.googleusercontent.com
@@ -55,7 +55,8 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40g.shadowserver.io
+scan-04i.shadowserver.io
+scan-08g.shadowserver.io
 scan-45g.shadowserver.io
 scan-67-1.shadowserver.io
 scan-69-00.shadowserver.io
@@ -64,6 +65,5 @@ scan-80-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 v133-18-162-43.vir.kagoya.net
