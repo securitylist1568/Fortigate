@@ -67,8 +67,10 @@ ip-58-74.4vendeta.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1992-217.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns1.serversurgeon.com
 ns574789.ip-51-222-40.net
 o027.scanner.modat.io
 o067.scanner.modat.io
@@ -82,6 +84,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 publimur.com
+radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-71-00.shadowserver.io
