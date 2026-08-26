@@ -57,6 +57,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-135-223-15.us-east-2.compute.amazonaws.com
+enews-atanh.mundusinternational.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-176-36-251-42.b024.la.net.ua
@@ -84,6 +85,7 @@ proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
 rootevidence.com
+scan-60.security.ipip.net
 scan-71-00.shadowserver.io
 security.criminalip.com
 sfo2-3.fluorine.do.prod.binaryedge.ninja
