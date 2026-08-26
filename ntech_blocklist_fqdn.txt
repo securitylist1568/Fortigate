@@ -25,11 +25,15 @@
 aim.sba-research.org
 amz.unixwiz.net
 azpdesz1peng.stretchoid.com
+azpdesz94svh.stretchoid.com
 azpdws0abv8o.stretchoid.com
 azpdws28fzrt.stretchoid.com
+azpdws2d2u0g.stretchoid.com
 azpdws5nnlo6.stretchoid.com
 azpdwsikeloj.stretchoid.com
 azpdwsn9xm7h.stretchoid.com
+azpdwsthy6ur.stretchoid.com
+azpdwsu6iejm.stretchoid.com
 azpdwswkjfu1.stretchoid.com
 b2.org.afilias-nst.org
 c-73-212-14-186.hsd1.md.comcast.net
@@ -49,6 +53,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns574789.ip-51-222-40.net
+o027.scanner.modat.io
 o067.scanner.modat.io
 o073.scanner.modat.io
 o351.scanner.modat.io
