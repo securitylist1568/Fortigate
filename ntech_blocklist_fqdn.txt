@@ -42,6 +42,7 @@ li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns574789.ip-51-222-40.net
+o067.scanner.modat.io
 o073.scanner.modat.io
 o338.scanner.modat.io
 o351.scanner.modat.io
