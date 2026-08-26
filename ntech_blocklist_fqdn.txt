@@ -19,14 +19,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-107-139-87.snet.net.pk
-119.101.175.207.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 160-119-76-107.ptr.as49870.net
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 aim.sba-research.org
 amz.unixwiz.net
-azpdsg8708op.stretchoid.com
 b2.org.afilias-nst.org
 c-73-212-14-186.hsd1.md.comcast.net
 c-76-104-141-138.hsd1.wa.comcast.net
@@ -37,6 +35,7 @@ ec2-18-218-126-98.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-74.4vendeta.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -45,6 +44,7 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns574789.ip-51-222-40.net
 o338.scanner.modat.io
+o351.scanner.modat.io
 o614.scanner.modat.io
 o618.scanner.modat.io
 o622.scanner.modat.io
@@ -55,9 +55,9 @@ publimur.com
 recyber.net
 scan-69-00.shadowserver.io
 scan-71-00.shadowserver.io
-scan-73-02.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
+sfo2-3.fluorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
