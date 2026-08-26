@@ -55,6 +55,7 @@
 233.17.240.35.bc.googleusercontent.com
 238.104.140.34.bc.googleusercontent.com
 243.56.76.34.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 36-229-95-248.dynamic-ip.hinet.net
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
