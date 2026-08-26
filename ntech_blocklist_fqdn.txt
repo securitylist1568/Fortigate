@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-107-139-87.snet.net.pk
 160-119-76-107.ptr.as49870.net
 185-45-195-15.hostsailor.com
 aim.sba-research.org
@@ -52,7 +51,6 @@ azpdwswheaxc.stretchoid.com
 azpdwswkjfu1.stretchoid.com
 b2.org.afilias-nst.org
 c-73-212-14-186.hsd1.md.comcast.net
-c-76-104-141-138.hsd1.wa.comcast.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -63,22 +61,18 @@ hn.kd.ny.adsl
 host-176-36-251-42.b024.la.net.ua
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-74.4vendeta.com
-ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns1.serversurgeon.com
-ns574789.ip-51-222-40.net
 o027.scanner.modat.io
 o067.scanner.modat.io
 o073.scanner.modat.io
 o351.scanner.modat.io
-o614.scanner.modat.io
 o618.scanner.modat.io
 o621.scanner.modat.io
-o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -87,7 +81,6 @@ radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-60.security.ipip.net
-scan-71-00.shadowserver.io
 security.criminalip.com
 sfo2-3.fluorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
