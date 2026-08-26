@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-103.204.171.251.gstsoft.in
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -19,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-107-139-87.snet.net.pk
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 160-119-76-107.ptr.as49870.net
 185-45-195-15.hostsailor.com
 aim.sba-research.org
@@ -83,7 +81,6 @@ o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-publimur.com
 radamelfalcao.xyz
 recyber.net
 rootevidence.com
