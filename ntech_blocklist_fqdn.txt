@@ -31,6 +31,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-218-126-98.us-east-2.compute.amazonaws.com
+ec2-3-135-223-15.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -60,4 +61,5 @@ security.criminalip.com
 sfo2-3.fluorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
