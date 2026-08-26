@@ -21,7 +21,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 160-119-76-107.ptr.as49870.net
 18.101.40.34.bc.googleusercontent.com
+180.129.251.23.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+233.17.240.35.bc.googleusercontent.com
 243.56.76.34.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 42.123.243.83.in-addr.arpa
@@ -46,6 +48,7 @@ mfyabgec.musicpda.com
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.io
