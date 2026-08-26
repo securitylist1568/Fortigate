@@ -92,6 +92,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+mary.probe.onyphe.net
 mfyabgec.musicpda.com
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -105,6 +106,7 @@ scan-45g.shadowserver.io
 scan-52k.shadowserver.io
 scan-67-1.shadowserver.io
 scan-69-00.shadowserver.io
+scan-77-06.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
