@@ -91,10 +91,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
 pool216.homenet.ua
+pool96.homenet.ua
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 rqsqcv.g-service.ru
+scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
