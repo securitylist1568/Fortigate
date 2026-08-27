@@ -43,6 +43,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-81-200-247-11.penza.com.ru
+dynamicip-109-195-38-186.pppoe.barnaul.ertelecom.ru
 ec2-3-135-223-15.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
