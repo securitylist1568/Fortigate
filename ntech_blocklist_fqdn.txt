@@ -28,6 +28,7 @@
 204.211.203.35.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
+242.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 29.179.91.185.rightside.ru
 2d96f25f.customer.misaka.taipei
