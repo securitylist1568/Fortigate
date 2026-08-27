@@ -170,6 +170,7 @@ no-mans-land.m247.com
 o609.scanner.modat.io
 o613.scanner.modat.io
 o621.scanner.modat.io
+o624.scanner.modat.io
 o627.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
