@@ -24,8 +24,8 @@
 153.149.216.162.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
 156.224.158.34.bc.googleusercontent.com
+159.150.216.162.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 178.150.216.162.bc.googleusercontent.com
 184-174-179-94.pool.ukrtel.net
 185-45-195-15.hostsailor.com
@@ -34,16 +34,11 @@
 227.211.203.35.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 29.179.91.185.rightside.ru
-39.150.216.162.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 46.211.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 64.177.40.182.vultrusercontent.com
 67.150.216.162.bc.googleusercontent.com
-68-231-178-94.pool.ukrtel.net
-68.210.203.35.bc.googleusercontent.com
-80.210.203.35.bc.googleusercontent.com
-81-23-170-238.zgtk.ru
 85.117.86.172.static.cloudzy.com
 aa27e193.mci.customer.misaka.io
 aim.sba-research.org
@@ -96,7 +91,6 @@ pool216.homenet.ua
 pool96.homenet.ua
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 rqsqcv.g-service.ru
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
