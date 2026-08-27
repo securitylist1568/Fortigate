@@ -54,6 +54,7 @@ host-176-39-62-84.b027.la.net.ua
 htb-h9b8tjwfph.htb-cloud.com
 ip-91-224-179-73.pool.tv9.net.ua
 ip29.sudolio.io
+ipoe.baikal-telecom.net
 li1537-121.members.linode.com
 li1570-11.members.linode.com
 m3hnjf.g-service.ru
