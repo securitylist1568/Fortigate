@@ -81,8 +81,10 @@ li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o071.scanner.modat.io
+o309.scanner.modat.io
 o311.scanner.modat.io
 o312.scanner.modat.io
+o343.scanner.modat.io
 o345.scanner.modat.io
 o347.scanner.modat.io
 o610.scanner.modat.io
