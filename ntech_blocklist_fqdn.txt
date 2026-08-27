@@ -68,8 +68,8 @@ enews-atanh.mundusinternational.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-176-36-251-42.b024.la.net.ua
+host-81-200-252-72.penza.com.ru
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-74.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1992-217.members.linode.com
@@ -78,9 +78,7 @@ no-mans-land.m247.com
 ns1.serversurgeon.com
 o027.scanner.modat.io
 o067.scanner.modat.io
-o073.scanner.modat.io
 o617.scanner.modat.io
-o621.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -90,7 +88,6 @@ recyber.net
 rootevidence.com
 scan-60.security.ipip.net
 security.criminalip.com
-sfo2-3.fluorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
