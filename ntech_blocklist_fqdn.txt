@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+146.0.80.51.bestsolution.net.ua
 153.149.216.162.bc.googleusercontent.com
 156.224.158.34.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
@@ -52,9 +53,18 @@ dns12.online.tj.cn
 dynamic-81-200-244-36.penza.com.ru
 ec2-13-220-113-14.compute-1.amazonaws.com
 ec2-3-135-223-15.us-east-2.compute.amazonaws.com
+ec2-3-86-230-159.compute-1.amazonaws.com
+ec2-32-192-67-220.compute-1.amazonaws.com
+ec2-32-199-191-214.compute-1.amazonaws.com
+ec2-34-205-154-127.compute-1.amazonaws.com
 ec2-44-201-116-222.compute-1.amazonaws.com
+ec2-44-201-127-28.compute-1.amazonaws.com
 ec2-44-201-252-11.compute-1.amazonaws.com
+ec2-52-73-212-207.compute-1.amazonaws.com
 ec2-52-91-97-115.compute-1.amazonaws.com
+ec2-54-145-20-113.compute-1.amazonaws.com
+ec2-54-166-203-225.compute-1.amazonaws.com
+ec2-54-226-142-67.compute-1.amazonaws.com
 ec2-54-226-74-194.compute-1.amazonaws.com
 ec2-54-234-183-96.compute-1.amazonaws.com
 encontraafreebet.betclic.pt
@@ -74,6 +84,7 @@ o610.scanner.modat.io
 o617.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pool216.homenet.ua
 proxy-ca002-ext2.a.ahrefs.com
 publimur.com
 radamelfalcao.xyz
