@@ -28,6 +28,7 @@
 176.149.216.162.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
+184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193-169-127-6.xatanet.ua
 221-46-185.net.arkada-x.com
@@ -67,6 +68,7 @@ recyber.net
 scan-02k.shadowserver.io
 scan-04f.shadowserver.io
 scan-40e.shadowserver.io
+scan-69-05.shadowserver.io
 scan-74-07.shadowserver.io
 scan-77-06.shadowserver.io
 scan-87-7.shadowserver.io
