@@ -29,6 +29,7 @@
 196-250-178-215.teleceliberia.com
 198-74-58-144.ip.linodeusercontent.com
 204.76.203.49.ptr.pfcloud.network
+219.149.216.162.bc.googleusercontent.com
 220.211.203.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 30-202-250-167.uniconnect.net.br
