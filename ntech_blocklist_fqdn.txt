@@ -21,19 +21,16 @@
 111-240-93-35.dynamic-ip.hinet.net
 131.210.203.35.bc.googleusercontent.com
 132.150.216.162.bc.googleusercontent.com
-134.149.216.162.bc.googleusercontent.com
 156.224.158.34.bc.googleusercontent.com
-159.150.216.162.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
-178.150.216.162.bc.googleusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193-169-127-6.xatanet.ua
-221-46-185.net.arkada-x.com
 242.150.216.162.bc.googleusercontent.com
 28.211.203.35.bc.googleusercontent.com
+2d834781.kunde.misaka.berlin
 40.210.203.35.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
 46x146x198x25.static-business.perm.ertelecom.ru
@@ -58,8 +55,6 @@ lnxsr12.cwp.webr.net.za
 m3hnjf.g-service.ru
 mfyabgec.musicpda.com
 ns5013693.ip-15-235-164.net
-o309.scanner.modat.io
-o343.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 pool96.homenet.ua
@@ -68,7 +63,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
 scan-04f.shadowserver.io
-scan-40e.shadowserver.io
 scan-69-05.shadowserver.io
 scan-74-07.shadowserver.io
 scan-77-06.shadowserver.io
