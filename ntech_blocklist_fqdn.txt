@@ -34,6 +34,7 @@
 29.179.91.185.rightside.ru
 2d96f25f.customer.misaka.taipei
 39.150.216.162.bc.googleusercontent.com
+50-116-23-150.ip.linodeusercontent.com
 54.149.216.162.bc.googleusercontent.com
 64.177.40.182.vultrusercontent.com
 68-231-178-94.pool.ukrtel.net
@@ -44,7 +45,6 @@
 aa27e193.mci.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
-azpdws8vsxvi.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crm.ibatdongsanvip.com
@@ -77,10 +77,9 @@ hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
-ns1.serversurgeon.com
 o071.scanner.modat.io
+o347.scanner.modat.io
 o610.scanner.modat.io
 o617.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -88,7 +87,6 @@ pinkytales.com
 pool216.homenet.ua
 proxy-ca002-ext2.a.ahrefs.com
 publimur.com
-radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-40g.shadowserver.io
