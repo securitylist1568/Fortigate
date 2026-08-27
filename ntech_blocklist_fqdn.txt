@@ -156,6 +156,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamicip-109-195-38-186.pppoe.barnaul.ertelecom.ru
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-91-224-179-195.pool.tv9.net.ua
@@ -169,6 +170,7 @@ no-mans-land.m247.com
 o609.scanner.modat.io
 o613.scanner.modat.io
 o621.scanner.modat.io
+o627.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
