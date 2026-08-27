@@ -54,6 +54,7 @@ ip237.ip-5-39-19.eu
 ip29.sudolio.io
 ipoe.baikal-telecom.net
 li1570-11.members.linode.com
+lnxsr12.cwp.webr.net.za
 m3hnjf.g-service.ru
 mfyabgec.musicpda.com
 ns5013693.ip-15-235-164.net
