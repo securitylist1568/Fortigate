@@ -30,8 +30,6 @@
 184-174-179-94.pool.ukrtel.net
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
-204.211.203.35.bc.googleusercontent.com
-227.150.216.162.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
@@ -58,7 +56,6 @@ crm.ibatdongsanvip.com
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-81-200-244-36.penza.com.ru
 ec2-13-220-113-14.compute-1.amazonaws.com
 ec2-3-135-223-15.us-east-2.compute.amazonaws.com
 ec2-3-86-230-159.compute-1.amazonaws.com
@@ -92,7 +89,6 @@ o311.scanner.modat.io
 o347.scanner.modat.io
 o610.scanner.modat.io
 o616.scanner.modat.io
-o617.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
