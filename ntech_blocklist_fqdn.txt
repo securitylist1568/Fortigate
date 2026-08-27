@@ -20,13 +20,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.210.203.35.bc.googleusercontent.com
-131.210.203.35.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 151.210.203.35.bc.googleusercontent.com
 160-119-76-107.ptr.as49870.net
 165.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
-184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196-250-178-215.teleceliberia.com
 198-74-58-144.ip.linodeusercontent.com
@@ -161,10 +159,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-91-224-179-195.pool.tv9.net.ua
 ip140.ip-51-81-123.us
-ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
-lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o609.scanner.modat.io
@@ -176,11 +172,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-69-05.shadowserver.io
 scan-77-06.shadowserver.io
 scan-78-08.shadowserver.io
 scan-85-3.shadowserver.io
-scan-87-7.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
