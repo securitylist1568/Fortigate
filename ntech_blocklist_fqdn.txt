@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+169.211.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 18.101.40.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,6 +35,7 @@
 68.210.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 81-23-170-238.zgtk.ru
+85.117.86.172.static.cloudzy.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgagzb8p.stretchoid.com
@@ -76,6 +78,7 @@ enews-atanh.mundusinternational.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-81-200-252-72.penza.com.ru
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
@@ -91,6 +94,7 @@ publimur.com
 radamelfalcao.xyz
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
