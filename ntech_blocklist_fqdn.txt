@@ -40,6 +40,7 @@
 64.177.40.182.vultrusercontent.com
 67.150.216.162.bc.googleusercontent.com
 85.117.86.172.static.cloudzy.com
+94.41.108.187.static.ufanet.ru
 95.105.71.239.dynamic.ufanet.ru
 aa27e193.mci.customer.misaka.io
 aim.sba-research.org
