@@ -97,6 +97,7 @@ pool216.homenet.ua
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rqsqcv.g-service.ru
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
