@@ -28,6 +28,7 @@
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-74-58-144.ip.linodeusercontent.com
+204.76.203.49.ptr.pfcloud.network
 220.211.203.35.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
@@ -62,6 +63,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-69-05.shadowserver.io
+scan-77-06.shadowserver.io
 scan-78-08.shadowserver.io
 scan-85-3.shadowserver.io
 scan-87-7.shadowserver.io
