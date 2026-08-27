@@ -34,6 +34,7 @@
 40.210.203.35.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
 46x146x198x25.static-business.perm.ertelecom.ru
+73.210.203.35.bc.googleusercontent.com
 94.41.108.187.static.ufanet.ru
 95.105.71.239.dynamic.ufanet.ru
 aim.sba-research.org
