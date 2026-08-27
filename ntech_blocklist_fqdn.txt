@@ -22,6 +22,7 @@
 113.210.203.35.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 151.210.203.35.bc.googleusercontent.com
+16.150.216.162.bc.googleusercontent.com
 160-119-76-107.ptr.as49870.net
 165.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
@@ -154,6 +155,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamicip-109-195-38-186.pppoe.barnaul.ertelecom.ru
 festa04.jcatransporte.com.br
+fwnvyxu.top
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
