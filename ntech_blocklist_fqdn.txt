@@ -20,7 +20,6 @@
 111.149.216.162.bc.googleusercontent.com
 123-205-19-135.adsl.dynamic.seed.net.tw
 135.148.38.185.baremetal.zare.com
-144.92.74.97.host.secureserver.net
 154.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -30,12 +29,8 @@
 212.211.203.35.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
 23.47.156.34.bc.googleusercontent.com
-233.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
-36-229-157-139.dynamic-ip.hinet.net
 41.210.203.35.bc.googleusercontent.com
-45.210.203.35.bc.googleusercontent.com
-62.149.216.162.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -149,7 +144,6 @@ li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o350.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
