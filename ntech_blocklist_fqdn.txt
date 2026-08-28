@@ -49,10 +49,12 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fo050.i158.mi.ru
+frozen-frost-xjzi8i3x.expresshost.cloud
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1972-67.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o347.scanner.modat.io
@@ -70,6 +72,7 @@ scan-76-02.shadowserver.io
 scan-80-9.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
+shadow-hawk-0qv5puub.expresshost.cloud
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.138.252.31.30.clients.sparkit.net.bd
