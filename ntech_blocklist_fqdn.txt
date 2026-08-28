@@ -24,8 +24,8 @@
 185-45-195-15.hostsailor.com
 188x186x141x217.dynamic.kirov.ertelecom.ru
 190.210.203.35.bc.googleusercontent.com
+20.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
-219.149.216.162.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
@@ -71,6 +71,7 @@ scan-41f.shadowserver.io
 scan-52c.shadowserver.io
 scan-69-05.shadowserver.io
 scan-80-9.shadowserver.io
+scanner3.labs.rapid7.com
 scanner4.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
