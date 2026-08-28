@@ -29,8 +29,6 @@
 227.210.203.35.bc.googleusercontent.com
 23.47.156.34.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
-28.194.124.34.bc.googleusercontent.com
-32.150.216.162.bc.googleusercontent.com
 36-229-157-139.dynamic-ip.hinet.net
 45.210.203.35.bc.googleusercontent.com
 6.87.138.34.bc.googleusercontent.com
@@ -38,6 +36,7 @@
 62.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 95.211.203.35.bc.googleusercontent.com
+aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -46,7 +45,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fo050.i158.mi.ru
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -72,4 +70,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.138.252.31.30.clients.sparkit.net.bd
 users219.vip.heteml.jp
-zhangyuan3.virtuaserver.com.br
