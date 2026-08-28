@@ -24,6 +24,7 @@
 190.210.203.35.bc.googleusercontent.com
 20.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
+28.194.124.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
 97.139.66.136.bc.googleusercontent.com
@@ -48,6 +49,7 @@ ec2-54-208-198-178.compute-1.amazonaws.com
 ec2-54-89-101-241.compute-1.amazonaws.com
 enews-atanh.mundusinternational.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
