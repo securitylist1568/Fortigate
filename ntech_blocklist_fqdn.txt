@@ -154,6 +154,7 @@ no-mans-land.m247.com
 ns574789.ip-51-222-40.net
 o615.scanner.modat.io
 o617.scanner.modat.io
+o627.scanner.modat.io
 o629.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
