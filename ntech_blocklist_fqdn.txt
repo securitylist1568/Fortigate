@@ -17,9 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111.149.216.162.bc.googleusercontent.com
 123-205-19-135.adsl.dynamic.seed.net.tw
 135.148.38.185.baremetal.zare.com
+143.149.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
@@ -29,14 +29,13 @@
 204.210.203.35.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
-227.210.203.35.bc.googleusercontent.com
 23.47.156.34.bc.googleusercontent.com
+237.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
-74-50-97-90.static.hvvc.us
 94.138.148.20.kompleks-s.ru
 aa27e38f.sea.customer.misaka.io
 adventure.yatano.com
@@ -144,6 +143,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-250.venom-dc.com
 ip29.sudolio.io
+l603.scanner.modat.io
 li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
@@ -153,12 +153,9 @@ o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 platra-mos262.cust.smartspb.net
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-63-13.shadowserver.io
-scan-76-02.shadowserver.io
-scan-80-9.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 shadow-hawk-0qv5puub.expresshost.cloud
@@ -166,7 +163,6 @@ smtp.energy-visiongain.com
 smtp1.telemach.net
 srv30534.dus7.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
-static.138.252.31.30.clients.sparkit.net.bd
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vmi3365127.contaboserver.net
