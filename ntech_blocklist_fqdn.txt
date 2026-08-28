@@ -18,16 +18,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.149.216.162.bc.googleusercontent.com
-152.219.247.35.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 172-235-192-160.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-188x186x141x217.dynamic.kirov.ertelecom.ru
 190.210.203.35.bc.googleusercontent.com
 20.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
-231.149.216.162.bc.googleusercontent.com
-238.210.203.35.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
 97.139.66.136.bc.googleusercontent.com
@@ -57,15 +53,12 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-ns1.serversurgeon.com
 o610.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s4850.vps.hosting
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-52c.shadowserver.io
@@ -80,4 +73,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
 users219.vip.heteml.jp
 vmi3438045.contaboserver.net
-vmi3494411.contaboserver.net
