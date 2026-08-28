@@ -25,6 +25,7 @@
 164.211.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
+176.65.148.78.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
@@ -37,6 +38,7 @@
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 89-109-11-170.static.mts-nn.ru
 94.138.148.20.kompleks-s.ru
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg2xe2pg.stretchoid.com
 azpdcghi7hwg.stretchoid.com
@@ -94,5 +96,6 @@ undefined.hostname.localhost
 unn-138-199-53-212.datapacket.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
+v2202608401617503326.hotsrv.de
 vps-f3218864.vps.ovh.net
 vps2447004.fastwebserver.de
