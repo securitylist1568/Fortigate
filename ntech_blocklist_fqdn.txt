@@ -25,6 +25,7 @@
 20.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 28.194.124.34.bc.googleusercontent.com
+32.150.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
 97.139.66.136.bc.googleusercontent.com
@@ -75,3 +76,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt-hanoi.com.vn
 users219.vip.heteml.jp
 vmi3438045.contaboserver.net
+zhangyuan3.virtuaserver.com.br
