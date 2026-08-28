@@ -22,6 +22,7 @@
 135.148.38.185.baremetal.zare.com
 143.149.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
+164.211.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,6 +32,7 @@
 212.211.203.35.bc.googleusercontent.com
 23.47.156.34.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
+250.210.203.35.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
