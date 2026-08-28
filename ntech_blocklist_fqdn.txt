@@ -28,7 +28,6 @@
 32.150.216.162.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
-97.139.66.136.bc.googleusercontent.com
 abts-mum-static-100.13.170.122.airtelbroadband.in
 aim.sba-research.org
 amz.unixwiz.net
