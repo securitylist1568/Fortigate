@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 117.149.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
+152.219.247.35.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 172-235-192-160.ip.linodeusercontent.com
 176.150.216.162.bc.googleusercontent.com
@@ -32,8 +33,8 @@
 28.194.124.34.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
 61-222-79-200.hinet-ip.hinet.net
+95.211.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
-abts-mum-static-100.13.170.122.airtelbroadband.in
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -52,7 +53,6 @@ ec2-52-91-195-196.compute-1.amazonaws.com
 ec2-54-144-162-170.compute-1.amazonaws.com
 ec2-54-208-198-178.compute-1.amazonaws.com
 ec2-54-89-101-241.compute-1.amazonaws.com
-enews-atanh.mundusinternational.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hkhdc.laws.ms
@@ -73,7 +73,6 @@ scan-52c.shadowserver.io
 scan-69-05.shadowserver.io
 scan-80-9.shadowserver.io
 scanner3.labs.rapid7.com
-scanner4.labs.rapid7.com
 security.criminalip.com
 smtp1.telemach.net
 spb-213-33-251-63.sovintel.ru
