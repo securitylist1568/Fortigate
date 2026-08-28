@@ -29,13 +29,14 @@
 186.149.216.162.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 205.210.203.35.bc.googleusercontent.com
+21.210.203.35.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 23.47.156.34.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
-72.150.216.162.bc.googleusercontent.com
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 89-109-11-170.static.mts-nn.ru
 94.138.148.20.kompleks-s.ru
 aim.sba-research.org
@@ -158,13 +159,11 @@ pinkytales.com
 platra-mos262.cust.smartspb.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-63-13.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 smtp.energy-visiongain.com
 smtp1.telemach.net
 spafollow.kwai.com
-srv30534.dus7.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 undefined.hostname.localhost
@@ -172,4 +171,3 @@ unn-138-199-53-212.datapacket.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 vps2447004.fastwebserver.de
-www.internet-albedo.net
