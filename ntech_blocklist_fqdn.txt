@@ -20,6 +20,7 @@
 111.149.216.162.bc.googleusercontent.com
 123-205-19-135.adsl.dynamic.seed.net.tw
 135.148.38.185.baremetal.zare.com
+151.150.216.162.bc.googleusercontent.com
 154.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
