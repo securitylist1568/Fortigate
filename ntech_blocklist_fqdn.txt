@@ -35,6 +35,7 @@
 95.211.203.35.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -45,6 +46,7 @@ fo050.i158.mi.ru
 frozen-frost-xjzi8i3x.expresshost.cloud
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-250.venom-dc.com
 ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
