@@ -28,10 +28,8 @@
 214.149.216.162.bc.googleusercontent.com
 28.194.124.34.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
-40.210.203.35.bc.googleusercontent.com
 95526344.grabercloud.com
 abts-mum-static-100.13.170.122.airtelbroadband.in
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -56,10 +54,8 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o348.scanner.modat.io
-o610.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -75,7 +71,6 @@ security.criminalip.com
 smtp1.telemach.net
 spb-213-33-251-63.sovintel.ru
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt-hanoi.com.vn
 users219.vip.heteml.jp
 vmi3438045.contaboserver.net
 zhangyuan3.virtuaserver.com.br
