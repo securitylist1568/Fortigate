@@ -22,7 +22,6 @@
 135.148.38.185.baremetal.zare.com
 143.149.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
-154.210.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -40,7 +39,6 @@
 72.150.216.162.bc.googleusercontent.com
 89-109-11-170.static.mts-nn.ru
 94.138.148.20.kompleks-s.ru
-aa27e38f.sea.customer.misaka.io
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -164,7 +162,6 @@ platra-mos262.cust.smartspb.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-63-13.shadowserver.io
-scan.visionheight.com
 security.criminalip.com
 shadow-hawk-0qv5puub.expresshost.cloud
 smtp.energy-visiongain.com
