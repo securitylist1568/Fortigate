@@ -64,6 +64,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan.visionheight.com
+security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
