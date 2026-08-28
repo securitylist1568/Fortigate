@@ -35,6 +35,7 @@
 6.87.138.34.bc.googleusercontent.com
 61-222-79-200.hinet-ip.hinet.net
 62.149.216.162.bc.googleusercontent.com
+72.150.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 95.211.203.35.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
@@ -71,6 +72,7 @@ scan.visionheight.com
 security.criminalip.com
 shadow-hawk-0qv5puub.expresshost.cloud
 smtp1.telemach.net
+srv30534.dus7.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.138.252.31.30.clients.sparkit.net.bd
 users219.vip.heteml.jp
