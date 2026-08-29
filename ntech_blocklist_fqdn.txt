@@ -98,6 +98,7 @@ scan-89-5.shadowserver.io
 security.criminalip.com
 server.donungdee.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-84-17-46-77.cdn77.com
 users219.vip.heteml.jp
