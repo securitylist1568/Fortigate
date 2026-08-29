@@ -113,6 +113,7 @@ ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o603.scanner.modat.io
 o608.scanner.modat.io
 o612.scanner.modat.io
 o613.scanner.modat.io
@@ -130,6 +131,7 @@ scan-52k.shadowserver.io
 scan-69-05.shadowserver.io
 scan-85-3.shadowserver.io
 scan-87-7.shadowserver.io
+scan-88-6.shadowserver.io
 scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
