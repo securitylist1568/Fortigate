@@ -47,6 +47,7 @@ ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mail.shabbos.to
 mfyabgec.musicpda.com
 o600.scanner.modat.io
@@ -72,4 +73,5 @@ server.donungdee.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
+us-west-70.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
