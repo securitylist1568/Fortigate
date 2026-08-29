@@ -113,6 +113,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o608.scanner.modat.io
+o612.scanner.modat.io
 o613.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -127,6 +128,7 @@ scan-52k.shadowserver.io
 scan-69-05.shadowserver.io
 scan-85-3.shadowserver.io
 scan-87-7.shadowserver.io
+scan-89-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
