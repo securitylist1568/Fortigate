@@ -64,7 +64,6 @@
 23-92-26-65.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 239.134.61.34.bc.googleusercontent.com
-252.150.216.162.bc.googleusercontent.com
 27-53-48-184.adsl.fetnet.net
 31.150.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
@@ -115,7 +114,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 matrix-moss-k2qjze.mycloudvps.de
 mfyabgec.musicpda.com
-o622.scanner.modat.io
 o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
