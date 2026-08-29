@@ -100,6 +100,7 @@ azpdwsc2stpl.stretchoid.com
 azpdwsj0f2mz.stretchoid.com
 azpdwsu6iejm.stretchoid.com
 b2.org.afilias-nst.org
+ca-central-1.iodine.li.prod.binaryedge.ninja
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -122,6 +123,7 @@ ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-04i.shadowserver.io
 scan-14l.shadowserver.io
 scan-15k.shadowserver.io
 scan-52k.shadowserver.io
