@@ -32,6 +32,7 @@
 236.211.203.35.bc.googleusercontent.com
 239.134.61.34.bc.googleusercontent.com
 27-53-48-184.adsl.fetnet.net
+27.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 45-33-78-176.ip.linodeusercontent.com
 50-116-51-128.ip.linodeusercontent.com
@@ -78,6 +79,7 @@ azpdesacfqwq.stretchoid.com
 azpdescr06m4.stretchoid.com
 azpdesgalmsx.stretchoid.com
 azpdesq45nkw.stretchoid.com
+azpdesvcosyh.stretchoid.com
 azpdesyut877.stretchoid.com
 azpdesz1peng.stretchoid.com
 azpdsg4qe3pt.stretchoid.com
@@ -89,6 +91,7 @@ azpdsgldfrfm.stretchoid.com
 azpdsgmv8a97.stretchoid.com
 azpdsgy38q3y.stretchoid.com
 azpdsgylkzg4.stretchoid.com
+azpdss14l7xz.stretchoid.com
 azpdss1kfarb.stretchoid.com
 azpdss2hjcmk.stretchoid.com
 azpdss7emlri.stretchoid.com
@@ -128,5 +131,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
+unn-84-17-46-77.cdn77.com
 users219.vip.heteml.jp
 v4.dns.slt.lk
+vps1891.baseservers.com
