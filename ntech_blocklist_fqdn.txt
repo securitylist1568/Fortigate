@@ -30,6 +30,7 @@
 23.47.156.34.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 252.150.216.162.bc.googleusercontent.com
+31.150.216.162.bc.googleusercontent.com
 53.149.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
@@ -50,7 +51,7 @@ li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 o341.scanner.modat.io
-o627.scanner.modat.io
+o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -58,10 +59,8 @@ recyber.net
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
-static.185-165-44-168.rackgenius.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
 v2202608401617503326.hotsrv.de
