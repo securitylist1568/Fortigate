@@ -52,6 +52,7 @@
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
+224.149.216.162.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-123.ip.linodeusercontent.com
@@ -110,6 +111,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-51-81-123.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 matrix-moss-k2qjze.mycloudvps.de
 mfyabgec.musicpda.com
 o622.scanner.modat.io
@@ -119,6 +121,7 @@ ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.io
+scan-61-9.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
 shard-maple-ndq5qz.mycloudvps.de
