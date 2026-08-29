@@ -55,6 +55,7 @@ o341.scanner.modat.io
 o622.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
