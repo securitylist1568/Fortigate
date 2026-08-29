@@ -51,6 +51,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mail.shabbos.to
 mfyabgec.musicpda.com
+nyc1-62.boron.do.prod.binaryedge.ninja
 o600.scanner.modat.io
 o603.scanner.modat.io
 o606.scanner.modat.io
@@ -74,5 +75,6 @@ server.donungdee.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
+syd1-0.tennessine.do.prod.binaryedge.ninja
 us-west-70.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
