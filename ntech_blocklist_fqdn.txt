@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 224.149.216.162.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
+239.134.61.34.bc.googleusercontent.com
 27-53-48-184.adsl.fetnet.net
 2d96f25f.customer.misaka.taipei
 56.150.216.162.bc.googleusercontent.com
