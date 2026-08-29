@@ -65,6 +65,7 @@
 23-92-27-179.ip.linodeusercontent.com
 239.134.61.34.bc.googleusercontent.com
 27-53-48-184.adsl.fetnet.net
+2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -107,6 +108,7 @@ ec2-54-175-149-14.compute-1.amazonaws.com
 ec2-54-235-52-37.compute-1.amazonaws.com
 ec2-98-94-61-21.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-51-81-123.us
