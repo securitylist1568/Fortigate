@@ -64,6 +64,7 @@
 23-92-26-28.ip.linodeusercontent.com
 23-92-26-65.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+236.211.203.35.bc.googleusercontent.com
 239.134.61.34.bc.googleusercontent.com
 27-53-48-184.adsl.fetnet.net
 2d96f25f.customer.misaka.taipei
