@@ -19,19 +19,16 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-107-139-87.snet.net.pk
 156.150.216.162.bc.googleusercontent.com
 16.150.216.162.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
 172-104-219-198.ip.linodeusercontent.com
 172-104-5-253.ip.linodeusercontent.com
-184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198.129.130.34.bc.googleusercontent.com
 204.76.203.84.ptr.pfcloud.network
 236.211.203.35.bc.googleusercontent.com
 239.134.61.34.bc.googleusercontent.com
-27-53-48-184.adsl.fetnet.net
 27.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 45-33-78-176.ip.linodeusercontent.com
@@ -117,7 +114,6 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-o636.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
@@ -131,7 +127,6 @@ scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-undefined.hostname.localhost
 unn-84-17-46-77.cdn77.com
 users219.vip.heteml.jp
 v4.dns.slt.lk
