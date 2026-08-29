@@ -22,6 +22,7 @@
 185-45-195-15.hostsailor.com
 187.210.203.35.bc.googleusercontent.com
 196.210.203.35.bc.googleusercontent.com
+203-74-130-205.hinet-ip.hinet.net
 219.149.216.162.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 27.150.216.162.bc.googleusercontent.com
@@ -74,6 +75,7 @@ ip-58-98.4vendeta.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
+mail.shabbos.to
 mfyabgec.musicpda.com
 o603.scanner.modat.io
 o606.scanner.modat.io
