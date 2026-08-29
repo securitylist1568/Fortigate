@@ -45,6 +45,8 @@ ip-58-22.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
+ip-60-210.4vendeta.com
+ip-60-222.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 m10399.contaboserver.net
