@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 135.211.203.35.bc.googleusercontent.com
 144.149.216.162.bc.googleusercontent.com
+151.210.203.35.bc.googleusercontent.com
 159.211.203.35.bc.googleusercontent.com
 176.65.148.78.ptr.pfcloud.network
 180.211.203.35.bc.googleusercontent.com
@@ -62,6 +63,7 @@ scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
+static-81-200-241-117.penza.com.ru
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 v2202608401617503326.hotsrv.de
