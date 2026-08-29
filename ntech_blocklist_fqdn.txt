@@ -123,8 +123,10 @@ pinkytales.com
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13n.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
+scan-53j.shadowserver.io
 scan-61-9.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
