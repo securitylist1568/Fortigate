@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 147.205.140.34.bc.googleusercontent.com
-172.235.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.183.101.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
@@ -36,8 +35,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
-crawler039.deepfield.net
-crawler073.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -55,6 +52,7 @@ o605.scanner.modat.io
 o617.scanner.modat.io
 o619.scanner.modat.io
 o622.scanner.modat.io
+o623.scanner.modat.io
 o624.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -62,7 +60,6 @@ pinkytales.com
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-74-02.shadowserver.io
 security.criminalip.com
 server.walaoyea.com
 smtp1.telemach.net
