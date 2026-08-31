@@ -32,9 +32,11 @@
 204.76.203.49.ptr.pfcloud.network
 224.80.205.35.bc.googleusercontent.com
 247.125.195.35.bc.googleusercontent.com
+2d83453c.mow.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
 30.211.203.35.bc.googleusercontent.com
 6.137.38.34.bc.googleusercontent.com
+6682315a.customer.misaka.joburg
 81.106.140.34.bc.googleusercontent.com
 96.128.77.34.bc.googleusercontent.com
 aim.sba-research.org
