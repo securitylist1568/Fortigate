@@ -23,7 +23,9 @@
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 195.183.101.34.bc.googleusercontent.com
+196-250-184-62.teleceliberia.com
 196-250-185-77.teleceliberia.com
+204.76.203.49.ptr.pfcloud.network
 219.210.203.35.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
@@ -72,6 +74,7 @@ r3002.compute.sin1.edc.strln.net
 r4002.compute.pao1.edc.strln.net
 r4006.sin.opendns.com
 recyber.net
+rootevidence.com
 scan-41m.shadowserver.io
 scan-58.security.ipip.net
 security.criminalip.com
