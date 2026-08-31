@@ -26,6 +26,7 @@
 205.205.79.34.bc.googleusercontent.com
 228.205.62.34.bc.googleusercontent.com
 239.235.175.207.bc.googleusercontent.com
+24-52-70-30.telesystem.us
 245.245.62.34.bc.googleusercontent.com
 253.54.140.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -52,6 +53,7 @@ mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
 o602.scanner.modat.io
 o605.scanner.modat.io
+o617.scanner.modat.io
 o622.scanner.modat.io
 o624.scanner.modat.io
 o630.scanner.modat.io
