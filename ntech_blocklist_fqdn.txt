@@ -34,6 +34,7 @@
 2d96f25f.customer.misaka.taipei
 32.172.79.34.bc.googleusercontent.com
 43.9.145.34.bc.googleusercontent.com
+79.124.60.242.superbit.host
 91.49.140.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -49,6 +50,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip131.ip-15-235-16.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
