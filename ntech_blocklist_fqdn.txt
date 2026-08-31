@@ -91,6 +91,7 @@ r4002.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
 scan-41m.shadowserver.io
+scan-42i.shadowserver.io
 scan-58.security.ipip.net
 server.donungdee.com
 smtp1.telemach.net
