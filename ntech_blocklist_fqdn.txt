@@ -23,6 +23,7 @@
 159.199.156.34.bc.googleusercontent.com
 172.235.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+204.76.203.49.ptr.pfcloud.network
 205.205.79.34.bc.googleusercontent.com
 228.205.62.34.bc.googleusercontent.com
 239.235.175.207.bc.googleusercontent.com
@@ -48,11 +49,11 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
+ns3207149.ip-198-244-200.eu
 o602.scanner.modat.io
 o605.scanner.modat.io
 o617.scanner.modat.io
@@ -62,7 +63,6 @@ o624.scanner.modat.io
 o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-please.visit.www.openintel.nl
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
