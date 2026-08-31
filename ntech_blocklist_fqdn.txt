@@ -36,6 +36,7 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+centos7223208.aspadmin.net
 cgw-211-24-79-247.bbrtl.time.net.my
 cl103-253.pppoe.multinet.ua
 client.yota.ru
@@ -47,18 +48,16 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip131.ip-15-235-16.net
 ip29.sudolio.io
+li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
 ns3207149.ip-198-244-200.eu
-o602.scanner.modat.io
 o605.scanner.modat.io
 o617.scanner.modat.io
 o619.scanner.modat.io
 o622.scanner.modat.io
 o623.scanner.modat.io
-o624.scanner.modat.io
-o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ppp-73.240.lw.fea.net
