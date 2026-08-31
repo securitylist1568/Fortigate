@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 100.149.216.162.bc.googleusercontent.com
+101.136.156.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -28,8 +29,10 @@
 196-250-185-77.teleceliberia.com
 204.76.203.49.ptr.pfcloud.network
 219.210.203.35.bc.googleusercontent.com
+247.125.195.35.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 30.211.203.35.bc.googleusercontent.com
+6.137.38.34.bc.googleusercontent.com
 79.124.60.242.superbit.host
 91-208-92-201.as212027.host
 aa27e0dc.iad.customer.misaka.io
