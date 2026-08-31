@@ -27,6 +27,7 @@
 228.205.62.34.bc.googleusercontent.com
 24-52-70-30.telesystem.us
 26.161.138.78.in-addr.arpa
+2d834681.led.customer.misaka.io
 2d96f25f.customer.misaka.taipei
 43.9.145.34.bc.googleusercontent.com
 6.95.62.34.bc.googleusercontent.com
