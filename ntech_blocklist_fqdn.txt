@@ -42,6 +42,7 @@ crawler073.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip237.ip-5-39-19.eu
@@ -64,4 +65,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 subposts.folkhistorynarrative.com
+user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
