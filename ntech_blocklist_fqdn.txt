@@ -31,6 +31,7 @@
 253.54.140.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 32.172.79.34.bc.googleusercontent.com
+43.9.145.34.bc.googleusercontent.com
 91.49.140.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -60,10 +61,12 @@ o630.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
+ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-74-02.shadowserver.io
 security.criminalip.com
+server.walaoyea.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 subposts.folkhistorynarrative.com
