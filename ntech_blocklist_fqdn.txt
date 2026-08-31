@@ -31,6 +31,7 @@
 2d96f25f.customer.misaka.taipei
 43.9.145.34.bc.googleusercontent.com
 6.95.62.34.bc.googleusercontent.com
+75-127-6-2-host.colocrossing.com
 79.124.60.242.superbit.host
 aim.sba-research.org
 amz.unixwiz.net
