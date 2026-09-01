@@ -25,6 +25,7 @@
 205.205.79.34.bc.googleusercontent.com
 228.205.62.34.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
+53.26.71.192.in-addr.arpa
 6.95.62.34.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 79.124.60.242.superbit.host
