@@ -22,12 +22,9 @@
 172.235.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.183.101.34.bc.googleusercontent.com
-204.76.203.49.ptr.pfcloud.network
 205.205.79.34.bc.googleusercontent.com
 228.205.62.34.bc.googleusercontent.com
-26.161.138.78.in-addr.arpa
 2d834681.led.customer.misaka.io
-43.9.145.34.bc.googleusercontent.com
 6.95.62.34.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 79.124.60.242.superbit.host
@@ -48,8 +45,6 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-ns3207149.ip-198-244-200.eu
-o619.scanner.modat.io
 o623.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
