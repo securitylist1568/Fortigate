@@ -93,6 +93,7 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
 li1873-236.members.linode.com
+mail.adorsho.edu.kg
 mfyabgec.musicpda.com
 o312.scanner.modat.io
 pc112.cses.ilc.edu.tw
