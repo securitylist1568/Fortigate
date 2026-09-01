@@ -67,6 +67,7 @@ o613.scanner.modat.io
 o623.scanner.modat.io
 o624.scanner.modat.io
 o629.scanner.modat.io
+o641.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ppp-73.240.lw.fea.net
