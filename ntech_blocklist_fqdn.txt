@@ -27,7 +27,6 @@
 204.76.203.91.ptr.pfcloud.network
 37-230-138-79.as212027.host
 45.135.193.43.ptr.pfcloud.network
-45.135.194.113.ptr.pfcloud.network
 74-50-97-90.static.hvvc.us
 75-127-6-2-host.colocrossing.com
 91-208-92-201.as212027.host
@@ -39,7 +38,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-58-115-130-100.dynamic.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-51-81-123.us
 ip29.sudolio.io
@@ -54,13 +52,11 @@ recyber.net
 scan-02m.shadowserver.io
 scan-09n.shadowserver.io
 scan-15i.shadowserver.io
-scan-42i.shadowserver.io
 scan-47k.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
 ve061.venus.dedi.server-hosting.expert
 www.internet-albedo.net
