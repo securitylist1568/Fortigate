@@ -92,6 +92,7 @@ ec2-54-167-234-21.compute-1.amazonaws.com
 ec2-54-174-230-107.compute-1.amazonaws.com
 ec2-54-175-254-254.compute-1.amazonaws.com
 ec2-98-81-160-178.compute-1.amazonaws.com
+ecs-116-205-130-169.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -100,6 +101,7 @@ ip217-154-152-20.pbiaas.com
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o312.scanner.modat.io
 o623.scanner.modat.io
