@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 117.209-183-91.adsl-static.isp.belgacom.be
 134.33.47.34.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-213-3-3.as212027.host
 202.86.39.34.bc.googleusercontent.com
@@ -36,12 +37,14 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip140.ip-51-81-123.us
 ip29.sudolio.io
 li1570-11.members.linode.com
+lisbon.portugal.com
 mail.adorsho.edu.kg
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -56,6 +59,8 @@ scan-47k.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
+srv10611.dus4.dedicated.server-hosting.expert
+srv62133.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 ve061.venus.dedi.server-hosting.expert
