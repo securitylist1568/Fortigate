@@ -56,6 +56,7 @@ recyber.net
 scan-09n.shadowserver.io
 scan-15i.shadowserver.io
 scan-53j.shadowserver.io
+scan-59g.shadowserver.io
 scan-60.security.ipip.net
 scan-67-1.shadowserver.io
 security.criminalip.com
