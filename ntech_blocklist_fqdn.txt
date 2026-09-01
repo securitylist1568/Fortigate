@@ -24,6 +24,7 @@
 14.171.broad.ha.dynamic.163data.com.cn
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+202.86.39.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 45.135.194.113.ptr.pfcloud.network
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -42,6 +43,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
