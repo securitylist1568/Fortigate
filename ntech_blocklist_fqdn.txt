@@ -49,11 +49,13 @@ o624.scanner.modat.io
 o629.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-14l.shadowserver.io
 scan-59g.shadowserver.io
+scan-77-02.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
