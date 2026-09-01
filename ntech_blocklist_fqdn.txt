@@ -21,8 +21,10 @@
 134.33.47.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
+45.135.193.43.ptr.pfcloud.network
 45.135.194.113.ptr.pfcloud.network
 53.26.71.192.in-addr.arpa
+75-127-6-2-host.colocrossing.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg6vlu14.stretchoid.com
