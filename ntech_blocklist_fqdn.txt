@@ -25,7 +25,6 @@
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 202.86.39.34.bc.googleusercontent.com
-204.76.203.49.ptr.pfcloud.network
 45.135.194.113.ptr.pfcloud.network
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 74-50-97-90.static.hvvc.us
@@ -51,7 +50,6 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-09n.shadowserver.io
 scan-53j.shadowserver.io
 scan-59g.shadowserver.io
 scan-60.security.ipip.net
