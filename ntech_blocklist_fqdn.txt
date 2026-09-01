@@ -57,7 +57,9 @@ scan-02m.shadowserver.io
 scan-09n.shadowserver.io
 scan-15i.shadowserver.io
 scan-47k.shadowserver.io
+scan-53j.shadowserver.io
 scan-60.security.ipip.net
+scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv10611.dus4.dedicated.server-hosting.expert
