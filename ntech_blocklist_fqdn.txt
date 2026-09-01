@@ -26,6 +26,7 @@
 45.135.194.113.ptr.pfcloud.network
 53.26.71.192.in-addr.arpa
 75-127-6-2-host.colocrossing.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg6vlu14.stretchoid.com
 azpdcg6x7gah.stretchoid.com
@@ -90,7 +91,9 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-58-115-130-100.dynamic.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
+ip140.ip-51-81-123.us
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.adorsho.edu.kg
 mfyabgec.musicpda.com
@@ -100,6 +103,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
+scan-15i.shadowserver.io
 scan-42i.shadowserver.io
 scan-47k.shadowserver.io
 scan-88-6.shadowserver.io
