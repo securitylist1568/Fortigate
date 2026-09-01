@@ -37,6 +37,7 @@ client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
+e2e-119-116.ssdcloudindia.net
 encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -51,6 +52,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-14l.shadowserver.io
 scan-53j.shadowserver.io
 scan-59g.shadowserver.io
 scan-60.security.ipip.net
