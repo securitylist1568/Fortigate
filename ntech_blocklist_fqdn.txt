@@ -26,13 +26,10 @@
 194-213-3-3.as212027.host
 202.86.39.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
-204.76.203.91.ptr.pfcloud.network
 37-230-138-79.as212027.host
-45.135.193.43.ptr.pfcloud.network
 45.135.194.113.ptr.pfcloud.network
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 74-50-97-90.static.hvvc.us
-75-127-6-2-host.colocrossing.com
 91-208-92-201.as212027.host
 9213038d.customer.misaka.se
 aim.sba-research.org
