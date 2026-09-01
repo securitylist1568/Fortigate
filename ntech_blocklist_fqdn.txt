@@ -47,17 +47,14 @@ ip140.ip-51-81-123.us
 ip29.sudolio.io
 li1570-11.members.linode.com
 lisbon.portugal.com
-mail.adorsho.edu.kg
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02m.shadowserver.io
 scan-09n.shadowserver.io
 scan-15i.shadowserver.io
-scan-47k.shadowserver.io
 scan-53j.shadowserver.io
 scan-60.security.ipip.net
 scan-67-1.shadowserver.io
