@@ -93,6 +93,7 @@ ec2-98-81-160-178.compute-1.amazonaws.com
 ecs-116-205-130-169.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host-58-115-130-100.dynamic.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
 ip217-154-152-20.pbiaas.com
 ip29.sudolio.io
@@ -115,3 +116,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.174.175.156.178.clients.your-server.de
 trafo.kz
 users219.vip.heteml.jp
+vds1077812.hosted-by-itldc.com
