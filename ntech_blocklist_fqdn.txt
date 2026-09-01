@@ -50,6 +50,7 @@ azpdcsux4vrr.stretchoid.com
 azpdes64o4s2.stretchoid.com
 azpdes9166tt.stretchoid.com
 azpdescjz18u.stretchoid.com
+azpdesjch8al.stretchoid.com
 azpdespkyob3.stretchoid.com
 azpdesyut877.stretchoid.com
 azpdsg6jzlwb.stretchoid.com
@@ -57,13 +58,18 @@ azpdsg95mjp6.stretchoid.com
 azpdsg9kcd1o.stretchoid.com
 azpdsgcaqq66.stretchoid.com
 azpdsghv80lk.stretchoid.com
+azpdsgn2507i.stretchoid.com
 azpdsgz3dcbl.stretchoid.com
 azpdss1axila.stretchoid.com
+azpdss5z1exo.stretchoid.com
 azpdss7uj44s.stretchoid.com
+azpdssd1nwnr.stretchoid.com
 azpdssr7jx6u.stretchoid.com
+azpdsstd04kz.stretchoid.com
 azpdssvolsqt.stretchoid.com
 azpdws5nnlo6.stretchoid.com
 azpdws7izyey.stretchoid.com
+azpdwsv8bxqp.stretchoid.com
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
 cgw-211-24-78-174.bbrtl.time.net.my
@@ -71,6 +77,11 @@ cl103-253.pppoe.multinet.ua
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-218-165-217.compute-1.amazonaws.com
+ec2-18-234-140-213.compute-1.amazonaws.com
+ec2-3-82-139-248.compute-1.amazonaws.com
+ec2-44-201-107-251.compute-1.amazonaws.com
+ec2-54-147-51-34.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -91,5 +102,6 @@ security.criminalip.com
 server.unigomall.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.174.175.156.178.clients.your-server.de
 trafo.kz
 users219.vip.heteml.jp
