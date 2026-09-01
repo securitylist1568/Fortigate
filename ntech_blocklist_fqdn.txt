@@ -21,6 +21,8 @@
 115.113.180.34.bc.googleusercontent.com
 123-205-19-135.adsl.dynamic.seed.net.tw
 14.171.broad.ha.dynamic.163data.com.cn
+148-59-129-106.scanning.silentpush.com
+148-59-129-30.scanning.silentpush.com
 185-45-195-15.hostsailor.com
 202.86.39.34.bc.googleusercontent.com
 23-94-28-172-host.colocrossing.com
@@ -53,6 +55,7 @@ ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+rping.ipip.net
 scan-14l.shadowserver.io
 scan-59g.shadowserver.io
 scan-77-02.shadowserver.io
