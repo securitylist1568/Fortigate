@@ -17,7 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-205-19-135.adsl.dynamic.seed.net.tw
+115.113.180.34.bc.googleusercontent.com
 148-59-129-100.scanning.silentpush.com
 148-59-129-104.scanning.silentpush.com
 148-59-129-106.scanning.silentpush.com
@@ -48,6 +48,7 @@ aa27e193.mci.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
+b9d155e9.mow.customer.misaka.io
 client.yota.ru
 crawler144.deepfield.net
 d1d13986.sjc.customer.misaka.io
@@ -75,7 +76,6 @@ recyber.net
 rootevidence.com
 rping.ipip.net
 scan-14l.shadowserver.io
-scan-59g.shadowserver.io
 scan-77-02.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
