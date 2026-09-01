@@ -21,7 +21,6 @@
 147.205.140.34.bc.googleusercontent.com
 172.235.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-195.183.101.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
 205.205.79.34.bc.googleusercontent.com
 228.205.62.34.bc.googleusercontent.com
@@ -29,7 +28,6 @@
 53.26.71.192.in-addr.arpa
 6.95.62.34.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
-79.124.60.242.superbit.host
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg6vlu14.stretchoid.com
@@ -96,7 +94,6 @@ ecs-116-205-130-169.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip131.ip-15-235-16.net
 ip217-154-152-20.pbiaas.com
 ip29.sudolio.io
 li1537-121.members.linode.com
@@ -110,6 +107,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-88-6.shadowserver.io
+scan.visionheight.com
 security.criminalip.com
 server.unigomall.com
 smtp1.telemach.net
