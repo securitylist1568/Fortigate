@@ -23,6 +23,7 @@
 14.171.broad.ha.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 202.86.39.34.bc.googleusercontent.com
+23-94-28-172-host.colocrossing.com
 50-116-23-150.ip.linodeusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 aim.sba-research.org
@@ -33,6 +34,7 @@ client.yota.ru
 crawler144.deepfield.net
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 e2e-119-116.ssdcloudindia.net
 festa04.jcatransporte.com.br
