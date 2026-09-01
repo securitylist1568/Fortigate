@@ -101,6 +101,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-42i.shadowserver.io
+scan-47k.shadowserver.io
 scan-88-6.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
