@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+115.113.180.34.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
 14.171.broad.ha.dynamic.163data.com.cn
 172-232-32-15.ip.linodeusercontent.com
