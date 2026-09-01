@@ -26,7 +26,6 @@
 45.135.194.113.ptr.pfcloud.network
 53.26.71.192.in-addr.arpa
 75-127-6-2-host.colocrossing.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdcg6vlu14.stretchoid.com
 azpdcg6x7gah.stretchoid.com
@@ -92,7 +91,6 @@ hn.kd.ny.adsl
 host-58-115-130-100.dynamic.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.adorsho.edu.kg
 mfyabgec.musicpda.com
@@ -107,7 +105,6 @@ scan-47k.shadowserver.io
 scan-88-6.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
-server.unigomall.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.174.175.156.178.clients.your-server.de
