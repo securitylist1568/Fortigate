@@ -102,10 +102,12 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-59-182.4vendeta.com
+ip106.ip-5-135-10.eu
 ip131.ip-15-235-16.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+n303.scanner.modat.io
 nb32-55.static.cytanet.com.cy
 ns31560501.ip-162-19-19.eu
 ns3207149.ip-198-244-200.eu
