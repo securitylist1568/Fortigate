@@ -31,7 +31,9 @@
 173-255-227-35.ip.linodeusercontent.com
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+194.57.40.34.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
+76-65-253-113-on-nets.com
 91-208-92-201.as212027.host
 aim.sba-research.org
 amz.unixwiz.net
