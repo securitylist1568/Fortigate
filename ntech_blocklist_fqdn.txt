@@ -79,6 +79,9 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
+crawler061.deepfield.net
+crawler097.deepfield.net
+crawler185.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dsl-62-241-158-189-dynamic.prod-infinitum.com.mx
@@ -105,16 +108,12 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-ns574789.ip-51-222-40.net
-o609.scanner.modat.io
 o641.scanner.modat.io
-pause-mail-wi0.metashort.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-45g.shadowserver.io
 scan-74-07.shadowserver.io
 scan-85-3.shadowserver.io
 smtp1.telemach.net
