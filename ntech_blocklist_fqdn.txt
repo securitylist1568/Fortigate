@@ -32,6 +32,7 @@
 173-255-227-35.ip.linodeusercontent.com
 173.155.151.193.in-addr.arpa
 176.65.148.107.ptr.pfcloud.network
+183.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.57.40.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
@@ -187,6 +188,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 m22093.contaboserver.net
 mfyabgec.musicpda.com
+ns31560501.ip-162-19-19.eu
 ns3207149.ip-198-244-200.eu
 o608.scanner.modat.io
 o612.scanner.modat.io
