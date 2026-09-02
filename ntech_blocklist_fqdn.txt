@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-107-139-87.snet.net.pk
+123.220.190.35.bc.googleusercontent.com
 147.134.195.35.bc.googleusercontent.com
 154.220.156.34.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
@@ -28,6 +29,7 @@
 204.76.203.49.ptr.pfcloud.network
 208.7.78.34.bc.googleusercontent.com
 215.197.76.34.bc.googleusercontent.com
+23-94-28-172-host.colocrossing.com
 55.5.79.34.bc.googleusercontent.com
 6.144.241.35.bc.googleusercontent.com
 64.101.140.34.bc.googleusercontent.com
