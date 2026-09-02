@@ -23,6 +23,10 @@
 194.57.40.34.bc.googleusercontent.com
 197-154-24-200.ufinetlatam.net.ec
 204.76.203.49.ptr.pfcloud.network
+208.7.78.34.bc.googleusercontent.com
+215.197.76.34.bc.googleusercontent.com
+6.144.241.35.bc.googleusercontent.com
+75.158.175.207.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg1w1bjn.stretchoid.com
