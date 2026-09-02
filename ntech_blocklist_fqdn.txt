@@ -30,6 +30,7 @@
 139.84.251.156.vultrusercontent.com
 163.150.216.162.bc.googleusercontent.com
 173-255-227-35.ip.linodeusercontent.com
+173.155.151.193.in-addr.arpa
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194.57.40.34.bc.googleusercontent.com
@@ -177,6 +178,7 @@ ec2-34-234-82-70.compute-1.amazonaws.com
 ec2-54-146-217-235.compute-1.amazonaws.com
 ec2-54-242-243-244.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -185,6 +187,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 m22093.contaboserver.net
 mfyabgec.musicpda.com
+ns3207149.ip-198-244-200.eu
 o608.scanner.modat.io
 o612.scanner.modat.io
 o615.scanner.modat.io
