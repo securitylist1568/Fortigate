@@ -41,6 +41,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-217-87-203.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip237.ip-5-39-19.eu
