@@ -31,6 +31,7 @@
 173-255-227-35.ip.linodeusercontent.com
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+2d834781.kunde.misaka.berlin
 91-208-92-201.as212027.host
 aim.sba-research.org
 amz.unixwiz.net
@@ -182,6 +183,7 @@ o601.scanner.modat.io
 o602.scanner.modat.io
 o604.scanner.modat.io
 o612.scanner.modat.io
+o615.scanner.modat.io
 o620.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
