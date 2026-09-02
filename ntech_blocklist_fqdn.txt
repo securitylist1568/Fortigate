@@ -28,6 +28,7 @@
 139.84.248.144.vultrusercontent.com
 139.84.248.46.vultrusercontent.com
 139.84.251.156.vultrusercontent.com
+173-255-227-35.ip.linodeusercontent.com
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 23-26-203-157.ips.acedatacenter.com
@@ -90,6 +91,7 @@ azpdes0tebh0.stretchoid.com
 azpdes2wg1o6.stretchoid.com
 azpdes32cx0k.stretchoid.com
 azpdes3sg6a9.stretchoid.com
+azpdes3y4znf.stretchoid.com
 azpdes4ikj6h.stretchoid.com
 azpdes5677gf.stretchoid.com
 azpdes5mzh6q.stretchoid.com
@@ -111,6 +113,7 @@ azpdess0oypq.stretchoid.com
 azpdesukcne5.stretchoid.com
 azpdesxx8yay.stretchoid.com
 azpdesz1peng.stretchoid.com
+azpdsg25tigb.stretchoid.com
 azpdsg4xpaso.stretchoid.com
 azpdsg5uqkq3.stretchoid.com
 azpdsg6jzlwb.stretchoid.com
@@ -171,6 +174,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
+li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 o601.scanner.modat.io
@@ -183,6 +187,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
