@@ -33,6 +33,7 @@
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194.57.40.34.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
 221.210.203.35.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 76-65-253-113-on-nets.com
@@ -179,6 +180,7 @@ festa04.jcatransporte.com.br
 hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-70.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 m22093.contaboserver.net
