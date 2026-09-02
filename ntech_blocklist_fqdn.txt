@@ -31,7 +31,6 @@
 173-255-227-35.ip.linodeusercontent.com
 176.65.148.107.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
-23-26-203-157.ips.acedatacenter.com
 91-208-92-201.as212027.host
 aim.sba-research.org
 amz.unixwiz.net
