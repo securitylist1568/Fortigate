@@ -105,6 +105,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+knowfax.org.uk
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
@@ -114,6 +115,7 @@ pinkytales.com
 ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-74-07.shadowserver.io
 scan-85-3.shadowserver.io
 smtp1.telemach.net
