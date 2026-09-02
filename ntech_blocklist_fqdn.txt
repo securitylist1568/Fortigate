@@ -21,6 +21,7 @@
 118-107-139-87.snet.net.pk
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
+194.57.40.34.bc.googleusercontent.com
 197-154-24-200.ufinetlatam.net.ec
 204.76.203.49.ptr.pfcloud.network
 aim.sba-research.org
@@ -96,6 +97,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-45g.shadowserver.io
+scan-74-07.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
