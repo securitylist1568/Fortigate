@@ -24,7 +24,9 @@
 147.134.195.35.bc.googleusercontent.com
 152-244-214-69.user.vivozap.com.br
 164.109.233.35.bc.googleusercontent.com
+164.68.140.211.hwccustomers.com
 185-45-195-15.hostsailor.com
+204.76.203.49.ptr.pfcloud.network
 208.7.78.34.bc.googleusercontent.com
 215.197.76.34.bc.googleusercontent.com
 55.5.79.34.bc.googleusercontent.com
