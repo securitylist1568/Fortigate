@@ -17,7 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-107-139-87.snet.net.pk
+115.113.180.34.bc.googleusercontent.com
 123.220.190.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
@@ -148,6 +148,7 @@ ip106.ip-5-135-10.eu
 ip131.ip-15-235-16.net
 ip29.sudolio.io
 li1570-11.members.linode.com
+lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 n303.scanner.modat.io
 nb32-55.static.cytanet.com.cy
@@ -159,6 +160,7 @@ o614.scanner.modat.io
 pause-mail-wi0.metashort.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
