@@ -24,6 +24,7 @@
 164.109.233.35.bc.googleusercontent.com
 164.68.140.211.hwccustomers.com
 185-45-195-15.hostsailor.com
+194.57.40.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 208.7.78.34.bc.googleusercontent.com
 210-59-205-224.hinet-ip.hinet.net
@@ -57,6 +58,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
+scan-61-9.shadowserver.io
 scan-78-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
