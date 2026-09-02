@@ -38,6 +38,7 @@
 204.76.203.49.ptr.pfcloud.network
 221.210.203.35.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
+2d96f25f.customer.misaka.taipei
 76-65-253-113-on-nets.com
 9.149.216.162.bc.googleusercontent.com
 91-208-92-201.as212027.host
