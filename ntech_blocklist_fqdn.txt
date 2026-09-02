@@ -75,7 +75,6 @@
 6.144.241.35.bc.googleusercontent.com
 64.101.140.34.bc.googleusercontent.com
 75.158.175.207.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdcg1w1bjn.stretchoid.com
 azpdcghphjn0.stretchoid.com
@@ -143,20 +142,15 @@ ec2-54-160-226-127.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-59-182.4vendeta.com
 ip106.ip-5-135-10.eu
 ip131.ip-15-235-16.net
 ip29.sudolio.io
-li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 n303.scanner.modat.io
-nb32-55.static.cytanet.com.cy
-ns31560501.ip-162-19-19.eu
 ns3207149.ip-198-244-200.eu
 ns574789.ip-51-222-40.net
 o609.scanner.modat.io
-o614.scanner.modat.io
 pause-mail-wi0.metashort.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -166,7 +160,6 @@ recyber.net
 rootevidence.com
 scan-45g.shadowserver.io
 scan-74-07.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
