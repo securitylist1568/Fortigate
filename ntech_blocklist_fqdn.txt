@@ -62,6 +62,7 @@ mfyabgec.musicpda.com
 o601.scanner.modat.io
 o602.scanner.modat.io
 o604.scanner.modat.io
+o612.scanner.modat.io
 o620.scanner.modat.io
 o631.scanner.modat.io
 pc112.cses.ilc.edu.tw
