@@ -42,7 +42,6 @@
 173-255-243-63.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192-81-132-226.ip.linodeusercontent.com
-194.57.40.34.bc.googleusercontent.com
 198-74-58-111.ip.linodeusercontent.com
 198-74-58-130.ip.linodeusercontent.com
 198-74-58-157.ip.linodeusercontent.com
@@ -117,11 +116,10 @@ ppp-73.240.lw.fea.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-74-07.shadowserver.io
 scan-85-3.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
