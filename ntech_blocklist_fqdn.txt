@@ -27,6 +27,7 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 147.134.195.35.bc.googleusercontent.com
+152-244-214-69.user.vivozap.com.br
 154.220.156.34.bc.googleusercontent.com
 164.109.233.35.bc.googleusercontent.com
 172-234-222-225.ip.linodeusercontent.com
@@ -107,6 +108,7 @@ ip140.ip-51-81-123.us
 ip29.sudolio.io
 knowfax.org.uk
 li1570-11.members.linode.com
+li1992-217.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o641.scanner.modat.io
