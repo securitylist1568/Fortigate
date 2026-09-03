@@ -35,6 +35,7 @@
 39968751.grabercloud.com
 65.149.216.162.bc.googleusercontent.com
 81-16-177-162.as212027.host
+89.210.203.35.bc.googleusercontent.com
 91-208-92-4.as212027.host
 aim.sba-research.org
 amz.unixwiz.net
@@ -69,6 +70,7 @@ o603.scanner.modat.io
 o610.scanner.modat.io
 o614.scanner.modat.io
 o615.scanner.modat.io
+o620.scanner.modat.io
 o633.scanner.modat.io
 o634.scanner.modat.io
 o636.scanner.modat.io
