@@ -37,6 +37,7 @@
 81-16-177-162.as212027.host
 89.210.203.35.bc.googleusercontent.com
 91-208-92-4.as212027.host
+92.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcs7dfj75.stretchoid.com
@@ -64,6 +65,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o602.scanner.modat.io
 o603.scanner.modat.io
