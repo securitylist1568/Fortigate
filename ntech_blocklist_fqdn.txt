@@ -20,11 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-183.dynamic-ip.hinet.net
 128.211.203.35.bc.googleusercontent.com
-13.214.156.34.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
-178.150.216.162.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
-185-206-148-43.as212027.host
 185-45-195-15.hostsailor.com
 194-164-96-186.as212027.host
 197-154-24-200.ufinetlatam.net.ec
@@ -32,12 +29,10 @@
 199.150.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
-226.5.118.34.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 37-230-138-79.as212027.host
 39968751.grabercloud.com
-71.150.216.162.bc.googleusercontent.com
 81-16-177-162.as212027.host
 91-208-92-4.as212027.host
 aim.sba-research.org
@@ -67,9 +62,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
-o070.scanner.modat.io
 o602.scanner.modat.io
 o603.scanner.modat.io
 o610.scanner.modat.io
@@ -78,6 +71,7 @@ o615.scanner.modat.io
 o633.scanner.modat.io
 o634.scanner.modat.io
 o636.scanner.modat.io
+o638.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
