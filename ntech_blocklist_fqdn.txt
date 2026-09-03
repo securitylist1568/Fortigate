@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,17 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-225-183.dynamic-ip.hinet.net
 128.211.203.35.bc.googleusercontent.com
-142.210.203.35.bc.googleusercontent.com
-182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-164-96-186.as212027.host
-197-154-24-200.ufinetlatam.net.ec
 199.149.216.162.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
-224.149.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 37-230-138-79.as212027.host
@@ -58,7 +52,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
