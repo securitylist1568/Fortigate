@@ -52,12 +52,14 @@ ec2-34-229-16-77.compute-1.amazonaws.com
 ec2-98-82-1-192.compute-1.amazonaws.com
 ec2-98-88-249-38.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
 ip140.ip-51-81-123.us
 ip29.sudolio.io
 ip49.ip-51-75-155.eu
+keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 knowfax.org.uk
 mfyabgec.musicpda.com
 no-mans-land.m247.com
