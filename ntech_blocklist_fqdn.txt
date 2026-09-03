@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 138.18.65.136.bc.googleusercontent.com
+139.84.162.169.vultrusercontent.com
 144.210.203.35.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 173-255-227-35.ip.linodeusercontent.com
@@ -187,6 +188,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-42i.shadowserver.io
+scan-47k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
