@@ -52,6 +52,7 @@ b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+ddos-guard.net
 dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
