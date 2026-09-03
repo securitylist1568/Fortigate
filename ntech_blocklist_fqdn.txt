@@ -29,6 +29,7 @@
 221.210.203.35.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 2d96f25f.customer.misaka.taipei
+60-249-14-121.hinet-ip.hinet.net
 67.149.216.162.bc.googleusercontent.com
 76-65-253-113-on-nets.com
 9.149.216.162.bc.googleusercontent.com
@@ -170,6 +171,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-70.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1972-67.members.linode.com
 m22093.contaboserver.net
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
@@ -183,6 +185,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-42i.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
