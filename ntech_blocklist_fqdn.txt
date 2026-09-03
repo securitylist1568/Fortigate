@@ -39,6 +39,7 @@
 219.210.203.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 247.52.175.207.bc.googleusercontent.com
+45.211.203.35.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 57.244.79.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
@@ -55,6 +56,9 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-215-152-242.compute-1.amazonaws.com
+ec2-18-234-52-162.compute-1.amazonaws.com
+ec2-34-229-16-77.compute-1.amazonaws.com
+ec2-98-88-249-38.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
