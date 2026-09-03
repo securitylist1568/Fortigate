@@ -27,7 +27,9 @@
 246.150.216.162.bc.googleusercontent.com
 37-230-138-79.as212027.host
 39968751.grabercloud.com
+54.149.216.162.bc.googleusercontent.com
 65.149.216.162.bc.googleusercontent.com
+72.150.216.162.bc.googleusercontent.com
 81-16-177-162.as212027.host
 87.136.85.136.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
