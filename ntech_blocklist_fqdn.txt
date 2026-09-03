@@ -55,6 +55,7 @@ azpdssa9ekrp.stretchoid.com
 azpdssf81xk7.stretchoid.com
 azpdws9qcy08.stretchoid.com
 azpdwsgteaot.stretchoid.com
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -80,6 +81,7 @@ recyber.net
 scan-71-09.shadowserver.io
 scan-75-05.shadowserver.io
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 to600.scanner.modat.io
 users219.vip.heteml.jp
