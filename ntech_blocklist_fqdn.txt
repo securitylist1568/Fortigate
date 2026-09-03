@@ -29,6 +29,7 @@
 39968751.grabercloud.com
 65.149.216.162.bc.googleusercontent.com
 81-16-177-162.as212027.host
+87.136.85.136.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 91-208-92-4.as212027.host
 92.211.203.35.bc.googleusercontent.com
@@ -63,6 +64,7 @@ mfyabgec.musicpda.com
 o602.scanner.modat.io
 o603.scanner.modat.io
 o610.scanner.modat.io
+o612.scanner.modat.io
 o614.scanner.modat.io
 o615.scanner.modat.io
 o620.scanner.modat.io
@@ -76,6 +78,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-71-09.shadowserver.io
 scan-75-05.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
