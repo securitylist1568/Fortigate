@@ -33,6 +33,7 @@
 219.210.203.35.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
+5.149.216.162.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 57.244.79.34.bc.googleusercontent.com
 61.150.216.162.bc.googleusercontent.com
@@ -63,6 +64,7 @@ knowfax.org.uk
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o068.scanner.modat.io
 o339.scanner.modat.io
 o343.scanner.modat.io
 o605.scanner.modat.io
