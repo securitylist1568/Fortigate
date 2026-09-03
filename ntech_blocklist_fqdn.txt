@@ -45,6 +45,7 @@ amz.unixwiz.net
 azpdcs7dfj75.stretchoid.com
 azpdcsqp0015.stretchoid.com
 azpdcsvmktnh.stretchoid.com
+azpdes1okfoz.stretchoid.com
 azpdesguh6i9.stretchoid.com
 azpdesjch8al.stretchoid.com
 azpdsgbknmn9.stretchoid.com
@@ -67,6 +68,7 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o070.scanner.modat.io
+o602.scanner.modat.io
 o603.scanner.modat.io
 o614.scanner.modat.io
 o615.scanner.modat.io
