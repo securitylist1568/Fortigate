@@ -22,18 +22,16 @@
 118-168-225-183.dynamic-ip.hinet.net
 126.150.216.162.bc.googleusercontent.com
 13.214.156.34.bc.googleusercontent.com
-135.150.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 146.150.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 178.150.216.162.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
-182.218.241.35.bc.googleusercontent.com
 185-206-148-43.as212027.host
 185-45-195-15.hostsailor.com
 197-154-24-200.ufinetlatam.net.ec
 199.149.216.162.bc.googleusercontent.com
-204.76.203.49.ptr.pfcloud.network
+199.150.216.162.bc.googleusercontent.com
 206.150.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 226.5.118.34.bc.googleusercontent.com
@@ -58,7 +56,6 @@ ip140.ip-51-81-123.us
 ip29.sudolio.io
 ip49.ip-51-75-155.eu
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-knowfax.org.uk
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o068.scanner.modat.io
@@ -68,7 +65,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-75-05.shadowserver.io
+scan-71-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
