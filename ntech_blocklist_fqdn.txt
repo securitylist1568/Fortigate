@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+115.211.203.35.bc.googleusercontent.com
 118.176.79.34.bc.googleusercontent.com
 13.214.156.34.bc.googleusercontent.com
 132.82.155.104.bc.googleusercontent.com
@@ -42,6 +43,7 @@
 247.52.175.207.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 2d96f25f.customer.misaka.taipei
+57.244.79.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 67.149.216.162.bc.googleusercontent.com
 76-65-253-113-on-nets.com
