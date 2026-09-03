@@ -25,6 +25,7 @@
 118.176.79.34.bc.googleusercontent.com
 13.214.156.34.bc.googleusercontent.com
 132.82.155.104.bc.googleusercontent.com
+138.18.65.136.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 143.21.118.136.bc.googleusercontent.com
 144.210.203.35.bc.googleusercontent.com
