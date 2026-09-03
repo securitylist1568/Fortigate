@@ -61,6 +61,7 @@ li1570-11.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o339.scanner.modat.io
 o605.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
