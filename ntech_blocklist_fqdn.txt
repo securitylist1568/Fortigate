@@ -25,10 +25,12 @@
 138.18.65.136.bc.googleusercontent.com
 146.150.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
+178.150.216.162.bc.googleusercontent.com
 182.218.241.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 206.150.216.162.bc.googleusercontent.com
+226.5.118.34.bc.googleusercontent.com
 26.210.203.35.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
