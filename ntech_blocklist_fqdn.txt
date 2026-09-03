@@ -21,10 +21,7 @@
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-164-96-186.as212027.host
-199.149.216.162.bc.googleusercontent.com
-199.150.216.162.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
-242.211.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 37-230-138-79.as212027.host
 39968751.grabercloud.com
@@ -57,7 +54,6 @@ client.yota.ru
 dal215.hawkhost.com
 ddos-guard.net
 dns12.online.tj.cn
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
