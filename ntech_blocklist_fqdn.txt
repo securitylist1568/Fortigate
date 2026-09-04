@@ -23,6 +23,7 @@
 187-95-46-100.altarede.com.br
 195x91x217x34.static-business.msk.ertelecom.ru
 224.153.172.83.static.edisglobal.com
+230.211.203.35.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
