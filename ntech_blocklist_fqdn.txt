@@ -37,6 +37,7 @@
 204.76.203.49.ptr.pfcloud.network
 222.149.216.162.bc.googleusercontent.com
 233.215.79.34.bc.googleusercontent.com
+236.149.216.162.bc.googleusercontent.com
 238.237.60.217.hosted-by.vpslayer.net
 38.181.148.34.bc.googleusercontent.com
 46.220.38.34.bc.googleusercontent.com
@@ -64,7 +65,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-04c.shadowserver.io
 scan-85-3.shadowserver.io
+scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
