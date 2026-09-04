@@ -29,13 +29,11 @@
 196.149.216.162.bc.googleusercontent.com
 199.96.155.104.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
-208.150.216.162.bc.googleusercontent.com
 219.119.78.34.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 233.215.79.34.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 29.179.91.185.rightside.ru
-37.210.203.35.bc.googleusercontent.com
 44.31.199.104.bc.googleusercontent.com
 45.152.229.201.f.sta.codetel.net.do
 46.220.38.34.bc.googleusercontent.com
@@ -84,4 +82,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-zhangyuan3.virtuaserver.com.br
