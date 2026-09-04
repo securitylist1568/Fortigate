@@ -26,6 +26,7 @@
 224.153.172.83.static.edisglobal.com
 236.149.216.162.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
+70.210.203.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 86.4.240.35.bc.googleusercontent.com
 95.211.203.35.bc.googleusercontent.com
@@ -38,6 +39,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
