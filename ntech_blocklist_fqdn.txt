@@ -78,6 +78,8 @@ scale-test-1779908940714-43c23163.mongo.ondigitalocean.com
 scan-40g.shadowserver.io
 scan-47k.shadowserver.io
 scan-55c.shadowserver.io
+scan-69-05.shadowserver.io
+scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
