@@ -20,7 +20,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-179-100.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 204.76.203.30.ptr.pfcloud.network
 224.153.172.83.static.edisglobal.com
@@ -45,7 +44,6 @@ ip-49-142.web1.bg
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o069.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
