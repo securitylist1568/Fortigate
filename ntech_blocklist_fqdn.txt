@@ -23,10 +23,14 @@
 123-192-200-16.dynamic.kbronet.com.tw
 123.211.203.35.bc.googleusercontent.com
 150.177.76.34.bc.googleusercontent.com
+152.75.78.34.bc.googleusercontent.com
 163.202.205.35.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
+172.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+197.149.216.162.bc.googleusercontent.com
 199.96.155.104.bc.googleusercontent.com
+203-74-130-205.hinet-ip.hinet.net
 204.76.203.49.ptr.pfcloud.network
 219.119.78.34.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
