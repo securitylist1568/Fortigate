@@ -75,6 +75,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scale-test-1779908940714-43c23163.mongo.ondigitalocean.com
+scan-47k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
