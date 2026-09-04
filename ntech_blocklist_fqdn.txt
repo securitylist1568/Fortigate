@@ -28,8 +28,10 @@
 168.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.149.216.162.bc.googleusercontent.com
+199.96.155.104.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 208.150.216.162.bc.googleusercontent.com
+219.119.78.34.bc.googleusercontent.com
 226.5.118.34.bc.googleusercontent.com
 233.215.79.34.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
@@ -38,6 +40,7 @@
 37.210.203.35.bc.googleusercontent.com
 44.31.199.104.bc.googleusercontent.com
 45.152.229.201.f.sta.codetel.net.do
+46.220.38.34.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 79.124.60.242.superbit.host
 79.150.216.162.bc.googleusercontent.com
@@ -66,6 +69,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1625-135.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
