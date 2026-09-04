@@ -42,6 +42,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip106.ip-5-135-10.eu
+ip244.ip-5-135-108.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -53,5 +54,6 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static-ptr.vndata.vn
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
