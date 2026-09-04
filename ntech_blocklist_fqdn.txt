@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 120.74.14.34.bc.googleusercontent.com
 123-192-200-16.dynamic.kbronet.com.tw
+123.211.203.35.bc.googleusercontent.com
 150.177.76.34.bc.googleusercontent.com
 163.202.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -31,6 +32,7 @@
 29.179.91.185.rightside.ru
 44.31.199.104.bc.googleusercontent.com
 46.220.38.34.bc.googleusercontent.com
+49-159-5-250.dynamic.elinx.com.tw
 49.194.156.34.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 86.4.240.35.bc.googleusercontent.com
