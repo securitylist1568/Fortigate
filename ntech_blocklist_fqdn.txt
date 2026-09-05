@@ -47,11 +47,10 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip140.ip-51-81-123.us
 ip29.sudolio.io
+li1537-121.members.linode.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -59,7 +58,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-69-05.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 srv1294769.hstgr.cloud
