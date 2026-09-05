@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 187-95-46-100.altarede.com.br
 195x91x217x34.static-business.msk.ertelecom.ru
+197.150.216.162.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
@@ -45,6 +46,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-70-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
