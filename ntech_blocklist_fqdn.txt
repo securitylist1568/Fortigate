@@ -30,6 +30,9 @@
 98.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+azpdsgy6c2yo.stretchoid.com
+azpdwsoowy99.stretchoid.com
+azpdwsu6iejm.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -46,6 +49,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-67-1.shadowserver.io
 scan-70-00.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
