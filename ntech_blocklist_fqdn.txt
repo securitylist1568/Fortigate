@@ -29,6 +29,7 @@
 210.216.62.34.bc.googleusercontent.com
 213.149.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
+2d83453c.mow.customer.misaka.io
 2d96f25f.customer.misaka.taipei
 42.96.14.34.bc.googleusercontent.com
 45.135.77.34.bc.googleusercontent.com
