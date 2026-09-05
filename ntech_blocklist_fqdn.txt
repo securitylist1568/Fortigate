@@ -21,17 +21,12 @@
 185-45-195-15.hostsailor.com
 187-95-46-100.altarede.com.br
 195x91x217x34.static-business.msk.ertelecom.ru
-224.153.172.83.static.edisglobal.com
 230.211.203.35.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
-31.211.203.35.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
-70.210.203.35.bc.googleusercontent.com
-86.4.240.35.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
-99.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -39,7 +34,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
