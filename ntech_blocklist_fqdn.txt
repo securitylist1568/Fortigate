@@ -24,13 +24,10 @@
 122.149.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 164.253.26.34.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 180.241.40.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.49.ptr.pfcloud.network
 211.150.216.162.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
-213.149.216.162.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 218.149.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
@@ -38,8 +35,6 @@
 37.149.216.162.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
-77.211.203.35.bc.googleusercontent.com
-80.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
