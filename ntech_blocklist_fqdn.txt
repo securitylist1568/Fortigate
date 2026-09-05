@@ -36,6 +36,8 @@
 45.149.216.162.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
 74-50-113-81.static.hvvc.us
+77.211.203.35.bc.googleusercontent.com
+80.211.203.35.bc.googleusercontent.com
 96.8.76.34.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
