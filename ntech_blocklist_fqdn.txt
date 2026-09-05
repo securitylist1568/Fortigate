@@ -69,5 +69,6 @@ scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 users219.vip.heteml.jp
 ve1086.venus.dedi.server-hosting.expert
