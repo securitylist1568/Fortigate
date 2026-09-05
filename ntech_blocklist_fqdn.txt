@@ -20,6 +20,7 @@
 136.173.156.34.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
+16.210.203.35.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
@@ -51,7 +52,6 @@
 230.211.203.35.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
-37.149.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-79-103-169.ip.linodeusercontent.com
@@ -103,10 +103,13 @@ azpdsg12wxyo.stretchoid.com
 azpdsg34nh84.stretchoid.com
 azpdsg3dteav.stretchoid.com
 azpdsg3eqpqg.stretchoid.com
+azpdsg6yk4d5.stretchoid.com
 azpdsgbknmn9.stretchoid.com
 azpdsgj4xk3g.stretchoid.com
+azpdsgko5vak.stretchoid.com
 azpdsgo0unpf.stretchoid.com
 azpdsgqui043.stretchoid.com
+azpdsgrnj0g5.stretchoid.com
 azpdsgtsq74l.stretchoid.com
 azpdsgvo5oi7.stretchoid.com
 azpdsgy6c2yo.stretchoid.com
