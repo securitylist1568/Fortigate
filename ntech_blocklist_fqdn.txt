@@ -20,11 +20,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-183.dynamic-ip.hinet.net
 136.173.156.34.bc.googleusercontent.com
+137.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 157.199.53.34.bc.googleusercontent.com
 16.210.203.35.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-225.ip.linodeusercontent.com
@@ -41,8 +43,6 @@
 180.241.40.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
-187-95-46-100.altarede.com.br
-195x91x217x34.static-business.msk.ertelecom.ru
 197.150.216.162.bc.googleusercontent.com
 198-74-58-130.ip.linodeusercontent.com
 198-74-58-157.ip.linodeusercontent.com
@@ -65,7 +65,6 @@
 45-79-225-32.ip.linodeusercontent.com
 45.135.77.34.bc.googleusercontent.com
 48.53.199.104.bc.googleusercontent.com
-58.149.216.162.bc.googleusercontent.com
 64.210.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 98.211.203.35.bc.googleusercontent.com
@@ -151,6 +150,7 @@ azpdwszh0qei.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
 ec2-100-58-113-108.compute-1.amazonaws.com
