@@ -53,6 +53,7 @@ dns12.online.tj.cn
 ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 embnex.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
