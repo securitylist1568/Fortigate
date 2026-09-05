@@ -28,6 +28,7 @@
 137.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
+144.211.203.35.bc.googleusercontent.com
 157.199.53.34.bc.googleusercontent.com
 16.210.203.35.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
@@ -151,6 +152,7 @@ ec2-3-91-151-163.compute-1.amazonaws.com
 ec2-34-229-16-77.compute-1.amazonaws.com
 ec2-44-201-107-251.compute-1.amazonaws.com
 ec2-44-204-37-191.compute-1.amazonaws.com
+ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 ec2-52-207-215-86.compute-1.amazonaws.com
 ec2-54-145-20-113.compute-1.amazonaws.com
 ec2-54-157-229-233.compute-1.amazonaws.com
