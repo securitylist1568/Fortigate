@@ -25,9 +25,11 @@
 157.199.53.34.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 210.216.62.34.bc.googleusercontent.com
+213.149.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
