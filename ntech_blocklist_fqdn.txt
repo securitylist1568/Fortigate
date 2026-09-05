@@ -20,6 +20,7 @@
 136.173.156.34.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
+157.199.53.34.bc.googleusercontent.com
 16.210.203.35.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
@@ -35,6 +36,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+180.241.40.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187-95-46-100.altarede.com.br
 195x91x217x34.static-business.msk.ertelecom.ru
@@ -79,6 +81,7 @@ azpdcgrla7fs.stretchoid.com
 azpdcgtdyq83.stretchoid.com
 azpdcgtha0bj.stretchoid.com
 azpdcgy5hi7w.stretchoid.com
+azpdcgyw6vbx.stretchoid.com
 azpdcs3t7ks7.stretchoid.com
 azpdcs4jaqsy.stretchoid.com
 azpdcs5j0lgd.stretchoid.com
@@ -98,6 +101,7 @@ azpdcsupl5a6.stretchoid.com
 azpdcsvs26cg.stretchoid.com
 azpdcswemlbj.stretchoid.com
 azpdcsyrp0u5.stretchoid.com
+azpdes64ndjf.stretchoid.com
 azpdescjz18u.stretchoid.com
 azpdescx1lrr.stretchoid.com
 azpdesoz8xei.stretchoid.com
