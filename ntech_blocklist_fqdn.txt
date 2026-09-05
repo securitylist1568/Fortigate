@@ -28,6 +28,7 @@
 17.77.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.150.216.162.bc.googleusercontent.com
+210.216.62.34.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 236.173.52.34.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
@@ -38,6 +39,7 @@
 43.150.216.162.bc.googleusercontent.com
 45.135.77.34.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
+74-50-113-81.static.hvvc.us
 80.210.203.35.bc.googleusercontent.com
 96.8.76.34.bc.googleusercontent.com
 98-126-201-186.dynamic.hinet.net
