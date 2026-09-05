@@ -2,7 +2,6 @@
 103-112-0-32.oneqode.net
 105.149.216.162.bc.googleusercontent.com
 109.133.242.35.bc.googleusercontent.com
-110.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -54,6 +53,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
+ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
 li1570-11.members.linode.com
@@ -67,8 +67,5 @@ scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
-srv1294769.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 users219.vip.heteml.jp
-vmi3170835.contaboserver.net
