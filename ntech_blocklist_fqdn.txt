@@ -27,6 +27,7 @@
 157.199.53.34.bc.googleusercontent.com
 164.253.26.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
+180.241.40.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 210.216.62.34.bc.googleusercontent.com
@@ -35,6 +36,7 @@
 2d96f25f.customer.misaka.taipei
 45.149.216.162.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
+6682315a.customer.misaka.joburg
 70.211.203.35.bc.googleusercontent.com
 74-50-113-81.static.hvvc.us
 77.211.203.35.bc.googleusercontent.com
@@ -61,6 +63,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.io
+scan-69-05.shadowserver.io
 scan-83-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
