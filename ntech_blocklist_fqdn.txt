@@ -154,6 +154,7 @@ client.yota.ru
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
+dynamic-81-200-247-11.penza.com.ru
 dynamic-adsl.viettel.vn
 ec2-100-58-113-108.compute-1.amazonaws.com
 ec2-100-59-0-92.compute-1.amazonaws.com
