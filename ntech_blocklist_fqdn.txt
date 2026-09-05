@@ -77,6 +77,8 @@
 76.211.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
+98-126-201-186.dynamic.hinet.net
+aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg4mucne.stretchoid.com
@@ -182,6 +184,7 @@ ec2-54-172-52-31.compute-1.amazonaws.com
 ec2-54-173-13-198.compute-1.amazonaws.com
 ec2-54-221-141-122.compute-1.amazonaws.com
 ec2-54-89-47-17.compute-1.amazonaws.com
+embnex.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
