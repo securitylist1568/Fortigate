@@ -38,6 +38,7 @@
 173-255-243-63.ip.linodeusercontent.com
 180.241.40.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+186.150.216.162.bc.googleusercontent.com
 187-95-46-100.altarede.com.br
 195x91x217x34.static-business.msk.ertelecom.ru
 197.150.216.162.bc.googleusercontent.com
@@ -113,6 +114,7 @@ azpdsg3dteav.stretchoid.com
 azpdsg3eqpqg.stretchoid.com
 azpdsg6yk4d5.stretchoid.com
 azpdsgbknmn9.stretchoid.com
+azpdsgbmtwj4.stretchoid.com
 azpdsgj4xk3g.stretchoid.com
 azpdsgko5vak.stretchoid.com
 azpdsgo0unpf.stretchoid.com
@@ -144,6 +146,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 ec2-100-58-113-108.compute-1.amazonaws.com
 ec2-100-59-0-92.compute-1.amazonaws.com
 ec2-13-221-159-164.compute-1.amazonaws.com
