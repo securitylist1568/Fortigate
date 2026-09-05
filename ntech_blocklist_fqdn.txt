@@ -20,18 +20,15 @@
 111-240-93-35.dynamic-ip.hinet.net
 133.166.105.141.in-addr.arpa.yahclick.com
 136.173.156.34.bc.googleusercontent.com
-144.211.203.35.bc.googleusercontent.com
 156.150.216.162.bc.googleusercontent.com
 157.199.53.34.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
-17.210.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 210.216.62.34.bc.googleusercontent.com
 213.149.216.162.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
-237.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 42.96.14.34.bc.googleusercontent.com
 45.135.77.34.bc.googleusercontent.com
@@ -48,7 +45,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
