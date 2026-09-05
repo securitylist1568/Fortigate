@@ -40,8 +40,10 @@
 42.96.14.34.bc.googleusercontent.com
 43.150.216.162.bc.googleusercontent.com
 45.135.77.34.bc.googleusercontent.com
+70.211.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
+96.8.76.34.bc.googleusercontent.com
 98-126-201-186.dynamic.hinet.net
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
