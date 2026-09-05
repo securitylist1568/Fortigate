@@ -25,12 +25,9 @@
 157.199.53.34.bc.googleusercontent.com
 162.52.205.35.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
-17.77.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-196.150.216.162.bc.googleusercontent.com
 210.216.62.34.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
-236.173.52.34.bc.googleusercontent.com
 237.150.216.162.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -62,14 +59,11 @@ ip140.ip-51-81-123.us
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.io
-scan-43h.shadowserver.io
-scan-56.security.ipip.net
 scan-58.security.ipip.net
 scan-83-7.shadowserver.io
 security.criminalip.com
