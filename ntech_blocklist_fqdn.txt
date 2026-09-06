@@ -36,13 +36,17 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
+ip-60-210.4vendeta.com
+ip-60-222.4vendeta.com
 ip237.ip-5-39-19.eu
 ip29.sudolio.io
+mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
