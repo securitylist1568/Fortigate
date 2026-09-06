@@ -58,6 +58,7 @@ azpdsg8okit2.stretchoid.com
 azpdsgjrddfs.stretchoid.com
 azpdsgqui043.stretchoid.com
 azpdsgtsq74l.stretchoid.com
+azpdsgvjexqf.stretchoid.com
 azpdsgvo5oi7.stretchoid.com
 azpdsgy6c2yo.stretchoid.com
 azpdsgyzzl6s.stretchoid.com
@@ -69,9 +70,6 @@ azpdwswkjfu1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler027.deepfield.net
-crawler114.deepfield.net
-crawler135.deepfield.net
-crawler245.deepfield.net
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
