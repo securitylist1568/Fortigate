@@ -63,7 +63,6 @@ ec2-35-172-134-248.compute-1.amazonaws.com
 ec2-44-203-143-87.compute-1.amazonaws.com
 ec2-44-211-197-174.compute-1.amazonaws.com
 ec2-50-17-101-4.compute-1.amazonaws.com
-ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 ec2-52-205-211-20.compute-1.amazonaws.com
 ec2-52-5-223-188.compute-1.amazonaws.com
 ec2-52-91-27-64.compute-1.amazonaws.com
@@ -75,11 +74,9 @@ get174.ingetitin.com
 go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-60-210.4vendeta.com
-ip-60-222.4vendeta.com
 ip29.sudolio.io
-mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
+ns31560501.ip-162-19-19.eu
 ns574789.ip-51-222-40.net
 o063.scanner.modat.io
 pc112.cses.ilc.edu.tw
