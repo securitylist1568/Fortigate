@@ -53,6 +53,7 @@ scan-67-1.shadowserver.io
 scdc.worra.com
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
