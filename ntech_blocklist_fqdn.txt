@@ -26,6 +26,7 @@
 218.16.38.34.bc.googleusercontent.com
 220-136-200-130.dynamic-ip.hinet.net
 232.211.203.35.bc.googleusercontent.com
+243-171-195-168.skynettelecom.net.br
 243.149.216.162.bc.googleusercontent.com
 251.128.175.207.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
