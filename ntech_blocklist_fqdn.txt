@@ -29,7 +29,9 @@
 185.53.76.34.bc.googleusercontent.com
 216.126.231.42.hostodo.com
 218.16.38.34.bc.googleusercontent.com
+243.149.216.162.bc.googleusercontent.com
 251.128.175.207.bc.googleusercontent.com
+252.210.203.35.bc.googleusercontent.com
 52.210.203.35.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
