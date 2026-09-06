@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 107.16.175.207.bc.googleusercontent.com
-108.81.185.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -34,8 +33,6 @@
 252.210.203.35.bc.googleusercontent.com
 52.210.203.35.bc.googleusercontent.com
 73.150.216.162.bc.googleusercontent.com
-79.211.203.35.bc.googleusercontent.com
-9213038d.customer.misaka.se
 96.211.203.35.bc.googleusercontent.com
 98-126-201-186.dynamic.hinet.net
 aim.sba-research.org
@@ -79,7 +76,6 @@ azpdwsf8uy2e.stretchoid.com
 azpdwswkjfu1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler027.deepfield.net
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
