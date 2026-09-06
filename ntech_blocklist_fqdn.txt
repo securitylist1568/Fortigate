@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+159.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 204.76.203.50.ptr.pfcloud.network
@@ -26,6 +27,7 @@
 218.149.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 37.149.216.162.bc.googleusercontent.com
+62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 91.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -49,6 +51,7 @@ pool96.homenet.ua
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s1365388.smartape-vps.com
+scan-74-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
