@@ -22,6 +22,7 @@
 14.141.185.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149.149.216.162.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
@@ -43,6 +44,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip140.ip-51-81-123.us
+ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -52,6 +54,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-60.security.ipip.net
 scan-63-9.shadowserver.io
 scan-67-1.shadowserver.io
 scdc.worra.com
