@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-225-183.dynamic-ip.hinet.net
 130.210.203.35.bc.googleusercontent.com
 14.141.185.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
@@ -33,6 +34,7 @@ b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
+crawler178.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
