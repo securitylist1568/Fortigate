@@ -25,10 +25,8 @@
 172-232-32-15.ip.linodeusercontent.com
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-198-134-107-73.rev.unlimitednet.us
 207.149.216.162.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
-243-171-195-168.skynettelecom.net.br
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -58,7 +56,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60.security.ipip.net
-scan-63-9.shadowserver.io
 scan-67-1.shadowserver.io
 scdc.worra.com
 security.criminalip.com
