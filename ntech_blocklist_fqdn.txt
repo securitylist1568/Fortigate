@@ -76,6 +76,7 @@ crawler079.deepfield.net
 crawler114.deepfield.net
 crawler135.deepfield.net
 crawler245.deepfield.net
+customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-218-73-191.compute-1.amazonaws.com
