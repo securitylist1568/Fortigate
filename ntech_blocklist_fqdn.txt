@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-169-3-251.dynamic-ip.hinet.net
 130.210.203.35.bc.googleusercontent.com
 14.141.185.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
@@ -48,8 +47,6 @@ ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
-o074.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
