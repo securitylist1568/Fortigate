@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-183.dynamic-ip.hinet.net
 130.210.203.35.bc.googleusercontent.com
-14.141.185.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149.149.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
@@ -36,15 +35,12 @@ b9ead587.zrh.customer.misaka.io
 client.yota.ru
 crawler178.deepfield.net
 dal215.hawkhost.com
-db3-int.qeryz.com
 dns12.online.tj.cn
-ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip-84-32-34-18.009.ptr.cherryservers.net
 ip140.ip-51-81-123.us
 ip237.ip-5-39-19.eu
