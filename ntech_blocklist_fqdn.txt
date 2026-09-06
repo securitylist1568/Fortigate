@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-105.149.216.162.bc.googleusercontent.com
 109.133.242.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -19,14 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+126.150.216.162.bc.googleusercontent.com
 159.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 204.76.203.50.ptr.pfcloud.network
-211.150.216.162.bc.googleusercontent.com
-218.149.216.162.bc.googleusercontent.com
-250.149.216.162.bc.googleusercontent.com
-37.149.216.162.bc.googleusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 91.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -42,7 +38,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-210.4vendeta.com
 ip-60-222.4vendeta.com
-ip237.ip-5-39-19.eu
 ip29.sudolio.io
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
