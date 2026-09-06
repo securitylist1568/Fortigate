@@ -37,6 +37,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-60-210.4vendeta.com
