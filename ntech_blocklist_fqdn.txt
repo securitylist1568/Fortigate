@@ -83,9 +83,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-15i.shadowserver.io
 scan-47k.shadowserver.io
 scan-52k.shadowserver.io
 scan-74-02.shadowserver.io
+scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
