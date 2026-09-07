@@ -21,7 +21,6 @@
 116.146.62.34.bc.googleusercontent.com
 117.158.76.34.bc.googleusercontent.com
 125.49.14.34.bc.googleusercontent.com
-14.141.185.34.bc.googleusercontent.com
 142.70.77.34.bc.googleusercontent.com
 15.94.156.34.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
@@ -32,6 +31,7 @@
 200.241.79.34.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
+208.195.201.35.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
 39.157.77.34.bc.googleusercontent.com
@@ -53,16 +53,8 @@ d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 dns183.online.tj.cn
-ec2-107-21-135-85.compute-1.amazonaws.com
-ec2-13-218-153-179.compute-1.amazonaws.com
-ec2-13-220-113-14.compute-1.amazonaws.com
-ec2-13-222-228-146.compute-1.amazonaws.com
-ec2-34-204-50-181.compute-1.amazonaws.com
-ec2-50-16-43-171.compute-1.amazonaws.com
-ec2-52-91-204-84.compute-1.amazonaws.com
 ec2-54-146-217-235.compute-1.amazonaws.com
 ec2-54-166-249-45.compute-1.amazonaws.com
-ec2-54-175-149-14.compute-1.amazonaws.com
 ec2-54-204-76-69.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
@@ -72,13 +64,11 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-13n.shadowserver.io
 scan-40e.shadowserver.io
 scan-42i.shadowserver.io
 security.criminalip.com
