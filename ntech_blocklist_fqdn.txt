@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113-11-100-109.broadband.smile.com.bd
 116.146.62.34.bc.googleusercontent.com
+117.158.76.34.bc.googleusercontent.com
 118-168-225-183.dynamic-ip.hinet.net
 125.49.14.34.bc.googleusercontent.com
 14.141.185.34.bc.googleusercontent.com
@@ -28,9 +29,11 @@
 185-45-195-15.hostsailor.com
 195.83.62.34.bc.googleusercontent.com
 200.241.79.34.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
 25.211.203.35.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
 39.157.77.34.bc.googleusercontent.com
+49.147.140.34.bc.googleusercontent.com
 86.107.79.34.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -75,3 +78,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+www.internet-albedo.net
