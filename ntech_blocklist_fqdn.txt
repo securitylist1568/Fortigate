@@ -37,6 +37,7 @@
 45.135.193.159.ptr.pfcloud.network
 49.147.140.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
+60.149.216.162.bc.googleusercontent.com
 86.107.79.34.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
