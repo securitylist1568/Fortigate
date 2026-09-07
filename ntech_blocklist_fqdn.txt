@@ -55,7 +55,9 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dns183.online.tj.cn
 ec2-54-166-249-45.compute-1.amazonaws.com
+embnex.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
