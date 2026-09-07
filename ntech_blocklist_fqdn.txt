@@ -22,7 +22,6 @@
 117.158.76.34.bc.googleusercontent.com
 125.49.14.34.bc.googleusercontent.com
 142.70.77.34.bc.googleusercontent.com
-15.94.156.34.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.48.186.34.bc.googleusercontent.com
@@ -35,14 +34,12 @@
 210.1.155.104.bc.googleusercontent.com
 227.22.78.34.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
-39.157.77.34.bc.googleusercontent.com
 45.135.193.159.ptr.pfcloud.network
 49.147.140.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 60.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 aa27e193.mci.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 as28267.sc.simfibra.com.br
 b2.org.afilias-nst.org
@@ -54,12 +51,10 @@ d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 dns183.online.tj.cn
-ec2-54-166-249-45.compute-1.amazonaws.com
 embnex.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
-hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
