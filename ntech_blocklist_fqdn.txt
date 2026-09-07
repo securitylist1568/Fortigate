@@ -28,8 +28,6 @@
 210.1.155.104.bc.googleusercontent.com
 227.22.78.34.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
-45.135.193.159.ptr.pfcloud.network
-50-116-23-150.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
 60.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -68,6 +66,7 @@ recyber.net
 scan-40e.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv10611.dus4.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 wev.za.com
