@@ -24,11 +24,13 @@
 200.241.79.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 21.210.52.116.broad.km.yn.dynamic.163data.com.cn
+2d96f25f.customer.misaka.taipei
 3.30.155.104.bc.googleusercontent.com
 39.157.77.34.bc.googleusercontent.com
 44.134.129.34.bc.googleusercontent.com
 45-33-73-52.ip.linodeusercontent.com
 94.138.148.20.kompleks-s.ru
+aim.sba-research.org
 amz.unixwiz.net
 azpdcs9abioo.stretchoid.com
 azpdcsoi0i6r.stretchoid.com
