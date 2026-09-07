@@ -4,25 +4,36 @@
 
 此儲存庫透過部署於 **Kali Linux** 上的 Python 自動化腳本，定期經由 **Crontab 排程** 執行，自動產生並更新各類威脅情資清單，再 Git Push 同步至本儲存庫。
 
+自動化 Python 腳本原始碼與開發測試環境獨立託管於 [**`Fortigate-Dev` 儲存庫**](https://github.com/securitylist1568/Fortigate-Dev)。本儲存庫（`Fortigate`）專責作為 Fortigate 防火牆 **External Dynamic List (EDL / Threat Feeds)** 讀取之純文字情資發布端。
+
 本儲存庫匯整用於 Fortigate 防火牆的所有 IP 封鎖清單、FQDN 封鎖清單、設備存取控制清單，以及 DNS 封鎖警告訊息頁面。
+
+---
+
+## 🔗 雙儲存庫架構對照 (Repository Architecture)
+
+| 儲存庫名稱 | 角色與定位 | 主要內容 | 對應 GitHub 位址 |
+|---|---|---|---|
+| **`Fortigate`** *(本儲存庫)* | FortiGate EDL 實體 Feed 發布庫 | 產出之純文字封鎖清單 (`ncloud_block_*.txt` 等)、白名單 (`ncloud_allowlist.txt`)、人工維護檔 | [`securitylist1568/Fortigate`](https://github.com/securitylist1568/Fortigate) |
+| **`Fortigate-Dev`** *(開發原始碼庫)* | 程式碼與自動化開發庫 | Python 主程式 (`v4.3`)、共用模組 (`ncloud_feed_utils.py`)、Job 設定檔、驗證腳本 (`verify_v4_3.sh`) | [`securitylist1568/Fortigate-Dev`](https://github.com/securitylist1568/Fortigate-Dev) |
 
 ---
 
 ## 🏗️ 系統架構
 
 ```
-Kali Linux (自動化腳本)
+Kali Linux (自動化腳本 repo: Fortigate-Dev)
         │
-        ├─ EmailSys_fortigate_block_v2_1.py    ← 郵件系統封鎖 IP 產生器
-        ├─ ncloud_fortigate_ntech_block_v2_1.py ← 封鎖清單產生器
+        ├─ EmailSys_fortigate_block_v2_1.py    ← 郵件系統封鎖 IP 產生器 (v2.1)
+        ├─ ncloud_fortigate_ntech_block_v2_1.py ← 封鎖清單產生器 (v2.1)
         └─ ncloud_topn_feed_push_v4_3.py        ← TopN 威脅情資推送器 (v4.3)
                 │
                 │  (Crontab 定期執行 + Git Auto Push)
                 ▼
-        本儲存庫（自動更新）
+        本儲存庫：Fortigate (自動更新純文字 Feed)
                 │
                 ▼
-        Fortigate 防火牆 (讀取清單並套用封鎖規則)
+        Fortigate 防火牆 (讀取 Raw URL 並套用封鎖規則)
 ```
 
 ---
