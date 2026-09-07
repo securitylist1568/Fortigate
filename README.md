@@ -6,7 +6,7 @@
 
 自動化 Python 腳本原始碼與開發測試環境獨立託管於 [**`Fortigate-Dev` 儲存庫**](https://github.com/securitylist1568/Fortigate-Dev)。本儲存庫（`Fortigate`）專責作為 Fortigate 防火牆 **External Dynamic List (EDL / Threat Feeds)** 讀取之純文字情資發布端。
 
-本儲存庫匯整用於 Fortigate 防火牆的所有 IP 封鎖清單、FQDN 封鎖清單、設備存取控制清單，以及 DNS 封鎖警告訊息頁面。
+本儲存庫彙整用於 Fortigate 防火牆的所有 IP 封鎖清單、FQDN 封鎖清單、設備存取控制清單，以及 DNS 封鎖警告訊息頁面。
 
 ---
 
@@ -38,63 +38,57 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 
 ---
 
-## 📁 檔案清單說明
+## 📁 檔案清單說明與實時筆數 (Data Feeds)
 
 ### 🔴 外部威脅 IP 封鎖清單
 
-| 檔案名稱 | 說明 | 來源 | 筆數（約） |
+| 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
-| `g-BLACK_IP_Manual-v5.txt` | 手動維護之黑名單 IP，彙整各類惡意來源 | 人工維護 | ~4,370 |
-| `ncloud_block_src_topn.txt` | 流量分析產生之每日 Top-N 威脅來源 IP | `ncloud_topn_feed_push_v4_3.py` 自動生成 | ~3,437 |
-| `ncloud_block_src_trojan_irc.txt` | 連線至 Trojan / IRC C2 伺服器之惡意來源 IP | `ncloud_topn_feed_push_v4_3.py` 自動生成 | ~1,561 |
-| `ncloud_block_src_cert_remote.txt` | 使用可疑憑證進行遠端連線之來源 IP | `ncloud_topn_feed_push_v4_3.py` 自動生成 | ~1,099 |
-| `ncloud_block_src_ext_ssh_in.txt` | 外部主機對內 SSH 入侵嘗試之來源 IP | `ncloud_topn_feed_push_v4_3.py` 自動生成 | ~801 |
-| `ncloud_block_src_dns_ptr_anom.txt` | DNS PTR 記錄異常之可疑來源 IP | `ncloud_topn_feed_push_v4_3.py` 自動生成 | ~180 |
-| `ncloud_block_dst_topn.txt` | 流量分析產生之 Top-N 威脅目標 IP | `ncloud_topn_feed_push_v4_3.py` 自動生成 | 動態（視威脅情況） |
-| `ntech_blocklist.txt` | 分析產生之惡意 IP 封鎖清單 | `ncloud_fortigate_ntech_block_v2_1.py` 自動生成 | ~391 |
-| `Fortianalyzer-abnormaly_140_122_ips.txt` | FortiAnalyzer 偵測之內部異常行為主機（140.122.x.x） | FortiAnalyzer 分析結果 | ~743 |
-| `g-NTNU-Lib-ThreatSeed-v1` | 圖書館端點異常連線之威脅情資種子清單 | 人工維護 | ~294 |
+| `g-BLACK_IP_Manual-v5.txt` | 手動維護之黑名單 IP，彙整各類惡意來源 | 人工維護 | ~3,830 |
+| `ncloud_block_src_topn.txt` | 流量分析產生之每日 Top-N 威脅來源 IP（日歸零 + 10 分鐘增量累計） | `ncloud_topn_feed_push_v4_3.py` | ~39,100 |
+| `ncloud_block_src_trojan_irc.txt` | 連線至 Trojan / IRC C2 伺服器之惡意來源 IP | `ncloud_topn_feed_push_v4_3.py` | ~5,300 |
+| `ncloud_block_src_cert_remote.txt` | 使用可疑憑證進行遠端連線之來源 IP | `ncloud_topn_feed_push_v4_3.py` | ~4,100 |
+| `ncloud_block_src_ext_ssh_in.txt` | 外部主機對內 SSH 入侵嘗試之來源 IP | `ncloud_topn_feed_push_v4_3.py` | ~29,600 |
+| `ncloud_block_src_dns_ptr_anom.txt` | DNS PTR 記錄異常之可疑來源 IP | `ncloud_topn_feed_push_v4_3.py` | ~630 |
+| `ncloud_block_dst_topn.txt` | 流量分析產生之 Top-N 威脅目標 IP | `ncloud_topn_feed_push_v4_3.py` | 動態（無威脅時 0 筆） |
+| `ntech_blocklist.txt` | 分析產生之惡意 IP 封鎖清單 | `ncloud_fortigate_ntech_block_v2_1.py` | ~160 |
+| `Fortianalyzer-abnormaly_140_122_ips.txt` | FortiAnalyzer 偵測之內部異常行為主機（140.122.x.x） | FortiAnalyzer 分析結果 | ~740 |
+| `g-NTNU-Lib-ThreatSeed-v1` | 圖書館端點異常連線之威脅情資種子清單 | 人工維護 | ~290 |
 
 ### 🌐 FQDN / 網域封鎖清單
 
-| 檔案名稱 | 說明 | 來源 | 筆數（約） |
+| 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
-| `DNS-FQDN-Blocklist-v6.txt` | 主要 DNS FQDN 封鎖清單，含惡意網域、成人內容、釣魚/木馬 C2 網域，並包含萬用字元（`*.domain`）格式 | 人工維護 + 威脅情資 | ~1,880 |
-| `ntech_blocklist_fqdn.txt` | 分析產生之惡意 FQDN 封鎖清單，主要包含掃描器主機 PTR 記錄 | `ncloud_fortigate_ntech_block_v2_1.py` 自動生成 | ~229 |
+| `DNS-FQDN-Blocklist-v6.txt` | 主要 DNS FQDN 封鎖清單，含惡意網域、成人內容、釣魚/木馬 C2 網域，並包含萬用字元（`*.domain`）格式 | 人工維護 + 威脅情資 | ~1,890 |
+| `ntech_blocklist_fqdn.txt` | 分析產生之惡意 FQDN 封鎖清單，主要包含掃描器主機 PTR 記錄 | `ncloud_fortigate_ntech_block_v2_1.py` | ~70 |
 
 ### 📧 郵件系統封鎖清單
 
-| 檔案名稱 | 說明 | 來源 | 筆數（約） |
+| 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
-| `emailsys_block_ipset.txt` | 郵件系統封鎖 IP/CIDR 集合（以 CIDR 格式為主），涵蓋高風險 IP 段 | `EmailSys_fortigate_block_v2_1.py` 自動生成 | ~613 |
+| `emailsys_block_ipset.txt` | 郵件系統封鎖 IP/CIDR 集合（以 CIDR 格式為主），涵蓋高風險 IP 段 | `EmailSys_fortigate_block_v2_1.py` | ~2,360 |
 
 ### 🖥️ 內部設備控管清單
 
+| 檔案名稱 | 說明 | 現行有效筆數（約） |
+|---|---|---|
+| `g-IOT_Block-v1.txt` | 內部 IoT 設備（140.122.x.x）限制對外存取之 IP 清單 | ~705 |
+| `g-NetworkDevices_Block-v1.txt` | 內部網路設備（交換器、印表機等）對外 Web 服務封鎖清單 | ~107 |
+| `g-ServerFarm-sshblocklist-v1.txt` | 伺服器農場（140.122.59.x / 63.x / 64.x / 65.x）SSH 對外封鎖清單 | ~44 |
+
+### ✅ 允許清單與服務維護（Allowlist / Whitelist）
+
 | 檔案名稱 | 說明 |
 |---|---|
-| `g-IOT_Block-v1.txt` | 內部 IoT 設備（140.122.x.x）限制對外存取之 IP 清單 |
-| `g-NetworkDevices_Block-v1.txt` | 內部網路設備（交換器、印表機等）對外 Web 服務封鎖清單，含英語學系設備、光電所印表機 |
-| `g-ServerFarm-sshblocklist-v1.txt` | 伺服器農場（140.122.59.x / 63.x / 64.x / 65.x）SSH 對外封鎖清單 |
-
-### ✅ 內部服務允許清單（Allowlist / Whitelist）
-
-| 檔案名稱 | 說明 |
-|---|---|
-| `ncloud_allowlist.txt` | 全域允許清單，包含 DNS、GoogleBot CIDRs、校內重要 IP 與維護廠商 IP |
-| `NTNU-FormalWebsites-v2.txt` | 正式對外網路服務伺服器 IP 清單（含 VPN、圖書館、各行政單位、學術網站，以 `#URL` 批註對應服務） |
-| `NTNU-AcademicWebsites-v1.txt` | 學術網站伺服器 IP 清單，含各系所學術平台（心測中心、地球科學系、圖書館、資工系、電資學院等） |
+| `ncloud_allowlist.txt` | 全域實體允許清單，包含公用 DNS、GoogleBot CIDRs、校內重要 IP 與維護廠商 IP |
+| `NTNU-FormalWebsites-v2.txt` | 正式對外網路服務伺服器 IP 清單（含 VPN、圖書館、行政單位、學術網站） |
+| `NTNU-AcademicWebsites-v1.txt` | 學術網站伺服器 IP 清單，含各系所學術平台 |
 | `NTNU-AcademicWebsites-CSIE-1.txt` | 資工系（CSIE）專屬學術網站伺服器 IP 清單 |
-| `Security-UCP-maintenance-v1.txt` | 資安暨網路管理平台（UCP）維護清單，標示暫時封鎖之服務 IP |
-
-### 🖼️ 其他工具檔案
-
-| 檔案名稱 | 說明 |
-|---|---|
-| `DNS_block_Message-v2.html` | DNS 封鎖警告頁面（繁體中文），當使用者存取被封鎖網域時由 Fortigate 顯示 |
+| `Security-UCP-maintenance-v1.txt` | 資安暨網路管理平台（UCP）維護清單 |
 
 ---
 
-## ⚙️ 自動化腳本運作方式
+## ⚙️ 自動化腳本運作機制 (Python v4.3)
 
 > **執行環境**：Kali Linux  
 > **排程方式**：Crontab（`Asia/Taipei` 時區）
@@ -107,86 +101,44 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 | `ncloud_fortigate_ntech_block_v2_1.py` | 分析產生封鎖清單（IP + FQDN） | `ntech_blocklist.txt`、`ntech_blocklist_fqdn.txt` |
 | `EmailSys_fortigate_block_v2_1.py` | 分析郵件系統封鎖統計，產生 CIDR 格式封鎖清單 | `emailsys_block_ipset.txt` |
 
-### 自動更新流程
-
-```bash
-# 腳本執行完成後自動 Git Push
-git -C /path/to/Fortigate add -A
-git -C /path/to/Fortigate commit -m "feed(py v4.3): union(daily topn + 10m incremental) allowlist-file+env Asia/Taipei"
-git -C /path/to/Fortigate push origin main
-```
-
 ---
 
-## 📋 `ncloud_block_src_topn.txt` 產生規則
+## 📋 `ncloud_block_src_topn.txt` 產生標頭規範
 
-檔案標頭記錄完整的產生參數，例如：
+產出的文字檔標頭上記錄真實的產生參數，範例如下：
 
 ```
 # ncloud_block_src_topn.txt
 # Generated by ncloud_topn_feed_push_v4_3.py
 # Mode: daily recompute (00:00~now) UNION 10min incremental per-job union (10m)
 # TZ: Asia/Taipei
-# Jobs: ext_to_int_threat_unblocked, int_to_ext_flow_ioc, trojan_irc_top,
-#        cert_remote_top, dns_ptr_anomaly, ext_to_int_ssh_inflow
+# Jobs: ext_to_int_threat_unblocked, int_to_ext_flow_ioc, trojan_irc_top, cert_remote_top, dns_ptr_anomaly, ext_to_int_ssh_inflow
 # Note: main src = daily_topn_src(00:00~now) UNION incremental_union
-# Rules: public IPv4 only; exclude_cidrs=140.122.0.0/16;
-#        allowlist_ips=1.0.0.1,1.1.1.1,149.112.112.112,208.67.220.220,
-#                     208.67.222.222,8.8.4.4,8.8.8.8,9.9.9.9,111.125.135.25,211.75.221.136...;
-#        allowlist_cidrs=64.233.160.0/19,74.125.0.0/16...;
-#        allowlist_file=/home/kali/bin/ncloud/ncloud_allowlist.txt
+# Rules: public IPv4 only; exclude_cidrs=140.122.0.0/16; allowlist_ips=1.0.0.1,1.1.1.1,111.125.135.25,111.235.251.250,149.112.112.112,208.67.220.220,208.67.222.222,210.203.56.199,211.75.221.136,8.4.224.250,8.8.4.4,8.8.8.8,9.9.9.9; allowlist_cidrs=(none); allowlist_file=/home/kali/bin/ncloud/ncloud_allowlist.txt
+#
 ```
 
 ---
 
-## 🆕 v4.3 版本重點更新說明 (Python Script Upgrade)
+## 🆕 v4.3 現行版本重點特性 (Python v4.3 Upgrade)
 
 1. **00:00:00 每日重置與狀態同步解耦（State Sync Fix）**：
-   - 修正 v4.2 狀態寫入早於 `git push` 導致網路波動時錯失 00:00 重置的 Bug。
-   - 在 v4.3 中，`save_state(state)` 調整至 Git 推送成功後才執行。確保每日 00:00:00 準時重置歸零 `ncloud_block_src_topn.txt`，並在後續每 10 分鐘穩定進行增量累計。
+   - 修正舊版狀態寫入早於 `git push` 導致網路波動時錯失 00:00 重置歸零的 Bug。
+   - 在 v4.3 中，`save_state(state)` 調整至 Git 推送成功後才執行。確保每日 00:00:00 準時重置歸零 `ncloud_block_src_topn.txt`，並在當日後續每 10 分鐘穩定累計。
 2. **`separate_output` 獨立 Job 全面 Allowlist 過濾**：
-   - 所有獨立 Job 清單檔案（如 `ncloud_block_src_trojan_irc.txt`、`ncloud_block_src_cert_remote.txt`、`ncloud_block_src_ext_ssh_in.txt`、`ncloud_block_src_dns_ptr_anom.txt`）均全面導入 `is_allowed_ipv4` 白名單校驗。
+   - 所有獨立 Job 清單檔案（如 `ncloud_block_src_trojan_irc.txt`、`ncloud_block_src_cert_remote.txt`、`ncloud_block_src_ext_ssh_in.txt`、`ncloud_block_src_dns_ptr_anom.txt`）均全面導入 `is_allowed_ipv4` 白名單與 CIDR 校驗。
 3. **實體動態白名單檔 `ncloud_allowlist.txt` 支援**：
-   - 腳本支援透過 `ncloud_allowlist.txt` 檔案及環境變數動態解析 Allowlist IP 與 CIDR 網段（已包含 GoogleBot 全球 CIDRs、校內與維護廠商特定 IP）。
+   - 腳本動態讀取 `ncloud_allowlist.txt` 檔案及環境變數 `ALLOWLIST_IPS` / `ALLOWLIST_CIDRS`，包含 GoogleBot 全球 CIDRs、校內重要 IP 及合作廠商特定 IP（如 `211.75.221.136`、`111.125.135.25` 等）。
 4. **`verify_v4_3.sh` 自動化全套驗證**：
-   - 提供 0~5 步驟全自動校驗腳本，涵蓋白名單不誤擋檢查、跨日重置歸零與 10 分鐘增量累計驗證。
+   - 包含 Step 0 ~ Step 5 的全自動校驗腳本，嚴格確保白名單 IP 不會誤入任何封鎖清單。
 
 ---
 
-## 🚀 快速入門
+## 📜 歷史版本演進 (Version Evolution History)
 
-### ✅ 需求條件
-
-1. 支援 DNS 過濾功能的 Fortigate 設備
-2. 防火牆管理員權限
-3. Fortigate 可存取 GitHub Raw 內容 URL（或透過內部 Proxy）
-
-### 🔧 使用方式
-
-**1. 在 Fortigate 設定外部威脅情資（External Threat Feed）**
-
-於 Fortigate 管理介面 → **Security Fabric** → **External Connectors** 建立 Threat Feed，貼入對應清單的 GitHub Raw URL。
-
-**2. 設定 Fortigate DNS Filter（DNS FQDN 封鎖）**
-
-將 `DNS-FQDN-Blocklist-v6.txt`（含萬用字元格式）匯入 DNS Filter 設定，搭配 `DNS_block_Message-v2.html` 作為封鎖回應頁面。
-
-**3. 設定防火牆政策（Firewall Policy）**
-
-建立防火牆政策，將各 IP 封鎖清單（`ncloud_block_src_*.txt`、`g-BLACK_IP_Manual-v5.txt` 等）套用為來源 / 目標位址群組，執行拒絕（Deny）動作。
-
----
-
-## 🔒 封鎖類別說明
-
-| 類別 | 封鎖項目 |
-|---|---|
-| **惡意程式 / C2** | Trojan IRC、Cert Remote 隧道、惡意網域 |
-| **入侵嘗試** | SSH 暴力破解、外部掃描器 |
-| **DNS 威脅** | 釣魚網域、惡意重定向、C2 FQDN |
-| **成人 / 違規內容** | 色情、博弈相關網域（DNS FQDN 清單） |
-| **內部異常設備** | IoT 設備、網路設備、FortiAnalyzer 偵測之異常主機 |
-| **郵件垃圾 / 詐騙** | 全球高風險 IP 段（emailsys_block_ipset） |
+- **v4.2 (2026-08)**：引入專案級 Git 排隊鎖 (`.gitops.lock`)、自動清理 stale Git 鎖與連線重試機制。
+- **v4.1 (2026-08)**：實作白名單外部化 (`ncloud_allowlist.txt`) 與多 GitHub 帳號雙備援同步。
+- **v4.0 / v2.0 (2026-07)**：系統核心重構，抽離共用工具模組 `ncloud_feed_utils.py`，歸檔舊腳本至 `Old/` 目錄。
 
 ---
 
