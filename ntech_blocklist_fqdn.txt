@@ -19,14 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-183.dynamic-ip.hinet.net
 130.210.203.35.bc.googleusercontent.com
-144.92.74.97.host.secureserver.net
 149.149.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 207.149.216.162.bc.googleusercontent.com
-213.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -42,10 +40,8 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-84-32-34-18.009.ptr.cherryservers.net
-ip140.ip-51-81-123.us
 ip237.ip-5-39-19.eu
 ip29.sudolio.io
-li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 o066.scanner.modat.io
@@ -54,11 +50,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60.security.ipip.net
-scan-67-1.shadowserver.io
-scdc.worra.com
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 users219.vip.heteml.jp
