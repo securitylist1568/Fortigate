@@ -19,14 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 117.158.76.34.bc.googleusercontent.com
 125.49.14.34.bc.googleusercontent.com
-142.70.77.34.bc.googleusercontent.com
 15.94.156.34.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
 173.30.91.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 200.241.79.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
-208.195.201.35.bc.googleusercontent.com
 210.1.155.104.bc.googleusercontent.com
 227.22.78.34.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
@@ -53,8 +51,6 @@ crawler027.deepfield.net
 crawler053.deepfield.net
 crawler081.deepfield.net
 crawler131.deepfield.net
-crawler157.deepfield.net
-crawler196.deepfield.net
 crawler237.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -68,6 +64,8 @@ ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
+o341.scanner.modat.io
+o348.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
