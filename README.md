@@ -134,14 +134,6 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 
 ---
 
-## 📜 歷史版本演進 (Version Evolution History)
-
-- **v4.2 (2026-08)**：引入專案級 Git 排隊鎖 (`.gitops.lock`)、自動清理 stale Git 鎖與連線重試機制。
-- **v4.1 (2026-08)**：實作白名單外部化 (`ncloud_allowlist.txt`) 與多 GitHub 帳號雙備援同步。
-- **v4.0 / v2.0 (2026-07)**：系統核心重構，抽離共用工具模組 `ncloud_feed_utils.py`，歸檔舊腳本至 `Old/` 目錄。
-
----
-
 ## 📌 注意事項
 
 - **自動更新**：本儲存庫由 Kali Linux Crontab 自動更新，**請勿手動修改自動產生的清單**（如 `ncloud_block_src_*.txt`、`ntech_blocklist.txt`、`emailsys_block_ipset.txt`），否則下次排程執行時將被覆蓋。
