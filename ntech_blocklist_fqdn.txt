@@ -33,8 +33,10 @@ b9d155e9.mow.customer.misaka.io
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
 crawler178.deepfield.net
+crawler211.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 get174.ingetitin.com
