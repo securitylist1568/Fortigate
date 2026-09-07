@@ -22,6 +22,7 @@
 117.158.76.34.bc.googleusercontent.com
 125.49.14.34.bc.googleusercontent.com
 14.141.185.34.bc.googleusercontent.com
+142.70.77.34.bc.googleusercontent.com
 15.94.156.34.bc.googleusercontent.com
 160.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -45,6 +46,7 @@ amz.unixwiz.net
 as28267.sc.simfibra.com.br
 b2.org.afilias-nst.org
 client.yota.ru
+crawler157.deepfield.net
 crawler196.deepfield.net
 crawler203.deepfield.net
 d1d13986.sjc.customer.misaka.io
