@@ -28,6 +28,7 @@ amz.unixwiz.net
 azpdcsoi0i6r.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+condor2387.startdedicated.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-16-162-89-106.ap-east-1.compute.amazonaws.com
