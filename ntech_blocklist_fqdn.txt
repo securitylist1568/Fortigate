@@ -21,6 +21,7 @@
 125.49.14.34.bc.googleusercontent.com
 142.70.77.34.bc.googleusercontent.com
 15.94.156.34.bc.googleusercontent.com
+158.31.232.180.dsl.inet.static.certaincyber.net
 185-45-195-15.hostsailor.com
 189.48.186.34.bc.googleusercontent.com
 200.241.79.34.bc.googleusercontent.com
@@ -28,6 +29,7 @@
 210.1.155.104.bc.googleusercontent.com
 227.22.78.34.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
+39.157.77.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 60.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
