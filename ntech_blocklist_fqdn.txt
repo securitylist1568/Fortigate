@@ -19,12 +19,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 113-11-100-109.broadband.smile.com.bd
 118-168-225-183.dynamic-ip.hinet.net
+125.49.14.34.bc.googleusercontent.com
 14.141.185.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 207.149.216.162.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
+86.107.79.34.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -43,6 +45,7 @@ ec2-50-16-43-171.compute-1.amazonaws.com
 ec2-52-15-153-107.us-east-2.compute.amazonaws.com
 ec2-52-91-204-84.compute-1.amazonaws.com
 ec2-54-175-149-14.compute-1.amazonaws.com
+ec2-54-204-76-69.compute-1.amazonaws.com
 encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
