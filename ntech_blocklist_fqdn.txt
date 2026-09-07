@@ -54,6 +54,7 @@ crawler131.deepfield.net
 crawler237.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-16-162-89-106.ap-east-1.compute.amazonaws.com
 embnex.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
