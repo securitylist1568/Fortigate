@@ -36,6 +36,7 @@ amz.unixwiz.net
 as28267.sc.simfibra.com.br
 azpdcg9iz9jr.stretchoid.com
 azpdcsupl5a6.stretchoid.com
+azpdes57kr7m.stretchoid.com
 azpdesfudstn.stretchoid.com
 azpdesguh6i9.stretchoid.com
 azpdeskqbg0b.stretchoid.com
@@ -63,3 +64,4 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+wev.za.com
