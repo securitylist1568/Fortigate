@@ -49,6 +49,7 @@ no-mans-land.m247.com
 o311.scanner.modat.io
 o340.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
