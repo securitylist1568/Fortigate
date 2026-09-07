@@ -33,6 +33,7 @@
 204.76.203.49.ptr.pfcloud.network
 208.195.201.35.bc.googleusercontent.com
 210.1.155.104.bc.googleusercontent.com
+227.22.78.34.bc.googleusercontent.com
 3.30.155.104.bc.googleusercontent.com
 39.157.77.34.bc.googleusercontent.com
 45.135.193.159.ptr.pfcloud.network
