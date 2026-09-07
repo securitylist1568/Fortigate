@@ -45,6 +45,7 @@ ip29.sudolio.io
 lisbon.portugal.com
 mfyabgec.musicpda.com
 o066.scanner.modat.io
+o072.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
