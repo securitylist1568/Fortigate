@@ -20,7 +20,6 @@
 113-11-100-109.broadband.smile.com.bd
 118-168-225-183.dynamic-ip.hinet.net
 14.141.185.34.bc.googleusercontent.com
-149.149.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -28,7 +27,6 @@
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
-b9ead587.zrh.customer.misaka.io
 client.yota.ru
 crawler178.deepfield.net
 crawler211.deepfield.net
