@@ -23,8 +23,6 @@
 208.195.201.35.bc.googleusercontent.com
 21.210.52.116.broad.km.yn.dynamic.163data.com.cn
 2d96f25f.customer.misaka.taipei
-44.134.129.34.bc.googleusercontent.com
-45-33-73-52.ip.linodeusercontent.com
 99.61.85.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -35,7 +33,6 @@ dal215.hawkhost.com
 dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-fwnvyxu.top
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -53,7 +50,6 @@ pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-06g.shadowserver.io
 scan-53j.shadowserver.io
 scan-71-09.shadowserver.io
