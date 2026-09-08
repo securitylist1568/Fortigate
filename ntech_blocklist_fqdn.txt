@@ -20,10 +20,12 @@
 118-168-225-183.dynamic-ip.hinet.net
 177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
+193.86.24.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 208.195.201.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 99.61.85.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -33,6 +35,7 @@ dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 e2e-119-116.ssdcloudindia.net
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
