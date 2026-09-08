@@ -36,6 +36,8 @@ dal215.hawkhost.com
 dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 e2e-119-116.ssdcloudindia.net
+ec2-44-212-74-78.compute-1.amazonaws.com
+ec2-54-146-156-132.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
@@ -51,6 +53,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
+scan-43h.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
