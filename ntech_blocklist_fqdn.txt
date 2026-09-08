@@ -42,6 +42,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 ec2-174-129-71-237.compute-1.amazonaws.com
 ec2-34-227-163-200.compute-1.amazonaws.com
 ec2-44-212-74-78.compute-1.amazonaws.com
