@@ -23,11 +23,9 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 162.89.78.34.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
-179.18.148.146.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.173.187.35.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
-193.86.24.34.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 204.76.203.49.ptr.pfcloud.network
 213.122.240.35.bc.googleusercontent.com
@@ -37,9 +35,7 @@
 41.68.156.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45-56-83-149.ip.linodeusercontent.com
-45.135.193.159.ptr.pfcloud.network
 74.186.52.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -51,15 +47,12 @@ ec2-44-212-74-78.compute-1.amazonaws.com
 ec2-44-220-145-170.compute-1.amazonaws.com
 ec2-54-146-156-132.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mail.terranak.com
 mfyabgec.musicpda.com
-o072.scanner.modat.io
-o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
