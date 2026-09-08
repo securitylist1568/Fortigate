@@ -24,6 +24,7 @@
 193.86.24.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 208.195.201.35.bc.googleusercontent.com
+232.224.52.34.bc.googleusercontent.com
 45.135.193.159.ptr.pfcloud.network
 60-249-14-121.hinet-ip.hinet.net
 99.61.85.34.bc.googleusercontent.com
