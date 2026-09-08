@@ -21,6 +21,7 @@
 173-230-142-199.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
+69.38.87.34.bc.googleusercontent.com
 76.247.6.34.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
