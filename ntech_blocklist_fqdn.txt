@@ -47,5 +47,6 @@ scan-32.tttx.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+tfk162.templeforknowledge.com
 users219.vip.heteml.jp
 vps-102972.cloud.firstheberg.net
