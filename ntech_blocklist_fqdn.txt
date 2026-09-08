@@ -21,7 +21,6 @@
 125-230-88-166.dynamic-ip.hinet.net
 132.168.62.34.bc.googleusercontent.com
 150.168.62.34.bc.googleusercontent.com
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 19.173.187.35.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
@@ -47,7 +46,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-mail.terranak.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
