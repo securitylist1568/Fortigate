@@ -18,18 +18,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-183.dynamic-ip.hinet.net
-125-230-88-166.dynamic-ip.hinet.net
 127.85.180.34.bc.googleusercontent.com
 132.168.62.34.bc.googleusercontent.com
-150.168.62.34.bc.googleusercontent.com
 173-230-142-199.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-19.173.187.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 243-171-195-168.skynettelecom.net.br
-255.43.78.34.bc.googleusercontent.com
 36-224-241-170.dynamic-ip.hinet.net
-41.68.156.34.bc.googleusercontent.com
 50-116-26-4.ip.linodeusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 76.247.6.34.bc.googleusercontent.com
@@ -63,4 +58,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 ve1315.venus.dedi.server-hosting.expert
-www.internet-albedo.net
