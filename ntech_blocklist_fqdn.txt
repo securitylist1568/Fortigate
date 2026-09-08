@@ -36,6 +36,7 @@
 42.123.243.83.in-addr.arpa
 45-56-83-149.ip.linodeusercontent.com
 74.186.52.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
