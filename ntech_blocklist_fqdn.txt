@@ -23,7 +23,6 @@
 150.168.62.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.173.187.35.bc.googleusercontent.com
-194-195-253-86.ip.linodeusercontent.com
 204.76.203.49.ptr.pfcloud.network
 243-171-195-168.skynettelecom.net.br
 255.43.78.34.bc.googleusercontent.com
