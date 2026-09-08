@@ -103,6 +103,27 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 
 ---
 
+## 🛠️ 工具與查詢腳本 (Utility Scripts)
+
+本系統提供獨立之正規化 Python 工具腳本，方便維護人員隨時調閱威脅情資歷史狀態與統計：
+
+### IP 威脅情資歷史調閱工具 (`query_ip_history.py`)
+
+- **功能描述**：支援單一或多個 IP 位址，高速查詢其在過去 N 天（預設 7 天）內落入 Fortigate 黑名單清單（如 `ncloud_block_src_topn.txt`、`ncloud_block_src_ext_ssh_in.txt` 等）的每日封鎖次數統計、當前 HEAD 最新狀態，以及全 Git 歷史異動紀錄 (`git log -S`)。
+- **使用範例**：
+  ```bash
+  # 查詢單一 IP 過去 7 天紀錄
+  python query_ip_history.py 60.251.148.94
+
+  # 查詢多個 IP 過去 7 天紀錄
+  python query_ip_history.py 35.201.232.104 35.201.248.254 220.130.189.210 --days 7
+
+  # 查詢指定 IP 過去 14 天紀錄
+  python query_ip_history.py --ips 123.192.200.16 211.75.221.136 --days 14
+  ```
+
+---
+
 ## 📋 `ncloud_block_src_topn.txt` 產生標頭規範
 
 產出的文字檔標頭上記錄真實的產生參數，範例如下：
