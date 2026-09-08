@@ -21,7 +21,6 @@
 173-230-142-199.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 76.247.6.34.bc.googleusercontent.com
 98-126-201-186.dynamic.hinet.net
 adventure.yatano.com
@@ -40,8 +39,6 @@ host-45-139-196-114.net.onlyservers.com
 htb-h9b8tjwfph.htb-cloud.com
 ip161.ip-5-135-252.eu
 ip29.sudolio.io
-li1972-67.members.linode.com
-mail.terranak.com
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
 o342.scanner.modat.io
