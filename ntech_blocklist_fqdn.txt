@@ -27,6 +27,7 @@
 179.18.148.146.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.173.187.35.bc.googleusercontent.com
+192.248.150.180.vultrusercontent.com
 193.86.24.34.bc.googleusercontent.com
 227.146.175.207.bc.googleusercontent.com
 232.224.52.34.bc.googleusercontent.com
@@ -65,6 +66,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
+scan-40e.shadowserver.io
 scan-43h.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
