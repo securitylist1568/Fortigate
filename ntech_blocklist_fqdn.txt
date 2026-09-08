@@ -17,15 +17,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+185-180-223-247.hosted-by-worldstream.net
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
 50-116-26-218.ip.linodeusercontent.com
 69.38.87.34.bc.googleusercontent.com
-76.247.6.34.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
-b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
