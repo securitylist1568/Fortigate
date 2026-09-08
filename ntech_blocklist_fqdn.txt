@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-225-183.dynamic-ip.hinet.net
 127.173.52.34.bc.googleusercontent.com
 132.168.62.34.bc.googleusercontent.com
 150.168.62.34.bc.googleusercontent.com
@@ -57,7 +56,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
-mail.terranak.com
 mfyabgec.musicpda.com
 o072.scanner.modat.io
 o315.scanner.modat.io
@@ -65,7 +63,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s4850.vps.hosting
 scan-40e.shadowserver.io
 scan-43h.shadowserver.io
 scan-86-7.shadowserver.io
