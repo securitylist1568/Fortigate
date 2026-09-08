@@ -23,7 +23,6 @@
 150.168.62.34.bc.googleusercontent.com
 162.89.78.34.bc.googleusercontent.com
 172-238-160-104.ip.linodeusercontent.com
-177.249.60.77-clientes-zap-izzi.mx
 179.18.148.146.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.173.187.35.bc.googleusercontent.com
@@ -42,7 +41,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dns-udp-scan-0.io.internetdata.io
 dns12.online.tj.cn
 e2e-119-116.ssdcloudindia.net
 ec2-174-129-71-237.compute-1.amazonaws.com
@@ -61,7 +59,6 @@ mfyabgec.musicpda.com
 o072.scanner.modat.io
 o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
-pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
