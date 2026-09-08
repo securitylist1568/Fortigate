@@ -20,6 +20,7 @@
 118-168-225-183.dynamic-ip.hinet.net
 150.168.62.34.bc.googleusercontent.com
 162.89.78.34.bc.googleusercontent.com
+172-238-160-104.ip.linodeusercontent.com
 177.249.60.77-clientes-zap-izzi.mx
 179.18.148.146.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -30,6 +31,7 @@
 232.224.52.34.bc.googleusercontent.com
 255.43.78.34.bc.googleusercontent.com
 41.68.156.34.bc.googleusercontent.com
+45-56-83-149.ip.linodeusercontent.com
 45.135.193.159.ptr.pfcloud.network
 60-249-14-121.hinet-ip.hinet.net
 74.186.52.34.bc.googleusercontent.com
