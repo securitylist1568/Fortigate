@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
+50-116-26-218.ip.linodeusercontent.com
 69.38.87.34.bc.googleusercontent.com
 76.247.6.34.bc.googleusercontent.com
 adventure.yatano.com
