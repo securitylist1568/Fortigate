@@ -20,6 +20,7 @@
 118-168-225-183.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 220-137-204-155.dynamic-ip.hinet.net
+243-171-195-168.skynettelecom.net.br
 69.38.87.34.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
 aim.sba-research.org
@@ -44,6 +45,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-63-2.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
