@@ -43,7 +43,6 @@ o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
 pinkytales.com
-please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -53,5 +52,3 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vm22117.akenai.host
-vmi2578777.contaboserver.net
