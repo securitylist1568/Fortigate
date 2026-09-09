@@ -26,6 +26,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
+customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-38-109-133.eu-west-3.compute.amazonaws.com
