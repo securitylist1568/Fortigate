@@ -20,6 +20,7 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 243-171-195-168.skynettelecom.net.br
+246.150.216.162.bc.googleusercontent.com
 69.121.101.34.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
 81.211.203.35.bc.googleusercontent.com
@@ -37,6 +38,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-70.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
