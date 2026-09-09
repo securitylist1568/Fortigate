@@ -18,11 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-225-183.dynamic-ip.hinet.net
-185-180-223-247.hosted-by-worldstream.net
 185-45-195-15.hostsailor.com
-213.69.240.35.bc.googleusercontent.com
 220-137-204-155.dynamic-ip.hinet.net
-69.121.101.34.bc.googleusercontent.com
 69.38.87.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -33,9 +30,7 @@ dns12.online.tj.cn
 e2e-120-224.ssdcloudindia.net
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-109-95-219-101.real.mrnext.net
 htb-h9b8tjwfph.htb-cloud.com
-ip237.ip-5-39-19.eu
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
