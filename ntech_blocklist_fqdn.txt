@@ -24,6 +24,7 @@
 118.35.77.34.bc.googleusercontent.com
 148.18.155.104.bc.googleusercontent.com
 172-232-25-10.ip.linodeusercontent.com
+185-180-223-247.hosted-by-worldstream.net
 185-45-195-15.hostsailor.com
 206.213.189.35.bc.googleusercontent.com
 235.130.156.34.bc.googleusercontent.com
