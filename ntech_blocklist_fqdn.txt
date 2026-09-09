@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-168-247-156.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 243-171-195-168.skynettelecom.net.br
@@ -29,6 +30,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
+cohogs.usienspire.com
 customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
 dns12.online.tj.cn
