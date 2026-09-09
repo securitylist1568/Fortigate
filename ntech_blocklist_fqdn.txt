@@ -29,6 +29,7 @@ client.yota.ru
 customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-100-31-114-1.compute-1.amazonaws.com
 ec2-13-38-109-133.eu-west-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
