@@ -49,6 +49,7 @@ recyber.net
 rootevidence.com
 scan-63-2.shadowserver.io
 security.criminalip.com
+sjoztem.cn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tfk162.templeforknowledge.com
