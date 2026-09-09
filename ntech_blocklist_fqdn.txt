@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-225-183.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-220-137-204-155.dynamic-ip.hinet.net
 243-171-195-168.skynettelecom.net.br
 69.121.101.34.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
@@ -30,15 +28,14 @@ cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-e2e-120-224.ssdcloudindia.net
 ec2-13-38-109-133.eu-west-3.compute.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
-o074.scanner.modat.io
 o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
