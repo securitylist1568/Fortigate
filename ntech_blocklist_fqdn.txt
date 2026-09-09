@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+203-74-130-205.hinet-ip.hinet.net
 243-171-195-168.skynettelecom.net.br
 69.121.101.34.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
