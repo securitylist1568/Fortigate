@@ -54,6 +54,7 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan.visionheight.com
 scanner.0x10.uk
 security.criminalip.com
 smtp1.telemach.net
