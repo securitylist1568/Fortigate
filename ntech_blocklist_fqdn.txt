@@ -30,6 +30,7 @@
 222.211.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
+239.210.203.35.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 35.210.203.35.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
@@ -61,6 +62,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-06g.shadowserver.io
 scan-08g.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
