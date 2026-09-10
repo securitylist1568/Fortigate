@@ -34,6 +34,7 @@
 228.150.216.162.bc.googleusercontent.com
 229.172.38.34.bc.googleusercontent.com
 246.211.203.35.bc.googleusercontent.com
+35.210.203.35.bc.googleusercontent.com
 43.135.195.35.bc.googleusercontent.com
 44.88.156.34.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
@@ -76,3 +77,4 @@ user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 wev.za.com
 www.internet-albedo.net
+zhangyuan3.virtuaserver.com.br
