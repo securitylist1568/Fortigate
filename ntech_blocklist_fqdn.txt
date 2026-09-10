@@ -31,6 +31,7 @@
 246.150.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
 254-171-195-168.skynettelecom.net.br
+2d96f25f.customer.misaka.taipei
 40.211.203.35.bc.googleusercontent.com
 43.135.195.35.bc.googleusercontent.com
 44.88.156.34.bc.googleusercontent.com
@@ -64,6 +65,8 @@ ip-49-70.4vendeta.com
 ip29.sudolio.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+o309.scanner.modat.io
+o312.scanner.modat.io
 o339.scanner.modat.io
 o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
