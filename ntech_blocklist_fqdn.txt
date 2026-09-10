@@ -20,10 +20,13 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.149.216.162.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
+139.149.216.162.bc.googleusercontent.com
+144.211.203.35.bc.googleusercontent.com
 147.149.216.162.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
 177.207.211.211.static.gvt.net.br
 180.149.216.162.bc.googleusercontent.com
+181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193.150.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
