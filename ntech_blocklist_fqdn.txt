@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-247-156.dynamic-ip.hinet.net
 118-233-5-220.dynamic.kbronet.com.tw
 119.88.86.172.static.cloudzy.com
 129.150.216.162.bc.googleusercontent.com
@@ -34,7 +33,7 @@
 35.210.203.35.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
-62-210-142-62.rev.poneytelecom.eu
+53.149.216.162.bc.googleusercontent.com
 97-107-129-211.ip.linodeusercontent.com
 97-107-134-95.ip.linodeusercontent.com
 aim.sba-research.org
@@ -65,10 +64,8 @@ scan-06g.shadowserver.io
 scan-08g.shadowserver.io
 scan-58.security.ipip.net
 scan-81-0.shadowserver.io
-scan-85-3.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vmi2578777.contaboserver.net
 zhangyuan3.virtuaserver.com.br
