@@ -20,9 +20,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
 145.223.189.35.bc.googleusercontent.com
+164.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194.150.216.162.bc.googleusercontent.com
 220.185.175.207.bc.googleusercontent.com
 229.172.38.34.bc.googleusercontent.com
+23.208.77.34.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
 254-171-195-168.skynettelecom.net.br
