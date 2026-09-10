@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
+145.223.189.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 220.185.175.207.bc.googleusercontent.com
@@ -53,6 +54,7 @@ ec2-98-88-20-39.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
+hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip-49-70.4vendeta.com
