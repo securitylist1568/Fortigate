@@ -63,6 +63,7 @@ rootevidence.com
 rping.ipip.net
 scan-06g.shadowserver.io
 scan-08g.shadowserver.io
+scan-58.security.ipip.net
 scan-81-0.shadowserver.io
 scan-85-3.shadowserver.io
 smtp1.telemach.net
