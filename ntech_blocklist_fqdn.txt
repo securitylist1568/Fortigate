@@ -28,6 +28,7 @@
 234.191.101.34.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 240.197.178.34.bc.googleusercontent.com
+252.149.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 37.150.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
