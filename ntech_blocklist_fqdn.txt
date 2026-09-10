@@ -24,6 +24,7 @@
 147.243.187.123.broad.ly.ln.dynamic.163data.com.cn
 149.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194.150.216.162.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 234.191.101.34.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 37.150.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
 53.149.216.162.bc.googleusercontent.com
+71.150.216.162.bc.googleusercontent.com
 97-107-129-211.ip.linodeusercontent.com
 97-107-134-95.ip.linodeusercontent.com
 97.58.185.35.bc.googleusercontent.com
