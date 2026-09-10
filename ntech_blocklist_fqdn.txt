@@ -62,6 +62,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-70.4vendeta.com
 ip29.sudolio.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
