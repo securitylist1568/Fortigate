@@ -31,6 +31,7 @@
 228.210.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
+240.197.178.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 35.210.203.35.bc.googleusercontent.com
 45.210.203.35.bc.googleusercontent.com
