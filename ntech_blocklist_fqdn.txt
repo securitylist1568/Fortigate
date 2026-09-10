@@ -21,10 +21,8 @@
 118-233-5-220.dynamic.kbronet.com.tw
 119.88.86.172.static.cloudzy.com
 129.150.216.162.bc.googleusercontent.com
-13.150.216.162.bc.googleusercontent.com
 147.243.187.123.broad.ly.ln.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
-222.211.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
@@ -45,12 +43,10 @@ crawler148.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
 ip29.sudolio.io
-li1537-121.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns3207149.ip-198-244-200.eu
