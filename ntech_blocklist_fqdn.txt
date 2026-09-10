@@ -54,6 +54,7 @@ ip-49-70.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
+pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -67,3 +68,4 @@ unn-207-211-210-83.datapacket.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 wev.za.com
+www.internet-albedo.net
