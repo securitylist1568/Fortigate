@@ -22,6 +22,7 @@
 145.223.189.35.bc.googleusercontent.com
 164.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+185.150.216.162.bc.googleusercontent.com
 194.150.216.162.bc.googleusercontent.com
 220.185.175.207.bc.googleusercontent.com
 228.237.156.34.bc.googleusercontent.com
@@ -75,5 +76,4 @@ security.criminalip.com
 sjoztem.cn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-tfk162.templeforknowledge.com
 users219.vip.heteml.jp
