@@ -65,6 +65,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
+scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-190-25-75-206.etb.net.co
