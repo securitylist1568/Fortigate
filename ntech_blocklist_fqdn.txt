@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 246.150.216.162.bc.googleusercontent.com
+247.150.216.162.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
@@ -50,6 +51,7 @@ pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-77-06.shadowserver.io
 sjoztem.cn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
