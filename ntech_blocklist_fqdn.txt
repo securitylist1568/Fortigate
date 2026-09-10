@@ -26,6 +26,7 @@
 56.211.203.35.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
 69.38.87.34.bc.googleusercontent.com
+80.43.167.72.host.secureserver.net
 81.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -37,6 +38,8 @@ customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-31-114-1.compute-1.amazonaws.com
+ec2-3-93-76-26.compute-1.amazonaws.com
+ec2-98-88-20-39.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
@@ -44,13 +47,16 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip-49-70.4vendeta.com
 ip29.sudolio.io
+li1625-135.members.linode.com
 mfyabgec.musicpda.com
+o339.scanner.modat.io
 o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43h.shadowserver.io
 scan-77-06.shadowserver.io
 sjoztem.cn
 smtp1.telemach.net
