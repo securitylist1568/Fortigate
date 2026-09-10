@@ -23,10 +23,8 @@
 119.88.86.172.static.cloudzy.com
 129.150.216.162.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
-146.19.213.222.broad.dy.sc.dynamic.163data.com.cn
 147.243.187.123.broad.ly.ln.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
-204.76.203.91.ptr.pfcloud.network
 222.211.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
@@ -34,9 +32,7 @@
 240.197.178.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 35.210.203.35.bc.googleusercontent.com
-45.210.203.35.bc.googleusercontent.com
 62-210-142-62.rev.poneytelecom.eu
-66.210.203.35.bc.googleusercontent.com
 97-107-129-211.ip.linodeusercontent.com
 97-107-134-95.ip.linodeusercontent.com
 aim.sba-research.org
@@ -51,14 +47,12 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
-ip230.ip-5-196-33.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o311.scanner.modat.io
 pc112.cses.ilc.edu.tw
-pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -68,11 +62,9 @@ scan-06g.shadowserver.io
 scan-08g.shadowserver.io
 scan-81-0.shadowserver.io
 scan-85-3.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vmi2578777.contaboserver.net
-www.internet-albedo.net
 zhangyuan3.virtuaserver.com.br
