@@ -58,6 +58,7 @@ ec2-3-95-169-233.compute-1.amazonaws.com
 ec2-54-163-206-20.compute-1.amazonaws.com
 ec2-98-88-20-39.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
