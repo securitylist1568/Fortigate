@@ -32,6 +32,7 @@
 240.197.178.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 35.210.203.35.bc.googleusercontent.com
+37.150.216.162.bc.googleusercontent.com
 62-210-142-62.rev.poneytelecom.eu
 97-107-129-211.ip.linodeusercontent.com
 97-107-134-95.ip.linodeusercontent.com
@@ -51,6 +52,7 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns3207149.ip-198-244-200.eu
 o311.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
