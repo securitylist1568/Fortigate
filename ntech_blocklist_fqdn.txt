@@ -28,6 +28,7 @@
 185-45-195-15.hostsailor.com
 204.76.203.91.ptr.pfcloud.network
 222.211.203.35.bc.googleusercontent.com
+228.210.203.35.bc.googleusercontent.com
 230.211.203.35.bc.googleusercontent.com
 35.210.203.35.bc.googleusercontent.com
 44.88.156.34.bc.googleusercontent.com
@@ -52,6 +53,7 @@ ip230.ip-5-196-33.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o311.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
