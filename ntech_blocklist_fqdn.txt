@@ -22,7 +22,6 @@
 121.211.203.35.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
 135.149.216.162.bc.googleusercontent.com
-149.210.203.35.bc.googleusercontent.com
 15.210.203.35.bc.googleusercontent.com
 155.208.76.34.bc.googleusercontent.com
 161.53.156.34.bc.googleusercontent.com
@@ -31,11 +30,9 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 189.148.53.34.bc.googleusercontent.com
-194.150.216.162.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 216.150.216.162.bc.googleusercontent.com
-234.191.101.34.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 240.197.178.34.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
@@ -49,7 +46,6 @@
 66.149.216.162.bc.googleusercontent.com
 69-164-213-11.ip.linodeusercontent.com
 69.210.203.35.bc.googleusercontent.com
-71.150.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
 91.211.203.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
@@ -173,7 +169,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-ns31560501.ip-162-19-19.eu
 o070.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
