@@ -21,6 +21,7 @@
 119.88.86.172.static.cloudzy.com
 135.149.216.162.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
+149.246.88.202.asianet.co.in
 155.208.76.34.bc.googleusercontent.com
 161.53.156.34.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
