@@ -58,6 +58,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 o068.scanner.modat.io
 o074.scanner.modat.io
+osb.moscow
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
 pinkytales.com
