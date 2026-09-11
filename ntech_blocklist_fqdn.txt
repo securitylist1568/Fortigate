@@ -35,6 +35,7 @@
 245.149.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
+46.150.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
@@ -155,6 +156,7 @@ crawler173.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 go.away
 hn.kd.ny.adsl
 hostedby.privatelayer.com
