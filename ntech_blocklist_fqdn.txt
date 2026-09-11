@@ -24,6 +24,7 @@
 122.149.216.162.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
 139-162-156-129.ip.linodeusercontent.com
+144.92.74.97.host.secureserver.net
 149.246.88.202.asianet.co.in
 155.208.76.34.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -36,6 +37,8 @@
 213.149.216.162.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 236.29.175.207.bc.googleusercontent.com
+245.149.216.162.bc.googleusercontent.com
+247.150.216.162.bc.googleusercontent.com
 42.80.211.130.bc.googleusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
