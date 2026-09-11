@@ -51,6 +51,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bitrix234.timeweb.ru
 client.yota.ru
+crawler019.deepfield.net
 crawler071.deepfield.net
 crawler173.deepfield.net
 dal215.hawkhost.com
