@@ -19,16 +19,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-170-87-166.dynamic-ip.hinet.net
 156.150.216.162.bc.googleusercontent.com
+17.210.203.35.bc.googleusercontent.com
 172-104-190-164.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-185.208.87.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 227.211.203.35.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 46.150.216.162.bc.googleusercontent.com
-48.211.203.35.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -144,8 +142,6 @@ azpdwsz0sl0a.stretchoid.com
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
-crawler019.deepfield.net
-crawler071.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -158,6 +154,7 @@ ip-49-142.web1.bg
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns31560501.ip-162-19-19.eu
 o336.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
