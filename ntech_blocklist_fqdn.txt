@@ -35,6 +35,7 @@
 199.150.216.162.bc.googleusercontent.com
 203.28.140.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
+213.149.216.162.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 236.29.175.207.bc.googleusercontent.com
 237.103.62.34.bc.googleusercontent.com
