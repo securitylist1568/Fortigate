@@ -31,8 +31,6 @@
 234.191.101.34.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
-37.150.216.162.bc.googleusercontent.com
-39968751.grabercloud.com
 53.149.216.162.bc.googleusercontent.com
 66-228-32-88.ip.linodeusercontent.com
 66.149.216.162.bc.googleusercontent.com
@@ -158,9 +156,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 ns31560501.ip-162-19-19.eu
-ns3207149.ip-198-244-200.eu
 o070.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -168,7 +164,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-58.security.ipip.net
 scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
