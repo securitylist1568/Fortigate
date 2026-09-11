@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-247-156.dynamic-ip.hinet.net
 118-170-87-166.dynamic-ip.hinet.net
 119.88.86.172.static.cloudzy.com
 130.150.216.162.bc.googleusercontent.com
@@ -34,7 +33,6 @@
 47.149.216.162.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 bitrix234.timeweb.ru
