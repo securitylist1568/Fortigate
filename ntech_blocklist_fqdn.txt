@@ -24,7 +24,6 @@
 122.149.216.162.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
 139-162-156-129.ip.linodeusercontent.com
-139.84.162.169.vultrusercontent.com
 149.246.88.202.asianet.co.in
 155.208.76.34.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -33,7 +32,6 @@
 185-45-195-15.hostsailor.com
 189.148.53.34.bc.googleusercontent.com
 197.210.203.35.bc.googleusercontent.com
-199.150.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 213.149.216.162.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
@@ -42,7 +40,6 @@
 45-79-132-238.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
 66.150.216.162.bc.googleusercontent.com
-6682315a.customer.misaka.joburg
 79.211.203.35.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -55,7 +52,6 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-114-46.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o068.scanner.modat.io
