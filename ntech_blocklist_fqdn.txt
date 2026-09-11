@@ -51,6 +51,7 @@
 91.211.203.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aa27e0dc.iad.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg0fga89.stretchoid.com
 azpdcg0ux8nz.stretchoid.com
@@ -179,6 +180,7 @@ recyber.net
 rootevidence.com
 scan-43b.shadowserver.io
 scan-47k.shadowserver.io
+scan-55c.shadowserver.io
 scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
