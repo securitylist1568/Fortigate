@@ -39,6 +39,7 @@
 42.80.211.130.bc.googleusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
+63.150.216.162.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 96.150.216.162.bc.googleusercontent.com
@@ -56,6 +57,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o068.scanner.modat.io
+o074.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pentnt-dcounta.moonjaws.com
 pinkytales.com
@@ -64,6 +66,7 @@ recyber.net
 rootevidence.com
 scan-12f.shadowserver.io
 scan-45o.shadowserver.io
+scan-56.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
