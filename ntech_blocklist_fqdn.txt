@@ -35,6 +35,7 @@
 237.103.62.34.bc.googleusercontent.com
 42.80.211.130.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
+66.150.216.162.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 79.211.203.35.bc.googleusercontent.com
 92.236.53.34.bc.googleusercontent.com
