@@ -21,13 +21,17 @@
 119.88.86.172.static.cloudzy.com
 139.84.162.169.vultrusercontent.com
 149.246.88.202.asianet.co.in
+155.208.76.34.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 180.150.216.162.bc.googleusercontent.com
 183.82.108.250.actcorp.in
 185-45-195-15.hostsailor.com
+189.148.53.34.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 203.28.140.34.bc.googleusercontent.com
 237.103.62.34.bc.googleusercontent.com
+42.80.211.130.bc.googleusercontent.com
+45.63.4.69.vultrusercontent.com
 6682315a.customer.misaka.joburg
 79.211.203.35.bc.googleusercontent.com
 92.236.53.34.bc.googleusercontent.com
@@ -47,6 +51,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
