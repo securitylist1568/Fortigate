@@ -22,6 +22,7 @@
 121.211.203.35.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
 135.149.216.162.bc.googleusercontent.com
+139.84.162.169.vultrusercontent.com
 15.210.203.35.bc.googleusercontent.com
 155.208.76.34.bc.googleusercontent.com
 161.53.156.34.bc.googleusercontent.com
@@ -169,6 +170,7 @@ festa04.jcatransporte.com.br
 g13-66.user.cosmostv.jp
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-46.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
