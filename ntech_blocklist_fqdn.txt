@@ -26,10 +26,12 @@
 204.76.203.49.ptr.pfcloud.network
 227.211.203.35.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
+36.149.216.162.bc.googleusercontent.com
 46.150.216.162.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
+78.210.203.35.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 acceso-189.244.120.90.prod-infinitum.com.mx
 aim.sba-research.org
