@@ -20,14 +20,12 @@
 118-168-247-156.dynamic-ip.hinet.net
 119.88.86.172.static.cloudzy.com
 121.211.203.35.bc.googleusercontent.com
-147.243.187.123.broad.ly.ln.dynamic.163data.com.cn
 149.210.203.35.bc.googleusercontent.com
 15.210.203.35.bc.googleusercontent.com
+168.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
 234.191.101.34.bc.googleusercontent.com
-239.210.203.35.bc.googleusercontent.com
-240.197.178.34.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
@@ -161,11 +159,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rping.ipip.net
-scan-06g.shadowserver.io
-scan-08g.shadowserver.io
 scan-58.security.ipip.net
-scan-81-0.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-47-206-199-106.tamp.fl.frontiernet.net
