@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 119.88.86.172.static.cloudzy.com
+131.150.216.162.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 149.246.88.202.asianet.co.in
 155.208.76.34.bc.googleusercontent.com
@@ -29,6 +30,8 @@
 189.148.53.34.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 203.28.140.34.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
+236.29.175.207.bc.googleusercontent.com
 237.103.62.34.bc.googleusercontent.com
 42.80.211.130.bc.googleusercontent.com
 45.63.4.69.vultrusercontent.com
