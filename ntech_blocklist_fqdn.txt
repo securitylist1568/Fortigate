@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-109.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -25,13 +24,13 @@
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 185.208.87.34.bc.googleusercontent.com
-197.210.203.35.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
-213.149.216.162.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
+227.211.203.35.bc.googleusercontent.com
 234.191.101.34.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 47.149.216.162.bc.googleusercontent.com
 48.211.203.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
@@ -56,7 +55,6 @@ mfyabgec.musicpda.com
 o074.scanner.modat.io
 osb.moscow
 pc112.cses.ilc.edu.tw
-pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -67,4 +65,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.54.240.109.65.clients.your-server.de
 users219.vip.heteml.jp
-wev.za.com
