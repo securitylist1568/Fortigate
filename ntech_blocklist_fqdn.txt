@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
-119.88.86.172.static.cloudzy.com
 121.211.203.35.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
 135.149.216.162.bc.googleusercontent.com
@@ -39,7 +38,6 @@
 238.210.203.35.bc.googleusercontent.com
 240.197.178.34.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
-252.149.216.162.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 42.80.211.130.bc.googleusercontent.com
 53.82.240.35.bc.googleusercontent.com
@@ -169,14 +167,10 @@ ec2-54-226-29-111.compute-1.amazonaws.com
 ec2-54-90-159-174.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 g13-66.user.cosmostv.jp
-get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-o070.scanner.modat.io
-o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
