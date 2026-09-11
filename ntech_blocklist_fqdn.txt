@@ -26,6 +26,8 @@
 168.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
+203.210.203.35.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
 234.191.101.34.bc.googleusercontent.com
 238.210.203.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
@@ -167,6 +169,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-58.security.ipip.net
+scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-47-206-199-106.tamp.fl.frontiernet.net
