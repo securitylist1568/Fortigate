@@ -40,6 +40,8 @@
 240.197.178.34.bc.googleusercontent.com
 240.210.203.35.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
+2d83453c.mow.customer.misaka.io
+42.80.211.130.bc.googleusercontent.com
 53.82.240.35.bc.googleusercontent.com
 58.34.156.34.bc.googleusercontent.com
 60.170.205.35.bc.googleusercontent.com
@@ -49,7 +51,9 @@
 69.210.203.35.bc.googleusercontent.com
 71.150.216.162.bc.googleusercontent.com
 90.149.216.162.bc.googleusercontent.com
+91.211.203.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
+aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg0fga89.stretchoid.com
