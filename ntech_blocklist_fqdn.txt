@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
+119.88.86.172.static.cloudzy.com
 122.149.216.162.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 131.150.216.162.bc.googleusercontent.com
@@ -50,12 +51,14 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 bitrix234.timeweb.ru
 client.yota.ru
+crawler173.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-19015713210.cable.net.co
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip230.ip-5-196-33.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o068.scanner.modat.io
