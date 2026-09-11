@@ -31,6 +31,7 @@
 183.82.108.250.actcorp.in
 185-45-195-15.hostsailor.com
 189.148.53.34.bc.googleusercontent.com
+197.210.203.35.bc.googleusercontent.com
 199.150.216.162.bc.googleusercontent.com
 203.28.140.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
@@ -61,6 +62,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
