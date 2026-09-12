@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 123.149.216.162.bc.googleusercontent.com
 13.47.79.34.bc.googleusercontent.com
+134.8.156.34.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -30,6 +31,7 @@
 34.150.216.162.bc.googleusercontent.com
 36.149.216.162.bc.googleusercontent.com
 41.158.52.34.bc.googleusercontent.com
+59.172.205.35.bc.googleusercontent.com
 66.210.203.35.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 78.210.203.35.bc.googleusercontent.com
@@ -69,6 +71,7 @@ scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+tfk162.templeforknowledge.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 v4.dns.slt.lk
