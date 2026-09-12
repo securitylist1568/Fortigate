@@ -26,6 +26,7 @@
 194.150.216.162.bc.googleusercontent.com
 197.92.78.34.bc.googleusercontent.com
 214.204.156.34.bc.googleusercontent.com
+240.31.79.34.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 251.199.76.34.bc.googleusercontent.com
 254-171-195-168.skynettelecom.net.br
