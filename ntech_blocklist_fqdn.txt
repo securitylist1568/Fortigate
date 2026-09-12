@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-10.150.216.162.bc.googleusercontent.com
 101.250.8.34.bc.googleusercontent.com
 103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
@@ -21,10 +20,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.211.203.35.bc.googleusercontent.com
-118-107-139-87.snet.net.pk
 119.149.216.162.bc.googleusercontent.com
 125-227-127-85.hinet-ip.hinet.net
-128.149.216.162.bc.googleusercontent.com
 13.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 179.210.203.35.bc.googleusercontent.com
@@ -36,6 +33,7 @@
 251.199.76.34.bc.googleusercontent.com
 263263.cn
 3.150.216.162.bc.googleusercontent.com
+50-116-23-150.ip.linodeusercontent.com
 60.149.216.162.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
 64.150.216.162.bc.googleusercontent.com
@@ -141,6 +139,7 @@ ip-49-142.web1.bg
 ip29.sudolio.io
 jeffectionship.com
 mfyabgec.musicpda.com
+ns3207149.ip-198-244-200.eu
 o074.scanner.modat.io
 o312.scanner.modat.io
 o350.scanner.modat.io
@@ -150,7 +149,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-10g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
