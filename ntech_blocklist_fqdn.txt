@@ -45,9 +45,11 @@ dynamic-ip-adsl.viettel.vn
 ec2-100-58-203-239.compute-1.amazonaws.com
 ec2-100-59-0-92.compute-1.amazonaws.com
 ec2-13-222-217-64.compute-1.amazonaws.com
+ec2-3-86-239-220.compute-1.amazonaws.com
 ec2-44-201-252-11.compute-1.amazonaws.com
 ec2-44-211-197-174.compute-1.amazonaws.com
 ec2-44-211-62-153.compute-1.amazonaws.com
+ec2-52-91-97-115.compute-1.amazonaws.com
 ec2-98-94-22-227.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -63,6 +65,7 @@ radamelfalcao.xyz
 recyber.net
 sanchez.mastersocialize.org.uk
 scan-04c.shadowserver.io
+scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
