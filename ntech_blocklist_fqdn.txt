@@ -28,6 +28,7 @@
 204.76.203.49.ptr.pfcloud.network
 212-83-176-122.rev.poneytelecom.eu
 240.31.79.34.bc.googleusercontent.com
+243.150.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
 41.158.52.34.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
@@ -50,6 +51,7 @@ li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o344.scanner.modat.io
 o347.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
