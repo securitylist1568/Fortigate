@@ -27,6 +27,7 @@
 185-45-195-15.hostsailor.com
 197.92.78.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
+212-83-176-122.rev.poneytelecom.eu
 214.204.156.34.bc.googleusercontent.com
 240.31.79.34.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
@@ -61,6 +62,7 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-198.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
