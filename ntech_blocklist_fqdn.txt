@@ -28,6 +28,7 @@
 214.204.156.34.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 251.199.76.34.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 32.150.216.162.bc.googleusercontent.com
 34.150.216.162.bc.googleusercontent.com
 36.149.216.162.bc.googleusercontent.com
@@ -64,6 +65,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
+o311.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
