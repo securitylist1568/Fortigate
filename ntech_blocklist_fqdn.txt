@@ -21,6 +21,7 @@
 13.149.216.162.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
+158.31.232.180.dsl.inet.static.certaincyber.net
 17.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.208.87.34.bc.googleusercontent.com
