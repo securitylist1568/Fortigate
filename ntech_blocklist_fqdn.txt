@@ -57,11 +57,13 @@ ec2-52-91-97-115.compute-1.amazonaws.com
 ec2-54-83-95-119.compute-1.amazonaws.com
 ec2-98-94-22-227.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 hosted-by.as49870.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o311.scanner.modat.io
 o347.scanner.modat.io
 pc112.cses.ilc.edu.tw
