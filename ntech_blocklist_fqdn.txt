@@ -31,6 +31,7 @@
 60-249-14-121.hinet-ip.hinet.net
 63.210.203.35.bc.googleusercontent.com
 75.204.106.34.bc.googleusercontent.com
+aa27e193.mci.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdcghphjn0.stretchoid.com
@@ -52,6 +53,7 @@ hn.kd.ny.adsl
 hostmaster.datahost.net.tr
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
+ip230.ip-5-196-33.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
