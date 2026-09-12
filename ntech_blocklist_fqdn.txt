@@ -25,8 +25,6 @@
 172-104-190-164.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.49.ptr.pfcloud.network
-227.211.203.35.bc.googleusercontent.com
-2d0b6ab5.ams.customer.misaka.io
 32.150.216.162.bc.googleusercontent.com
 36.149.216.162.bc.googleusercontent.com
 46.150.216.162.bc.googleusercontent.com
@@ -155,14 +153,12 @@ get174.ingetitin.com
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns31560501.ip-162-19-19.eu
 o336.scanner.modat.io
 pc112.cses.ilc.edu.tw
-pentnt-dcounta.moonjaws.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -170,11 +166,8 @@ rootevidence.com
 sanchez.mastersocialize.org.uk
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-169-150-252-179.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
-v2202502255519315092.happysrv.de
 v4.dns.slt.lk
 w301.scanner.modat.io
