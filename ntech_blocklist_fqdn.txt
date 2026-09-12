@@ -23,14 +23,12 @@
 119.149.216.162.bc.googleusercontent.com
 128.149.216.162.bc.googleusercontent.com
 134.8.156.34.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 179.210.203.35.bc.googleusercontent.com
 183.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.208.87.34.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 207.149.216.162.bc.googleusercontent.com
-212-83-176-122.rev.poneytelecom.eu
 240.31.79.34.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 25.149.216.162.bc.googleusercontent.com
@@ -51,11 +49,9 @@ encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-198.4vendeta.com
 ip161.ip-5-135-252.eu
 ip29.sudolio.io
 li1817-110.members.linode.com
-li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 o344.scanner.modat.io
