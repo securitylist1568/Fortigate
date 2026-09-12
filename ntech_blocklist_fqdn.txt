@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 194.150.216.162.bc.googleusercontent.com
 197.92.78.34.bc.googleusercontent.com
+198-134-107-73.rev.unlimitednet.us
 214.204.156.34.bc.googleusercontent.com
 240.31.79.34.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
@@ -74,6 +75,7 @@ radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-04c.shadowserver.io
+scan-43b.shadowserver.io
 scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
