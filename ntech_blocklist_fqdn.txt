@@ -1,6 +1,7 @@
 1-34-13-89.hinet-ip.hinet.net
 10.150.216.162.bc.googleusercontent.com
 101.250.8.34.bc.googleusercontent.com
+103-112-0-32.oneqode.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -24,6 +25,7 @@
 119.149.216.162.bc.googleusercontent.com
 125-227-127-85.hinet-ip.hinet.net
 128.149.216.162.bc.googleusercontent.com
+13.149.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 179.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -137,6 +139,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-142.web1.bg
 ip29.sudolio.io
 jeffectionship.com
 mfyabgec.musicpda.com
@@ -152,6 +155,7 @@ rootevidence.com
 scan-10g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vps-2ac55659.vps.ovh.net
