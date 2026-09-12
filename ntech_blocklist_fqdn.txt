@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
+134.8.156.34.bc.googleusercontent.com
 136.155.38.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -59,6 +60,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43b.shadowserver.io
 scan-60.security.ipip.net
+scan-71-09.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 test.hoangdieuvps.pro
