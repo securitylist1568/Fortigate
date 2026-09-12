@@ -25,8 +25,10 @@
 136.155.38.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+185.208.87.34.bc.googleusercontent.com
 197.92.78.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
+204.76.203.49.ptr.pfcloud.network
 212-83-176-122.rev.poneytelecom.eu
 214.204.156.34.bc.googleusercontent.com
 240.31.79.34.bc.googleusercontent.com
