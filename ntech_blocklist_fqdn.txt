@@ -20,7 +20,6 @@
 118-168-247-156.dynamic-ip.hinet.net
 136.58.79.34.bc.googleusercontent.com
 163-172-205-45.rev.poneytelecom.eu
-182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 202.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
@@ -29,7 +28,6 @@
 56.220.52.34.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
-83.149.216.162.bc.googleusercontent.com
 90.87.155.104.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -116,7 +114,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-s4850.vps.hosting
 scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
