@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
 130.150.216.162.bc.googleusercontent.com
+143.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
 169.149.216.162.bc.googleusercontent.com
@@ -60,6 +61,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 sanchez.mastersocialize.org.uk
+scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
