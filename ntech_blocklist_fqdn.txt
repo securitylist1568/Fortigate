@@ -57,6 +57,7 @@ ip244.ip-5-135-108.eu
 ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
+o071.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 please.visit.www.openintel.nl
@@ -64,6 +65,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-14h.shadowserver.io
+scan-69-05.shadowserver.io
 scan-76-02.shadowserver.io
 scan-76-03.shadowserver.io
 security.criminalip.com
