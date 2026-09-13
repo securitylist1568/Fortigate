@@ -18,16 +18,13 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-118-168-247-156.dynamic-ip.hinet.net
+126.150.216.162.bc.googleusercontent.com
 126.197.190.35.bc.googleusercontent.com
 136.58.79.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
-158.31.232.180.dsl.inet.static.certaincyber.net
-169.149.216.162.bc.googleusercontent.com
 172-104-238-154.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-227.211.203.35.bc.googleusercontent.com
 23-227-167-125.static.hvvc.us
 3.121.22.34.bc.googleusercontent.com
 35.150.216.162.bc.googleusercontent.com
@@ -38,7 +35,7 @@
 75.204.106.34.bc.googleusercontent.com
 78.37.199.104.bc.googleusercontent.com
 90.87.155.104.bc.googleusercontent.com
-aa27e193.mci.customer.misaka.io
+98.233.241.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -62,7 +59,6 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip230.ip-5-196-33.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
@@ -84,8 +80,6 @@ scan-63-2.shadowserver.io
 scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-ssh-scan-0.io.internetdata.io
 static-ip-250-192-65-202.rev.dyxnet.com
 static.222.200.98.91.clients.your-server.de
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
