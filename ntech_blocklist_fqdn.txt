@@ -18,10 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
+126.197.190.35.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 136.58.79.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
-149.210.203.35.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
 169.149.216.162.bc.googleusercontent.com
 172-104-238-154.ip.linodeusercontent.com
@@ -34,8 +34,6 @@
 45-79-152-51.ip.linodeusercontent.com
 45.87.240.35.bc.googleusercontent.com
 56.220.52.34.bc.googleusercontent.com
-60-249-14-121.hinet-ip.hinet.net
-75.204.106.34.bc.googleusercontent.com
 78.37.199.104.bc.googleusercontent.com
 90.87.155.104.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -83,7 +81,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-sanchez.mastersocialize.org.uk
 scan-12f.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
