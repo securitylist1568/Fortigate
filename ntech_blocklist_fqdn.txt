@@ -34,6 +34,7 @@
 45-79-152-51.ip.linodeusercontent.com
 45.87.240.35.bc.googleusercontent.com
 56.220.52.34.bc.googleusercontent.com
+75.204.106.34.bc.googleusercontent.com
 78.37.199.104.bc.googleusercontent.com
 90.87.155.104.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -85,6 +86,7 @@ scan-12f.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-42i.shadowserver.io
+scan-63-2.shadowserver.io
 scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
