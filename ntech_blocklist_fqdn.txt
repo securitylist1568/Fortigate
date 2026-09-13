@@ -40,7 +40,6 @@ azpdwse9ep3i.stretchoid.com
 b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
 client.yota.ru
-d1d13986.sjc.customer.misaka.io
 d23-17-96-205.abhsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -52,7 +51,6 @@ ip230.ip-5-196-33.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
-ns3207149.ip-198-244-200.eu
 o320.scanner.modat.io
 o345.scanner.modat.io
 pc112.cses.ilc.edu.tw
