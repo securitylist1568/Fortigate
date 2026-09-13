@@ -26,6 +26,7 @@
 190.149.216.162.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
 196.149.216.162.bc.googleusercontent.com
+204.76.203.49.ptr.pfcloud.network
 212-83-176-122.rev.poneytelecom.eu
 36-229-167-152.dynamic-ip.hinet.net
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -105,6 +106,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-pppoe-178-141-58-157.kirov.pv.mts.ru
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
@@ -116,8 +118,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vmi2578777.contaboserver.net
