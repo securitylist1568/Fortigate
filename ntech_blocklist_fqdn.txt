@@ -62,6 +62,7 @@ recyber.net
 sanchez.mastersocialize.org.uk
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
+scan-67-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 ssh-scan-0.io.internetdata.io
