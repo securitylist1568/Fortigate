@@ -65,6 +65,7 @@ festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip244.ip-5-135-108.eu
 ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
@@ -77,12 +78,10 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-12f.shadowserver.io
 scan-14h.shadowserver.io
 scan-42i.shadowserver.io
 scan-45o.shadowserver.io
 scan-63-2.shadowserver.io
-scan-67-1.shadowserver.io
 scan-76-02.shadowserver.io
 scan-76-03.shadowserver.io
 security.criminalip.com
