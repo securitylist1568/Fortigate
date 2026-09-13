@@ -27,6 +27,7 @@
 204.76.203.49.ptr.pfcloud.network
 42.230.76.34.bc.googleusercontent.com
 45-33-76-73.ip.linodeusercontent.com
+4soho.com
 56.220.52.34.bc.googleusercontent.com
 7.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
