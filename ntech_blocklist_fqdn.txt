@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-247-156.dynamic-ip.hinet.net
 130.150.216.162.bc.googleusercontent.com
+136.58.79.34.bc.googleusercontent.com
 143.149.216.162.bc.googleusercontent.com
 149.210.203.35.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
@@ -29,6 +30,7 @@
 227.211.203.35.bc.googleusercontent.com
 23-227-167-125.static.hvvc.us
 45-79-152-51.ip.linodeusercontent.com
+45.87.240.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 75.204.106.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
