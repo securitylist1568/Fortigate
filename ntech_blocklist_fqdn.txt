@@ -24,8 +24,11 @@
 158.31.232.180.dsl.inet.static.certaincyber.net
 169.149.216.162.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
+172-104-238-154.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 227.211.203.35.bc.googleusercontent.com
+23-227-167-125.static.hvvc.us
+45-79-152-51.ip.linodeusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 75.204.106.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -52,11 +55,13 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
 o320.scanner.modat.io
+o335.scanner.modat.io
 o345.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 sanchez.mastersocialize.org.uk
 scan-12f.shadowserver.io
 scan-40g.shadowserver.io
