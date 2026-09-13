@@ -114,6 +114,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-67-1.shadowserver.io
 scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
