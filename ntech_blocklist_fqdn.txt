@@ -38,6 +38,7 @@
 66.210.203.35.bc.googleusercontent.com
 75.204.106.34.bc.googleusercontent.com
 78.37.199.104.bc.googleusercontent.com
+83.149.216.162.bc.googleusercontent.com
 90.87.155.104.bc.googleusercontent.com
 95x79x102x121.static-business.nn.ertelecom.ru
 97.114.78.34.bc.googleusercontent.com
@@ -78,6 +79,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+s4850.vps.hosting
 scan-14h.shadowserver.io
 scan-42i.shadowserver.io
 scan-45o.shadowserver.io
