@@ -60,6 +60,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 sanchez.mastersocialize.org.uk
+scan-12f.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-67-1.shadowserver.io
