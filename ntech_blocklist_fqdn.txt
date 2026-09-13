@@ -77,11 +77,13 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-12f.shadowserver.io
+scan-14h.shadowserver.io
 scan-42i.shadowserver.io
 scan-45o.shadowserver.io
 scan-63-2.shadowserver.io
 scan-67-1.shadowserver.io
 scan-76-02.shadowserver.io
+scan-76-03.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
