@@ -46,6 +46,14 @@ client.yota.ru
 d23-17-96-205.abhsia.telus.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-218-238-60.compute-1.amazonaws.com
+ec2-184-73-12-79.compute-1.amazonaws.com
+ec2-34-227-148-44.compute-1.amazonaws.com
+ec2-44-202-18-236.compute-1.amazonaws.com
+ec2-52-206-216-57.compute-1.amazonaws.com
+ec2-54-158-70-149.compute-1.amazonaws.com
+ec2-54-208-198-178.compute-1.amazonaws.com
+ec2-54-82-54-204.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostmaster.datahost.net.tr
@@ -56,6 +64,7 @@ mfyabgec.musicpda.com
 ns31560501.ip-162-19-19.eu
 o320.scanner.modat.io
 o335.scanner.modat.io
+o341.scanner.modat.io
 o345.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
