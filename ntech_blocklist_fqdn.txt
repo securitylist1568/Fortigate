@@ -20,6 +20,7 @@
 118-168-247-156.dynamic-ip.hinet.net
 136.58.79.34.bc.googleusercontent.com
 163-172-205-45.rev.poneytelecom.eu
+172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 202.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
