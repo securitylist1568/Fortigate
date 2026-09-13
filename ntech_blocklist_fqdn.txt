@@ -26,7 +26,6 @@
 17.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 227.211.203.35.bc.googleusercontent.com
-50-116-23-150.ip.linodeusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 75.204.106.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
@@ -44,7 +43,6 @@ client.yota.ru
 d1d13986.sjc.customer.misaka.io
 d23-17-96-205.abhsia.telus.net
 dal215.hawkhost.com
-ded1743.inmotionhosting.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
