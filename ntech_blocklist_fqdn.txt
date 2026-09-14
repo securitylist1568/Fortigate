@@ -30,6 +30,7 @@
 196.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 214.63.129.34.bc.googleusercontent.com
+252.210.203.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -64,6 +65,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-14h.shadowserver.io
 scan-78-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
