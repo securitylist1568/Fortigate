@@ -24,7 +24,6 @@
 144.210.203.35.bc.googleusercontent.com
 160.27.199.104.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
-172-232-121-108.ip.linodeusercontent.com
 179-145-31-35.user.vivozap.com.br
 181.193.189.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -36,7 +35,6 @@
 252.210.203.35.bc.googleusercontent.com
 29.81.79.34.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 97.114.78.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
