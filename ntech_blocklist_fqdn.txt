@@ -150,11 +150,13 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-12f.shadowserver.io
-scan-15i.shadowserver.io
+scan-13n.shadowserver.io
+scan-14h.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 trafo.kz
 users219.vip.heteml.jp
+v133-18-162-43.vir.kagoya.net
 www.internet-albedo.net
