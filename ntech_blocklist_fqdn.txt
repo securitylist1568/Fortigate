@@ -23,7 +23,9 @@
 179-145-31-35.user.vivozap.com.br
 185-45-195-15.hostsailor.com
 197.143.77.34.bc.googleusercontent.com
+209.58.211.130.bc.googleusercontent.com
 230.218.229.35.bc.googleusercontent.com
+243.151.78.34.bc.googleusercontent.com
 69.242.22.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -45,5 +47,6 @@ scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 users219.vip.heteml.jp
 www.internet-albedo.net
