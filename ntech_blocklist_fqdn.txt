@@ -50,6 +50,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-pppoe-178-141-58-157.kirov.pv.mts.ru
+ec2-3-95-5-114.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fwnvyxu.top
 get174.ingetitin.com
@@ -57,6 +58,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+ns31560501.ip-162-19-19.eu
 ns3207149.ip-198-244-200.eu
 o318.scanner.modat.io
 o340.scanner.modat.io
