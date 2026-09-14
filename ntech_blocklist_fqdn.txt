@@ -38,6 +38,7 @@
 252.210.203.35.bc.googleusercontent.com
 29.81.79.34.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
+69.242.22.34.bc.googleusercontent.com
 97.114.78.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
