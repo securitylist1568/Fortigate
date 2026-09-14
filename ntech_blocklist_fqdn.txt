@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 160.27.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+197.143.77.34.bc.googleusercontent.com
 209.58.211.130.bc.googleusercontent.com
 236.33.156.34.bc.googleusercontent.com
 243.151.78.34.bc.googleusercontent.com
@@ -36,6 +37,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 m25526.contaboserver.net
 mfyabgec.musicpda.com
+niall.probe.onyphe.net
+o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
