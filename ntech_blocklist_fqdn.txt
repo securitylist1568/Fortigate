@@ -24,7 +24,6 @@
 194-195-253-86.ip.linodeusercontent.com
 196-250-185-214.teleceliberia.com
 24-52-70-30.telesystem.us
-254-171-195-168.skynettelecom.net.br
 42.123.243.83.in-addr.arpa
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
@@ -47,7 +46,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
