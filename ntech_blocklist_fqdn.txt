@@ -24,6 +24,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 172-234-222-249.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 196-250-185-214.teleceliberia.com
 24-52-70-30.telesystem.us
 254-171-195-168.skynettelecom.net.br
