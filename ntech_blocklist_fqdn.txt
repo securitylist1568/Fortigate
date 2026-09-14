@@ -18,15 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-125-227-34-167.hinet-ip.hinet.net
 160.27.199.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-197.143.77.34.bc.googleusercontent.com
 209.58.211.130.bc.googleusercontent.com
-230.218.229.35.bc.googleusercontent.com
 236.33.156.34.bc.googleusercontent.com
 243.151.78.34.bc.googleusercontent.com
-69.242.22.34.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
