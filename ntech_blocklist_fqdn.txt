@@ -25,6 +25,7 @@
 172-232-121-108.ip.linodeusercontent.com
 179.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+19-204-172-79.szervernet.hu
 190.149.216.162.bc.googleusercontent.com
 192-210-243-12-host.colocrossing.com
 196.149.216.162.bc.googleusercontent.com
