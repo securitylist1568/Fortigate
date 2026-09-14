@@ -20,8 +20,10 @@
 136-144-211-176.colo.transip.net
 14.171.broad.ha.dynamic.163data.com.cn
 144.92.74.97.host.secureserver.net
+149.28.72.72.vultrusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
+196-250-184-218.teleceliberia.com
 196-250-185-214.teleceliberia.com
 24-52-70-30.telesystem.us
 42.123.243.83.in-addr.arpa
@@ -45,6 +47,8 @@ o342.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+r3002.compute.pao1.edc.strln.net
+r4006.compute.pao1.edc.strln.net
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
