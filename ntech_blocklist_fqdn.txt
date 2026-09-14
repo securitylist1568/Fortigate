@@ -24,6 +24,7 @@
 194-195-253-86.ip.linodeusercontent.com
 196-250-184-157.teleceliberia.com
 196-250-184-218.teleceliberia.com
+220.149.61.59.broad.fz.fj.dynamic.163data.com.cn
 24-52-70-30.telesystem.us
 2d96f25f.customer.misaka.taipei
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -40,6 +41,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-176-36-251-42.b024.la.net.ua
 htb-h9b8tjwfph.htb-cloud.com
+ip-114-46.4vendeta.com
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip3.ip-51-161-57.net
