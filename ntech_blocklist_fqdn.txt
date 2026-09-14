@@ -29,6 +29,7 @@
 254-171-195-168.skynettelecom.net.br
 42.123.243.83.in-addr.arpa
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg6x7gah.stretchoid.com
 azpdcg724zjg.stretchoid.com
@@ -148,6 +149,7 @@ kathmandu.scan.bufferover.run
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
 o068.scanner.modat.io
+o342.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
