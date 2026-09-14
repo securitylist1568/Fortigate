@@ -31,6 +31,7 @@
 196.149.216.162.bc.googleusercontent.com
 204.76.203.49.ptr.pfcloud.network
 212-83-176-122.rev.poneytelecom.eu
+214.63.129.34.bc.googleusercontent.com
 36-229-167-152.dynamic-ip.hinet.net
 53.26.71.192.in-addr.arpa
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
