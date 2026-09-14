@@ -27,9 +27,6 @@
 196-250-184-74.teleceliberia.com
 196-250-185-214.teleceliberia.com
 197.143.77.34.bc.googleusercontent.com
-209.58.211.130.bc.googleusercontent.com
-236.33.156.34.bc.googleusercontent.com
-243.151.78.34.bc.googleusercontent.com
 254-171-195-168.skynettelecom.net.br
 42.123.243.83.in-addr.arpa
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -166,8 +163,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
 taipei.scan.bufferover.run
-trafo.kz
 users219.vip.heteml.jp
 v133-18-162-43.vir.kagoya.net
 ve1086.venus.dedi.server-hosting.expert
-www.internet-albedo.net
