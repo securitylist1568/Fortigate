@@ -43,11 +43,14 @@ hn.kd.ny.adsl
 host-176-36-251-42.b024.la.net.ua
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
+ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip3.ip-51-161-57.net
 mfyabgec.musicpda.com
+monet-16.crawler.deepfield.net
 monet-22.crawler.deepfield.net
 o342.scanner.modat.io
+o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
