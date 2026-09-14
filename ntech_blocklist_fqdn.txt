@@ -39,6 +39,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host-176-36-251-42.b024.la.net.ua
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip29.sudolio.io
