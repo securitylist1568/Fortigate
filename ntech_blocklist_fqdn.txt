@@ -32,7 +32,6 @@
 212-83-176-122.rev.poneytelecom.eu
 36-229-167-152.dynamic-ip.hinet.net
 53.26.71.192.in-addr.arpa
-62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 75.204.106.34.bc.googleusercontent.com
 97.114.78.34.bc.googleusercontent.com
@@ -55,9 +54,7 @@ fwnvyxu.top
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o318.scanner.modat.io
