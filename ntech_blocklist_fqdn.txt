@@ -21,8 +21,6 @@
 118-168-222-67.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 195.34.77.34.bc.googleusercontent.com
-195x91x217x34.static-business.msk.ertelecom.ru
-203-74-130-205.hinet-ip.hinet.net
 2d834781.kunde.misaka.berlin
 9.55.233.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -51,4 +49,3 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-www.internet-albedo.net
