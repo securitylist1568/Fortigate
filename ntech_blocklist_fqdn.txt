@@ -52,6 +52,7 @@ ip3.ip-51-161-57.net
 mfyabgec.musicpda.com
 monet-16.crawler.deepfield.net
 monet-22.crawler.deepfield.net
+ns3207149.ip-198-244-200.eu
 o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
@@ -61,7 +62,9 @@ r3002.compute.pao1.edc.strln.net
 r4006.compute.pao1.edc.strln.net
 recyber.net
 rootevidence.com
+scan-04c.shadowserver.io
 scan-13l.shadowserver.io
+scan-71-09.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
