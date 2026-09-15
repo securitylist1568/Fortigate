@@ -44,6 +44,7 @@ hn.kd.ny.adsl
 host-176-36-251-42.b024.la.net.ua
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
+ip140.ip-51-81-123.us
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip3.ip-51-161-57.net
