@@ -39,7 +39,9 @@
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 195.34.77.34.bc.googleusercontent.com
+195x91x217x34.static-business.msk.ertelecom.ru
 198-74-58-201.ip.linodeusercontent.com
+203-74-130-205.hinet-ip.hinet.net
 217.223.205.35.bc.googleusercontent.com
 225.26.233.35.bc.googleusercontent.com
 23-92-26-208.ip.linodeusercontent.com
