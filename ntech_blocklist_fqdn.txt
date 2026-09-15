@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-110.25.62.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.25.205.35.bc.googleusercontent.com
 118-107-139-87.snet.net.pk
 139.180.131.34.bc.googleusercontent.com
 143-42-1-128.ip.linodeusercontent.com
@@ -36,13 +34,10 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-249-14.ip.linodeusercontent.com
-18.149.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 195.34.77.34.bc.googleusercontent.com
 198-74-58-201.ip.linodeusercontent.com
-217.223.205.35.bc.googleusercontent.com
-219.163.175.207.bc.googleusercontent.com
 225.26.233.35.bc.googleusercontent.com
 23-92-26-208.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
@@ -53,7 +48,6 @@
 45-79-130-153.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
-70.124.77.34.bc.googleusercontent.com
 9.55.233.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
@@ -116,12 +110,10 @@ azpdws7dy4ww.stretchoid.com
 azpdws8fb05z.stretchoid.com
 azpdws8vsxvi.stretchoid.com
 b2.org.afilias-nst.org
-caam-190-10-8-a095.racsa.co.cr
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 easmscan02-us.xdr.trendmicro.com
-ec2-3-85-190-121.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -129,7 +121,6 @@ ip-59-182.4vendeta.com
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
 li1537-121.members.linode.com
-li1873-236.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
