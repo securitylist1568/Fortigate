@@ -20,7 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.25.205.35.bc.googleusercontent.com
-118-168-222-67.dynamic-ip.hinet.net
+118-107-139-87.snet.net.pk
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
 172-234-199-134.ip.linodeusercontent.com
@@ -43,7 +43,6 @@
 198-74-58-201.ip.linodeusercontent.com
 217.223.205.35.bc.googleusercontent.com
 219.163.175.207.bc.googleusercontent.com
-220.149.61.59.broad.fz.fj.dynamic.163data.com.cn
 225.26.233.35.bc.googleusercontent.com
 23-92-26-208.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
@@ -73,7 +72,6 @@ ec2-3-85-190-121.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-114-46.4vendeta.com
 ip-59-182.4vendeta.com
 ip140.ip-51-81-123.us
 ip29.sudolio.io
