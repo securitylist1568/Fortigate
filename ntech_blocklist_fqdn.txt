@@ -34,10 +34,12 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-249-14.ip.linodeusercontent.com
+18.149.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-155-81-124.ip.linodeusercontent.com
 195.34.77.34.bc.googleusercontent.com
 198-74-58-201.ip.linodeusercontent.com
+217.223.205.35.bc.googleusercontent.com
 225.26.233.35.bc.googleusercontent.com
 23-92-26-208.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
