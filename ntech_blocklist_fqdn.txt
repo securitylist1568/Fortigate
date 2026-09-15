@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-103.52.106.34.bc.googleusercontent.com
 110.25.62.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -57,15 +56,11 @@
 70.124.77.34.bc.googleusercontent.com
 9.55.233.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 caam-190-10-8-a095.racsa.co.cr
 client.yota.ru
 crawler054.deepfield.net
-crawler181.deepfield.net
-crawler203.deepfield.net
-crawler222.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 easmscan02-us.xdr.trendmicro.com
@@ -87,7 +82,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-04c.shadowserver.io
-scan-13l.shadowserver.io
 scan-45g.shadowserver.io
 scan-71-09.shadowserver.io
 scan-88-6.shadowserver.io
