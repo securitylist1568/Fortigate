@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113-11-100-109.broadband.smile.com.bd
 185-45-195-15.hostsailor.com
 195-154-174-67.rev.poneytelecom.eu
 2d834781.kunde.misaka.berlin
@@ -27,7 +26,6 @@
 97-107-131-106.ip.linodeusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdesnl4r7h.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler218.deepfield.net
@@ -48,7 +46,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-13n.shadowserver.io
-scan-73-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
