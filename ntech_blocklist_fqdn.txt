@@ -54,7 +54,6 @@
 45-79-130-153.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
-62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 70.124.77.34.bc.googleusercontent.com
 9.55.233.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -76,16 +75,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
 ip-59-182.4vendeta.com
 ip140.ip-51-81-123.us
-ip230.ip-5-196-33.eu
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
 li1873-236.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
-monet-16.crawler.deepfield.net
-monet-22.crawler.deepfield.net
 ns3207149.ip-198-244-200.eu
-o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
 pinkytales.com
