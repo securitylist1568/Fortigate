@@ -74,6 +74,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-114-46.4vendeta.com
+ip-59-182.4vendeta.com
 ip140.ip-51-81-123.us
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
@@ -93,6 +94,7 @@ recyber.net
 scan-04c.shadowserver.io
 scan-13l.shadowserver.io
 scan-71-09.shadowserver.io
+scan-88-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
