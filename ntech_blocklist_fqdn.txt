@@ -62,6 +62,7 @@ scan-55c.shadowserver.io
 scan-56f.shadowserver.io
 scan-60-10.shadowserver.io
 scan-77-06.shadowserver.io
+scan-79-00.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 sfo2-1.chlorine.do.prod.binaryedge.ninja
