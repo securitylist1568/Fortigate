@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+104-237-151-120.ip.linodeusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -53,9 +54,11 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-08g.shadowserver.io
 scan-10g.shadowserver.io
 scan-18.tttx.net
+scan-22.tttx.net
 scan-55c.shadowserver.io
 scan-56f.shadowserver.io
 scan-60-10.shadowserver.io
