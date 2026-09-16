@@ -28,7 +28,6 @@
 20.147.76.34.bc.googleusercontent.com
 202.19.140.34.bc.googleusercontent.com
 217.223.53.34.bc.googleusercontent.com
-44.116.124.34.bc.googleusercontent.com
 46.177.195.35.bc.googleusercontent.com
 56.140.34.34.bc.googleusercontent.com
 63.142.129.34.bc.googleusercontent.com
@@ -91,7 +90,6 @@ azpdesn5nivk.stretchoid.com
 azpdesnabumh.stretchoid.com
 azpdesnp4qn5.stretchoid.com
 azpdeso9kq8p.stretchoid.com
-azpdesqrgeg1.stretchoid.com
 azpdess17zgy.stretchoid.com
 azpdesue5p77.stretchoid.com
 azpdesxlde7c.stretchoid.com
