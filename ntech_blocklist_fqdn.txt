@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 135.149.216.162.bc.googleusercontent.com
+146.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 202.19.140.34.bc.googleusercontent.com
 63.142.129.34.bc.googleusercontent.com
@@ -31,6 +32,7 @@ b9d155e9.mow.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
