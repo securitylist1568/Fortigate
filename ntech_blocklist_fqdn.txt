@@ -25,6 +25,7 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 20.147.76.34.bc.googleusercontent.com
+202.19.140.34.bc.googleusercontent.com
 217.223.53.34.bc.googleusercontent.com
 44.116.124.34.bc.googleusercontent.com
 46.177.195.35.bc.googleusercontent.com
@@ -159,6 +160,8 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+ns31560501.ip-162-19-19.eu
+ns3207149.ip-198-244-200.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
