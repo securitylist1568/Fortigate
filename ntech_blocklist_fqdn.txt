@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118-168-222-67.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-192-210-243-12-host.colocrossing.com
 204.76.203.91.ptr.pfcloud.network
 2d96f380.kbp.customer.misaka.io
 44.116.124.34.bc.googleusercontent.com
@@ -164,7 +163,6 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
-li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
