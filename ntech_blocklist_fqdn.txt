@@ -18,11 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-152.172.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 202.19.140.34.bc.googleusercontent.com
-44.116.124.34.bc.googleusercontent.com
-56.140.34.34.bc.googleusercontent.com
 63.142.129.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 aa27e0dc.iad.customer.misaka.io
@@ -31,11 +28,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
-crawler059.deepfield.net
-crawler070.deepfield.net
-crawler112.deepfield.net
-crawler135.deepfield.net
-crawler242.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -52,9 +44,8 @@ s208856.love-is.nexus
 s214172.love-is.nexus
 s223596.love-is.nexus
 scan-22.tttx.net
-scan-55c.shadowserver.io
-scan-77-06.shadowserver.io
 scan-79-00.shadowserver.io
+security.criminalip.com
 sfo2-89.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
@@ -64,4 +55,3 @@ unn-207-211-210-83.datapacket.com
 us-central-41.barium.li.prod.binaryedge.ninja
 user1-79.hospital.fju.edu.tw
 users219.vip.heteml.jp
-vps-9f0ddb87.vps.ovh.ca
