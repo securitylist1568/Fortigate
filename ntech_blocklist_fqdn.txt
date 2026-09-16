@@ -22,6 +22,7 @@
 122-116-58-232.hinet-ip.hinet.net
 125.154.53.34.bc.googleusercontent.com
 140.185.140.34.bc.googleusercontent.com
+144.92.74.97.host.secureserver.net
 152.172.52.34.bc.googleusercontent.com
 163.71.76.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
