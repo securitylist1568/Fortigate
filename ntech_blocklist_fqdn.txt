@@ -32,6 +32,11 @@ client.yota.ru
 customer-static-210-88-41.iplannetworks.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-206-211-59.compute-1.amazonaws.com
+ec2-3-85-57-190.compute-1.amazonaws.com
+ec2-34-203-242-177.compute-1.amazonaws.com
+ec2-34-224-168-204.compute-1.amazonaws.com
+ec2-54-146-178-176.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fo050.i158.mi.ru
 hn.kd.ny.adsl
@@ -42,6 +47,7 @@ ip29.sudolio.io
 l602.scanner.modat.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
