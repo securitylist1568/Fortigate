@@ -21,6 +21,7 @@
 135.149.216.162.bc.googleusercontent.com
 146.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.62.234-12.conectatelecomto.com.br
 202.19.140.34.bc.googleusercontent.com
 63.142.129.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
@@ -49,6 +50,7 @@ s223596.love-is.nexus
 scan-22.tttx.net
 scan-79-00.shadowserver.io
 security.criminalip.com
+sfo2-25.boron.do.prod.binaryedge.ninja
 sfo2-89.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
