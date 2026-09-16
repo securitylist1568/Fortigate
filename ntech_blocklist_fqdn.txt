@@ -32,6 +32,7 @@ amz.unixwiz.net
 azpdesqrgeg1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+customer.bgtacol1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-206-211-59.compute-1.amazonaws.com
