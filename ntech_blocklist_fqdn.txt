@@ -59,6 +59,7 @@ scan-08g.shadowserver.io
 scan-10g.shadowserver.io
 scan-18.tttx.net
 scan-56f.shadowserver.io
+scan-60-10.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
