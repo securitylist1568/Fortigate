@@ -22,12 +22,14 @@
 125.154.53.34.bc.googleusercontent.com
 140.185.140.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
+152.172.52.34.bc.googleusercontent.com
 163.71.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.140.195.35.bc.googleusercontent.com
 202.19.140.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 44.116.124.34.bc.googleusercontent.com
+56.140.34.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcsts2p05.stretchoid.com
