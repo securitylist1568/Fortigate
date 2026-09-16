@@ -163,7 +163,6 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
-l602.scanner.modat.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -174,10 +173,12 @@ recyber.net
 rootevidence.com
 scan-02m.shadowserver.io
 scan-21.tttx.net
+scan-40g.shadowserver.io
 scan-42i.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-45g.shadowserver.io
+scan-58.security.ipip.net
 scan-76-03.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
