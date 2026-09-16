@@ -29,7 +29,6 @@
 20.147.76.34.bc.googleusercontent.com
 202.19.140.34.bc.googleusercontent.com
 217.223.53.34.bc.googleusercontent.com
-220-135-48-116.hinet-ip.hinet.net
 46.177.195.35.bc.googleusercontent.com
 56.140.34.34.bc.googleusercontent.com
 98.96.187.35.bc.googleusercontent.com
@@ -38,7 +37,6 @@ amz.unixwiz.net
 azpdcsts2p05.stretchoid.com
 azpdesirsgu3.stretchoid.com
 b2.org.afilias-nst.org
-bzq-109-67-165-234.red.bezeqint.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -55,7 +53,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41m.shadowserver.io
+scan-18.tttx.net
 scan-85-3.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
