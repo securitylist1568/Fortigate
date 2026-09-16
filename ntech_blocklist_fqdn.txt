@@ -29,10 +29,12 @@
 2d83453c.mow.customer.misaka.io
 44.116.124.34.bc.googleusercontent.com
 56.140.34.34.bc.googleusercontent.com
+6682315a.customer.misaka.joburg
 aa27e0dc.iad.customer.misaka.io
 amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
+b9d155e9.mow.customer.misaka.io
 client.yota.ru
 crawler059.deepfield.net
 crawler070.deepfield.net
@@ -54,6 +56,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+s208856.love-is.nexus
+s214172.love-is.nexus
+s223596.love-is.nexus
 scan-08g.shadowserver.io
 scan-10g.shadowserver.io
 scan-18.tttx.net
@@ -68,6 +73,7 @@ sfo2-1.chlorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-210-83.datapacket.com
 us-central-41.barium.li.prod.binaryedge.ninja
 user1-79.hospital.fju.edu.tw
 users219.vip.heteml.jp
