@@ -59,6 +59,7 @@ sfo2-89.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
+ujjpa6.mta.lokin.be
 unn-207-211-210-83.datapacket.com
 us-central-41.barium.li.prod.binaryedge.ninja
 user1-79.hospital.fju.edu.tw
