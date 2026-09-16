@@ -20,9 +20,8 @@
 118-168-222-67.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
-195-154-174-67.rev.poneytelecom.eu
 204.76.203.91.ptr.pfcloud.network
-62-210-142-148.rev.poneytelecom.eu
+45.135.193.158.ptr.pfcloud.network
 9213038d.customer.misaka.se
 97-107-131-106.ip.linodeusercontent.com
 aim.sba-research.org
@@ -42,7 +41,6 @@ ip29.sudolio.io
 l602.scanner.modat.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
-null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
