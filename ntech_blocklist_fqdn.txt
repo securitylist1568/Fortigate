@@ -69,6 +69,7 @@ security.criminalip.com
 sfo2-1.chlorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+us-central-41.barium.li.prod.binaryedge.ninja
 user1-79.hospital.fju.edu.tw
 users219.vip.heteml.jp
 vps-9f0ddb87.vps.ovh.ca
