@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+11.114.205.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -26,7 +27,6 @@
 20.147.76.34.bc.googleusercontent.com
 217.223.53.34.bc.googleusercontent.com
 44.116.124.34.bc.googleusercontent.com
-45.135.193.159.ptr.pfcloud.network
 46.177.195.35.bc.googleusercontent.com
 56.140.34.34.bc.googleusercontent.com
 63.142.129.34.bc.googleusercontent.com
@@ -153,13 +153,6 @@ client.yota.ru
 customer.bgtacol1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-18-206-211-59.compute-1.amazonaws.com
-ec2-3-85-57-190.compute-1.amazonaws.com
-ec2-34-203-242-177.compute-1.amazonaws.com
-ec2-34-224-168-204.compute-1.amazonaws.com
-ec2-52-23-168-237.compute-1.amazonaws.com
-ec2-54-146-178-176.compute-1.amazonaws.com
-ec2-98-93-16-247.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -173,7 +166,6 @@ recyber.net
 scan-02m.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
-scan-42i.shadowserver.io
 scan-45g.shadowserver.io
 scan-58.security.ipip.net
 security.criminalip.com
