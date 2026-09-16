@@ -33,7 +33,6 @@
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
-b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
@@ -59,15 +58,10 @@ rootevidence.com
 s208856.love-is.nexus
 s214172.love-is.nexus
 s223596.love-is.nexus
-scan-08g.shadowserver.io
-scan-10g.shadowserver.io
 scan-22.tttx.net
 scan-55c.shadowserver.io
-scan-56f.shadowserver.io
-scan-60-10.shadowserver.io
 scan-77-06.shadowserver.io
 scan-79-00.shadowserver.io
-sfo2-1.chlorine.do.prod.binaryedge.ninja
 sfo2-89.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
