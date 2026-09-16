@@ -23,6 +23,7 @@
 166.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
+220-135-48-116.hinet-ip.hinet.net
 63.142.129.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 aa27e0dc.iad.customer.misaka.io
