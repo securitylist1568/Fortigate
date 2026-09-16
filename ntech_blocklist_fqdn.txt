@@ -68,6 +68,7 @@ scan-60-10.shadowserver.io
 scan-77-06.shadowserver.io
 scan-79-00.shadowserver.io
 sfo2-1.chlorine.do.prod.binaryedge.ninja
+sfo2-89.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
