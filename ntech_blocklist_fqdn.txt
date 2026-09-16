@@ -34,6 +34,11 @@ azpdesirsgu3.stretchoid.com
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
+crawler059.deepfield.net
+crawler070.deepfield.net
+crawler112.deepfield.net
+crawler135.deepfield.net
+crawler242.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 easmscan04-us.xdr.trendmicro.com
@@ -54,6 +59,7 @@ recyber.net
 scan-08g.shadowserver.io
 scan-10g.shadowserver.io
 scan-18.tttx.net
+scan-55c.shadowserver.io
 scan-56f.shadowserver.io
 scan-60-10.shadowserver.io
 scan-85-3.shadowserver.io
