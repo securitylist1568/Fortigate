@@ -1,4 +1,3 @@
-1-161-62-72.dynamic-ip.hinet.net
 1-34-13-89.hinet-ip.hinet.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -26,7 +25,6 @@
 163.71.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196.140.195.35.bc.googleusercontent.com
-202.19.140.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 44.116.124.34.bc.googleusercontent.com
 56.140.34.34.bc.googleusercontent.com
@@ -53,8 +51,6 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-ns31560501.ip-162-19-19.eu
-ns3207149.ip-198-244-200.eu
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -72,3 +68,4 @@ sfo2-1.chlorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vps-9f0ddb87.vps.ovh.ca
