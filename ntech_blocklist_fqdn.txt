@@ -24,11 +24,11 @@
 152.172.52.34.bc.googleusercontent.com
 163.71.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-196.140.195.35.bc.googleusercontent.com
 202.19.140.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 44.116.124.34.bc.googleusercontent.com
 56.140.34.34.bc.googleusercontent.com
+63.142.129.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
@@ -49,7 +49,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -62,14 +61,12 @@ s214172.love-is.nexus
 s223596.love-is.nexus
 scan-08g.shadowserver.io
 scan-10g.shadowserver.io
-scan-18.tttx.net
 scan-22.tttx.net
 scan-55c.shadowserver.io
 scan-56f.shadowserver.io
 scan-60-10.shadowserver.io
 scan-77-06.shadowserver.io
 scan-79-00.shadowserver.io
-security.criminalip.com
 sfo2-1.chlorine.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
