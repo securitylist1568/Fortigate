@@ -30,7 +30,6 @@
 185-45-195-15.hostsailor.com
 191.150.216.162.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
-241.211.203.35.bc.googleusercontent.com
 253.95.211.130.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -43,8 +42,6 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler004.deepfield.net
-crawler165.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-114-115-222-41.compute.hwclouds-dns.com
@@ -53,6 +50,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1817-110.members.linode.com
+mail.nabrink.com.br
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -60,7 +58,6 @@ pool-100-8-68-220.nwrknj.fios.verizon.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-16.tttx.net
-scan-40g.shadowserver.io
 scan-43b.shadowserver.io
 scan-76-03.shadowserver.io
 serv54646.beehosting.net
