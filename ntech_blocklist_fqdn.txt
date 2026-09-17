@@ -21,13 +21,11 @@
 123-192-3-128.dynamic.kbronet.com.tw
 129.128.22.34.bc.googleusercontent.com
 136.150.216.162.bc.googleusercontent.com
-138.149.216.162.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
 144.83.125.34.bc.googleusercontent.com
 165-101-65-239.static.visperhost.net
 169.211.203.35.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
-171.149.216.162.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 176.131.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -63,7 +61,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-04f.shadowserver.io
-scan-16.tttx.net
 security.criminalip.com
 serv54646.beehosting.net
 smtp1.telemach.net
