@@ -27,6 +27,7 @@
 172-236-102-250.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
+176.131.78.34.bc.googleusercontent.com
 176.65.134.46.ptr.pfcloud.network
 178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -41,10 +42,13 @@
 23-92-26-65.ip.linodeusercontent.com
 234.150.216.162.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
+253.95.211.130.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 45-79-103-169.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
 51.95.140.34.bc.googleusercontent.com
+56.59.14.34.bc.googleusercontent.com
 64.171.204.35.bc.googleusercontent.com
 87.15.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -145,6 +149,7 @@ scan-08g.shadowserver.io
 scan-27.tttx.net
 scan-40g.shadowserver.io
 scan-69-05.shadowserver.io
+scan-76-03.shadowserver.io
 security.criminalip.com
 sellpow.cn
 sfo2-25.boron.do.prod.binaryedge.ninja
