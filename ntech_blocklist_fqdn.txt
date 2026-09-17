@@ -23,6 +23,7 @@
 136.150.216.162.bc.googleusercontent.com
 138.149.216.162.bc.googleusercontent.com
 139.149.216.162.bc.googleusercontent.com
+144.83.125.34.bc.googleusercontent.com
 165-101-65-239.static.visperhost.net
 169.211.203.35.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
@@ -30,6 +31,7 @@
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 191.150.216.162.bc.googleusercontent.com
+220-135-48-116.hinet-ip.hinet.net
 242.150.216.162.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 26.149.216.162.bc.googleusercontent.com
