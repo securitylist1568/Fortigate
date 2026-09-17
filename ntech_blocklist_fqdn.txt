@@ -29,6 +29,7 @@
 172-233-89-133.ip.linodeusercontent.com
 176.131.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+190.150.216.162.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
 218-35-102-170.cm.dynamic.apol.com.tw
 220-135-48-116.hinet-ip.hinet.net
@@ -61,6 +62,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-04f.shadowserver.io
+scan-56.security.ipip.net
 security.criminalip.com
 serv54646.beehosting.net
 smtp1.telemach.net
