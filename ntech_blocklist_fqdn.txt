@@ -25,15 +25,12 @@
 173-255-223-32.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 176.131.78.34.bc.googleusercontent.com
-176.65.134.46.ptr.pfcloud.network
-178.150.216.162.bc.googleusercontent.com
 181.51.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192-81-132-226.ip.linodeusercontent.com
 194.149.216.162.bc.googleusercontent.com
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
-224.211.203.35.bc.googleusercontent.com
 23-92-26-126.ip.linodeusercontent.com
 23-92-26-65.ip.linodeusercontent.com
 234.150.216.162.bc.googleusercontent.com
@@ -45,7 +42,6 @@
 45-79-145-233.ip.linodeusercontent.com
 51.95.140.34.bc.googleusercontent.com
 56.59.14.34.bc.googleusercontent.com
-64.171.204.35.bc.googleusercontent.com
 87.15.175.207.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -142,7 +138,6 @@ recyber.net
 rgwbhyp.cn
 scan-08g.shadowserver.io
 scan-16.tttx.net
-scan-27.tttx.net
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
 scan-69-05.shadowserver.io
