@@ -22,9 +22,11 @@
 149.149.216.162.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
 167.149.216.162.bc.googleusercontent.com
+178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 220-135-48-116.hinet-ip.hinet.net
+224.211.203.35.bc.googleusercontent.com
 63.142.129.34.bc.googleusercontent.com
 64.171.204.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
@@ -49,6 +51,7 @@ recyber.net
 s208856.love-is.nexus
 s214172.love-is.nexus
 s223596.love-is.nexus
+scan-27.tttx.net
 security.criminalip.com
 sfo2-25.boron.do.prod.binaryedge.ninja
 sfo2-89.boron.do.prod.binaryedge.ninja
