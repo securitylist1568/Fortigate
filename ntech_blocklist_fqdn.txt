@@ -40,7 +40,9 @@
 53.149.216.162.bc.googleusercontent.com
 56.59.14.34.bc.googleusercontent.com
 63.210.203.35.bc.googleusercontent.com
+66-206-12-186.static.hvvc.us
 68.221.53.34.bc.googleusercontent.com
+70.211.203.35.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 87.15.175.207.bc.googleusercontent.com
