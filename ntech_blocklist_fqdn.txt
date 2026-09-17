@@ -32,6 +32,7 @@
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 192-81-132-226.ip.linodeusercontent.com
+194.149.216.162.bc.googleusercontent.com
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 220-135-48-116.hinet-ip.hinet.net
@@ -39,6 +40,7 @@
 23-92-26-126.ip.linodeusercontent.com
 23-92-26-65.ip.linodeusercontent.com
 234.150.216.162.bc.googleusercontent.com
+241.211.203.35.bc.googleusercontent.com
 45-79-103-169.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
@@ -130,6 +132,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 nyc1-8.krypton.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
@@ -146,7 +149,6 @@ sellpow.cn
 sfo2-25.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-ujjpa6.mta.lokin.be
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 www.internet-albedo.net
