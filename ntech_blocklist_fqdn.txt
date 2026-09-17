@@ -134,6 +134,7 @@ li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pool-100-8-68-220.nwrknj.fios.verizon.net
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-16.tttx.net
