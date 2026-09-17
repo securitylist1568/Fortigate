@@ -48,6 +48,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-27.tttx.net
+scan-69-05.shadowserver.io
 security.criminalip.com
 sfo2-25.boron.do.prod.binaryedge.ninja
 sfo2-89.boron.do.prod.binaryedge.ninja
