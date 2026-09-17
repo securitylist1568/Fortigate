@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
+113.150.216.162.bc.googleusercontent.com
 123-192-3-128.dynamic.kbronet.com.tw
 129.128.22.34.bc.googleusercontent.com
 136.150.216.162.bc.googleusercontent.com
@@ -58,6 +59,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip31-70-77-230.pbiaas.com
 mail.nabrink.com.br
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
