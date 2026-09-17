@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
 192.150.216.162.bc.googleusercontent.com
+194.1.broad.ha.dynamic.163data.com.cn
 198-134-107-73.rev.unlimitednet.us
 230.211.203.35.bc.googleusercontent.com
 289588.ip-ptr.tech
@@ -57,6 +58,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-10g.shadowserver.io
 scan-56.security.ipip.net
 security.criminalip.com
