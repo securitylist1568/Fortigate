@@ -142,6 +142,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rgwbhyp.cn
 scan-08g.shadowserver.io
+scan-16.tttx.net
 scan-27.tttx.net
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
