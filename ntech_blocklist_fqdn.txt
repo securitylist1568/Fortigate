@@ -28,6 +28,7 @@
 187.62.234-12.conectatelecomto.com.br
 220-135-48-116.hinet-ip.hinet.net
 224.211.203.35.bc.googleusercontent.com
+234.150.216.162.bc.googleusercontent.com
 64.171.204.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -54,3 +55,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 ujjpa6.mta.lokin.be
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
+www.internet-albedo.net
