@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.150.216.162.bc.googleusercontent.com
 118-169-30-220.dynamic-ip.hinet.net
+123.149.216.162.bc.googleusercontent.com
 128.211.203.35.bc.googleusercontent.com
 129.128.22.34.bc.googleusercontent.com
 136.150.216.162.bc.googleusercontent.com
@@ -72,3 +73,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
+vivacroni93098.vm
