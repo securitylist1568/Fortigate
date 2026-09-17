@@ -30,6 +30,7 @@
 176.131.78.34.bc.googleusercontent.com
 176.65.134.46.ptr.pfcloud.network
 178.150.216.162.bc.googleusercontent.com
+181.51.187.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 192-81-132-226.ip.linodeusercontent.com
@@ -148,6 +149,7 @@ rgwbhyp.cn
 scan-08g.shadowserver.io
 scan-27.tttx.net
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 scan-69-05.shadowserver.io
 scan-76-03.shadowserver.io
 security.criminalip.com
@@ -155,6 +157,7 @@ sellpow.cn
 sfo2-25.boron.do.prod.binaryedge.ninja
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+ujjpa6.mta.lokin.be
 unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 www.internet-albedo.net
