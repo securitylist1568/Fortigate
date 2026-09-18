@@ -37,6 +37,7 @@
 243.210.203.35.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 32.224.38.34.bc.googleusercontent.com
+47.112.50.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 68.67.78.34.bc.googleusercontent.com
 71.150.216.162.bc.googleusercontent.com
