@@ -21,14 +21,13 @@
 125.211.203.35.bc.googleusercontent.com
 13.149.216.162.bc.googleusercontent.com
 134.99.54.179.isp.timbrasil.com.br
-142.210.203.35.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
-179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194.1.broad.ha.dynamic.163data.com.cn
 198.211.203.35.bc.googleusercontent.com
+228.210.203.35.bc.googleusercontent.com
+247.150.216.162.bc.googleusercontent.com
 250.149.216.162.bc.googleusercontent.com
 44.149.216.162.bc.googleusercontent.com
 50-32-26-35.bng01.clsm.pa.frontiernet.net
