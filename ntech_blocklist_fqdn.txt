@@ -19,12 +19,15 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.124.175.207.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
+125-227-34-167.hinet-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
 133.116.77.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 157.149.216.162.bc.googleusercontent.com
+172.78.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.210.203.35.bc.googleusercontent.com
+187.63.85.136.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 218-35-102-170.cm.dynamic.apol.com.tw
 220.211.203.35.bc.googleusercontent.com
@@ -38,6 +41,7 @@
 9.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 customer-cdmx-mca-131-207.megared.net.mx
