@@ -25,6 +25,7 @@
 13.149.216.162.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
 133.116.77.34.bc.googleusercontent.com
+134.99.54.179.isp.timbrasil.com.br
 142.210.203.35.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
@@ -59,6 +60,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 s4850.vps.hosting
 scan-02m.shadowserver.io
 scan-13n.shadowserver.io
