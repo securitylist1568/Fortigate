@@ -27,6 +27,7 @@
 157.149.216.162.bc.googleusercontent.com
 172.78.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.210.203.35.bc.googleusercontent.com
 194.1.broad.ha.dynamic.163data.com.cn
 196.150.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
@@ -49,6 +50,7 @@ client.yota.ru
 customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 ec2-3-82-139-248.compute-1.amazonaws.com
 ec2-3-95-56-199.compute-1.amazonaws.com
 ec2-35-172-134-248.compute-1.amazonaws.com
