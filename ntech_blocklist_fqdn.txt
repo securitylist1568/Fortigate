@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
-13.149.216.162.bc.googleusercontent.com
 134.99.54.179.isp.timbrasil.com.br
 138.149.216.162.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
@@ -28,7 +27,6 @@
 185-45-195-15.hostsailor.com
 228.210.203.35.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
-44.149.216.162.bc.googleusercontent.com
 50-32-26-35.bng01.clsm.pa.frontiernet.net
 77.149.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
@@ -40,7 +38,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-easmscan05-us.xdr.trendmicro.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
@@ -56,7 +53,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 remote.streamingsb24.com
 rootevidence.com
-s4850.vps.hosting
 scan-10g.shadowserver.io
 scan-41m.shadowserver.io
 security.criminalip.com
