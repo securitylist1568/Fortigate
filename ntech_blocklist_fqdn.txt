@@ -18,10 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.210.203.35.bc.googleusercontent.com
 114.124.175.207.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
-122.150.216.162.bc.googleusercontent.com
 125.211.203.35.bc.googleusercontent.com
 133.116.77.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
@@ -38,7 +36,6 @@
 243.210.203.35.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 32.224.38.34.bc.googleusercontent.com
-34.210.203.35.bc.googleusercontent.com
 51.222.53.34.bc.googleusercontent.com
 68.67.78.34.bc.googleusercontent.com
 73.149.216.162.bc.googleusercontent.com
@@ -70,7 +67,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40e.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
