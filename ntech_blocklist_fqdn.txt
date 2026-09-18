@@ -24,6 +24,7 @@
 168.210.203.35.bc.googleusercontent.com
 182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+196.150.216.162.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 34.210.203.35.bc.googleusercontent.com
 39968751.grabercloud.com
@@ -53,6 +54,7 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 ns31560501.ip-162-19-19.eu
 ns3207149.ip-198-244-200.eu
 o340.scanner.modat.io
