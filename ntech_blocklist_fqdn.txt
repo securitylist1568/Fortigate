@@ -56,6 +56,7 @@ client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
+easmscan05-us.xdr.trendmicro.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hostedby.privatelayer.com
