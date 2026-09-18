@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+11.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.124.175.207.bc.googleusercontent.com
+115.150.216.162.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
 125-227-34-167.hinet-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
@@ -25,6 +27,7 @@
 139.84.162.169.vultrusercontent.com
 157.149.216.162.bc.googleusercontent.com
 172.78.195.35.bc.googleusercontent.com
+178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.210.203.35.bc.googleusercontent.com
 187.63.85.136.bc.googleusercontent.com
