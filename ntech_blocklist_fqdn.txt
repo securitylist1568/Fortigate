@@ -36,6 +36,7 @@
 187.63.85.136.bc.googleusercontent.com
 189.149.216.162.bc.googleusercontent.com
 194.1.broad.ha.dynamic.163data.com.cn
+198.211.203.35.bc.googleusercontent.com
 32.224.38.34.bc.googleusercontent.com
 32.86.76.34.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
@@ -62,6 +63,7 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
+ip82-165-34-207.pbiaas.com
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
