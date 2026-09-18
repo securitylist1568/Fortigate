@@ -24,10 +24,8 @@
 125.211.203.35.bc.googleusercontent.com
 133.116.77.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
-153.210.203.35.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
 172.78.195.35.bc.googleusercontent.com
-182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.1.broad.ha.dynamic.163data.com.cn
 196.150.216.162.bc.googleusercontent.com
@@ -35,7 +33,6 @@
 218-35-102-170.cm.dynamic.apol.com.tw
 220.211.203.35.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
-234.150.216.162.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 32.224.38.34.bc.googleusercontent.com
@@ -53,13 +50,11 @@ customer-cdmx-mca-131-207.megared.net.mx
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-82-139-248.compute-1.amazonaws.com
-ec2-3-94-186-181.compute-1.amazonaws.com
 ec2-3-95-56-199.compute-1.amazonaws.com
 ec2-35-172-134-248.compute-1.amazonaws.com
 ec2-44-201-116-222.compute-1.amazonaws.com
 ec2-44-201-252-11.compute-1.amazonaws.com
 ec2-54-235-52-37.compute-1.amazonaws.com
-ec2-54-242-243-244.compute-1.amazonaws.com
 ec2-54-91-228-244.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -73,7 +68,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.io
-scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
