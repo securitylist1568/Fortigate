@@ -27,7 +27,6 @@
 125-227-34-167.hinet-ip.hinet.net
 130.210.203.35.bc.googleusercontent.com
 133.116.77.34.bc.googleusercontent.com
-139.84.162.169.vultrusercontent.com
 157.150.216.162.bc.googleusercontent.com
 172.78.195.35.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
@@ -36,7 +35,6 @@
 187.210.203.35.bc.googleusercontent.com
 187.63.85.136.bc.googleusercontent.com
 189.149.216.162.bc.googleusercontent.com
-220.211.203.35.bc.googleusercontent.com
 32.224.38.34.bc.googleusercontent.com
 32.86.76.34.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
@@ -65,7 +63,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
@@ -78,4 +75,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
-vivacroni93098.vm
