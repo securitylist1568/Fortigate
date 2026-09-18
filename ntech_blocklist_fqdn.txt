@@ -21,8 +21,10 @@
 115.150.216.162.bc.googleusercontent.com
 117.209-183-91.adsl-static.isp.belgacom.be
 125-227-34-167.hinet-ip.hinet.net
+133.116.77.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 157.149.216.162.bc.googleusercontent.com
+157.150.216.162.bc.googleusercontent.com
 172.78.195.35.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -46,6 +48,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 customer-cdmx-mca-131-207.megared.net.mx
 customer.sharktech.net
+d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
