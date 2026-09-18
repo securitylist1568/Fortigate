@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 194.1.broad.ha.dynamic.163data.com.cn
 198-134-107-73.rev.unlimitednet.us
+234.150.216.162.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 39968751.grabercloud.com
 60-249-14-121.hinet-ip.hinet.net
@@ -62,6 +63,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
