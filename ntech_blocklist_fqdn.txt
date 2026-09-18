@@ -66,6 +66,7 @@ s4850.vps.hosting
 scan-02m.shadowserver.io
 scan-10g.shadowserver.io
 scan-13n.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 srv62133.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
