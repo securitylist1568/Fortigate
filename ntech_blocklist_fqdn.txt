@@ -31,6 +31,7 @@
 157.150.216.162.bc.googleusercontent.com
 172.78.195.35.bc.googleusercontent.com
 178.149.216.162.bc.googleusercontent.com
+182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.210.203.35.bc.googleusercontent.com
 187.63.85.136.bc.googleusercontent.com
@@ -71,6 +72,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
+scan-13n.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
