@@ -41,11 +41,6 @@
 91.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
-azpdcg8bkl6w.stretchoid.com
-azpdcshg7mv7.stretchoid.com
-azpdcsrt5pr2.stretchoid.com
-azpdsg2r1css.stretchoid.com
-azpdwslnebe1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -74,7 +69,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 ip82-165-34-207.pbiaas.com
-l608.scanner.modat.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
