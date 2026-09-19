@@ -174,6 +174,7 @@ recyber.net
 rootevidence.com
 scan-13l.shadowserver.io
 scan-16.tttx.net
+scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
