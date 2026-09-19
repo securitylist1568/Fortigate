@@ -27,6 +27,7 @@
 168.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
+228.210.203.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 31.174.12.34.bc.googleusercontent.com
 5.167.181.34.bc.googleusercontent.com
@@ -50,6 +51,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ebony.probe.onyphe.net
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
