@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 125.211.203.35.bc.googleusercontent.com
-134.99.54.179.isp.timbrasil.com.br
 138.149.216.162.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
@@ -52,17 +51,13 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 l608.scanner.modat.io
 lnxsr12.cwp.webr.net.za
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 remote.streamingsb24.com
-rootevidence.com
-scan-10g.shadowserver.io
 scan-41m.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
