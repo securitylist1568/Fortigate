@@ -23,12 +23,10 @@
 138-50-bharathcom.com
 138.149.216.162.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 228.210.203.35.bc.googleusercontent.com
 247.150.216.162.bc.googleusercontent.com
-50-32-26-35.bng01.clsm.pa.frontiernet.net
 77.149.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
