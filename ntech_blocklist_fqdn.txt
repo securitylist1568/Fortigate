@@ -23,6 +23,7 @@
 111.215.106.34.bc.googleusercontent.com
 118.152.22.34.bc.googleusercontent.com
 137.211.203.35.bc.googleusercontent.com
+183.82.108.250.actcorp.in
 185-45-195-15.hostsailor.com
 186.227.53.34.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
@@ -31,10 +32,8 @@
 249.97.172.144.static.cloudzy.com
 254.255.52.34.bc.googleusercontent.com
 37.150.216.162.bc.googleusercontent.com
-47.149.216.162.bc.googleusercontent.com
 52.210.203.35.bc.googleusercontent.com
 53.131.251.23.bc.googleusercontent.com
-68.210.203.35.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 74-50-98-193.static.hvvc.us
@@ -155,7 +154,6 @@ azpdwsx323cf.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dns106.online.tj.cn
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
