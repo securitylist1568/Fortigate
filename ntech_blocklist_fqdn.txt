@@ -21,7 +21,6 @@
 118.152.22.34.bc.googleusercontent.com
 131.126.22.34.bc.googleusercontent.com
 131.166.175.207.bc.googleusercontent.com
-138-50-bharathcom.com
 143.150.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
@@ -39,7 +38,6 @@
 53.131.251.23.bc.googleusercontent.com
 64.81.240.35.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
-82.149.216.162.bc.googleusercontent.com
 91.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -69,6 +67,7 @@ ec2-98-81-160-178.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip194-164-195-84.pbiaas.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 ip82-165-34-207.pbiaas.com
