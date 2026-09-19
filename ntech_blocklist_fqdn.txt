@@ -37,6 +37,7 @@
 44.121.14.34.bc.googleusercontent.com
 53.131.251.23.bc.googleusercontent.com
 64.81.240.35.bc.googleusercontent.com
+68.210.203.35.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 91.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -76,6 +77,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 rping.ipip.net
 scan-45g.shadowserver.io
 security.criminalip.com
