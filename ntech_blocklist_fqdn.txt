@@ -29,6 +29,7 @@
 200.46.195.35.bc.googleusercontent.com
 225.113.187.35.bc.googleusercontent.com
 228.176.76.34.bc.googleusercontent.com
+242.211.203.35.bc.googleusercontent.com
 247.237.38.34.bc.googleusercontent.com
 254.255.52.34.bc.googleusercontent.com
 31.174.12.34.bc.googleusercontent.com
@@ -77,6 +78,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rping.ipip.net
 scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
