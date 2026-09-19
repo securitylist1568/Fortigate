@@ -23,15 +23,13 @@
 155.149.216.162.bc.googleusercontent.com
 183.82.108.250.actcorp.in
 185-45-195-15.hostsailor.com
-228.150.216.162.bc.googleusercontent.com
+186.210.203.35.bc.googleusercontent.com
 23.64.21.34.bc.googleusercontent.com
 24.9.81.34.bc.googleusercontent.com
 247.237.38.34.bc.googleusercontent.com
-249.97.172.144.static.cloudzy.com
 2d96f25f.customer.misaka.taipei
 31.174.12.34.bc.googleusercontent.com
 5.167.181.34.bc.googleusercontent.com
-52.210.203.35.bc.googleusercontent.com
 61.165.26.34.bc.googleusercontent.com
 64.153.182.34.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
@@ -48,7 +46,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-183-214-154-5.connesi.it
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1972-67.members.linode.com
