@@ -28,6 +28,7 @@
 77.149.216.162.bc.googleusercontent.com
 82.149.216.162.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg8bkl6w.stretchoid.com
 azpdcshg7mv7.stretchoid.com
@@ -44,6 +45,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip82-165-34-207.pbiaas.com
 l608.scanner.modat.io
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
