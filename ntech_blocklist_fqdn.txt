@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+101-59-17-190.fibertel.com.ar
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -20,6 +21,7 @@
 113.150.216.162.bc.googleusercontent.com
 128.149.216.162.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
+136.16.168.34.bc.googleusercontent.com
 143.184.125.34.bc.googleusercontent.com
 144.211.203.35.bc.googleusercontent.com
 155.149.216.162.bc.googleusercontent.com
@@ -27,8 +29,8 @@
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
+29.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
-5.167.181.34.bc.googleusercontent.com
 56.137.222.35.bc.googleusercontent.com
 61.165.26.34.bc.googleusercontent.com
 64.210.203.35.bc.googleusercontent.com
@@ -42,9 +44,6 @@ azpdws2j5ycb.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
-crawler077.deepfield.net
-crawler087.deepfield.net
-crawler097.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ebony.probe.onyphe.net
@@ -56,7 +55,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
