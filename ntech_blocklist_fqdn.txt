@@ -26,6 +26,7 @@
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 186.227.53.34.bc.googleusercontent.com
+192-210-243-12-host.colocrossing.com
 200.46.195.35.bc.googleusercontent.com
 225.113.187.35.bc.googleusercontent.com
 228.176.76.34.bc.googleusercontent.com
