@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-101-59-17-190.fibertel.com.ar
 103-112-0-32.oneqode.net
 104.122.14.34.bc.googleusercontent.com
 106.64.77.34.bc.googleusercontent.com
@@ -25,7 +24,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.131.251.23.bc.googleusercontent.com
 121.211.203.35.bc.googleusercontent.com
-136.16.168.34.bc.googleusercontent.com
 138.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 139.65.211.130.bc.googleusercontent.com
