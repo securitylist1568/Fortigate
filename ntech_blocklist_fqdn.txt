@@ -27,10 +27,7 @@
 194-195-122-95.ip.linodeusercontent.com
 220-137-202-18.dynamic-ip.hinet.net
 227.211.203.35.bc.googleusercontent.com
-234.142.117.136.bc.googleusercontent.com
 25.130.237.35.bc.googleusercontent.com
-45-79-139-91.ip.linodeusercontent.com
-53.26.71.192.in-addr.arpa
 74-50-98-193.static.hvvc.us
 95.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -47,15 +44,14 @@ host-61-71-178-210.static.kbtelecom.net
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-82.superbithost.com
+ip130.ip-5-196-61.eu
 ip29.sudolio.io
-ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
@@ -67,5 +63,4 @@ us-central-9.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
 v2202406103207274321.ultrasrv.de
 vds1077812.hosted-by-itldc.com
-vmi2873840.contaboserver.net
 vps-102567.cloud.firstheberg.net
