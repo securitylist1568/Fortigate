@@ -32,6 +32,7 @@
 45-79-139-91.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
 74-50-98-193.static.hvvc.us
+95.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -65,5 +66,6 @@ us-central-29.barium.li.prod.binaryedge.ninja
 us-central-9.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
 v2202406103207274321.ultrasrv.de
+vds1077812.hosted-by-itldc.com
 vmi2873840.contaboserver.net
 vps-102567.cloud.firstheberg.net
