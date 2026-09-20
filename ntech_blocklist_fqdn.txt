@@ -68,6 +68,7 @@
 23-92-26-21.ip.linodeusercontent.com
 23-92-26-28.ip.linodeusercontent.com
 23-92-26-77.ip.linodeusercontent.com
+236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
 26.103.205.35.bc.googleusercontent.com
@@ -86,6 +87,7 @@
 45-79-225-32.ip.linodeusercontent.com
 45.8.78.34.bc.googleusercontent.com
 50-32-26-35.bng01.clsm.pa.frontiernet.net
+6.193.116.34.bc.googleusercontent.com
 97.113.247.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 adventure.yatano.com
