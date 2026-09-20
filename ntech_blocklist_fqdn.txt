@@ -20,11 +20,8 @@
 139.65.211.130.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-194-195-122-95.ip.linodeusercontent.com
 220-137-202-18.dynamic-ip.hinet.net
-227.211.203.35.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
-25.130.237.35.bc.googleusercontent.com
 6.193.116.34.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 74-50-98-193.static.hvvc.us
@@ -39,7 +36,6 @@ dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-61-71-178-210.static.kbtelecom.net
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-82.superbithost.com
@@ -51,13 +47,10 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv62133.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 static.213-133-108-45.clients.your-server.de
-us-central-29.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
 v2202406103207274321.ultrasrv.de
 vds1077812.hosted-by-itldc.com
