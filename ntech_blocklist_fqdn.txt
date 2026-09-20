@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 139.65.211.130.bc.googleusercontent.com
+172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 220-137-202-18.dynamic-ip.hinet.net
@@ -25,12 +26,14 @@
 24.150.216.162.bc.googleusercontent.com
 25.130.237.35.bc.googleusercontent.com
 6.193.116.34.bc.googleusercontent.com
+60.210.203.35.bc.googleusercontent.com
 74-50-98-193.static.hvvc.us
 95.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+d309gsug6.autoinsure-hq.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
