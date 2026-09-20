@@ -29,7 +29,6 @@
 8.210.203.35.bc.googleusercontent.com
 90.172.111.136.bc.googleusercontent.com
 9213038d.customer.misaka.se
-95.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdes1yrrla.stretchoid.com
@@ -63,4 +62,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
