@@ -30,6 +30,8 @@
 187.165.237.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
+45-56-108-101.ip.linodeusercontent.com
+45-79-159-136.ip.linodeusercontent.com
 56.137.222.35.bc.googleusercontent.com
 64.210.203.35.bc.googleusercontent.com
 90.172.111.136.bc.googleusercontent.com
@@ -43,6 +45,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 ebony.probe.onyphe.net
 festa04.jcatransporte.com.br
@@ -59,6 +62,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
