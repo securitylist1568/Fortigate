@@ -18,12 +18,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.150.216.162.bc.googleusercontent.com
 128.149.216.162.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 136.16.168.34.bc.googleusercontent.com
 143.184.125.34.bc.googleusercontent.com
-144.211.203.35.bc.googleusercontent.com
 163.247.228.8.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -32,7 +30,6 @@
 29.150.216.162.bc.googleusercontent.com
 45-56-108-101.ip.linodeusercontent.com
 45-79-159-136.ip.linodeusercontent.com
-56.137.222.35.bc.googleusercontent.com
 64.210.203.35.bc.googleusercontent.com
 90.172.111.136.bc.googleusercontent.com
 aim.sba-research.org
@@ -43,7 +40,6 @@ azpdsgfxahsh.stretchoid.com
 azpdws2j5ycb.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-cohogs.usienspire.com
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
@@ -53,7 +49,6 @@ fwnvyxu.top
 get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-142.web1.bg
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
