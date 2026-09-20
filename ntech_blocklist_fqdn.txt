@@ -181,6 +181,7 @@ easmscan01-us.xdr.trendmicro.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
+host-61-71-178-210.static.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
