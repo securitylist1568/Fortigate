@@ -73,6 +73,7 @@
 26.103.205.35.bc.googleusercontent.com
 30.81.62.34.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
+37.201.58.34.bc.googleusercontent.com
 38.225.205.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -91,6 +92,7 @@
 97.113.247.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -127,6 +129,7 @@ rootevidence.com
 scan-10g.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
+scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
