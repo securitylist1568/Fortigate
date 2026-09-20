@@ -41,6 +41,7 @@
 172-238-160-104.ip.linodeusercontent.com
 172-239-62-109.ip.linodeusercontent.com
 173-255-223-32.ip.linodeusercontent.com
+173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-249-14.ip.linodeusercontent.com
 178.144.55.34.bc.googleusercontent.com
@@ -91,6 +92,7 @@ azpdsgfxahsh.stretchoid.com
 azpdws2j5ycb.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler066.deepfield.net
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
