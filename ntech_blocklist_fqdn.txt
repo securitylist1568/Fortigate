@@ -20,13 +20,11 @@
 115.50.95.34.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
-172-232-121-108.ip.linodeusercontent.com
 172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 203.149.216.162.bc.googleusercontent.com
 29.179.91.185.rightside.ru
 6.193.116.34.bc.googleusercontent.com
-60.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 90.172.111.136.bc.googleusercontent.com
 9213038d.customer.misaka.se
@@ -39,7 +37,6 @@ azpdssye34kr.stretchoid.com
 azpdwsldza3i.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-d309gsug6.autoinsure-hq.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -48,7 +45,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip31-70-77-230.pbiaas.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o071.scanner.modat.io
 o341.scanner.modat.io
