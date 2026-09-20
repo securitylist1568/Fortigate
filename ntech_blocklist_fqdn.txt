@@ -49,7 +49,6 @@
 183.149.216.162.bc.googleusercontent.com
 184.9.185.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187.165.237.35.bc.googleusercontent.com
 187.62.234-12.conectatelecomto.com.br
 190.229.205.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
@@ -75,16 +74,15 @@
 33.150.216.162.bc.googleusercontent.com
 37.201.58.34.bc.googleusercontent.com
 38.225.205.35.bc.googleusercontent.com
+41.210.203.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
-45-56-108-101.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
 45-79-145-211.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
-45-79-159-136.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.8.78.34.bc.googleusercontent.com
 50-32-26-35.bng01.clsm.pa.frontiernet.net
@@ -98,7 +96,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler066.deepfield.net
 dal215.hawkhost.com
-db3-int.qeryz.com
 dns12.online.tj.cn
 doha.scan.bufferover.run
 ec2-100-58-203-239.compute-1.amazonaws.com
@@ -120,10 +117,10 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+nyc1-8.fluorine.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-10g.shadowserver.io
