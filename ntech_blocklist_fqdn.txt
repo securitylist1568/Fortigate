@@ -176,6 +176,7 @@ hn.kd.ny.adsl
 host-61-71-178-210.static.kbtelecom.net
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-82.superbithost.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 li1537-121.members.linode.com
