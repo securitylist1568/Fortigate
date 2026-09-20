@@ -33,6 +33,7 @@
 234.142.117.136.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
+25.130.237.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 27.237.255.35.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
@@ -197,6 +198,7 @@ security.criminalip.com
 smtp1.telemach.net
 srv62133.dus8.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
+us-central-29.barium.li.prod.binaryedge.ninja
 us-central-9.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
 vmi2873840.contaboserver.net
