@@ -82,12 +82,14 @@
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-109-4.ip.linodeusercontent.com
+45-79-139-91.ip.linodeusercontent.com
 45-79-145-211.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.8.78.34.bc.googleusercontent.com
 50-32-26-35.bng01.clsm.pa.frontiernet.net
+53.26.71.192.in-addr.arpa
 6.193.116.34.bc.googleusercontent.com
 97.113.247.35.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
