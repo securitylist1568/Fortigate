@@ -49,6 +49,7 @@
 183.149.216.162.bc.googleusercontent.com
 184.9.185.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+186.150.216.162.bc.googleusercontent.com
 187.62.234-12.conectatelecomto.com.br
 190.229.205.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
@@ -72,6 +73,7 @@
 245.211.203.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 26.103.205.35.bc.googleusercontent.com
+27.237.255.35.bc.googleusercontent.com
 30.81.62.34.bc.googleusercontent.com
 33.150.216.162.bc.googleusercontent.com
 37.201.58.34.bc.googleusercontent.com
