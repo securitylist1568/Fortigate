@@ -18,12 +18,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-128.149.216.162.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 136.16.168.34.bc.googleusercontent.com
-143.184.125.34.bc.googleusercontent.com
 163.247.228.8.bc.googleusercontent.com
-168.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.165.237.35.bc.googleusercontent.com
 187.62.234-12.conectatelecomto.com.br
@@ -46,7 +43,6 @@ client.yota.ru
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
-ebony.probe.onyphe.net
 festa04.jcatransporte.com.br
 fwnvyxu.top
 get174.ingetitin.com
@@ -61,9 +57,7 @@ proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
 rootevidence.com
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vmi3453560.contaboserver.net
 www.internet-albedo.net
