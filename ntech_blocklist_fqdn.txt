@@ -46,12 +46,14 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-82.superbithost.com
 ip130.ip-5-196-61.eu
 ip29.sudolio.io
+ip31-70-77-230.pbiaas.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13l.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
