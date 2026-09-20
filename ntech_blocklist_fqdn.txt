@@ -193,6 +193,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
