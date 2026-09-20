@@ -186,6 +186,7 @@ mfyabgec.musicpda.com
 nyc1-8.fluorine.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -194,5 +195,6 @@ scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+us-central-9.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
 vmi2873840.contaboserver.net
