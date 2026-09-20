@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-220-137-202-18.dynamic-ip.hinet.net
 24.150.216.162.bc.googleusercontent.com
 6.193.116.34.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
@@ -40,11 +39,10 @@ client.yota.ru
 d309gsug6.autoinsure-hq.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+get174.ingetitin.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-82.superbithost.com
 ip130.ip-5-196-61.eu
 ip29.sudolio.io
 ip31-70-77-230.pbiaas.com
@@ -55,10 +53,8 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.213-133-108-45.clients.your-server.de
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-vps-102567.cloud.firstheberg.net
