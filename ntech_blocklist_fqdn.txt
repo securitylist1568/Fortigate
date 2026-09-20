@@ -33,11 +33,9 @@
 25.130.237.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 27.237.255.35.bc.googleusercontent.com
-37.201.58.34.bc.googleusercontent.com
-41.210.203.35.bc.googleusercontent.com
 45-79-139-91.ip.linodeusercontent.com
 53.26.71.192.in-addr.arpa
-aim.sba-research.org
+74-50-98-193.static.hvvc.us
 amz.unixwiz.net
 azpdcg25ggxd.stretchoid.com
 azpdcg5t13l6.stretchoid.com
@@ -173,7 +171,6 @@ dns12.online.tj.cn
 easmscan01-us.xdr.trendmicro.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
-get174.ingetitin.com
 hn.kd.ny.adsl
 host-61-71-178-210.static.kbtelecom.net
 hostedby.privatelayer.com
@@ -181,7 +178,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-82.superbithost.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
-li1537-121.members.linode.com
 mfyabgec.musicpda.com
 nyc1-8.fluorine.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
@@ -191,7 +187,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-40g.shadowserver.io
-scan-45g.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv62133.dus8.dedicated.server-hosting.expert
