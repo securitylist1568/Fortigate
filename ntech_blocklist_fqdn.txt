@@ -50,7 +50,6 @@
 184.9.185.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
-187.62.234-12.conectatelecomto.com.br
 190.229.205.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 198-74-58-111.ip.linodeusercontent.com
@@ -60,7 +59,6 @@
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 203.149.216.162.bc.googleusercontent.com
-204.25.186.34.bc.googleusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
 23-92-26-16.ip.linodeusercontent.com
@@ -70,7 +68,6 @@
 23-92-26-77.ip.linodeusercontent.com
 236.211.203.35.bc.googleusercontent.com
 24.210.203.35.bc.googleusercontent.com
-245.211.203.35.bc.googleusercontent.com
 251.211.203.35.bc.googleusercontent.com
 26.103.205.35.bc.googleusercontent.com
 27.237.255.35.bc.googleusercontent.com
@@ -264,4 +261,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
 users219.vip.heteml.jp
-www.internet-albedo.net
