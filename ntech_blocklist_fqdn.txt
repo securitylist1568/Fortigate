@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 101-59-17-190.fibertel.com.ar
+103-112-0-32.oneqode.net
 104.122.14.34.bc.googleusercontent.com
 106.64.77.34.bc.googleusercontent.com
 11.150.216.162.bc.googleusercontent.com
@@ -120,6 +121,7 @@ recyber.net
 rootevidence.com
 scan-10g.shadowserver.io
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
