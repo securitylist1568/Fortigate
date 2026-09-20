@@ -20,15 +20,14 @@
 128.150.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+203.149.216.162.bc.googleusercontent.com
 24.150.216.162.bc.googleusercontent.com
 6.193.116.34.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
-74-50-98-193.static.hvvc.us
 8.210.203.35.bc.googleusercontent.com
 90.172.111.136.bc.googleusercontent.com
 9213038d.customer.misaka.se
 95.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdes1yrrla.stretchoid.com
 azpdesa5smws.stretchoid.com
@@ -58,6 +57,5 @@ scan-13l.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.213-133-108-45.clients.your-server.de
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
