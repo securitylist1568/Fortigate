@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 203.149.216.162.bc.googleusercontent.com
 29.179.91.185.rightside.ru
+6.193.116.34.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 8.210.203.35.bc.googleusercontent.com
 90.172.111.136.bc.googleusercontent.com
@@ -61,3 +62,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
+vps-96f0856b.vps.ovh.net
