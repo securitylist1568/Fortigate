@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 115.50.95.34.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
-165.151.52.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
@@ -43,7 +42,6 @@ hosted-by.server.express
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
 nyc1-40.barium.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
@@ -55,6 +53,7 @@ scan-55c.shadowserver.io
 scan-58.security.ipip.net
 scan-58a.shadowserver.io
 scan-61-9.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-102-45-53-103.ebonenet.com
