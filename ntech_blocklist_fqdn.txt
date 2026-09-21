@@ -25,6 +25,7 @@
 194.239.195.35.bc.googleusercontent.com
 196.106.241.35.bc.googleusercontent.com
 205.241.76.34.bc.googleusercontent.com
+2d96f380.kbp.customer.misaka.io
 36-227-86-232.dynamic-ip.hinet.net
 37.240.140.34.bc.googleusercontent.com
 66-165-247-30.static.hvvc.us
@@ -37,6 +38,7 @@ centos7223208.aspadmin.net
 client.yota.ru
 coochie.monster
 dal215.hawkhost.com
+dial-148-240-238-3.zone-1.ip.static-ftth.axtel.net.mx
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
