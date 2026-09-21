@@ -47,11 +47,13 @@ mfyabgec.musicpda.com
 o071.scanner.modat.io
 o341.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan6.scanning.cybcube.com
 pet-soft.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
+scan-41f.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
