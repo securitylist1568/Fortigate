@@ -34,6 +34,7 @@
 48.200.175.207.bc.googleusercontent.com
 6.193.116.34.bc.googleusercontent.com
 8.225.53.179.d.dyn.claro.net.do
+80.202.79.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 ap-southeast-0.neon.li.prod.binaryedge.ninja
@@ -206,6 +207,7 @@ syd1-0.krypton.do.prod.binaryedge.ninja
 tor1-0.fluorine.do.prod.binaryedge.ninja
 tor1-1.bromine.do.prod.binaryedge.ninja
 trafo.kz
+undefined.hostname.localhost
 us-central-17.barium.li.prod.binaryedge.ninja
 us-east-11.barium.li.prod.binaryedge.ninja
 us-east-15.boron.li.prod.binaryedge.ninja
