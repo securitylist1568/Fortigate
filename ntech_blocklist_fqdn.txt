@@ -46,6 +46,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
+nyc1-40.barium.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
