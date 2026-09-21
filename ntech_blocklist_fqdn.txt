@@ -22,11 +22,13 @@
 158.154.53.34.bc.googleusercontent.com
 164.140.22.34.bc.googleusercontent.com
 165.151.52.34.bc.googleusercontent.com
+178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
 193.165.78.34.bc.googleusercontent.com
 194.239.195.35.bc.googleusercontent.com
 196.106.241.35.bc.googleusercontent.com
 205.241.76.34.bc.googleusercontent.com
+242-171-195-168.skynettelecom.net.br
 2d96f380.kbp.customer.misaka.io
 36-227-86-232.dynamic-ip.hinet.net
 37.240.140.34.bc.googleusercontent.com
