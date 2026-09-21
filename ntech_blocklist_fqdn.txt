@@ -31,6 +31,7 @@
 42.123.243.83.in-addr.arpa
 48.200.175.207.bc.googleusercontent.com
 80.202.79.34.bc.googleusercontent.com
+abts-north-dynamic-189.215.176.122.airtelbroadband.in
 aim.sba-research.org
 amz.unixwiz.net
 ap-southeast-0.neon.li.prod.binaryedge.ninja
