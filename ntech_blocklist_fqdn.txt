@@ -22,6 +22,7 @@
 158.31.232.180.dsl.inet.static.certaincyber.net
 164.140.22.34.bc.googleusercontent.com
 165.151.52.34.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
 178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
 242-171-195-168.skynettelecom.net.br
