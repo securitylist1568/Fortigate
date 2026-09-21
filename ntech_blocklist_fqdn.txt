@@ -23,6 +23,7 @@
 193.165.78.34.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 194.239.195.35.bc.googleusercontent.com
+196.106.241.35.bc.googleusercontent.com
 205.241.76.34.bc.googleusercontent.com
 31-186-217-211.static.play.pl
 80.202.79.34.bc.googleusercontent.com
