@@ -38,6 +38,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
+hosted-by.server.express
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
@@ -53,6 +54,7 @@ scan-58.security.ipip.net
 scan-61-9.shadowserver.io
 smtp1.telemach.net
 spafollow.kwai.com
+static-102-45-53-103.ebonenet.com
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
