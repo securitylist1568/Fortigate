@@ -42,6 +42,7 @@ azpdss54iave.stretchoid.com
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
 client.yota.ru
+customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dial-148-240-238-3.zone-1.ip.static-ftth.axtel.net.mx
 dns12.online.tj.cn
@@ -59,6 +60,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-58.security.ipip.net
 scan-61-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
