@@ -45,6 +45,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 nyc1-40.barium.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
+pdcscan6.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -54,6 +55,7 @@ scan-58.security.ipip.net
 scan-58a.shadowserver.io
 scan-61-9.shadowserver.io
 security.criminalip.com
+sfo2-23.barium.do.prod.binaryedge.ninja
 smtp1.telemach.net
 spafollow.kwai.com
 static-102-45-53-103.ebonenet.com
