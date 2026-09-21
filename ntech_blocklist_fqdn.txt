@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+187.62.234-12.conectatelecomto.com.br
 45-79-170-227.ip.linodeusercontent.com
 64.176.179.115.vultrusercontent.com
 95.105.71.239.dynamic.ufanet.ru
@@ -40,6 +41,7 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
 ip29.sudolio.io
+li1625-135.members.linode.com
 mfyabgec.musicpda.com
 nyc1-40.barium.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
