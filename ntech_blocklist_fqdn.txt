@@ -32,7 +32,6 @@
 33.211.203.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 48.200.175.207.bc.googleusercontent.com
-6.193.116.34.bc.googleusercontent.com
 8.225.53.179.d.dyn.claro.net.do
 80.202.79.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -175,7 +174,6 @@ nyc1-96.boron.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
 pdcscan6.scanning.cybcube.com
 pdcscan7.scanning.cybcube.com
-pet-soft.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -236,4 +234,3 @@ us-west-6.neon.li.prod.binaryedge.ninja
 us-west-62.barium.li.prod.binaryedge.ninja
 users219.vip.heteml.jp
 ve264.venus.dedi.server-hosting.expert
-vps-96f0856b.vps.ovh.net
