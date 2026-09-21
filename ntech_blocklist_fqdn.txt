@@ -20,13 +20,11 @@
 119.64.175.207.bc.googleusercontent.com
 158.154.53.34.bc.googleusercontent.com
 164.140.22.34.bc.googleusercontent.com
-180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 193.165.78.34.bc.googleusercontent.com
 194-195-253-86.ip.linodeusercontent.com
 194.239.195.35.bc.googleusercontent.com
 202.150.216.162.bc.googleusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 205.241.76.34.bc.googleusercontent.com
 31-186-217-211.static.play.pl
 33.211.203.35.bc.googleusercontent.com
@@ -170,12 +168,10 @@ nyc1-84.boron.do.prod.binaryedge.ninja
 nyc1-92.boron.do.prod.binaryedge.ninja
 nyc1-96.boron.do.prod.binaryedge.ninja
 pc112.cses.ilc.edu.tw
-pdcscan6.scanning.cybcube.com
 pdcscan7.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41f.shadowserver.io
 security.criminalip.com
 sfo2-1.tennessine.do.prod.binaryedge.ninja
 sfo2-105.boron.do.prod.binaryedge.ninja
