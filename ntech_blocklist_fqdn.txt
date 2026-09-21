@@ -35,6 +35,7 @@ client.yota.ru
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-20-222-210.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 get174.ingetitin.com
 hn.kd.ny.adsl
