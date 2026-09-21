@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 211-72-229-208.hinet-ip.hinet.net
+2d96f25f.customer.misaka.taipei
 45-79-170-227.ip.linodeusercontent.com
 95.105.71.239.dynamic.ufanet.ru
 aim.sba-research.org
