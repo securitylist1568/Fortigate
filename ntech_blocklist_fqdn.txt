@@ -18,11 +18,14 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
+185.88.14.34.bc.googleusercontent.com
 186.242.91.34.bc.googleusercontent.com
 247.112.78.34.bc.googleusercontent.com
 50-32-26-35.bng01.clsm.pa.frontiernet.net
 51.252.151.34.bc.googleusercontent.com
+61.190.140.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
 97-107-129-158.ip.linodeusercontent.com
 aim.sba-research.org
