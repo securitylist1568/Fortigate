@@ -41,6 +41,7 @@ ip-40-178.4vendeta.com
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip54.ip-51-68-254.eu
+l5-130-19-23.novotelecom.ru
 l601.scanner.modat.io
 mfyabgec.musicpda.com
 ns31417671.ip-141-94-28.eu
