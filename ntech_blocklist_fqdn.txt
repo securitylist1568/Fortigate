@@ -21,6 +21,7 @@
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 123-192-192-150.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
+186.242.91.34.bc.googleusercontent.com
 51.252.151.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 aim.sba-research.org
