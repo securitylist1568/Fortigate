@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 211-72-229-208.hinet-ip.hinet.net
