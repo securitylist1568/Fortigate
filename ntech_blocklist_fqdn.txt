@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104-168-85-25-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -26,7 +25,6 @@
 247.112.78.34.bc.googleusercontent.com
 51.252.151.34.bc.googleusercontent.com
 61.190.140.34.bc.googleusercontent.com
-6682315a.customer.misaka.joburg
 97-107-129-158.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
@@ -66,5 +64,5 @@ srv-185-169-4-151.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ujjpa6.mta.lokin.be
 users219.vip.heteml.jp
-vps-102567.cloud.firstheberg.net
+vps-9f0ddb87.vps.ovh.ca
 www.internet-albedo.net
