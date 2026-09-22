@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-179.49.233.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 51.252.151.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -40,7 +39,6 @@ ip54.ip-51-68-254.eu
 mfyabgec.musicpda.com
 ns31417671.ip-141-94-28.eu
 pc112.cses.ilc.edu.tw
-pentacon6.cust.smartspb.net
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
