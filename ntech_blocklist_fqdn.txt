@@ -22,6 +22,7 @@
 187.62.234-12.conectatelecomto.com.br
 211-72-229-208.hinet-ip.hinet.net
 2d96f25f.customer.misaka.taipei
+51.252.151.34.bc.googleusercontent.com
 95.105.71.239.dynamic.ufanet.ru
 98.126.103.210.static.krypt.com
 aim.sba-research.org
@@ -102,8 +103,12 @@ pdcscan6.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02k.shadowserver.io
 scan-05j.shadowserver.io
+scan-12f.shadowserver.io
 scan-40e.shadowserver.io
+scan-71-05.shadowserver.io
+scan-81-7.shadowserver.io
 security.criminalip.com
 sfo2-23.barium.do.prod.binaryedge.ninja
 smtp1.telemach.net
