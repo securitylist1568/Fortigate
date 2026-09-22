@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 211-72-229-208.hinet-ip.hinet.net
+247.112.78.34.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 2d96f25f.customer.misaka.taipei
 51.252.151.34.bc.googleusercontent.com
@@ -96,7 +97,9 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
 ip29.sudolio.io
 li1625-135.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
