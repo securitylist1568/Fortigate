@@ -23,6 +23,7 @@
 211-72-229-208.hinet-ip.hinet.net
 2d96f25f.customer.misaka.taipei
 95.105.71.239.dynamic.ufanet.ru
+98.126.103.210.static.krypt.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgfgcrux.stretchoid.com
@@ -88,10 +89,9 @@ b9d155e9.mow.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-20-222-210.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
-hosted-by.server.express
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
 ip29.sudolio.io
@@ -104,12 +104,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-05j.shadowserver.io
 scan-40e.shadowserver.io
-scan-55c.shadowserver.io
-scan-58a.shadowserver.io
 security.criminalip.com
 sfo2-23.barium.do.prod.binaryedge.ninja
 smtp1.telemach.net
-static-102-45-53-103.ebonenet.com
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
 unn-89-187-163-211.cdn77.com
