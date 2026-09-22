@@ -36,7 +36,9 @@ ip-40-178.4vendeta.com
 ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
+ip54.ip-51-68-254.eu
 mfyabgec.musicpda.com
+ns31417671.ip-141-94-28.eu
 pc112.cses.ilc.edu.tw
 pentacon6.cust.smartspb.net
 pinkytales.com
@@ -48,6 +50,8 @@ scan-61-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.90.129.90.157.clients.your-server.de
+static.92.129.90.157.clients.your-server.de
 users219.vip.heteml.jp
 vps-9f0ddb87.vps.ovh.ca
 www.internet-albedo.net
