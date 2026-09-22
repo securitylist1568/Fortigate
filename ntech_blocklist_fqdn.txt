@@ -118,5 +118,4 @@ scan-81-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-89-187-163-211.cdn77.com
 users219.vip.heteml.jp
