@@ -23,10 +23,9 @@
 185-45-195-15.hostsailor.com
 185.88.14.34.bc.googleusercontent.com
 218.104.76.34.bc.googleusercontent.com
-247.112.78.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
-2d834781.kunde.misaka.berlin
 50-32-26-35.bng01.clsm.pa.frontiernet.net
+51.252.151.34.bc.googleusercontent.com
 56.12.79.34.bc.googleusercontent.com
 61.190.140.34.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
@@ -40,10 +39,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1817-110.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
 pinkytales.com
