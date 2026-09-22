@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
+179.49.233.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.88.14.34.bc.googleusercontent.com
 186.242.91.34.bc.googleusercontent.com
@@ -52,6 +53,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
+pentacon6.cust.smartspb.net
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
