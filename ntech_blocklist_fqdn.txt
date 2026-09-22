@@ -18,6 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+123-192-192-150.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 51.252.151.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -36,6 +38,7 @@ ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 ip54.ip-51-68-254.eu
+l601.scanner.modat.io
 mfyabgec.musicpda.com
 ns31417671.ip-141-94-28.eu
 pc112.cses.ilc.edu.tw
