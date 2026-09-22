@@ -29,7 +29,6 @@
 6682315a.customer.misaka.joburg
 97-107-129-158.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 azpdcgbhzdz6.stretchoid.com
 azpdcgofpgq4.stretchoid.com
@@ -59,7 +58,6 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-53j.shadowserver.io
 scan-76-02.shadowserver.io
 smtp1.telemach.net
 srv-185-169-4-151.serveroffer.net
@@ -67,4 +65,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 ujjpa6.mta.lokin.be
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
-webdav.premiumize.me
+www.internet-albedo.net
