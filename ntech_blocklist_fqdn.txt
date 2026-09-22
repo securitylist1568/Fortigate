@@ -22,6 +22,7 @@
 179.49.233.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.88.14.34.bc.googleusercontent.com
+186.242.91.34.bc.googleusercontent.com
 218.104.76.34.bc.googleusercontent.com
 247.112.78.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -51,6 +52,7 @@ scan-04f.shadowserver.io
 scan-43b.shadowserver.io
 scan-53j.shadowserver.io
 smtp1.telemach.net
+srv-185-169-4-151.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
