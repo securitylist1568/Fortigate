@@ -27,6 +27,8 @@
 2d834781.kunde.misaka.berlin
 2d96f25f.customer.misaka.taipei
 51.252.151.34.bc.googleusercontent.com
+56.12.79.34.bc.googleusercontent.com
+61.190.140.34.bc.googleusercontent.com
 98.126.103.210.static.krypt.com
 aim.sba-research.org
 amz.unixwiz.net
