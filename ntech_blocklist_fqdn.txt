@@ -21,12 +21,10 @@
 179.49.233.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.88.14.34.bc.googleusercontent.com
-211-72-229-208.hinet-ip.hinet.net
 218.104.76.34.bc.googleusercontent.com
 247.112.78.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 2d834781.kunde.misaka.berlin
-2d96f25f.customer.misaka.taipei
 51.252.151.34.bc.googleusercontent.com
 56.12.79.34.bc.googleusercontent.com
 61.190.140.34.bc.googleusercontent.com
@@ -43,7 +41,6 @@ azpdcsdgjyp6.stretchoid.com
 azpdcsiipao0.stretchoid.com
 azpdcsrt5pr2.stretchoid.com
 azpdcss7hy5p.stretchoid.com
-azpdes1y0q5i.stretchoid.com
 azpdes42x1cg.stretchoid.com
 azpdes8ikyem.stretchoid.com
 azpdes8lof72.stretchoid.com
@@ -76,7 +73,6 @@ azpdsslnirr7.stretchoid.com
 azpdssnq7jz8.stretchoid.com
 azpdsspw9iwn.stretchoid.com
 azpdssqrutsh.stretchoid.com
-azpdssyke6rx.stretchoid.com
 azpdws2j5ycb.stretchoid.com
 azpdws82vz44.stretchoid.com
 azpdwscs1z96.stretchoid.com
@@ -84,7 +80,6 @@ azpdwshhe5i8.stretchoid.com
 azpdwsjfcbbh.stretchoid.com
 azpdwsk2dre7.stretchoid.com
 azpdwsldza3i.stretchoid.com
-azpdwsngfhox.stretchoid.com
 azpdwspaoo5l.stretchoid.com
 azpdwspxm27h.stretchoid.com
 azpdwssdgt1g.stretchoid.com
