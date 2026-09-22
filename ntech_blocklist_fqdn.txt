@@ -22,9 +22,6 @@
 179.49.233.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.88.14.34.bc.googleusercontent.com
-186.242.91.34.bc.googleusercontent.com
-247.112.78.34.bc.googleusercontent.com
-51.252.151.34.bc.googleusercontent.com
 61.190.140.34.bc.googleusercontent.com
 97-107-129-158.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
@@ -43,7 +40,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-20-222-210.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -56,7 +52,6 @@ pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pentacon6.cust.smartspb.net
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
@@ -64,7 +59,6 @@ scan-61-4.shadowserver.io
 scan-76-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
-srv-185-169-4-151.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 ujjpa6.mta.lokin.be
 users219.vip.heteml.jp
