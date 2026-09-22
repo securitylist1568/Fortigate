@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
-187.62.234-12.conectatelecomto.com.br
 211-72-229-208.hinet-ip.hinet.net
 247.112.78.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
@@ -96,7 +95,6 @@ hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1625-135.members.linode.com
 li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
