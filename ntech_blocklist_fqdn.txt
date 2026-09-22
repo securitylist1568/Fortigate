@@ -26,7 +26,6 @@
 2d83453c.mow.customer.misaka.io
 2d834781.kunde.misaka.berlin
 50-32-26-35.bng01.clsm.pa.frontiernet.net
-51.252.151.34.bc.googleusercontent.com
 56.12.79.34.bc.googleusercontent.com
 61.190.140.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -48,13 +47,9 @@ pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-02k.shadowserver.io
 scan-04f.shadowserver.io
-scan-12f.shadowserver.io
 scan-43b.shadowserver.io
 scan-53j.shadowserver.io
-scan-71-05.shadowserver.io
-scan-81-7.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
