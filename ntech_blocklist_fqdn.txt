@@ -23,6 +23,7 @@
 178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
 186.242.91.34.bc.googleusercontent.com
+249.97.172.144.static.cloudzy.com
 51.252.151.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 aim.sba-research.org
