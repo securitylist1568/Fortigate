@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-131.121.78.34.bc.googleusercontent.com
 135.244.140.34.bc.googleusercontent.com
 152.104.205.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
@@ -34,7 +33,6 @@ amz.unixwiz.net
 azpdcshag3zm.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
-blue-3.scan.shadowforce.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -55,14 +53,11 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reverse.anonet.in
-scan-40e.shadowserver.io
 scan-56.security.ipip.net
 scan-60.security.ipip.net
 security.criminalip.com
-sellpow.cn
 server.bslpackers.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
-user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
