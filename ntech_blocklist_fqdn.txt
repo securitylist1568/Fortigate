@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 111.136.152.27.broad.xm.fj.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
-192.210.245.35.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
@@ -173,13 +172,11 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-142.web1.bg
 ip29.sudolio.io
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan.visionheight.com
 security.criminalip.com
 sellpow.cn
 smtp1.telemach.net
