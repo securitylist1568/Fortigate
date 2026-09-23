@@ -49,6 +49,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-56.security.ipip.net
+scan.visionheight.com
 security.criminalip.com
 server.bslpackers.com
 smtp1.telemach.net
