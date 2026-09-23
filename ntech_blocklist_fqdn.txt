@@ -27,6 +27,7 @@
 186.242.91.34.bc.googleusercontent.com
 249.97.172.144.static.cloudzy.com
 60-249-14-121.hinet-ip.hinet.net
+98.126.103.210.static.krypt.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg04lmtc.stretchoid.com
@@ -102,6 +103,7 @@ crawler179.deepfield.net
 crawler227.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-176-52-128-111.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 hosted-by.privatelayer.com
