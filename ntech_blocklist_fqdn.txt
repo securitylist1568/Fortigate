@@ -25,6 +25,7 @@
 143-42-1-201.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 147.230.52.34.bc.googleusercontent.com
+152.104.205.35.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
@@ -158,6 +159,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
+scan-41f.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
