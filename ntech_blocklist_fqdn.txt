@@ -159,6 +159,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-121-91-156-70.compute.hwclouds-dns.com
+ecs-176-52-128-111.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 gainsboro-spessartine.nonamed.fyi
 hn.kd.ny.adsl
