@@ -25,6 +25,7 @@
 147.230.52.34.bc.googleusercontent.com
 152.104.205.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
+172-233-89-133.ip.linodeusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
@@ -61,11 +62,13 @@
 45-79-145-211.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
+74-50-97-90.static.hvvc.us
 83.234.189.35.bc.googleusercontent.com
 85.203.38.34.bc.googleusercontent.com
 93.176.195.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 blue-3.scan.shadowforce.io
 client.yota.ru
@@ -74,6 +77,7 @@ dns12.online.tj.cn
 ec2-100-58-113-108.compute-1.amazonaws.com
 ec2-44-203-139-246.compute-1.amazonaws.com
 ec2-54-165-219-52.compute-1.amazonaws.com
+ecs-203-123-81-109.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
