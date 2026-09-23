@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-243-69-104.dynamic-ip.hinet.net
 131.121.78.34.bc.googleusercontent.com
+147.230.52.34.bc.googleusercontent.com
 178-83-180-37.rdns.atlantic-server.com
 185-45-195-15.hostsailor.com
 186.242.91.34.bc.googleusercontent.com
@@ -106,6 +107,8 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-58-113-108.compute-1.amazonaws.com
 ec2-3-145-210-38.us-east-2.compute.amazonaws.com
+ec2-44-203-139-246.compute-1.amazonaws.com
+ec2-54-165-219-52.compute-1.amazonaws.com
 ecs-176-52-128-111.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
