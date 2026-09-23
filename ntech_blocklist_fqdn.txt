@@ -19,17 +19,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 131.121.78.34.bc.googleusercontent.com
 135.244.140.34.bc.googleusercontent.com
-152.104.205.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 2d834681.led.customer.misaka.io
-34.177.53.34.bc.googleusercontent.com
 71.157.62.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
 83.234.189.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
@@ -51,7 +48,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 reverse.anonet.in
 scan-40e.shadowserver.io
-scan-41f.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
 sellpow.cn
