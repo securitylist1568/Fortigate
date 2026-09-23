@@ -160,6 +160,7 @@ azpdwsu6rbby.stretchoid.com
 azpdwsukgou8.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler001.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-176-52-128-111.compute.hwclouds-dns.com
