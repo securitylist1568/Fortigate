@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-243-69-104.dynamic-ip.hinet.net
-131.121.78.34.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
@@ -52,7 +51,6 @@
 23-92-26-16.ip.linodeusercontent.com
 23-92-26-208.ip.linodeusercontent.com
 245.175.52.34.bc.googleusercontent.com
-249.97.172.144.static.cloudzy.com
 34.177.53.34.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -130,12 +128,10 @@ azpdss5tuonn.stretchoid.com
 azpdssc1tzee.stretchoid.com
 azpdssezm9se.stretchoid.com
 azpdssg9a83e.stretchoid.com
-azpdssnyyb3e.stretchoid.com
 azpdsstzoux5.stretchoid.com
 azpdwsjxrq1a.stretchoid.com
 azpdwsy24ook.stretchoid.com
 b2.org.afilias-nst.org
-b9ead587.zrh.customer.misaka.io
 client.yota.ru
 crawler125.deepfield.net
 crawler179.deepfield.net
