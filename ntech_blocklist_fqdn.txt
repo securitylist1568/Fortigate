@@ -159,7 +159,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-145-210-38.us-east-2.compute.amazonaws.com
 ecs-121-91-156-70.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 gainsboro-spessartine.nonamed.fyi
@@ -169,7 +168,6 @@ ip-49-142.web1.bg
 ip-58-82.superbithost.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
-m12820.contaboserver.net
 mfyabgec.musicpda.com
 nerzen.com
 no-mans-land.m247.com
@@ -181,6 +179,5 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
