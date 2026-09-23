@@ -90,6 +90,7 @@ please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
+scan-40e.shadowserver.io
 scan-41f.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
