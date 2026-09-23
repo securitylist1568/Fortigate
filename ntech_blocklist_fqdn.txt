@@ -24,6 +24,7 @@
 228.210.203.35.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
+249.97.172.144.static.cloudzy.com
 50-116-23-150.ip.linodeusercontent.com
 54.113.97.34.bc.googleusercontent.com
 aim.sba-research.org
