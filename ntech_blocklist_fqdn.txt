@@ -23,7 +23,6 @@
 172-232-32-15.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-191.106.156.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
 34.177.53.34.bc.googleusercontent.com
 74-50-97-90.static.hvvc.us
@@ -51,10 +50,10 @@ recyber.net
 reverse.anonet.in
 scan-40e.shadowserver.io
 scan-41f.shadowserver.io
+scan-60.security.ipip.net
 security.criminalip.com
 sellpow.cn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-210-83.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
