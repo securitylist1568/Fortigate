@@ -22,8 +22,7 @@
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 191.106.156.34.bc.googleusercontent.com
-2d834681.led.customer.misaka.io
-71.157.62.34.bc.googleusercontent.com
+192.210.245.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcshag3zm.stretchoid.com
@@ -34,6 +33,7 @@ dns12.online.tj.cn
 ec2-3-145-210-38.us-east-2.compute.amazonaws.com
 ecs-121-91-156-70.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
+gainsboro-spessartine.nonamed.fyi
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-82.superbithost.com
@@ -51,7 +51,6 @@ recyber.net
 scan-56.security.ipip.net
 scan.visionheight.com
 security.criminalip.com
-server.bslpackers.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-138-199-53-212.datapacket.com
