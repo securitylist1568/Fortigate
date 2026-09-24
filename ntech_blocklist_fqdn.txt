@@ -29,9 +29,9 @@
 236.210.203.35.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 249.97.172.144.static.cloudzy.com
+40.237.156.34.bc.googleusercontent.com
 45.254.241.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
-54.113.97.34.bc.googleusercontent.com
 60.241.156.34.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
@@ -60,7 +60,6 @@ s4850.vps.hosting
 scan-71-09.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
-sellpow.cn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.185-165-44-168.rackgenius.com
