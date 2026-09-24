@@ -32,6 +32,7 @@
 236.210.203.35.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 249.97.172.144.static.cloudzy.com
+27.98.195.35.bc.googleusercontent.com
 40.237.156.34.bc.googleusercontent.com
 45.254.241.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
