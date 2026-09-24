@@ -26,6 +26,7 @@
 172.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 222.210.203.35.bc.googleusercontent.com
+224.153.172.83.static.edisglobal.com
 40.210.203.35.bc.googleusercontent.com
 45-56-103-228.ip.linodeusercontent.com
 54.113.97.34.bc.googleusercontent.com
