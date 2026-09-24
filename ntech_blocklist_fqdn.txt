@@ -30,7 +30,9 @@
 222.210.203.35.bc.googleusercontent.com
 224.244.76.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
+45-56-103-228.ip.linodeusercontent.com
 54.113.97.34.bc.googleusercontent.com
+65.150.216.162.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 8.211.203.35.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
@@ -198,6 +200,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 security.criminalip.com
 server.bslpackers.com
 server1.chicago.lewandowski.com
