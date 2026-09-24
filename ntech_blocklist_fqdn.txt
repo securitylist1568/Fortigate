@@ -19,10 +19,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-36-235-212.dynamic-ip.hinet.net
-124.211.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
-146.19.213.222.broad.dy.sc.dynamic.163data.com.cn
 161.210.203.35.bc.googleusercontent.com
 180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -176,7 +174,6 @@ azpdwscr9prv.stretchoid.com
 azpdwscs1z96.stretchoid.com
 azpdwsd7a5bb.stretchoid.com
 azpdwsed6ogj.stretchoid.com
-azpdwsfxw0qy.stretchoid.com
 azpdwsn2n9x1.stretchoid.com
 azpdwsngfhox.stretchoid.com
 azpdwspc5gz4.stretchoid.com
@@ -200,11 +197,10 @@ lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rgwbhyp.cn
 security.criminalip.com
+server.bslpackers.com
 server1.chicago.lewandowski.com
 server19740.maxko-hosting.net
 smtp1.telemach.net
