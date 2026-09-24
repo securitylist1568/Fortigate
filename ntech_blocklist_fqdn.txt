@@ -23,9 +23,9 @@
 18.98.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.7.205.35.bc.googleusercontent.com
-203.210.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
+219.52.62.34.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 23.149.216.162.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
@@ -49,7 +49,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-218-90-220.compute-1.amazonaws.com
 ec2-54-160-214-80.compute-1.amazonaws.com
-ecs-176-52-128-111.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -61,6 +60,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
+scan-41f.shadowserver.io
 scan-71-09.shadowserver.io
 scan-80-9.shadowserver.io
 security.criminalip.com
