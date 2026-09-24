@@ -20,6 +20,7 @@
 125-227-127-85.hinet-ip.hinet.net
 129.150.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
+18.98.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.7.205.35.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
@@ -42,6 +43,7 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler001.deepfield.net
+d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-13-218-90-220.compute-1.amazonaws.com
