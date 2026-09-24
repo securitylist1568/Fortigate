@@ -21,6 +21,7 @@
 129.150.216.162.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.7.205.35.bc.googleusercontent.com
 203.210.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
@@ -28,8 +29,10 @@
 236.210.203.35.bc.googleusercontent.com
 241.211.203.35.bc.googleusercontent.com
 249.97.172.144.static.cloudzy.com
+45.254.241.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 54.113.97.34.bc.googleusercontent.com
+60.241.156.34.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 90.150.216.162.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
@@ -40,6 +43,8 @@ client.yota.ru
 crawler001.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-13-218-90-220.compute-1.amazonaws.com
+ec2-54-160-214-80.compute-1.amazonaws.com
 ecs-176-52-128-111.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
