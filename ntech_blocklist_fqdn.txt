@@ -189,6 +189,7 @@ client.yota.ru
 correlated.woolandfabric.com
 dal215.hawkhost.com
 dns12.online.tj.cn
+easmscan06-us.xdr.trendmicro.com
 ecs-110-238-79-180.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
