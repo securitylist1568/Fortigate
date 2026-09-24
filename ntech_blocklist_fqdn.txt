@@ -32,11 +32,10 @@
 224.244.76.34.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
 27.98.195.35.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 40.210.203.35.bc.googleusercontent.com
 40.237.156.34.bc.googleusercontent.com
-44.149.216.162.bc.googleusercontent.com
 54.113.97.34.bc.googleusercontent.com
+70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 8.211.203.35.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
@@ -204,8 +203,6 @@ recyber.net
 security.criminalip.com
 server.bslpackers.com
 server1.chicago.lewandowski.com
-server19740.maxko-hosting.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-xs6qxa.cn
