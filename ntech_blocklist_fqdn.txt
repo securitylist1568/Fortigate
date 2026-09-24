@@ -23,6 +23,7 @@
 146.19.213.222.broad.dy.sc.dynamic.163data.com.cn
 161.210.203.35.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
+180.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 20.149.216.162.bc.googleusercontent.com
@@ -38,6 +39,7 @@
 54.149.216.162.bc.googleusercontent.com
 79.211.203.35.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
+97.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdwsfxw0qy.stretchoid.com
@@ -45,6 +47,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-110-238-79-180.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
