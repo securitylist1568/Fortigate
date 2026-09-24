@@ -18,12 +18,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125-227-127-85.hinet-ip.hinet.net
+142.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 203.210.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 233.150.216.162.bc.googleusercontent.com
 236.210.203.35.bc.googleusercontent.com
+241.211.203.35.bc.googleusercontent.com
 249.97.172.144.static.cloudzy.com
 50-116-23-150.ip.linodeusercontent.com
 54.113.97.34.bc.googleusercontent.com
@@ -53,5 +55,6 @@ security.criminalip.com
 sellpow.cn
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.185-165-44-168.rackgenius.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
