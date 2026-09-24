@@ -27,8 +27,10 @@
 173-255-238-141.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 197.149.216.162.bc.googleusercontent.com
+200.210.203.35.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 2d0b6ab5.ams.customer.misaka.io
+42.149.216.162.bc.googleusercontent.com
 45-56-103-228.ip.linodeusercontent.com
 54.113.97.34.bc.googleusercontent.com
 65.150.216.162.bc.googleusercontent.com
