@@ -23,8 +23,7 @@
 134.150.216.162.bc.googleusercontent.com
 159.211.203.35.bc.googleusercontent.com
 168.149.216.162.bc.googleusercontent.com
-170.210.203.35.bc.googleusercontent.com
-176.65.148.38.ptr.pfcloud.network
+176.65.148.6.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
 192.248.179.181.vultrusercontent.com
@@ -210,7 +209,6 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-15k.shadowserver.io
 scan-61-4.shadowserver.io
 scan-76-03.shadowserver.io
 scan-78-08.shadowserver.io
