@@ -21,6 +21,7 @@
 130.211.203.35.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 166.149.216.162.bc.googleusercontent.com
+176.65.148.38.ptr.pfcloud.network
 176.65.148.6.ptr.pfcloud.network
 180-177-36-110.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
