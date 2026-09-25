@@ -196,6 +196,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+holden1227.startdedicated.com
 hostingdunyam.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-178.4vendeta.com
@@ -203,6 +204,7 @@ ip230.ip-5-196-33.eu
 ip29.sudolio.io
 ip31-70-77-230.pbiaas.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
