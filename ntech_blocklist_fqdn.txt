@@ -25,6 +25,7 @@
 176.149.216.162.bc.googleusercontent.com
 180-177-36-110.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
+192-210-243-12-host.colocrossing.com
 200.210.203.35.bc.googleusercontent.com
 220-135-48-116.hinet-ip.hinet.net
 247.149.216.162.bc.googleusercontent.com
