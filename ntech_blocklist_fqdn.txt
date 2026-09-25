@@ -23,6 +23,7 @@
 166.149.216.162.bc.googleusercontent.com
 173-255-238-141.ip.linodeusercontent.com
 176.149.216.162.bc.googleusercontent.com
+180-177-36-110.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 200.210.203.35.bc.googleusercontent.com
 220-135-48-116.hinet-ip.hinet.net
@@ -79,4 +80,5 @@ scan-63-8.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 users219.vip.heteml.jp
