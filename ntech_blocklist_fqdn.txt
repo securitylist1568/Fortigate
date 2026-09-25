@@ -197,6 +197,7 @@ ecs-203-123-81-109.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 holden1227.startdedicated.com
+hosted-by.survivor.com.tr
 hostedby.privatelayer.com
 hostingdunyam.net
 htb-h9b8tjwfph.htb-cloud.com
