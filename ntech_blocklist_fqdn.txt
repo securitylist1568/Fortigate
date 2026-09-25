@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
+136.60.53.179.d.dyn.claro.net.do
 156.150.216.162.bc.googleusercontent.com
 172-104-225-190.ip.linodeusercontent.com
 176.65.148.38.ptr.pfcloud.network
