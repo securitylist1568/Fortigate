@@ -31,6 +31,7 @@
 20.210.203.35.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
 64.176.169.93.vultrusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg7mhn98.stretchoid.com
 azpdcgeu2ju8.stretchoid.com
@@ -199,6 +200,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-15k.shadowserver.io
 scan-76-03.shadowserver.io
 scan-78-08.shadowserver.io
