@@ -25,11 +25,8 @@
 185-45-195-15.hostsailor.com
 192-210-243-12-host.colocrossing.com
 209.150.216.162.bc.googleusercontent.com
-220-135-48-116.hinet-ip.hinet.net
 247.149.216.162.bc.googleusercontent.com
 28.149.216.162.bc.googleusercontent.com
-45-79-132-238.ip.linodeusercontent.com
-45.210.203.35.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 94.149.216.162.bc.googleusercontent.com
 95.121.118.34.bc.googleusercontent.com
@@ -73,12 +70,10 @@ pinkytales.com
 please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-41f.shadowserver.io
 scan-43h.shadowserver.io
 scan-63-2.shadowserver.io
 scan-63-8.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
