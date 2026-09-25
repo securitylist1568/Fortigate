@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-113.106.94.125.broad.sz.gd.dynamic.163data.com.cn
 136.60.53.179.d.dyn.claro.net.do
 156.150.216.162.bc.googleusercontent.com
 172-104-225-190.ip.linodeusercontent.com
@@ -25,7 +24,7 @@
 194.210.203.35.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
-220.218.158.34.bc.googleusercontent.com
+250.210.203.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 92-215-96-66.myrepublic.com.sg
 97.211.203.35.bc.googleusercontent.com
@@ -83,11 +82,9 @@ ecs-213-250-139-40.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host.myhomemadesimple.com
-hosted-by.survivor.com.tr
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
-linda.probe.onyphe.net
 mail.smbcbc.ml
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
@@ -97,7 +94,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rapid-echo-nzrotnxm.expresshost.cloud
 recyber.net
-rgwbhyp.cn
 rootevidence.com
 security.criminalip.com
 sellpow.cn
