@@ -26,6 +26,7 @@
 215.149.216.162.bc.googleusercontent.com
 220.218.158.34.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
+92-215-96-66.myrepublic.com.sg
 97.211.203.35.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
@@ -41,6 +42,7 @@ hosted-by.survivor.com.tr
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip54.ip-135-148-29.us
 linda.probe.onyphe.net
 mail.smbcbc.ml
 mfyabgec.musicpda.com
