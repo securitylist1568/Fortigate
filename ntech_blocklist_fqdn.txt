@@ -25,10 +25,8 @@
 168.149.216.162.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 176.65.148.38.ptr.pfcloud.network
-176.65.148.6.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.248.179.181.vultrusercontent.com
-20.210.203.35.bc.googleusercontent.com
 245.211.203.35.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 64.176.169.93.vultrusercontent.com
@@ -193,9 +191,11 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+hostingdunyam.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-178.4vendeta.com
 ip29.sudolio.io
+ip31-70-77-230.pbiaas.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -204,6 +204,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-15k.shadowserver.io
+scan-61-4.shadowserver.io
 scan-76-03.shadowserver.io
 scan-78-08.shadowserver.io
 security.criminalip.com
