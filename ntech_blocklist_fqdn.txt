@@ -27,6 +27,7 @@
 209.150.216.162.bc.googleusercontent.com
 220-135-48-116.hinet-ip.hinet.net
 247.149.216.162.bc.googleusercontent.com
+28.149.216.162.bc.googleusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 45.210.203.35.bc.googleusercontent.com
 94.149.216.162.bc.googleusercontent.com
@@ -42,6 +43,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 ec2-13-218-153-179.compute-1.amazonaws.com
 ec2-18-206-157-75.compute-1.amazonaws.com
 ec2-18-206-211-59.compute-1.amazonaws.com
