@@ -23,6 +23,7 @@
 158.210.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192.141.194.80.ligfibra.net.br
 195.149.59.34.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 225.211.203.35.bc.googleusercontent.com
