@@ -29,6 +29,7 @@
 229.149.216.162.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
+2d96f380.kbp.customer.misaka.io
 45-79-175-9.ip.linodeusercontent.com
 46.211.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
@@ -55,6 +56,7 @@ hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+lmontsouris-656-1-110-88.w193-252.abo.wanadoo.fr
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 no-mans-land.m247.com
