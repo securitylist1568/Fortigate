@@ -60,6 +60,7 @@
 23-92-26-65.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 248.211.203.35.bc.googleusercontent.com
+25.211.203.35.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -156,6 +157,7 @@ recyber.net
 rootevidence.com
 scan-43h.shadowserver.io
 scan-47k.shadowserver.io
+scan-53j.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
