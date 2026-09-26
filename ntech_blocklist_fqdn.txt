@@ -29,6 +29,7 @@
 215.210.203.35.bc.googleusercontent.com
 224.150.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
+7.210.203.35.bc.googleusercontent.com
 92-215-96-66.myrepublic.com.sg
 amz.unixwiz.net
 azpdcg7venj0.stretchoid.com
@@ -80,6 +81,13 @@ crawler235.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 easmscan03-us.xdr.trendmicro.com
+ec2-107-21-135-85.compute-1.amazonaws.com
+ec2-18-205-245-90.compute-1.amazonaws.com
+ec2-52-207-215-86.compute-1.amazonaws.com
+ec2-54-208-198-178.compute-1.amazonaws.com
+ec2-54-235-238-14.compute-1.amazonaws.com
+ec2-54-235-52-37.compute-1.amazonaws.com
+ec2-98-80-120-159.compute-1.amazonaws.com
 ecs-213-250-139-40.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
