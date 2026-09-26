@@ -20,7 +20,9 @@
 121.210.203.35.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
 170.111.97.34.bc.googleusercontent.com
+176.65.148.180.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+203-74-130-205.hinet-ip.hinet.net
 209.149.216.162.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
@@ -28,6 +30,7 @@
 239.104.172.144.static.cloudzy.com
 251.150.216.162.bc.googleusercontent.com
 45.77.153.170.vultrusercontent.com
+49.58.112.45.mipl.com
 50-116-57-165.ip.linodeusercontent.com
 63.210.203.35.bc.googleusercontent.com
 69-164-214-194.ip.linodeusercontent.com
