@@ -79,6 +79,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+easmscan03-us.xdr.trendmicro.com
 ecs-213-250-139-40.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
