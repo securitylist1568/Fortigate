@@ -27,16 +27,14 @@
 194.210.203.35.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
-239.104.172.144.static.cloudzy.com
+225.211.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 45-79-175-9.ip.linodeusercontent.com
-45.77.153.170.vultrusercontent.com
 46.211.203.35.bc.googleusercontent.com
 49.58.112.45.mipl.com
-50-116-57-165.ip.linodeusercontent.com
 60.150.216.162.bc.googleusercontent.com
-69-164-214-194.ip.linodeusercontent.com
+8.210.203.35.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
 95.211.203.35.bc.googleusercontent.com
 97-107-129-158.ip.linodeusercontent.com
@@ -49,6 +47,7 @@ dns12.online.tj.cn
 ecs-80-238-200-108.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 gitati.info
+h3071390.stratoserver.net
 hn.kd.ny.adsl
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
@@ -64,8 +63,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-10g.shadowserver.io
-scan-55c.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
