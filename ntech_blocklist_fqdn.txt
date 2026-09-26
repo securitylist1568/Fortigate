@@ -26,9 +26,12 @@
 209.210.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
+45.77.153.170.vultrusercontent.com
+50-116-57-165.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
 61-228-160-13.dynamic-ip.hinet.net
 63.210.203.35.bc.googleusercontent.com
+69-164-214-194.ip.linodeusercontent.com
 78.211.203.35.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -69,7 +72,10 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
+scan-10g.shadowserver.io
 scan-14l.shadowserver.io
+scan-55c.shadowserver.io
 scan-60-10.shadowserver.io
 scan-61-4.shadowserver.io
 scan-76-03.shadowserver.io
