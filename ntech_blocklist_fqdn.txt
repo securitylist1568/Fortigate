@@ -23,6 +23,7 @@
 156.150.216.162.bc.googleusercontent.com
 170.111.97.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.62.234-12.conectatelecomto.com.br
 194.210.203.35.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 215.149.216.162.bc.googleusercontent.com
@@ -96,6 +97,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-43h.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
