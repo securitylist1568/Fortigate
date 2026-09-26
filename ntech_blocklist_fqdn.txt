@@ -94,6 +94,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rapid-echo-nzrotnxm.expresshost.cloud
 recyber.net
+scan-43h.shadowserver.io
 security.criminalip.com
 sellpow.cn
 smtp1.telemach.net
