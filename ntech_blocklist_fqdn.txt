@@ -20,14 +20,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-71-115-148.emome-ip.hinet.net
-170.111.97.34.bc.googleusercontent.com
 176.65.148.180.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 194.210.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 209.210.203.35.bc.googleusercontent.com
-212.149.216.162.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 251.150.216.162.bc.googleusercontent.com
@@ -63,11 +61,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-10g.shadowserver.io
-scan-14l.shadowserver.io
 scan-55c.shadowserver.io
-scan-60-10.shadowserver.io
-scan-76-03.shadowserver.io
-scan-88-6.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
