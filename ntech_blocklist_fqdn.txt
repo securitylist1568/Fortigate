@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 132.150.216.162.bc.googleusercontent.com
+135149.ntpu.edu.tw
 144.210.203.35.bc.googleusercontent.com
 152.179.156.34.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
@@ -52,7 +53,6 @@
 198-74-58-213.ip.linodeusercontent.com
 205.149.216.162.bc.googleusercontent.com
 215.210.203.35.bc.googleusercontent.com
-224.150.216.162.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
@@ -70,6 +70,7 @@
 45-79-145-211.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 51.211.203.35.bc.googleusercontent.com
+61-228-160-13.dynamic-ip.hinet.net
 7.210.203.35.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -209,7 +210,6 @@ crawler235.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 doha.scan.bufferover.run
-easmscan03-us.xdr.trendmicro.com
 ec2-107-21-135-85.compute-1.amazonaws.com
 ec2-13-218-56-216.compute-1.amazonaws.com
 ec2-18-205-245-90.compute-1.amazonaws.com
@@ -229,7 +229,27 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
+o025.scanner.modat.io
+o027.scanner.modat.io
+o056.scanner.modat.io
+o057.scanner.modat.io
+o058.scanner.modat.io
+o059.scanner.modat.io
+o063.scanner.modat.io
+o064.scanner.modat.io
+o067.scanner.modat.io
+o073.scanner.modat.io
+o074.scanner.modat.io
+o309.scanner.modat.io
+o310.scanner.modat.io
+o316.scanner.modat.io
+o337.scanner.modat.io
+o339.scanner.modat.io
+o343.scanner.modat.io
+o344.scanner.modat.io
+o350.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -238,7 +258,6 @@ r4004.sin.opendns.com
 r4005.sin.opendns.com
 recyber.net
 rootevidence.com
-scan-43h.shadowserver.io
 scan-47k.shadowserver.io
 scan-53j.shadowserver.io
 security.criminalip.com
