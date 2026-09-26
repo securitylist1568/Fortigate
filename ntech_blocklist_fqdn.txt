@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-100.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,7 +22,6 @@
 144.210.203.35.bc.googleusercontent.com
 152.179.156.34.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
-170.111.97.34.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-225.ip.linodeusercontent.com
@@ -44,7 +42,6 @@
 173-255-249-14.ip.linodeusercontent.com
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187.62.234-12.conectatelecomto.com.br
 192-155-81-124.ip.linodeusercontent.com
 192-81-132-226.ip.linodeusercontent.com
 198-74-58-157.ip.linodeusercontent.com
@@ -52,7 +49,6 @@
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 205.149.216.162.bc.googleusercontent.com
-215.210.203.35.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
@@ -206,7 +202,6 @@ azpdwsuy391q.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
-crawler235.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 doha.scan.bufferover.run
@@ -257,7 +252,6 @@ r4002.sin.opendns.com
 r4004.sin.opendns.com
 r4005.sin.opendns.com
 recyber.net
-rootevidence.com
 scan-47k.shadowserver.io
 scan-53j.shadowserver.io
 scan-61-4.shadowserver.io
