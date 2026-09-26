@@ -33,6 +33,7 @@
 2d96f25f.customer.misaka.taipei
 45-79-175-9.ip.linodeusercontent.com
 46.211.203.35.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 60.150.216.162.bc.googleusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 8.210.203.35.bc.googleusercontent.com
