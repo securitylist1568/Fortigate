@@ -26,6 +26,7 @@
 212.149.216.162.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
+251.150.216.162.bc.googleusercontent.com
 45.77.153.170.vultrusercontent.com
 50-116-57-165.ip.linodeusercontent.com
 63.210.203.35.bc.googleusercontent.com
@@ -62,5 +63,6 @@ scan-76-03.shadowserver.io
 scan-88-6.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 unn-149-88-106-148.datapacket.com
 users219.vip.heteml.jp
