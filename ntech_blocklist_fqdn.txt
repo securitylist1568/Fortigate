@@ -26,6 +26,7 @@
 179.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 209.149.216.162.bc.googleusercontent.com
+212.149.216.162.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 51.211.203.35.bc.googleusercontent.com
 61-228-160-13.dynamic-ip.hinet.net
