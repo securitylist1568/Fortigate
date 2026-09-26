@@ -20,7 +20,6 @@
 113.149.216.162.bc.googleusercontent.com
 136.60.53.179.d.dyn.claro.net.do
 156.150.216.162.bc.googleusercontent.com
-172-104-225-190.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194.210.203.35.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
@@ -82,11 +81,9 @@ dns12.online.tj.cn
 ecs-213-250-139-40.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host.myhomemadesimple.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
-mail.smbcbc.ml
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
 o069.scanner.modat.io
@@ -95,7 +92,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 rapid-echo-nzrotnxm.expresshost.cloud
 recyber.net
-rootevidence.com
 security.criminalip.com
 sellpow.cn
 smtp1.telemach.net
