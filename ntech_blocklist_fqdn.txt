@@ -27,6 +27,7 @@
 203-74-130-205.hinet-ip.hinet.net
 239.104.172.144.static.cloudzy.com
 251.150.216.162.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 45-79-175-9.ip.linodeusercontent.com
 45.77.153.170.vultrusercontent.com
 46.211.203.35.bc.googleusercontent.com
