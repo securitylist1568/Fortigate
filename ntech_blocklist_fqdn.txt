@@ -20,10 +20,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-71-115-148.emome-ip.hinet.net
+143.150.216.162.bc.googleusercontent.com
 176.65.148.180.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 194.210.203.35.bc.googleusercontent.com
+197.211.203.35.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 239.104.172.144.static.cloudzy.com
 251.150.216.162.bc.googleusercontent.com
