@@ -38,6 +38,7 @@
 69-164-214-194.ip.linodeusercontent.com
 78.211.203.35.bc.googleusercontent.com
 84.210.203.35.bc.googleusercontent.com
+95.211.203.35.bc.googleusercontent.com
 97-107-129-158.ip.linodeusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -48,6 +49,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 gitati.info
 hn.kd.ny.adsl
+hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
