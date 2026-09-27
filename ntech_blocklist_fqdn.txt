@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 187.62.234-12.conectatelecomto.com.br
+192.141.194.80.ligfibra.net.br
 199.193.20.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 45-79-147-176.ip.linodeusercontent.com
