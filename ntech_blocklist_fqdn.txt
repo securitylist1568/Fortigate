@@ -26,6 +26,7 @@
 187.62.234-12.conectatelecomto.com.br
 192.141.194.80.ligfibra.net.br
 199.193.20.34.bc.googleusercontent.com
+248.149.216.162.bc.googleusercontent.com
 45-79-147-176.ip.linodeusercontent.com
 5.210.203.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
@@ -42,7 +43,10 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 easmscan04-us.xdr.trendmicro.com
+ec2-18-234-140-213.compute-1.amazonaws.com
 ec2-18-234-77-126.compute-1.amazonaws.com
+ec2-3-88-203-46.compute-1.amazonaws.com
+ec2-3-95-56-199.compute-1.amazonaws.com
 ec2-44-201-107-251.compute-1.amazonaws.com
 ec2-44-220-145-170.compute-1.amazonaws.com
 ec2-54-165-219-52.compute-1.amazonaws.com
