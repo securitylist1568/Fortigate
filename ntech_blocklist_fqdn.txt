@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 103-112-0-32.oneqode.net
+11.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -21,7 +22,6 @@
 131.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
-192.141.194.80.ligfibra.net.br
 195.149.59.34.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 91.147.130.34.bc.googleusercontent.com
@@ -226,7 +226,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 tarbes65.com
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
 virginia.probe.onyphe.net
