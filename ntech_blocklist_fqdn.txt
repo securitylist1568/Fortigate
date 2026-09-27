@@ -22,6 +22,7 @@
 135.148.38.185.baremetal.zare.com
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+187.62.234-12.conectatelecomto.com.br
 194-195-253-86.ip.linodeusercontent.com
 195.149.59.34.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
