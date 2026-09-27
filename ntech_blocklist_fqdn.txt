@@ -22,7 +22,6 @@
 122.62.65.185.in-addr.arpa
 123.210.203.35.bc.googleusercontent.com
 126.150.216.162.bc.googleusercontent.com
-154.150.216.162.bc.googleusercontent.com
 157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
@@ -53,14 +52,10 @@ mfyabgec.musicpda.com
 o025.scanner.modat.io
 o055.scanner.modat.io
 o064.scanner.modat.io
-o071.scanner.modat.io
 o316.scanner.modat.io
 o337.scanner.modat.io
 o338.scanner.modat.io
-o341.scanner.modat.io
 o342.scanner.modat.io
-o343.scanner.modat.io
-o346.scanner.modat.io
 o348.scanner.modat.io
 o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -68,8 +63,6 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-09n.shadowserver.io
-scan-52k.shadowserver.io
 scan-75-05.shadowserver.io
 scan-76-02.shadowserver.io
 security.criminalip.com
