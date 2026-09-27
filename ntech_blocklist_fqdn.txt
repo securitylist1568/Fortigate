@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 131.211.203.35.bc.googleusercontent.com
-144.92.74.97.host.secureserver.net
 154.150.216.162.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
@@ -204,10 +203,8 @@ ec2-44-212-15-65.compute-1.amazonaws.com
 ec2-52-87-218-9.compute-1.amazonaws.com
 ec2-52-91-97-115.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
-feus3.cn
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-59-182.4vendeta.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
@@ -223,15 +220,10 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-09n.shadowserver.io
-scan-10g.shadowserver.io
-scan-15k.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-52k.shadowserver.io
 scan-58.security.ipip.net
-scan-61-9.shadowserver.io
-scan-75-05.shadowserver.io
-scan-76-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
