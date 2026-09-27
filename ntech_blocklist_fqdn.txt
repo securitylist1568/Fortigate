@@ -20,13 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 131.211.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
-158.210.203.35.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.141.194.80.ligfibra.net.br
-195.149.59.34.bc.googleusercontent.com
-2d96f380.kbp.customer.misaka.io
-66.149.216.162.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 91.147.130.34.bc.googleusercontent.com
 aim.sba-research.org
@@ -56,7 +51,6 @@ ip-59-182.4vendeta.com
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 li1817-110.members.linode.com
-lmontsouris-656-1-110-88.w193-252.abo.wanadoo.fr
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
