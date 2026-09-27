@@ -22,6 +22,7 @@
 144.92.74.97.host.secureserver.net
 185-45-195-15.hostsailor.com
 192.141.194.80.ligfibra.net.br
+195.149.59.34.bc.googleusercontent.com
 68.210.203.35.bc.googleusercontent.com
 91.147.130.34.bc.googleusercontent.com
 aim.sba-research.org
