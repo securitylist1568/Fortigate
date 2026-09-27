@@ -26,6 +26,7 @@
 157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
+195.149.59.34.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
