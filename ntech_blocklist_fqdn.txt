@@ -33,6 +33,7 @@
 41.210.203.35.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 66-228-35-246.ip.linodeusercontent.com
+85.198.15.206.asiatech.cloud
 96.211.203.35.bc.googleusercontent.com
 98.126.103.210.static.krypt.com
 aim.sba-research.org
