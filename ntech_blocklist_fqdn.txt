@@ -209,6 +209,7 @@ o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 platra-mos262.cust.smartspb.net
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
