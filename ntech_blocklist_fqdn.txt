@@ -26,8 +26,11 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
+199.149.216.162.bc.googleusercontent.com
 234.150.216.162.bc.googleusercontent.com
+253.149.216.162.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 66-228-35-246.ip.linodeusercontent.com
 72.150.216.162.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
