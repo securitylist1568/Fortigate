@@ -220,9 +220,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-09n.shadowserver.io
-scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-52k.shadowserver.io
+scan-75-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
