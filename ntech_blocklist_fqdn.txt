@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.62.65.185.in-addr.arpa
 123.210.203.35.bc.googleusercontent.com
+126.150.216.162.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
 157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
