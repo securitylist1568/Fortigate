@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+122.62.65.185.in-addr.arpa
 123.210.203.35.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
 157.100.172.144.static.cloudzy.com
@@ -197,6 +198,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
+o055.scanner.modat.io
 o064.scanner.modat.io
 o071.scanner.modat.io
 o337.scanner.modat.io
