@@ -78,6 +78,7 @@ scan-76-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+tarbes65.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
