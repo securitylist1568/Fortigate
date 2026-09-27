@@ -25,9 +25,11 @@
 157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
+194-195-253-86.ip.linodeusercontent.com
 195.149.59.34.bc.googleusercontent.com
 199.149.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
+23.149.216.162.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
 253.149.216.162.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
@@ -49,6 +51,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o025.scanner.modat.io
 o055.scanner.modat.io
 o064.scanner.modat.io
