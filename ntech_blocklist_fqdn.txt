@@ -30,6 +30,7 @@
 228.72.77.34.bc.googleusercontent.com
 233.195.241.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
+245.150.216.162.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 65.248.195.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
@@ -160,6 +161,7 @@ radamelfalcao.xyz
 recyber.net
 rootevidence.com
 scan-05j.shadowserver.io
+scan-40e.shadowserver.io
 scan-41f.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
