@@ -29,6 +29,7 @@
 202-155-132-99.nevacloud.net
 208.167.233.17.vultrusercontent.com
 210.18.195.35.bc.googleusercontent.com
+216.154.205.35.bc.googleusercontent.com
 233.195.241.35.bc.googleusercontent.com
 45-79-167-47.ip.linodeusercontent.com
 66-175-214-112.ip.linodeusercontent.com
