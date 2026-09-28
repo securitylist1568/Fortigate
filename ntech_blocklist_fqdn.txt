@@ -23,6 +23,7 @@
 154.166.77.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.149.216.162.bc.googleusercontent.com
+202-155-132-99.nevacloud.net
 210.18.195.35.bc.googleusercontent.com
 216.154.205.35.bc.googleusercontent.com
 220.65.77.34.bc.googleusercontent.com
@@ -128,6 +129,7 @@ azpdwsqu4fs0.stretchoid.com
 azpdwsreeom9.stretchoid.com
 azpdwssd92ox.stretchoid.com
 azpdwstwqh0v.stretchoid.com
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
 client.yota.ru
@@ -173,6 +175,7 @@ scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-69-05.shadowserver.io
 scan-71-05.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
