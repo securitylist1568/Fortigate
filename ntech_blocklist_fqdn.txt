@@ -153,6 +153,7 @@ ec2-54-165-219-52.compute-1.amazonaws.com
 ec2-54-167-95-180.compute-1.amazonaws.com
 ec2-54-204-76-69.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
+hkhdc.laws.ms
 hn.kd.ny.adsl
 hooksandheels.net
 htb-h9b8tjwfph.htb-cloud.com
