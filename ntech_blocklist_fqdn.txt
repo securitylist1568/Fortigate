@@ -163,5 +163,6 @@ scan-40e.shadowserver.io
 scan-41f.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 trafo.kz
 users219.vip.heteml.jp
