@@ -33,6 +33,7 @@
 245.150.216.162.bc.googleusercontent.com
 65.248.195.35.bc.googleusercontent.com
 93.75.155.104.bc.googleusercontent.com
+aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg5ffd5l.stretchoid.com
@@ -162,12 +163,14 @@ proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
 rootevidence.com
+scan-04f.shadowserver.io
 scan-05j.shadowserver.io
 scan-14l.shadowserver.io
 scan-40e.shadowserver.io
 scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
+scan-52k.shadowserver.io
 scan-69-05.shadowserver.io
 scan-71-05.shadowserver.io
 security.criminalip.com
