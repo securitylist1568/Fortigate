@@ -42,6 +42,7 @@ ip-40-86.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o025.scanner.modat.io
+o056.scanner.modat.io
 o057.scanner.modat.io
 o069.scanner.modat.io
 pc112.cses.ilc.edu.tw
