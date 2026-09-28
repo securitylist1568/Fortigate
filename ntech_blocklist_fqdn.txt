@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.55.93.34.bc.googleusercontent.com
+123.200.82.34.bc.googleusercontent.com
 135149.ntpu.edu.tw
 139-162-155-243.ip.linodeusercontent.com
 154.166.77.34.bc.googleusercontent.com
