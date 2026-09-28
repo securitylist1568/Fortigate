@@ -20,11 +20,14 @@
 114.182.195.35.bc.googleusercontent.com
 123.200.82.34.bc.googleusercontent.com
 143.150.216.162.bc.googleusercontent.com
+151.125.155.104.bc.googleusercontent.com
 172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 186.150.216.162.bc.googleusercontent.com
 191.149.216.162.bc.googleusercontent.com
 192.141.194.80.ligfibra.net.br
+210.18.195.35.bc.googleusercontent.com
+216.154.205.35.bc.googleusercontent.com
 220.65.77.34.bc.googleusercontent.com
 228.72.77.34.bc.googleusercontent.com
 233.195.241.35.bc.googleusercontent.com
@@ -33,6 +36,7 @@
 45-79-147-176.ip.linodeusercontent.com
 65.248.195.35.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
+93.75.155.104.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcgg20sio.stretchoid.com
