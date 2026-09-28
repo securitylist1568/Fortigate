@@ -25,9 +25,6 @@ amz.unixwiz.net
 azpdws8v6lxl.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler037.deepfield.net
-crawler060.deepfield.net
-crawler215.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 encontraafreebet.betclic.pt
@@ -40,7 +37,6 @@ ip-58-162.4vendeta.com
 ip29.sudolio.io
 l607.scanner.modat.io
 mfyabgec.musicpda.com
-o025.scanner.modat.io
 o056.scanner.modat.io
 o057.scanner.modat.io
 o059.scanner.modat.io
