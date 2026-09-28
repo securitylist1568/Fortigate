@@ -136,6 +136,7 @@ centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-215-152-242.compute-1.amazonaws.com
 ec2-18-234-140-213.compute-1.amazonaws.com
 ec2-18-234-77-126.compute-1.amazonaws.com
 ec2-3-88-203-46.compute-1.amazonaws.com
