@@ -22,6 +22,7 @@
 135149.ntpu.edu.tw
 139-162-155-243.ip.linodeusercontent.com
 154.166.77.34.bc.googleusercontent.com
+157.100.172.144.static.cloudzy.com
 176.65.148.180.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 202-155-132-99.nevacloud.net
