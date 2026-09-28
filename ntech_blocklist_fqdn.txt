@@ -30,7 +30,6 @@ crawler060.deepfield.net
 crawler215.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-easmscan06-us.xdr.trendmicro.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 ho.probe.onyphe.net
@@ -44,7 +43,6 @@ o056.scanner.modat.io
 o057.scanner.modat.io
 o059.scanner.modat.io
 o067.scanner.modat.io
-o069.scanner.modat.io
 o346.scanner.modat.io
 o347.scanner.modat.io
 o350.scanner.modat.io
