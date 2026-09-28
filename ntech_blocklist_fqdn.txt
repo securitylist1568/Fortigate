@@ -20,11 +20,18 @@
 111-240-93-35.dynamic-ip.hinet.net
 116.55.93.34.bc.googleusercontent.com
 135149.ntpu.edu.tw
+139-162-155-243.ip.linodeusercontent.com
 154.166.77.34.bc.googleusercontent.com
 176.65.148.180.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 202-155-132-99.nevacloud.net
+208.167.233.17.vultrusercontent.com
+210.18.195.35.bc.googleusercontent.com
+233.195.241.35.bc.googleusercontent.com
 245.150.216.162.bc.googleusercontent.com
+45-79-167-47.ip.linodeusercontent.com
+66-175-214-112.ip.linodeusercontent.com
+66-175-214-69.ip.linodeusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -154,6 +161,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-04f.shadowserver.io
 scan-14l.shadowserver.io
 scan-40e.shadowserver.io
