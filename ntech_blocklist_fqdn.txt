@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+106.105.229.135.adsl.dynamic.seed.net.tw
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -22,7 +23,6 @@
 151.125.155.104.bc.googleusercontent.com
 154.166.77.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-191.149.216.162.bc.googleusercontent.com
 202-155-132-99.nevacloud.net
 210.18.195.35.bc.googleusercontent.com
 216.154.205.35.bc.googleusercontent.com
@@ -130,6 +130,7 @@ azpdwssd92ox.stretchoid.com
 azpdwstwqh0v.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
+b9ead587.zrh.customer.misaka.io
 centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
@@ -150,11 +151,11 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-248-209-212-173.static.contabo.net
 ip29.sudolio.io
+ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
 o315.scanner.modat.io
 o325.scanner.modat.io
 pc112.cses.ilc.edu.tw
-pdcscan6.scanning.cybcube.com
 pdcscan9.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
