@@ -20,7 +20,6 @@
 116.55.93.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-60-249-14-121.hinet-ip.hinet.net
 aim.sba-research.org
 amz.unixwiz.net
 azpdws8v6lxl.stretchoid.com
@@ -43,7 +42,10 @@ mfyabgec.musicpda.com
 o025.scanner.modat.io
 o056.scanner.modat.io
 o057.scanner.modat.io
+o059.scanner.modat.io
+o067.scanner.modat.io
 o069.scanner.modat.io
+o346.scanner.modat.io
 o347.scanner.modat.io
 o350.scanner.modat.io
 o352.scanner.modat.io
@@ -52,11 +54,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
-srv2016415.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 static.bb.ill.59.92.103.198.bsnl.in
 users219.vip.heteml.jp
