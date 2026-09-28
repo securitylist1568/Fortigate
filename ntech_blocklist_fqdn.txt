@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.182.195.35.bc.googleusercontent.com
 116.55.93.34.bc.googleusercontent.com
+135149.ntpu.edu.tw
 151.125.155.104.bc.googleusercontent.com
 154.166.77.34.bc.googleusercontent.com
 176.65.148.180.ptr.pfcloud.network
