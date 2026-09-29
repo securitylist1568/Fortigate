@@ -134,6 +134,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-162.4vendeta.com
 ip29.sudolio.io
+l607.scanner.modat.io
 mfyabgec.musicpda.com
 o059.scanner.modat.io
 o067.scanner.modat.io
@@ -147,6 +148,7 @@ recyber.net
 rootevidence.com
 scan-40e.shadowserver.io
 scan-60.security.ipip.net
+scan-68-08.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
