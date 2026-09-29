@@ -28,6 +28,7 @@
 60-248-249-213.hinet-ip.hinet.net
 61-63-30-host11.kbtelecom.net.tw
 64.177.45.233.vultrusercontent.com
+75.44.228.35.bc.googleusercontent.com
 89-89-216-188.abo.bbox.fr
 89-93-57-26.hfc.dyn.abo.bbox.fr
 aim.sba-research.org
@@ -46,6 +47,7 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan7.scanning.cybcube.com
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
