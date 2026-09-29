@@ -41,7 +41,6 @@
 173-255-223-89.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 173-255-249-14.ip.linodeusercontent.com
-176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 189.202.38.34.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
