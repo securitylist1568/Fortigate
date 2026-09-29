@@ -55,6 +55,7 @@
 23-92-26-28.ip.linodeusercontent.com
 23-92-26-65.ip.linodeusercontent.com
 239.105.205.35.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
