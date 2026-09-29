@@ -21,6 +21,7 @@
 172-232-32-15.ip.linodeusercontent.com
 176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+36-226-169-123.dynamic-ip.hinet.net
 aim.sba-research.org
 amz.unixwiz.net
 azpdes085iiu.stretchoid.com
@@ -154,3 +155,4 @@ static.bb.ill.59.92.103.198.bsnl.in
 test.hoangdieuvps.pro
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
+vps-725a1ced.vps.ovh.net
