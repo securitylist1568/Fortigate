@@ -22,11 +22,9 @@
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 241.65.156.34.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 50-116-23-150.ip.linodeusercontent.com
 53.151.53.34.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
-60-248-249-213.hinet-ip.hinet.net
 75.44.228.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -84,6 +82,5 @@ static.ftth.slm.117.200.74.152.bsnl.in
 unn-207-211-210-83.datapacket.com
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
-vps-102567.cloud.firstheberg.net
 vps-725a1ced.vps.ovh.net
 www.internet-albedo.net
