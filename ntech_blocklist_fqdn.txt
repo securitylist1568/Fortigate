@@ -51,6 +51,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-56.security.ipip.net
+scan-61-7.shadowserver.io
+scan-63-2.shadowserver.io
 scan-76-02.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
