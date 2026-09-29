@@ -47,6 +47,7 @@
 192-155-81-124.ip.linodeusercontent.com
 192-81-132-226.ip.linodeusercontent.com
 198-134-107-73.rev.unlimitednet.us
+209.62.79.34.bc.googleusercontent.com
 228.153.53.34.bc.googleusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
@@ -188,6 +189,7 @@ mfyabgec.musicpda.com
 panorama44a.cosmonova.net.ua
 pc112.cses.ilc.edu.tw
 pdcscan6.scanning.cybcube.com
+pdcscan7.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
