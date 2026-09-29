@@ -57,7 +57,6 @@
 23-92-26-65.ip.linodeusercontent.com
 239.105.205.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
-36-226-169-123.dynamic-ip.hinet.net
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
@@ -70,12 +69,10 @@
 64.177.45.233.vultrusercontent.com
 89-89-216-188.abo.bbox.fr
 89-93-57-26.hfc.dyn.abo.bbox.fr
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 cohogs.usienspire.com
-crawler196.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-54-204-71-163.compute-1.amazonaws.com
@@ -96,16 +93,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-40e.shadowserver.io
 scan-43b.shadowserver.io
 scan-68-08.shadowserver.io
 scan-76-02.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
-test.hoangdieuvps.pro
-user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
-vps-725a1ced.vps.ovh.net
