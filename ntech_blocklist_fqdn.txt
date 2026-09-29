@@ -23,6 +23,7 @@
 209.62.79.34.bc.googleusercontent.com
 228.153.53.34.bc.googleusercontent.com
 239.105.205.35.bc.googleusercontent.com
+241.65.156.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 53.151.53.34.bc.googleusercontent.com
 60-248-249-213.hinet-ip.hinet.net
@@ -55,6 +56,7 @@ scan-56.security.ipip.net
 scan-76-02.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
 vps-725a1ced.vps.ovh.net
