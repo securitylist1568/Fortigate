@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125-227-237-177.hinet-ip.hinet.net
+157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 241.65.156.34.bc.googleusercontent.com
