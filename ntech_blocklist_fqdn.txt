@@ -20,6 +20,7 @@
 113-11-100-108.broadband.smile.com.bd
 176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+198-134-107-73.rev.unlimitednet.us
 2d834681.led.customer.misaka.io
 36-226-169-123.dynamic-ip.hinet.net
 aim.sba-research.org
@@ -136,16 +137,10 @@ ip-58-162.4vendeta.com
 ip29.sudolio.io
 l607.scanner.modat.io
 mfyabgec.musicpda.com
-o059.scanner.modat.io
-o067.scanner.modat.io
-o346.scanner.modat.io
-o347.scanner.modat.io
-o350.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-40e.shadowserver.io
 scan-60.security.ipip.net
 scan-68-08.shadowserver.io
