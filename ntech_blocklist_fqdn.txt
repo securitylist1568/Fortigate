@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113-11-100-108.broadband.smile.com.bd
+114-40-210-5.dynamic-ip.hinet.net
 176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 189.202.38.34.bc.googleusercontent.com
