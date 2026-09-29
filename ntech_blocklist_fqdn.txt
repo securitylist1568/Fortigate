@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 125-227-237-177.hinet-ip.hinet.net
 157.100.172.144.static.cloudzy.com
+163-172-205-45.rev.poneytelecom.eu
 172-104-128-74.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 50-116-23-150.ip.linodeusercontent.com
