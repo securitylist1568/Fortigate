@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 163-172-205-45.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
+189.8.131.34.bc.googleusercontent.com
 195x91x217x34.static-business.msk.ertelecom.ru
 242-171-195-168.skynettelecom.net.br
 58.230.11.45.us.kuroit.com
