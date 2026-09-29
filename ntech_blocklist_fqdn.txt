@@ -73,8 +73,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-15k.shadowserver.io
-scan-61-7.shadowserver.io
-scan-63-2.shadowserver.io
 scan-74-07.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
@@ -82,4 +80,3 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.ftth.slm.117.200.74.152.bsnl.in
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-www.internet-albedo.net
