@@ -26,7 +26,6 @@
 41.198.53.34.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
 75.44.228.35.bc.googleusercontent.com
-89-89-216-188.abo.bbox.fr
 9.67.187.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aa27e193.mci.customer.misaka.io
@@ -40,6 +39,7 @@ ec2-3-147-71-55.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ien11-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 ip29.sudolio.io
 ip31-70-64-154.pbiaas.com
 ip31-70-97-8.pbiaas.com
