@@ -43,6 +43,7 @@ ip29.sudolio.io
 ip31-70-64-154.pbiaas.com
 ip31-70-97-8.pbiaas.com
 ip54.ip-135-148-29.us
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 n304.scanner.modat.io
 node-oo9.pool-101-108.dynamic.nt-isp.net
@@ -52,7 +53,6 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40e.shadowserver.io
 scan-61-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
