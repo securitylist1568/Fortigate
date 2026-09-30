@@ -44,14 +44,11 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-o057.scanner.modat.io
-o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40e.shadowserver.io
-scan-41f.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
