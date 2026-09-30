@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+135.210.203.35.bc.googleusercontent.com
 157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
 212.156-180-91.adsl-dyn.isp.belgacom.be
@@ -62,6 +63,7 @@ ien11-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 ip-56-214.4vendeta.com
 ip29.sudolio.io
 ip85.ip-5-135-106.eu
+lfbn-tou-1-269-198.w86-206.abo.wanadoo.fr
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 n304.scanner.modat.io
