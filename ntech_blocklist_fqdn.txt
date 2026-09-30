@@ -25,7 +25,6 @@
 203.121.148.146.bc.googleusercontent.com
 41.198.53.34.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
-75.44.228.35.bc.googleusercontent.com
 89-93-57-26.hfc.dyn.abo.bbox.fr
 9.67.187.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
@@ -47,6 +46,7 @@ ip54.ip-135-148-29.us
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 n304.scanner.modat.io
+ns3207149.ip-198-244-200.eu
 o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
