@@ -26,11 +26,11 @@
 203.121.148.146.bc.googleusercontent.com
 41.198.53.34.bc.googleusercontent.com
 42.79.140.34.bc.googleusercontent.com
-58.230.11.45.us.kuroit.com
 697058.myvds.top
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 89-93-57-26.hfc.dyn.abo.bbox.fr
 9.67.187.35.bc.googleusercontent.com
+aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -43,10 +43,8 @@ hn.kd.ny.adsl
 host-123-252-110-42.static.kbtelecom.net.tw
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1537-121.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-o026.scanner.modat.io
 o057.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -54,7 +52,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
