@@ -27,6 +27,7 @@
 89-92-61-109.hfc.dyn.abo.bbox.fr
 89-93-57-26.hfc.dyn.abo.bbox.fr
 aa27e38f.sea.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 azpdes1tk9ac.stretchoid.com
 azpdes1yrrla.stretchoid.com
@@ -52,6 +53,7 @@ azpdesyyx8lp.stretchoid.com
 b2.org.afilias-nst.org
 cas75-8-88-190-52-159.fbxo.proxad.net
 client.yota.ru
+correlated.woolandfabric.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
