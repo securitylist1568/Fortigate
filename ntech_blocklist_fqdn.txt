@@ -53,6 +53,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-61-4.shadowserver.io
 scan-61-9.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
