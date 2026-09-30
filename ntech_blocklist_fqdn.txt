@@ -21,6 +21,8 @@
 189.8.131.34.bc.googleusercontent.com
 192.248.179.181.vultrusercontent.com
 203.121.148.146.bc.googleusercontent.com
+89-92-189-253.hfc.dyn.abo.bbox.fr
+89-92-61-109.hfc.dyn.abo.bbox.fr
 89-93-57-26.hfc.dyn.abo.bbox.fr
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
@@ -47,6 +49,7 @@ azpdesxita1i.stretchoid.com
 azpdesxlde7c.stretchoid.com
 azpdesyyx8lp.stretchoid.com
 b2.org.afilias-nst.org
+cas75-8-88-190-52-159.fbxo.proxad.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
