@@ -28,6 +28,7 @@
 89-92-189-253.hfc.dyn.abo.bbox.fr
 89-92-61-109.hfc.dyn.abo.bbox.fr
 89-93-57-26.hfc.dyn.abo.bbox.fr
+91-167-244-71.subs.proxad.net
 94.153.88.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -97,6 +98,7 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-84-17-46-77.cdn77.com
 users219.vip.heteml.jp
 v133-18-162-43.vir.kagoya.net
+vmi3417250.contaboserver.net
 vmi3418591.contaboserver.net
 vps15738240.hosteons.net
 zhangyuan3.virtuaserver.com.br
