@@ -65,6 +65,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
+host-123-252-110-42.static.kbtelecom.net.tw
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
