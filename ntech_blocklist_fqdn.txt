@@ -27,6 +27,7 @@
 88-183-115-243.subs.proxad.net
 89-92-189-253.hfc.dyn.abo.bbox.fr
 89-92-61-109.hfc.dyn.abo.bbox.fr
+94.153.88.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -84,12 +85,10 @@ ip85.ip-5-135-106.eu
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
-o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-61-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
