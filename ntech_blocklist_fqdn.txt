@@ -20,6 +20,7 @@
 135.210.203.35.bc.googleusercontent.com
 157.100.172.144.static.cloudzy.com
 185-45-195-15.hostsailor.com
+204.76.203.195.ptr.pfcloud.network
 212.156-180-91.adsl-dyn.isp.belgacom.be
 23-94-68-162-host.colocrossing.com
 31-10-146-67.cgn.dynamic.upc.ch
