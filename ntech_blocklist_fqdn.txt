@@ -73,7 +73,9 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 o026.scanner.modat.io
+o057.scanner.modat.io
 o316.scanner.modat.io
+o346.scanner.modat.io
 o353.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
