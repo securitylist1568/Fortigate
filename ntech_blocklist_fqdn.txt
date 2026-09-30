@@ -24,9 +24,11 @@
 212.156-180-91.adsl-dyn.isp.belgacom.be
 23-94-68-162-host.colocrossing.com
 31-10-146-67.cgn.dynamic.upc.ch
+58.230.11.45.us.kuroit.com
 88-183-115-243.subs.proxad.net
 89-92-189-253.hfc.dyn.abo.bbox.fr
 89-92-61-109.hfc.dyn.abo.bbox.fr
+89-93-57-26.hfc.dyn.abo.bbox.fr
 94.153.88.34.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
@@ -85,6 +87,7 @@ ip85.ip-5-135-106.eu
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
+o353.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
