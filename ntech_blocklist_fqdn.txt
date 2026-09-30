@@ -35,6 +35,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+easmscan02-us.xdr.trendmicro.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-123-252-110-42.static.kbtelecom.net.tw
@@ -44,7 +45,6 @@ li1537-121.members.linode.com
 mfyabgec.musicpda.com
 o026.scanner.modat.io
 o057.scanner.modat.io
-o316.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
