@@ -27,6 +27,7 @@
 42.79.140.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 9.67.187.35.bc.googleusercontent.com
+aa27e193.mci.customer.misaka.io
 aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
