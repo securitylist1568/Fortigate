@@ -40,7 +40,6 @@ easmscan02-us.xdr.trendmicro.com
 ec2-3-147-71-55.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-123-252-110-42.static.kbtelecom.net.tw
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
