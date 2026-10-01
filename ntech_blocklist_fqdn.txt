@@ -22,20 +22,15 @@
 179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.187.62.34.bc.googleusercontent.com
-203.15.76.34.bc.googleusercontent.com
-204.211.203.35.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 241.178.195.35.bc.googleusercontent.com
-241.73.156.34.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
 250.163.76.34.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 3.210.203.35.bc.googleusercontent.com
-43.150.216.162.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
-67.220.22.34.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
@@ -52,7 +47,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 luckypotential.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
 o061.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -63,7 +57,6 @@ recyber.net
 scan-41f.shadowserver.io
 scan-77-02.shadowserver.io
 scan-84-0.shadowserver.io
-scan-85-3.shadowserver.io
 scan-87-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
