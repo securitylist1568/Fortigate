@@ -28,12 +28,14 @@
 185-45-195-15.hostsailor.com
 191.210.203.35.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
+204.76.203.195.ptr.pfcloud.network
 239.150.216.162.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 32.150.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
 60.210.203.35.bc.googleusercontent.com
+66.150.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
@@ -58,6 +60,7 @@ azpdesydaqo3.stretchoid.com
 azpdesz71jsk.stretchoid.com
 azpdeszas040.stretchoid.com
 b2.org.afilias-nst.org
+b9d155e9.mow.customer.misaka.io
 client.yota.ru
 crawler074.deepfield.net
 crawler116.deepfield.net
