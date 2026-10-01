@@ -54,7 +54,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 luckypotential.com
 mfyabgec.musicpda.com
-null-91.134.45.bcn.ifog.es
 o061.scanner.modat.io
 o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
