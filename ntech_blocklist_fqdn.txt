@@ -32,6 +32,7 @@
 191.210.203.35.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
+242.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
