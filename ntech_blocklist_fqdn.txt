@@ -43,6 +43,7 @@
 63.149.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
+79.150.216.162.bc.googleusercontent.com
 88-183-115-243.subs.proxad.net
 89-93-57-26.hfc.dyn.abo.bbox.fr
 aim.sba-research.org
@@ -85,6 +86,7 @@ mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns3207149.ip-198-244-200.eu
+o068.scanner.modat.io
 o315.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
