@@ -27,11 +27,12 @@
 204.76.203.195.ptr.pfcloud.network
 23.209.255.172.hosted.by.hostdzire.com
 241.178.195.35.bc.googleusercontent.com
+241.73.156.34.bc.googleusercontent.com
+250.163.76.34.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 46.150.216.162.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
-91-167-244-71.subs.proxad.net
 91.116.85.136.bc.googleusercontent.com
 99.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -69,7 +70,5 @@ static.199.85.8.144.hostname.com
 stogie.cigarasylum.com
 ujjpa6.mta.lokin.be
 uk.bosmere.com
-unn-84-17-46-77.cdn77.com
 users219.vip.heteml.jp
-vmi3417250.contaboserver.net
 www.internet-albedo.net
