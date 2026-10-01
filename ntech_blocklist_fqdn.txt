@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-119.211.203.35.bc.googleusercontent.com
 145.13.14.34.bc.googleusercontent.com
 146.101.187.34.bc.googleusercontent.com
 147.150.216.162.bc.googleusercontent.com
@@ -31,15 +30,11 @@
 185-45-195-15.hostsailor.com
 191.210.203.35.bc.googleusercontent.com
 194.149.216.162.bc.googleusercontent.com
-203.15.76.34.bc.googleusercontent.com
-224.153.172.83.static.edisglobal.com
 229.150.216.162.bc.googleusercontent.com
-241.73.156.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
-67.220.22.34.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
 88-183-115-243.subs.proxad.net
