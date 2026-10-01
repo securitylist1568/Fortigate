@@ -20,6 +20,7 @@
 135.210.203.35.bc.googleusercontent.com
 170.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+194.187.62.34.bc.googleusercontent.com
 202.150.216.162.bc.googleusercontent.com
 204.76.203.195.ptr.pfcloud.network
 23.209.255.172.hosted.by.hostdzire.com
@@ -37,11 +38,14 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-34-203-202-222.compute-1.amazonaws.com
+ec2-44-201-163-116.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
 ip29.sudolio.io
+kub002.idyschool.de.com
 lfbn-tou-1-269-198.w86-206.abo.wanadoo.fr
 mfyabgec.musicpda.com
 n304.scanner.modat.io
