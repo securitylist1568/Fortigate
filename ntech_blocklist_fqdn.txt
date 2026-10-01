@@ -31,6 +31,7 @@
 3.210.203.35.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
+67.220.22.34.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
