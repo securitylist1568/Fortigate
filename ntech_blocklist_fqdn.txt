@@ -19,10 +19,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 135.150.216.162.bc.googleusercontent.com
-143.150.216.162.bc.googleusercontent.com
 181.211.190.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194.187.62.34.bc.googleusercontent.com
 203.15.76.34.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
@@ -43,16 +41,10 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-86-101-5.compute-1.amazonaws.com
-ec2-34-203-202-222.compute-1.amazonaws.com
-ec2-34-203-242-177.compute-1.amazonaws.com
-ec2-44-201-163-116.compute-1.amazonaws.com
-ec2-54-226-74-194.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-kub002.idyschool.de.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 null-91.134.45.bcn.ifog.es
@@ -66,6 +58,5 @@ scan-85-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
