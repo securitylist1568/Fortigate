@@ -20,6 +20,7 @@
 119.211.203.35.bc.googleusercontent.com
 145.13.14.34.bc.googleusercontent.com
 146.101.187.34.bc.googleusercontent.com
+147.150.216.162.bc.googleusercontent.com
 175-96-61-48.static.tfn.net.tw
 175-96-61-49.static.tfn.net.tw
 175-96-61-50.static.tfn.net.tw
