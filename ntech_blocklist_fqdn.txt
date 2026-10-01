@@ -71,6 +71,7 @@ crawler116.deepfield.net
 crawler133.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 gcchristensen.us
 hn.kd.ny.adsl
