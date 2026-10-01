@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 127.149.216.162.bc.googleusercontent.com
-145.13.14.34.bc.googleusercontent.com
 146.101.187.34.bc.googleusercontent.com
 147.150.216.162.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
@@ -39,7 +38,7 @@
 2d96f25f.customer.misaka.taipei
 31.150.216.162.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
-57.210.203.35.bc.googleusercontent.com
+39968751.grabercloud.com
 60.210.203.35.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
 74.210.203.35.bc.googleusercontent.com
@@ -85,7 +84,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns3207149.ip-198-244-200.eu
 o315.scanner.modat.io
-o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
