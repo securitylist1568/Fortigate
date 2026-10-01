@@ -22,6 +22,7 @@
 202.150.216.162.bc.googleusercontent.com
 204.76.203.195.ptr.pfcloud.network
 23-94-68-162-host.colocrossing.com
+23.209.255.172.hosted.by.hostdzire.com
 252.149.216.162.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
@@ -70,6 +71,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
