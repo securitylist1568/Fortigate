@@ -30,6 +30,7 @@
 248.149.216.162.bc.googleusercontent.com
 250.163.76.34.bc.googleusercontent.com
 253.150.216.162.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 43.150.216.162.bc.googleusercontent.com
 46.150.216.162.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
