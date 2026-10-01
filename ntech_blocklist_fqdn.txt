@@ -32,6 +32,7 @@
 204.76.203.195.ptr.pfcloud.network
 239.150.216.162.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
+254.149.216.162.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
 39968751.grabercloud.com
