@@ -34,6 +34,7 @@
 253.150.216.162.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 3.210.203.35.bc.googleusercontent.com
+57.210.203.35.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 67.220.22.34.bc.googleusercontent.com
@@ -55,6 +56,7 @@ luckypotential.com
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
 o061.scanner.modat.io
+o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
