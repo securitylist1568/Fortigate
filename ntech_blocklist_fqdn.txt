@@ -64,6 +64,7 @@ scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.199.85.8.144.hostname.com
 stogie.cigarasylum.com
 ujjpa6.mta.lokin.be
 uk.bosmere.com
