@@ -22,14 +22,10 @@
 185-45-195-15.hostsailor.com
 202.150.216.162.bc.googleusercontent.com
 204.76.203.195.ptr.pfcloud.network
-212.156-180-91.adsl-dyn.isp.belgacom.be
 23-94-68-162-host.colocrossing.com
-31-10-146-67.cgn.dynamic.upc.ch
 41.210.203.35.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
 88-183-115-243.subs.proxad.net
-89-92-189-253.hfc.dyn.abo.bbox.fr
-89-92-61-109.hfc.dyn.abo.bbox.fr
 89-93-57-26.hfc.dyn.abo.bbox.fr
 91-167-244-71.subs.proxad.net
 91.116.85.136.bc.googleusercontent.com
@@ -53,7 +49,6 @@ azpdesuc9dc4.stretchoid.com
 azpdesv21xbl.stretchoid.com
 azpdesy53gu7.stretchoid.com
 b2.org.afilias-nst.org
-cas75-8-88-190-52-159.fbxo.proxad.net
 client.yota.ru
 correlated.woolandfabric.com
 dal215.hawkhost.com
@@ -79,7 +74,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 stogie.cigarasylum.com
 ujjpa6.mta.lokin.be
@@ -90,4 +84,3 @@ v133-18-162-43.vir.kagoya.net
 vmi3417250.contaboserver.net
 vmi3418591.contaboserver.net
 vps15738240.hosteons.net
-zhangyuan3.virtuaserver.com.br
