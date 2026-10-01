@@ -24,6 +24,7 @@
 194.187.62.34.bc.googleusercontent.com
 203.15.76.34.bc.googleusercontent.com
 204.211.203.35.bc.googleusercontent.com
+214.210.203.35.bc.googleusercontent.com
 241.178.195.35.bc.googleusercontent.com
 241.73.156.34.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 43.150.216.162.bc.googleusercontent.com
 46.150.216.162.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
+63.150.216.162.bc.googleusercontent.com
 67.220.22.34.bc.googleusercontent.com
 92.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
