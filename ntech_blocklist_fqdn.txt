@@ -26,6 +26,7 @@
 175-96-61-52.static.tfn.net.tw
 179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+191.210.203.35.bc.googleusercontent.com
 194.187.62.34.bc.googleusercontent.com
 203.15.76.34.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
@@ -44,6 +45,7 @@
 74.210.203.35.bc.googleusercontent.com
 89-93-57-26.hfc.dyn.abo.bbox.fr
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdes9b6qfx.stretchoid.com
 azpdesbxficf.stretchoid.com
@@ -64,6 +66,9 @@ azpdesz71jsk.stretchoid.com
 azpdeszas040.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler074.deepfield.net
+crawler116.deepfield.net
+crawler133.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-148-191-74.us-east-2.compute.amazonaws.com
