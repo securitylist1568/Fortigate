@@ -21,12 +21,18 @@
 119.211.203.35.bc.googleusercontent.com
 135.150.216.162.bc.googleusercontent.com
 145.13.14.34.bc.googleusercontent.com
+175-96-61-48.static.tfn.net.tw
+175-96-61-49.static.tfn.net.tw
+175-96-61-50.static.tfn.net.tw
+175-96-61-51.static.tfn.net.tw
+175-96-61-52.static.tfn.net.tw
 179.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194.187.62.34.bc.googleusercontent.com
 203.15.76.34.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
+229.150.216.162.bc.googleusercontent.com
 241.178.195.35.bc.googleusercontent.com
 241.73.156.34.bc.googleusercontent.com
 248.149.216.162.bc.googleusercontent.com
@@ -37,6 +43,7 @@
 31.150.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
 58.121.175.207.bc.googleusercontent.com
+63.149.216.162.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 67.220.22.34.bc.googleusercontent.com
 89-93-57-26.hfc.dyn.abo.bbox.fr
