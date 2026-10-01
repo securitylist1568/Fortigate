@@ -23,8 +23,6 @@
 123-192-192-150.dynamic.kbronet.com.tw
 123.211.203.35.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
-146.101.187.34.bc.googleusercontent.com
-147.150.216.162.bc.googleusercontent.com
 157.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
@@ -35,6 +33,7 @@
 239.150.216.162.bc.googleusercontent.com
 242.150.216.162.bc.googleusercontent.com
 32.150.216.162.bc.googleusercontent.com
+33.211.203.35.bc.googleusercontent.com
 39968751.grabercloud.com
 56.150.216.162.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
@@ -66,7 +65,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
-smtp.energy-vg.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
