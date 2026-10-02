@@ -20,6 +20,7 @@
 115.149.216.162.bc.googleusercontent.com
 123-192-192-150.dynamic.kbronet.com.tw
 123.211.203.35.bc.googleusercontent.com
+124.165.16.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
