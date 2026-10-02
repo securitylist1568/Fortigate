@@ -66,6 +66,7 @@
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 248.158.62.34.bc.googleusercontent.com
+2d96f380.kbp.customer.misaka.io
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
