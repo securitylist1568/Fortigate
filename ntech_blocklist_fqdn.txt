@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 217.210.203.35.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
+80.24.167.104.dataforest.net
 aim.sba-research.org
 amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
