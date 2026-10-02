@@ -89,6 +89,7 @@ crawler027.deepfield.net
 crawler169.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-212-155-29.compute-1.amazonaws.com
 ec2-204-236-215-121.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
