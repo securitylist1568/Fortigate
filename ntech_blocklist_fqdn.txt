@@ -20,6 +20,7 @@
 123-192-192-150.dynamic.kbronet.com.tw
 123.211.203.35.bc.googleusercontent.com
 124.165.16.34.bc.googleusercontent.com
+134.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 139.84.162.169.vultrusercontent.com
 143-42-1-44.ip.linodeusercontent.com
@@ -44,6 +45,7 @@
 182.63.211.130.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.210.203.35.bc.googleusercontent.com
+189.149.216.162.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 192-81-132-226.ip.linodeusercontent.com
 198-74-58-111.ip.linodeusercontent.com
@@ -51,6 +53,7 @@
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
+203-74-130-205.hinet-ip.hinet.net
 220-135-48-116.hinet-ip.hinet.net
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-16.ip.linodeusercontent.com
