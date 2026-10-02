@@ -20,9 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.252.53.34.bc.googleusercontent.com
 122.150.216.162.bc.googleusercontent.com
-128.250.195.35.bc.googleusercontent.com
-130.38.78.34.bc.googleusercontent.com
-134.204.156.34.bc.googleusercontent.com
 146.101.187.34.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
@@ -33,16 +30,12 @@
 185-45-195-15.hostsailor.com
 190.149.216.162.bc.googleusercontent.com
 204.76.203.168.ptr.pfcloud.network
-204.76.203.195.ptr.pfcloud.network
 214.150.216.162.bc.googleusercontent.com
-219.210.203.35.bc.googleusercontent.com
 220-135-48-116.hinet-ip.hinet.net
-224.149.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 56.210.203.35.bc.googleusercontent.com
 78.55.233.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
-81.150.216.162.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -62,7 +55,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o335.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
