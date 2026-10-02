@@ -21,6 +21,7 @@
 123.211.203.35.bc.googleusercontent.com
 124.165.16.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
+159.150.216.162.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.168.ptr.pfcloud.network
@@ -33,6 +34,7 @@
 56.150.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 66.150.216.162.bc.googleusercontent.com
+78.55.233.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdes2e7z4j.stretchoid.com
