@@ -88,6 +88,7 @@ babylon.scan.bufferover.run
 client.yota.ru
 crawler027.deepfield.net
 crawler064.deepfield.net
+crawler140.deepfield.net
 crawler169.deepfield.net
 crawler226.deepfield.net
 dal215.hawkhost.com
@@ -107,5 +108,6 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.213-239-220-113.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
