@@ -25,7 +25,6 @@
 134.204.156.34.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
-139.84.162.169.vultrusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 159.150.216.162.bc.googleusercontent.com
@@ -59,7 +58,6 @@
 204.76.203.195.ptr.pfcloud.network
 214.150.216.162.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
-220-135-48-116.hinet-ip.hinet.net
 224.149.216.162.bc.googleusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-16.ip.linodeusercontent.com
@@ -68,8 +66,6 @@
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 248.158.62.34.bc.googleusercontent.com
-28.210.203.35.bc.googleusercontent.com
-42.149.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -110,4 +106,5 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 users219.vip.heteml.jp
