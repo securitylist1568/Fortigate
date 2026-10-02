@@ -27,6 +27,7 @@
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+146.101.187.34.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 172-234-199-134.ip.linodeusercontent.com
@@ -89,6 +90,7 @@ babylon.scan.bufferover.run
 client.yota.ru
 crawler027.deepfield.net
 crawler064.deepfield.net
+crawler132.deepfield.net
 crawler140.deepfield.net
 crawler169.deepfield.net
 crawler226.deepfield.net
