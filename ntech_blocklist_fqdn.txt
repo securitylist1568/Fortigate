@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-101.210.203.35.bc.googleusercontent.com
 11.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -23,11 +22,9 @@
 123-192-192-150.dynamic.kbronet.com.tw
 123.211.203.35.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
-157.210.203.35.bc.googleusercontent.com
 161.210.203.35.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194.149.216.162.bc.googleusercontent.com
 204.76.203.168.ptr.pfcloud.network
 204.76.203.195.ptr.pfcloud.network
 239.150.216.162.bc.googleusercontent.com
@@ -57,7 +54,6 @@ ip31-70-64-154.pbiaas.com
 ip31-70-97-8.pbiaas.com
 li1817-110.members.linode.com
 li1873-236.members.linode.com
-mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
 o068.scanner.modat.io
@@ -67,7 +63,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vps-5aca836b.vps.ovh.net
