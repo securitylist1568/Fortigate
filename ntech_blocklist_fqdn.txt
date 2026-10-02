@@ -51,8 +51,6 @@
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-204.76.203.168.ptr.pfcloud.network
-204.76.203.195.ptr.pfcloud.network
 220-135-48-116.hinet-ip.hinet.net
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-16.ip.linodeusercontent.com
@@ -75,15 +73,12 @@
 45-79-145-254.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 56.150.216.162.bc.googleusercontent.com
-65.210.203.35.bc.googleusercontent.com
-66.150.216.162.bc.googleusercontent.com
 78.55.233.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdes2e7z4j.stretchoid.com
 azpdeskvnllh.stretchoid.com
 b2.org.afilias-nst.org
-b9d155e9.mow.customer.misaka.io
 babylon.scan.bufferover.run
 client.yota.ru
 crawler027.deepfield.net
@@ -95,7 +90,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip31-70-97-8.pbiaas.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -106,4 +100,3 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vps-5aca836b.vps.ovh.net
