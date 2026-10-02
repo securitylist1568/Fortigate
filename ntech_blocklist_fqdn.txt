@@ -20,6 +20,8 @@
 111-240-93-35.dynamic-ip.hinet.net
 123-192-192-150.dynamic.kbronet.com.tw
 124.165.16.34.bc.googleusercontent.com
+130.38.78.34.bc.googleusercontent.com
+134.204.156.34.bc.googleusercontent.com
 134.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 139.84.162.169.vultrusercontent.com
@@ -54,6 +56,7 @@
 198-74-58-213.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+204.76.203.195.ptr.pfcloud.network
 219.210.203.35.bc.googleusercontent.com
 220-135-48-116.hinet-ip.hinet.net
 224.149.216.162.bc.googleusercontent.com
