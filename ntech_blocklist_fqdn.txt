@@ -27,16 +27,19 @@
 169.211.203.35.bc.googleusercontent.com
 170.210.203.35.bc.googleusercontent.com
 176.65.134.119.ptr.pfcloud.network
+182.63.211.130.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.149.216.162.bc.googleusercontent.com
 190.149.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+204.76.203.168.ptr.pfcloud.network
 204.76.203.195.ptr.pfcloud.network
 214.150.216.162.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 56.210.203.35.bc.googleusercontent.com
+78.55.233.35.bc.googleusercontent.com
 80.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
@@ -61,6 +64,7 @@ mfyabgec.musicpda.com
 o335.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
