@@ -22,6 +22,8 @@
 124.165.16.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 159.150.216.162.bc.googleusercontent.com
+172-104-100-28.ip.linodeusercontent.com
+174.111.195.35.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
 182.63.211.130.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -44,6 +46,7 @@ azpdeskvnllh.stretchoid.com
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
+crawler027.deepfield.net
 crawler169.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
