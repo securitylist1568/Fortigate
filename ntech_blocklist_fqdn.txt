@@ -67,7 +67,6 @@
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 248.158.62.34.bc.googleusercontent.com
-254.149.216.162.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
@@ -90,6 +89,7 @@ babylon.scan.bufferover.run
 client.yota.ru
 crawler027.deepfield.net
 crawler169.deepfield.net
+crawler226.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-212-155-29.compute-1.amazonaws.com
