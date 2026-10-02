@@ -43,6 +43,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-243-63.ip.linodeusercontent.com
 174.111.195.35.bc.googleusercontent.com
+176.65.134.119.ptr.pfcloud.network
 182.63.211.130.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.210.203.35.bc.googleusercontent.com
@@ -91,6 +92,7 @@ crawler064.deepfield.net
 crawler140.deepfield.net
 crawler169.deepfield.net
 crawler226.deepfield.net
+crawler231.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-18-212-155-29.compute-1.amazonaws.com
