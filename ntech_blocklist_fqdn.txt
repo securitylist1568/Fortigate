@@ -20,7 +20,6 @@
 114.149.216.162.bc.googleusercontent.com
 123.210.203.35.bc.googleusercontent.com
 124.165.16.34.bc.googleusercontent.com
-155.150.216.162.bc.googleusercontent.com
 176.65.148.11.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
@@ -54,4 +53,3 @@ smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vps-102567.cloud.firstheberg.net
