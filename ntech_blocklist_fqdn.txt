@@ -20,6 +20,7 @@
 119.252.53.34.bc.googleusercontent.com
 122.150.216.162.bc.googleusercontent.com
 123.150.216.162.bc.googleusercontent.com
+124.165.16.34.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
 134.204.156.34.bc.googleusercontent.com
 146.101.187.34.bc.googleusercontent.com
@@ -75,6 +76,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-58.security.ipip.net
 scan-77-06.shadowserver.io
 scan-85-3.shadowserver.io
 security.criminalip.com
