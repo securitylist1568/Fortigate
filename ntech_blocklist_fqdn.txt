@@ -39,7 +39,6 @@
 26.117.187.35.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 37.111.77.34.bc.googleusercontent.com
-40.149.216.162.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 5.18.77.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
@@ -78,9 +77,7 @@ ec2-98-88-20-39.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-86.4vendeta.com
 ip29.sudolio.io
-ip31-70-64-154.pbiaas.com
 ip31-70-74-210.pbiaas.com
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
@@ -89,7 +86,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-sa051.saturn.dedi.server-hosting.expert
 scan-04f.shadowserver.io
 scan-14l.shadowserver.io
 scan-47k.shadowserver.io
