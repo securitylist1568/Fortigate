@@ -20,6 +20,7 @@
 125-224-131-237.dynamic-ip.hinet.net
 131.211.203.35.bc.googleusercontent.com
 136.123.240.35.bc.googleusercontent.com
+144.139.78.34.bc.googleusercontent.com
 172.110.128.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
@@ -30,7 +31,9 @@
 238.210.203.35.bc.googleusercontent.com
 252.210.203.35.bc.googleusercontent.com
 26.117.187.35.bc.googleusercontent.com
+37.111.77.34.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
+5.18.77.34.bc.googleusercontent.com
 80.24.167.104.dataforest.net
 89.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
