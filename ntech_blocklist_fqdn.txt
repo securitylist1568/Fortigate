@@ -32,13 +32,10 @@
 213.163.53.34.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
-219.211.203.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 235.199.156.34.bc.googleusercontent.com
 26.117.187.35.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
-2d83453c.mow.customer.misaka.io
-5.149.216.162.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 59.210.203.35.bc.googleusercontent.com
@@ -86,7 +83,6 @@ ip29.sudolio.io
 li1625-135.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o069.scanner.modat.io
 o309.scanner.modat.io
 pc112.cses.ilc.edu.tw
