@@ -22,17 +22,15 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.211.203.35.bc.googleusercontent.com
 131.211.203.35.bc.googleusercontent.com
-163.128.113.8-static-reverse.gdr.net.in
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 195-154-199-177.rev.poneytelecom.eu
 235.150.216.162.bc.googleusercontent.com
 239.210.203.35.bc.googleusercontent.com
-247.149.216.162.bc.googleusercontent.com
+42.123.243.83.in-addr.arpa
 45.211.203.35.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
-83.149.216.162.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -48,7 +46,6 @@ hig162.higherincomenetwork.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
