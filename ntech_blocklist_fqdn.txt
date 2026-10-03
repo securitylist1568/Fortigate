@@ -19,6 +19,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+131.211.203.35.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 160.150.216.162.bc.googleusercontent.com
 163.128.113.8-static-reverse.gdr.net.in
@@ -36,6 +37,7 @@
 6682315a.customer.misaka.joburg
 76.210.203.35.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
+88.210.203.35.bc.googleusercontent.com
 96.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
