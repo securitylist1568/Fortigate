@@ -28,6 +28,7 @@
 172.110.128.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187-95-46-100.altarede.com.br
+189.211.203.35.bc.googleusercontent.com
 213.163.53.34.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
