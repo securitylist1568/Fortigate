@@ -17,10 +17,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123.210.203.35.bc.googleusercontent.com
 124.165.16.34.bc.googleusercontent.com
 172.110.128.34.bc.googleusercontent.com
-176.65.148.11.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 217.210.203.35.bc.googleusercontent.com
@@ -47,6 +45,7 @@ ip-40-86.4vendeta.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 ip31-70-64-154.pbiaas.com
+ip31-70-74-210.pbiaas.com
 mfyabgec.musicpda.com
 ns3207149.ip-198-244-200.eu
 pc112.cses.ilc.edu.tw
@@ -56,5 +55,6 @@ recyber.net
 sa051.saturn.dedi.server-hosting.expert
 security.criminalip.com
 smtp1.telemach.net
+srv-91-224-92-28.serveroffer.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
