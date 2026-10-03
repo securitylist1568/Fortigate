@@ -38,6 +38,7 @@
 5.149.216.162.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+60-249-14-121.hinet-ip.hinet.net
 60.150.216.162.bc.googleusercontent.com
 79.165.232.8.bc.googleusercontent.com
 91.179.167.107.bc.googleusercontent.com
@@ -90,6 +91,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
+scan-77-02.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
