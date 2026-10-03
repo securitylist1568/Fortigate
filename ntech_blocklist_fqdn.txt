@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 217.210.203.35.bc.googleusercontent.com
+218.210.203.35.bc.googleusercontent.com
 228.150.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
 40.211.203.35.bc.googleusercontent.com
