@@ -29,6 +29,7 @@
 168-113-158-51.instances.scw.cloud
 172.255.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187-95-46-100.altarede.com.br
 194.210.203.35.bc.googleusercontent.com
 213.163.53.34.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
@@ -89,6 +90,7 @@ o069.scanner.modat.io
 o309.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+please.visit.www.openintel.nl
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
