@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 118-233-4-110.dynamic.kbronet.com.tw
+123.211.203.35.bc.googleusercontent.com
 125-224-131-237.dynamic-ip.hinet.net
 131.211.203.35.bc.googleusercontent.com
 136.123.240.35.bc.googleusercontent.com
@@ -75,6 +76,7 @@ ip-40-86.4vendeta.com
 ip29.sudolio.io
 ip31-70-64-154.pbiaas.com
 ip31-70-74-210.pbiaas.com
+li1625-135.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
