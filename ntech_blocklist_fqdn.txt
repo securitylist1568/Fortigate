@@ -25,6 +25,7 @@
 194-195-253-86.ip.linodeusercontent.com
 194-67-119-226.cloudvps.regruhosting.ru
 195-154-199-177.rev.poneytelecom.eu
+239.150.216.162.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45.211.203.35.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
@@ -45,6 +46,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip31-70-97-8.pbiaas.com
 ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
 o073.scanner.modat.io
