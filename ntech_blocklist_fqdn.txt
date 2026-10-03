@@ -21,6 +21,7 @@
 118-233-4-110.dynamic.kbronet.com.tw
 122.72.156.34.bc.googleusercontent.com
 123.211.203.35.bc.googleusercontent.com
+136.123.240.35.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172.255.53.34.bc.googleusercontent.com
