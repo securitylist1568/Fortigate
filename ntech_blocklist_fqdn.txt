@@ -26,11 +26,9 @@
 163.128.113.8-static-reverse.gdr.net.in
 172.110.128.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-187-95-46-100.altarede.com.br
 189.211.203.35.bc.googleusercontent.com
 213.163.53.34.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
-226.210.203.35.bc.googleusercontent.com
 235.150.216.162.bc.googleusercontent.com
 235.199.156.34.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
@@ -66,6 +64,7 @@ azpdesydaqo3.stretchoid.com
 azpdeszas040.stretchoid.com
 azpdsgufrxw5.stretchoid.com
 b2.org.afilias-nst.org
+b9ead587.zrh.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -83,7 +82,6 @@ o308.scanner.modat.io
 o347.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-please.visit.www.openintel.nl
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
