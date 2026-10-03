@@ -32,6 +32,7 @@
 213.211.203.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
 235.199.156.34.bc.googleusercontent.com
+247.149.216.162.bc.googleusercontent.com
 26.117.187.35.bc.googleusercontent.com
 59.210.203.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
