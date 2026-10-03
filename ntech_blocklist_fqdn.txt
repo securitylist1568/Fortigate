@@ -28,6 +28,7 @@
 172.110.128.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187-95-46-100.altarede.com.br
+213.163.53.34.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
 219.211.203.35.bc.googleusercontent.com
 226.210.203.35.bc.googleusercontent.com
@@ -38,8 +39,10 @@
 5.149.216.162.bc.googleusercontent.com
 51.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+59.210.203.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 60.150.216.162.bc.googleusercontent.com
+6682315a.customer.misaka.joburg
 79.165.232.8.bc.googleusercontent.com
 91.179.167.107.bc.googleusercontent.com
 aim.sba-research.org
