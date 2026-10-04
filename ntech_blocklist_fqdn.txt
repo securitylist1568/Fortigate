@@ -34,6 +34,7 @@
 237.210.203.35.bc.googleusercontent.com
 243.2-64-87.adsl-dyn.isp.belgacom.be
 249.210.203.35.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 42.183.41.34.bc.googleusercontent.com
 47.77.44.185.baremetal.zare.com
 82-232-156-45.subs.proxad.net
