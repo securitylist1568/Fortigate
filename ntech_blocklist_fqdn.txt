@@ -25,6 +25,7 @@
 130.210.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 149.0.233.35.bc.googleusercontent.com
+164.211.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 172.221.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -36,7 +37,6 @@
 239.104.172.144.static.cloudzy.com
 25.239.205.35.bc.googleusercontent.com
 252.46.14.34.bc.googleusercontent.com
-42.183.41.34.bc.googleusercontent.com
 56.29.240.35.bc.googleusercontent.com
 58.201.175.207.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
@@ -44,7 +44,6 @@
 61-228-173-85.dynamic-ip.hinet.net
 7.210.203.35.bc.googleusercontent.com
 73.149.216.162.bc.googleusercontent.com
-85.210.203.35.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
@@ -67,7 +66,6 @@ ec2-54-144-246-4.compute-1.amazonaws.com
 ec2-54-81-128-62.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-host-10.171.167.103.rajeg.net.id
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip31-70-64-154.pbiaas.com
@@ -78,7 +76,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-63-2.shadowserver.io
