@@ -23,7 +23,7 @@
 167.149.216.162.bc.googleusercontent.com
 172.221.78.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194-67-119-226.cloudvps.regruhosting.ru
+203.210.203.35.bc.googleusercontent.com
 209.45.62.34.bc.googleusercontent.com
 222.227.78.34.bc.googleusercontent.com
 236.252.16.34.bc.googleusercontent.com
@@ -70,6 +70,7 @@ lfbn-ncy-1-374-60.w83-196.abo.wanadoo.fr
 mfyabgec.musicpda.com
 nixeantiddosvpn.net
 ns3207149.ip-198-244-200.eu
+o061.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
