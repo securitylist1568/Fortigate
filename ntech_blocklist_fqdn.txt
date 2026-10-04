@@ -91,6 +91,7 @@ scan-02k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
+spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
 unn-149-50-209-50.datapacket.com
