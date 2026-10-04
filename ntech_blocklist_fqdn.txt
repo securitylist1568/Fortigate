@@ -77,4 +77,5 @@ security.criminalip.com
 smtp1.telemach.net
 srv-sin-001.bytebond.de
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 users219.vip.heteml.jp
