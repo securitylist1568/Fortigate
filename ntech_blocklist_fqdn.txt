@@ -46,7 +46,6 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 host-10.171.167.103.rajeg.net.id
 htb-h9b8tjwfph.htb-cloud.com
-ien11-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
 ip31-70-97-8.pbiaas.com
@@ -60,6 +59,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 security.criminalip.com
 smtp1.telemach.net
 static-176-174-14-183.ftth.abo.bbox.fr
