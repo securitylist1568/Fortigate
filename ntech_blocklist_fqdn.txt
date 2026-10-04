@@ -22,7 +22,6 @@
 129.107.62.34.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 158.31.232.180.dsl.inet.static.certaincyber.net
-164.211.203.35.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
@@ -45,10 +44,12 @@ aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler021.deepfield.net
+crawler118.deepfield.net
+crawler151.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-88-213-148-156.ptr.as35518.net
-encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 hce.gou.go.ug
 hkhdc.laws.ms
@@ -66,8 +67,9 @@ lfbn-str-1-21-253.w92-140.abo.wanadoo.fr
 mfyabgec.musicpda.com
 mon69-h01-128-78-149-217.dsl.sta.abo.bbox.fr
 node-plh.pool-182-52.dynamic.nt-isp.net
+o311.scanner.modat.io
 o312.scanner.modat.io
-o316.scanner.modat.io
+o346.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -75,13 +77,11 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 regular-t1ching.hillgent.com
-rootevidence.com
 s4850.vps.hosting
 scan-02k.shadowserver.io
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
-srv-sin-001.bytebond.de
 static-ip-250-192-65-202.rev.dyxnet.com
 trafo.kz
 unn-149-50-209-50.datapacket.com
