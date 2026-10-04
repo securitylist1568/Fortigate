@@ -21,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 129.107.62.34.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
-144.92.74.97.host.secureserver.net
 164.211.203.35.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
@@ -35,8 +34,6 @@
 243.2-64-87.adsl-dyn.isp.belgacom.be
 249.210.203.35.bc.googleusercontent.com
 42.183.41.34.bc.googleusercontent.com
-58.211.203.35.bc.googleusercontent.com
-61-220-186-32.hinet-ip.hinet.net
 82-232-156-45.subs.proxad.net
 87-90-83-17.abo.bbox.fr
 abayonne-652-1-667-28.w90-16.abo.wanadoo.fr
@@ -78,12 +75,7 @@ regular-t1ching.hillgent.com
 rootevidence.com
 s4850.vps.hosting
 scan-02k.shadowserver.io
-scan-43h.shadowserver.io
 scan-60.security.ipip.net
-scan-63-2.shadowserver.io
-scan-76-02.shadowserver.io
-scan-77-06.shadowserver.io
-scan-86-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv-sin-001.bytebond.de
