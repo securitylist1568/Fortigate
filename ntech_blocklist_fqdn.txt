@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104-250-236-212.static.as398493.net
 106.105.229.135.adsl.dynamic.seed.net.tw
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -24,17 +23,14 @@
 130.210.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 164.211.203.35.bc.googleusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 172.141.223.60.adsl-pool.sx.cn
 185-45-195-15.hostsailor.com
-194-195-122-95.ip.linodeusercontent.com
 222.227.78.34.bc.googleusercontent.com
 237.122.38.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 249.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 61-220-186-32.hinet-ip.hinet.net
-61-228-173-85.dynamic-ip.hinet.net
 7.210.203.35.bc.googleusercontent.com
 73.149.216.162.bc.googleusercontent.com
 aim.sba-research.org
@@ -54,7 +50,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o061.scanner.modat.io
 o316.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -67,7 +62,6 @@ s4850.vps.hosting
 scan-43h.shadowserver.io
 scan-60.security.ipip.net
 scan-63-2.shadowserver.io
-scan-74-07.shadowserver.io
 scan-76-02.shadowserver.io
 scan-77-06.shadowserver.io
 scan-86-7.shadowserver.io
