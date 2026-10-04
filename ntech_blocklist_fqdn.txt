@@ -31,6 +31,7 @@
 222.227.78.34.bc.googleusercontent.com
 237.122.38.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
+249.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 61-220-186-32.hinet-ip.hinet.net
 61-228-173-85.dynamic-ip.hinet.net
