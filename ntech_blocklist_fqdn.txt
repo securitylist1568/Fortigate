@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 107.130.120.78.rev.sfr.net
-108.61.99.154.vultrusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,14 +22,12 @@
 158.31.232.180.dsl.inet.static.certaincyber.net
 168.210.203.35.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
-172-232-121-108.ip.linodeusercontent.com
 172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 215.203.66.37.rev.sfr.net
 237.210.203.35.bc.googleusercontent.com
 243.149.216.162.bc.googleusercontent.com
-243.2-64-87.adsl-dyn.isp.belgacom.be
 2d834681.led.customer.misaka.io
 42.183.41.34.bc.googleusercontent.com
 47.77.44.185.baremetal.zare.com
@@ -74,13 +71,10 @@ htb-h9b8tjwfph.htb-cloud.com
 i15-les03-ix2-176-180-7-155.dsl.dyn.abo.bbox.fr
 ip29.sudolio.io
 lfbn-ren-1-38-142.w83-205.abo.wanadoo.fr
-lfbn-str-1-21-253.w92-140.abo.wanadoo.fr
 li1537-121.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
-mon69-h01-128-78-149-217.dsl.sta.abo.bbox.fr
 o311.scanner.modat.io
-o312.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
