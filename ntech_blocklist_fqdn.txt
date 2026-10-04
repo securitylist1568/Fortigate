@@ -26,11 +26,11 @@
 2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
 42.183.41.34.bc.googleusercontent.com
-47.149.216.162.bc.googleusercontent.com
 62-90-226-213.barak.net.il
 82-231-173-193.subs.proxad.net
 85.210.203.35.bc.googleusercontent.com
 92-184-146-151.mobile.fr.orangecustomers.net
+aa27e0dc.iad.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 astlambert-652-1-129-28.w90-62.abo.wanadoo.fr
