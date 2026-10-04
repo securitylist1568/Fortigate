@@ -37,6 +37,7 @@
 42.183.41.34.bc.googleusercontent.com
 56.29.240.35.bc.googleusercontent.com
 58.201.175.207.bc.googleusercontent.com
+61-228-173-85.dynamic-ip.hinet.net
 62-90-226-213.barak.net.il
 82-231-173-193.subs.proxad.net
 85.210.203.35.bc.googleusercontent.com
@@ -78,6 +79,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 scan-43b.shadowserver.io
+scan-74-07.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-176-174-14-183.ftth.abo.bbox.fr
