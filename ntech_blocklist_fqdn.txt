@@ -23,7 +23,6 @@
 128.149.216.162.bc.googleusercontent.com
 172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-198-134-107-73.rev.unlimitednet.us
 243.149.216.162.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 91-167-244-71.subs.proxad.net
@@ -58,7 +57,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o339.scanner.modat.io
 o348.scanner.modat.io
@@ -66,7 +64,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
