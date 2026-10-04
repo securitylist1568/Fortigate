@@ -30,6 +30,7 @@
 45.211.203.35.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 62-90-226-213.barak.net.il
+82-231-173-193.subs.proxad.net
 92-184-146-151.mobile.fr.orangecustomers.net
 aim.sba-research.org
 amz.unixwiz.net
