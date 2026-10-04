@@ -54,6 +54,7 @@ crawler118.deepfield.net
 crawler151.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 ec2-18-221-198-121.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
