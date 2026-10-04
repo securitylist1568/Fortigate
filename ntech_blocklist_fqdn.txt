@@ -50,6 +50,7 @@ host-10.171.167.103.rajeg.net.id
 htb-h9b8tjwfph.htb-cloud.com
 ip106.ip-5-135-10.eu
 ip29.sudolio.io
+ip31-70-64-154.pbiaas.com
 ip31-70-97-8.pbiaas.com
 ip54.ip-135-148-29.us
 lfbn-ncy-1-374-60.w83-196.abo.wanadoo.fr
