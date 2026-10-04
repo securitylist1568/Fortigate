@@ -31,6 +31,7 @@
 209.45.62.34.bc.googleusercontent.com
 222.227.78.34.bc.googleusercontent.com
 237.122.38.34.bc.googleusercontent.com
+239.104.172.144.static.cloudzy.com
 25.239.205.35.bc.googleusercontent.com
 252.46.14.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -40,6 +41,7 @@
 61-228-173-85.dynamic-ip.hinet.net
 62-90-226-213.barak.net.il
 7.210.203.35.bc.googleusercontent.com
+73.149.216.162.bc.googleusercontent.com
 82-231-173-193.subs.proxad.net
 85.210.203.35.bc.googleusercontent.com
 92-184-146-151.mobile.fr.orangecustomers.net
