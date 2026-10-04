@@ -18,14 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.150.216.162.bc.googleusercontent.com
-158.31.232.180.dsl.inet.static.certaincyber.net
 172-232-231-4.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 243.149.216.162.bc.googleusercontent.com
-2d834681.led.customer.misaka.io
 2d834781.kunde.misaka.berlin
-47.77.44.185.baremetal.zare.com
 91-167-244-71.subs.proxad.net
 aim.sba-research.org
 amz.unixwiz.net
@@ -49,9 +46,6 @@ azpdesp0s64x.stretchoid.com
 azpdesqrgeg1.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler021.deepfield.net
-crawler118.deepfield.net
-crawler151.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
