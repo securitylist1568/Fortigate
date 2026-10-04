@@ -39,6 +39,7 @@
 42.183.41.34.bc.googleusercontent.com
 56.29.240.35.bc.googleusercontent.com
 58.201.175.207.bc.googleusercontent.com
+58.211.203.35.bc.googleusercontent.com
 61-228-173-85.dynamic-ip.hinet.net
 7.210.203.35.bc.googleusercontent.com
 73.149.216.162.bc.googleusercontent.com
@@ -78,7 +79,11 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 scan-43b.shadowserver.io
+scan-43h.shadowserver.io
+scan-63-2.shadowserver.io
 scan-74-07.shadowserver.io
+scan-76-02.shadowserver.io
+scan-77-06.shadowserver.io
 security.criminalip.com
 smtp.energy-vg.com
 smtp1.telemach.net
