@@ -40,6 +40,7 @@
 56.29.240.35.bc.googleusercontent.com
 58.201.175.207.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
+61-220-186-32.hinet-ip.hinet.net
 61-228-173-85.dynamic-ip.hinet.net
 7.210.203.35.bc.googleusercontent.com
 73.149.216.162.bc.googleusercontent.com
@@ -84,6 +85,7 @@ scan-63-2.shadowserver.io
 scan-74-07.shadowserver.io
 scan-76-02.shadowserver.io
 scan-77-06.shadowserver.io
+scan-86-7.shadowserver.io
 security.criminalip.com
 smtp.energy-vg.com
 smtp1.telemach.net
