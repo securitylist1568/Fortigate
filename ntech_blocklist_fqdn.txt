@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-128-78-149-217.abo.bbox.fr
 129.107.62.34.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 164.211.203.35.bc.googleusercontent.com
@@ -51,6 +50,7 @@ ip-58-98.4vendeta.com
 ip29.sudolio.io
 lfbn-str-1-21-253.w92-140.abo.wanadoo.fr
 mfyabgec.musicpda.com
+mon69-h01-128-78-149-217.dsl.sta.abo.bbox.fr
 no-mans-land.m247.com
 node-plh.pool-182-52.dynamic.nt-isp.net
 o316.scanner.modat.io
