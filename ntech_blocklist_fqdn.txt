@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.174.62.34.bc.googleusercontent.com
 129.107.62.34.bc.googleusercontent.com
+130.210.203.35.bc.googleusercontent.com
 149.0.233.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 172.221.78.34.bc.googleusercontent.com
@@ -84,6 +85,7 @@ scan-74-07.shadowserver.io
 security.criminalip.com
 smtp.energy-vg.com
 smtp1.telemach.net
+spk.laws.ms
 static-176-174-14-183.ftth.abo.bbox.fr
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
