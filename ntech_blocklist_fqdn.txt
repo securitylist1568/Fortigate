@@ -47,7 +47,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-88-213-148-156.ptr.as35518.net
 festa04.jcatransporte.com.br
-hce.gou.go.ug
 hkhdc.laws.ms
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -60,6 +59,7 @@ ip-58-98.4vendeta.com
 ip29.sudolio.io
 lfbn-ren-1-38-142.w83-205.abo.wanadoo.fr
 lfbn-str-1-21-253.w92-140.abo.wanadoo.fr
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 mon69-h01-128-78-149-217.dsl.sta.abo.bbox.fr
 node-plh.pool-182-52.dynamic.nt-isp.net
@@ -72,7 +72,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 regular-t1ching.hillgent.com
 rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
-s4850.vps.hosting
 scan-02k.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
