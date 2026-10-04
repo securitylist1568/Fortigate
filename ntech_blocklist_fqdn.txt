@@ -81,6 +81,7 @@ rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 scan-43b.shadowserver.io
 scan-74-07.shadowserver.io
 security.criminalip.com
+smtp.energy-vg.com
 smtp1.telemach.net
 static-176-174-14-183.ftth.abo.bbox.fr
 static-ip-250-192-65-202.rev.dyxnet.com
