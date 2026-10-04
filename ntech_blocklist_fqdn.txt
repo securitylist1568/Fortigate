@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111.92.205.35.bc.googleusercontent.com
+129.107.62.34.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
 144.92.74.97.host.secureserver.net
 164.211.203.35.bc.googleusercontent.com
@@ -27,6 +28,8 @@
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 203.210.203.35.bc.googleusercontent.com
+222.227.78.34.bc.googleusercontent.com
+237.122.38.34.bc.googleusercontent.com
 239.104.172.144.static.cloudzy.com
 58.211.203.35.bc.googleusercontent.com
 61-220-186-32.hinet-ip.hinet.net
@@ -60,6 +63,7 @@ recyber.net
 rootevidence.com
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
+scan-60.security.ipip.net
 scan-63-2.shadowserver.io
 scan-74-07.shadowserver.io
 scan-76-02.shadowserver.io
