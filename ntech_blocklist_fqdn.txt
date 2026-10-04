@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 129.107.62.34.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
+158.31.232.180.dsl.inet.static.certaincyber.net
 164.211.203.35.bc.googleusercontent.com
 168.210.203.35.bc.googleusercontent.com
 170.211.203.35.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 243.2-64-87.adsl-dyn.isp.belgacom.be
 249.210.203.35.bc.googleusercontent.com
 42.183.41.34.bc.googleusercontent.com
+47.77.44.185.baremetal.zare.com
 82-232-156-45.subs.proxad.net
 87-90-83-17.abo.bbox.fr
 abayonne-652-1-667-28.w90-16.abo.wanadoo.fr
