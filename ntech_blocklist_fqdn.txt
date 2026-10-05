@@ -39,6 +39,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o310.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ppc2.corp.netpci.com
