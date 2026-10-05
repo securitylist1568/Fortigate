@@ -44,6 +44,7 @@ pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43h.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 spk.laws.ms
