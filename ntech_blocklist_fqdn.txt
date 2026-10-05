@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-167.45.129.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.195.ptr.pfcloud.network
 35.236.158.34.bc.googleusercontent.com
@@ -36,9 +35,7 @@ ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o049.scanner.modat.io
-o071.scanner.modat.io
 o072.scanner.modat.io
-o312.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
