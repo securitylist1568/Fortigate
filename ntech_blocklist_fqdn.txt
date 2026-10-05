@@ -21,6 +21,8 @@
 121.211.203.35.bc.googleusercontent.com
 128.149.216.162.bc.googleusercontent.com
 135.204.53.34.bc.googleusercontent.com
+172-236-112-138.ip.linodeusercontent.com
+172-237-137-166.ip.linodeusercontent.com
 183.48.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
@@ -53,6 +55,8 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-100-31-138-84.compute-1.amazonaws.com
+ec2-54-86-27-243.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -75,6 +79,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
+sydney.scan.bufferover.run
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 ve264.venus.dedi.server-hosting.expert
