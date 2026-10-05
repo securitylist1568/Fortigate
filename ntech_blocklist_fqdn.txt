@@ -20,13 +20,9 @@
 128.66.156.34.bc.googleusercontent.com
 137.23.156.34.bc.googleusercontent.com
 167.45.129.34.bc.googleusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 183.48.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-195.115.14.34.bc.googleusercontent.com
 61.15.240.35.bc.googleusercontent.com
-9213038d.customer.misaka.se
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
@@ -37,6 +33,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+insiditcorp.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o310.scanner.modat.io
