@@ -32,6 +32,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 insiditcorp.com
 ip29.sudolio.io
+lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 o049.scanner.modat.io
 o071.scanner.modat.io
