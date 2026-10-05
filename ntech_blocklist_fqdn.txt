@@ -39,7 +39,6 @@ o049.scanner.modat.io
 o071.scanner.modat.io
 o072.scanner.modat.io
 o312.scanner.modat.io
-o316.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -50,7 +49,6 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
-v2202410238621291712.luckysrv.de
 vmi2925108.contaboserver.net
 vmi3308676.contaboserver.net
 vmi3450563.contaboserver.net
