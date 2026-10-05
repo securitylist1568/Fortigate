@@ -58,7 +58,6 @@
 23-92-26-65.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 248.230.241.35.bc.googleusercontent.com
-2d834781.kunde.misaka.berlin
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-149.ip.linodeusercontent.com
@@ -72,7 +71,6 @@
 50-116-23-150.ip.linodeusercontent.com
 81.27.38.34.bc.googleusercontent.com
 aa27e3fb.sea.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 azpdes3xcl7t.stretchoid.com
 azpdes9rno9r.stretchoid.com
@@ -95,7 +93,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 doha.scan.bufferover.run
-dynamic-adsl.viettel.vn
 ec2-100-31-138-84.compute-1.amazonaws.com
 ec2-44-211-148-114.compute-1.amazonaws.com
 ec2-54-86-27-243.compute-1.amazonaws.com
@@ -124,7 +121,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 ve264.venus.dedi.server-hosting.expert
 vmi3311291.contaboserver.net
