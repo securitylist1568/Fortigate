@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.150.216.162.bc.googleusercontent.com
 118-167-162-189.dynamic-ip.hinet.net
 121.211.203.35.bc.googleusercontent.com
 128.149.216.162.bc.googleusercontent.com
@@ -59,5 +58,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
+ve264.venus.dedi.server-hosting.expert
 vmi3311291.contaboserver.net
 vmi3480525.contaboserver.net
