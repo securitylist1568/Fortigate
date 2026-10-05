@@ -120,6 +120,7 @@ recyber.net
 scan-14l.shadowserver.io
 scan-15i.shadowserver.io
 scan-43h.shadowserver.io
+scan-56.security.ipip.net
 scan-76-03.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
