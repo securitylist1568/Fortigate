@@ -51,13 +51,11 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 o049.scanner.modat.io
 o071.scanner.modat.io
-o310.scanner.modat.io
 o312.scanner.modat.io
 o316.scanner.modat.io
 o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 regular-t1ching.hillgent.com
