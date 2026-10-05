@@ -71,6 +71,7 @@
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 50-116-23-150.ip.linodeusercontent.com
+61.15.240.35.bc.googleusercontent.com
 81.27.38.34.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aa27e3fb.sea.customer.misaka.io
