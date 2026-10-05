@@ -40,6 +40,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 insiditcorp.com
 ip-40-158.4vendeta.com
+ip-40-170.4vendeta.com
 ip-40-190.4vendeta.com
 ip-56-254.4vendeta.com
 ip-58-102.4vendeta.com
@@ -61,6 +62,7 @@ regular-t1ching.hillgent.com
 scan-04f.shadowserver.io
 scan-56.security.ipip.net
 smtp1.telemach.net
+spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
 static.eztech.vn
 users219.vip.heteml.jp
