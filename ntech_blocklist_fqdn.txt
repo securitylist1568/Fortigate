@@ -52,7 +52,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 regular-t1ching.hillgent.com
+security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 spk.laws.ms
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
