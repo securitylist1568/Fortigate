@@ -30,6 +30,9 @@ client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-217-41-66.us-east-2.compute.amazonaws.com
+ec2-18-217-41-69.us-east-2.compute.amazonaws.com
+ecs-203-123-81-109.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
