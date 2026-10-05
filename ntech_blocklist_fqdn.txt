@@ -40,6 +40,7 @@ mfyabgec.musicpda.com
 o339.scanner.modat.io
 o348.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
