@@ -92,6 +92,7 @@ azpdesqrgeg1.stretchoid.com
 azpdesx3eiti.stretchoid.com
 azpdesx6a5vg.stretchoid.com
 b2.org.afilias-nst.org
+centos7223208.aspadmin.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
