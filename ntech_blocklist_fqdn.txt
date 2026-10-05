@@ -37,6 +37,7 @@ festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip54.ip-135-148-29.us
 mfyabgec.musicpda.com
 o339.scanner.modat.io
 o348.scanner.modat.io
@@ -46,9 +47,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43h.shadowserver.io
+scan-76-03.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
+vmi3311291.contaboserver.net
