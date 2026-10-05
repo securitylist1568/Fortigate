@@ -114,6 +114,7 @@ o343.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
 pinkytales.com
+ppc2.corp.netpci.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-14l.shadowserver.io
