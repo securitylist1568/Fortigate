@@ -29,6 +29,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
@@ -36,7 +37,6 @@ insiditcorp.com
 ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-o049.scanner.modat.io
 o072.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
@@ -51,5 +51,4 @@ static.vnpt.vn
 unn-169-150-252-179.datapacket.com
 users219.vip.heteml.jp
 vmi2925108.contaboserver.net
-vmi3308676.contaboserver.net
 vmi3450563.contaboserver.net
