@@ -17,7 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+123-192-3-128.dynamic.kbronet.com.tw
 148.34.62.34.bc.googleusercontent.com
+165.146.79.34.bc.googleusercontent.com
 183.152.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 215.212.195.35.bc.googleusercontent.com
@@ -42,6 +44,7 @@ o066.scanner.modat.io
 o308.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
