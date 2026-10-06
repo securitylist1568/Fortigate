@@ -48,12 +48,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
-radamelfalcao.xyz
 recyber.net
 scan-74-02.shadowserver.io
-scan-94-4.shadowserver.io
-scan-95-6.shadowserver.io
-scan-96-6.shadowserver.io
 scan-97-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
