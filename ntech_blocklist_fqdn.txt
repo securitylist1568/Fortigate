@@ -29,7 +29,6 @@
 2d96f25f.customer.misaka.taipei
 35.236.158.34.bc.googleusercontent.com
 68.149.80.34.bc.googleusercontent.com
-aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -59,14 +58,11 @@ radamelfalcao.xyz
 recyber.net
 rping.ipip.net
 scan-40e.shadowserver.io
-scan-41f.shadowserver.io
 scan-43b.shadowserver.io
 scan-45g.shadowserver.io
 scan-94-4.shadowserver.io
-scan-95-3.shadowserver.io
 scan-95-6.shadowserver.io
 scan-96-6.shadowserver.io
-scan-97-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
