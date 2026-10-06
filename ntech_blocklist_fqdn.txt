@@ -17,7 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+165.146.79.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+199.9.187.35.bc.googleusercontent.com
+203.125.76.34.bc.googleusercontent.com
 60-248-158-121.hinet-ip.hinet.net
 62-90-226-213.barak.net.il
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -41,6 +44,8 @@ pdcscan5.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rping.ipip.net
+scan-40e.shadowserver.io
 scan-41f.shadowserver.io
 scan-95-3.shadowserver.io
 scan-97-5.shadowserver.io
