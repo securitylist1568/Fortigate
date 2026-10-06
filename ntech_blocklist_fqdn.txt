@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-192-3-128.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
-165.146.79.34.bc.googleusercontent.com
 183.152.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.241.228.8.bc.googleusercontent.com
@@ -71,13 +69,9 @@ li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-74-02.shadowserver.io
-scan-97-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
