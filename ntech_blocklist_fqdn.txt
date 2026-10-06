@@ -35,11 +35,17 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-100-53-92-177.compute-1.amazonaws.com
+ec2-13-218-165-217.compute-1.amazonaws.com
+ec2-18-212-90-9.compute-1.amazonaws.com
+ec2-34-239-247-180.compute-1.amazonaws.com
+ec2-54-237-223-62.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 insiditcorp.com
 ip29.sudolio.io
+li1873-236.members.linode.com
 mail.data2cloud.om
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -50,6 +56,7 @@ recyber.net
 rping.ipip.net
 scan-40e.shadowserver.io
 scan-41f.shadowserver.io
+scan-43b.shadowserver.io
 scan-95-3.shadowserver.io
 scan-97-5.shadowserver.io
 security.criminalip.com
