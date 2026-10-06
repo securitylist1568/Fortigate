@@ -17,7 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-111-243-97-196.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 36-229-217-207.dynamic-ip.hinet.net
 45-79-168-38.ip.linodeusercontent.com
@@ -30,7 +29,6 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
-ec2-18-218-108-121.us-east-2.compute.amazonaws.com
 ec2-3-145-135-106.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 get166.wayto.getnutritionaldiet.com
@@ -38,7 +36,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o074.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
