@@ -55,6 +55,7 @@ dns12.online.tj.cn
 ec2-18-218-108-121.us-east-2.compute.amazonaws.com
 ec2-3-145-135-106.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
+get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
