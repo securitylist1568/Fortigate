@@ -37,6 +37,7 @@ htb-h9b8tjwfph.htb-cloud.com
 insiditcorp.com
 ip29.sudolio.io
 lnxsr12.cwp.webr.net.za
+mail.data2cloud.om
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan5.scanning.cybcube.com
