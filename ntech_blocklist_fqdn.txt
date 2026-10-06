@@ -54,6 +54,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 direhange.net
+dns106.online.tj.cn
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
