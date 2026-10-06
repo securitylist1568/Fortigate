@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+111-243-97-196.dynamic-ip.hinet.net
 125-227-127-85.hinet-ip.hinet.net
 183.152.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -67,6 +68,7 @@ ip-60-250.4vendeta.com
 ip29.sudolio.io
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
+o074.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
