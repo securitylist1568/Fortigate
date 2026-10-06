@@ -26,6 +26,7 @@
 230.214.78.34.bc.googleusercontent.com
 35.236.158.34.bc.googleusercontent.com
 62-90-226-213.barak.net.il
+68.149.80.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
@@ -45,8 +46,11 @@ htb-h9b8tjwfph.htb-cloud.com
 insiditcorp.com
 ip29.sudolio.io
 li1873-236.members.linode.com
+li1972-67.members.linode.com
 mail.data2cloud.om
 mfyabgec.musicpda.com
+o027.scanner.modat.io
+o066.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
