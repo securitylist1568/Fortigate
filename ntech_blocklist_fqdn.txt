@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 148.34.62.34.bc.googleusercontent.com
 165.146.79.34.bc.googleusercontent.com
+183.152.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 199.9.187.35.bc.googleusercontent.com
 203.125.76.34.bc.googleusercontent.com
@@ -51,6 +52,7 @@ mail.data2cloud.om
 mfyabgec.musicpda.com
 o027.scanner.modat.io
 o066.scanner.modat.io
+o308.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
