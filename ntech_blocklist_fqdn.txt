@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 185.241.228.8.bc.googleusercontent.com
 36-229-217-207.dynamic-ip.hinet.net
-68.149.80.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdes2g7khn.stretchoid.com
