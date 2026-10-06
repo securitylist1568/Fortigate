@@ -20,6 +20,7 @@
 123-192-3-128.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 165.146.79.34.bc.googleusercontent.com
+183.152.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 230.214.78.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
