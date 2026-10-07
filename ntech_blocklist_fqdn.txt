@@ -21,7 +21,6 @@
 172-104-100-28.ip.linodeusercontent.com
 179.108.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-185.241.228.8.bc.googleusercontent.com
 22.75.211.130.bc.googleusercontent.com
 33.247.95.34.bc.googleusercontent.com
 57.82.156.34.bc.googleusercontent.com
@@ -53,12 +52,7 @@ scan-43h.shadowserver.io
 scan-70-00.shadowserver.io
 scan-75-05.shadowserver.io
 scan-92-4.shadowserver.io
-scan-93-2.shadowserver.io
-scan-94-2.shadowserver.io
-scan-95-5.shadowserver.io
 scan-96-1.shadowserver.io
-scan-96-7.shadowserver.io
-scan-98-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
