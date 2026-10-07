@@ -21,6 +21,7 @@
 172-104-100-28.ip.linodeusercontent.com
 179.108.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+22.75.211.130.bc.googleusercontent.com
 33.247.95.34.bc.googleusercontent.com
 57.82.156.34.bc.googleusercontent.com
 58.215.62.34.bc.googleusercontent.com
@@ -39,6 +40,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
