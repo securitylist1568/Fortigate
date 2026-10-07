@@ -21,6 +21,7 @@
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.195.ptr.pfcloud.network
 251.23.62.34.bc.googleusercontent.com
+33.247.95.34.bc.googleusercontent.com
 99.16.199.104.bc.googleusercontent.com
 acceso-189.239.165.239.prod-infinitum.com.mx
 aim.sba-research.org
