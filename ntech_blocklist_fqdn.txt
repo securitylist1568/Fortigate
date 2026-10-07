@@ -20,6 +20,7 @@
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 204.76.203.195.ptr.pfcloud.network
+2d0b6ab5.ams.customer.misaka.io
 2d96f380.kbp.customer.misaka.io
 33.247.95.34.bc.googleusercontent.com
 36-229-186-115.dynamic-ip.hinet.net
