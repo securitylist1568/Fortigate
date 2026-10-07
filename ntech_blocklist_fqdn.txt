@@ -22,12 +22,14 @@
 22.75.211.130.bc.googleusercontent.com
 33.247.95.34.bc.googleusercontent.com
 86.77.155.104.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-145-135-106.us-east-2.compute.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 gcchristensen.us
 get166.wayto.getnutritionaldiet.com
@@ -42,6 +44,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
 scan-70-00.shadowserver.io
+scan-93-2.shadowserver.io
 smtp1.telemach.net
 static-190-25-75-206.etb.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
