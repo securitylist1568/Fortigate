@@ -20,6 +20,7 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 22.75.211.130.bc.googleusercontent.com
+251.23.62.34.bc.googleusercontent.com
 33.247.95.34.bc.googleusercontent.com
 86.77.155.104.bc.googleusercontent.com
 99.16.199.104.bc.googleusercontent.com
@@ -51,6 +52,8 @@ ip-58-98.4vendeta.com
 ip-60-250.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o064.scanner.modat.io
+o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
