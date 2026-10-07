@@ -19,9 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 204.76.203.195.ptr.pfcloud.network
-22.75.211.130.bc.googleusercontent.com
 251.23.62.34.bc.googleusercontent.com
-86.77.155.104.bc.googleusercontent.com
 99.16.199.104.bc.googleusercontent.com
 acceso-189.239.165.239.prod-infinitum.com.mx
 aim.sba-research.org
@@ -95,7 +93,6 @@ o064.scanner.modat.io
 o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 regular-t1ching.hillgent.com
