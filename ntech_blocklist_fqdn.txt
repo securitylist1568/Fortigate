@@ -82,6 +82,7 @@ o344.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+puya.24-7.ro
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
