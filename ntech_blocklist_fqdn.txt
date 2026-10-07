@@ -64,6 +64,7 @@ client.yota.ru
 customer.lgosnga1.isp.starlink.com
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-18-116-67-8.us-east-2.compute.amazonaws.com
 ec2-3-145-135-106.us-east-2.compute.amazonaws.com
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
@@ -96,6 +97,7 @@ regular-t1ching.hillgent.com
 scan-93-2.shadowserver.io
 scan-93-6.shadowserver.io
 scan-96-2.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-190-25-75-206.etb.net.co
 static-ip-250-192-65-202.rev.dyxnet.com
