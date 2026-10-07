@@ -102,6 +102,7 @@ scan-93-6.shadowserver.io
 scan-96-2.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 v4.dns.slt.lk
