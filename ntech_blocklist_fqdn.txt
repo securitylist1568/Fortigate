@@ -54,6 +54,7 @@
 192-81-132-226.ip.linodeusercontent.com
 198-74-58-111.ip.linodeusercontent.com
 217.54.14.34.bc.googleusercontent.com
+224.153.172.83.static.edisglobal.com
 228.82.77.34.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
