@@ -53,6 +53,7 @@
 192-81-132-226.ip.linodeusercontent.com
 198-74-58-111.ip.linodeusercontent.com
 217.54.14.34.bc.googleusercontent.com
+228.82.77.34.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-21.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
@@ -71,6 +72,7 @@
 45-79-225-32.ip.linodeusercontent.com
 55.150.216.162.bc.googleusercontent.com
 59-125-215-95.hinet-ip.hinet.net
+62.76.233.35.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
 67.211.52.34.bc.googleusercontent.com
 71.148.40.34.bc.googleusercontent.com
