@@ -23,7 +23,9 @@
 150.244.53.34.bc.googleusercontent.com
 157.7.175.207.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
+172-104-134-182.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+192.149.216.162.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
 224.191.38.34.bc.googleusercontent.com
@@ -70,6 +72,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-09n.shadowserver.io
 scan-59g.shadowserver.io
 scan-60-10.shadowserver.io
