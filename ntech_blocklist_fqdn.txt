@@ -71,6 +71,7 @@
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 55.150.216.162.bc.googleusercontent.com
+59-125-215-95.hinet-ip.hinet.net
 63.150.216.162.bc.googleusercontent.com
 71.148.40.34.bc.googleusercontent.com
 83.174.53.34.bc.googleusercontent.com
@@ -95,6 +96,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41m.shadowserver.io
+scan-43h.shadowserver.io
 scan-58.security.ipip.net
 scan-68-08.shadowserver.io
 scan-73-02.shadowserver.io
