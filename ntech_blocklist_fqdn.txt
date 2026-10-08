@@ -27,11 +27,13 @@
 153.150.216.162.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+195.150.216.162.bc.googleusercontent.com
 217.54.14.34.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 224.191.38.34.bc.googleusercontent.com
 228.82.77.34.bc.googleusercontent.com
 233.58.199.104.bc.googleusercontent.com
+234.149.216.162.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
@@ -88,3 +90,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 undefined.hostname.localhost
 users219.vip.heteml.jp
+www.internet-albedo.net
