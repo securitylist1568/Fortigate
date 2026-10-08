@@ -116,6 +116,7 @@ scan-92-6.shadowserver.io
 scan-93-1.shadowserver.io
 scan-93-6.shadowserver.io
 scan-94-6.shadowserver.io
+scan-96-0.shadowserver.io
 scan-96-2.shadowserver.io
 scan-96-6.shadowserver.io
 scan-97-0.shadowserver.io
