@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.211.203.35.bc.googleusercontent.com
 131.210.203.35.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
@@ -59,7 +58,6 @@
 23-92-27-179.ip.linodeusercontent.com
 233.58.199.104.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
-2d0b6ab5.ams.customer.misaka.io
 45-33-40-18.ip.linodeusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -74,11 +72,11 @@
 59-125-215-95.hinet-ip.hinet.net
 63.150.216.162.bc.googleusercontent.com
 71.148.40.34.bc.googleusercontent.com
+75.150.216.162.bc.googleusercontent.com
 83.174.53.34.bc.googleusercontent.com
 aim.sba-research.org
 alanmachado.com
 amz.unixwiz.net
-b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -116,6 +114,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
-user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
