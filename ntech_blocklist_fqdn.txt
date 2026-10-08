@@ -22,6 +22,7 @@
 147.150.216.162.bc.googleusercontent.com
 172-104-134-182.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+189.149.216.162.bc.googleusercontent.com
 190.210.203.35.bc.googleusercontent.com
 192.149.216.162.bc.googleusercontent.com
 200.174.236.35.bc.googleusercontent.com
@@ -30,6 +31,7 @@
 28.211.203.35.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
 2d96f25f.customer.misaka.taipei
+34.150.216.162.bc.googleusercontent.com
 38.211.203.35.bc.googleusercontent.com
 39968751.grabercloud.com
 73.150.216.162.bc.googleusercontent.com
