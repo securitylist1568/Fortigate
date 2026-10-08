@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 12.149.216.162.bc.googleusercontent.com
 126.201.52.34.bc.googleusercontent.com
-130.210.203.35.bc.googleusercontent.com
 150.244.53.34.bc.googleusercontent.com
 157.7.175.207.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
@@ -32,15 +31,12 @@
 228.82.77.34.bc.googleusercontent.com
 233.58.199.104.bc.googleusercontent.com
 234.149.216.162.bc.googleusercontent.com
-242.211.203.35.bc.googleusercontent.com
 28.210.203.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 38.69.38.34.bc.googleusercontent.com
 45.211.203.35.bc.googleusercontent.com
-60-249-14-121.hinet-ip.hinet.net
 65.149.216.162.bc.googleusercontent.com
 67.211.52.34.bc.googleusercontent.com
-71.148.40.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdesirsgu3.stretchoid.com
