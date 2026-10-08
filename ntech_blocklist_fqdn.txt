@@ -18,6 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.210.203.35.bc.googleusercontent.com
+12.149.216.162.bc.googleusercontent.com
+126.201.52.34.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
 138-94-58-182.jasec.go.cr
 142.210.203.35.bc.googleusercontent.com
