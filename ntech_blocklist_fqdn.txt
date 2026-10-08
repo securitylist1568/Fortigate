@@ -29,14 +29,12 @@
 66-175-214-50.ip.linodeusercontent.com
 71.148.40.34.bc.googleusercontent.com
 97-107-129-114.ip.linodeusercontent.com
-aim.sba-research.org
 alanmachado.com
 amz.unixwiz.net
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-dns106.online.tj.cn
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
@@ -46,7 +44,6 @@ mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-puya.24-7.ro
 recyber.net
 rootevidence.com
 scan-58.security.ipip.net
