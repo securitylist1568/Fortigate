@@ -72,6 +72,7 @@
 55.150.216.162.bc.googleusercontent.com
 59-125-215-95.hinet-ip.hinet.net
 63.150.216.162.bc.googleusercontent.com
+67.211.52.34.bc.googleusercontent.com
 71.148.40.34.bc.googleusercontent.com
 74.91.240.35.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
