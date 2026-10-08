@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 12.149.216.162.bc.googleusercontent.com
+125.211.203.35.bc.googleusercontent.com
 126.201.52.34.bc.googleusercontent.com
 150.244.53.34.bc.googleusercontent.com
 157.7.175.207.bc.googleusercontent.com
@@ -82,6 +83,7 @@ security.criminalip.com
 server.honeywell-egypt.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.85-10-201-166.clients.your-server.de
 undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
