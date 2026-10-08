@@ -17,7 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+114-40-208-67.dynamic-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
+127.149.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 147.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -46,6 +48,7 @@ azpdeszas040.stretchoid.com
 azpdsg1dfu3n.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -60,6 +63,7 @@ pinkytales.com
 pr217.ad.nthu.edu.tw
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
