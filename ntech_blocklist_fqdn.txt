@@ -21,16 +21,14 @@
 12.149.216.162.bc.googleusercontent.com
 126.201.52.34.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
-138-94-58-182.jasec.go.cr
 142.210.203.35.bc.googleusercontent.com
 150.244.53.34.bc.googleusercontent.com
-153.150.216.162.bc.googleusercontent.com
+157.7.175.207.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
-224.153.172.83.static.edisglobal.com
 224.191.38.34.bc.googleusercontent.com
 228.82.77.34.bc.googleusercontent.com
 233.58.199.104.bc.googleusercontent.com
@@ -39,7 +37,6 @@
 28.210.203.35.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
 38.69.38.34.bc.googleusercontent.com
-51.210.203.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 65.149.216.162.bc.googleusercontent.com
 67.211.52.34.bc.googleusercontent.com
@@ -53,7 +50,6 @@ azpdesp0s64x.stretchoid.com
 azpdesqbmulp.stretchoid.com
 azpdesr2ufng.stretchoid.com
 azpdesy53gu7.stretchoid.com
-b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -72,7 +68,6 @@ l608.scanner.modat.io
 mfyabgec.musicpda.com
 o024.scanner.modat.io
 o025.scanner.modat.io
-o026.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
