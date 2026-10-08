@@ -18,10 +18,10 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114-40-208-67.dynamic-ip.hinet.net
-125.211.203.35.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
 128.150.216.162.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
+143.149.216.162.bc.googleusercontent.com
 147.150.216.162.bc.googleusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -36,9 +36,9 @@
 38.211.203.35.bc.googleusercontent.com
 39968751.grabercloud.com
 47.211.203.35.bc.googleusercontent.com
+58.150.216.162.bc.googleusercontent.com
 59-124-205-148.hinet-ip.hinet.net
 73.150.216.162.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdesbcjmeg.stretchoid.com
 azpdesbobycf.stretchoid.com
@@ -70,5 +70,4 @@ security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
-static.85-10-201-166.clients.your-server.de
 users219.vip.heteml.jp
