@@ -59,6 +59,10 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-170.4vendeta.com
+ip-58-110.4vendeta.com
+ip-58-70.4vendeta.com
+ip-59-10.superbit.host
 ip-60-250.4vendeta.com
 ip29.sudolio.io
 kub002.idyschool.de.com
@@ -74,8 +78,12 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.io
 scan-13n.shadowserver.io
+scan-59g.shadowserver.io
+scan-60-10.shadowserver.io
+scan-61-9.shadowserver.io
 scan-71-05.shadowserver.io
 scan-93-6.shadowserver.io
+scan-94-0.shadowserver.io
 scan-94-2.shadowserver.io
 scan-94-6.shadowserver.io
 scan-95-1.shadowserver.io
@@ -86,6 +94,7 @@ scan-96-7.shadowserver.io
 scan-97-3.shadowserver.io
 scan-97-7.shadowserver.io
 security.criminalip.com
+server.honeywell-egypt.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
