@@ -29,6 +29,7 @@
 224.153.172.83.static.edisglobal.com
 224.191.38.34.bc.googleusercontent.com
 228.82.77.34.bc.googleusercontent.com
+233.58.199.104.bc.googleusercontent.com
 242.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 31.211.203.35.bc.googleusercontent.com
@@ -61,6 +62,7 @@ o024.scanner.modat.io
 o026.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-09n.shadowserver.io
@@ -82,4 +84,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
