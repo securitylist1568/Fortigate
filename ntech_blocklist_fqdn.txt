@@ -55,6 +55,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
 kub002.idyschool.de.com
+l608.scanner.modat.io
 mfyabgec.musicpda.com
 o024.scanner.modat.io
 o026.scanner.modat.io
