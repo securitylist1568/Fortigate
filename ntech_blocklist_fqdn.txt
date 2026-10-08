@@ -23,7 +23,6 @@
 160.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 2d0b6ab5.ams.customer.misaka.io
-2d96f380.kbp.customer.misaka.io
 36-229-186-115.dynamic-ip.hinet.net
 66-175-214-50.ip.linodeusercontent.com
 71.148.40.34.bc.googleusercontent.com
@@ -50,7 +49,6 @@ recyber.net
 rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
