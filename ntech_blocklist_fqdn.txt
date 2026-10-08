@@ -27,6 +27,7 @@
 150.244.53.34.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
+166.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
 200.150.216.162.bc.googleusercontent.com
@@ -68,6 +69,7 @@ kub002.idyschool.de.com
 l608.scanner.modat.io
 mfyabgec.musicpda.com
 o024.scanner.modat.io
+o025.scanner.modat.io
 o026.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
