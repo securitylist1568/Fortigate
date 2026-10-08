@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.211.203.35.bc.googleusercontent.com
+147.150.216.162.bc.googleusercontent.com
 157.7.175.207.bc.googleusercontent.com
 172-104-134-182.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -72,6 +73,7 @@ scan-96-3.shadowserver.io
 security.criminalip.com
 server.honeywell-egypt.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.85-10-201-166.clients.your-server.de
 users219.vip.heteml.jp
