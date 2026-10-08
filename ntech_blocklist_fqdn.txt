@@ -20,12 +20,14 @@
 111-240-93-35.dynamic-ip.hinet.net
 131.210.203.35.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
+138-94-58-182.jasec.go.cr
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 144.92.74.97.host.secureserver.net
+153.150.216.162.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
@@ -93,6 +95,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o026.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
