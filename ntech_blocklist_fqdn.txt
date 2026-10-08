@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.210.203.35.bc.googleusercontent.com
+130.210.203.35.bc.googleusercontent.com
 134.149.216.162.bc.googleusercontent.com
 138-94-58-182.jasec.go.cr
 139-144-239-185.ip.linodeusercontent.com
@@ -30,7 +31,6 @@
 144.92.74.97.host.secureserver.net
 153.150.216.162.bc.googleusercontent.com
 166.149.216.162.bc.googleusercontent.com
-168-113-158-51.instances.scw.cloud
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-225.ip.linodeusercontent.com
@@ -78,7 +78,6 @@
 55.150.216.162.bc.googleusercontent.com
 59-125-215-95.hinet-ip.hinet.net
 62.76.233.35.bc.googleusercontent.com
-63.150.216.162.bc.googleusercontent.com
 67.211.52.34.bc.googleusercontent.com
 74.91.240.35.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
@@ -108,7 +107,6 @@ recyber.net
 scan-13n.shadowserver.io
 scan-41m.shadowserver.io
 scan-43h.shadowserver.io
-scan-58.security.ipip.net
 scan-68-08.shadowserver.io
 scan-71-05.shadowserver.io
 scan-73-02.shadowserver.io
