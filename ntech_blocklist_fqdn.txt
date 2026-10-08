@@ -56,6 +56,7 @@ o055.scanner.modat.io
 o074.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+pr217.ad.nthu.edu.tw
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
