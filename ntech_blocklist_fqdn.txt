@@ -70,9 +70,7 @@
 45-79-225-32.ip.linodeusercontent.com
 55.150.216.162.bc.googleusercontent.com
 63.150.216.162.bc.googleusercontent.com
-66-175-214-50.ip.linodeusercontent.com
 71.148.40.34.bc.googleusercontent.com
-97-107-129-114.ip.linodeusercontent.com
 aim.sba-research.org
 alanmachado.com
 amz.unixwiz.net
@@ -93,7 +91,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-41m.shadowserver.io
 scan-58.security.ipip.net
 scan-68-08.shadowserver.io
