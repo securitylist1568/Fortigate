@@ -72,6 +72,7 @@
 45-79-145-233.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
+51.210.203.35.bc.googleusercontent.com
 55.150.216.162.bc.googleusercontent.com
 59-125-215-95.hinet-ip.hinet.net
 62.76.233.35.bc.googleusercontent.com
@@ -83,6 +84,7 @@
 aim.sba-research.org
 alanmachado.com
 amz.unixwiz.net
+b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
