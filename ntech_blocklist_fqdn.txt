@@ -34,6 +34,7 @@
 23.209.255.172.hosted.by.hostdzire.com
 25.211.203.35.bc.googleusercontent.com
 30.51.195.35.bc.googleusercontent.com
+41.149.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
 47.98.77.34.bc.googleusercontent.com
 54.149.216.162.bc.googleusercontent.com
@@ -101,6 +102,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1625-135.members.linode.com
 mfyabgec.musicpda.com
+o070.scanner.modat.io
 o072.scanner.modat.io
 o336.scanner.modat.io
 o348.scanner.modat.io
