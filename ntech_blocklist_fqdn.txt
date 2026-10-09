@@ -30,6 +30,7 @@
 185-45-195-15.hostsailor.com
 189.149.216.162.bc.googleusercontent.com
 197.210.203.35.bc.googleusercontent.com
+220-135-48-116.hinet-ip.hinet.net
 234.253.165.124.adsl-pool.sx.cn
 34.150.216.162.bc.googleusercontent.com
 36-239-29-113.dynamic-ip.hinet.net
