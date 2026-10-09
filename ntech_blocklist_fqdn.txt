@@ -26,7 +26,6 @@
 166.211.203.35.bc.googleusercontent.com
 169.170.187.35.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
-180.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.195.35.bc.googleusercontent.com
 205.127.195.35.bc.googleusercontent.com
@@ -35,15 +34,12 @@
 23.209.255.172.hosted.by.hostdzire.com
 25.211.203.35.bc.googleusercontent.com
 30.51.195.35.bc.googleusercontent.com
-36-239-29-113.dynamic-ip.hinet.net
 47.149.216.162.bc.googleusercontent.com
 47.98.77.34.bc.googleusercontent.com
 54.149.216.162.bc.googleusercontent.com
 54.223.156.34.bc.googleusercontent.com
-6682315a.customer.misaka.joburg
 73.150.216.162.bc.googleusercontent.com
 77.149.216.162.bc.googleusercontent.com
-81.211.203.35.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
 98.126.103.210.static.krypt.com
 aim.sba-research.org
@@ -79,7 +75,6 @@ azpdesydaqo3.stretchoid.com
 azpdsg8sm7ue.stretchoid.com
 azpdsgrllenu.stretchoid.com
 b2.org.afilias-nst.org
-b9ead587.zrh.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -101,7 +96,6 @@ ec2-54-82-33-90.compute-1.amazonaws.com
 ec2-54-90-190-1.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
-hosted-by.privatelayer.com
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
