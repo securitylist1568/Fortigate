@@ -116,10 +116,13 @@ recyber.net
 scan-43h.shadowserver.io
 scan-60-10.shadowserver.io
 scan-81-7.shadowserver.io
+scan-93-2.shadowserver.io
 scan-94-7.shadowserver.io
 scan-95-3.shadowserver.io
+scan-96-4.shadowserver.io
 scan-96-6.shadowserver.io
 scan-98-3.shadowserver.io
+scan-98-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 srv20603.dus7.dedicated.server-hosting.expert
