@@ -27,6 +27,7 @@
 200.174.236.35.bc.googleusercontent.com
 205.127.195.35.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
+234.253.165.124.adsl-pool.sx.cn
 239.210.203.35.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 39.150.216.162.bc.googleusercontent.com
@@ -82,6 +83,7 @@ scan-43h.shadowserver.io
 scan-55c.shadowserver.io
 scan-68-08.shadowserver.io
 scan-93-2.shadowserver.io
+scan-94-1.shadowserver.io
 scan-96-0.shadowserver.io
 scan-96-4.shadowserver.io
 scan-96-7.shadowserver.io
