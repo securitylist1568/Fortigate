@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
-128.101.205.35.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
@@ -77,9 +76,7 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 o070.scanner.modat.io
 o071.scanner.modat.io
-o072.scanner.modat.io
 o336.scanner.modat.io
-o348.scanner.modat.io
 o353.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -90,11 +87,8 @@ scan-43h.shadowserver.io
 scan-55c.shadowserver.io
 scan-68-08.shadowserver.io
 scan-93-2.shadowserver.io
-scan-94-7.shadowserver.io
-scan-95-3.shadowserver.io
 scan-96-0.shadowserver.io
 scan-96-4.shadowserver.io
-scan-96-6.shadowserver.io
 scan-96-7.shadowserver.io
 scan-97-1.shadowserver.io
 scan-97-7.shadowserver.io
