@@ -25,8 +25,11 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 20.149.216.162.bc.googleusercontent.com
+200.174.236.35.bc.googleusercontent.com
+205.127.195.35.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
+239.210.203.35.bc.googleusercontent.com
 25.211.203.35.bc.googleusercontent.com
 41.149.216.162.bc.googleusercontent.com
 47.149.216.162.bc.googleusercontent.com
@@ -75,6 +78,7 @@ o348.scanner.modat.io
 o353.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43h.shadowserver.io
