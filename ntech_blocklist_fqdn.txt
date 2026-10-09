@@ -30,7 +30,6 @@
 211-75-78-227.hinet-ip.hinet.net
 219.210.203.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
-57.250.64.136.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
@@ -56,13 +55,12 @@ li1992-217.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 o056.scanner.modat.io
-o304.scanner.modat.io
-o342.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+s4850.vps.hosting
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
