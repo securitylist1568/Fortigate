@@ -58,6 +58,8 @@ li1537-121.members.linode.com
 mfyabgec.musicpda.com
 o065.scanner.modat.io
 o071.scanner.modat.io
+o304.scanner.modat.io
+o342.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
