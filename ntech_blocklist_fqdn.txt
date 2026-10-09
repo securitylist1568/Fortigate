@@ -75,6 +75,7 @@ ip-59-10.superbit.host
 ip-60-250.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+o065.scanner.modat.io
 o070.scanner.modat.io
 o071.scanner.modat.io
 o336.scanner.modat.io
