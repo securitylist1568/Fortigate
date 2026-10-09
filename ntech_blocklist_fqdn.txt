@@ -23,6 +23,7 @@
 114-40-208-67.dynamic-ip.hinet.net
 126.150.216.162.bc.googleusercontent.com
 127.149.216.162.bc.googleusercontent.com
+128.167.140.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 143.149.216.162.bc.googleusercontent.com
 169.170.187.35.bc.googleusercontent.com
@@ -41,7 +42,6 @@
 47.98.77.34.bc.googleusercontent.com
 54.223.156.34.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
-59-124-205-148.hinet-ip.hinet.net
 6682315a.customer.misaka.joburg
 81.211.203.35.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
