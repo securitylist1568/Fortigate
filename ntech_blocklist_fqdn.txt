@@ -25,6 +25,7 @@
 234.253.165.124.adsl-pool.sx.cn
 251.149.216.162.bc.googleusercontent.com
 36-232-166-224.dynamic-ip.hinet.net
+53.26.71.192.in-addr.arpa
 56.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
@@ -50,6 +51,7 @@ ip103.ip-5-39-125.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
+o056.scanner.modat.io
 o065.scanner.modat.io
 o304.scanner.modat.io
 o342.scanner.modat.io
@@ -64,3 +66,4 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.eztech.vn
 users219.vip.heteml.jp
+vmi3042921.contaboserver.net
