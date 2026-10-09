@@ -21,16 +21,12 @@
 151.210.203.35.bc.googleusercontent.com
 16-106-91-38.clients.gthost.com
 172-104-130-236.ip.linodeusercontent.com
-172-232-32-15.ip.linodeusercontent.com
 173-255-236-11.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
 191.105.150.34.bc.googleusercontent.com
-196.210.203.35.bc.googleusercontent.com
 211-75-78-227.hinet-ip.hinet.net
-219.210.203.35.bc.googleusercontent.com
 43.149.216.162.bc.googleusercontent.com
-53.26.71.192.in-addr.arpa
 8.211.203.35.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
 94.183.174.95.ptr.pfcloud.network
@@ -53,7 +49,6 @@ ip29.sudolio.io
 li1992-217.members.linode.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
-o056.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -66,4 +61,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-vmi3042921.contaboserver.net
