@@ -38,6 +38,7 @@
 74.150.216.162.bc.googleusercontent.com
 88.149.216.162.bc.googleusercontent.com
 89.211.203.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdes085iiu.stretchoid.com
 azpdes1ju6nd.stretchoid.com
@@ -100,5 +101,6 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.24.29.4.185.clients.irandns.com
+static.eztech.vn
 users219.vip.heteml.jp
 ve264.venus.dedi.server-hosting.expert
