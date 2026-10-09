@@ -82,6 +82,7 @@ recyber.net
 scan-43h.shadowserver.io
 scan-55c.shadowserver.io
 scan-68-08.shadowserver.io
+scan-92-6.shadowserver.io
 scan-93-2.shadowserver.io
 scan-94-1.shadowserver.io
 scan-96-0.shadowserver.io
