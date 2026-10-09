@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
 128.101.205.35.bc.googleusercontent.com
+164.149.216.162.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -72,6 +73,7 @@ ip-58-162.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 o070.scanner.modat.io
+o071.scanner.modat.io
 o072.scanner.modat.io
 o336.scanner.modat.io
 o348.scanner.modat.io
