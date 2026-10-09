@@ -26,13 +26,10 @@
 185-45-195-15.hostsailor.com
 190.150.216.162.bc.googleusercontent.com
 191.105.150.34.bc.googleusercontent.com
-195.150.216.162.bc.googleusercontent.com
 196.210.203.35.bc.googleusercontent.com
 211-75-78-227.hinet-ip.hinet.net
 219.210.203.35.bc.googleusercontent.com
-36-232-166-224.dynamic-ip.hinet.net
 53.26.71.192.in-addr.arpa
-56.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
 8.211.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
@@ -52,7 +49,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-112-146.4vendeta.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
-li1537-121.members.linode.com
 mfyabgec.musicpda.com
 o056.scanner.modat.io
 o304.scanner.modat.io
