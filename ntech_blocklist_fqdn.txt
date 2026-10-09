@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 119.211.203.35.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
-153.150.216.162.bc.googleusercontent.com
 16-106-91-38.clients.gthost.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
@@ -34,7 +33,6 @@
 8.211.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -50,7 +48,6 @@ ip29.sudolio.io
 li1537-121.members.linode.com
 mfyabgec.musicpda.com
 o056.scanner.modat.io
-o065.scanner.modat.io
 o304.scanner.modat.io
 o342.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -60,6 +57,5 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.eztech.vn
 users219.vip.heteml.jp
 vmi3042921.contaboserver.net
