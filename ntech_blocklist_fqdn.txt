@@ -24,9 +24,11 @@
 172-232-32-15.ip.linodeusercontent.com
 173-255-236-11.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+190.150.216.162.bc.googleusercontent.com
 191.105.150.34.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
 196.210.203.35.bc.googleusercontent.com
+211-75-78-227.hinet-ip.hinet.net
 219.210.203.35.bc.googleusercontent.com
 36-232-166-224.dynamic-ip.hinet.net
 53.26.71.192.in-addr.arpa
@@ -36,6 +38,7 @@
 80.150.216.162.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
 aa27e0dc.iad.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
