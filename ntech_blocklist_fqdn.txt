@@ -52,6 +52,7 @@ hn.kd.ny.adsl
 hosted-by.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1625-135.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o055.scanner.modat.io
@@ -62,6 +63,8 @@ pr217.ad.nthu.edu.tw
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-60-10.shadowserver.io
+scan-81-7.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
