@@ -20,7 +20,9 @@
 119.211.203.35.bc.googleusercontent.com
 151.210.203.35.bc.googleusercontent.com
 16-106-91-38.clients.gthost.com
+172-104-130-236.ip.linodeusercontent.com
 172-232-32-15.ip.linodeusercontent.com
+173-255-236-11.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 191.105.150.34.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
@@ -33,6 +35,7 @@
 8.211.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
+aa27e0dc.iad.customer.misaka.io
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -54,6 +57,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
