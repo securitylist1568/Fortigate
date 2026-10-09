@@ -41,6 +41,19 @@
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
+azpdes0tijbs.stretchoid.com
+azpdes40hbzn.stretchoid.com
+azpdes8lof72.stretchoid.com
+azpdesaa11l1.stretchoid.com
+azpdese7ovwo.stretchoid.com
+azpdese8uhzm.stretchoid.com
+azpdesewj9r6.stretchoid.com
+azpdesjnpgf2.stretchoid.com
+azpdesnd304q.stretchoid.com
+azpdeso259nm.stretchoid.com
+azpdesooqpiq.stretchoid.com
+azpdespahbko.stretchoid.com
+azpdesv21xbl.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
@@ -66,5 +79,6 @@ scan-81-7.shadowserver.io
 scan-98-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv20603.dus7.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
