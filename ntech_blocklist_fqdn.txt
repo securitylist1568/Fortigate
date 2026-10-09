@@ -121,6 +121,7 @@ scan-94-7.shadowserver.io
 scan-95-3.shadowserver.io
 scan-96-4.shadowserver.io
 scan-96-6.shadowserver.io
+scan-97-7.shadowserver.io
 scan-98-3.shadowserver.io
 scan-98-4.shadowserver.io
 security.criminalip.com
