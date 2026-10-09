@@ -29,6 +29,7 @@
 196.210.203.35.bc.googleusercontent.com
 211-75-78-227.hinet-ip.hinet.net
 219.210.203.35.bc.googleusercontent.com
+43.149.216.162.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 8.211.203.35.bc.googleusercontent.com
 92.89.185.34.bc.googleusercontent.com
@@ -63,4 +64,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
+vds1077812.hosted-by-itldc.com
 vmi3042921.contaboserver.net
