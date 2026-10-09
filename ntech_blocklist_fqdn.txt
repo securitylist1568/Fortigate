@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 122.149.216.162.bc.googleusercontent.com
-126.150.216.162.bc.googleusercontent.com
 128.101.205.35.bc.googleusercontent.com
 128.167.140.34.bc.googleusercontent.com
 166.211.203.35.bc.googleusercontent.com
@@ -28,8 +27,8 @@
 17.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.150.195.35.bc.googleusercontent.com
+194-195-253-86.ip.linodeusercontent.com
 205.127.195.35.bc.googleusercontent.com
-220-135-48-116.hinet-ip.hinet.net
 221.210.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 25.211.203.35.bc.googleusercontent.com
@@ -103,7 +102,6 @@ hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-162.4vendeta.com
 ip29.sudolio.io
-li1625-135.members.linode.com
 mfyabgec.musicpda.com
 o070.scanner.modat.io
 o072.scanner.modat.io
@@ -115,15 +113,12 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-43h.shadowserver.io
-scan-60-10.shadowserver.io
-scan-81-7.shadowserver.io
 scan-93-2.shadowserver.io
 scan-94-7.shadowserver.io
 scan-95-3.shadowserver.io
 scan-96-4.shadowserver.io
 scan-96-6.shadowserver.io
 scan-97-7.shadowserver.io
-scan-98-3.shadowserver.io
 scan-98-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
