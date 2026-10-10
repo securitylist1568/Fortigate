@@ -24,6 +24,7 @@
 173.114.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 218.210.203.35.bc.googleusercontent.com
+242.72.185.138.g21telecom.com.br
 3.64.172.144.static.cloudzy.com
 41.210.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
