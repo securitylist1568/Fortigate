@@ -104,6 +104,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-15k.shadowserver.io
+scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-45o.shadowserver.io
