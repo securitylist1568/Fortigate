@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
-118.44.62.34.bc.googleusercontent.com
 126.150.216.162.bc.googleusercontent.com
 129.150.216.162.bc.googleusercontent.com
 16.146.78.34.bc.googleusercontent.com
@@ -32,11 +31,8 @@
 231.164.241.35.bc.googleusercontent.com
 251.150-pl.freakhosting.com
 252.149.216.162.bc.googleusercontent.com
-2d834681.led.customer.misaka.io
-42.123.243.83.in-addr.arpa
 63.149.216.162.bc.googleusercontent.com
 67.125.233.35.bc.googleusercontent.com
-72.150.216.162.bc.googleusercontent.com
 80.111.240.35.bc.googleusercontent.com
 82.132.156.34.bc.googleusercontent.com
 84.166.205.35.bc.googleusercontent.com
@@ -74,7 +70,6 @@ recyber.net
 regular-t1ching.hillgent.com
 rootevidence.com
 scan-40g.shadowserver.io
-scan-45o.shadowserver.io
 scan-60-10.shadowserver.io
 scan-69-05.shadowserver.io
 scan-70-00.shadowserver.io
