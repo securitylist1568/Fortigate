@@ -22,9 +22,11 @@
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 118.44.62.34.bc.googleusercontent.com
 16.146.78.34.bc.googleusercontent.com
+163.150.216.162.bc.googleusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
+194-195-122-95.ip.linodeusercontent.com
 194.210.203.35.bc.googleusercontent.com
 194.239.79.34.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
@@ -35,8 +37,11 @@
 56.149.216.162.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
+67.125.233.35.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
+82.132.156.34.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdes0tijbs.stretchoid.com
 azpdes1yrrla.stretchoid.com
