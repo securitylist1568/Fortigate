@@ -36,6 +36,7 @@
 63.149.216.162.bc.googleusercontent.com
 67.125.233.35.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
+80.111.240.35.bc.googleusercontent.com
 82.132.156.34.bc.googleusercontent.com
 84.166.205.35.bc.googleusercontent.com
 87.210.203.35.bc.googleusercontent.com
@@ -84,6 +85,7 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.198.175.201.138.clients.your-server.de
+static.216.22.9.176.clients.your-server.de
 unn-207-211-214-162.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
