@@ -24,6 +24,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
+187.62.234-12.conectatelecomto.com.br
 191.105.150.34.bc.googleusercontent.com
 194.210.203.35.bc.googleusercontent.com
 194.239.79.34.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 30-202-250-167.uniconnect.net.br
 43.149.216.162.bc.googleusercontent.com
 45.149.216.162.bc.googleusercontent.com
+56.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 67.125.233.35.bc.googleusercontent.com
