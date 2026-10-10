@@ -23,6 +23,7 @@
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
 191.105.150.34.bc.googleusercontent.com
+194.210.203.35.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
 231.164.241.35.bc.googleusercontent.com
