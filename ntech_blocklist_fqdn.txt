@@ -52,6 +52,7 @@ dns12.online.tj.cn
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-90.superbit.host
 ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -74,6 +75,7 @@ scan-93-7.shadowserver.io
 scan-94-2.shadowserver.io
 scan-94-5.shadowserver.io
 scan-95-1.shadowserver.io
+scan-95-3.shadowserver.io
 scan-96-1.shadowserver.io
 scan-96-2.shadowserver.io
 scan-98-1.shadowserver.io
