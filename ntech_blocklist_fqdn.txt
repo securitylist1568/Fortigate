@@ -33,12 +33,14 @@
 228.210.203.35.bc.googleusercontent.com
 231.164.241.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 30-202-250-167.uniconnect.net.br
 45.149.216.162.bc.googleusercontent.com
 56.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
 67.125.233.35.bc.googleusercontent.com
+72.150.216.162.bc.googleusercontent.com
 80.111.240.35.bc.googleusercontent.com
 82.113.78.34.bc.googleusercontent.com
 82.132.156.34.bc.googleusercontent.com
