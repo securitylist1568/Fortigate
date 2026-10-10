@@ -26,6 +26,7 @@
 166.150.216.162.bc.googleusercontent.com
 173.114.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+3.64.172.144.static.cloudzy.com
 50-116-23-150.ip.linodeusercontent.com
 63.150.216.162.bc.googleusercontent.com
 80.111.240.35.bc.googleusercontent.com
@@ -41,6 +42,7 @@ crawler210.deepfield.net
 crawler249.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-137-189-212.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
