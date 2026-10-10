@@ -35,6 +35,7 @@
 82.132.156.34.bc.googleusercontent.com
 84.166.205.35.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
+91.152.241.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
 94.183.174.95.ptr.pfcloud.network
 aa27e3fb.sea.customer.misaka.io
@@ -79,6 +80,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-15k.shadowserver.io
+scan-41m.shadowserver.io
 scan-60.security.ipip.net
 scan-94-6.shadowserver.io
 scan-98-3.shadowserver.io
