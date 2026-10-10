@@ -38,6 +38,7 @@
 56.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
 58.149.216.162.bc.googleusercontent.com
+63.149.216.162.bc.googleusercontent.com
 67.125.233.35.bc.googleusercontent.com
 72.150.216.162.bc.googleusercontent.com
 80.111.240.35.bc.googleusercontent.com
@@ -107,7 +108,9 @@ scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-45o.shadowserver.io
 scan-63-8.shadowserver.io
+scan-94-5.shadowserver.io
 scan-94-6.shadowserver.io
+scan-95-1.shadowserver.io
 scan-98-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
