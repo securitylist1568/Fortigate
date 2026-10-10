@@ -50,6 +50,7 @@ ec2-3-137-189-212.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-18.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
