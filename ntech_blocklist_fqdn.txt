@@ -21,7 +21,6 @@
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 126.150.216.162.bc.googleusercontent.com
 129.150.216.162.bc.googleusercontent.com
-16.146.78.34.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
 166.150.216.162.bc.googleusercontent.com
@@ -33,7 +32,6 @@
 231.164.241.35.bc.googleusercontent.com
 251.150-pl.freakhosting.com
 252.149.216.162.bc.googleusercontent.com
-63.149.216.162.bc.googleusercontent.com
 67.125.233.35.bc.googleusercontent.com
 80.111.240.35.bc.googleusercontent.com
 82.132.156.34.bc.googleusercontent.com
@@ -71,7 +69,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 regular-t1ching.hillgent.com
 rootevidence.com
-scan-40g.shadowserver.io
 scan-60-10.shadowserver.io
 scan-69-05.shadowserver.io
 scan-70-00.shadowserver.io
@@ -80,8 +77,6 @@ scan-79-08.shadowserver.io
 scan-92-1.shadowserver.io
 scan-93-7.shadowserver.io
 scan-94-2.shadowserver.io
-scan-94-5.shadowserver.io
-scan-95-1.shadowserver.io
 scan-95-3.shadowserver.io
 scan-96-1.shadowserver.io
 scan-96-2.shadowserver.io
