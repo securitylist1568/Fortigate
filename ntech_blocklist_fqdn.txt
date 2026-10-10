@@ -1,6 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
 103-112-0-32.oneqode.net
-104.149.216.162.bc.googleusercontent.com
 11.164.187.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -22,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 118.44.62.34.bc.googleusercontent.com
 154.21.148.146.bc.googleusercontent.com
-159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
@@ -46,7 +44,6 @@
 82.113.78.34.bc.googleusercontent.com
 82.132.156.34.bc.googleusercontent.com
 84.166.205.35.bc.googleusercontent.com
-9.149.216.162.bc.googleusercontent.com
 91.152.241.35.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aim.sba-research.org
@@ -99,7 +96,6 @@ ec2-98-93-16-247.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-90.superbit.host
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
