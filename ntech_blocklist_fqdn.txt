@@ -19,10 +19,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-35-89-166.hinet-ip.hinet.net
 118.149.216.162.bc.googleusercontent.com
 150.210.203.35.bc.googleusercontent.com
-173.114.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 218.210.203.35.bc.googleusercontent.com
 242.72.185.138.g21telecom.com.br
@@ -59,7 +57,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
