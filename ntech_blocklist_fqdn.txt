@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+154.21.148.146.bc.googleusercontent.com
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 163.34.79.202.wlink.com.np
 185-45-195-15.hostsailor.com
@@ -28,6 +29,7 @@
 30-202-250-167.uniconnect.net.br
 43.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
+82.132.156.34.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
 9213038d.customer.misaka.se
 94.183.174.95.ptr.pfcloud.network
