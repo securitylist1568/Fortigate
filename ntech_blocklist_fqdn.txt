@@ -20,6 +20,7 @@
 115.178.160.60.broad.yx.yn.dynamic.163data.com.cn
 118.44.62.34.bc.googleusercontent.com
 126.150.216.162.bc.googleusercontent.com
+129.150.216.162.bc.googleusercontent.com
 16.146.78.34.bc.googleusercontent.com
 163.150.216.162.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
@@ -65,12 +66,17 @@ scan-40g.shadowserver.io
 scan-45o.shadowserver.io
 scan-60-10.shadowserver.io
 scan-69-05.shadowserver.io
+scan-70-00.shadowserver.io
 scan-73-02.shadowserver.io
 scan-79-08.shadowserver.io
+scan-92-1.shadowserver.io
 scan-93-7.shadowserver.io
+scan-94-2.shadowserver.io
 scan-94-5.shadowserver.io
 scan-95-1.shadowserver.io
+scan-96-1.shadowserver.io
 scan-96-2.shadowserver.io
+scan-98-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
