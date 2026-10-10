@@ -23,6 +23,7 @@
 153.150.216.162.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+212-83-165-60.rev.poneytelecom.eu
 218.210.203.35.bc.googleusercontent.com
 242.72.185.138.g21telecom.com.br
 3.64.172.144.static.cloudzy.com
