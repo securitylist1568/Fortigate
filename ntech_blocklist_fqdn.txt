@@ -26,10 +26,12 @@
 212-83-165-60.rev.poneytelecom.eu
 242.72.185.138.g21telecom.com.br
 41.210.203.35.bc.googleusercontent.com
+45-79-132-238.ip.linodeusercontent.com
 55.150.216.162.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
+69-164-213-11.ip.linodeusercontent.com
 80.43.167.72.host.secureserver.net
 88.211.203.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -56,6 +58,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
+rootevidence.com
 security.criminalip.com
 server.bslpackers.com
 smtp1.telemach.net
