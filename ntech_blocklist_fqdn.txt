@@ -29,6 +29,7 @@
 43.149.216.162.bc.googleusercontent.com
 57.250.64.136.bc.googleusercontent.com
 9.149.216.162.bc.googleusercontent.com
+9213038d.customer.misaka.se
 94.183.174.95.ptr.pfcloud.network
 aa27e0dc.iad.customer.misaka.io
 aa27e3fb.sea.customer.misaka.io
