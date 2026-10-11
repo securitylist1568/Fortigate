@@ -27,6 +27,7 @@
 150.21.38.34.bc.googleusercontent.com
 157.187.156.34.bc.googleusercontent.com
 163.123.175.207.bc.googleusercontent.com
+172-232-121-108.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 2d834781.kunde.misaka.berlin
@@ -61,6 +62,7 @@ ip-40-190.4vendeta.com
 ip-49-118.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
+ip-58-18.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-70.4vendeta.com
 ip-58-98.4vendeta.com
