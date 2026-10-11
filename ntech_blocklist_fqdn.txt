@@ -58,6 +58,7 @@ ip-40-86.4vendeta.com
 ip29.sudolio.io
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
+mx2.njal.la
 null.null
 o338.scanner.modat.io
 pc112.cses.ilc.edu.tw
