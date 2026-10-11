@@ -39,6 +39,7 @@
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
 216.150.216.162.bc.googleusercontent.com
+228.37.187.35.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
