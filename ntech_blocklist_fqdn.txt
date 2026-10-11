@@ -60,6 +60,7 @@
 45-79-145-34.ip.linodeusercontent.com
 47.119.175.207.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
+68.92.14.34.bc.googleusercontent.com
 69-164-213-11.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
@@ -120,4 +121,5 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.eztech.vn
 sydney.scan.bufferover.run
+trafo.kz
 users219.vip.heteml.jp
