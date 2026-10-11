@@ -26,6 +26,7 @@
 215.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
+25.150.216.162.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 3.64.172.144.static.cloudzy.com
 30-202-250-167.uniconnect.net.br
