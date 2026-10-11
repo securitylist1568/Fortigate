@@ -30,14 +30,11 @@
 172-233-89-133.ip.linodeusercontent.com
 173.114.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-228.37.187.35.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 39-12-81-185.adsl.fetnet.net
-40.157.34.34.bc.googleusercontent.com
 40.210.203.35.bc.googleusercontent.com
 44.31.158.192.bc.googleusercontent.com
 45-79-184-131.ip.linodeusercontent.com
-47.119.175.207.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
 68.92.14.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
@@ -57,8 +54,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-49-118.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o055.scanner.modat.io
-o063.scanner.modat.io
 o074.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -72,7 +67,6 @@ scan-60-10.shadowserver.io
 scan-69-05.shadowserver.io
 scan-81-7.shadowserver.io
 scan-95-5.shadowserver.io
-scan-96-2.shadowserver.io
 scan-98-6.shadowserver.io
 security.criminalip.com
 server19740.maxko-hosting.net
