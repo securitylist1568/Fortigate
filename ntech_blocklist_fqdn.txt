@@ -37,12 +37,10 @@
 173-255-243-63.ip.linodeusercontent.com
 173.114.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-188.210.203.35.bc.googleusercontent.com
 198-74-58-111.ip.linodeusercontent.com
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-216.150.216.162.bc.googleusercontent.com
 228.37.187.35.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-123.ip.linodeusercontent.com
@@ -53,7 +51,6 @@
 23-92-26-65.ip.linodeusercontent.com
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-243.149.216.162.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 2d96f25f.customer.misaka.taipei
 39-12-81-185.adsl.fetnet.net
@@ -68,7 +65,6 @@
 47.119.175.207.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
 68.92.14.34.bc.googleusercontent.com
-78.150.216.162.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
 85.54.195.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -84,8 +80,6 @@ azpdespe7870.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
-crawler170.deepfield.net
-d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
 doha.scan.bufferover.run
@@ -118,6 +112,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-41f.shadowserver.io
 scan-43h.shadowserver.io
 scan-69-05.shadowserver.io
 scan-81-7.shadowserver.io
