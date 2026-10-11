@@ -28,19 +28,15 @@
 143.149.216.162.bc.googleusercontent.com
 149.149.216.162.bc.googleusercontent.com
 150.21.38.34.bc.googleusercontent.com
-152.241.130.34.bc.googleusercontent.com
 157.187.156.34.bc.googleusercontent.com
 163.123.175.207.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
-173.114.87.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 2d834781.kunde.misaka.berlin
 39-12-81-185.adsl.fetnet.net
 40.210.203.35.bc.googleusercontent.com
-44.31.158.192.bc.googleusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 63.148.79.34.bc.googleusercontent.com
-68.92.14.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 85.54.195.35.bc.googleusercontent.com
 aim.sba-research.org
@@ -68,7 +64,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-41f.shadowserver.io
-scan-43h.shadowserver.io
 scan-56.security.ipip.net
 scan-60-10.shadowserver.io
 scan-69-05.shadowserver.io
@@ -79,5 +74,4 @@ security.criminalip.com
 server19740.maxko-hosting.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-trafo.kz
 users219.vip.heteml.jp
