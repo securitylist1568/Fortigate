@@ -18,13 +18,14 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 134.211.203.35.bc.googleusercontent.com
+172-232-231-4.ip.linodeusercontent.com
 184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 227.210.203.35.bc.googleusercontent.com
 231.211.203.35.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
-3.64.172.144.static.cloudzy.com
 37-202-246-113.shatel.ir
+58.230.11.45.us.kuroit.com
 78.211.203.35.bc.googleusercontent.com
 98.200.116.34.bc.googleusercontent.com
 aim.sba-research.org
