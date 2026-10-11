@@ -50,11 +50,13 @@
 23-92-27-179.ip.linodeusercontent.com
 243.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
+40.157.34.34.bc.googleusercontent.com
 45-56-83-149.ip.linodeusercontent.com
 45-79-103-169.ip.linodeusercontent.com
 45-79-130-153.ip.linodeusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
+47.119.175.207.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
 69-164-213-11.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
