@@ -25,7 +25,6 @@
 148.190.78.34.bc.googleusercontent.com
 150.21.38.34.bc.googleusercontent.com
 152.241.130.34.bc.googleusercontent.com
-155.150.216.162.bc.googleusercontent.com
 157.187.156.34.bc.googleusercontent.com
 163.123.175.207.bc.googleusercontent.com
 172-236-103-8.ip.linodeusercontent.com
@@ -39,7 +38,6 @@
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-212-83-165-60.rev.poneytelecom.eu
 216.150.216.162.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-123.ip.linodeusercontent.com
@@ -57,8 +55,6 @@
 45-79-130-153.ip.linodeusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
-60.149.216.162.bc.googleusercontent.com
-60.210.203.35.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
 69-164-213-11.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
@@ -72,12 +68,9 @@ azpdesdmmzja.stretchoid.com
 azpdeshho09x.stretchoid.com
 azpdesjnpgf2.stretchoid.com
 azpdesmlqfqr.stretchoid.com
-azpdesn5nivk.stretchoid.com
 azpdesnabumh.stretchoid.com
 azpdesnd304q.stretchoid.com
 azpdespe7870.stretchoid.com
-azpdessbr4x4.stretchoid.com
-azpdesydaqo3.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -118,8 +111,8 @@ rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 rootevidence.com
 scan-97-1.shadowserver.io
 security.criminalip.com
-server.bslpackers.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.eztech.vn
 sydney.scan.bufferover.run
 users219.vip.heteml.jp
