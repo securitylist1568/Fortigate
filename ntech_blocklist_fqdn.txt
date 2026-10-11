@@ -28,7 +28,6 @@
 157.187.156.34.bc.googleusercontent.com
 163.123.175.207.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
-172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 215.210.203.35.bc.googleusercontent.com
 30-202-250-167.uniconnect.net.br
@@ -62,7 +61,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-114.4vendeta.com
 ip-40-158.4vendeta.com
 ip-40-190.4vendeta.com
-ip-49-118.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-18.4vendeta.com
@@ -74,7 +72,6 @@ ip29.sudolio.io
 li1817-110.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-o074.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
