@@ -30,6 +30,7 @@
 157.187.156.34.bc.googleusercontent.com
 163.123.175.207.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
+173-255-224-168.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 215.210.203.35.bc.googleusercontent.com
 227.211.203.35.bc.googleusercontent.com
@@ -74,6 +75,7 @@ ip-58-98.4vendeta.com
 ip-60-250.4vendeta.com
 ip29.sudolio.io
 li1817-110.members.linode.com
+li1873-236.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -81,6 +83,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+rootevidence.com
 scan-56.security.ipip.net
 scan-60-10.shadowserver.io
 scan-95-5.shadowserver.io
