@@ -18,13 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 113.97.205.35.bc.googleusercontent.com
-130.210.203.35.bc.googleusercontent.com
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 148.190.78.34.bc.googleusercontent.com
 150.21.38.34.bc.googleusercontent.com
-152.241.130.34.bc.googleusercontent.com
 157.187.156.34.bc.googleusercontent.com
 163.123.175.207.bc.googleusercontent.com
 172-236-103-8.ip.linodeusercontent.com
@@ -104,7 +102,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
-lfbn-tou-1-269-198.w86-206.abo.wanadoo.fr
 mfyabgec.musicpda.com
 o055.scanner.modat.io
 o063.scanner.modat.io
@@ -112,8 +109,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rny93-h05-89-89-216-188.dsl.sta.abo.bbox.fr
 rootevidence.com
+scan-96-2.shadowserver.io
 scan-97-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
