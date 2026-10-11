@@ -30,8 +30,10 @@
 172-232-121-108.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+215.210.203.35.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
+80.43.167.72.host.secureserver.net
 85.54.195.35.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
