@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 130.210.203.35.bc.googleusercontent.com
 152.241.130.34.bc.googleusercontent.com
-153.150.216.162.bc.googleusercontent.com
 155.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.210.203.35.bc.googleusercontent.com
@@ -28,10 +27,8 @@
 243.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 45-79-132-238.ip.linodeusercontent.com
-55.150.216.162.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
 60.210.203.35.bc.googleusercontent.com
-68.149.216.162.bc.googleusercontent.com
 69-164-213-11.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
