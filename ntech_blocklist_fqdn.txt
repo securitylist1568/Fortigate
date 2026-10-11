@@ -26,6 +26,7 @@
 188.210.203.35.bc.googleusercontent.com
 212-83-165-60.rev.poneytelecom.eu
 242.72.185.138.g21telecom.com.br
+243.149.216.162.bc.googleusercontent.com
 45-79-132-238.ip.linodeusercontent.com
 55.150.216.162.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
@@ -41,6 +42,7 @@ azpdesydaqo3.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 crawler066.deepfield.net
+crawler170.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
