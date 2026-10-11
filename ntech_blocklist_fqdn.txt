@@ -61,18 +61,14 @@
 45-56-83-149.ip.linodeusercontent.com
 45-79-103-169.ip.linodeusercontent.com
 45-79-130-153.ip.linodeusercontent.com
-45-79-132-238.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
 45-79-184-131.ip.linodeusercontent.com
 47.119.175.207.bc.googleusercontent.com
 63.148.79.34.bc.googleusercontent.com
 68.92.14.34.bc.googleusercontent.com
-69-164-213-11.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
 80.43.167.72.host.secureserver.net
 85.54.195.35.bc.googleusercontent.com
-88.211.203.35.bc.googleusercontent.com
-aim.sba-research.org
 amz.unixwiz.net
 azpdes7h6uut.stretchoid.com
 azpdesdmmzja.stretchoid.com
@@ -109,7 +105,6 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip103.ip-5-39-125.eu
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
 mfyabgec.musicpda.com
