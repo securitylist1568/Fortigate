@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 123-192-192-150.dynamic.kbronet.com.tw
+168-113-158-51.instances.scw.cloud
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.242.91.34.bc.googleusercontent.com
@@ -69,7 +70,6 @@ azpdwsy03sjj.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
-crawler151.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-pppoe-178-141-22-182.kirov.pv.mts.ru
