@@ -134,7 +134,6 @@ ns.tnp-canadasteroiddepot.is
 ns1.dmhospedagem.com.br
 ns2.sofacom.com.mx
 ns2.usotho.co.za
-ns3207149.ip-198-244-200.eu
 o605.scanner.modat.io
 orken-team.org
 pc112.cses.ilc.edu.tw
@@ -164,7 +163,6 @@ srv1.electionserver.org
 srv64069.dus2.dedicated.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
-unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 v150-95-25-34.a00a.g.bkk1.static.cnode.io
 xtl-failover.swipetrack.com
