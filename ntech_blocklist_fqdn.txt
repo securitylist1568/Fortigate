@@ -74,6 +74,7 @@ c62-108-201-221.customer.arkaden.se
 cefliximages.com
 citysmart5.citysmartcanada.com
 client.yota.ru
+crawler032.deepfield.net
 dal215.hawkhost.com
 default-80-95-194-124.interdsl.co.uk
 dns12.online.tj.cn
@@ -94,6 +95,7 @@ ip-40-114.4vendeta.com
 ip-40-158.4vendeta.com
 ip-40-170.4vendeta.com
 ip-40-190.4vendeta.com
+ip-56-114.4vendeta.com
 ip-56-214.4vendeta.com
 ip-58-102.4vendeta.com
 ip-58-106.4vendeta.com
