@@ -26,6 +26,7 @@
 81.102.233.35.bc.googleusercontent.com
 acceso-201-121-82-206.prod-infinitum.com.mx
 adventure.yatano.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdcg2wqkvm.stretchoid.com
 azpdcgtjiqa1.stretchoid.com
@@ -48,6 +49,7 @@ mfyabgec.musicpda.com
 mx2.njal.la
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
+pdcscan7.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
