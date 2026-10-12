@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+170.241.156.34.bc.googleusercontent.com
 182.9.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 220-143-30-127.dynamic-ip.hinet.net
@@ -38,6 +39,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
+mx2.njal.la
 no-mans-land.m247.com
 ns3207149.ip-198-244-200.eu
 o068.scanner.modat.io
