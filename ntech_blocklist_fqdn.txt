@@ -106,6 +106,7 @@ ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-60-250.4vendeta.com
 ip103.ip-5-39-125.eu
+ip226.ip-5-196-110.eu
 ip29.sudolio.io
 ip46-173.asiaonline.imsbiz.com
 ivrikal.com
@@ -141,7 +142,10 @@ recyber.net
 scan-42i.shadowserver.io
 scan-54.security.ipip.net
 scan-76-03.shadowserver.io
+scan-85-3.shadowserver.io
+scan-94-6.shadowserver.io
 scan-95-2.shadowserver.io
+scan-96-4.shadowserver.io
 scan-96-5.shadowserver.io
 scan-96-7.shadowserver.io
 scan-97-6.shadowserver.io
