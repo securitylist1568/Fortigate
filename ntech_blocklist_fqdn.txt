@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+101.52.79.34.bc.googleusercontent.com
 107-173-41-22-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -25,6 +26,7 @@
 187.62.234-12.conectatelecomto.com.br
 217.152.65.34.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
+51.47.199.104.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
 67.210.203.35.bc.googleusercontent.com
 aim.sba-research.org
