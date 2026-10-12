@@ -17,13 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-134.211.203.35.bc.googleusercontent.com
+144.92.74.97.host.secureserver.net
 172-232-231-4.ip.linodeusercontent.com
-184.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.62.234-12.conectatelecomto.com.br
 217.152.65.34.bc.googleusercontent.com
 227.210.203.35.bc.googleusercontent.com
-231.211.203.35.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
 37-202-246-113.shatel.ir
 58.230.11.45.us.kuroit.com
@@ -68,10 +67,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vmi3616680.contaboserver.net
