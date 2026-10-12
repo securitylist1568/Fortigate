@@ -3,7 +3,6 @@
 101.113.62.34.bc.googleusercontent.com
 101.52.79.34.bc.googleusercontent.com
 104-64-212-79.ip.linodeusercontent.com
-107-173-41-22-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -22,13 +21,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-144.92.74.97.host.secureserver.net
-182.149.216.162.bc.googleusercontent.com
 182.9.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 220-143-30-127.dynamic-ip.hinet.net
 51.47.199.104.bc.googleusercontent.com
-67.210.203.35.bc.googleusercontent.com
 81.102.233.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -49,7 +45,6 @@ no-mans-land.m247.com
 o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
-pdcscan6.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
