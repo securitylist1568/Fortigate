@@ -39,7 +39,6 @@
 160-119-76-49.ptr.as49870.net
 160.2.14.34.bc.googleusercontent.com
 160.208.72.148.host.secureserver.net
-170.241.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 185.241.208.156.powered.by.rdp.sh
 195.244.109.208.host.secureserver.net
@@ -124,7 +123,6 @@ mail.clergyhub.site
 mfyabgec.musicpda.com
 mirelwagner.com
 multinet-web03.multinet.no
-mx2.njal.la
 n219079004002.netvigator.com
 n219079181117.netvigator.com
 new.cwa-web.org
@@ -140,7 +138,6 @@ orken-team.org
 pc112.cses.ilc.edu.tw
 pdcscan4.scanning.cybcube.com
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-54.security.ipip.net
