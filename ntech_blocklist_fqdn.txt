@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-101.113.62.34.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -18,14 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-123-192-184-43.dynamic.kbronet.com.tw
+123-192-192-150.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 185-45-195-15.hostsailor.com
 212.1.62.34.bc.googleusercontent.com
 30.32.228.35.bc.googleusercontent.com
-81.102.233.35.bc.googleusercontent.com
 acceso-201-121-82-206.prod-infinitum.com.mx
-adventure.yatano.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdcg2wqkvm.stretchoid.com
@@ -41,9 +38,7 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip103.ip-5-39-125.eu
 ip198.ip-5-196-35.eu
-ip226.ip-5-196-110.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 mx2.njal.la
@@ -53,12 +48,6 @@ pdcscan7.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-85-3.shadowserver.io
-scan-94-6.shadowserver.io
-scan-95-2.shadowserver.io
-scan-96-4.shadowserver.io
-scan-96-7.shadowserver.io
-scan-97-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
