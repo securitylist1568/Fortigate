@@ -25,6 +25,7 @@
 112.80.205.35.bc.googleusercontent.com
 116-42-253-162.static.reverse.lstn.net
 122.187.153.160.host.secureserver.net
+123-192-184-43.dynamic.kbronet.com.tw
 130.131.62.34.bc.googleusercontent.com
 138.205.241.35.bc.googleusercontent.com
 15.67.233.35.bc.googleusercontent.com
@@ -140,7 +141,10 @@ recyber.net
 scan-42i.shadowserver.io
 scan-54.security.ipip.net
 scan-76-03.shadowserver.io
+scan-95-2.shadowserver.io
 scan-96-5.shadowserver.io
+scan-96-7.shadowserver.io
+scan-97-6.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 server.102.187.140.112.static.sparkstation.net
