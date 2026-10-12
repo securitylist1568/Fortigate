@@ -49,15 +49,11 @@ pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-41f.shadowserver.io
 scan-42i.shadowserver.io
 scan-47k.shadowserver.io
 scan-76-03.shadowserver.io
 scan-92-4.shadowserver.io
-scan-95-3.shadowserver.io
 scan-95-6.shadowserver.io
-scan-96-2.shadowserver.io
-scan-96-4.shadowserver.io
 scan-96-5.shadowserver.io
 security.criminalip.com
 server.beheshtimarket.ir
