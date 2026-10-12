@@ -31,9 +31,11 @@
 152.33.78.34.bc.googleusercontent.com
 157-245-56-194.cprapid.com
 160-119-76-29.ptr.as49870.net
+160-119-76-30.ptr.as49870.net
 160-119-76-37.ptr.as49870.net
 160-119-76-43.ptr.as49870.net
 160-119-76-44.ptr.as49870.net
+160-119-76-45.ptr.as49870.net
 160-119-76-49.ptr.as49870.net
 160.2.14.34.bc.googleusercontent.com
 160.208.72.148.host.secureserver.net
@@ -61,6 +63,7 @@
 89.12.195.35.bc.googleusercontent.com
 9.179.34.34.bc.googleusercontent.com
 98.200.116.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 app-tronix.com
 autoscan-107939967.research.a10protects.com
@@ -87,8 +90,18 @@ host.rondina.com.py
 hosted-by.spectraip.net
 htb-h9b8tjwfph.htb-cloud.com
 iez106.internetdsl.tpnet.pl
+ip-40-158.4vendeta.com
+ip-40-190.4vendeta.com
 ip-56-214.4vendeta.com
+ip-58-102.4vendeta.com
+ip-58-106.4vendeta.com
+ip-58-110.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-70.4vendeta.com
+ip-58-74.4vendeta.com
 ip-58-90.superbit.host
+ip-58-98.4vendeta.com
+ip-59-10.superbit.host
 ip29.sudolio.io
 ip46-173.asiaonline.imsbiz.com
 ivrikal.com
@@ -98,6 +111,7 @@ m4a-geo.toronto-namecast.ca
 mail.clergyhub.site
 mfyabgec.musicpda.com
 mirelwagner.com
+multinet-web03.multinet.no
 mx2.njal.la
 n219079004002.netvigator.com
 n219079181117.netvigator.com
@@ -142,5 +156,4 @@ undefined.hostname.localhost
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
 v150-95-25-34.a00a.g.bkk1.static.cnode.io
-web03.multinet.no
 xtl-failover.swipetrack.com
