@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
 172-232-231-4.ip.linodeusercontent.com
+182.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.62.234-12.conectatelecomto.com.br
 217.152.65.34.bc.googleusercontent.com
@@ -65,6 +66,7 @@ mx2.njal.la
 null.null
 o338.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan6.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
