@@ -70,6 +70,7 @@ azpdwsy03sjj.stretchoid.com
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
+correlated.woolandfabric.com
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-pppoe-178-141-22-182.kirov.pv.mts.ru
@@ -92,4 +93,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.142.9.9.176.clients.your-server.de
+unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
