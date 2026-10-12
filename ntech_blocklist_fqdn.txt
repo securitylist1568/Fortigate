@@ -2,6 +2,7 @@
 1.107.175.207.bc.googleusercontent.com
 101.113.62.34.bc.googleusercontent.com
 101.52.79.34.bc.googleusercontent.com
+104-64-212-79.ip.linodeusercontent.com
 107-173-41-22-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -47,11 +48,13 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pdcscan6.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-41f.shadowserver.io
+scan-42i.shadowserver.io
 scan-47k.shadowserver.io
 scan-76-03.shadowserver.io
 scan-92-4.shadowserver.io
