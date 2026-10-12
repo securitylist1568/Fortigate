@@ -90,7 +90,9 @@ host.rondina.com.py
 hosted-by.spectraip.net
 htb-h9b8tjwfph.htb-cloud.com
 iez106.internetdsl.tpnet.pl
+ip-40-114.4vendeta.com
 ip-40-158.4vendeta.com
+ip-40-170.4vendeta.com
 ip-40-190.4vendeta.com
 ip-56-214.4vendeta.com
 ip-58-102.4vendeta.com
@@ -102,6 +104,7 @@ ip-58-74.4vendeta.com
 ip-58-90.superbit.host
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
+ip-60-250.4vendeta.com
 ip29.sudolio.io
 ip46-173.asiaonline.imsbiz.com
 ivrikal.com
