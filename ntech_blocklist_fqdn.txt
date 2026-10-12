@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+107-173-41-22-host.colocrossing.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -60,7 +61,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-86.4vendeta.com
 ip29.sudolio.io
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
 mx2.njal.la
 null.null
@@ -70,7 +70,6 @@ pdcscan6.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
