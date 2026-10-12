@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+1.107.175.207.bc.googleusercontent.com
 101.113.62.34.bc.googleusercontent.com
 101.52.79.34.bc.googleusercontent.com
 107-173-41-22-host.colocrossing.com
@@ -21,7 +22,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 144.92.74.97.host.secureserver.net
-172-232-231-4.ip.linodeusercontent.com
 182.149.216.162.bc.googleusercontent.com
 182.9.205.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -48,7 +48,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-mx2.njal.la
 o068.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan6.scanning.cybcube.com
