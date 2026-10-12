@@ -49,6 +49,7 @@
 24.225.88.34.bc.googleusercontent.com
 248.168.38.34.bc.googleusercontent.com
 255.242.109.208.host.secureserver.net
+30.32.228.35.bc.googleusercontent.com
 58.230.11.45.us.kuroit.com
 61.43.167.72.host.secureserver.net
 69-6-249-0.unifiedlayer.com
@@ -123,6 +124,7 @@ mail.clergyhub.site
 mfyabgec.musicpda.com
 mirelwagner.com
 multinet-web03.multinet.no
+mx2.njal.la
 n219079004002.netvigator.com
 n219079181117.netvigator.com
 new.cwa-web.org
