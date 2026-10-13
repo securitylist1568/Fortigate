@@ -72,6 +72,8 @@ b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 correlated.woolandfabric.com
+crawler121.deepfield.net
+crawler128.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-pppoe-178-141-22-182.kirov.pv.mts.ru
