@@ -25,6 +25,7 @@
 192.242.91.34.bc.googleusercontent.com
 24.120.205.35.bc.googleusercontent.com
 28.105.78.34.bc.googleusercontent.com
+2d96f380.kbp.customer.misaka.io
 30-202-250-167.uniconnect.net.br
 30.32.228.35.bc.googleusercontent.com
 66-175-209-202.ip.linodeusercontent.com
