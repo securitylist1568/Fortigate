@@ -36,6 +36,9 @@ azpdwsghs658.stretchoid.com
 b2.org.afilias-nst.org
 cleverism.com
 client.yota.ru
+crawler013.deepfield.net
+crawler026.deepfield.net
+crawler191.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-35-177-94-242.eu-west-2.compute.amazonaws.com
