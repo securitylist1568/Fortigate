@@ -55,11 +55,16 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-55c.shadowserver.io
 scan-59g.shadowserver.io
+scan-68-08.shadowserver.io
 scan-92-5.shadowserver.io
+scan-92-6.shadowserver.io
+scan-95-3.shadowserver.io
 scan-95-4.shadowserver.io
+scan-96-1.shadowserver.io
 scan-96-2.shadowserver.io
 scan-97-5.shadowserver.io
 scan-98-2.shadowserver.io
+scan-98-7.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
