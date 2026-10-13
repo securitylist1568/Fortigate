@@ -26,6 +26,7 @@
 203-74-130-205.hinet-ip.hinet.net
 24.120.205.35.bc.googleusercontent.com
 252.213.205.35.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 2d96f380.kbp.customer.misaka.io
 60-249-14-121.hinet-ip.hinet.net
 62.238.76.34.bc.googleusercontent.com
