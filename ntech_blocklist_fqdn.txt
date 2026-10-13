@@ -91,6 +91,8 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-41f.shadowserver.io
+scan-93-2.shadowserver.io
+scan-98-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
