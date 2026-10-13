@@ -21,6 +21,7 @@
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.242.91.34.bc.googleusercontent.com
+28.105.78.34.bc.googleusercontent.com
 30.32.228.35.bc.googleusercontent.com
 66-175-209-202.ip.linodeusercontent.com
 97-107-129-162.ip.linodeusercontent.com
@@ -76,6 +77,7 @@ crawler050.deepfield.net
 crawler121.deepfield.net
 crawler128.deepfield.net
 crawler145.deepfield.net
+crawler194.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-pppoe-178-141-22-182.kirov.pv.mts.ru
