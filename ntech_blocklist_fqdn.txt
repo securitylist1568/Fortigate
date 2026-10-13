@@ -25,6 +25,7 @@
 187.62.234-14.conectatelecomto.com.br
 192.242.91.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+252.213.205.35.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 30-202-250-167.uniconnect.net.br
 60-249-14-121.hinet-ip.hinet.net
@@ -53,6 +54,7 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-07e.shadowserver.io
 scan-55c.shadowserver.io
 scan-59g.shadowserver.io
 scan-68-08.shadowserver.io
