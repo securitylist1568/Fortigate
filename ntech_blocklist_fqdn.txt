@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 134-56-158-23.clients.gthost.com
+143.14.168.0-24.bbhost.com.br
 144.92.74.97.host.secureserver.net
 148.63.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
