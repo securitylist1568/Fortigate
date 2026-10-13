@@ -44,6 +44,7 @@ ec2-50-17-101-161.compute-1.amazonaws.com
 ec2-52-207-215-86.compute-1.amazonaws.com
 ec2-52-87-163-249.compute-1.amazonaws.com
 ec2-98-88-20-39.compute-1.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
