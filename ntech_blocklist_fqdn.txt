@@ -17,9 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+159.36.38.34.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 184.246.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.242.91.34.bc.googleusercontent.com
+24.120.205.35.bc.googleusercontent.com
 28.105.78.34.bc.googleusercontent.com
 30.32.228.35.bc.googleusercontent.com
 66-175-209-202.ip.linodeusercontent.com
@@ -63,6 +66,7 @@ rootevidence.com
 scan-02m.shadowserver.io
 scan-41f.shadowserver.io
 scan-42i.shadowserver.io
+scan-45o.shadowserver.io
 scan-79-09.shadowserver.io
 scan-92-4.shadowserver.io
 scan-93-1.shadowserver.io
