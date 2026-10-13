@@ -20,7 +20,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 159.36.38.34.bc.googleusercontent.com
 179.234.22.34.bc.googleusercontent.com
-184.246.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.242.91.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
@@ -37,9 +36,9 @@ dns12.online.tj.cn
 ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
+get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-112-146.4vendeta.com
 ip29.sudolio.io
 ip85.ip-5-135-106.eu
 mfyabgec.musicpda.com
@@ -51,16 +50,13 @@ recyber.net
 scan-45o.shadowserver.io
 scan-55c.shadowserver.io
 scan-59g.shadowserver.io
-scan-79-09.shadowserver.io
-scan-92-4.shadowserver.io
 scan-92-5.shadowserver.io
-scan-95-2.shadowserver.io
 scan-95-4.shadowserver.io
 scan-96-2.shadowserver.io
 scan-97-5.shadowserver.io
 scan-98-2.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
+user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
