@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 134-56-158-23.clients.gthost.com
+148.63.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 196-250-184-53.teleceliberia.com
 95-211-190-186.clients.gthost.com
