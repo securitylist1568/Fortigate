@@ -90,7 +90,9 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-02m.shadowserver.io
 scan-41f.shadowserver.io
+scan-93-1.shadowserver.io
 scan-93-2.shadowserver.io
 scan-98-4.shadowserver.io
 security.criminalip.com
