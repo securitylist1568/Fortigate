@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 168-113-158-51.instances.scw.cloud
+184.246.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.242.91.34.bc.googleusercontent.com
 28.105.78.34.bc.googleusercontent.com
@@ -50,6 +51,7 @@ fnumk.chinaredeagle.com
 gcchristensen.us
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-112-146.4vendeta.com
 ip29.sudolio.io
 lain.92.119.165.164.aluy.net
 li1873-236.members.linode.com
