@@ -24,7 +24,6 @@
 148.63.65.34.bc.googleusercontent.com
 157.247.195.35.bc.googleusercontent.com
 16.218.175.207.bc.googleusercontent.com
-160-3-221-54.cpe.sparklight.net
 163-172-31-144.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 185.171.38.34.bc.googleusercontent.com
@@ -162,12 +161,10 @@ get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
-ip.7networks.ch
 ip103.ip-5-39-125.eu
 ip188.ip-51-68-10.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
-jeffectionship.com
 li1537-121.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -180,10 +177,8 @@ scan-02k.shadowserver.io
 scan-10g.shadowserver.io
 scan-14l.shadowserver.io
 scan-60-12.shadowserver.io
-scan-88-6.shadowserver.io
 scan-92-1.shadowserver.io
 scan-92-2.shadowserver.io
-scan-93-1.shadowserver.io
 scan-94-2.shadowserver.io
 scan-94-3.shadowserver.io
 scan-94-7.shadowserver.io
