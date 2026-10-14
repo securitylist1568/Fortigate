@@ -29,7 +29,9 @@
 185.171.38.34.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 2d83453c.mow.customer.misaka.io
+30-202-250-167.uniconnect.net.br
 49.90.205.35.bc.googleusercontent.com
+66.52.14.34.bc.googleusercontent.com
 99.245.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0sphgz.stretchoid.com
@@ -174,7 +176,6 @@ recyber.net
 scan-02k.shadowserver.io
 scan-10g.shadowserver.io
 scan-14l.shadowserver.io
-scan-42i.shadowserver.io
 scan-60-12.shadowserver.io
 scan-88-6.shadowserver.io
 scan-92-1.shadowserver.io
