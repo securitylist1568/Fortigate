@@ -20,10 +20,13 @@
 116.15.233.35.bc.googleusercontent.com
 134.201.156.34.bc.googleusercontent.com
 136.95.76.34.bc.googleusercontent.com
+157.247.195.35.bc.googleusercontent.com
 16.218.175.207.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
+163-172-31-144.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 185.171.38.34.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 2d83453c.mow.customer.misaka.io
 66.52.14.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -146,11 +149,13 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-35-177-94-242.eu-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-90.superbit.host
 ip.7networks.ch
 ip29.sudolio.io
 jeffectionship.com
