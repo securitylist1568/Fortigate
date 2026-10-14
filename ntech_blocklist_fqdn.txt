@@ -24,6 +24,7 @@
 192.248.150.180.vultrusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
+99.245.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdss550rof.stretchoid.com
 azpdssb1qk69.stretchoid.com
@@ -35,6 +36,7 @@ crawler166.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-18-218-241-100.us-east-2.compute.amazonaws.com
 ec2-3-95-148-126.compute-1.amazonaws.com
 ec2-34-205-139-179.compute-1.amazonaws.com
 ec2-54-172-145-28.compute-1.amazonaws.com
@@ -44,6 +46,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
 ip29.sudolio.io
+ip31-70-64-154.pbiaas.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
