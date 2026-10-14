@@ -23,7 +23,6 @@
 148.63.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
-196-250-184-53.teleceliberia.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 amz.unixwiz.net
@@ -41,12 +40,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-60-218.4vendeta.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
-o066.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-41f.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
