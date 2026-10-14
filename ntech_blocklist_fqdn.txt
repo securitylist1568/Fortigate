@@ -157,6 +157,7 @@ dns12.online.tj.cn
 ec2-35-177-94-242.eu-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
+get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
