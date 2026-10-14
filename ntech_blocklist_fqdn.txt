@@ -165,6 +165,7 @@ ip-58-90.superbit.host
 ip103.ip-5-39-125.eu
 ip188.ip-51-68-10.eu
 ip198.ip-5-196-35.eu
+ip226.ip-5-196-110.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 jeffectionship.com
