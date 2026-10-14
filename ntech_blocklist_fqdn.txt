@@ -86,6 +86,7 @@ ec2-34-205-139-179.compute-1.amazonaws.com
 ec2-54-172-145-28.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
+get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
