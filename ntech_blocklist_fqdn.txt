@@ -24,7 +24,9 @@
 62-210-114-99.rev.poneytelecom.eu
 70.211.203.35.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
+9.150.216.162.bc.googleusercontent.com
 9213038d.customer.misaka.se
+aa27e3fb.sea.customer.misaka.io
 amz.unixwiz.net
 azpdesooqpiq.stretchoid.com
 b2.org.afilias-nst.org
