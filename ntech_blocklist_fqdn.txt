@@ -29,7 +29,6 @@
 185.171.38.34.bc.googleusercontent.com
 23-94-189-114-host.colocrossing.com
 2d0b6ab5.ams.customer.misaka.io
-2d83453c.mow.customer.misaka.io
 30-202-250-167.uniconnect.net.br
 49.90.205.35.bc.googleusercontent.com
 66.52.14.34.bc.googleusercontent.com
@@ -158,7 +157,6 @@ dns12.online.tj.cn
 ec2-35-177-94-242.eu-west-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
-get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
@@ -176,6 +174,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
+radamelfalcao.xyz
 recyber.net
 scan-02k.shadowserver.io
 scan-10g.shadowserver.io
