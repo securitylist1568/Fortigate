@@ -17,9 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-148.63.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-23-94-189-114-host.colocrossing.com
 45.77.61.56.vultrusercontent.com
 6682315a.customer.misaka.joburg
 amz.unixwiz.net
@@ -39,7 +37,6 @@ ip-58-194.4vendeta.com
 ip-58-90.superbit.host
 ip-59-10.superbit.host
 ip-60-218.4vendeta.com
-ip103.ip-5-39-125.eu
 ip198.ip-5-196-35.eu
 ip226.ip-5-196-110.eu
 ip29.sudolio.io
