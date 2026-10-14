@@ -22,6 +22,7 @@
 144.92.74.97.host.secureserver.net
 148.63.65.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 196-250-184-53.teleceliberia.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
@@ -29,6 +30,7 @@ amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
+crawler166.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
