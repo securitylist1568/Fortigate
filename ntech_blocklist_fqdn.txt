@@ -21,6 +21,7 @@
 125-227-127-85.hinet-ip.hinet.net
 134.201.156.34.bc.googleusercontent.com
 136.95.76.34.bc.googleusercontent.com
+148.63.65.34.bc.googleusercontent.com
 157.247.195.35.bc.googleusercontent.com
 16.218.175.207.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
