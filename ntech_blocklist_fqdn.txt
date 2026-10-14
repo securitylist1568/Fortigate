@@ -19,15 +19,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 134.201.156.34.bc.googleusercontent.com
 136.95.76.34.bc.googleusercontent.com
-157.247.195.35.bc.googleusercontent.com
 16.218.175.207.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
 185-45-195-15.hostsailor.com
 185.171.38.34.bc.googleusercontent.com
 2d83453c.mow.customer.misaka.io
-49.90.205.35.bc.googleusercontent.com
 66.52.14.34.bc.googleusercontent.com
-89.225.195.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0sphgz.stretchoid.com
 azpdes1tk9ac.stretchoid.com
