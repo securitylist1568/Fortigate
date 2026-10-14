@@ -31,7 +31,6 @@ aa27e3fb.sea.customer.misaka.io
 amz.unixwiz.net
 azpdesooqpiq.stretchoid.com
 b2.org.afilias-nst.org
-cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -53,7 +52,6 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-qqn.servantixpro.com
 recyber.net
 rootevidence.com
 rping.ipip.net
