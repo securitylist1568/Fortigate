@@ -22,7 +22,7 @@
 223.254.93.34.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
 62-210-114-99.rev.poneytelecom.eu
-6682315a.customer.misaka.joburg
+9213038d.customer.misaka.se
 amz.unixwiz.net
 azpdesooqpiq.stretchoid.com
 b2.org.afilias-nst.org
@@ -39,7 +39,6 @@ intermediate.venturamg.com
 ip-58-194.4vendeta.com
 ip-58-90.superbit.host
 ip-59-10.superbit.host
-ip-60-218.4vendeta.com
 ip29.sudolio.io
 jeffectionship.com
 l600.scanner.modat.io
