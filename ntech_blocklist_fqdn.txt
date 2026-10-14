@@ -24,7 +24,6 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 143.14.168.0-24.bbhost.com.br
-144.92.74.97.host.secureserver.net
 148.63.65.34.bc.googleusercontent.com
 157.247.195.35.bc.googleusercontent.com
 172-234-222-168.ip.linodeusercontent.com
@@ -66,9 +65,9 @@
 45-79-145-211.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
-45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 49.90.205.35.bc.googleusercontent.com
+89.225.195.35.bc.googleusercontent.com
 99.245.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdss550rof.stretchoid.com
@@ -99,8 +98,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
+scan-15i.shadowserver.io
 scan-41f.shadowserver.io
 scan-92-2.shadowserver.io
+scan-95-7.shadowserver.io
 scan-97-2.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
