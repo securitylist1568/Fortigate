@@ -23,6 +23,7 @@
 185-45-195-15.hostsailor.com
 196-250-184-53.teleceliberia.com
 45.63.4.69.vultrusercontent.com
+45.77.61.56.vultrusercontent.com
 amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
