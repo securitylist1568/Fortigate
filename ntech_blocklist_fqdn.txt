@@ -23,7 +23,6 @@
 136.95.76.34.bc.googleusercontent.com
 148.63.65.34.bc.googleusercontent.com
 157.247.195.35.bc.googleusercontent.com
-16.218.175.207.bc.googleusercontent.com
 163-172-31-144.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
 185.171.38.34.bc.googleusercontent.com
@@ -161,6 +160,7 @@ get166.wayto.getnutritionaldiet.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
+ip-60-218.4vendeta.com
 ip103.ip-5-39-125.eu
 ip188.ip-51-68-10.eu
 ip198.ip-5-196-35.eu
