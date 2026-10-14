@@ -28,7 +28,9 @@
 185.171.38.34.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 2d83453c.mow.customer.misaka.io
+49.90.205.35.bc.googleusercontent.com
 66.52.14.34.bc.googleusercontent.com
+99.245.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0sphgz.stretchoid.com
 azpdes1tk9ac.stretchoid.com
