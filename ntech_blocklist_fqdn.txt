@@ -160,6 +160,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
 ip.7networks.ch
 ip29.sudolio.io
+ip54.ip-135-148-29.us
 jeffectionship.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -181,6 +182,7 @@ scan-96-0.shadowserver.io
 scan-98-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+srv42124.dus8.dedi.server-hosting.expert
 static-ip-250-192-65-202.rev.dyxnet.com
 unknown.ip-xfer.net
 users219.vip.heteml.jp
