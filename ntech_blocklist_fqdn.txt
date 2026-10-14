@@ -24,7 +24,6 @@
 143-42-1-201.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
-143.14.168.0-24.bbhost.com.br
 148.63.65.34.bc.googleusercontent.com
 157.247.195.35.bc.googleusercontent.com
 172-234-222-168.ip.linodeusercontent.com
@@ -100,15 +99,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan-15i.shadowserver.io
 scan-41f.shadowserver.io
 scan-92-2.shadowserver.io
 scan-95-7.shadowserver.io
 scan-97-2.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 taipei.scan.bufferover.run
 users219.vip.heteml.jp
-zhangyuan3.virtuaserver.com.br
