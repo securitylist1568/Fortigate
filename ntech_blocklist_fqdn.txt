@@ -18,18 +18,15 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.15.233.35.bc.googleusercontent.com
-134.201.156.34.bc.googleusercontent.com
 136.95.76.34.bc.googleusercontent.com
 157.247.195.35.bc.googleusercontent.com
 16.218.175.207.bc.googleusercontent.com
 160-3-221-54.cpe.sparklight.net
 163-172-31-144.rev.poneytelecom.eu
 185-45-195-15.hostsailor.com
-185.171.38.34.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
 2d83453c.mow.customer.misaka.io
 49.90.205.35.bc.googleusercontent.com
-66.52.14.34.bc.googleusercontent.com
 99.245.129.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0sphgz.stretchoid.com
@@ -162,6 +159,7 @@ ip.7networks.ch
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 jeffectionship.com
+li1537-121.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -169,7 +167,6 @@ pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-15i.shadowserver.io
 scan-42i.shadowserver.io
 scan-88-6.shadowserver.io
 scan-92-1.shadowserver.io
@@ -177,7 +174,6 @@ scan-92-2.shadowserver.io
 scan-93-1.shadowserver.io
 scan-94-2.shadowserver.io
 scan-95-6.shadowserver.io
-scan-95-7.shadowserver.io
 scan-96-0.shadowserver.io
 scan-98-5.shadowserver.io
 security.criminalip.com
