@@ -26,6 +26,7 @@
 143.14.168.0-24.bbhost.com.br
 144.92.74.97.host.secureserver.net
 148.63.65.34.bc.googleusercontent.com
+157.247.195.35.bc.googleusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-225.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
@@ -71,7 +72,6 @@
 amz.unixwiz.net
 azpdss550rof.stretchoid.com
 azpdssb1qk69.stretchoid.com
-b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
@@ -79,7 +79,6 @@ crawler016.deepfield.net
 crawler166.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-13-222-217-64.compute-1.amazonaws.com
 ec2-18-218-241-100.us-east-2.compute.amazonaws.com
 ec2-3-95-148-126.compute-1.amazonaws.com
