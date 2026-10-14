@@ -21,8 +21,19 @@
 136.95.76.34.bc.googleusercontent.com
 143.14.168.0-24.bbhost.com.br
 144.92.74.97.host.secureserver.net
+173-255-223-73.ip.linodeusercontent.com
+173-255-223-89.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
+198-74-58-157.ip.linodeusercontent.com
+198-74-58-201.ip.linodeusercontent.com
+23-239-11-208.ip.linodeusercontent.com
+23-92-26-123.ip.linodeusercontent.com
+23-92-26-208.ip.linodeusercontent.com
+23-92-26-77.ip.linodeusercontent.com
+45-56-83-149.ip.linodeusercontent.com
+45-79-103-169.ip.linodeusercontent.com
+45-79-225-32.ip.linodeusercontent.com
 45.63.4.69.vultrusercontent.com
 45.77.61.56.vultrusercontent.com
 99.245.129.34.bc.googleusercontent.com
@@ -31,6 +42,7 @@ azpdss550rof.stretchoid.com
 azpdssb1qk69.stretchoid.com
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
+babylon.scan.bufferover.run
 client.yota.ru
 crawler016.deepfield.net
 crawler166.deepfield.net
