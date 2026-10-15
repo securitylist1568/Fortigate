@@ -108,6 +108,7 @@ qqn.servantixpro.com
 recyber.net
 rping.ipip.net
 scan-04i.shadowserver.io
+scan-40e.shadowserver.io
 scan-93-2.shadowserver.io
 scan-95-2.shadowserver.io
 scan-95-3.shadowserver.io
