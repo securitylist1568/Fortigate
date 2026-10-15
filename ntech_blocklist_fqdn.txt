@@ -22,9 +22,11 @@
 204.76.203.235.ptr.pfcloud.network
 213.211.203.35.bc.googleusercontent.com
 223.254.93.34.bc.googleusercontent.com
+224.153.172.83.static.edisglobal.com
 62-210-114-99.rev.poneytelecom.eu
 70.211.203.35.bc.googleusercontent.com
 79.210.203.35.bc.googleusercontent.com
+9.150.139.34.bc.googleusercontent.com
 9.150.216.162.bc.googleusercontent.com
 9213038d.customer.misaka.se
 aa27e3fb.sea.customer.misaka.io
