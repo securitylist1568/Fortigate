@@ -26,6 +26,7 @@
 208.211.203.35.bc.googleusercontent.com
 213.149.216.162.bc.googleusercontent.com
 219.210.203.35.bc.googleusercontent.com
+222.211.203.35.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -165,6 +166,7 @@ azpdwsz3xlz9.stretchoid.com
 azpdwszcq4fu.stretchoid.com
 b2.org.afilias-nst.org
 blackburn.probe.onyphe.net
+cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
