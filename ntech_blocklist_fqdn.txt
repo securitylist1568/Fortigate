@@ -88,6 +88,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-93-81-46.compute-1.amazonaws.com
+ec2-50-19-171-136.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -96,6 +97,7 @@ intermediate.venturamg.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
 jeffectionship.com
+kub002.idyschool.de.com
 l600.scanner.modat.io
 li1625-135.members.linode.com
 mail.greenlaw.co.nz
@@ -109,6 +111,7 @@ recyber.net
 rping.ipip.net
 scan-04i.shadowserver.io
 scan-40e.shadowserver.io
+scan-45o.shadowserver.io
 scan-93-2.shadowserver.io
 scan-95-2.shadowserver.io
 scan-95-3.shadowserver.io
