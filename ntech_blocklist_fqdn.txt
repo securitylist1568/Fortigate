@@ -26,6 +26,7 @@
 215.149.216.162.bc.googleusercontent.com
 223.254.93.34.bc.googleusercontent.com
 243.210.203.35.bc.googleusercontent.com
+251.150.216.162.bc.googleusercontent.com
 31.148.52.34.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 45-166-248-74.impactfibra.com.br
@@ -40,6 +41,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-14-141-123.us-east-2.compute.amazonaws.com
 encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
