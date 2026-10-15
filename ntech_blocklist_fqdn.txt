@@ -104,6 +104,9 @@ proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
 rping.ipip.net
+scan-04i.shadowserver.io
+scan-93-2.shadowserver.io
+scan-95-2.shadowserver.io
 scan-95-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
