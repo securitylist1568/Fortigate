@@ -91,6 +91,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 iafrssh.cn
 intermediate.venturamg.com
+ip-58-194.4vendeta.com
 ip29.sudolio.io
 jeffectionship.com
 l600.scanner.modat.io
