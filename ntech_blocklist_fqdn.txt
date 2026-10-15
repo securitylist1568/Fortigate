@@ -22,6 +22,7 @@
 121.15.77.34.bc.googleusercontent.com
 162.144.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+188-123-129-22.dsl.utg.ge
 213.211.203.35.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 31.148.52.34.bc.googleusercontent.com
@@ -111,6 +112,7 @@ rping.ipip.net
 scan-04i.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
+scan-43b.shadowserver.io
 scan-45o.shadowserver.io
 scan-93-2.shadowserver.io
 scan-95-2.shadowserver.io
