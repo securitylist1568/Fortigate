@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.15.77.34.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
+180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 223.254.93.34.bc.googleusercontent.com
@@ -41,6 +42,7 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip87-106-48-198.pbiaas.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
