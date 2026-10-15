@@ -21,7 +21,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
 13.150.216.162.bc.googleusercontent.com
-172.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 213.149.216.162.bc.googleusercontent.com
@@ -29,9 +28,7 @@
 219.210.203.35.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
 230.150.216.162.bc.googleusercontent.com
-243.210.203.35.bc.googleusercontent.com
 246.150.216.162.bc.googleusercontent.com
-251.150.216.162.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
 2d96f25f.customer.misaka.taipei
 38.150.216.162.bc.googleusercontent.com
@@ -39,7 +36,6 @@
 50.82.246.35.bc.googleusercontent.com
 52.210.203.35.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
-88.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes1qmlr2.stretchoid.com
 azpdes22eqwk.stretchoid.com
@@ -173,7 +169,6 @@ cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-14-141-123.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
