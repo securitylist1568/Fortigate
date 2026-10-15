@@ -108,6 +108,7 @@ recyber.net
 rping.ipip.net
 scan-04i.shadowserver.io
 scan-40e.shadowserver.io
+scan-40g.shadowserver.io
 scan-45o.shadowserver.io
 scan-93-2.shadowserver.io
 scan-95-2.shadowserver.io
