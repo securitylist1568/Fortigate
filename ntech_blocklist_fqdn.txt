@@ -49,6 +49,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
+ip54.ip-135-148-29.us
 ip87-106-48-198.pbiaas.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
