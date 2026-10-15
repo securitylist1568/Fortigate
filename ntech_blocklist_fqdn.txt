@@ -29,6 +29,7 @@
 25.150.216.162.bc.googleusercontent.com
 31.148.52.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
+52.250.156.34.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
 71.221.189.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
@@ -49,6 +50,7 @@ lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-40g.shadowserver.io
@@ -58,7 +60,10 @@ scan-43h.shadowserver.io
 scan-92-1.shadowserver.io
 scan-92-4.shadowserver.io
 scan-94-0.shadowserver.io
+scan-94-4.shadowserver.io
+scan-95-1.shadowserver.io
 scan-95-4.shadowserver.io
+scan-96-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
