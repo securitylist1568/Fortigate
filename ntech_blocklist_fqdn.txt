@@ -28,6 +28,7 @@
 31.148.52.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
 52.250.156.34.bc.googleusercontent.com
+62-210-114-99.rev.poneytelecom.eu
 70.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
 79.210.203.35.bc.googleusercontent.com
@@ -98,7 +99,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
 kub002.idyschool.de.com
-l600.scanner.modat.io
 li1625-135.members.linode.com
 mail.greenlaw.co.nz
 mfyabgec.musicpda.com
@@ -108,7 +108,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
-rping.ipip.net
 scan-04i.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
