@@ -23,15 +23,12 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 223.254.93.34.bc.googleusercontent.com
-23.210.203.35.bc.googleusercontent.com
 31.148.52.34.bc.googleusercontent.com
 45-166-248-74.impactfibra.com.br
 52.250.156.34.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
 71.221.189.35.bc.googleusercontent.com
-79.150.216.162.bc.googleusercontent.com
 88.223.77.34.bc.googleusercontent.com
-99.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -52,7 +49,6 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
-scan-41m.shadowserver.io
 scan-60.security.ipip.net
 scan-92-4.shadowserver.io
 scan-94-4.shadowserver.io
@@ -63,6 +59,5 @@ scan-96-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
