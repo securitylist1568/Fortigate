@@ -1,4 +1,3 @@
-0.124.77.34.bc.googleusercontent.com
 1-34-13-89.hinet-ip.hinet.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -30,7 +29,6 @@
 25.150.216.162.bc.googleusercontent.com
 31.148.52.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
-52.250.156.34.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
 71.221.189.35.bc.googleusercontent.com
 79.150.216.162.bc.googleusercontent.com
@@ -41,26 +39,22 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-50-19-171-136.compute-1.amazonaws.com
 encontraafreebet.betclic.pt
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-kub002.idyschool.de.com
 lisbon.portugal.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-41m.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
-scan-45o.shadowserver.io
 scan-92-1.shadowserver.io
 scan-92-4.shadowserver.io
 scan-94-0.shadowserver.io
@@ -68,6 +62,5 @@ scan-95-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.199.85.8.144.hostname.com
 static.vnpt.vn
 users219.vip.heteml.jp
