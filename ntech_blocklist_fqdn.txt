@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 13.150.216.162.bc.googleusercontent.com
-167.211.203.35.bc.googleusercontent.com
 172.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
@@ -37,7 +36,6 @@
 52.210.203.35.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
 88.211.203.35.bc.googleusercontent.com
-aa27e0dc.iad.customer.misaka.io
 amz.unixwiz.net
 azpdes1qmlr2.stretchoid.com
 azpdes22eqwk.stretchoid.com
@@ -177,7 +175,6 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-90.superbit.host
-ip103.ip-5-39-125.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 li1873-236.members.linode.com
@@ -186,8 +183,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-remote.hopewhangarei.nz
-scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
