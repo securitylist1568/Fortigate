@@ -25,6 +25,7 @@
 224.153.172.83.static.edisglobal.com
 62-210-114-99.rev.poneytelecom.eu
 70.211.203.35.bc.googleusercontent.com
+79.124.56.142.superbit.host
 79.210.203.35.bc.googleusercontent.com
 9.150.139.34.bc.googleusercontent.com
 9.150.216.162.bc.googleusercontent.com
@@ -98,6 +99,7 @@ li1625-135.members.linode.com
 mail.greenlaw.co.nz
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
