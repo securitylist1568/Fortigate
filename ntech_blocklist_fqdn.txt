@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 213.211.203.35.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
+33.211.203.35.bc.googleusercontent.com
 52.250.156.34.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
