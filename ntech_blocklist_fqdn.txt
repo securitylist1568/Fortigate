@@ -20,11 +20,12 @@
 121.15.77.34.bc.googleusercontent.com
 130.150.216.162.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
+172.150.216.162.bc.googleusercontent.com
 180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-194-195-253-86.ip.linodeusercontent.com
 215.149.216.162.bc.googleusercontent.com
 223.254.93.34.bc.googleusercontent.com
+243.210.203.35.bc.googleusercontent.com
 31.148.52.34.bc.googleusercontent.com
 32.210.203.35.bc.googleusercontent.com
 45-166-248-74.impactfibra.com.br
