@@ -126,4 +126,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
+static.vnpt.vn
 users219.vip.heteml.jp
