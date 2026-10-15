@@ -22,6 +22,7 @@
 121.15.77.34.bc.googleusercontent.com
 162.144.53.34.bc.googleusercontent.com
 17.77.14.34.bc.googleusercontent.com
+172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 188-123-129-22.dsl.utg.ge
 202.150.216.162.bc.googleusercontent.com
