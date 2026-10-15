@@ -19,13 +19,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+121.15.77.34.bc.googleusercontent.com
+162.144.53.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-204.76.203.235.ptr.pfcloud.network
 213.211.203.35.bc.googleusercontent.com
-223.254.93.34.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
 52.250.156.34.bc.googleusercontent.com
-62-210-114-99.rev.poneytelecom.eu
 70.211.203.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
 79.210.203.35.bc.googleusercontent.com
@@ -93,10 +92,8 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-intermediate.venturamg.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
-jeffectionship.com
 kub002.idyschool.de.com
 l600.scanner.modat.io
 li1625-135.members.linode.com
@@ -120,4 +117,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
-vps-102567.cloud.firstheberg.net
