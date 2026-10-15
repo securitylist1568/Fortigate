@@ -1,5 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 106.39.38.34.bc.googleusercontent.com
+11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -28,6 +29,7 @@
 243.210.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
+38.150.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
 50.82.246.35.bc.googleusercontent.com
 52.210.203.35.bc.googleusercontent.com
