@@ -27,6 +27,7 @@
 202.150.216.162.bc.googleusercontent.com
 213.211.203.35.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
+23.210.203.35.bc.googleusercontent.com
 25.150.216.162.bc.googleusercontent.com
 31.148.52.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
@@ -34,6 +35,7 @@
 62-210-114-99.rev.poneytelecom.eu
 71.221.189.35.bc.googleusercontent.com
 79.124.56.142.superbit.host
+79.150.216.162.bc.googleusercontent.com
 88.223.77.34.bc.googleusercontent.com
 9.150.139.34.bc.googleusercontent.com
 amz.unixwiz.net
