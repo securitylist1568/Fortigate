@@ -20,12 +20,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.210.203.35.bc.googleusercontent.com
-13.150.216.162.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 165.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-208.211.203.35.bc.googleusercontent.com
-213.149.216.162.bc.googleusercontent.com
 214.210.203.35.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
@@ -34,16 +31,12 @@
 246.150.216.162.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
-2d96f25f.customer.misaka.taipei
 38.150.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
 50.82.246.35.bc.googleusercontent.com
-52.210.203.35.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
-azpdws9eiuji.stretchoid.com
 b2.org.afilias-nst.org
-blackburn.probe.onyphe.net
 cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 dal215.hawkhost.com
@@ -53,7 +46,6 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o338.scanner.modat.io
 o349.scanner.modat.io
