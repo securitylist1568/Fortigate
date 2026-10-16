@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 115.149.216.162.bc.googleusercontent.com
-131.210.77.34.bc.googleusercontent.com
 14.171.broad.ha.dynamic.163data.com.cn
 168.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -30,10 +29,7 @@
 245.149.216.162.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
 36-232-43-54.dynamic-ip.hinet.net
-42.123.243.83.in-addr.arpa
-45-79-181-164.ip.linodeusercontent.com
 48.211.203.35.bc.googleusercontent.com
-4soho.com
 5.25.184.123.broad.sy.ln.dynamic.163data.com.cn
 56.210.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
@@ -44,14 +40,12 @@
 80.211.203.35.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 95.149.216.162.bc.googleusercontent.com
-95.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
-ec2-3-144-38-148.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
