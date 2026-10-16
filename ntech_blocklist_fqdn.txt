@@ -26,6 +26,7 @@
 185-45-195-15.hostsailor.com
 20.210.203.35.bc.googleusercontent.com
 201.230.140.34.bc.googleusercontent.com
+224.149.216.162.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 36-224-224-22.dynamic-ip.hinet.net
@@ -177,6 +178,7 @@ scan-13l.shadowserver.io
 scan-93-1.shadowserver.io
 scan-94-1.shadowserver.io
 scan-94-6.shadowserver.io
+scan-96-2.shadowserver.io
 scan-96-3.shadowserver.io
 scan-98-1.shadowserver.io
 scan-98-4.shadowserver.io
