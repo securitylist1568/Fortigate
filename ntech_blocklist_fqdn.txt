@@ -33,6 +33,7 @@
 36-224-239-131.dynamic-ip.hinet.net
 36-233-72-12.dynamic-ip.hinet.net
 42.123.243.83.in-addr.arpa
+45-79-181-164.ip.linodeusercontent.com
 4soho.com
 53.224.205.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
@@ -158,6 +159,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-144-38-148.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
