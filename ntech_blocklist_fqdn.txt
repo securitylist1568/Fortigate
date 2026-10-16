@@ -28,7 +28,6 @@
 23-95-191-210-host.colocrossing.com
 245.149.216.162.bc.googleusercontent.com
 3.171.188.61.broad.nj.sc.dynamic.163data.com.cn
-36-224-224-22.dynamic-ip.hinet.net
 36-232-43-54.dynamic-ip.hinet.net
 42.123.243.83.in-addr.arpa
 45-79-181-164.ip.linodeusercontent.com
@@ -181,13 +180,10 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-60-250.4vendeta.com
-ip109.ip-51-38-221.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
-keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
-o341.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
