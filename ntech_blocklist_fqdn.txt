@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
 116.255.38.34.bc.googleusercontent.com
+172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 201.230.140.34.bc.googleusercontent.com
@@ -56,6 +57,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip226.ip-5-196-110.eu
 ip29.sudolio.io
 li1817-110.members.linode.com
+li1992-217.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -71,6 +73,7 @@ scan-45g.shadowserver.io
 scan-93-7.shadowserver.io
 scan-94-2.shadowserver.io
 scan-95-3.shadowserver.io
+scan-98-1.shadowserver.io
 scan-98-5.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
