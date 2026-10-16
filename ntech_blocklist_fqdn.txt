@@ -23,6 +23,7 @@
 139.84.162.169.vultrusercontent.com
 165.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+198-134-107-73.rev.unlimitednet.us
 214.210.203.35.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 222.211.203.35.bc.googleusercontent.com
