@@ -21,9 +21,9 @@
 12.211.203.35.bc.googleusercontent.com
 125.149.216.162.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
+131.210.77.34.bc.googleusercontent.com
 135149.ntpu.edu.tw
 171.89.80.34.bc.googleusercontent.com
-172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 20.210.203.35.bc.googleusercontent.com
 201.230.140.34.bc.googleusercontent.com
@@ -32,7 +32,7 @@
 36-224-224-22.dynamic-ip.hinet.net
 36-224-239-131.dynamic-ip.hinet.net
 36-233-72-12.dynamic-ip.hinet.net
-42.149.216.162.bc.googleusercontent.com
+4soho.com
 53.224.205.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -165,8 +165,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-li1817-110.members.linode.com
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 o341.scanner.modat.io
 pc112.cses.ilc.edu.tw
@@ -180,11 +178,9 @@ scan-94-1.shadowserver.io
 scan-94-6.shadowserver.io
 scan-96-2.shadowserver.io
 scan-96-3.shadowserver.io
-scan-98-1.shadowserver.io
 scan-98-4.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-vps-102567.cloud.firstheberg.net
