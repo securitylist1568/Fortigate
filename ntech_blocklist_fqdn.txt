@@ -21,14 +21,12 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
 116.255.38.34.bc.googleusercontent.com
-139.84.162.169.vultrusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 201.230.140.34.bc.googleusercontent.com
 202.150.216.162.bc.googleusercontent.com
 203.87.79.34.bc.googleusercontent.com
 213.23.175.207.bc.googleusercontent.com
-216.150.216.162.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 242.6.62.34.bc.googleusercontent.com
 36.84.205.35.bc.googleusercontent.com
@@ -57,6 +55,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip226.ip-5-196-110.eu
 ip29.sudolio.io
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
@@ -64,13 +63,11 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
-rootevidence.com
 scan-02m.shadowserver.io
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
-scan-47k.shadowserver.io
 scan-93-7.shadowserver.io
 scan-94-2.shadowserver.io
 scan-95-3.shadowserver.io
