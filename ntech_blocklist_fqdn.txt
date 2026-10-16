@@ -26,8 +26,6 @@
 185-45-195-15.hostsailor.com
 20.210.203.35.bc.googleusercontent.com
 201.230.140.34.bc.googleusercontent.com
-202.150.216.162.bc.googleusercontent.com
-213.23.175.207.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 36-224-224-22.dynamic-ip.hinet.net
@@ -37,9 +35,7 @@
 50.82.246.35.bc.googleusercontent.com
 53.224.205.35.bc.googleusercontent.com
 66.149.216.162.bc.googleusercontent.com
-7.61.76.34.bc.googleusercontent.com
 amz.unixwiz.net
-azpdsgk4nlda.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
@@ -61,7 +57,6 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
-scan-42i.shadowserver.io
 scan-93-1.shadowserver.io
 scan-94-6.shadowserver.io
 scan-96-3.shadowserver.io
