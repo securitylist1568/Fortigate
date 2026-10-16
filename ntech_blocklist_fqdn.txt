@@ -53,7 +53,6 @@ ec2-3-144-38-148.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
-host-61-71-178-210.static.kbtelecom.net
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-158.4vendeta.com
 ip-40-170.4vendeta.com
