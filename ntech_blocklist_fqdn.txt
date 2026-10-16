@@ -30,6 +30,7 @@
 213.23.175.207.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
+36-224-224-22.dynamic-ip.hinet.net
 36-224-239-131.dynamic-ip.hinet.net
 36-233-72-12.dynamic-ip.hinet.net
 42.149.216.162.bc.googleusercontent.com
@@ -47,6 +48,7 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip109.ip-51-38-221.eu
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 li1817-110.members.linode.com
