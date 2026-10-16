@@ -19,7 +19,9 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 116.255.38.34.bc.googleusercontent.com
+125.149.216.162.bc.googleusercontent.com
 130.210.203.35.bc.googleusercontent.com
+135149.ntpu.edu.tw
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 201.230.140.34.bc.googleusercontent.com
