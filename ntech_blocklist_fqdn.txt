@@ -34,6 +34,7 @@
 53.224.205.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 57.149.216.162.bc.googleusercontent.com
+59.150.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
@@ -61,6 +62,7 @@ proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
 rootevidence.com
+scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-45g.shadowserver.io
 scan-47k.shadowserver.io
