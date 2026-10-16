@@ -23,7 +23,6 @@
 116.255.38.34.bc.googleusercontent.com
 172.210.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-198-134-107-73.rev.unlimitednet.us
 201.230.140.34.bc.googleusercontent.com
 202.150.216.162.bc.googleusercontent.com
 203.87.79.34.bc.googleusercontent.com
@@ -36,11 +35,8 @@
 50-116-23-150.ip.linodeusercontent.com
 50.82.246.35.bc.googleusercontent.com
 53.224.205.35.bc.googleusercontent.com
-53.26.71.192.in-addr.arpa
 59.150.216.162.bc.googleusercontent.com
-7.210.203.35.bc.googleusercontent.com
 7.61.76.34.bc.googleusercontent.com
-80.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 azpdsgk4nlda.stretchoid.com
 b2.org.afilias-nst.org
@@ -64,7 +60,6 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
-qqn.servantixpro.com
 recyber.net
 scan-02m.shadowserver.io
 scan-40g.shadowserver.io
@@ -79,6 +74,5 @@ scan-98-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
