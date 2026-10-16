@@ -29,10 +29,12 @@
 203.87.79.34.bc.googleusercontent.com
 213.23.175.207.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
+232.211.203.35.bc.googleusercontent.com
 242.6.62.34.bc.googleusercontent.com
 36.84.205.35.bc.googleusercontent.com
 43.210.203.35.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
+50.82.246.35.bc.googleusercontent.com
 53.224.205.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 59.150.216.162.bc.googleusercontent.com
