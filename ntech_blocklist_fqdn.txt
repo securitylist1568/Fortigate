@@ -23,6 +23,7 @@
 171.89.80.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 190.210.203.35.bc.googleusercontent.com
+194.150.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 23-95-191-210-host.colocrossing.com
 245.149.216.162.bc.googleusercontent.com
@@ -182,6 +183,7 @@ ip-59-10.superbit.host
 ip-60-250.4vendeta.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
+ip54.ip-135-148-29.us
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
 niall.probe.onyphe.net
