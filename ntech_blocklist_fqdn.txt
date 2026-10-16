@@ -19,7 +19,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.210.203.35.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 165.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -27,10 +26,7 @@
 201.230.140.34.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
-230.150.216.162.bc.googleusercontent.com
-246.150.216.162.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
-2d834681.led.customer.misaka.io
 36.84.205.35.bc.googleusercontent.com
 39968751.grabercloud.com
 43.210.203.35.bc.googleusercontent.com
@@ -57,14 +53,16 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 o338.scanner.modat.io
 o349.scanner.modat.io
+ovo88.news
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
 rootevidence.com
+scan-41f.shadowserver.io
+scan-45g.shadowserver.io
 scan-47k.shadowserver.io
-security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-214-162.datapacket.com
