@@ -27,6 +27,7 @@
 213.23.175.207.bc.googleusercontent.com
 232.211.203.35.bc.googleusercontent.com
 242.6.62.34.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 36-233-72-12.dynamic-ip.hinet.net
 42.149.216.162.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
@@ -54,6 +55,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
+scan-13l.shadowserver.io
 scan-42i.shadowserver.io
 scan-93-1.shadowserver.io
 scan-93-7.shadowserver.io
@@ -62,6 +64,7 @@ scan-94-6.shadowserver.io
 scan-95-3.shadowserver.io
 scan-96-3.shadowserver.io
 scan-98-1.shadowserver.io
+scan-98-4.shadowserver.io
 scan-98-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
