@@ -26,14 +26,11 @@
 198-134-107-73.rev.unlimitednet.us
 201.230.140.34.bc.googleusercontent.com
 216.150.216.162.bc.googleusercontent.com
-23.209.255.172.hosted.by.hostdzire.com
-29.150.216.162.bc.googleusercontent.com
 36.84.205.35.bc.googleusercontent.com
 39968751.grabercloud.com
 43.210.203.35.bc.googleusercontent.com
 53.224.205.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
-57.149.216.162.bc.googleusercontent.com
 59.150.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
@@ -54,7 +51,6 @@ ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o338.scanner.modat.io
-o349.scanner.modat.io
 ovo88.news
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -68,6 +64,5 @@ scan-45g.shadowserver.io
 scan-47k.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-214-162.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
