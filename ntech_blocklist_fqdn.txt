@@ -22,7 +22,6 @@
 114.149.216.162.bc.googleusercontent.com
 116.255.38.34.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
-165.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 201.230.140.34.bc.googleusercontent.com
@@ -30,12 +29,13 @@
 216.150.216.162.bc.googleusercontent.com
 242.6.62.34.bc.googleusercontent.com
 36.84.205.35.bc.googleusercontent.com
-39968751.grabercloud.com
 43.210.203.35.bc.googleusercontent.com
+50-116-23-150.ip.linodeusercontent.com
 53.224.205.35.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 59.150.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
+7.61.76.34.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -54,7 +54,6 @@ ip226.ip-5-196-110.eu
 ip29.sudolio.io
 mfyabgec.musicpda.com
 no-mans-land.m247.com
-o338.scanner.modat.io
 ovo88.news
 pc112.cses.ilc.edu.tw
 pinkytales.com
