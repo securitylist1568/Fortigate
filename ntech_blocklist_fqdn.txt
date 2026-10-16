@@ -67,6 +67,7 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-60-250.4vendeta.com
+ip198.ip-5-196-35.eu
 ip29.sudolio.io
 ip54.ip-135-148-29.us
 l607.scanner.modat.io
