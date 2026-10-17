@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+114.149.216.162.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -25,14 +26,9 @@
 205.163.175.207.bc.googleusercontent.com
 223.150.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
-235.230.189.35.bc.googleusercontent.com
-252.51.155.104.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
-75.150.216.162.bc.googleusercontent.com
 78.86.14.34.bc.googleusercontent.com
-97-107-134-97.ip.linodeusercontent.com
 98.211.203.35.bc.googleusercontent.com
-aa27e193.mci.customer.misaka.io
 amz.unixwiz.net
 azpdes0sphgz.stretchoid.com
 azpdes63mugj.stretchoid.com
@@ -127,10 +123,8 @@ ip247.ip-51-68-236.eu
 ip29.sudolio.io
 jeffectionship.com
 mfyabgec.musicpda.com
-o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
