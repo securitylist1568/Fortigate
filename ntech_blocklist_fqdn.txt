@@ -23,6 +23,7 @@
 14.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+186.149.216.162.bc.googleusercontent.com
 194-195-122-95.ip.linodeusercontent.com
 205.163.175.207.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
@@ -91,6 +92,7 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-254.4vendeta.com
+ip103.ip-5-39-125.eu
 ip247.ip-51-68-236.eu
 ip29.sudolio.io
 li1972-67.members.linode.com
