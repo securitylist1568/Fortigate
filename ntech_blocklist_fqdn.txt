@@ -18,13 +18,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-121.211.203.35.bc.googleusercontent.com
 14.150.216.162.bc.googleusercontent.com
 176.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 205.163.175.207.bc.googleusercontent.com
-209.210.203.35.bc.googleusercontent.com
 223.150.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 235.230.189.35.bc.googleusercontent.com
@@ -58,8 +56,6 @@ proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
 rootevidence.com
-scan-40g.shadowserver.io
-scan-43b.shadowserver.io
 scan-71-05.shadowserver.io
 scan-93-7.shadowserver.io
 scan-94-7.shadowserver.io
