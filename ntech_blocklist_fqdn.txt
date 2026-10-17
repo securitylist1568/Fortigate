@@ -66,6 +66,7 @@
 235.230.189.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
+251.150.216.162.bc.googleusercontent.com
 252.51.155.104.bc.googleusercontent.com
 29.250.65.34.bc.googleusercontent.com
 40.22.195.35.bc.googleusercontent.com
@@ -164,6 +165,7 @@ ip92.ip-135-148-63.us
 jeffectionship.com
 kathmandu.scan.bufferover.run
 li1873-236.members.linode.com
+li1972-67.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
