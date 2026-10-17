@@ -40,6 +40,13 @@
 95.149.216.162.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 amz.unixwiz.net
+azpdesf7kgdi.stretchoid.com
+azpdesmlqfqr.stretchoid.com
+azpdsg2nttrm.stretchoid.com
+azpdssl1q4v9.stretchoid.com
+azpdssxihfgy.stretchoid.com
+azpdws3p4oiy.stretchoid.com
+azpdwsqu4fs0.stretchoid.com
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 cgw-211-24-79-247.bbrtl.time.net.my
@@ -50,6 +57,7 @@ crawler236.deepfield.net
 dal215.hawkhost.com
 dial-148-240-238-3.zone-1.ip.static-ftth.axtel.net.mx
 dns12.online.tj.cn
+ec2-13-222-61-160.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
