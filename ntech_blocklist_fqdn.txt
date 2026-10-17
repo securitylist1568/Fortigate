@@ -114,7 +114,9 @@ b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 crawler027.deepfield.net
+crawler038.deepfield.net
 dal215.hawkhost.com
+dns106.online.tj.cn
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
@@ -139,6 +141,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
 scan-56.security.ipip.net
+scan.apcosys.cc
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
