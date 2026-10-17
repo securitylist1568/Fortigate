@@ -136,6 +136,7 @@ scan-98-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 sydney.scan.bufferover.run
 taipei.scan.bufferover.run
 users219.vip.heteml.jp
