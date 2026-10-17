@@ -93,8 +93,10 @@ li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
 o316.scanner.modat.io
+o349.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
