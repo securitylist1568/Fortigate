@@ -115,6 +115,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 crawler027.deepfield.net
 crawler038.deepfield.net
+crawler048.deepfield.net
 dal215.hawkhost.com
 dns106.online.tj.cn
 dns12.online.tj.cn
