@@ -138,9 +138,6 @@ azpdwswc8dbe.stretchoid.com
 b2.org.afilias-nst.org
 babylon.scan.bufferover.run
 client.yota.ru
-crawler096.deepfield.net
-crawler115.deepfield.net
-crawler236.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-100-58-203-239.compute-1.amazonaws.com
@@ -162,7 +159,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-254.4vendeta.com
 ip29.sudolio.io
-ip92.ip-135-148-63.us
 jeffectionship.com
 kathmandu.scan.bufferover.run
 li1873-236.members.linode.com
@@ -173,18 +169,12 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-14l.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
-scan-61-9.shadowserver.io
-scan-68-08.shadowserver.io
 scan-89-5.shadowserver.io
-scan-92-2.shadowserver.io
-scan-93-1.shadowserver.io
 scan-94-1.shadowserver.io
 scan-95-3.shadowserver.io
-scan-98-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
