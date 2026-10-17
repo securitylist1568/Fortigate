@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-104.149.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,8 +22,6 @@
 172-233-89-133.ip.linodeusercontent.com
 173-255-237-89.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-186.149.216.162.bc.googleusercontent.com
-224.149.216.162.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
 5-101-140-66.as42831.net
 62.149.216.162.bc.googleusercontent.com
@@ -126,20 +123,16 @@ ip-40-170.4vendeta.com
 ip-58-70.4vendeta.com
 ip-58-74.4vendeta.com
 ip-59-10.superbit.host
-ip103.ip-5-39-125.eu
 ip247.ip-51-68-236.eu
 ip29.sudolio.io
 jeffectionship.com
 mfyabgec.musicpda.com
+o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 rootevidence.com
-scan-94-7.shadowserver.io
-scan-95-5.shadowserver.io
-scan-97-2.shadowserver.io
-scan-98-5.shadowserver.io
 scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
