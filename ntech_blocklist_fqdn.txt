@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.149.216.162.bc.googleusercontent.com
+159.211.203.35.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-233-89-133.ip.linodeusercontent.com
 173-255-237-89.ip.linodeusercontent.com
@@ -25,6 +26,7 @@
 228.149.216.162.bc.googleusercontent.com
 5-101-140-66.as42831.net
 66-175-213-105.ip.linodeusercontent.com
+71.149.216.162.bc.googleusercontent.com
 78.150.216.162.bc.googleusercontent.com
 95.105.71.239.dynamic.ufanet.ru
 aim.sba-research.org
@@ -127,6 +129,7 @@ ip247.ip-51-68-236.eu
 ip29.sudolio.io
 jeffectionship.com
 mfyabgec.musicpda.com
+o067.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
