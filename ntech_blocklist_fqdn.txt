@@ -38,6 +38,8 @@ b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
+crawler096.deepfield.net
+crawler115.deepfield.net
 dal215.hawkhost.com
 dial-148-240-238-3.zone-1.ip.static-ftth.axtel.net.mx
 dns12.online.tj.cn
@@ -54,6 +56,9 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-14l.shadowserver.io
+scan-68-08.shadowserver.io
+scan-93-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
