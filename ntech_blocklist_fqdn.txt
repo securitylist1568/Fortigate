@@ -79,8 +79,6 @@
 49.205.88.34.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 78.86.14.34.bc.googleusercontent.com
-88.210.203.35.bc.googleusercontent.com
-93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
 aa27e38f.sea.customer.misaka.io
 amz.unixwiz.net
 azpdes1uvjac.stretchoid.com
@@ -136,7 +134,6 @@ azpdwsqu4fs0.stretchoid.com
 azpdwssgcdos.stretchoid.com
 azpdwswc8dbe.stretchoid.com
 b2.org.afilias-nst.org
-b9d155e9.mow.customer.misaka.io
 babylon.scan.bufferover.run
 client.yota.ru
 crawler096.deepfield.net
