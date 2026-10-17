@@ -27,7 +27,6 @@
 49.205.88.34.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 7.210.203.35.bc.googleusercontent.com
-70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 80.210.203.35.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
@@ -50,7 +49,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip198.ip-5-196-35.eu
 ip29.sudolio.io
-l607.scanner.modat.io
+ip92.ip-135-148-63.us
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
