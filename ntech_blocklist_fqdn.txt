@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-115.149.216.162.bc.googleusercontent.com
 131.210.77.34.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
@@ -81,7 +80,6 @@
 80.210.203.35.bc.googleusercontent.com
 88.210.203.35.bc.googleusercontent.com
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
-95.149.216.162.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 amz.unixwiz.net
 azpdesf7kgdi.stretchoid.com
@@ -119,10 +117,10 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip198.ip-5-196-35.eu
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 kathmandu.scan.bufferover.run
+li1873-236.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 null-91.134.45.bcn.ifog.es
