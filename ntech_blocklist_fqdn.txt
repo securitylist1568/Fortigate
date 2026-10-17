@@ -40,6 +40,7 @@ cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 crawler096.deepfield.net
 crawler115.deepfield.net
+crawler236.deepfield.net
 dal215.hawkhost.com
 dial-148-240-238-3.zone-1.ip.static-ftth.axtel.net.mx
 dns12.online.tj.cn
