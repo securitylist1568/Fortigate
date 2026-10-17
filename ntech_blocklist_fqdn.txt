@@ -21,12 +21,14 @@
 114.149.216.162.bc.googleusercontent.com
 168-113-158-51.instances.scw.cloud
 172-233-89-133.ip.linodeusercontent.com
+173-255-237-89.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 186.149.216.162.bc.googleusercontent.com
 224.149.216.162.bc.googleusercontent.com
 228.149.216.162.bc.googleusercontent.com
 5-101-140-66.as42831.net
 62.149.216.162.bc.googleusercontent.com
+66-175-213-105.ip.linodeusercontent.com
 78.150.216.162.bc.googleusercontent.com
 95.105.71.239.dynamic.ufanet.ru
 98.211.203.35.bc.googleusercontent.com
@@ -138,6 +140,7 @@ scan-94-7.shadowserver.io
 scan-95-5.shadowserver.io
 scan-97-2.shadowserver.io
 scan-98-5.shadowserver.io
+scanner-info.rootevidence.com
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
