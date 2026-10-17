@@ -21,6 +21,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.121.205.35.bc.googleusercontent.com
+121.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-1-201.ip.linodeusercontent.com
@@ -62,7 +63,6 @@
 23-92-26-28.ip.linodeusercontent.com
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
-234.150.216.162.bc.googleusercontent.com
 235.230.189.35.bc.googleusercontent.com
 239.211.203.35.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
@@ -81,7 +81,6 @@
 49.205.88.34.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 78.86.14.34.bc.googleusercontent.com
-aa27e38f.sea.customer.misaka.io
 amz.unixwiz.net
 azpdes1uvjac.stretchoid.com
 azpdes8lof72.stretchoid.com
@@ -160,6 +159,7 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-56-254.4vendeta.com
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 jeffectionship.com
@@ -168,7 +168,6 @@ li1873-236.members.linode.com
 li1972-67.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-null-91.134.45.bcn.ifog.es
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
