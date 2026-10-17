@@ -27,6 +27,7 @@
 205.163.175.207.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
 223.150.216.162.bc.googleusercontent.com
+224.149.216.162.bc.googleusercontent.com
 235.230.189.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
 252.51.155.104.bc.googleusercontent.com
@@ -111,7 +112,9 @@ scan-89-5.shadowserver.io
 scan-93-7.shadowserver.io
 scan-94-1.shadowserver.io
 scan-95-3.shadowserver.io
+scan-95-5.shadowserver.io
 scan-96-2.shadowserver.io
+scan-97-2.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
