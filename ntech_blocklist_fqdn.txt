@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+112.121.205.35.bc.googleusercontent.com
 131.210.77.34.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
@@ -60,9 +61,9 @@
 23-92-27-179.ip.linodeusercontent.com
 234.150.216.162.bc.googleusercontent.com
 235.230.189.35.bc.googleusercontent.com
+241.149.216.162.bc.googleusercontent.com
 252.149.216.162.bc.googleusercontent.com
 252.51.155.104.bc.googleusercontent.com
-33.211.203.35.bc.googleusercontent.com
 40.22.195.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -72,9 +73,7 @@
 45-79-145-211.ip.linodeusercontent.com
 45-79-145-254.ip.linodeusercontent.com
 45-79-145-34.ip.linodeusercontent.com
-49.205.88.34.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
-7.210.203.35.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 78.86.14.34.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
@@ -92,7 +91,6 @@ azpdwsqu4fs0.stretchoid.com
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 babylon.scan.bufferover.run
-cgw-211-24-79-247.bbrtl.time.net.my
 client.yota.ru
 crawler096.deepfield.net
 crawler115.deepfield.net
