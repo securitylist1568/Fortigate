@@ -42,6 +42,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
+go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip103.ip-5-39-125.eu
