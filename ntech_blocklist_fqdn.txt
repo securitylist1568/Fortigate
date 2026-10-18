@@ -19,21 +19,16 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.150.216.162.bc.googleusercontent.com
 123.211.203.35.bc.googleusercontent.com
-154.150.216.162.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 209-240-111-185.static.as40244.net
-209.210.203.35.bc.googleusercontent.com
 213-170-135-8.as212027.host
-251.150.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 36.80.106.34.bc.googleusercontent.com
-56.211.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 59-126-34-231.hinet-ip.hinet.net
 64.149.216.162.bc.googleusercontent.com
-94.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -85,5 +80,3 @@ user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi3311291.contaboserver.net
 vps-102567.cloud.firstheberg.net
-vps-1731c2a2.vps.ovh.net
-vps-9bf587e4.vps.ovh.net
