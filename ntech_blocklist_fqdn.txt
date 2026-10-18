@@ -30,6 +30,7 @@
 191.149.216.162.bc.googleusercontent.com
 209.210.203.35.bc.googleusercontent.com
 251.150.216.162.bc.googleusercontent.com
+2d96f380.kbp.customer.misaka.io
 40.149.216.162.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 60.149.216.162.bc.googleusercontent.com
@@ -141,6 +142,18 @@ fnumk.chinaredeagle.com
 gcchristensen.us
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-158.4vendeta.com
+ip-40-170.4vendeta.com
+ip-40-190.4vendeta.com
+ip-58-102.4vendeta.com
+ip-58-106.4vendeta.com
+ip-58-110.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-70.4vendeta.com
+ip-58-74.4vendeta.com
+ip-58-98.4vendeta.com
+ip-59-10.superbit.host
+ip-60-250.4vendeta.com
 ip103.ip-5-39-125.eu
 ip212-132-93-228.pbiaas.com
 ip29.sudolio.io
