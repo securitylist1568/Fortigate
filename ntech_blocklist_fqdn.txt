@@ -22,7 +22,6 @@
 146.127.231.8.bc.googleusercontent.com
 146.221.22.34.bc.googleusercontent.com
 158.176.34.34.bc.googleusercontent.com
-159.150.216.162.bc.googleusercontent.com
 173.69.79.34.bc.googleusercontent.com
 177.101.155.104.bc.googleusercontent.com
 181.149.216.162.bc.googleusercontent.com
@@ -36,6 +35,7 @@
 2d834781.kunde.misaka.berlin
 36-239-43-168.dynamic-ip.hinet.net
 58.149.216.162.bc.googleusercontent.com
+60-249-14-121.hinet-ip.hinet.net
 67.110.78.34.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
 79.134.53.34.bc.googleusercontent.com
@@ -68,8 +68,8 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip3.ip-51-161-57.net
+ip92.ip-135-148-63.us
 mfyabgec.musicpda.com
-o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -81,9 +81,9 @@ scan-60-12.shadowserver.io
 scan-73-02.shadowserver.io
 scan-88-6.shadowserver.io
 scan-92-2.shadowserver.io
+scan-93-5.shadowserver.io
 scan-94-4.shadowserver.io
 scan-94-6.shadowserver.io
-scan.apcosys.cc
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
