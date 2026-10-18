@@ -43,6 +43,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-1-94-8-45.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -59,15 +60,12 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-60-250.4vendeta.com
-ip103.ip-5-39-125.eu
 ip29.sudolio.io
 ip82-165-231-177.pbiaas.com
 ip91.ip-51-68-66.eu
-li1570-11.members.linode.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 o067.scanner.modat.io
-o308.scanner.modat.io
 o336.scanner.modat.io
 o342.scanner.modat.io
 o343.scanner.modat.io
