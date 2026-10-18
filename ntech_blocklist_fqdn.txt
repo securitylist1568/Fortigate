@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 114.150.216.162.bc.googleusercontent.com
+123.211.203.35.bc.googleusercontent.com
 13.43.95.34.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
 168.150.216.162.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 213-170-135-8.as212027.host
 251.150.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
+36.80.106.34.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
@@ -59,6 +61,7 @@ ip-59-10.superbit.host
 ip-60-250.4vendeta.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
+ip82-165-231-177.pbiaas.com
 ip91.ip-51-68-66.eu
 li1570-11.members.linode.com
 mary.probe.onyphe.net
