@@ -31,6 +31,7 @@
 36-239-43-168.dynamic-ip.hinet.net
 58.149.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
+79.134.53.34.bc.googleusercontent.com
 94.210.203.35.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
@@ -46,6 +47,19 @@ dal215.hawkhost.com
 dns106.online.tj.cn
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
+ec2-13-218-56-216.compute-1.amazonaws.com
+ec2-18-215-152-242.compute-1.amazonaws.com
+ec2-184-72-203-238.compute-1.amazonaws.com
+ec2-3-85-190-121.compute-1.amazonaws.com
+ec2-3-86-104-237.compute-1.amazonaws.com
+ec2-3-88-155-51.compute-1.amazonaws.com
+ec2-3-95-5-114.compute-1.amazonaws.com
+ec2-32-192-67-220.compute-1.amazonaws.com
+ec2-34-228-63-7.compute-1.amazonaws.com
+ec2-44-203-188-7.compute-1.amazonaws.com
+ec2-54-144-246-4.compute-1.amazonaws.com
+ec2-54-174-230-107.compute-1.amazonaws.com
+ec2-54-175-31-44.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -58,6 +72,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43h.shadowserver.io
 scan-45g.shadowserver.io
 scan-88-6.shadowserver.io
 scan-92-2.shadowserver.io
