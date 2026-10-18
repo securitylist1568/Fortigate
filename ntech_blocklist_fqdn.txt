@@ -20,6 +20,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-160-147-183.dynamic-ip.hinet.net
 146.127.231.8.bc.googleusercontent.com
 146.221.22.34.bc.googleusercontent.com
 158.176.34.34.bc.googleusercontent.com
@@ -37,6 +38,7 @@
 60-249-14-121.hinet-ip.hinet.net
 67.110.78.34.bc.googleusercontent.com
 79.134.53.34.bc.googleusercontent.com
+92.211.203.35.bc.googleusercontent.com
 94.210.203.35.bc.googleusercontent.com
 adventure.yatano.com
 aim.sba-research.org
