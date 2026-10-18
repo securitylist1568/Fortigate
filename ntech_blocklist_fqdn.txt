@@ -28,6 +28,7 @@
 187.62.234-14.conectatelecomto.com.br
 190.66.47.34.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+209-240-111-185.static.as40244.net
 209.210.203.35.bc.googleusercontent.com
 213-170-135-8.as212027.host
 251.150.216.162.bc.googleusercontent.com
@@ -63,6 +64,8 @@ ip-60-250.4vendeta.com
 ip29.sudolio.io
 ip82-165-231-177.pbiaas.com
 ip91.ip-51-68-66.eu
+li1570-11.members.linode.com
+mail.cumasifoods.com
 mary.probe.onyphe.net
 mfyabgec.musicpda.com
 o067.scanner.modat.io
