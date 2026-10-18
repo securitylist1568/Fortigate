@@ -25,6 +25,7 @@
 209-240-111-185.static.as40244.net
 213-170-135-8.as212027.host
 2d96f380.kbp.customer.misaka.io
+30-202-250-167.uniconnect.net.br
 36.80.106.34.bc.googleusercontent.com
 58.211.203.35.bc.googleusercontent.com
 59-126-34-231.hinet-ip.hinet.net
@@ -71,6 +72,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-58.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
 srv1094781.hstgr.cloud
@@ -78,5 +80,6 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
+ve264.venus.dedi.server-hosting.expert
 vmi3311291.contaboserver.net
 vps-102567.cloud.firstheberg.net
