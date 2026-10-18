@@ -25,8 +25,10 @@
 158.176.34.34.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
 173.69.79.34.bc.googleusercontent.com
+176.65.149.165.ptr.pfcloud.network
 177.101.155.104.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.62.234-14.conectatelecomto.com.br
 189.141.34.34.bc.googleusercontent.com
 190.66.47.34.bc.googleusercontent.com
 191.149.216.162.bc.googleusercontent.com
