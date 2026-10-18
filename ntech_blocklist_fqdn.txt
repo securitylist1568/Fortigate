@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 190.66.47.34.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
+2d834781.kunde.misaka.berlin
 36-239-43-168.dynamic-ip.hinet.net
 58.149.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
@@ -66,4 +67,5 @@ scan.apcosys.cc
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.vnpt.vn
 users219.vip.heteml.jp
