@@ -32,13 +32,10 @@
 191.149.216.162.bc.googleusercontent.com
 212.150.216.162.bc.googleusercontent.com
 239.150.216.162.bc.googleusercontent.com
-251.149.216.162.bc.googleusercontent.com
-26.149.216.162.bc.googleusercontent.com
 40.149.216.162.bc.googleusercontent.com
 49-159-5-250.dynamic.elinx.com.tw
 60.149.216.162.bc.googleusercontent.com
 66.182.204.121.broad.xm.fj.dynamic.163data.com.cn
-70.149.216.162.bc.googleusercontent.com
 79.134.53.34.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -153,6 +150,7 @@ ip29.sudolio.io
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 o069.scanner.modat.io
+o308.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
@@ -160,15 +158,12 @@ proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
 regular-t1ching.hillgent.com
-scan-55c.shadowserver.io
 scan-60-10.shadowserver.io
 scan-63-8.shadowserver.io
-scan-70-00.shadowserver.io
 scan-92-6.shadowserver.io
 scan-95-4.shadowserver.io
 scan-96-4.shadowserver.io
 scan-97-3.shadowserver.io
-scan-97-6.shadowserver.io
 scan-98-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
