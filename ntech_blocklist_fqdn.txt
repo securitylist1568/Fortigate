@@ -24,6 +24,7 @@
 158.176.34.34.bc.googleusercontent.com
 159.150.216.162.bc.googleusercontent.com
 173.69.79.34.bc.googleusercontent.com
+177.101.155.104.bc.googleusercontent.com
 181.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 189.141.34.34.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 207.150.216.162.bc.googleusercontent.com
 215.211.203.35.bc.googleusercontent.com
 227.194.78.34.bc.googleusercontent.com
+29.149.216.162.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 36-239-43-168.dynamic-ip.hinet.net
 58.149.216.162.bc.googleusercontent.com
@@ -75,9 +77,12 @@ recyber.net
 scan-43h.shadowserver.io
 scan-45g.shadowserver.io
 scan-47k.shadowserver.io
+scan-60-12.shadowserver.io
+scan-73-02.shadowserver.io
 scan-88-6.shadowserver.io
 scan-92-2.shadowserver.io
 scan-94-4.shadowserver.io
+scan-94-6.shadowserver.io
 scan.apcosys.cc
 security.criminalip.com
 smtp1.telemach.net
