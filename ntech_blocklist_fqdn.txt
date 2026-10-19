@@ -98,6 +98,7 @@ client.yota.ru
 crawler001.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 epait.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
