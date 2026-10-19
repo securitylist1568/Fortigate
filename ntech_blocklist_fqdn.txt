@@ -20,7 +20,6 @@
 13.43.95.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 188.19.14.34.bc.googleusercontent.com
-209-240-111-185.static.as40244.net
 30-202-250-167.uniconnect.net.br
 59-126-34-231.hinet-ip.hinet.net
 64.149.216.162.bc.googleusercontent.com
@@ -34,16 +33,12 @@ client.yota.ru
 cohogs.usienspire.com
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-100-59-195-187.compute-1.amazonaws.com
-ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1570-11.members.linode.com
-mail.cumasifoods.com
 mfyabgec.musicpda.com
 o310.scanner.modat.io
 o338.scanner.modat.io
@@ -70,4 +65,3 @@ user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 ve264.venus.dedi.server-hosting.expert
 vmi3248898.contaboserver.net
-vps-102567.cloud.firstheberg.net
