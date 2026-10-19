@@ -63,6 +63,7 @@ scan-95-5.shadowserver.io
 scan-96-5.shadowserver.io
 scan-97-5.shadowserver.io
 scan.apcosys.cc
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
