@@ -20,6 +20,7 @@
 118-232-104-34.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 125.3.195.35.bc.googleusercontent.com
+13.43.95.34.bc.googleusercontent.com
 132.1.156.27.broad.fz.fj.dynamic.163data.com.cn
 144.92.74.97.host.secureserver.net
 172-232-231-4.ip.linodeusercontent.com
