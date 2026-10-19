@@ -98,6 +98,7 @@ client.yota.ru
 crawler001.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
+epait.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -105,6 +106,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-40-170.4vendeta.com
 ip-58-106.4vendeta.com
 ip-58-18.4vendeta.com
+ip-58-194.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
 ip-60-250.4vendeta.com
