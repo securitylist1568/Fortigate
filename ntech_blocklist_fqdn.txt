@@ -21,6 +21,7 @@
 125-227-127-85.hinet-ip.hinet.net
 125.3.195.35.bc.googleusercontent.com
 13.43.95.34.bc.googleusercontent.com
+178.144.20.34.bc.googleusercontent.com
 180.151.57.206.reverse.spectranet.in
 185-45-195-15.hostsailor.com
 23-94-131-251-host.colocrossing.com
@@ -135,6 +136,7 @@ scan.apcosys.cc
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.142.9.9.176.clients.your-server.de
 static.vnpt.vn
