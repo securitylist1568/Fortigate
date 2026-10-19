@@ -27,7 +27,6 @@
 185-45-195-15.hostsailor.com
 199.129.53.34.bc.googleusercontent.com
 23-94-131-251-host.colocrossing.com
-35.231.175.207.bc.googleusercontent.com
 45-79-160-27.ip.linodeusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 aim.sba-research.org
@@ -115,7 +114,6 @@ ip-58-194.4vendeta.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
 ip61.ip-72-251-5.net
-ip92.ip-135-148-63.us
 li1570-11.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
@@ -127,15 +125,12 @@ o342.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 pug.ipip.net
 recyber.net
 rootevidence.com
 scan-61-9.shadowserver.io
-scan-75-05.shadowserver.io
 scan-92-3.shadowserver.io
-scan-94-6.shadowserver.io
 scan-97-5.shadowserver.io
 scan-98-7.shadowserver.io
 scan.visionheight.com
