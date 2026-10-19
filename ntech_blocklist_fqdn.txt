@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 13.43.95.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+188.19.14.34.bc.googleusercontent.com
 209-240-111-185.static.as40244.net
 30-202-250-167.uniconnect.net.br
 59-126-34-231.hinet-ip.hinet.net
