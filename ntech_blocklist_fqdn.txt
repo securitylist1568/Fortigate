@@ -46,6 +46,7 @@ ip130.ip-5-196-61.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
+mail.cumasifoods.com
 mfyabgec.musicpda.com
 o067.scanner.modat.io
 o311.scanner.modat.io
