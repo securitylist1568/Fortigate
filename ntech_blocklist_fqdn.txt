@@ -20,6 +20,7 @@
 178.144.20.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 9213038d.customer.misaka.se
+aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdes42xow1.stretchoid.com
@@ -110,6 +111,7 @@ ip-60-250.4vendeta.com
 ip130.ip-5-196-61.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1873-236.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o060.scanner.modat.io
