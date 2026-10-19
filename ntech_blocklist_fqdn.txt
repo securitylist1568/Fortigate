@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.3.195.35.bc.googleusercontent.com
-13.43.95.34.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 175.163.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
@@ -51,7 +50,6 @@ mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pdcscan7.scanning.cybcube.com
-pdcscan9.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
@@ -71,4 +69,3 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
-vmi3248898.contaboserver.net
