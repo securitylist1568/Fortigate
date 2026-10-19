@@ -131,6 +131,7 @@ ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 pug.ipip.net
 recyber.net
+rootevidence.com
 scan-61-9.shadowserver.io
 scan-75-05.shadowserver.io
 scan-92-3.shadowserver.io
