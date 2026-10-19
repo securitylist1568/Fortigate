@@ -21,6 +21,7 @@
 132.1.156.27.broad.fz.fj.dynamic.163data.com.cn
 172-232-121-108.ip.linodeusercontent.com
 175.163.195.35.bc.googleusercontent.com
+176.65.148.233.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 188.19.14.34.bc.googleusercontent.com
 199.129.53.34.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 9.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
+b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 bigip-ccadmin-z48a-oracleoutsourcing.oracle.com
 client.yota.ru
