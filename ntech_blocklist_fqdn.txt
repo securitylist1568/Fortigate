@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+118-232-104-34.dynamic.kbronet.com.tw
 125-227-127-85.hinet-ip.hinet.net
 125.3.195.35.bc.googleusercontent.com
 132.1.156.27.broad.fz.fj.dynamic.163data.com.cn
@@ -31,7 +32,6 @@
 35.231.175.207.bc.googleusercontent.com
 45-79-160-27.ip.linodeusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
-aim.sba-research.org
 amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
@@ -45,9 +45,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
-li1537-121.members.linode.com
 li1570-11.members.linode.com
-mail.cumasifoods.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 ns535056.ip-192-99-20.net
