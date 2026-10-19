@@ -26,6 +26,7 @@
 172-232-231-4.ip.linodeusercontent.com
 175.163.195.35.bc.googleusercontent.com
 176.65.148.233.ptr.pfcloud.network
+180.151.57.206.reverse.spectranet.in
 185-45-195-15.hostsailor.com
 199.129.53.34.bc.googleusercontent.com
 23-94-131-251-host.colocrossing.com
