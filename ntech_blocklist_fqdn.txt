@@ -105,6 +105,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-170.4vendeta.com
 ip-58-106.4vendeta.com
+ip-58-18.4vendeta.com
 ip-58-194.4vendeta.com
 ip-58-250.4vendeta.com
 ip-58-74.4vendeta.com
@@ -116,6 +117,7 @@ mail.cumasifoods.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o060.scanner.modat.io
+o067.scanner.modat.io
 o311.scanner.modat.io
 o340.scanner.modat.io
 o342.scanner.modat.io
