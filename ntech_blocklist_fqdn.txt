@@ -53,6 +53,7 @@ o310.scanner.modat.io
 o338.scanner.modat.io
 o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan7.scanning.cybcube.com
 pdcscan9.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
