@@ -29,6 +29,7 @@
 185-45-195-15.hostsailor.com
 199.129.53.34.bc.googleusercontent.com
 224.211.203.35.bc.googleusercontent.com
+23-94-131-251-host.colocrossing.com
 35.231.175.207.bc.googleusercontent.com
 45-79-160-27.ip.linodeusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
@@ -43,6 +44,7 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip109.ip-51-38-221.eu
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
