@@ -24,6 +24,7 @@
 185-45-195-15.hostsailor.com
 188.19.14.34.bc.googleusercontent.com
 199.129.53.34.bc.googleusercontent.com
+224.211.203.35.bc.googleusercontent.com
 56.111.77.34.bc.googleusercontent.com
 75-127-6-2-host.colocrossing.com
 79.210.203.35.bc.googleusercontent.com
@@ -47,6 +48,7 @@ li1537-121.members.linode.com
 li1570-11.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pdcscan7.scanning.cybcube.com
 pdcscan9.scanning.cybcube.com
