@@ -17,11 +17,9 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.150.216.162.bc.googleusercontent.com
 123.211.203.35.bc.googleusercontent.com
 13.43.95.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-203-74-130-205.hinet-ip.hinet.net
 209-240-111-185.static.as40244.net
 213-170-135-8.as212027.host
 30-202-250-167.uniconnect.net.br
@@ -44,16 +42,12 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ip82-165-231-177.pbiaas.com
-ip91.ip-51-68-66.eu
 li1570-11.members.linode.com
 mail.cumasifoods.com
-mary.probe.onyphe.net
 mfyabgec.musicpda.com
 o067.scanner.modat.io
 o310.scanner.modat.io
 o338.scanner.modat.io
-o343.scanner.modat.io
-o346.scanner.modat.io
 o351.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan9.scanning.cybcube.com
@@ -61,7 +55,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-58.security.ipip.net
-security.criminalip.com
 smtp1.telemach.net
 srv1094781.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -70,5 +63,4 @@ user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 ve264.venus.dedi.server-hosting.expert
 vmi3248898.contaboserver.net
-vmi3311291.contaboserver.net
 vps-102567.cloud.firstheberg.net
