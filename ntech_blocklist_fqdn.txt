@@ -79,7 +79,6 @@ azpdwsw92227.stretchoid.com
 azpdwsybgrpz.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler001.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
@@ -103,13 +102,11 @@ mail.cumasifoods.com
 mfyabgec.musicpda.com
 o067.scanner.modat.io
 o311.scanner.modat.io
-o342.scanner.modat.io
 o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-rootevidence.com
 scan.apcosys.cc
 security.criminalip.com
 smtp1.telemach.net
