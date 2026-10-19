@@ -128,6 +128,7 @@ scan.apcosys.cc
 security.criminalip.com
 smtp1.telemach.net
 spafollow.kwai.com
+static-200-105-128-82.acelerate.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 users219.vip.heteml.jp
