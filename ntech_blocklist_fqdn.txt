@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 125.3.195.35.bc.googleusercontent.com
+132.1.156.27.broad.fz.fj.dynamic.163data.com.cn
 172-232-121-108.ip.linodeusercontent.com
 175.163.195.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
