@@ -23,7 +23,6 @@
 156.62.146.34.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-30-202-250-167.uniconnect.net.br
 aim.sba-research.org
 amz.unixwiz.net
 azpdes085iiu.stretchoid.com
@@ -165,7 +164,6 @@ o059.scanner.modat.io
 o309.scanner.modat.io
 o313.scanner.modat.io
 o315.scanner.modat.io
-o316.scanner.modat.io
 o342.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
