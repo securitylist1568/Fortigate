@@ -25,7 +25,6 @@
 88.182.97.34.bc.googleusercontent.com
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
 aa27e3fb.sea.customer.misaka.io
-aim.sba-research.org
 amz.unixwiz.net
 azpdes1uvjac.stretchoid.com
 azpdes29lf3j.stretchoid.com
@@ -91,15 +90,12 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-18.4vendeta.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
-o067.scanner.modat.io
-o346.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
