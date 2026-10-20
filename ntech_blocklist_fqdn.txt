@@ -23,7 +23,6 @@
 159.207.38.34.bc.googleusercontent.com
 166.39.77.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-213-170-135-8.as212027.host
 225.182.205.35.bc.googleusercontent.com
 227.113.148.146.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -37,7 +36,6 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-1-94-63-102.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -46,7 +44,6 @@ ip103.ip-5-39-125.eu
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
-mail.cumasifoods.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -61,7 +58,6 @@ scan-92-5.shadowserver.io
 scan-97-6.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
-server-65-9-180-129.tpe53.r.cloudfront.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
