@@ -160,11 +160,13 @@ ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
+o057.scanner.modat.io
 o059.scanner.modat.io
 o309.scanner.modat.io
 o313.scanner.modat.io
 o314.scanner.modat.io
 o315.scanner.modat.io
+o337.scanner.modat.io
 o342.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
