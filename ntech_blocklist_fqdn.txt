@@ -30,6 +30,7 @@
 74-50-97-90.static.hvvc.us
 88.182.97.34.bc.googleusercontent.com
 89-38-98-29.hosted-by-worldstream.net
+aim.sba-research.org
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -47,6 +48,7 @@ ip92.ip-135-148-63.us
 li1570-11.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 o059.scanner.modat.io
 o316.scanner.modat.io
 pc112.cses.ilc.edu.tw
