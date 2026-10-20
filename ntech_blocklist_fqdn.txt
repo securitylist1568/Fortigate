@@ -165,6 +165,8 @@ mail.cumasifoods.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 o059.scanner.modat.io
+o309.scanner.modat.io
+o313.scanner.modat.io
 o316.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
