@@ -165,6 +165,7 @@ o309.scanner.modat.io
 o313.scanner.modat.io
 o315.scanner.modat.io
 o316.scanner.modat.io
+o342.scanner.modat.io
 o352.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pdcscan2.scanning.cybcube.com
