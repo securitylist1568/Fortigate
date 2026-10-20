@@ -169,6 +169,7 @@ o309.scanner.modat.io
 o313.scanner.modat.io
 o316.scanner.modat.io
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
