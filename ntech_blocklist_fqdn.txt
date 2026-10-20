@@ -81,6 +81,7 @@ azpdwsybgrpz.stretchoid.com
 b2.org.afilias-nst.org
 b9ead587.zrh.customer.misaka.io
 client.yota.ru
+crawler137.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
@@ -96,6 +97,7 @@ li1570-11.members.linode.com
 li1873-236.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
+no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
