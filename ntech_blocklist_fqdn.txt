@@ -45,7 +45,6 @@
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-204.76.203.7.ptr.pfcloud.network
 213-170-135-8.as212027.host
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-16.ip.linodeusercontent.com
@@ -60,6 +59,7 @@
 45-79-109-4.ip.linodeusercontent.com
 45-79-145-233.ip.linodeusercontent.com
 45-79-145-254.ip.linodeusercontent.com
+6682315a.customer.misaka.joburg
 77.76.78.34.bc.googleusercontent.com
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
 aim.sba-research.org
@@ -81,7 +81,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
-li1570-11.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -96,7 +95,6 @@ scan-42i.shadowserver.io
 scan-45g.shadowserver.io
 scan-81-7.shadowserver.io
 scan-92-4.shadowserver.io
-scan.visionheight.com
 security.criminalip.com
 server-65-9-180-129.tpe53.r.cloudfront.net
 smtp1.telemach.net
