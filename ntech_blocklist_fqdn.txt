@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 163-172-74-71.rev.poneytelecom.eu
+166.39.77.34.bc.googleusercontent.com
 178.144.20.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 204.76.203.7.ptr.pfcloud.network
@@ -25,6 +26,7 @@
 88.182.97.34.bc.googleusercontent.com
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
 aa27e3fb.sea.customer.misaka.io
+aim.sba-research.org
 amz.unixwiz.net
 azpdes1uvjac.stretchoid.com
 azpdes29lf3j.stretchoid.com
