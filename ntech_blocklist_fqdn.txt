@@ -26,6 +26,7 @@
 213-170-135-8.as212027.host
 225.182.205.35.bc.googleusercontent.com
 227.113.148.146.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 6682315a.customer.misaka.joburg
 74-50-97-90.static.hvvc.us
 aim.sba-research.org
