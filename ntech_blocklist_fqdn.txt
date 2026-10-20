@@ -63,7 +63,6 @@
 77.76.78.34.bc.googleusercontent.com
 88.182.97.34.bc.googleusercontent.com
 93.116.213.222.broad.dy.sc.dynamic.163data.com.cn
-aa27e3fb.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
 azpdes1uvjac.stretchoid.com
@@ -127,19 +126,15 @@ crawler137.deepfield.net
 crawler225.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-adsl.viettel.vn
 ec2-44-204-37-191.compute-1.amazonaws.com
 ecs-124-70-107-90.compute.hwclouds-dns.com
-epait.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-194.4vendeta.com
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 mail.cumasifoods.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -154,7 +149,6 @@ scan-81-7.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
-static-200-105-128-82.acelerate.com
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 users219.vip.heteml.jp
