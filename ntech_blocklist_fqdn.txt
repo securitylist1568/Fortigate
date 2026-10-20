@@ -2,6 +2,7 @@
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
+111-240-154-73.dynamic-ip.hinet.net
 111-240-157-45.dynamic-ip.hinet.net
 111-240-16-194.dynamic-ip.hinet.net
 111-240-19-26.dynamic-ip.hinet.net
@@ -44,6 +45,7 @@ ip103.ip-5-39-125.eu
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
+mail.cumasifoods.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
