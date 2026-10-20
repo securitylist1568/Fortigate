@@ -52,7 +52,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
-qqn.servantixpro.com
 recyber.net
 scan-09n.shadowserver.io
 scan-69-05.shadowserver.io
