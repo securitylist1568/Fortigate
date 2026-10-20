@@ -95,6 +95,7 @@ scan-41m.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
 scan-81-7.shadowserver.io
+scan-92-4.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 server-65-9-180-129.tpe53.r.cloudfront.net
