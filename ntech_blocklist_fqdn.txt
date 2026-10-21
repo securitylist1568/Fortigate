@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 215.237.189.35.bc.googleusercontent.com
 2d834681.led.customer.misaka.io
-59-126-34-231.hinet-ip.hinet.net
 8.154.195.35.bc.googleusercontent.com
 86.44.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -143,13 +142,14 @@ ip29.sudolio.io
 ip85.ip-5-135-106.eu
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
-mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 o058.scanner.modat.io
+o059.scanner.modat.io
 o063.scanner.modat.io
+o071.scanner.modat.io
+o343.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
-ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-96-4.shadowserver.io
@@ -158,5 +158,4 @@ scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
