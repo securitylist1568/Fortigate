@@ -46,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1625-135.members.linode.com
 li1817-110.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
@@ -58,11 +57,8 @@ s4850.vps.hosting
 scan-40g.shadowserver.io
 scan-42i.shadowserver.io
 scan-45g.shadowserver.io
-scan-52c.shadowserver.io
 scan-60.security.ipip.net
 scan-69-05.shadowserver.io
-scan-76-02.shadowserver.io
-scan-96-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
