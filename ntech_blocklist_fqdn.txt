@@ -25,6 +25,7 @@
 51-158-145-37.rev.poneytelecom.eu
 62-210-217-157.rev.poneytelecom.eu
 95.148.131.34.bc.googleusercontent.com
+aim.sba-research.org
 amz.unixwiz.net
 azpdes0tijbs.stretchoid.com
 azpdes1uvjac.stretchoid.com
@@ -139,6 +140,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-1-92-114-63.compute.hwclouds-dns.com
 ecs-1-94-63-102.compute.hwclouds-dns.com
+ecs-1-94-8-45.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
