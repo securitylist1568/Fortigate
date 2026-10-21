@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 2d834681.led.customer.misaka.io
+62-210-217-157.rev.poneytelecom.eu
 8.154.195.35.bc.googleusercontent.com
 86.44.175.207.bc.googleusercontent.com
 aim.sba-research.org
@@ -137,12 +138,23 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-40-158.4vendeta.com
+ip-40-190.4vendeta.com
+ip-58-102.4vendeta.com
+ip-58-106.4vendeta.com
+ip-58-250.4vendeta.com
+ip-58-70.4vendeta.com
+ip-58-74.4vendeta.com
+ip-58-98.4vendeta.com
+ip-59-10.superbit.host
+ip-60-250.4vendeta.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
 ip85.ip-5-135-106.eu
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+o056.scanner.modat.io
 o058.scanner.modat.io
 o059.scanner.modat.io
 o063.scanner.modat.io
@@ -161,3 +173,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 unn-169-150-252-179.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
+zhangyuan3.virtuaserver.com.br
