@@ -19,7 +19,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 146.239.220.35.bc.googleusercontent.com
-156.62.146.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 23-94-245-4-host.colocrossing.com
 aim.sba-research.org
@@ -38,7 +37,6 @@ ip29.sudolio.io
 jma.iverson.fixerskarta.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 o057.scanner.modat.io
 o074.scanner.modat.io
 o314.scanner.modat.io
