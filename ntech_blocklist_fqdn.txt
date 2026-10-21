@@ -46,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 jma.iverson.fixerskarta.com
-li1570-11.members.linode.com
 li1625-135.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
@@ -58,6 +57,7 @@ recyber.net
 s4850.vps.hosting
 scan-40g.shadowserver.io
 scan-42i.shadowserver.io
+scan-45g.shadowserver.io
 scan-52c.shadowserver.io
 scan-60.security.ipip.net
 scan-69-05.shadowserver.io
@@ -68,4 +68,8 @@ security.criminalip.com
 server.techexports.biz
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+sxplmahxxdns01.prod.sxb1.secureserver.net
+sxplmahxxdns02.prod.sxb1.secureserver.net
+sxplmahxxdns03.prod.sxb1.secureserver.net
+sxplmahxxdns04.prod.sxb1.secureserver.net
 users219.vip.heteml.jp
