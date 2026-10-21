@@ -28,6 +28,7 @@
 27-242-65-31.adsl.fetnet.net
 33.234.140.34.bc.googleusercontent.com
 54.30.205.35.bc.googleusercontent.com
+8.154.195.35.bc.googleusercontent.com
 95.59.205.35.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
@@ -54,6 +55,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+s4850.vps.hosting
 scan-40g.shadowserver.io
 scan-42i.shadowserver.io
 scan-52c.shadowserver.io
