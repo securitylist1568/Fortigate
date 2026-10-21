@@ -20,6 +20,7 @@
 156.62.146.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
+224.153.172.83.static.edisglobal.com
 2d834681.led.customer.misaka.io
 51-158-145-37.rev.poneytelecom.eu
 62-210-217-157.rev.poneytelecom.eu
