@@ -47,10 +47,7 @@ li1570-11.members.linode.com
 li1625-135.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
-o057.scanner.modat.io
 o074.scanner.modat.io
-o314.scanner.modat.io
-o337.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
