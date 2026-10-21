@@ -21,6 +21,7 @@
 198-134-107-73.rev.unlimitednet.us
 224.153.172.83.static.edisglobal.com
 2d0b6ab5.ams.customer.misaka.io
+42.89.130.34.bc.googleusercontent.com
 50-116-23-150.ip.linodeusercontent.com
 51-158-145-37.rev.poneytelecom.eu
 62-210-217-157.rev.poneytelecom.eu
