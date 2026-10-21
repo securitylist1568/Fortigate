@@ -21,7 +21,6 @@
 185-45-195-15.hostsailor.com
 198-134-107-73.rev.unlimitednet.us
 224.153.172.83.static.edisglobal.com
-2d834681.led.customer.misaka.io
 51-158-145-37.rev.poneytelecom.eu
 62-210-217-157.rev.poneytelecom.eu
 aim.sba-research.org
@@ -153,10 +152,11 @@ ip-59-10.superbit.host
 ip-60-250.4vendeta.com
 ip29.sudolio.io
 ip92.ip-135-148-63.us
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 o056.scanner.modat.io
 o059.scanner.modat.io
+o060.scanner.modat.io
+o061.scanner.modat.io
 o063.scanner.modat.io
 o071.scanner.modat.io
 o313.scanner.modat.io
