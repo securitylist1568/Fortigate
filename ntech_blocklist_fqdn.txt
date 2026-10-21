@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 215.237.189.35.bc.googleusercontent.com
+2d834681.led.customer.misaka.io
 59-126-34-231.hinet-ip.hinet.net
 8.154.195.35.bc.googleusercontent.com
 86.44.175.207.bc.googleusercontent.com
@@ -36,6 +37,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
 ip85.ip-5-135-106.eu
+li1570-11.members.linode.com
 mcweb03oc.mail2world.com
 mfyabgec.musicpda.com
 o058.scanner.modat.io
