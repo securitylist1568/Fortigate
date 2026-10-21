@@ -19,7 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 201.217.52.34.bc.googleusercontent.com
-215.237.189.35.bc.googleusercontent.com
+59-126-34-231.hinet-ip.hinet.net
 8.154.195.35.bc.googleusercontent.com
 86.44.175.207.bc.googleusercontent.com
 95.59.205.35.bc.googleusercontent.com
@@ -47,9 +47,7 @@ proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
 s4850.vps.hosting
-scan-42i.shadowserver.io
 scan-45g.shadowserver.io
-scan-60.security.ipip.net
 scan-69-05.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
