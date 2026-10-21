@@ -24,7 +24,6 @@
 2d834681.led.customer.misaka.io
 51-158-145-37.rev.poneytelecom.eu
 62-210-217-157.rev.poneytelecom.eu
-86.44.175.207.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdes0tijbs.stretchoid.com
@@ -150,9 +149,7 @@ ip-58-74.4vendeta.com
 ip-58-98.4vendeta.com
 ip-59-10.superbit.host
 ip-60-250.4vendeta.com
-ip103.ip-5-39-125.eu
 ip29.sudolio.io
-ip85.ip-5-135-106.eu
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
