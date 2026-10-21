@@ -48,6 +48,8 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-52c.shadowserver.io
+scan-76-02.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 server.techexports.biz
