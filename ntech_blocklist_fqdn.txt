@@ -50,6 +50,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-52c.shadowserver.io
 scan-76-02.shadowserver.io
+scan-96-3.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 server.techexports.biz
