@@ -1,7 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 10.150.216.162.bc.googleusercontent.com
 107.252.76.34.bc.googleusercontent.com
-11.149.216.162.bc.googleusercontent.com
 11.ip-110-80-170.for.br.ipxon.net
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -23,7 +22,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-241-195-159.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
-118-160-147-156.dynamic-ip.hinet.net
 120.149.216.162.bc.googleusercontent.com
 125.211.203.35.bc.googleusercontent.com
 156.175.205.35.bc.googleusercontent.com
@@ -91,7 +89,6 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 ecs-110-41-45-21.compute.hwclouds-dns.com
 ecs-124-70-14-110.compute.hwclouds-dns.com
-embnex.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -104,7 +101,6 @@ kub002.idyschool.de.com
 li1570-11.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
-o067.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
