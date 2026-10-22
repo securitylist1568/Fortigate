@@ -59,6 +59,8 @@ scan-42i.shadowserver.io
 scan-43b.shadowserver.io
 scan-45g.shadowserver.io
 scan-47k.shadowserver.io
+scan-63-9.shadowserver.io
+scan-97-0.shadowserver.io
 scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
