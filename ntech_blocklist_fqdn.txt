@@ -23,6 +23,7 @@
 125.211.203.35.bc.googleusercontent.com
 169.43.14.34.bc.googleusercontent.com
 176.149.216.162.bc.googleusercontent.com
+177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 194.211.203.35.bc.googleusercontent.com
 196.149.216.162.bc.googleusercontent.com
@@ -99,6 +100,7 @@ scan-95-3.shadowserver.io
 scan-97-3.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
+spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
