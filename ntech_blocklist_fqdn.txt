@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-243-71-117.dynamic-ip.hinet.net
+118-160-147-156.dynamic-ip.hinet.net
 14.150.216.162.bc.googleusercontent.com
 157.149.216.162.bc.googleusercontent.com
 169.43.14.34.bc.googleusercontent.com
@@ -40,6 +41,7 @@ client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
 dns12.online.tj.cn
+embnex.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
