@@ -31,6 +31,7 @@
 176.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
+196.149.216.162.bc.googleusercontent.com
 197.211.203.35.bc.googleusercontent.com
 212.151.53.34.bc.googleusercontent.com
 215.213.190.35.bc.googleusercontent.com
@@ -50,9 +51,11 @@
 57.210.203.35.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
 6.150.216.162.bc.googleusercontent.com
+64.150.216.162.bc.googleusercontent.com
 66.62.233.35.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
+79.210.203.35.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 aim.sba-research.org
 amz.unixwiz.net
