@@ -40,6 +40,7 @@
 53.26.71.192.in-addr.arpa
 57.210.203.35.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
+6.150.216.162.bc.googleusercontent.com
 66.62.233.35.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
@@ -78,5 +79,6 @@ security.criminalip.com
 smtp.energy-vg.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
