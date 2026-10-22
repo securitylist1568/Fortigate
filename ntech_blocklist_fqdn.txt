@@ -117,7 +117,6 @@ ip-56-214.4vendeta.com
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
-li1873-236.members.linode.com
 li1972-67.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
@@ -133,6 +132,5 @@ smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-v2202604348631447293.hotsrv.de
 vds1077812.hosted-by-itldc.com
 vmi3042921.contaboserver.net
