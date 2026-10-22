@@ -49,6 +49,7 @@
 37.149.216.162.bc.googleusercontent.com
 37.55.175.207.bc.googleusercontent.com
 45.187.21.228.cntelecom.net.br
+47.149.216.162.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
 57.210.203.35.bc.googleusercontent.com
 58.150.216.162.bc.googleusercontent.com
