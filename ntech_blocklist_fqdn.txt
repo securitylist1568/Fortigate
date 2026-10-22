@@ -34,6 +34,7 @@
 33.134.53.34.bc.googleusercontent.com
 33.211.203.35.bc.googleusercontent.com
 34.96.205.35.bc.googleusercontent.com
+53.26.71.192.in-addr.arpa
 66.62.233.35.bc.googleusercontent.com
 70.59.184.123.broad.sy.ln.dynamic.163data.com.cn
 aim.sba-research.org
@@ -58,6 +59,7 @@ no-mans-land.m247.com
 o067.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
+ports-measurements.softsec.ruhr-uni-bochum.de
 proxy-ca002-ext2.a.ahrefs.com
 qqn.servantixpro.com
 recyber.net
