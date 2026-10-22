@@ -23,7 +23,6 @@
 185-45-195-15.hostsailor.com
 194.211.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
-210.211.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 24.209.31.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
@@ -35,7 +34,6 @@
 81.149.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 90.81.72.124.broad.xm.fj.dynamic.163data.com.cn
-97.150.216.162.bc.googleusercontent.com
 aim.sba-research.org
 amz.unixwiz.net
 azpdes5dil5v.stretchoid.com
@@ -105,7 +103,6 @@ azpdwsv4ytp7.stretchoid.com
 azpdwsv5wuor.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
-crawler151.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
@@ -117,14 +114,10 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-56-214.4vendeta.com
 ip29.sudolio.io
-ip92.ip-135-148-63.us
 li1570-11.members.linode.com
 li1972-67.members.linode.com
 li1992-217.members.linode.com
 mfyabgec.musicpda.com
-nl4.symbolhost.com
-o073.scanner.modat.io
-o345.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -136,4 +129,3 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-vmi3042921.contaboserver.net
