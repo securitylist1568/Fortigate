@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-243-71-117.dynamic-ip.hinet.net
 14.150.216.162.bc.googleusercontent.com
+157.149.216.162.bc.googleusercontent.com
 169.43.14.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 212-75-227-226.westcall.net
