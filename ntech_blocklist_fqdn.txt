@@ -101,6 +101,8 @@ li1873-236.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 nl4.symbolhost.com
+o073.scanner.modat.io
+o345.scanner.modat.io
 pc112.cses.ilc.edu.tw
 pinkytales.com
 ports-measurements.softsec.ruhr-uni-bochum.de
@@ -121,4 +123,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
 v2202604348631447293.hotsrv.de
+vmi3042921.contaboserver.net
 vps-102567.cloud.firstheberg.net
