@@ -23,10 +23,8 @@
 157.149.216.162.bc.googleusercontent.com
 169.43.14.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-212-75-227-226.westcall.net
 212.151.53.34.bc.googleusercontent.com
 215.213.190.35.bc.googleusercontent.com
-219x113x239x116.ap219.ftth.ucom.ne.jp
 233.250.76.34.bc.googleusercontent.com
 241.149.216.162.bc.googleusercontent.com
 248.146.241.35.bc.googleusercontent.com
@@ -43,11 +41,9 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
-go.away
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-ip82-165-34-39.pbiaas.com
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
@@ -58,11 +54,9 @@ recyber.net
 scan-41f.shadowserver.io
 scan-42i.shadowserver.io
 scan-43b.shadowserver.io
-scan-45g.shadowserver.io
 scan-47k.shadowserver.io
 scan-63-9.shadowserver.io
 scan-97-0.shadowserver.io
-scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
