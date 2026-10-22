@@ -49,6 +49,7 @@
 64.150.216.162.bc.googleusercontent.com
 66.62.233.35.bc.googleusercontent.com
 76.210.203.35.bc.googleusercontent.com
+79.124.56.142.superbit.host
 79.210.203.35.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
@@ -93,6 +94,7 @@ ip92.ip-135-148-63.us
 kub002.idyschool.de.com
 li1570-11.members.linode.com
 li1873-236.members.linode.com
+li1972-67.members.linode.com
 lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 nl4.symbolhost.com
