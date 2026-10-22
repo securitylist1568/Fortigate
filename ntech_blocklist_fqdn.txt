@@ -24,6 +24,7 @@
 112.150.216.162.bc.googleusercontent.com
 118-160-147-156.dynamic-ip.hinet.net
 120.149.216.162.bc.googleusercontent.com
+125.211.203.35.bc.googleusercontent.com
 156.175.205.35.bc.googleusercontent.com
 164.165.46.186.static.anycast.cnt-grms.ec
 168-113-158-51.instances.scw.cloud
@@ -64,6 +65,7 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ecs-110-41-45-21.compute.hwclouds-dns.com
 ecs-124-70-14-110.compute.hwclouds-dns.com
 embnex.com
 festa04.jcatransporte.com.br
