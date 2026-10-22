@@ -26,6 +26,7 @@
 210.211.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 24.209.31.34.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
 63.149.216.162.bc.googleusercontent.com
 79.124.56.142.superbit.host
