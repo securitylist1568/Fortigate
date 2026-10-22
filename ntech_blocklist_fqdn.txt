@@ -31,6 +31,7 @@
 194-195-253-86.ip.linodeusercontent.com
 197.211.203.35.bc.googleusercontent.com
 212.151.53.34.bc.googleusercontent.com
+215.213.190.35.bc.googleusercontent.com
 23-95-191-210-host.colocrossing.com
 233.250.76.34.bc.googleusercontent.com
 248.146.241.35.bc.googleusercontent.com
@@ -78,6 +79,8 @@ scan-07e.shadowserver.io
 scan-47k.shadowserver.io
 scan-63-9.shadowserver.io
 scan-79-08.shadowserver.io
+scan-91-7.shadowserver.io
+scan-95-3.shadowserver.io
 scan-97-0.shadowserver.io
 scan-97-2.shadowserver.io
 scan-97-3.shadowserver.io
