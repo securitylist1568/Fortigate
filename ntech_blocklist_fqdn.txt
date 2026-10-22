@@ -21,18 +21,16 @@
 164.149.216.162.bc.googleusercontent.com
 177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
-194.211.203.35.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 24.209.31.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
 63.149.216.162.bc.googleusercontent.com
-79.124.56.142.superbit.host
+70.149.216.162.bc.googleusercontent.com
 80.150.216.162.bc.googleusercontent.com
 80.211.203.35.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
-87.150.216.162.bc.googleusercontent.com
 90.81.72.124.broad.xm.fj.dynamic.163data.com.cn
 aim.sba-research.org
 amz.unixwiz.net
@@ -107,6 +105,7 @@ dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 ecs-1-94-63-102.compute.hwclouds-dns.com
+ecs-1-94-8-45.compute.hwclouds-dns.com
 ecs-1-95-72-229.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
@@ -115,8 +114,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-214.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
-li1972-67.members.linode.com
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -128,4 +125,3 @@ smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
-vds1077812.hosted-by-itldc.com
