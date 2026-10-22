@@ -30,6 +30,7 @@
 64.150.216.162.bc.googleusercontent.com
 79.124.56.142.superbit.host
 79.210.203.35.bc.googleusercontent.com
+80.150.216.162.bc.googleusercontent.com
 81.149.216.162.bc.googleusercontent.com
 87.150.216.162.bc.googleusercontent.com
 97.150.216.162.bc.googleusercontent.com
