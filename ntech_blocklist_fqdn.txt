@@ -32,6 +32,7 @@
 197.211.203.35.bc.googleusercontent.com
 212.151.53.34.bc.googleusercontent.com
 215.213.190.35.bc.googleusercontent.com
+219x113x239x116.ap219.ftth.ucom.ne.jp
 23-95-191-210-host.colocrossing.com
 233.250.76.34.bc.googleusercontent.com
 248.146.241.35.bc.googleusercontent.com
