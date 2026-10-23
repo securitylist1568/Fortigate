@@ -61,6 +61,7 @@ scan-02m.shadowserver.io
 scan-41m.shadowserver.io
 scan-47k.shadowserver.io
 scan-77-06.shadowserver.io
+scan-86-7.shadowserver.io
 scan-92-2.shadowserver.io
 scan-93-2.shadowserver.io
 scan-97-3.shadowserver.io
