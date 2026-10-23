@@ -22,13 +22,11 @@
 160.59.196.104.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
 176.65.149.105.ptr.pfcloud.network
-180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 191.71.156.34.bc.googleusercontent.com
 195.226.45.34.bc.googleusercontent.com
 197.58.211.130.bc.googleusercontent.com
 199.231.235.13.static.privex.cc
-204.76.203.230.ptr.pfcloud.network
 210.150.216.162.bc.googleusercontent.com
 225.211.203.35.bc.googleusercontent.com
 23.210.203.35.bc.googleusercontent.com
@@ -44,7 +42,6 @@
 9.157.205.35.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
 95.211.203.35.bc.googleusercontent.com
-adventure.yatano.com
 amz.unixwiz.net
 azpdes1hi1y8.stretchoid.com
 azpdes1y0q5i.stretchoid.com
@@ -142,12 +139,11 @@ blackburn.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-ecs-1-92-114-63.compute.hwclouds-dns.com
+ecs-124-70-14-110.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip125.ip-200-181-82.infrawire.sh
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -160,7 +156,6 @@ research.esrg.stanford.edu
 rping.ipip.net
 scanner1.cc.gatech.edu
 security.criminalip.com
-serv390.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
