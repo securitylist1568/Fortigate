@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 160.59.196.104.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
+176.65.149.105.ptr.pfcloud.network
 180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 191.71.156.34.bc.googleusercontent.com
@@ -37,6 +38,7 @@
 53.56.80.34.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
 64.149.216.162.bc.googleusercontent.com
+75.150.216.162.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
