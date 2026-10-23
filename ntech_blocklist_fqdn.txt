@@ -20,12 +20,12 @@
 114.150.216.162.bc.googleusercontent.com
 123.149.216.162.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
-177.249.60.77-clientes-zap-izzi.mx
 185-45-195-15.hostsailor.com
 191.149.216.162.bc.googleusercontent.com
 204.210.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
-24.209.31.34.bc.googleusercontent.com
+215.210.203.35.bc.googleusercontent.com
+219x113x239x116.ap219.ftth.ucom.ne.jp
 2d96f25f.customer.misaka.taipei
 42.123.243.83.in-addr.arpa
 52.210.203.35.bc.googleusercontent.com
@@ -125,6 +125,5 @@ radamelfalcao.xyz
 recyber.net
 security.criminalip.com
 smtp1.telemach.net
-spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
