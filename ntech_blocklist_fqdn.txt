@@ -28,6 +28,7 @@
 195.226.45.34.bc.googleusercontent.com
 197.58.211.130.bc.googleusercontent.com
 198.73.240.35.bc.googleusercontent.com
+199.231.235.13.static.privex.cc
 204.76.203.195.ptr.pfcloud.network
 204.76.203.230.ptr.pfcloud.network
 231.149.216.162.bc.googleusercontent.com
@@ -39,6 +40,7 @@
 29.150.216.162.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
+85.150.216.162.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
 91.150.216.162.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
