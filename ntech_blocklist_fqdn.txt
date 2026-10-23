@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 135.211.203.35.bc.googleusercontent.com
 136.149.216.162.bc.googleusercontent.com
+139.84.162.169.vultrusercontent.com
 155.130.77.34.bc.googleusercontent.com
 167.211.203.35.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
@@ -107,6 +108,7 @@ ip29.sudolio.io
 kathmandu.scan.bufferover.run
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+network.powernet.vn
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
