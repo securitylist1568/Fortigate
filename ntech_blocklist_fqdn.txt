@@ -139,6 +139,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ecs-1-95-72-229.compute.hwclouds-dns.com
 ecs-124-70-14-110.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
@@ -154,6 +155,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 research.esrg.stanford.edu
+scan-56.security.ipip.net
 scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
