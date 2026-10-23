@@ -123,6 +123,7 @@ scan-15i.shadowserver.io
 scan-43b.shadowserver.io
 scan-45g.shadowserver.io
 scan-45o.shadowserver.io
+scan-47k.shadowserver.io
 scan-71-00.shadowserver.io
 scan-71-09.shadowserver.io
 scan-76-03.shadowserver.io
