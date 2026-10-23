@@ -25,7 +25,6 @@
 176.65.149.105.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 191.71.156.34.bc.googleusercontent.com
-195.226.45.34.bc.googleusercontent.com
 197.58.211.130.bc.googleusercontent.com
 199.231.235.13.static.privex.cc
 210.150.216.162.bc.googleusercontent.com
@@ -33,7 +32,6 @@
 23.210.203.35.bc.googleusercontent.com
 232.116.148.146.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
-29.150.216.162.bc.googleusercontent.com
 38.150.216.162.bc.googleusercontent.com
 53.56.80.34.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
@@ -140,6 +138,7 @@ blackburn.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+dynamic-adsl.viettel.vn
 ecs-124-70-14-110.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
@@ -155,12 +154,10 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 research.esrg.stanford.edu
-rping.ipip.net
 scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 unassigned.psychz.net
-undefined.hostname.localhost
 users219.vip.heteml.jp
 vps-73fcad13.vps.ovh.net
