@@ -22,16 +22,15 @@
 134.150.216.162.bc.googleusercontent.com
 139.84.162.169.vultrusercontent.com
 155.130.77.34.bc.googleusercontent.com
-167.211.203.35.bc.googleusercontent.com
 17.149.216.162.bc.googleusercontent.com
-177.149.216.162.bc.googleusercontent.com
 180-177-13-132.dynamic.kbronet.com.tw
 185-45-195-15.hostsailor.com
 191.71.156.34.bc.googleusercontent.com
+195.226.45.34.bc.googleusercontent.com
 197.58.211.130.bc.googleusercontent.com
 198.73.240.35.bc.googleusercontent.com
-202.149.216.162.bc.googleusercontent.com
 204.76.203.195.ptr.pfcloud.network
+204.76.203.230.ptr.pfcloud.network
 231.149.216.162.bc.googleusercontent.com
 232.116.148.146.bc.googleusercontent.com
 24.114.76.34.bc.googleusercontent.com
@@ -40,7 +39,6 @@
 253.211.203.35.bc.googleusercontent.com
 56.211.203.35.bc.googleusercontent.com
 76.211.203.35.bc.googleusercontent.com
-84.150.216.162.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
 91.150.216.162.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
@@ -67,7 +65,6 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
-scan-41m.shadowserver.io
 scan-83-7.shadowserver.io
 scan-86-7.shadowserver.io
 scan-91-4.shadowserver.io
