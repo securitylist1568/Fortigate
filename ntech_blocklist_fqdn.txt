@@ -17,12 +17,10 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114.150.216.162.bc.googleusercontent.com
 123.149.216.162.bc.googleusercontent.com
 135.211.203.35.bc.googleusercontent.com
 142.210.203.35.bc.googleusercontent.com
 155.130.77.34.bc.googleusercontent.com
-164.149.216.162.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
 172-236-103-8.ip.linodeusercontent.com
@@ -47,7 +45,6 @@
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-212.149.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 215.210.203.35.bc.googleusercontent.com
 219x113x239x116.ap219.ftth.ucom.ne.jp
@@ -73,12 +70,9 @@
 52.210.203.35.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 62.150.216.162.bc.googleusercontent.com
-63.149.216.162.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
 74.229.140.34.bc.googleusercontent.com
-80.211.203.35.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
-90.81.72.124.broad.xm.fj.dynamic.163data.com.cn
 92.62.156.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -89,7 +83,6 @@ crawler169.deepfield.net
 crawler210.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-ip-adsl.viettel.vn
 ec2-107-20-121-14.compute-1.amazonaws.com
 ec2-13-218-73-191.compute-1.amazonaws.com
 ec2-13-218-90-220.compute-1.amazonaws.com
@@ -109,10 +102,10 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-56-214.4vendeta.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -133,3 +126,4 @@ static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
 undefined.hostname.localhost
 users219.vip.heteml.jp
+www.internet-albedo.net
