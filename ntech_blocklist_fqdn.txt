@@ -29,6 +29,7 @@
 23.210.203.35.bc.googleusercontent.com
 232.116.148.146.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
+2d96f380.kbp.customer.misaka.io
 38.150.216.162.bc.googleusercontent.com
 53.56.80.34.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
@@ -49,6 +50,7 @@ ecs-1-95-72-229.compute.hwclouds-dns.com
 ecs-124-70-14-110.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
+hdocd-04p2-226.ppp11.odn.ad.jp
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip125.ip-200-181-82.infrawire.sh
