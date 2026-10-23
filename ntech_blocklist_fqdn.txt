@@ -28,6 +28,7 @@
 177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 191.71.156.34.bc.googleusercontent.com
+197.58.211.130.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
@@ -38,6 +39,7 @@
 73.210.203.35.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
+9.157.205.35.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes63mugj.stretchoid.com
