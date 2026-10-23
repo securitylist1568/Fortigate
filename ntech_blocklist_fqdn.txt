@@ -34,6 +34,7 @@
 173-255-223-73.ip.linodeusercontent.com
 173-255-223-89.ip.linodeusercontent.com
 173-255-249-14.ip.linodeusercontent.com
+177.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 191.71.156.34.bc.googleusercontent.com
@@ -45,8 +46,6 @@
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-212.211.203.35.bc.googleusercontent.com
-215.210.203.35.bc.googleusercontent.com
 221.210.203.35.bc.googleusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
@@ -59,7 +58,6 @@
 24.114.76.34.bc.googleusercontent.com
 251.117.76.34.bc.googleusercontent.com
 39968751.grabercloud.com
-40.150.216.162.bc.googleusercontent.com
 40.28.236.35.bc.googleusercontent.com
 45-33-40-18.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
@@ -74,6 +72,7 @@
 73.210.203.35.bc.googleusercontent.com
 74.229.140.34.bc.googleusercontent.com
 80.210.203.35.bc.googleusercontent.com
+84.150.216.162.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -107,7 +106,6 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip103.ip-5-39-125.eu
 ip177.ip-51-161-136.net
 ip29.sudolio.io
 kathmandu.scan.bufferover.run
@@ -135,11 +133,9 @@ scan-96-6.shadowserver.io
 scan-97-0.shadowserver.io
 scan-98-1.shadowserver.io
 scan-98-2.shadowserver.io
-scan.visionheight.com
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
-undefined.hostname.localhost
 users219.vip.heteml.jp
 www.internet-albedo.net
