@@ -78,6 +78,7 @@
 70.149.216.162.bc.googleusercontent.com
 73.210.203.35.bc.googleusercontent.com
 74.229.140.34.bc.googleusercontent.com
+80.210.203.35.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
 99.210.203.35.bc.googleusercontent.com
@@ -107,7 +108,6 @@ ec2-3-95-5-114.compute-1.amazonaws.com
 ec2-52-205-211-20.compute-1.amazonaws.com
 ec2-54-165-130-174.compute-1.amazonaws.com
 ec2-54-91-68-68.compute-1.amazonaws.com
-ecs-1-94-8-45.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
