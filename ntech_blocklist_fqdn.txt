@@ -19,11 +19,11 @@
 111-240-93-35.dynamic-ip.hinet.net
 114.150.216.162.bc.googleusercontent.com
 123.149.216.162.bc.googleusercontent.com
+142.210.203.35.bc.googleusercontent.com
 164.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
 191.149.216.162.bc.googleusercontent.com
-204.210.203.35.bc.googleusercontent.com
 212.149.216.162.bc.googleusercontent.com
 212.211.203.35.bc.googleusercontent.com
 215.210.203.35.bc.googleusercontent.com
@@ -31,12 +31,10 @@
 2d96f25f.customer.misaka.taipei
 40.150.216.162.bc.googleusercontent.com
 40.28.236.35.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 52.210.203.35.bc.googleusercontent.com
 62.150.216.162.bc.googleusercontent.com
 63.149.216.162.bc.googleusercontent.com
 70.149.216.162.bc.googleusercontent.com
-80.150.216.162.bc.googleusercontent.com
 80.211.203.35.bc.googleusercontent.com
 90.81.72.124.broad.xm.fj.dynamic.163data.com.cn
 amz.unixwiz.net
@@ -56,7 +54,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-56-214.4vendeta.com
 ip103.ip-5-39-125.eu
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
