@@ -116,9 +116,11 @@ radamelfalcao.xyz
 recyber.net
 scan-13l.shadowserver.io
 scan-43b.shadowserver.io
+scan-71-00.shadowserver.io
 scan-71-09.shadowserver.io
 scan-76-03.shadowserver.io
 scan-81-7.shadowserver.io
+scan-91-6.shadowserver.io
 scan-96-6.shadowserver.io
 scan-97-0.shadowserver.io
 scan-98-1.shadowserver.io
