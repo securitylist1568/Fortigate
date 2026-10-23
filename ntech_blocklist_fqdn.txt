@@ -113,6 +113,7 @@ proxy-ca002-ext2.a.ahrefs.com
 radamelfalcao.xyz
 recyber.net
 scan-13l.shadowserver.io
+scan-43b.shadowserver.io
 scan-71-09.shadowserver.io
 scan-76-03.shadowserver.io
 scan-81-7.shadowserver.io
