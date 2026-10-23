@@ -43,6 +43,7 @@
 9.157.205.35.bc.googleusercontent.com
 91.150.216.162.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
+adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -64,12 +65,9 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02m.shadowserver.io
 scan-41m.shadowserver.io
-scan-47k.shadowserver.io
-scan-77-06.shadowserver.io
 scan-83-7.shadowserver.io
 scan-86-7.shadowserver.io
 scan-91-4.shadowserver.io
-scan-92-2.shadowserver.io
 scan-93-2.shadowserver.io
 scan-93-5.shadowserver.io
 scan-97-3.shadowserver.io
