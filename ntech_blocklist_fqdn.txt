@@ -34,18 +34,14 @@
 23.210.203.35.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 232.116.148.146.bc.googleusercontent.com
-24.209.31.34.bc.googleusercontent.com
 243.150.216.162.bc.googleusercontent.com
 251.117.76.34.bc.googleusercontent.com
 253.211.203.35.bc.googleusercontent.com
 29.150.216.162.bc.googleusercontent.com
 38.150.216.162.bc.googleusercontent.com
-56.211.203.35.bc.googleusercontent.com
 62-210-114-99.rev.poneytelecom.eu
-76.211.203.35.bc.googleusercontent.com
 85.150.216.162.bc.googleusercontent.com
 9.157.205.35.bc.googleusercontent.com
-91.150.216.162.bc.googleusercontent.com
 92.62.156.34.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
@@ -154,7 +150,6 @@ htb-h9b8tjwfph.htb-cloud.com
 innerblissmy.com
 ip125.ip-200-181-82.infrawire.sh
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
