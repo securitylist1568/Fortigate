@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.78.140.34.bc.googleusercontent.com
 123-205-17-155.adsl.dynamic.seed.net.tw
+129.150.216.162.bc.googleusercontent.com
 139-162-149-67.ip.linodeusercontent.com
 143.123.62.34.bc.googleusercontent.com
 146.239.220.35.bc.googleusercontent.com
@@ -32,6 +33,7 @@
 19.150.216.162.bc.googleusercontent.com
 19.90.155.104.bc.googleusercontent.com
 190.150.216.162.bc.googleusercontent.com
+197.150.216.162.bc.googleusercontent.com
 202.149.216.162.bc.googleusercontent.com
 21.93.140.34.bc.googleusercontent.com
 236.211.203.35.bc.googleusercontent.com
