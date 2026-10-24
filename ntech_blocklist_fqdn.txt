@@ -31,6 +31,7 @@
 172.227.241.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 19.90.155.104.bc.googleusercontent.com
+190.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 21.93.140.34.bc.googleusercontent.com
 224.112.116.34.bc.googleusercontent.com
@@ -71,7 +72,6 @@ ec2-54-167-95-180.compute-1.amazonaws.com
 ec2-54-221-75-112.compute-1.amazonaws.com
 ec2-54-91-228-244.compute-1.amazonaws.com
 ec2-98-91-19-109.compute-1.amazonaws.com
-ecs-1-95-72-229.compute.hwclouds-dns.com
 ecs-110-41-45-21.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
@@ -90,7 +90,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
 scan-45o.shadowserver.io
-scan-56.security.ipip.net
 scan-61-5.shadowserver.io
 scan-63-0.shadowserver.io
 scan-71-05.shadowserver.io
