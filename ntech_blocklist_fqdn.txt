@@ -21,18 +21,16 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 146.239.220.35.bc.googleusercontent.com
-150.181.125.34.bc.googleusercontent.com
 164.211.203.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
-176.65.149.105.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 224.112.116.34.bc.googleusercontent.com
+250.150.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 32.150.216.162.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
 62-210-114-99.rev.poneytelecom.eu
-75.150.216.162.bc.googleusercontent.com
 90.96.117.136.bc.googleusercontent.com
 adsl196-77-240-217-196.adsl196-16.iam.net.ma
 amz.unixwiz.net
@@ -62,7 +60,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-research.esrg.stanford.edu
 scan-45o.shadowserver.io
 scan-56.security.ipip.net
 scan-61-5.shadowserver.io
