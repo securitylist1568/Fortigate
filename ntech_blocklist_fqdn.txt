@@ -26,20 +26,16 @@
 176.65.149.105.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
-210.150.216.162.bc.googleusercontent.com
 224.112.116.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
-53.56.80.34.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
 62-210-114-99.rev.poneytelecom.eu
-64.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 90.96.117.136.bc.googleusercontent.com
 adsl196-77-240-217-196.adsl196-16.iam.net.ma
 amz.unixwiz.net
 azpdws8ljihv.stretchoid.com
 b2.org.afilias-nst.org
-blackburn.probe.onyphe.net
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -56,7 +52,6 @@ ip125.ip-200-181-82.infrawire.sh
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 li1537-121.members.linode.com
-li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -66,7 +61,6 @@ recyber.net
 research.esrg.stanford.edu
 scan-45o.shadowserver.io
 scan-56.security.ipip.net
-scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
