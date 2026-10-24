@@ -1,7 +1,6 @@
 1-34-13-89.hinet-ip.hinet.net
 103-112-0-32.oneqode.net
 103.142.52.34.bc.googleusercontent.com
-106.149.216.162.bc.googleusercontent.com
 11.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
@@ -33,7 +32,6 @@
 185-45-195-15.hostsailor.com
 19.90.155.104.bc.googleusercontent.com
 190.150.216.162.bc.googleusercontent.com
-203-74-130-205.hinet-ip.hinet.net
 21.93.140.34.bc.googleusercontent.com
 224.112.116.34.bc.googleusercontent.com
 250.150.216.162.bc.googleusercontent.com
@@ -42,14 +40,11 @@
 30-202-250-167.uniconnect.net.br
 32.150.216.162.bc.googleusercontent.com
 43.155.156.34.bc.googleusercontent.com
-59-124-30-84.hinet-ip.hinet.net
 6.150.216.162.bc.googleusercontent.com
-62-210-114-99.rev.poneytelecom.eu
 62-210-217-157.rev.poneytelecom.eu
 8.127.187.35.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
-90.96.117.136.bc.googleusercontent.com
 adsl196-77-240-217-196.adsl196-16.iam.net.ma
 amz.unixwiz.net
 azpdes085iiu.stretchoid.com
