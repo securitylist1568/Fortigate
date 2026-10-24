@@ -32,7 +32,6 @@
 64.149.216.162.bc.googleusercontent.com
 75.150.216.162.bc.googleusercontent.com
 90.96.117.136.bc.googleusercontent.com
-95.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdws8ljihv.stretchoid.com
 b2.org.afilias-nst.org
