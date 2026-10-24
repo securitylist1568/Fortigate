@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 19.90.155.104.bc.googleusercontent.com
 191.150.216.162.bc.googleusercontent.com
+194-195-122-95.ip.linodeusercontent.com
 197.150.216.162.bc.googleusercontent.com
 204.76.203.230.ptr.pfcloud.network
 21.93.140.34.bc.googleusercontent.com
@@ -171,6 +172,7 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-49-90.4vendeta.com
 ip103.ip-5-39-125.eu
 ip155.ip-51-222-5.net
 ip29.sudolio.io
