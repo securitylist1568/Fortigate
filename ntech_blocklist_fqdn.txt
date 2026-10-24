@@ -23,6 +23,7 @@
 121.78.140.34.bc.googleusercontent.com
 123-205-17-155.adsl.dynamic.seed.net.tw
 13.150.216.162.bc.googleusercontent.com
+139-162-149-67.ip.linodeusercontent.com
 143.123.62.34.bc.googleusercontent.com
 150.181.125.34.bc.googleusercontent.com
 169.161.22.34.bc.googleusercontent.com
