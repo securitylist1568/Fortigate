@@ -42,6 +42,7 @@
 62-210-114-99.rev.poneytelecom.eu
 8.127.187.35.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
+84.150.216.162.bc.googleusercontent.com
 90.96.117.136.bc.googleusercontent.com
 adsl196-77-240-217-196.adsl196-16.iam.net.ma
 amz.unixwiz.net
