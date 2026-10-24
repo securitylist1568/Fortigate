@@ -20,6 +20,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.78.140.34.bc.googleusercontent.com
+122x215x158x23.ap122.ftth.ucom.ne.jp
 136.150.216.162.bc.googleusercontent.com
 139-162-149-67.ip.linodeusercontent.com
 143.123.62.34.bc.googleusercontent.com
