@@ -26,6 +26,7 @@
 143.123.62.34.bc.googleusercontent.com
 146.239.220.35.bc.googleusercontent.com
 150.181.125.34.bc.googleusercontent.com
+158.31.232.180.dsl.inet.static.certaincyber.net
 169.161.22.34.bc.googleusercontent.com
 169.211.203.35.bc.googleusercontent.com
 172-104-100-28.ip.linodeusercontent.com
