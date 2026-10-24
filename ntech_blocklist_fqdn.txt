@@ -20,11 +20,13 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 150.181.125.34.bc.googleusercontent.com
+164.211.203.35.bc.googleusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 176.65.149.105.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 203-74-130-205.hinet-ip.hinet.net
 210.150.216.162.bc.googleusercontent.com
+224.112.116.34.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 53.56.80.34.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
@@ -58,6 +60,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 research.esrg.stanford.edu
+scan-45o.shadowserver.io
 scan-56.security.ipip.net
 scanner1.cc.gatech.edu
 security.criminalip.com
