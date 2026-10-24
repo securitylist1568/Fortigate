@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 121.78.140.34.bc.googleusercontent.com
+122x215x158x23.ap122.ftth.ucom.ne.jp
 129.150.216.162.bc.googleusercontent.com
 138.149.216.162.bc.googleusercontent.com
 139-162-149-67.ip.linodeusercontent.com
@@ -200,6 +201,7 @@ scan-90-6.shadowserver.io
 scan-91-2.shadowserver.io
 scan-92-5.shadowserver.io
 scan-97-2.shadowserver.io
+scan-97-6.shadowserver.io
 scan-98-3.shadowserver.io
 scan-98-6.shadowserver.io
 security.criminalip.com
