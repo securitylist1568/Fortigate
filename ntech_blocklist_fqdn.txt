@@ -95,4 +95,5 @@ static-ip-250-192-65-202.rev.dyxnet.com
 user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
 vmi3643970.contaboserver.net
+vps.hzs.com
 vxct4015.avnam.net
