@@ -25,11 +25,8 @@
 143.123.62.34.bc.googleusercontent.com
 160.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-186.149.216.162.bc.googleusercontent.com
 19.90.155.104.bc.googleusercontent.com
-194-195-122-95.ip.linodeusercontent.com
 197.190.64.34.bc.googleusercontent.com
-204.76.203.230.ptr.pfcloud.network
 205.149.216.162.bc.googleusercontent.com
 21.93.140.34.bc.googleusercontent.com
 228.210.203.35.bc.googleusercontent.com
@@ -40,7 +37,6 @@
 38.150.216.162.bc.googleusercontent.com
 45.32.39.20.vultrusercontent.com
 51.210.203.35.bc.googleusercontent.com
-59.210.203.35.bc.googleusercontent.com
 7.211.203.35.bc.googleusercontent.com
 81.211.203.35.bc.googleusercontent.com
 95.150.216.162.bc.googleusercontent.com
@@ -58,7 +54,6 @@ hn.kd.ny.adsl
 host198.200-45-220.telecom.net.ar
 hostedby.privatelayer.com
 htb-h9b8tjwfph.htb-cloud.com
-ip-49-90.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
