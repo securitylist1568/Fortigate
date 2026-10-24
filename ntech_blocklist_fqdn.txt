@@ -75,10 +75,12 @@ scan-66-2.shadowserver.io
 scan-67-2.shadowserver.io
 scan-67-3.shadowserver.io
 scan-76-02.shadowserver.io
+scan-78-08.shadowserver.io
 scan-79-00.shadowserver.io
 scan-79-08.shadowserver.io
 scan-81-7.shadowserver.io
 scan-86-2.shadowserver.io
+scan-86-7.shadowserver.io
 scan-87-2.shadowserver.io
 scan-87-7.shadowserver.io
 scan-89-4.shadowserver.io
