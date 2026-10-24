@@ -46,7 +46,10 @@
 62-210-217-157.rev.poneytelecom.eu
 68.94.46.34.bc.googleusercontent.com
 70.211.203.35.bc.googleusercontent.com
+84.210.203.35.bc.googleusercontent.com
+90.230.223.35.bc.googleusercontent.com
 amz.unixwiz.net
+b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
