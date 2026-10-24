@@ -61,6 +61,11 @@ recyber.net
 research.esrg.stanford.edu
 scan-45o.shadowserver.io
 scan-56.security.ipip.net
+scan-61-5.shadowserver.io
+scan-63-0.shadowserver.io
+scan-71-05.shadowserver.io
+scan-85-6.shadowserver.io
+scan-86-5.shadowserver.io
 scan-98-6.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
