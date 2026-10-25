@@ -25,6 +25,7 @@
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
+197.190.64.34.bc.googleusercontent.com
 248.39.205.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 44.213.175.207.bc.googleusercontent.com
@@ -112,6 +113,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip109.ip-51-38-221.eu
 ip125.ip-200-181-82.infrawire.sh
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
