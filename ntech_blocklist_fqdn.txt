@@ -22,11 +22,9 @@
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
 208.210.203.35.bc.googleusercontent.com
-221.211.203.35.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
 44.213.175.207.bc.googleusercontent.com
 68.20.199.104.bc.googleusercontent.com
-83.75.64.34.bc.googleusercontent.com
 86.191.77.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0sphgz.stretchoid.com
@@ -130,8 +128,8 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-194.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 li1817-110.members.linode.com
 linda.probe.onyphe.net
 mfyabgec.musicpda.com
