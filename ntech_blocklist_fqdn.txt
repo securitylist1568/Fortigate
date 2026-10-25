@@ -22,6 +22,7 @@
 162.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
+202-215-224-101.west.xps.vectant.ne.jp
 45.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -34,6 +35,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
+ip92.ip-135-148-63.us
 li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
