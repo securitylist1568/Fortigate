@@ -19,7 +19,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.220.241.35.bc.googleusercontent.com
 121.150.216.162.bc.googleusercontent.com
-122x215x158x23.ap122.ftth.ucom.ne.jp
 149.122.156.34.bc.googleusercontent.com
 15.36.14.34.bc.googleusercontent.com
 167.137.52.34.bc.googleusercontent.com
@@ -31,7 +30,6 @@
 44.213.175.207.bc.googleusercontent.com
 56.129.251.23.bc.googleusercontent.com
 68.20.199.104.bc.googleusercontent.com
-84.210.203.35.bc.googleusercontent.com
 85.211.203.35.bc.googleusercontent.com
 86.191.77.34.bc.googleusercontent.com
 88.186.79.34.bc.googleusercontent.com
@@ -126,6 +124,7 @@ recyber.net
 research.esrg.stanford.edu
 scan-04f.shadowserver.io
 scan-07e.shadowserver.io
+scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
 scan-60-4.shadowserver.io
