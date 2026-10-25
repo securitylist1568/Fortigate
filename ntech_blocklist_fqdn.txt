@@ -29,6 +29,7 @@
 205.149.216.162.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 248.39.205.35.bc.googleusercontent.com
+2d96f25f.customer.misaka.taipei
 44.213.175.207.bc.googleusercontent.com
 56.129.251.23.bc.googleusercontent.com
 68.20.199.104.bc.googleusercontent.com
@@ -95,5 +96,6 @@ scan-96-6.shadowserver.io
 scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
+srv1791600.hstgr.cloud
 static-ip-250-192-65-202.rev.dyxnet.com
 users219.vip.heteml.jp
