@@ -22,6 +22,7 @@
 159.85.147.219.broad.dq.hl.dynamic.163data.com.cn
 167.137.52.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.228.252.35.bc.googleusercontent.com
 195.150.216.162.bc.googleusercontent.com
 197.190.64.34.bc.googleusercontent.com
 198.210.203.35.bc.googleusercontent.com
