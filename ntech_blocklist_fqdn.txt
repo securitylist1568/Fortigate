@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 146.239.220.35.bc.googleusercontent.com
+162.211.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
@@ -145,5 +146,6 @@ recyber.net
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+trafo.kz
 users219.vip.heteml.jp
 vps-308d52b8.vps.ovh.net
