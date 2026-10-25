@@ -29,7 +29,9 @@
 229.150.216.162.bc.googleusercontent.com
 241.47.199.104.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
+44.213.175.207.bc.googleusercontent.com
 6682315a.customer.misaka.joburg
+68.20.199.104.bc.googleusercontent.com
 78.150.108.136.bc.googleusercontent.com
 83.75.64.34.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
@@ -136,6 +138,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+linda.probe.onyphe.net
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
