@@ -21,16 +21,13 @@
 150.210.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-187.228.252.35.bc.googleusercontent.com
 202-215-224-101.west.xps.vectant.ne.jp
 208.210.203.35.bc.googleusercontent.com
 209.150.216.162.bc.googleusercontent.com
 221.211.203.35.bc.googleusercontent.com
 229.150.216.162.bc.googleusercontent.com
-241.47.199.104.bc.googleusercontent.com
 2d834781.kunde.misaka.berlin
 44.213.175.207.bc.googleusercontent.com
-6682315a.customer.misaka.joburg
 68.20.199.104.bc.googleusercontent.com
 78.150.108.136.bc.googleusercontent.com
 83.75.64.34.bc.googleusercontent.com
