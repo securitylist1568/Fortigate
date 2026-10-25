@@ -25,7 +25,6 @@
 178.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 195.150.216.162.bc.googleusercontent.com
-227.150.216.162.bc.googleusercontent.com
 248.39.205.35.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 44.213.175.207.bc.googleusercontent.com
@@ -34,7 +33,6 @@
 68.20.199.104.bc.googleusercontent.com
 86.191.77.34.bc.googleusercontent.com
 88.186.79.34.bc.googleusercontent.com
-91.85.70.136.bc.googleusercontent.com
 94.9.240.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes1uvjac.stretchoid.com
