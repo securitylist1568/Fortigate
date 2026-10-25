@@ -126,6 +126,7 @@ scan-07e.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-41f.shadowserver.io
+scan-42i.shadowserver.io
 scan-60-4.shadowserver.io
 scan-61-3.shadowserver.io
 scan-61-6.shadowserver.io
