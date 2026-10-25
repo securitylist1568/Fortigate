@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.220.241.35.bc.googleusercontent.com
-121.150.216.162.bc.googleusercontent.com
 149.122.156.34.bc.googleusercontent.com
 15.36.14.34.bc.googleusercontent.com
 167.137.52.34.bc.googleusercontent.com
@@ -31,10 +30,8 @@
 56.129.251.23.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 68.20.199.104.bc.googleusercontent.com
-85.211.203.35.bc.googleusercontent.com
 86.191.77.34.bc.googleusercontent.com
 88.186.79.34.bc.googleusercontent.com
-91.150.216.162.bc.googleusercontent.com
 91.85.70.136.bc.googleusercontent.com
 94.9.240.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -108,15 +105,12 @@ ec2-44-211-148-114.compute-1.amazonaws.com
 ec2-54-163-40-36.compute-1.amazonaws.com
 ec2-54-197-86-219.compute-1.amazonaws.com
 ecs-1-92-114-63.compute.hwclouds-dns.com
-ecs-1-94-63-102.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
-ip92.ip-135-148-63.us
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
