@@ -36,7 +36,6 @@
 56.129.251.23.bc.googleusercontent.com
 58.96.26.218.internet.sx.cn
 6682315a.customer.misaka.joburg
-68.149.216.162.bc.googleusercontent.com
 68.20.199.104.bc.googleusercontent.com
 86.191.77.34.bc.googleusercontent.com
 88.186.79.34.bc.googleusercontent.com
@@ -61,7 +60,6 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-06g.shadowserver.io
 scan-08g.shadowserver.io
-scan-40e.shadowserver.io
 scan-42i.shadowserver.io
 scan-61-3.shadowserver.io
 scan-61-4.shadowserver.io
