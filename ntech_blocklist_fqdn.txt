@@ -27,6 +27,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler022.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -44,6 +45,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
+server.camstorepro.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
