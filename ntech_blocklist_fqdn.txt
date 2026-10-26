@@ -54,12 +54,15 @@ pinkytales.com
 promored1995.datacheap.ru
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-13l.shadowserver.io
 scan-47k.shadowserver.io
 scan-60-7.shadowserver.io
 scan-62-6.shadowserver.io
+scan-63-2.shadowserver.io
 scan-64-7.shadowserver.io
 scan-65-2.shadowserver.io
 scan-65-5.shadowserver.io
+scan-66-4.shadowserver.io
 scan-67-6.shadowserver.io
 scan-75-05.shadowserver.io
 scan-78-08.shadowserver.io
@@ -69,6 +72,7 @@ scan-81-5.shadowserver.io
 scan-81-6.shadowserver.io
 scan-82-2.shadowserver.io
 scan-83-4.shadowserver.io
+scan-83-5.shadowserver.io
 scan-84-0.shadowserver.io
 scan-84-7.shadowserver.io
 scan-85-1.shadowserver.io
@@ -80,6 +84,7 @@ scan-89-6.shadowserver.io
 scan-90-0.shadowserver.io
 scan-95-1.shadowserver.io
 scan-96-2.shadowserver.io
+scan-97-1.shadowserver.io
 scan-97-2.shadowserver.io
 scan-98-2.shadowserver.io
 security.criminalip.com
