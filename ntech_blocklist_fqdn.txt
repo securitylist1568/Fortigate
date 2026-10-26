@@ -26,7 +26,6 @@
 173.95.233.35.bc.googleusercontent.com
 174.92.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-221.156.195.35.bc.googleusercontent.com
 239.152.175.207.bc.googleusercontent.com
 239.152.195.35.bc.googleusercontent.com
 83.75.64.34.bc.googleusercontent.com
@@ -47,7 +46,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
-jackydubois.hd.free.fr
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
