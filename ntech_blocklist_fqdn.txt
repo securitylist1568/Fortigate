@@ -94,6 +94,7 @@ crawler022.deepfield.net
 crawler025.deepfield.net
 crawler077.deepfield.net
 dal215.hawkhost.com
+db3-int.qeryz.com
 dns12.online.tj.cn
 ec2-100-54-143-192.compute-1.amazonaws.com
 ec2-3-86-103-1.compute-1.amazonaws.com
