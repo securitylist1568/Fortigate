@@ -28,6 +28,7 @@
 59-124-30-84.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
+bennett.mastersocialize.org.uk
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -50,6 +51,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+research.esrg.stanford.edu
 scan-60.security.ipip.net
 security.criminalip.com
 smtp1.telemach.net
