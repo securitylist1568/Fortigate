@@ -43,12 +43,16 @@ pdcscan9.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-02k.shadowserver.io
 scan-04f.shadowserver.io
 scan-43h.shadowserver.io
 scan-61-5.shadowserver.io
 scan-62-6.shadowserver.io
 scan-63-2.shadowserver.io
+scan-71-05.shadowserver.io
+scan-82-0.shadowserver.io
 scan-85-7.shadowserver.io
+scan-87-2.shadowserver.io
 security.criminalip.com
 server.camstorepro.com
 smtp1.telemach.net
