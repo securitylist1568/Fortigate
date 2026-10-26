@@ -25,7 +25,6 @@
 143.150.216.162.bc.googleusercontent.com
 144.13.77.34.bc.googleusercontent.com
 15.0.175.207.bc.googleusercontent.com
-158.149.216.162.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-225.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
@@ -55,7 +54,6 @@
 198-74-58-130.ip.linodeusercontent.com
 198-74-58-192.ip.linodeusercontent.com
 198-74-58-213.ip.linodeusercontent.com
-202-215-224-101.west.xps.vectant.ne.jp
 217.85.86.172.static.cloudzy.com
 221.156.195.35.bc.googleusercontent.com
 221.85.86.172.static.cloudzy.com
@@ -118,7 +116,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
 ip85-184-251-21.pbiaas.com
-ip92.ip-135-148-63.us
 jackydubois.hd.free.fr
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -132,6 +129,7 @@ scan-02k.shadowserver.io
 scan-04f.shadowserver.io
 scan-43b.shadowserver.io
 scan-43h.shadowserver.io
+scan-47k.shadowserver.io
 scan-60-4.shadowserver.io
 scan-61-2.shadowserver.io
 scan-61-5.shadowserver.io
@@ -152,7 +150,6 @@ scan-89-3.shadowserver.io
 scan-91-6.shadowserver.io
 scan-93-3.shadowserver.io
 scan-96-4.shadowserver.io
-security.criminalip.com
 server.camstorepro.com
 smtp1.telemach.net
 static-72-69-215-250.nycmny.fios.verizon.net
