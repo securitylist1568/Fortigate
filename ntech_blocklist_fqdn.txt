@@ -22,6 +22,7 @@
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-128.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
+143.150.216.162.bc.googleusercontent.com
 144.13.77.34.bc.googleusercontent.com
 15.0.175.207.bc.googleusercontent.com
 158.149.216.162.bc.googleusercontent.com
@@ -81,6 +82,7 @@
 45.211.203.35.bc.googleusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 8.210.203.35.bc.googleusercontent.com
+82-225-201-203.subs.proxad.net
 89.166.52.34.bc.googleusercontent.com
 91.85.86.172.static.cloudzy.com
 92.90.38.34.bc.googleusercontent.com
@@ -113,10 +115,10 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-194.4vendeta.com
 ip29.sudolio.io
 ip85-184-251-21.pbiaas.com
 ip92.ip-135-148-63.us
+jackydubois.hd.free.fr
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
@@ -136,14 +138,17 @@ scan-62-6.shadowserver.io
 scan-63-2.shadowserver.io
 scan-63-6.shadowserver.io
 scan-64-2.shadowserver.io
+scan-65-3.shadowserver.io
 scan-66-7.shadowserver.io
 scan-71-05.shadowserver.io
 scan-82-0.shadowserver.io
 scan-82-7.shadowserver.io
 scan-85-7.shadowserver.io
 scan-87-2.shadowserver.io
+scan-87-6.shadowserver.io
 scan-89-3.shadowserver.io
 scan-91-6.shadowserver.io
+scan-93-3.shadowserver.io
 scan-96-4.shadowserver.io
 security.criminalip.com
 server.camstorepro.com
