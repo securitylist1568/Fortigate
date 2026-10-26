@@ -41,6 +41,7 @@ li1570-11.members.linode.com
 li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
+pdcscan9.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
