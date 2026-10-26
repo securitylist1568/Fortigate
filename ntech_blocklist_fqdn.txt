@@ -80,7 +80,6 @@
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.135.193.194.ptr.pfcloud.network
-45.211.203.35.bc.googleusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 8.210.203.35.bc.googleusercontent.com
 82-225-201-203.subs.proxad.net
@@ -116,15 +115,16 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
+ip-58-194.4vendeta.com
 ip29.sudolio.io
 ip85-184-251-21.pbiaas.com
 ip92.ip-135-148-63.us
 jackydubois.hd.free.fr
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan9.scanning.cybcube.com
 pinkytales.com
+promored1995.datacheap.ru
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-02k.shadowserver.io
@@ -156,6 +156,5 @@ server.camstorepro.com
 smtp1.telemach.net
 static-72-69-215-250.nycmny.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.vnpt.vn
 sydney.scan.bufferover.run
 users219.vip.heteml.jp
