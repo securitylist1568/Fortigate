@@ -138,18 +138,13 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
-scan-62-6.shadowserver.io
 scan-63-2.shadowserver.io
 scan-66-4.shadowserver.io
 scan-67-6.shadowserver.io
-scan-75-05.shadowserver.io
 scan-80-1.shadowserver.io
-scan-81-5.shadowserver.io
 scan-81-6.shadowserver.io
-scan-82-2.shadowserver.io
 scan-83-5.shadowserver.io
 scan-85-1.shadowserver.io
-scan-85-5.shadowserver.io
 scan-87-5.shadowserver.io
 scan-88-4.shadowserver.io
 scan-97-1.shadowserver.io
@@ -159,5 +154,4 @@ si-6ansmg.pfcloud.io
 smtp1.telemach.net
 static-179-48-196-154.netlinebahia.net.br
 static-ip-250-192-65-202.rev.dyxnet.com
-unn-207-211-210-83.datapacket.com
 users219.vip.heteml.jp
