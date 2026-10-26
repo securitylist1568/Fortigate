@@ -32,6 +32,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+ec2-18-188-45-216.us-east-2.compute.amazonaws.com
 ec2-3-12-149-133.us-east-2.compute.amazonaws.com
 ecs-1-92-114-63.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
