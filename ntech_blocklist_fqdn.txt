@@ -44,6 +44,7 @@ client.yota.ru
 dal215.hawkhost.com
 db3-int.qeryz.com
 dns12.online.tj.cn
+ec2-3-12-149-133.us-east-2.compute.amazonaws.com
 ecs-1-94-8-45.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
