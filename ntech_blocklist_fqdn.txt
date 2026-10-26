@@ -25,6 +25,7 @@
 143.150.216.162.bc.googleusercontent.com
 144.13.77.34.bc.googleusercontent.com
 15.0.175.207.bc.googleusercontent.com
+163-172-31-144.rev.poneytelecom.eu
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-225.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
@@ -81,6 +82,7 @@
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
 8.210.203.35.bc.googleusercontent.com
 82-225-201-203.subs.proxad.net
+83.75.64.34.bc.googleusercontent.com
 89.166.52.34.bc.googleusercontent.com
 91.85.86.172.static.cloudzy.com
 92.90.38.34.bc.googleusercontent.com
