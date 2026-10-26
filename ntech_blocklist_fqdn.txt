@@ -26,6 +26,8 @@
 173.95.233.35.bc.googleusercontent.com
 174.92.156.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+202-215-224-101.west.xps.vectant.ne.jp
+204.211.203.35.bc.googleusercontent.com
 221.156.195.35.bc.googleusercontent.com
 239.152.175.207.bc.googleusercontent.com
 239.152.195.35.bc.googleusercontent.com
@@ -46,17 +48,13 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-194.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
-promored1995.datacheap.ru
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-13l.shadowserver.io
-scan-47k.shadowserver.io
 scan-60-7.shadowserver.io
 scan-62-6.shadowserver.io
 scan-63-2.shadowserver.io
@@ -93,6 +91,5 @@ smtp1.telemach.net
 static-179-48-196-154.netlinebahia.net.br
 static-ip-250-192-65-202.rev.dyxnet.com
 unn-207-211-210-83.datapacket.com
-unn-207-211-214-162.datapacket.com
 users219.vip.heteml.jp
 vps-102567.cloud.firstheberg.net
