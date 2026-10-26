@@ -92,7 +92,6 @@ azpdsggr7bmr.stretchoid.com
 b2.org.afilias-nst.org
 centos7223208.aspadmin.net
 client.yota.ru
-crawler022.deepfield.net
 crawler025.deepfield.net
 crawler077.deepfield.net
 dal215.hawkhost.com
@@ -124,7 +123,6 @@ jackydubois.hd.free.fr
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
-pdcscan9.scanning.cybcube.com
 pinkytales.com
 promored1995.datacheap.ru
 proxy-ca002-ext2.a.ahrefs.com
@@ -169,7 +167,7 @@ scan-95-1.shadowserver.io
 scan-96-2.shadowserver.io
 scan-96-4.shadowserver.io
 scan-97-2.shadowserver.io
-server.camstorepro.com
+security.criminalip.com
 smtp1.telemach.net
 static-72-69-215-250.nycmny.fios.verizon.net
 static-ip-250-192-65-202.rev.dyxnet.com
