@@ -78,6 +78,7 @@
 45.135.193.194.ptr.pfcloud.network
 45.211.203.35.bc.googleusercontent.com
 62.21.236.221.broad.cd.sc.dynamic.163data.com.cn
+8.210.203.35.bc.googleusercontent.com
 89.166.52.34.bc.googleusercontent.com
 92.90.38.34.bc.googleusercontent.com
 94.18.38.34.bc.googleusercontent.com
@@ -113,7 +114,6 @@ ip-58-194.4vendeta.com
 ip29.sudolio.io
 ip92.ip-135-148-63.us
 li1570-11.members.linode.com
-li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan9.scanning.cybcube.com
