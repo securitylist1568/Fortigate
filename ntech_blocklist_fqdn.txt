@@ -18,18 +18,15 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-144.48.78.34.bc.googleusercontent.com
 176.65.148.207.ptr.pfcloud.network
 176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
 219x113x239x116.ap219.ftth.ucom.ne.jp
-249.96.79.34.bc.googleusercontent.com
+243.6.62.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 32.86.223.222.broad.qh.he.dynamic.163data.com.cn
-50-116-23-150.ip.linodeusercontent.com
 50.107.62.34.bc.googleusercontent.com
-7.79.195.35.bc.googleusercontent.com
 aa27e38f.sea.customer.misaka.io
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -40,8 +37,6 @@ dal215.hawkhost.com
 de-r52bup.pfcloud.io
 dns12.online.tj.cn
 ec2-23-20-84-19.compute-1.amazonaws.com
-ec2-3-12-149-133.us-east-2.compute.amazonaws.com
-ec2-44-199-14-68.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
@@ -69,7 +64,6 @@ smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 unassigned.172-81-63-7.spryt.net
-unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
 ve1012.venus.dedi.server-hosting.expert
 vmi3042921.contaboserver.net
