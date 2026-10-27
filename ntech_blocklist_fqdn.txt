@@ -64,6 +64,7 @@ scan-87-1.shadowserver.io
 scan-89-0.shadowserver.io
 scan-90-4.shadowserver.io
 scan-91-4.shadowserver.io
+security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 undefined.hostname.localhost
