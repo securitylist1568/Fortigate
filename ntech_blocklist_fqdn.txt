@@ -17,15 +17,12 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-172-232-231-4.ip.linodeusercontent.com
 176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
 210-61-152-31.hinet-ip.hinet.net
-212.149.216.162.bc.googleusercontent.com
 233-184-99-118.savecom.net.tw
 244.208.205.35.bc.googleusercontent.com
-25.211.203.35.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
