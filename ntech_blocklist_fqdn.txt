@@ -25,6 +25,7 @@
 185-45-195-15.hostsailor.com
 194.23.240.35.bc.googleusercontent.com
 242.18.38.34.bc.googleusercontent.com
+244.208.205.35.bc.googleusercontent.com
 249.96.79.34.bc.googleusercontent.com
 50.161.175.207.bc.googleusercontent.com
 62-210-217-157.rev.poneytelecom.eu
@@ -63,6 +64,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 s4850.vps.hosting
 scan-14l.shadowserver.io
+scan-42i.shadowserver.io
 scan-43h.shadowserver.io
 scan-45g.shadowserver.io
 scan-47k.shadowserver.io
