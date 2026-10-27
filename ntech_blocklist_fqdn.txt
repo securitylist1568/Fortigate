@@ -33,6 +33,7 @@ client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
 dynamic-adsl.viettel.vn
+dynamic-ip-adsl.viettel.vn
 ec2-18-188-45-216.us-east-2.compute.amazonaws.com
 ec2-3-12-149-133.us-east-2.compute.amazonaws.com
 ecs-1-92-114-63.compute.hwclouds-dns.com
@@ -40,6 +41,7 @@ ecs-110-41-45-21.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 go.away
+gtra.gov.af
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
