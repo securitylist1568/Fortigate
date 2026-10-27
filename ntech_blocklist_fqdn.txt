@@ -58,6 +58,7 @@ recyber.net
 research.esrg.stanford.edu
 resi-209-a-9.npbnl.net
 scan-14l.shadowserver.io
+scan-45g.shadowserver.io
 scan-61-4.shadowserver.io
 scan-66-1.shadowserver.io
 scan-67-5.shadowserver.io
