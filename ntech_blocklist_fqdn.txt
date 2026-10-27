@@ -21,9 +21,7 @@
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
 198-12-85-85-host.colocrossing.com
-219x113x239x116.ap219.ftth.ucom.ne.jp
 243.6.62.34.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 50.107.62.34.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
 aa27e38f.sea.customer.misaka.io
@@ -122,14 +120,12 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1625-135.members.linode.com
-lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 security.criminalip.com
-si-6ansmg.pfcloud.io
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
@@ -137,5 +133,4 @@ static.vnpt.vn
 unassigned.172-81-63-7.spryt.net
 undefined.hostname.localhost
 users219.vip.heteml.jp
-vmi3042921.contaboserver.net
 vps-30756ded.vps.ovh.net
