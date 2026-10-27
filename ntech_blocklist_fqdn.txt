@@ -44,6 +44,7 @@ bennett.mastersocialize.org.uk
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-23-20-84-19.compute-1.amazonaws.com
 ec2-3-12-149-133.us-east-2.compute.amazonaws.com
 ec2-44-199-14-68.compute-1.amazonaws.com
 ecs-110-41-152-166.compute.hwclouds-dns.com
@@ -73,4 +74,5 @@ undefined.hostname.localhost
 unn-138-199-53-212.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
+ve1012.venus.dedi.server-hosting.expert
 vpos2.vtsc.cloud
