@@ -24,6 +24,7 @@
 144.48.78.34.bc.googleusercontent.com
 163-172-31-144.rev.poneytelecom.eu
 172.162.88.34.bc.googleusercontent.com
+176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194.23.240.35.bc.googleusercontent.com
 198-134-107-73.rev.unlimitednet.us
@@ -53,6 +54,7 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
