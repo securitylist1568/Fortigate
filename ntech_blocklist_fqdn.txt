@@ -69,6 +69,7 @@ scan-97-6.shadowserver.io
 scan-98-3.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 vps-30756ded.vps.ovh.net
