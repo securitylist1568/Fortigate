@@ -71,6 +71,7 @@ resi-209-a-9.npbnl.net
 scan-14l.shadowserver.io
 scan-45g.shadowserver.io
 scan-47k.shadowserver.io
+scan-61-1.shadowserver.io
 scan-61-4.shadowserver.io
 scan-66-1.shadowserver.io
 scan-67-5.shadowserver.io
@@ -79,8 +80,11 @@ scan-81-6.shadowserver.io
 scan-83-6.shadowserver.io
 scan-84-0.shadowserver.io
 scan-86-5.shadowserver.io
+scan-88-3.shadowserver.io
 scan-88-7.shadowserver.io
 scan-93-0.shadowserver.io
+scan-95-5.shadowserver.io
+scan-97-6.shadowserver.io
 scan-98-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
