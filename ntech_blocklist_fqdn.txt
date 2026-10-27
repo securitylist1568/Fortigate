@@ -54,6 +54,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+lnxsr12.cwp.webr.net.za
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -79,5 +80,6 @@ unn-138-199-53-212.datapacket.com
 user-209-209-59-230.lax02.us.misaka.io
 users219.vip.heteml.jp
 ve1012.venus.dedi.server-hosting.expert
+vmi3042921.contaboserver.net
 vpos2.vtsc.cloud
 www.internet-albedo.net
