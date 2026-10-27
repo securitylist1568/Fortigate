@@ -142,6 +142,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scanner1.cc.gatech.edu
 security.criminalip.com
 server.hostdel.com
 smtp1.telemach.net
