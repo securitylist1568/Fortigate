@@ -27,6 +27,7 @@
 233-184-99-118.savecom.net.tw
 242.18.38.34.bc.googleusercontent.com
 244.208.205.35.bc.googleusercontent.com
+249.96.79.34.bc.googleusercontent.com
 50.161.175.207.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
 64.134.140.34.bc.googleusercontent.com
@@ -39,7 +40,6 @@ bennett.mastersocialize.org.uk
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
-dynamic-adsl.viettel.vn
 dynamic-ip-adsl.viettel.vn
 ec2-18-188-45-216.us-east-2.compute.amazonaws.com
 ec2-34-227-148-44.compute-1.amazonaws.com
@@ -57,7 +57,6 @@ ip29.sudolio.io
 ip92.ip-135-148-63.us
 kvm-10405.hosted-by.qwins.co
 l609.scanner.modat.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pdcscan6.scanning.cybcube.com
