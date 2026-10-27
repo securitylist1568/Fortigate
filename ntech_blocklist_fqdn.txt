@@ -44,6 +44,7 @@ b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+de-r52bup.pfcloud.io
 dns12.online.tj.cn
 ec2-23-20-84-19.compute-1.amazonaws.com
 ec2-3-12-149-133.us-east-2.compute.amazonaws.com
