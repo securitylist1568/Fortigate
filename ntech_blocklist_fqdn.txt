@@ -18,6 +18,8 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+134.12.233.35.bc.googleusercontent.com
+134.122.77.34.bc.googleusercontent.com
 176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 194.23.240.35.bc.googleusercontent.com
@@ -25,6 +27,7 @@
 233-184-99-118.savecom.net.tw
 242.18.38.34.bc.googleusercontent.com
 244.208.205.35.bc.googleusercontent.com
+50.161.175.207.bc.googleusercontent.com
 59-124-30-84.hinet-ip.hinet.net
 64.134.140.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -53,6 +56,7 @@ l609.scanner.modat.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
+pdcscan6.scanning.cybcube.com
 pdcscan7.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
