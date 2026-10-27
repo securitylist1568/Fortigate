@@ -18,7 +18,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
 219x113x239x116.ap219.ftth.ucom.ne.jp
@@ -109,12 +108,10 @@ azpdwsu7m4ze.stretchoid.com
 azpdwsybgrpz.stretchoid.com
 azpdwsyrh0ry.stretchoid.com
 b2.org.afilias-nst.org
-bennett.mastersocialize.org.uk
 blackburn.probe.onyphe.net
 client.yota.ru
 d1d13986.sjc.customer.misaka.io
 dal215.hawkhost.com
-de-r52bup.pfcloud.io
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
@@ -135,6 +132,7 @@ spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.vnpt.vn
 unassigned.172-81-63-7.spryt.net
+undefined.hostname.localhost
 users219.vip.heteml.jp
 vmi3042921.contaboserver.net
 vps-30756ded.vps.ovh.net
