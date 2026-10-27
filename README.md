@@ -75,6 +75,7 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 | `g-IOT_Block-v1.txt` | 內部 IoT 設備（140.122.x.x）限制對外存取之 IP 清單 | ~705 |
 | `g-NetworkDevices_Block-v1.txt` | 內部網路設備（交換器、印表機等）對外 Web 服務封鎖清單 | ~107 |
 | `g-ServerFarm-sshblocklist-v1.txt` | 伺服器農場（140.122.59.x / 63.x / 64.x / 65.x）SSH 對外封鎖清單 | ~44 |
+| `g-NTNU-SecurityBlock-MACAddress-v1` | 內部資安違規/特定管制設備之 MAC 位址封鎖清單 | 人工維護（動態） |
 
 ### ✅ 允許清單與服務維護（Allowlist / Whitelist）
 
@@ -165,6 +166,6 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 ## 📌 注意事項
 
 - **自動更新**：本儲存庫由 Kali Linux Crontab 自動更新，**請勿手動修改自動產生的清單**（如 `ncloud_block_src_*.txt`、`ntech_blocklist.txt`、`emailsys_block_ipset.txt`），否則下次排程執行時將被覆蓋。
-- **手動維護清單**：`g-BLACK_IP_Manual-v5.txt`、`DNS-FQDN-Blocklist-v6.txt`、`g-IOT_Block-v1.txt` 等為人工維護清單，可按需調整。
+- **手動維護清單**：`g-BLACK_IP_Manual-v5.txt`、`DNS-FQDN-Blocklist-v6.txt`、`g-IOT_Block-v1.txt`、`g-NTNU-SecurityBlock-MACAddress-v1` 等為人工維護清單，可按需調整。
 - **內部 CIDR 與白名單過濾**：自動化腳本已排除內部 IP 段（如 `140.122.0.0/16`）及白名單檔案 (`ncloud_allowlist.txt`) / 環境變數中指定的 IP 與 CIDR，避免誤封重要服務。
 - **Cron 執行環境**：腳本使用 `Asia/Taipei` 時區，所有日誌與時間戳記均以台北時間記錄。
