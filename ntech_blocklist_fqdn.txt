@@ -57,14 +57,17 @@ scan-65-4.shadowserver.io
 scan-66-1.shadowserver.io
 scan-67-4.shadowserver.io
 scan-67-5.shadowserver.io
+scan-80-0.shadowserver.io
 scan-83-1.shadowserver.io
 scan-84-1.shadowserver.io
 scan-84-4.shadowserver.io
 scan-85-7.shadowserver.io
 scan-89-6.shadowserver.io
 scan-90-1.shadowserver.io
+scan-91-7.shadowserver.io
 scan-93-4.shadowserver.io
 scan-94-6.shadowserver.io
+scan-95-4.shadowserver.io
 scan-98-1.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
