@@ -27,6 +27,7 @@
 213.247.156.34.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
 29.112.148.146.bc.googleusercontent.com
+2d96f380.kbp.customer.misaka.io
 45.67.144.52.ip.retelit.net
 47.41.101.34.bc.googleusercontent.com
 58.11.240.35.bc.googleusercontent.com
