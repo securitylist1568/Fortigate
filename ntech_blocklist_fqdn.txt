@@ -19,7 +19,9 @@
 111-240-93-35.dynamic-ip.hinet.net
 117.245.175.207.bc.googleusercontent.com
 134-56-158-23.clients.gthost.com
+176.65.149.171.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+198-12-85-85-host.colocrossing.com
 213.247.156.34.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
 29.112.148.146.bc.googleusercontent.com
@@ -41,6 +43,7 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-58-194.4vendeta.com
+ip130.ip-15-235-168.net
 ip29.sudolio.io
 li1570-11.members.linode.com
 li1992-217.members.linode.com
