@@ -22,6 +22,7 @@
 192.248.150.180.vultrusercontent.com
 213.247.156.34.bc.googleusercontent.com
 234.162.187.35.bc.googleusercontent.com
+27.145.175.207.bc.googleusercontent.com
 29.112.148.146.bc.googleusercontent.com
 36.171.76.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
