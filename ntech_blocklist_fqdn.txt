@@ -68,6 +68,7 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 ipb6ab4d75.ap.nuro.jp
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 li1972-67.members.linode.com
 mfyabgec.musicpda.com
@@ -79,6 +80,7 @@ recyber.net
 scan-04f.shadowserver.io
 scan-05j.shadowserver.io
 scan-07e.shadowserver.io
+scan-40e.shadowserver.io
 scan-40g.shadowserver.io
 scan-43b.shadowserver.io
 scan-45o.shadowserver.io
