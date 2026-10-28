@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.245.175.207.bc.googleusercontent.com
-159.228.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
 209.1.156.34.bc.googleusercontent.com
@@ -45,12 +44,10 @@ ip-58-194.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-43h.shadowserver.io
 scan-63-3.shadowserver.io
 scan-64-6.shadowserver.io
 scan-65-1.shadowserver.io
