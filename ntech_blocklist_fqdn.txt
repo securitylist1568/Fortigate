@@ -21,11 +21,8 @@
 134-56-158-23.clients.gthost.com
 185-45-195-15.hostsailor.com
 213.247.156.34.bc.googleusercontent.com
-234.162.187.35.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
 29.112.148.146.bc.googleusercontent.com
-36.171.76.34.bc.googleusercontent.com
-42.123.243.83.in-addr.arpa
 45.67.144.52.ip.retelit.net
 47.41.101.34.bc.googleusercontent.com
 58.11.240.35.bc.googleusercontent.com
@@ -56,8 +53,6 @@ recyber.net
 scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
-static-179-48-196-154.netlinebahia.net.br
 static-ip-250-192-65-202.rev.dyxnet.com
-static.142.9.9.176.clients.your-server.de
 static.vnpt.vn
 users219.vip.heteml.jp
