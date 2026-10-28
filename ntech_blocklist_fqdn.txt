@@ -30,13 +30,13 @@
 36.171.76.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45.170.53.34.bc.googleusercontent.com
-53.26.71.192.in-addr.arpa
 75.114.187.35.bc.googleusercontent.com
 88.140.76.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdss9os8jw.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
+crawler175.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
@@ -54,10 +54,7 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 scan-60-3.shadowserver.io
 scan-62-6.shadowserver.io
-scan-64-6.shadowserver.io
-scan-65-4.shadowserver.io
 scan-66-1.shadowserver.io
-scan-67-4.shadowserver.io
 scan-67-5.shadowserver.io
 scan-80-0.shadowserver.io
 scan-83-1.shadowserver.io
