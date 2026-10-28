@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
+192.248.150.180.vultrusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 82-66-102-95.subs.proxad.net
 amz.unixwiz.net
