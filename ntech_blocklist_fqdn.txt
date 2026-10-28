@@ -21,8 +21,10 @@
 159.228.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 209.1.156.34.bc.googleusercontent.com
+213.247.156.34.bc.googleusercontent.com
 45.170.53.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
+88.140.76.34.bc.googleusercontent.com
 aa27e193.mci.customer.misaka.io
 amz.unixwiz.net
 b2.org.afilias-nst.org
