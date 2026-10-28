@@ -1,4 +1,5 @@
 1-34-13-89.hinet-ip.hinet.net
+106.210.203.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -24,6 +25,7 @@
 172-232-121-108.ip.linodeusercontent.com
 175.106.87.34.bc.googleusercontent.com
 176.65.149.171.ptr.pfcloud.network
+180.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
 200.150.216.162.bc.googleusercontent.com
@@ -33,6 +35,7 @@
 47.41.101.34.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
+57.210.203.35.bc.googleusercontent.com
 88.140.76.34.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0tijbs.stretchoid.com
