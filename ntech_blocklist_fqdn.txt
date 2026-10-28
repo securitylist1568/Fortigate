@@ -27,7 +27,6 @@
 45.170.53.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 75.114.187.35.bc.googleusercontent.com
-82-66-102-95.subs.proxad.net
 88.140.76.34.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -55,9 +54,7 @@ ip92.ip-135-148-63.us
 ipb6ab4d75.ap.nuro.jp
 li1570-11.members.linode.com
 li1873-236.members.linode.com
-li1972-67.members.linode.com
 mfyabgec.musicpda.com
-nori-home.hd.free.fr
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
