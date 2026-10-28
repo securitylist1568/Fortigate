@@ -33,7 +33,6 @@
 53.26.71.192.in-addr.arpa
 75.114.187.35.bc.googleusercontent.com
 88.140.76.34.bc.googleusercontent.com
-aa27e193.mci.customer.misaka.io
 amz.unixwiz.net
 azpdss9os8jw.stretchoid.com
 b2.org.afilias-nst.org
@@ -44,7 +43,6 @@ festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-58-194.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
