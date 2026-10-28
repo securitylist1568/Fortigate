@@ -17,6 +17,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+117.245.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
@@ -46,6 +47,8 @@ b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-52-90-129-148.compute-1.amazonaws.com
+ec2-98-91-19-109.compute-1.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
