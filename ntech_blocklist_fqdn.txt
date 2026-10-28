@@ -68,7 +68,10 @@ scan-61-6.shadowserver.io
 scan-62-6.shadowserver.io
 scan-63-3.shadowserver.io
 scan-64-3.shadowserver.io
+scan-64-6.shadowserver.io
 scan-65-1.shadowserver.io
+scan-65-4.shadowserver.io
+scan-67-4.shadowserver.io
 scan-81-2.shadowserver.io
 scan-84-1.shadowserver.io
 scan-85-7.shadowserver.io
