@@ -19,6 +19,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 117.245.175.207.bc.googleusercontent.com
+134-56-158-23.clients.gthost.com
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 209.1.156.34.bc.googleusercontent.com
@@ -47,6 +48,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip-58-194.4vendeta.com
 ip29.sudolio.io
 li1570-11.members.linode.com
+li1992-217.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
