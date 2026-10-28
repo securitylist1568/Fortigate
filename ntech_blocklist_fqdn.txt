@@ -20,6 +20,7 @@
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
 59-124-30-84.hinet-ip.hinet.net
+60-249-14-121.hinet-ip.hinet.net
 82-66-102-95.subs.proxad.net
 amz.unixwiz.net
 azpdes6jqwpg.stretchoid.com
@@ -60,6 +61,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-43b.shadowserver.io
 scanner1.cc.gatech.edu
 security.criminalip.com
 server.hostdel.com
