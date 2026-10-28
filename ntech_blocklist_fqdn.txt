@@ -20,6 +20,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 159.228.76.34.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
+187.11.102.34.bc.googleusercontent.com
 209.1.156.34.bc.googleusercontent.com
 213.247.156.34.bc.googleusercontent.com
 45.170.53.34.bc.googleusercontent.com
@@ -65,4 +66,5 @@ scan-93-4.shadowserver.io
 scan-94-5.shadowserver.io
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
+undefined.hostname.localhost
 users219.vip.heteml.jp
