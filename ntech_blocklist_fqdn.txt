@@ -27,6 +27,7 @@
 224.153.172.83.static.edisglobal.com
 234.162.187.35.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
+29.112.148.146.bc.googleusercontent.com
 36.171.76.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45.170.53.34.bc.googleusercontent.com
@@ -70,5 +71,6 @@ smtp1.telemach.net
 static-179-48-196-154.netlinebahia.net.br
 static-ip-250-192-65-202.rev.dyxnet.com
 static.142.9.9.176.clients.your-server.de
+static.vnpt.vn
 undefined.hostname.localhost
 users219.vip.heteml.jp
