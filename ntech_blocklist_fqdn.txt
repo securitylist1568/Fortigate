@@ -27,7 +27,6 @@
 213.247.156.34.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
 45.170.53.34.bc.googleusercontent.com
-60-249-14-121.hinet-ip.hinet.net
 75.114.187.35.bc.googleusercontent.com
 88.140.76.34.bc.googleusercontent.com
 amz.unixwiz.net
@@ -66,7 +65,6 @@ scan-05j.shadowserver.io
 scan-07e.shadowserver.io
 scan-40e.shadowserver.io
 scan-40g.shadowserver.io
-scan-43b.shadowserver.io
 scan-43h.shadowserver.io
 scan-45o.shadowserver.io
 scan-52c.shadowserver.io
