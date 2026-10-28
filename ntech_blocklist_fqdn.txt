@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
 117.245.175.207.bc.googleusercontent.com
+126.150.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 175.106.87.34.bc.googleusercontent.com
@@ -26,6 +27,7 @@
 185-45-195-15.hostsailor.com
 198-12-85-85-host.colocrossing.com
 200.150.216.162.bc.googleusercontent.com
+203-74-130-205.hinet-ip.hinet.net
 27.145.175.207.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
 47.41.101.34.bc.googleusercontent.com
