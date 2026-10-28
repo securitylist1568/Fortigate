@@ -70,6 +70,7 @@ scan-45o.shadowserver.io
 scan-52c.shadowserver.io
 scan-59g.shadowserver.io
 scan-64-2.shadowserver.io
+scan-64-3.shadowserver.io
 scan-65-3.shadowserver.io
 scan-69-00.shadowserver.io
 scan-82-3.shadowserver.io
@@ -77,6 +78,7 @@ scan-82-7.shadowserver.io
 scan-84-7.shadowserver.io
 scan-85-5.shadowserver.io
 scan-87-7.shadowserver.io
+scan-88-1.shadowserver.io
 scan-91-1.shadowserver.io
 scan-94-7.shadowserver.io
 scanner1.cc.gatech.edu
