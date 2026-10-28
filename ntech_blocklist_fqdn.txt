@@ -22,6 +22,7 @@
 117.245.175.207.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
+192.248.150.180.vultrusercontent.com
 209.1.156.34.bc.googleusercontent.com
 213.247.156.34.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
