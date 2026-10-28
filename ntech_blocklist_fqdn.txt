@@ -26,6 +26,7 @@
 209.1.156.34.bc.googleusercontent.com
 213.247.156.34.bc.googleusercontent.com
 224.153.172.83.static.edisglobal.com
+234.162.187.35.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45.170.53.34.bc.googleusercontent.com
@@ -75,5 +76,6 @@ scan-98-1.shadowserver.io
 smtp1.telemach.net
 static-179-48-196-154.netlinebahia.net.br
 static-ip-250-192-65-202.rev.dyxnet.com
+static.142.9.9.176.clients.your-server.de
 undefined.hostname.localhost
 users219.vip.heteml.jp
