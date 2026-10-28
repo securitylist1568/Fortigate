@@ -23,6 +23,7 @@
 192.248.150.180.vultrusercontent.com
 213.247.156.34.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
+45.170.53.34.bc.googleusercontent.com
 60-249-14-121.hinet-ip.hinet.net
 75.114.187.35.bc.googleusercontent.com
 82-66-102-95.subs.proxad.net
@@ -43,6 +44,7 @@ ec2-52-90-129-148.compute-1.amazonaws.com
 ec2-54-173-151-250.compute-1.amazonaws.com
 ec2-54-242-53-224.compute-1.amazonaws.com
 ec2-98-91-19-109.compute-1.amazonaws.com
+ecs-110-41-45-21.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
