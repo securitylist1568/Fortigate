@@ -21,6 +21,7 @@
 185-45-195-15.hostsailor.com
 187.11.102.34.bc.googleusercontent.com
 192.248.150.180.vultrusercontent.com
+209.1.156.34.bc.googleusercontent.com
 213.247.156.34.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
 45.170.53.34.bc.googleusercontent.com
@@ -50,6 +51,7 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+ip92.ip-135-148-63.us
 ipb6ab4d75.ap.nuro.jp
 li1570-11.members.linode.com
 li1873-236.members.linode.com
@@ -69,10 +71,14 @@ scan-43b.shadowserver.io
 scan-45o.shadowserver.io
 scan-52c.shadowserver.io
 scan-59g.shadowserver.io
+scan-60-7.shadowserver.io
+scan-61-6.shadowserver.io
+scan-62-6.shadowserver.io
 scan-64-2.shadowserver.io
 scan-64-3.shadowserver.io
 scan-65-3.shadowserver.io
 scan-69-00.shadowserver.io
+scan-81-2.shadowserver.io
 scan-82-3.shadowserver.io
 scan-82-7.shadowserver.io
 scan-84-7.shadowserver.io
@@ -80,6 +86,7 @@ scan-85-5.shadowserver.io
 scan-87-7.shadowserver.io
 scan-88-1.shadowserver.io
 scan-91-1.shadowserver.io
+scan-94-5.shadowserver.io
 scan-94-7.shadowserver.io
 scanner1.cc.gatech.edu
 security.criminalip.com
