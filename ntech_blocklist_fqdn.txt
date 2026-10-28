@@ -28,6 +28,7 @@
 224.153.172.83.static.edisglobal.com
 234.162.187.35.bc.googleusercontent.com
 27.145.175.207.bc.googleusercontent.com
+36.171.76.34.bc.googleusercontent.com
 42.123.243.83.in-addr.arpa
 45.170.53.34.bc.googleusercontent.com
 53.26.71.192.in-addr.arpa
