@@ -22,6 +22,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 153.210.203.35.bc.googleusercontent.com
 154.150.216.162.bc.googleusercontent.com
+168.152.79.34.bc.googleusercontent.com
 175.106.87.34.bc.googleusercontent.com
 175.150.216.162.bc.googleusercontent.com
 176.243.241.35.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 211-72-229-208.hinet-ip.hinet.net
 224.150.216.162.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
+244.103.211.130.bc.googleusercontent.com
 247.149.216.162.bc.googleusercontent.com
 254.149.216.162.bc.googleusercontent.com
 2d0b6ab5.ams.customer.misaka.io
