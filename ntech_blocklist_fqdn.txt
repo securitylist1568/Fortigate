@@ -40,6 +40,7 @@
 50.97.175.207.bc.googleusercontent.com
 60.137.251.23.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
+83.69.175.207.bc.googleusercontent.com
 amz.unixwiz.net
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
@@ -49,6 +50,8 @@ dns12.online.tj.cn
 ec2-13-114-50-12.ap-northeast-1.compute.amazonaws.com
 ec2-175-41-164-94.ap-southeast-1.compute.amazonaws.com
 ec2-3-36-87-79.ap-northeast-2.compute.amazonaws.com
+ec2-43-216-221-144.ap-southeast-5.compute.amazonaws.com
+ec2-43-217-247-185.ap-southeast-5.compute.amazonaws.com
 ec2-43-218-42-234.ap-southeast-3.compute.amazonaws.com
 ec2-52-197-231-12.ap-northeast-1.compute.amazonaws.com
 ec2-56-69-210-109.ap-southeast-5.compute.amazonaws.com
