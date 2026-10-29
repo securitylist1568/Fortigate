@@ -1,0 +1,8 @@
+# longterm_exclude.txt
+# 手動剔除清單（專供 g-BLACK_IP_AutoLongTerm-v1.txt 使用）
+# 每行一筆 IPv4 或 CIDR，支援空白行與 # 註解。
+# 列於此處的 IP / 網段永遠不會被納入 g-BLACK_IP_AutoLongTerm-v1.txt 永久黑名單。
+# 範例：
+# 203.0.113.50
+# 198.51.100.0/24
+
