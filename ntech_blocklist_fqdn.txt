@@ -92,6 +92,7 @@
 50.97.175.207.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
+83.69.175.207.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 adventure.yatano.com
 amz.unixwiz.net
