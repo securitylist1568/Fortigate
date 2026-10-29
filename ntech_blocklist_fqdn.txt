@@ -63,7 +63,6 @@
 198-74-58-157.ip.linodeusercontent.com
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
-200.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
 213.149.216.162.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
@@ -89,7 +88,6 @@
 45-79-225-32.ip.linodeusercontent.com
 45.135.193.194.ptr.pfcloud.network
 47.41.101.34.bc.googleusercontent.com
-5.149.216.162.bc.googleusercontent.com
 50.97.175.207.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
