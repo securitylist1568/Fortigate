@@ -71,6 +71,8 @@
 23-92-26-65.ip.linodeusercontent.com
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
+254.149.216.162.bc.googleusercontent.com
+2d0b6ab5.ams.customer.misaka.io
 34.210.203.35.bc.googleusercontent.com
 38.189.205.35.bc.googleusercontent.com
 39.83.187.35.bc.googleusercontent.com
@@ -103,6 +105,7 @@ ec2-174-129-56-240.compute-1.amazonaws.com
 ec2-3-91-175-250.compute-1.amazonaws.com
 ec2-54-197-86-219.compute-1.amazonaws.com
 ec2-54-90-190-1.compute-1.amazonaws.com
+ecs-94-74-70-104.compute.hwclouds-dns.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
