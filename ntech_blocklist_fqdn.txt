@@ -31,6 +31,7 @@
 185-45-195-15.hostsailor.com
 200.210.203.35.bc.googleusercontent.com
 202-148-221-229.tw-tpe.telecom.tw
+236.210.203.35.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
 244.103.211.130.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
@@ -40,6 +41,7 @@
 39.83.187.35.bc.googleusercontent.com
 40.150.216.162.bc.googleusercontent.com
 45-189-14-140.teralinktelecom.com.br
+45.67.144.52.ip.retelit.net
 46.149.216.162.bc.googleusercontent.com
 50.97.175.207.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
