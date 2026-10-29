@@ -45,6 +45,7 @@
 62.149.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
+68.149.216.162.bc.googleusercontent.com
 83.69.175.207.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes8nnapm.stretchoid.com
