@@ -2,6 +2,7 @@
 101.150.216.162.bc.googleusercontent.com
 103-158-228-149.tw-tpe.telecom.tw
 106.149.216.162.bc.googleusercontent.com
+109.21.195.35.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -26,6 +27,7 @@
 168.152.79.34.bc.googleusercontent.com
 176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
+192.248.150.180.vultrusercontent.com
 200.210.203.35.bc.googleusercontent.com
 202-148-221-229.tw-tpe.telecom.tw
 23.209.255.172.hosted.by.hostdzire.com
