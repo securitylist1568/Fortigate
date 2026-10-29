@@ -30,6 +30,7 @@
 178.150.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 20.149.216.162.bc.googleusercontent.com
+202-148-221-229.tw-tpe.telecom.tw
 224.150.216.162.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
 244.103.211.130.bc.googleusercontent.com
@@ -78,6 +79,7 @@ no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
+puya.24-7.ro
 recyber.net
 scan-07e.shadowserver.io
 scan-52c.shadowserver.io
