@@ -27,8 +27,10 @@
 176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
+194-195-253-86.ip.linodeusercontent.com
 200.210.203.35.bc.googleusercontent.com
 202-148-221-229.tw-tpe.telecom.tw
+214.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 236.210.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
