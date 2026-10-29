@@ -20,10 +20,12 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 111-250-189-41.dynamic-ip.hinet.net
+172-104-100-28.ip.linodeusercontent.com
 176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 194-195-253-86.ip.linodeusercontent.com
+198-12-85-85-host.colocrossing.com
 200.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
@@ -41,6 +43,7 @@
 46.149.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
+94.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes8nnapm.stretchoid.com
 azpdescypivm.stretchoid.com
