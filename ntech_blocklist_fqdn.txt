@@ -73,6 +73,7 @@
 23-92-26-77.ip.linodeusercontent.com
 23-92-27-179.ip.linodeusercontent.com
 2d96f380.kbp.customer.misaka.io
+38.189.205.35.bc.googleusercontent.com
 39.83.187.35.bc.googleusercontent.com
 41.210.203.35.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
@@ -113,6 +114,7 @@ ip187.ip-51-178-106.eu
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
+nsg-static-133.70.76.182-airtel.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
@@ -132,4 +134,5 @@ security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 sydney.scan.bufferover.run
+user-45-142-244-217.lon07.gb.misaka.io
 users219.vip.heteml.jp
