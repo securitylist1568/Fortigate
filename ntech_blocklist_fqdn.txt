@@ -22,7 +22,6 @@
 111-240-93-35.dynamic-ip.hinet.net
 111-250-189-41.dynamic-ip.hinet.net
 172-104-100-28.ip.linodeusercontent.com
-176.65.148.207.ptr.pfcloud.network
 185-45-195-15.hostsailor.com
 192.248.150.180.vultrusercontent.com
 194-195-253-86.ip.linodeusercontent.com
@@ -32,17 +31,13 @@
 23.209.255.172.hosted.by.hostdzire.com
 236.210.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
-245.149.216.162.bc.googleusercontent.com
 250.210.203.35.bc.googleusercontent.com
 29.125.79.34.bc.googleusercontent.com
-29.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
 39.83.187.35.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
-45-189-14-140.teralinktelecom.com.br
 45.67.144.52.ip.retelit.net
 45.77.61.56.vultrusercontent.com
-46.149.216.162.bc.googleusercontent.com
 67.150.216.162.bc.googleusercontent.com
 68.149.216.162.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
