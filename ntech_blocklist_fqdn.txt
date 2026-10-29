@@ -20,7 +20,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
-117.245.175.207.bc.googleusercontent.com
 126.150.216.162.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
@@ -31,13 +30,10 @@
 198-12-85-85-host.colocrossing.com
 200.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
-27.145.175.207.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
-47.41.101.34.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
-88.140.76.34.bc.googleusercontent.com
 89.210.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes0tijbs.stretchoid.com
@@ -135,7 +131,6 @@ ip130.ip-15-235-168.net
 ip187.ip-51-178-106.eu
 ip29.sudolio.io
 li1537-121.members.linode.com
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
