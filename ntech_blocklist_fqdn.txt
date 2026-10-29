@@ -28,6 +28,7 @@
 198-12-85-85-host.colocrossing.com
 200.210.203.35.bc.googleusercontent.com
 214.149.216.162.bc.googleusercontent.com
+227.150.216.162.bc.googleusercontent.com
 23.209.255.172.hosted.by.hostdzire.com
 236.210.203.35.bc.googleusercontent.com
 240.211.203.35.bc.googleusercontent.com
@@ -56,6 +57,7 @@ azpdwsodgqae.stretchoid.com
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
+de-r52bup.pfcloud.io
 dfrtyujn.ghbffh.gyh-tyui.globalfinancialplanner.info
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
