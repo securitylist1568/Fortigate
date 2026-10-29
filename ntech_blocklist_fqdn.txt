@@ -28,6 +28,7 @@
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
 151.150.216.162.bc.googleusercontent.com
+168.152.79.34.bc.googleusercontent.com
 172-234-199-134.ip.linodeusercontent.com
 172-234-222-168.ip.linodeusercontent.com
 172-234-222-249.ip.linodeusercontent.com
@@ -132,6 +133,7 @@ scan-84-7.shadowserver.io
 scan-87-3.shadowserver.io
 scan-89-2.shadowserver.io
 scan-93-2.shadowserver.io
+scan-96-1.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
