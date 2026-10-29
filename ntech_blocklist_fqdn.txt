@@ -41,6 +41,7 @@
 2d96f25f.customer.misaka.taipei
 45.77.61.56.vultrusercontent.com
 56.149.216.162.bc.googleusercontent.com
+84.150.216.162.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes2eoo24.stretchoid.com
