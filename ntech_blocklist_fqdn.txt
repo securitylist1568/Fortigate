@@ -121,10 +121,12 @@ scan-42i.shadowserver.io
 scan-47k.shadowserver.io
 scan-60-1.shadowserver.io
 scan-62-4.shadowserver.io
+scan-64-4.shadowserver.io
 scan-66-7.shadowserver.io
 scan-67-5.shadowserver.io
 scan-76-03.shadowserver.io
 scan-80-5.shadowserver.io
+scan-81-6.shadowserver.io
 scan-83-4.shadowserver.io
 scan-83-5.shadowserver.io
 scan-84-0.shadowserver.io
@@ -132,9 +134,12 @@ scan-84-3.shadowserver.io
 scan-84-7.shadowserver.io
 scan-87-3.shadowserver.io
 scan-89-2.shadowserver.io
+scan-89-5.shadowserver.io
 scan-90-1.shadowserver.io
+scan-90-2.shadowserver.io
 scan-91-1.shadowserver.io
 scan-93-2.shadowserver.io
+scan-93-4.shadowserver.io
 scan-95-3.shadowserver.io
 scan-96-0.shadowserver.io
 scan-96-1.shadowserver.io
