@@ -21,6 +21,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 112.150.216.162.bc.googleusercontent.com
 126.150.216.162.bc.googleusercontent.com
+137.211.203.35.bc.googleusercontent.com
 151.150.216.162.bc.googleusercontent.com
 172-232-121-108.ip.linodeusercontent.com
 175.106.87.34.bc.googleusercontent.com
@@ -31,7 +32,10 @@
 198-12-85-85-host.colocrossing.com
 200.150.216.162.bc.googleusercontent.com
 203-74-130-205.hinet-ip.hinet.net
+213.149.216.162.bc.googleusercontent.com
 2d96f380.kbp.customer.misaka.io
+41.210.203.35.bc.googleusercontent.com
+47.41.101.34.bc.googleusercontent.com
 5.149.216.162.bc.googleusercontent.com
 57.149.216.162.bc.googleusercontent.com
 57.210.203.35.bc.googleusercontent.com
@@ -137,6 +141,7 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-42i.shadowserver.io
 scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
