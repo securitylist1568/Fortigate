@@ -38,12 +38,7 @@
 214.149.216.162.bc.googleusercontent.com
 225.211.203.35.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
-23.209.255.172.hosted.by.hostdzire.com
-240.211.203.35.bc.googleusercontent.com
-250.210.203.35.bc.googleusercontent.com
-29.125.79.34.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
-39.83.187.35.bc.googleusercontent.com
 45.77.61.56.vultrusercontent.com
 56.149.216.162.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
@@ -179,10 +174,8 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip125.ip-200-181-82.infrawire.sh
-ip155.ip-51-222-5.net
 ip29.sudolio.io
 jackydubois.hd.free.fr
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
@@ -192,11 +185,9 @@ recyber.net
 scan-56.security.ipip.net
 scan-58.security.ipip.net
 security.criminalip.com
-si-6ansmg.pfcloud.io
 smtp1.telemach.net
 spafollow.kwai.com
 static-ip-250-192-65-202.rev.dyxnet.com
 static.108.142.69.159.clients.your-server.de
 users219.vip.heteml.jp
 vds1077812.hosted-by-itldc.com
-vps74201861.hosteons.net
