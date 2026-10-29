@@ -33,10 +33,12 @@
 202-148-221-229.tw-tpe.telecom.tw
 236.210.203.35.bc.googleusercontent.com
 237.210.203.35.bc.googleusercontent.com
+240.211.203.35.bc.googleusercontent.com
 244.103.211.130.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 38.189.205.35.bc.googleusercontent.com
+39.83.187.35.bc.googleusercontent.com
 40.150.216.162.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
 45-189-14-140.teralinktelecom.com.br
@@ -84,6 +86,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip109.ip-51-38-221.eu
 ip29.sudolio.io
 kub002.idyschool.de.com
+li1570-11.members.linode.com
 li1873-236.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
