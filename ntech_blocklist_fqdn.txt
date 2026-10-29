@@ -46,9 +46,20 @@
 60.137.251.23.bc.googleusercontent.com
 62.149.216.162.bc.googleusercontent.com
 65.210.203.35.bc.googleusercontent.com
+67.150.216.162.bc.googleusercontent.com
 83.69.175.207.bc.googleusercontent.com
 amz.unixwiz.net
+azpdes8nnapm.stretchoid.com
+azpdescypivm.stretchoid.com
+azpdeswi1cvg.stretchoid.com
 azpdss3hgyuy.stretchoid.com
+azpdws9eiuji.stretchoid.com
+azpdwsdnngnl.stretchoid.com
+azpdwsese0ja.stretchoid.com
+azpdwsfzewi0.stretchoid.com
+azpdwsh4ne4h.stretchoid.com
+azpdwso2cgwm.stretchoid.com
+azpdwsodgqae.stretchoid.com
 b1b117dc.waw.customer.misaka.io
 b2.org.afilias-nst.org
 client.yota.ru
@@ -83,6 +94,7 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 puya.24-7.ro
 recyber.net
+research.esrg.stanford.edu
 scan-07e.shadowserver.io
 scan-52c.shadowserver.io
 scan-60-2.shadowserver.io
@@ -107,6 +119,7 @@ scan-94-3.shadowserver.io
 scan-94-5.shadowserver.io
 scan-97-2.shadowserver.io
 scan-97-7.shadowserver.io
+scanner1.cc.gatech.edu
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
