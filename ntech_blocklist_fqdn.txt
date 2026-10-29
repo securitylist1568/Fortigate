@@ -18,9 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-114-44-251-151.dynamic-ip.hinet.net
 133.149.216.162.bc.googleusercontent.com
-137.211.203.35.bc.googleusercontent.com
 139-144-239-185.ip.linodeusercontent.com
 143-42-1-44.ip.linodeusercontent.com
 143-42-173-60.ip.linodeusercontent.com
@@ -53,7 +51,6 @@
 176.243.241.35.bc.googleusercontent.com
 182.211.203.35.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
-190.211.203.35.bc.googleusercontent.com
 192-155-81-124.ip.linodeusercontent.com
 192-81-132-226.ip.linodeusercontent.com
 198-74-58-111.ip.linodeusercontent.com
@@ -62,7 +59,6 @@
 198-74-58-201.ip.linodeusercontent.com
 198-74-58-45.ip.linodeusercontent.com
 211-72-229-208.hinet-ip.hinet.net
-213.149.216.162.bc.googleusercontent.com
 23-239-11-208.ip.linodeusercontent.com
 23-92-26-123.ip.linodeusercontent.com
 23-92-26-126.ip.linodeusercontent.com
@@ -76,7 +72,6 @@
 34.210.203.35.bc.googleusercontent.com
 38.189.205.35.bc.googleusercontent.com
 39.83.187.35.bc.googleusercontent.com
-41.210.203.35.bc.googleusercontent.com
 45-33-52-85.ip.linodeusercontent.com
 45-56-83-110.ip.linodeusercontent.com
 45-79-103-169.ip.linodeusercontent.com
@@ -88,7 +83,6 @@
 45-79-145-34.ip.linodeusercontent.com
 45-79-225-32.ip.linodeusercontent.com
 45.135.193.194.ptr.pfcloud.network
-47.41.101.34.bc.googleusercontent.com
 50.97.175.207.bc.googleusercontent.com
 83.69.175.207.bc.googleusercontent.com
 9213038d.customer.misaka.se
@@ -120,7 +114,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-42i.shadowserver.io
 scan-47k.shadowserver.io
 scan-60-1.shadowserver.io
 scan-62-4.shadowserver.io
