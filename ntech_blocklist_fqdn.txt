@@ -35,10 +35,8 @@
 237.210.203.35.bc.googleusercontent.com
 244.103.211.130.bc.googleusercontent.com
 245.149.216.162.bc.googleusercontent.com
-247.149.216.162.bc.googleusercontent.com
 29.149.216.162.bc.googleusercontent.com
 38.189.205.35.bc.googleusercontent.com
-39.83.187.35.bc.googleusercontent.com
 40.150.216.162.bc.googleusercontent.com
 42.149.216.162.bc.googleusercontent.com
 45-189-14-140.teralinktelecom.com.br
@@ -95,10 +93,8 @@ puya.24-7.ro
 qatarexecutive.com.qa
 recyber.net
 research.esrg.stanford.edu
-scan-07e.shadowserver.io
 scan-52c.shadowserver.io
 scan-60-2.shadowserver.io
-scan-63-2.shadowserver.io
 scan-66-7.shadowserver.io
 scan-67-1.shadowserver.io
 scan-67-5.shadowserver.io
@@ -106,10 +102,8 @@ scan-69-00.shadowserver.io
 scan-79-00.shadowserver.io
 scan-83-2.shadowserver.io
 scan-85-2.shadowserver.io
-scan-86-7.shadowserver.io
 scan-90-7.shadowserver.io
 scan-94-3.shadowserver.io
-scan-94-5.shadowserver.io
 scan-97-7.shadowserver.io
 scanner1.cc.gatech.edu
 security.criminalip.com
