@@ -4,7 +4,7 @@
 
 此儲存庫透過部署於 **Kali Linux** 上的 Python 自動化腳本，定期經由 **Crontab 排程** 執行，自動產生並更新各類威脅情資清單，再 Git Push 同步至本儲存庫。
 
-自動化 Python 腳本原始碼與開發測試環境獨立託管於 [**`Fortigate-Dev` 儲存庫**](https://github.com/securitylist1568/Fortigate-Dev)。本儲存庫（`Fortigate`）專責作為 Fortigate 防火牆 **External Dynamic List (EDL / Threat Feeds)** 讀取之純文字情資發布端。
+自動化 Python 腳本原始碼與開發測試環境獨立託管於 [**`Fortigate-Dev` 儲存庫**](https://github.com/securitylist1568/Fortigate-Dev)。本儲存庫（`Fortigate`）專責作為 **FortiGate-3001F** 防火牆 **External Dynamic List (EDL / Threat Feeds)** 讀取之純文字情資發布端。
 
 本儲存庫彙整用於 Fortigate 防火牆的所有 IP 封鎖清單、FQDN 封鎖清單、設備存取控制清單，以及 DNS 封鎖警告訊息頁面。
 
@@ -15,11 +15,11 @@
 | 儲存庫名稱 | 角色與定位 | 主要內容 | 對應 GitHub 位址 |
 |---|---|---|---|
 | **`Fortigate`** *(本儲存庫)* | FortiGate EDL 實體 Feed 發布庫 | 產出之純文字封鎖清單 (`ncloud_block_*.txt`、`g-BLACK_IP_AutoLongTerm-v1.txt` 等)、白名單 (`ncloud_allowlist.txt`)、手動剔除清單 (`longterm_exclude.txt`)、人工維護檔 | [`securitylist1568/Fortigate`](https://github.com/securitylist1568/Fortigate) |
-| **`Fortigate-Dev`** *(開發原始碼庫)* | 程式碼與自動化開發庫 | Python 主程式 (`v4.5`、`longterm v1.0.1`)、共用模組 (`ncloud_feed_utils.py`)、Job 設定檔、驗證腳本 (`verify_v4_5.sh`、`verify_longterm_v1_0.sh`) | [`securitylist1568/Fortigate-Dev`](https://github.com/securitylist1568/Fortigate-Dev) |
+| **`Fortigate-Dev`** *(開發原始碼庫)* | 程式碼與自動化開發庫 | Python 主程式 (`v4.5`、`longterm v1.0.1`)、共用模組 (`ncloud_feed_utils.py`)、Job 設定檔、單元測試 (`tests/`)、驗證腳本 (`verify_v4_5.sh`、`verify_longterm_v1_0.sh`) | [`securitylist1568/Fortigate-Dev`](https://github.com/securitylist1568/Fortigate-Dev) |
 
 ---
 
-## 🏗️ 系統架構
+## 🏗️ 系統架構與資料流
 
 ```
 Kali Linux (自動化腳本 repo: Fortigate-Dev)
@@ -29,12 +29,12 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
         ├─ ncloud_topn_feed_push_v4_5.py        ← TopN 威脅情資推送器 (v4.5, 每 10 分鐘: 5-59/10)
         └─ ncloud_longterm_block_v1_0.py        ← 長期重複與 AbuseIPDB 永久黑名單產生器 (v1.0.1, 每 3 小時: 8 */3)
                 │
-                │  (Crontab 定期執行 + Git Auto Push)
+                │  (Crontab 定期執行 + 狀態/台帳原子寫入 + Git Auto Push)
                 ▼
         本儲存庫：Fortigate (自動更新純文字 Feed)
                 │
                 ▼
-        Fortigate 防火牆 (讀取 Raw URL 並套用封鎖規則)
+        FortiGate-3001F 防火牆 (讀取 Raw URL 並套用封鎖規則)
 ```
 
 ---
@@ -45,37 +45,37 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 
 | 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
-| `g-BLACK_IP_Manual-v5.txt` | 手動維護之黑名單 IP，彙整各類惡意來源 | 人工維護 | ~3,902 |
-| `g-BLACK_IP_AutoLongTerm-v1.txt` | 自動化長期黑名單 IP（過去 10 天跨 ≥3 個日曆日重複出現於 Ncloud 目標黑名單 **OR** 列名於 AbuseIPDB Blacklist，含 **30 天 TTL** 自動退場） | `ncloud_longterm_block_v1_0.py` | 9,974（AbuseIPDB Blacklist ∪ Ncloud 10天跨≥3日累計） |
-| `ncloud_block_src_topn.txt` | 流量分析產生之每日 Top-N 威脅來源 IP（日歸零 + 10 分鐘增量累計） | `ncloud_topn_feed_push_v4_5.py` | ~7,539 |
-| `ncloud_block_src_trojan_irc.txt` | 連線至 Trojan / IRC C2 伺服器之惡意來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~1,825 |
-| `ncloud_block_src_cert_remote.txt` | 使用可疑憑證進行遠端連線之來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~1,893 |
-| `ncloud_block_src_ext_ssh_in.txt` | 外部主機對內 SSH 入侵嘗試之來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~3,999 |
-| `ncloud_block_src_dns_ptr_anom.txt` | DNS PTR 記錄異常之可疑來源 IP | `ncloud_topn_feed_push_v4_5.py` | 9 |
-| `ncloud_block_dst_topn.txt` | 流量分析產生之 Top-N 威脅目標 IP | `ncloud_topn_feed_push_v4_5.py` | 動態（無威脅時 0 筆） |
-| `ntech_blocklist.txt` | 分析產生之惡意 IP 封鎖清單 | `ncloud_fortigate_ntech_block_v2_1.py` | ~170 |
-| `g-NTNU-Lib-ThreatSeed-v1` | 圖書館端點異常連線之威脅情資種子清單 | 人工維護 | ~294 |
+| `g-BLACK_IP_Manual-v5.txt` | 手動維護之黑名單 IP，彙整各類惡意來源 | 人工維護 | 3,902 |
+| `g-BLACK_IP_AutoLongTerm-v1.txt` | 自動化長期黑名單 IP（過去 10 天跨 ≥3 個日曆日重複出現於 Ncloud 目標黑名單 **OR** 列名於 AbuseIPDB Blacklist，含 **30 天 TTL** 自動退場） | `ncloud_longterm_block_v1_0.py` (`v1.0.1`) | 9,974（AbuseIPDB Blacklist ∪ Ncloud 10天跨≥3日累計） |
+| `ncloud_block_src_topn.txt` | 流量分析產生之每日 Top-N 威脅來源 IP（日歸零 + 10 分鐘增量累計） | `ncloud_topn_feed_push_v4_5.py` | ~6,401 |
+| `ncloud_block_src_trojan_irc.txt` | 連線至 Trojan / IRC C2 伺服器之惡意來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~1,510 |
+| `ncloud_block_src_cert_remote.txt` | 使用可疑憑證進行遠端連線之來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~1,590 |
+| `ncloud_block_src_ext_ssh_in.txt` | 外部主機對內 SSH 入侵嘗試之來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~3,325 |
+| `ncloud_block_src_dns_ptr_anom.txt` | DNS PTR 記錄異常之可疑來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~21 |
+| `ncloud_block_dst_topn.txt` | 流量分析產生之 Top-N 威脅目標 IP | `ncloud_topn_feed_push_v4_5.py` | ~61（隨當日流量動態變動） |
+| `ntech_blocklist.txt` | 分析產生之惡意 IP 封鎖清單 | `ncloud_fortigate_ntech_block_v2_1.py` | ~164 |
+| `g-NTNU-Lib-ThreatSeed-v1` | 圖書館端點異常連線之威脅情資種子清單 | 人工維護 | 294 |
 
 ### 🌐 FQDN / 網域封鎖清單
 
 | 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
-| `DNS-FQDN-Blocklist-v6.txt` | 主要 DNS FQDN 封鎖清單，含惡意網域、成人內容、釣魚/木馬 C2 網域，並包含萬用字元（`*.domain`）格式 | 人工維護 + 威脅情資 | ~1,895 |
-| `ntech_blocklist_fqdn.txt` | 分析產生之惡意 FQDN 封鎖清單，主要包含掃描器主機 PTR 記錄 | `ncloud_fortigate_ntech_block_v2_1.py` | ~82 |
+| `DNS-FQDN-Blocklist-v6.txt` | 主要 DNS FQDN 封鎖清單，含惡意網域、成人內容、釣魚/木馬 C2 網域，並包含萬用字元（`*.domain`）格式 | 人工維護 + 威脅情資 | 1,895 |
+| `ntech_blocklist_fqdn.txt` | 分析產生之惡意 FQDN 封鎖清單，主要包含掃描器主機 PTR 記錄 | `ncloud_fortigate_ntech_block_v2_1.py` | ~72 |
 
 ### 📧 郵件系統封鎖清單
 
 | 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
-| `emailsys_block_ipset.txt` | 郵件系統封鎖 IP/CIDR 集合（以 CIDR 格式為主），涵蓋高風險 IP 段 | `EmailSys_fortigate_block_v2_1.py` | ~2,618 |
+| `emailsys_block_ipset.txt` | 郵件系統封鎖 IP/CIDR 集合（以 CIDR 格式為主），涵蓋高風險 IP 段 | `EmailSys_fortigate_block_v2_1.py` | 2,618 |
 
 ### 🖥️ 內部設備控管清單
 
 | 檔案名稱 | 說明 | 現行有效筆數（約） |
 |---|---|---|
-| `g-IOT_Block-v1.txt` | 內部 IoT 設備（140.122.x.x）限制對外存取之 IP 清單 | ~706 |
-| `g-NetworkDevices_Block-v1.txt` | 內部網路設備（交換器、印表機等）對外 Web 服務封鎖清單 | ~108 |
-| `g-ServerFarm-sshblocklist-v1.txt` | 伺服器農場（140.122.59.x / 63.x / 64.x / 65.x）SSH 對外封鎖清單 | ~44 |
+| `g-IOT_Block-v1.txt` | 內部 IoT 設備（140.122.x.x）限制對外存取之 IP 清單 | 706 |
+| `g-NetworkDevices_Block-v1.txt` | 內部網路設備（交換器、印表機等）對外 Web 服務封鎖清單 | 108 |
+| `g-ServerFarm-sshblocklist-v1.txt` | 伺服器農場（140.122.59.x / 63.x / 64.x / 65.x）SSH 對外封鎖清單 | 44 |
 | `g-NTNU-SecurityBlock-MACAddress-v1` | 內部資安違規/特定管制設備之 MAC 位址封鎖清單 | 52 |
 
 ### ✅ 允許清單與服務維護（Allowlist / Whitelist / Exclude）
@@ -95,7 +95,8 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 ## ⚙️ 自動化腳本運作機制 (Python v4.5 & LongTerm v1.0.1)
 
 > **執行環境**：Kali Linux  
-> **排程方式**：Crontab（`Asia/Taipei` 時區，錯峰排程設計）
+> **排程方式**：Crontab（`Asia/Taipei` 時區，錯峰排程設計）  
+> **目標防火牆硬體**：FortiGate-3001F（支援 13.1萬～500萬筆 External IP Threat Feed，全庫目前總計約 3萬筆，容量裕度極高）
 
 ### 腳本功能對照表
 

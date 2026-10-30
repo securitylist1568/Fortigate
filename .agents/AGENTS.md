@@ -8,8 +8,8 @@
    - `d:\NTNU-DevOps\Gitbash\Fortigate\README.md`
 
 2. **內容真實性與一致性檢核 (Consistency Verification)**：
-   - `Fortigate/README.md` 必須 100% 正確對應 `Fortigate-Dev` 最新版腳本（如 `v4.3`）產出之清單名稱、實態有效筆數、標頭規範與運作邏輯。
-   - 嚴禁在發布庫 `Fortigate` 留下過時的腳本版本引用（如舊版 `v4.2`）或舊筆數快照。
+   - `Fortigate/README.md` 必須 100% 正確對應 `Fortigate-Dev` 最新版腳本（如 `v4.5` 與 `LongTerm v1.0.1`）產出之清單名稱、實態有效筆數、標頭規範與運作邏輯。
+   - 嚴禁在發布庫 `Fortigate` 留下過時的腳本版本引用（如舊版 `v4.2`、`v4.3` 或舊 `TTL=90d`）或舊筆數快照。
 
 3. **Git Push 遠端同步關卡 (Git Push Verification)**：
    - 說明文件更新後，必須執行 Git Push 並確認 `securitylist1568/Fortigate-Dev` 與 `securitylist1568/Fortigate` 的 GitHub 遠端 `origin/main` 均推送成功。
