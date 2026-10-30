@@ -184,6 +184,7 @@ proxy-ca002-ext2.a.ahrefs.com
 qatarexecutive.com.qa
 recyber.net
 scan-05j.shadowserver.io
+scan-45g.shadowserver.io
 scan-56.security.ipip.net
 scan-58.security.ipip.net
 scan-60-7.shadowserver.io
