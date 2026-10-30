@@ -18,6 +18,7 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
+121.149.216.162.bc.googleusercontent.com
 123-192-205-110.dynamic.kbronet.com.tw
 123.150.216.162.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
@@ -37,7 +38,9 @@
 227.150.216.162.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
 2d96f25f.customer.misaka.taipei
+39968751.grabercloud.com
 56.149.216.162.bc.googleusercontent.com
+83.149.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
 94.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
@@ -169,6 +172,7 @@ dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
+gcchristensen.us
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-178.4vendeta.com
