@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 121.149.216.162.bc.googleusercontent.com
 137.138.206.35.bc.googleusercontent.com
+143.58.210.35.bc.googleusercontent.com
 146.211.203.35.bc.googleusercontent.com
 158.210.203.35.bc.googleusercontent.com
 181.134.206.35.bc.googleusercontent.com
@@ -31,6 +32,7 @@
 81.150.216.162.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
+84.231.210.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes2eoo24.stretchoid.com
 azpdes9b6qfx.stretchoid.com
