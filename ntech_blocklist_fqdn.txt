@@ -18,14 +18,8 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 139.84.162.169.vultrusercontent.com
-143.58.210.35.bc.googleusercontent.com
-146.211.203.35.bc.googleusercontent.com
 172-232-32-15.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
-208.211.203.35.bc.googleusercontent.com
-50.98.210.35.bc.googleusercontent.com
-54.149.216.162.bc.googleusercontent.com
-84.231.210.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -40,7 +34,6 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 keralavisionisp-dynamic-170.150.118.103.keralavisionisp.com
 mfyabgec.musicpda.com
-no-mans-land.m247.com
 no-rdns-yet.veloxserv.net
 pc112.cses.ilc.edu.tw
 pinkytales.com
