@@ -1,5 +1,4 @@
 1-34-13-89.hinet-ip.hinet.net
-10.150.216.162.bc.googleusercontent.com
 111-240-141-19.dynamic-ip.hinet.net
 111-240-142-22.dynamic-ip.hinet.net
 111-240-145-91.dynamic-ip.hinet.net
@@ -23,24 +22,20 @@
 123.150.216.162.bc.googleusercontent.com
 153.150.216.162.bc.googleusercontent.com
 157.150.216.162.bc.googleusercontent.com
-172-104-100-28.ip.linodeusercontent.com
 172-233-89-133.ip.linodeusercontent.com
 175.134.111.136.bc.googleusercontent.com
 175.149.216.162.bc.googleusercontent.com
 185-45-195-15.hostsailor.com
 186.210.203.35.bc.googleusercontent.com
-198-12-85-85-host.colocrossing.com
 202.149.216.162.bc.googleusercontent.com
 21.210.203.35.bc.googleusercontent.com
 225.211.203.35.bc.googleusercontent.com
 227.150.216.162.bc.googleusercontent.com
 231.149.216.162.bc.googleusercontent.com
-2d96f25f.customer.misaka.taipei
 39968751.grabercloud.com
 56.149.216.162.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
 84.150.216.162.bc.googleusercontent.com
-94.211.203.35.bc.googleusercontent.com
 amz.unixwiz.net
 azpdes2eoo24.stretchoid.com
 azpdes9b6qfx.stretchoid.com
@@ -165,7 +160,6 @@ client.yota.ru
 cohogs.usienspire.com
 dal215.hawkhost.com
 de-r52bup.pfcloud.io
-dfrtyujn.ghbffh.gyh-tyui.globalfinancialplanner.info
 dns12.online.tj.cn
 dynamic-ip-adsl.viettel.vn
 festa04.jcatransporte.com.br
@@ -174,7 +168,6 @@ gcchristensen.us
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-40-178.4vendeta.com
-ip125.ip-200-181-82.infrawire.sh
 ip29.sudolio.io
 li1570-11.members.linode.com
 mfyabgec.musicpda.com
@@ -185,7 +178,6 @@ qatarexecutive.com.qa
 recyber.net
 scan-05j.shadowserver.io
 scan-45g.shadowserver.io
-scan-56.security.ipip.net
 scan-58.security.ipip.net
 scan-60-7.shadowserver.io
 scan-79-00.shadowserver.io
