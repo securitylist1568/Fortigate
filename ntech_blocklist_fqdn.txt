@@ -27,13 +27,11 @@
 185-45-195-15.hostsailor.com
 208.211.203.35.bc.googleusercontent.com
 214.60.210.35.bc.googleusercontent.com
-231.149.216.162.bc.googleusercontent.com
 39968751.grabercloud.com
 50.98.210.35.bc.googleusercontent.com
 54.149.216.162.bc.googleusercontent.com
 81.150.216.162.bc.googleusercontent.com
 83.149.216.162.bc.googleusercontent.com
-84.150.216.162.bc.googleusercontent.com
 84.231.210.35.bc.googleusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -48,9 +46,7 @@ fnumk.chinaredeagle.com
 gcchristensen.us
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
-ip-40-178.4vendeta.com
 ip29.sudolio.io
-li1570-11.members.linode.com
 mfyabgec.musicpda.com
 no-mans-land.m247.com
 pc112.cses.ilc.edu.tw
