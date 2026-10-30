@@ -183,8 +183,14 @@ pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 qatarexecutive.com.qa
 recyber.net
+scan-05j.shadowserver.io
 scan-56.security.ipip.net
 scan-58.security.ipip.net
+scan-79-00.shadowserver.io
+scan-83-1.shadowserver.io
+scan-89-2.shadowserver.io
+scan-90-5.shadowserver.io
+scan-93-5.shadowserver.io
 security.criminalip.com
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
