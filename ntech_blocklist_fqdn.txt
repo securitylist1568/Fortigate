@@ -17,8 +17,6 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-139-144-210-235.ip.linodeusercontent.com
-172-234-217-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
 amz.unixwiz.net
