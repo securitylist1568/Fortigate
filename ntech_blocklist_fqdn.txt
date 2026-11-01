@@ -20,10 +20,8 @@
 185-45-195-15.hostsailor.com
 50-116-24-56.ip.linodeusercontent.com
 amz.unixwiz.net
-b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 client.yota.ru
-crawler051.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
