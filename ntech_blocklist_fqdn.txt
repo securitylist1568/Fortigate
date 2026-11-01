@@ -20,6 +20,7 @@
 185-45-195-15.hostsailor.com
 23-92-21-115.ip.linodeusercontent.com
 amz.unixwiz.net
+b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
