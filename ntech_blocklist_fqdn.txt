@@ -23,6 +23,8 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 b9d155e9.mow.customer.misaka.io
 client.yota.ru
+crawler051.deepfield.net
+crawler131.deepfield.net
 crawler160.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -36,7 +38,6 @@ pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
-scan-60.security.ipip.net
 scan-93-1.shadowserver.io
 scan-98-5.shadowserver.io
 smtp1.telemach.net
