@@ -18,7 +18,6 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-23-92-21-115.ip.linodeusercontent.com
 amz.unixwiz.net
 b1b10ded.customer.misaka.ist
 b2.org.afilias-nst.org
