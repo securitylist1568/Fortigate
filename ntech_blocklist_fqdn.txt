@@ -32,6 +32,7 @@ htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
+pdcscan2.scanning.cybcube.com
 pdcscan7.scanning.cybcube.com
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
