@@ -37,5 +37,4 @@ recyber.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
 static.45.9.2.135.deluxhost.net
-unn-138-199-53-212.datapacket.com
 users219.vip.heteml.jp
