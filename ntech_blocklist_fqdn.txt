@@ -21,6 +21,7 @@
 adventure.yatano.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
+b9ead587.zrh.customer.misaka.io
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
@@ -29,7 +30,6 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
-li1992-217.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
