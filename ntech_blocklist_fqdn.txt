@@ -36,5 +36,4 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.45.9.2.135.deluxhost.net
 users219.vip.heteml.jp
