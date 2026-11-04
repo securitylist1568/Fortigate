@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 172-104-100-28.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
+238.26.71.192.static.edisglobal.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -29,11 +30,13 @@ fnumk.chinaredeagle.com
 hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip29.sudolio.io
+li1817-110.members.linode.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
 proxy-ca002-ext2.a.ahrefs.com
 recyber.net
+scan-56.security.ipip.net
 scan-58.security.ipip.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
