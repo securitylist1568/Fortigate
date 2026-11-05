@@ -20,6 +20,7 @@
 185-45-195-15.hostsailor.com
 194-195-253-86.ip.linodeusercontent.com
 2d83453c.mow.customer.misaka.io
+aa27e0dc.iad.customer.misaka.io
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
@@ -37,5 +38,4 @@ proxy-ca002-ext2.a.ahrefs.com
 recyber.net
 smtp1.telemach.net
 static-ip-250-192-65-202.rev.dyxnet.com
-static.199.85.8.144.hostname.com
 users219.vip.heteml.jp
