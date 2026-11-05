@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 18.104.160.45.rlnettelecom.com.br
 185-45-195-15.hostsailor.com
+194-195-253-86.ip.linodeusercontent.com
 2d83453c.mow.customer.misaka.io
 amz.unixwiz.net
 b2.org.afilias-nst.org
@@ -31,7 +32,6 @@ hn.kd.ny.adsl
 htb-h9b8tjwfph.htb-cloud.com
 ip-49-62.4vendeta.com
 ip29.sudolio.io
-kub002.idyschool.de.com
 mfyabgec.musicpda.com
 pc112.cses.ilc.edu.tw
 pinkytales.com
