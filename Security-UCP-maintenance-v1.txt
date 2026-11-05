@@ -74,3 +74,5 @@
 #140.122.64.151
 #140.122.64.95
 140.122.63.43
+# http://websecurity.itc.ntnu.edu.tw/VulScanSystem/
+140.122.66.124
