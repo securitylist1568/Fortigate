@@ -14,3 +14,7 @@
 3. **Git Push 遠端同步關卡 (Git Push Verification)**：
    - 說明文件更新後，必須執行 Git Push 並確認 `securitylist1568/Fortigate-Dev` 與 `securitylist1568/Fortigate` 的 GitHub 遠端 `origin/main` 均推送成功。
    - 必須執行 `git status` 確保顯示 `Your branch is up to date with 'origin/main'`。
+
+4. **所有 *.md 說明文件與 Ground Rules 同步審查 (All Markdown Documentation & Ground Rules Sync)**：
+   - 每次有任何維護清單主機異動（如 Security-UCP-maintenance-v1.txt 新增 IP）、清單筆數累積跨入新數量級（如 g-BLACK_IP_AutoLongTerm-v1.txt 破 5 萬筆）、或排程腳本輸出規則微調時，**必須即時檢閱並更新相關 *.md 說明文件**（包括 README.md、walkthrough.md 等），確保說明文件中所列之清單筆數快照、主機說明與範例標頭完全符合真實環境現況。
+   - 所有 AI Agent 在執行任務時，必須將「檢視並同步雙庫 *.md 文件與 Ground Rules」列為常態標準作業流程（SOP），嚴禁僅更新資料檔案而遺漏技術與管理說明文件。
