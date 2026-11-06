@@ -18,3 +18,6 @@
 4. **所有 *.md 說明文件與 Ground Rules 同步審查 (All Markdown Documentation & Ground Rules Sync)**：
    - 每次有任何維護清單主機異動（如 Security-UCP-maintenance-v1.txt 新增 IP）、清單筆數累積跨入新數量級（如 g-BLACK_IP_AutoLongTerm-v1.txt 破 5 萬筆）、或排程腳本輸出規則微調時，**必須即時檢閱並更新相關 *.md 說明文件**（包括 README.md、walkthrough.md 等），確保說明文件中所列之清單筆數快照、主機說明與範例標頭完全符合真實環境現況。
    - 所有 AI Agent 在執行任務時，必須將「檢視並同步雙庫 *.md 文件與 Ground Rules」列為常態標準作業流程（SOP），嚴禁僅更新資料檔案而遺漏技術與管理說明文件。
+
+5. **前臺清單定義檔同步規範 (Dashboard Feed Manifest Sync Rule)**：
+   - 當 `Fortigate` 儲存庫新增、刪除或更名任何 Feed 清單檔案時，**必須同步更新 `Fortigate-Dashboard`（[`securitylist1568/Fortigate-Dashboard`](https://github.com/securitylist1568/Fortigate-Dashboard)）內的 `src/lib/feeds.manifest.ts`**，確保高階主管動態報表前臺之清單盤點與分類統計 100% 完整對齊。
