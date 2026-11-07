@@ -20,8 +20,6 @@
 172-232-121-108.ip.linodeusercontent.com
 185-45-195-15.hostsailor.com
 194-195-122-95.ip.linodeusercontent.com
-50-116-23-150.ip.linodeusercontent.com
-60-249-14-121.hinet-ip.hinet.net
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
