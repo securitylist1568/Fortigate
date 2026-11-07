@@ -21,7 +21,10 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
+crawler007.deepfield.net
+crawler092.deepfield.net
 crawler137.deepfield.net
+crawler145.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 ec2-3-86-112-238.compute-1.amazonaws.com
