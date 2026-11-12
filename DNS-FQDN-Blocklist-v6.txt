@@ -189,7 +189,7 @@ ttsp.tv
 stroikms.ru
 officeupdate.gq
 cloud.diskfree.co
-##20260930黑名單FQDN_XXBegin
+##20261102黑名單FQDN_XXBegin
 www.citywidemci.com
 linenews.mypicture.info
 microsoft.com.appstore.dynamicdns.co.uk
@@ -302,9 +302,9 @@ settings.asia-taiwan.workers.dev
 eip.netask.workers.dev
 14733sss.icu
 tioenns.multiscreensite.com
-fdc.fdcsiss.icu
-teams.ps64n.icu
 xxx.2j3j.xyz
+teams.ps64n.icu
+fdc.fdcsiss.icu
 heellne.k2itl.top
 llieem.luns0.icu
 accesserdsc.com
@@ -329,7 +329,7 @@ www.kasaragodproperties.com
 dd.kmsccedn.com
 js.czbook.org
 analytics.czbook.org
-###20260930黑名單FQDN_XXEnd
+###20261102黑名單FQDN_XXEnd
 THEAV.XYZ
 91rb.com
 lusir9.com
