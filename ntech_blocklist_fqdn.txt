@@ -18,6 +18,7 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
+220-135-48-116.hinet-ip.hinet.net
 6.241.109.202.broad.xm.fj.dynamic.163data.com.cn
 amz.unixwiz.net
 b2.org.afilias-nst.org
