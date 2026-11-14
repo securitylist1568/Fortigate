@@ -18,13 +18,11 @@
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
 185-45-195-15.hostsailor.com
-248.26.71.192.static.edisglobal.com
 45.77.111.124.vultrusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 dal215.hawkhost.com
-db-mongodb-udee-e45a02aa.mongo.ondigitalocean.com
 dns12.online.tj.cn
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
