@@ -19,6 +19,7 @@
 111-240-93-35.dynamic-ip.hinet.net
 140-211-167-233-openstack.osuosl.org
 185-45-195-15.hostsailor.com
+74-50-113-81.static.hvvc.us
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
