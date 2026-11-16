@@ -4,7 +4,7 @@
 # TZ: Asia/Taipei
 # Jobs: ext_to_int_threat_unblocked, int_to_ext_flow_ioc, trojan_irc_top, cert_remote_top, dns_ptr_anomaly, ext_to_int_ssh_inflow
 # Note: main src = daily_topn_src(00:00~now) UNION incremental_union
-# Rules: public IPv4 only; exclude_cidrs=140.122.0.0/16; allowlist_ips=1.0.0.1,1.1.1.1,111.125.135.25,111.235.251.250,125.228.248.84,149.112.112.112,208.67.220.220,208.67.222.222,210.203.56.199,211.75.221.136,8.4.224.250,8.8.4.4,8.8.8.8,9.9.9.9; allowlist_cidrs=(none); allowlist_file=/home/kali/bin/ncloud/ncloud_allowlist.txt
+# Rules: public IPv4 only; exclude_cidrs=140.122.0.0/16; allowlist_ips=1.0.0.1,1.1.1.1,111.125.135.25,111.235.251.250,125.228.248.84,149.112.112.112,208.67.220.220,208.67.222.222,210.203.56.199,211.75.221.136,60.251.148.94,8.4.224.250,8.8.4.4,8.8.8.8,9.9.9.9; allowlist_cidrs=(none); allowlist_file=/home/kali/bin/ncloud/ncloud_allowlist.txt
 #
 1.0.140.65
 1.1.187.33
@@ -2409,7 +2409,6 @@
 60.208.176.50
 60.208.176.6
 60.208.179.11
-60.251.148.94
 61.162.222.32
 61.185.178.175
 61.186.8.113
