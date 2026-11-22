@@ -24,6 +24,7 @@ client.yota.ru
 crawler017.deepfield.net
 crawler052.deepfield.net
 crawler095.deepfield.net
+crawler112.deepfield.net
 crawler117.deepfield.net
 crawler129.deepfield.net
 crawler142.deepfield.net
