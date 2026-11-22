@@ -22,7 +22,6 @@ amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
 crawler015.deepfield.net
-crawler110.deepfield.net
 crawler148.deepfield.net
 crawler240.deepfield.net
 dal215.hawkhost.com
