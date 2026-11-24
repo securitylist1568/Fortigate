@@ -23,10 +23,7 @@
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler091.deepfield.net
 crawler131.deepfield.net
-crawler196.deepfield.net
-crawler216.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 e2e-dbaas-mongodb-y6fqm-5025341f.mongo.ondigitalocean.com
