@@ -17,13 +17,11 @@
 111-240-8-155.dynamic-ip.hinet.net
 111-240-85-167.dynamic-ip.hinet.net
 111-240-93-35.dynamic-ip.hinet.net
-1691639.cloudwaysapps.com
 185-45-195-15.hostsailor.com
 198.13.59.248.vultrusercontent.com
 amz.unixwiz.net
 b2.org.afilias-nst.org
 client.yota.ru
-crawler131.deepfield.net
 dal215.hawkhost.com
 dns12.online.tj.cn
 e2e-dbaas-mongodb-y6fqm-5025341f.mongo.ondigitalocean.com
