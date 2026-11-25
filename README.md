@@ -15,7 +15,7 @@
 | 儲存庫名稱 | 角色與定位 | 主要內容 | 對應 GitHub 位址 |
 |---|---|---|---|
 | **`Fortigate`** *(本儲存庫)* | FortiGate EDL 實體 Feed 發布庫 | 產出之純文字封鎖清單 (`ncloud_block_*.txt`、`g-BLACK_IP_AutoLongTerm-v1.txt` 等)、白名單 (`ncloud_allowlist.txt`)、手動剔除清單 (`longterm_exclude.txt`)、人工維護檔 | [`securitylist1568/Fortigate`](https://github.com/securitylist1568/Fortigate) |
-| **`Fortigate-Dev`** *(開發原始碼庫)* | 程式碼與自動化開發庫 | Python 主程式 (`v4.5`、`longterm v1.0.1`)、共用模組 (`ncloud_feed_utils.py`)、Job 設定檔、單元測試 (`tests/`)、驗證腳本 (`verify_v4_5.sh`、`verify_longterm_v1_0.sh`) | [`securitylist1568/Fortigate-Dev`](https://github.com/securitylist1568/Fortigate-Dev) |
+| **`Fortigate-Dev`** *(開發原始碼庫)* | 程式碼與自動化開發庫 | Python 主程式 (`v4.5`、`longterm v1.0.2`)、共用模組 (`ncloud_feed_utils.py`)、Job 設定檔、單元測試 (`tests/`)、驗證腳本 (`verify_v4_5.sh`、`verify_longterm_v1_0.sh`) | [`securitylist1568/Fortigate-Dev`](https://github.com/securitylist1568/Fortigate-Dev) |
 
 ---
 
@@ -27,7 +27,7 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
         ├─ EmailSys_fortigate_block_v2_1.py    ← 郵件系統封鎖 IP 產生器 (v2.1, 每 10 分鐘: 0-59/10)
         ├─ ncloud_fortigate_ntech_block_v2_1.py ← CERT 封鎖清單產生器 (v2.1, 每 10 分鐘: 2-59/10)
         ├─ ncloud_topn_feed_push_v4_5.py        ← TopN 威脅情資推送器 (v4.5, 每 10 分鐘: 5-59/10)
-        └─ ncloud_longterm_block_v1_0.py        ← 長期重複與 AbuseIPDB 永久黑名單產生器 (v1.0.1, 每 3 小時: 8 */3)
+        └─ ncloud_longterm_block_v1_0.py        ← 長期重複與 AbuseIPDB 永久黑名單產生器 (v1.0.2, 每 3 小時: 8 */3)
                 │
                 │  (Crontab 定期執行 + 狀態/台帳原子寫入 + Git Auto Push)
                 ▼
@@ -46,7 +46,7 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 | 檔案名稱 | 說明 | 來源腳本 | 現行有效筆數（約） |
 |---|---|---|---|
 | `g-BLACK_IP_Manual-v5.txt` | 手動維護之黑名單 IP，彙整各類惡意來源 | 人工維護 | 3,902 |
-| `g-BLACK_IP_AutoLongTerm-v1.txt` | 自動化長期黑名單 IP（過去 10 天跨 ≥3 個日曆日重複出現於 Ncloud 目標黑名單 **OR** 列名於 AbuseIPDB Blacklist，含 **30 天 TTL** 自動退場） | `ncloud_longterm_block_v1_0.py` (`v1.0.1`) | ~58,144（AbuseIPDB Blacklist ∪ Ncloud 10天跨≥3日累計） |
+| `g-BLACK_IP_AutoLongTerm-v1.txt` | 自動化長期黑名單 IP（過去 10 天跨 ≥3 個日曆日重複出現於 Ncloud 目標黑名單 **OR** 列名於 AbuseIPDB Blacklist，含 **30 天 TTL** 自動退場） | `ncloud_longterm_block_v1_0.py` (`v1.0.2`) | ~58,144（AbuseIPDB Blacklist ∪ Ncloud 10天跨≥3日累計） |
 | `ncloud_block_src_topn.txt` | 流量分析產生之每日 Top-N 威脅來源 IP（日歸零 + 10 分鐘增量累計） | `ncloud_topn_feed_push_v4_5.py` | ~2,289 |
 | `ncloud_block_src_trojan_irc.txt` | 連線至 Trojan / IRC C2 伺服器之惡意來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~523 |
 | `ncloud_block_src_cert_remote.txt` | 使用可疑憑證進行遠端連線之來源 IP | `ncloud_topn_feed_push_v4_5.py` | ~506 |
@@ -92,7 +92,7 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 
 ---
 
-## ⚙️ 自動化腳本運作機制 (Python v4.5 & LongTerm v1.0.1)
+## ⚙️ 自動化腳本運作機制 (Python v4.5 & LongTerm v1.0.2)
 
 > **執行環境**：Kali Linux  
 > **排程方式**：Crontab（`Asia/Taipei` 時區，錯峰排程設計）  
@@ -107,7 +107,7 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 | `ncloud_topn_feed_push_v4_5.py` | `5-59/10 * * * *` | 每日 00:00:00 自動歸零重算 + 每 10 分鐘增量更新；全面套用 `ncloud_allowlist.txt` 與 CIDR 過濾，分析 6 項流量威脅 Job | `ncloud_block_src_topn.txt`、`ncloud_block_src_trojan_irc.txt`、`ncloud_block_src_cert_remote.txt`、`ncloud_block_src_ext_ssh_in.txt`、`ncloud_block_src_dns_ptr_anom.txt`、`ncloud_block_dst_topn.txt` |
 | `ncloud_longterm_block_v1_0.py` (`v1.0.2`) | `8 */3 * * *` | 每 3 小時預設讀取由 `v4.5` 產出之 5 份 Top-N 來源攻擊清單聯集（10 天內跨 ≥3 個不同日曆日出現；支援 `NCLOUD_COND1_MODE=uri` 切回舊版）**OR** AbuseIPDB `GET /api/v2/blacklist`，具備獨立額度紀錄檔 (`abuseipdb_quota_v1.json`)、**30 天 TTL** 自動退場、`longterm_exclude.txt` 手動剔除與 `ncloud_allowlist.txt` 全域白名單保護 | `g-BLACK_IP_AutoLongTerm-v1.txt` |
 
-### `ncloud_longterm_block_v1_0.py` (`v1.0.1`) 關鍵環境變數與狀態檔
+### `ncloud_longterm_block_v1_0.py` (`v1.0.2`) 關鍵環境變數與狀態檔
 
 | 參數 / 檔案 | 預設值 | 說明 |
 |---|---|---|
@@ -170,9 +170,9 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 
 ---
 
-## 🆕 v4.5 與 LongTerm v1.0.1 現行版本重點特性
+## 🆕 v4.5 與 LongTerm v1.0.2 現行版本重點特性
 
-1. **`ncloud_longterm_block_v1_0.py` (`v1.0.1`) 長期黑名單雙條件 OR 聯防、額度台帳與 30 天 TTL 退場**：
+1. **`ncloud_longterm_block_v1_0.py` (`v1.0.2`) 長期黑名單雙條件 OR 聯防、額度台帳與 30 天 TTL 退場**：
    - **條件 1（Ncloud 跨日重複）**：每 3 小時抓取 `https://140.122.66.186/api/blacklists_target_forti/0?type=1&dev_ip=140.122.66.119`，過去 10 天內出現在 **≥ 3 個不同日曆日** 即納入（具備 `<500` 筆或暴跌 `>50%` 異常保護）。
    - **條件 2（AbuseIPDB Get IP Blacklist 與獨立額度台帳）**：整合 FortiSOAR AbuseIPDB v2.0.0 `#input-parameters-3` (`GET /api/v2/blacklist`)，針對免費版每日 5 次（`UTC 00:00` 重置）限制，建立獨立台帳 `state/abuseipdb_quota_v1.json`，於每次 HTTP 嘗試後立即原子寫入，強制把關 6 小時間隔、`ABUSE_MAX_CALLS_PER_DAY=4`、`X-RateLimit-Remaining`、`Retry-After` (`blocked_until`)、`confidence_fallback` 記憶與 `--dry-run` 零呼叫保證。
    - **狀態先存後推與觀測統計**：於 `git.commit_push()` 前先行儲存主狀態檔與追加 `logs/longterm_daily_stats.csv`，即使網路或 Git 推送重試失敗亦絕不遺失當輪資料或重打 API。
