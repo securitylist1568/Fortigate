@@ -105,7 +105,7 @@ Kali Linux (自動化腳本 repo: Fortigate-Dev)
 | `EmailSys_fortigate_block_v2_1.py` | `0-59/10 * * * *` | 分析郵件系統封鎖統計，產生 CIDR 格式封鎖清單 | `emailsys_block_ipset.txt`、`emailsys_block_fqdn.txt` |
 | `ncloud_fortigate_ntech_block_v2_1.py` | `2-59/10 * * * *` | 分析 CERT 情資產生封鎖清單（IP + FQDN） | `ntech_blocklist.txt`、`ntech_blocklist_fqdn.txt` |
 | `ncloud_topn_feed_push_v4_5.py` | `5-59/10 * * * *` | 每日 00:00:00 自動歸零重算 + 每 10 分鐘增量更新；全面套用 `ncloud_allowlist.txt` 與 CIDR 過濾，分析 6 項流量威脅 Job | `ncloud_block_src_topn.txt`、`ncloud_block_src_trojan_irc.txt`、`ncloud_block_src_cert_remote.txt`、`ncloud_block_src_ext_ssh_in.txt`、`ncloud_block_src_dns_ptr_anom.txt`、`ncloud_block_dst_topn.txt` |
-| `ncloud_longterm_block_v1_0.py` (`v1.0.1`) | `8 */3 * * *` | 每 3 小時輪詢 Ncloud 目標黑名單 URI（10 天內跨 ≥3 個不同日曆日出現）**OR** AbuseIPDB `GET /api/v2/blacklist`（FortiSOAR v2.0.0 `#input-parameters-3`），具備獨立額度台帳 (`abuseipdb_quota_v1.json`)、**30 天 TTL** 自動退場、`longterm_exclude.txt` 手動剔除與 `ncloud_allowlist.txt` 全域白名單保護 | `g-BLACK_IP_AutoLongTerm-v1.txt` |
+| `ncloud_longterm_block_v1_0.py` (`v1.0.2`) | `8 */3 * * *` | 每 3 小時預設讀取由 `v4.5` 產出之 5 份 Top-N 來源攻擊清單聯集（10 天內跨 ≥3 個不同日曆日出現；支援 `NCLOUD_COND1_MODE=uri` 切回舊版）**OR** AbuseIPDB `GET /api/v2/blacklist`，具備獨立額度紀錄檔 (`abuseipdb_quota_v1.json`)、**30 天 TTL** 自動退場、`longterm_exclude.txt` 手動剔除與 `ncloud_allowlist.txt` 全域白名單保護 | `g-BLACK_IP_AutoLongTerm-v1.txt` |
 
 ### `ncloud_longterm_block_v1_0.py` (`v1.0.1`) 關鍵環境變數與狀態檔
 
