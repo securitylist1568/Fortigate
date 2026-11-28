@@ -24,6 +24,7 @@ broadly.unique.platypus
 client.yota.ru
 dal215.hawkhost.com
 dns12.online.tj.cn
+ec2-3-133-145-209.us-east-2.compute.amazonaws.com
 festa04.jcatransporte.com.br
 fnumk.chinaredeagle.com
 hn.kd.ny.adsl
